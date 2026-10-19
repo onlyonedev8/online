@@ -4,6 +4,45 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Ronaldo suspended for 30 days and fined for walking out on Portugal camp</title>
+<link>https://abcnews.com/Sports/wireStory/ronaldo-suspended-30-days-fined-walking-portugal-camp-137395782</link>
+<guid isPermaLink="false">2940a95d8e2f97cf203e0191905b156ac9df10c9391c3d89c969ac693248479e</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 19 Oct 2026 22:24:51 +0000</pubDate>
+<description>Walking out on the Portugal camp has earned Cristiano Ronaldo a 30-day suspension and 255 euros fine from the national federation</description>
+<dc:creator></dc:creator>
+<content:encoded>Walking out on the Portugal camp has earned Cristiano Ronaldo a 30-day suspension and 255 euros fine from the national federation</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Sports/wirestory_bb5ad2495eb4b0e5e471e7d5667d7f22_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Sports/wirestory_bb5ad2495eb4b0e5e471e7d5667d7f22_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Teen on how he turned 3D printing idea into a profitable business</title>
+<link>https://abcnews.com/video/137392601</link>
+<guid isPermaLink="false">17686bcac344abfa0dea09105cdfc9f1e2129cdf57e18ebf1ef4e6eafcbc0ae3</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 19 Oct 2026 22:13:05 +0000</pubDate>
+<description>Just three months after graduating high school, Mike Satterlee began using his 3D printer to make hard-shell insulated drink koozies he calls "can coolers."</description>
+<dc:creator></dc:creator>
+<content:encoded>Just three months after graduating high school, Mike Satterlee began using his 3D printer to make hard-shell insulated drink koozies he calls "can coolers."</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Business/261019_abcnl_4p_mikesatterlee_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Business/261019_abcnl_4p_mikesatterlee_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>5 North Carolina police officers resign amid probe into alleged racist texts</title>
+<link>https://abcnews.com/US/5-north-carolina-police-officers-resign-amid-probe/story?id=137388332</link>
+<guid isPermaLink="false">b584a48dbaa9809d0bc1e656b9f5540ec846be97102bbe09eea6ea3d57454ee7</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 19 Oct 2026 21:45:00 +0000</pubDate>
+<description>Five police officers under investigation for allegedly sharing racist text messages resigned from the Charlotte-Mecklenburg Police Department, officials said.</description>
+<dc:creator></dc:creator>
+<content:encoded>Five police officers under investigation for allegedly sharing racist text messages resigned from the Charlotte-Mecklenburg Police Department, officials said.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/charlotte_1792104651260_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/charlotte_1792104651260_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Spain floods kill four as torrential rain inundates eastern regions</title>
 <link>https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions</link>
 <guid isPermaLink="false">cc9d8cd8dd0870da4ff099370b70b3d1bd05691573d108c3f86f2f7ddcfb520f</guid>
@@ -134,6 +173,19 @@
 <media:content url="https://s.france24.com/media/display/ab9d31f6-cbf2-11f1-ae41-4dd8ac2cf3bf/w:1024/p:16x9/capture-de2ac282.jpg" medium="image"/>
 </item>
 <item>
+<title>Japan launches mission to Mars to bring back samples from its moon</title>
+<link>https://news.sky.com/story/japan-launches-mission-to-mars-to-bring-back-samples-from-one-of-its-moons-13601139</link>
+<guid isPermaLink="false">11813bf0756be81da43acfc6748af90727f1beb4555d10d41b8151532e2d77b2</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Mon, 19 Oct 2026 20:04:00 +0000</pubDate>
+<description>Japan launched a spacecraft towards Mars in a ground-breaking mission to bring back samples from the largest of the planet's two moons.</description>
+<dc:creator></dc:creator>
+<content:encoded>Japan launched a spacecraft towards Mars in a ground-breaking mission to bring back samples from the largest of the planet's two moons.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-japan-space_7381131.jpg?20261019212508" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-japan-space_7381131.jpg?20261019212508" medium="image"/>
+</item>
+<item>
 <title>France faces reckoning with public order policing after violent protest weekend</title>
 <link>https://www.france24.com/en/france/20261019-france-faces-reckoning-public-order-policing-after-violent-protest-weekend</link>
 <guid isPermaLink="false">7b15274e5acbb0f1aaa9575b00bc9899c8b6f5dd11ce96d71e404e16fcb25047</guid>
@@ -225,19 +277,6 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-doj-openai_7376333.png?20261013220534" medium="image"/>
 </item>
 <item>
-<title>DOJ official clashes with judge in DC golf course case after Trump attacks her</title>
-<link>https://abcnews.com/Politics/trump-attacks-judge-rejected-dojs-push-disqualify-dc/story?id=137376088</link>
-<guid isPermaLink="false">8139e79ba642a19a7b1bdc993c7451257285157ed483836e9fe9e8a84bc19e07</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 19 Oct 2026 18:31:48 +0000</pubDate>
-<description>The government's tree removal justification centers on a 2019 landscape report.</description>
-<dc:creator></dc:creator>
-<content:encoded>The government's tree removal justification centers on a 2019 landscape report.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/trees-3-ap-gmh-261012_1791835297342_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/trees-3-ap-gmh-261012_1791835297342_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Is using cash for purchases becoming a thing of the past?</title>
 <link>https://abcnews.com/video/137380391</link>
 <guid isPermaLink="false">48be4e0a003db4fdf38c45ffc87c1280e63d739d9b22922c42ede4cdb6ea0c6a</guid>
@@ -262,19 +301,6 @@
 <content:encoded>Following a weekend of #violence and #looting, the French government has announced localised #curfews, financial support for affected businesses and a tougher judicial response, while keeping the option of a state of emergency on the table.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/fa82cfd2-cbda-11f1-9a50-638c1c1f5fd6/w:1024/p:16x9/couvrefeu-00-02-31-08-Still002.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/fa82cfd2-cbda-11f1-9a50-638c1c1f5fd6/w:1024/p:16x9/couvrefeu-00-02-31-08-Still002.jpg" medium="image"/>
-</item>
-<item>
-<title>Supreme Court rejects effort to revive Khalid Sheikh Mohammed plea deal</title>
-<link>https://abcnews.com/US/wireStory/supreme-court-rejects-effort-revive-khalid-sheikh-mohammed-137379605</link>
-<guid isPermaLink="false">22eba341422f488b491e69000e3f8b1a4aab3479709a89b7e3da60a9e1c5038e</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 19 Oct 2026 16:11:25 +0000</pubDate>
-<description>The Supreme Court has rejected an effort to revive a plea deal for Khalid Sheikh Mohammed, the accused mastermind of the September 11 attacks</description>
-<dc:creator></dc:creator>
-<content:encoded>The Supreme Court has rejected an effort to revive a plea deal for Khalid Sheikh Mohammed, the accused mastermind of the September 11 attacks</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/wirestory_824102b1eee6ced225e56d54ff230acb_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/wirestory_824102b1eee6ced225e56d54ff230acb_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>DZ Mafia murder trial set to begin near Marseille</title>
@@ -576,19 +602,6 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-wargame-defence-insider_7380344.jpg?20261019041342" medium="image"/>
 </item>
 <item>
-<title>Flight from Tel Aviv to Vienna makes emergency landing after bomb threat</title>
-<link>https://news.sky.com/story/flight-from-tel-aviv-to-vienna-makes-emergency-landing-after-bomb-threat-13600784</link>
-<guid isPermaLink="false">80272227575be473f13f1532c629d92e0ca5cfbf82f4645a2beb5397b865a3de</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Sun, 18 Oct 2026 19:45:00 +0000</pubDate>
-<description>A flight from Tel Aviv has made an emergency landing in Bulgaria after a bomb threat.</description>
-<dc:creator></dc:creator>
-<content:encoded>A flight from Tel Aviv has made an emergency landing in Bulgaria after a bomb threat.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-austrian-airlines_7380328.jpg?20261018232444" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-austrian-airlines_7380328.jpg?20261018232444" medium="image"/>
-</item>
-<item>
 <title>Midterm vote is about 'what's best for my family': Voters talk 2026 midterms</title>
 <link>https://abcnews.com/Politics/midterm-vote-whats-best-family-voters-talk-2026/story?id=137355210</link>
 <guid isPermaLink="false">405c855b6435d0d62948ef402f8acf63f36bd9e33c5d5ada72520dbfdf720756</guid>
@@ -769,18 +782,5 @@
 <content:encoded>Lori Bergamotto shares easy, last-minute DIY Halloween costume ideas inspired by the people and pop culture moments that made headlines this year.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/GMA/261015_gma_bergamotto6_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261015_gma_bergamotto6_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Aggressive great white shark seen off Southern California coast</title>
-<link>https://abcnews.com/video/137272588</link>
-<guid isPermaLink="false">9d7fd5a5e7d4debd1482e0d149fe8f8f1fb57bb9a237df7d9a33304fab7a808e</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 15 Oct 2026 09:07:48 +0000</pubDate>
-<description>Experts say the shark could be hunting for seals.</description>
-<dc:creator></dc:creator>
-<content:encoded>Experts say the shark could be hunting for seals.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/WNT/261014_wn_vo_shark_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/WNT/261014_wn_vo_shark_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 </channel></rss>
