@@ -4,6 +4,45 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody</title>
+<link>https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody</link>
+<guid isPermaLink="false">af50baf45e95a8bea17e68a02d017dbcbe11459b61b207a65a712ff9edf3ae16</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 19:49:17 +0000</pubDate>
+<description>A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”</description>
+<dc:creator>Paresh Dave</dc:creator>
+<content:encoded>A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/master/pass/open-ai-employee-court.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/master/pass/open-ai-employee-court.jpg" medium="image"/>
+</item>
+<item>
+<title>Startup taps underwater volcano as energy source in "proof point" test</title>
+<link>https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test</link>
+<guid isPermaLink="false">927bdaed3dae9909dfb825acceaeb2c0c407a002b990844836fc9693acd0aeb5</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 19:27:24 +0000</pubDate>
+<description>The world’s first demonstration of a subsea geothermal power plant has taken place near an active underwater volcano almost a mile below the ocean surface. It generated less than 10 seconds of net-positive electricity but showed the technical feasibility of tapping another form of renewable energy underwater. The three-week test deployment of the 3-ton prototype power plant took place at the Axial Seamount in the northeast Pacific Ocean in September. Endurance Energy, the Seattle-based startup behind the effort, aims to eventually commercialize subsea geothermal power for Pacific island nations and other customers looking for alternatives to importing expensive fossil fuels. “The deep ocean gives us unlimited cold seawater for cooling, and its weight keeps the system and the well pressurized, so our plants can be compact,” said Andrew Redd , founder and CEO of Endurance Energy, in an email to Ars. Read full article Comments</description>
+<dc:creator>Jeremy Hsu</dc:creator>
+<content:encoded>The world’s first demonstration of a subsea geothermal power plant has taken place near an active underwater volcano almost a mile below the ocean surface. It generated less than 10 seconds of net-positive electricity but showed the technical feasibility of tapping another form of renewable energy underwater. The three-week test deployment of the 3-ton prototype power plant took place at the Axial Seamount in the northeast Pacific Ocean in September. Endurance Energy, the Seattle-based startup behind the effort, aims to eventually commercialize subsea geothermal power for Pacific island nations and other customers looking for alternatives to importing expensive fossil fuels. “The deep ocean gives us unlimited cold seawater for cooling, and its weight keeps the system and the well pressurized, so our plants can be compact,” said Andrew Redd , founder and CEO of Endurance Energy, in an email to Ars. Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Endurance-Energy-rockhopper-drill-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Endurance-Energy-rockhopper-drill-1152x648.jpeg" medium="image"/>
+</item>
+<item>
+<title>Election Offices in at Least 32 States Have Received Suspicious Letters</title>
+<link>https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week</link>
+<guid isPermaLink="false">f9c342c5b4c7aee2134ff12df6ea5bb0128c079f610f2e4dde1b1338d211c36b</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 18:55:05 +0000</pubDate>
+<description>WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms.</description>
+<dc:creator>David Gilbert</dc:creator>
+<content:encoded>WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad6231e8983de0c230024ad/master/pass/GettyImages-1266839449.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad6231e8983de0c230024ad/master/pass/GettyImages-1266839449.jpg" medium="image"/>
+</item>
+<item>
 <title>Sony’s best noise-canceling earbuds are nearly $100 off today only</title>
 <link>https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only</link>
 <guid isPermaLink="false">e6e234bc172dfbe94dc691fb185ef5a8534250e161970a82b7baa95b529b9a8e</guid>
@@ -17,17 +56,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Sony-WF-1000XM6.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth</title>
-<link>https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon</link>
-<guid isPermaLink="false">350c69443cf0295d45160c9718fc244a8a8840f3be8a7a44262489b16c4ed5ae</guid>
-<source>Wired</source>
+<title>ReactOS reaches major milestone with NTFS install support</title>
+<link>https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support</link>
+<guid isPermaLink="false">c2bca7c549cc97fd81a3b6dbc5754445ee2ba4a9fd1227db479d17ec2c7ae35a</guid>
+<source>Ars Technica</source>
 <category>technology</category>
-<pubDate>Mon, 19 Oct 2026 18:45:06 +0000</pubDate>
-<description>JAXA is leading an international mission to reach Mars’ Phobos moon and bring soil back to Earth. If successful, it could unlock new clues about the history of the solar system.</description>
-<dc:creator>Jenna Ahart</dc:creator>
-<content:encoded>JAXA is leading an international mission to reach Mars’ Phobos moon and bring soil back to Earth. If successful, it could unlock new clues about the history of the solar system.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad0c058fa571af93e340368/master/pass/JAXA.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad0c058fa571af93e340368/master/pass/JAXA.jpg" medium="image"/>
+<pubDate>Mon, 19 Oct 2026 18:30:56 +0000</pubDate>
+<description>Open source Windows alternative ReactOS has reached a major milestone: The operating system can now be installed directly onto an NT Files System drive partition. As reported by Phoronix , the move to NTFS clears a long-standing hurdle for the project and brings it one step closer to finally reaching beta. Prior to this latest announcement, ReactOS required users to keep a FAT32 partition for installations. A proprietary Microsoft-developed filesystem, NTFS can trace its roots back through the Windows NT family lineage starting in 1993 with Windows NT 3.1. The variant introduced with Windows XP in 2001 remains the standard used by most Windows systems today. With ReactOS's stated goal of reaching binary compatibility with Windows Server 2003, being confined to FAT32 partitions was a practical barrier to clear on the way to reproducing the Windows environment. However, users looking to hop off the Windows train shouldn't be grabbing their bags just yet. ReactOS wrote that the new driver still "lacks caching (which causes inferior performance), journaling and security support." So while the new driver is here, even the most intrepid of OS tinkerers should tread carefully. The ReactOS team warned in its announcement on X that there are still "potentially undiscovered bugs." Read full article Comments</description>
+<dc:creator>Nick Indge</dc:creator>
+<content:encoded>Open source Windows alternative ReactOS has reached a major milestone: The operating system can now be installed directly onto an NT Files System drive partition. As reported by Phoronix , the move to NTFS clears a long-standing hurdle for the project and brings it one step closer to finally reaching beta. Prior to this latest announcement, ReactOS required users to keep a FAT32 partition for installations. A proprietary Microsoft-developed filesystem, NTFS can trace its roots back through the Windows NT family lineage starting in 1993 with Windows NT 3.1. The variant introduced with Windows XP in 2001 remains the standard used by most Windows systems today. With ReactOS's stated goal of reaching binary compatibility with Windows Server 2003, being confined to FAT32 partitions was a practical barrier to clear on the way to reproducing the Windows environment. However, users looking to hop off the Windows train shouldn't be grabbing their bags just yet. ReactOS wrote that the new driver still "lacks caching (which causes inferior performance), journaling and security support." So while the new driver is here, even the most intrepid of OS tinkerers should tread carefully. The ReactOS team warned in its announcement on X that there are still "potentially undiscovered bugs." Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties-500x500.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties-500x500.jpg" medium="image"/>
 </item>
 <item>
 <title>Here's how we would build out the perfect modular electric Slate truck</title>
@@ -121,6 +160,19 @@
 <media:content url="https://www.engadget.com/img/gallery/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/l-intro-1792429083.jpg" medium="image"/>
 </item>
 <item>
+<title>AI game clones are making indie developers afraid to show their work</title>
+<link>https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work</link>
+<guid isPermaLink="false">c2db526093572521f9f57ba08521fdda0b2aab5fc3d4620c7204830839b7ea56</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 16:59:22 +0000</pubDate>
+<description>Since its earliest days, the video game industry has been built on developers creating clones of competing games , with varying levels of originality and varying levels of enforcement from game platforms . Now, though, AI coding tools are making that cloning process so efficient that many developers are getting extremely cautious about sharing their early work too widely. Developer Alliance Arts highlighted this trend over the weekend, delaying the launch of a planned public demo for its demon-themed Russian Roulette drinking game Drunken Goddess Reflex , which had been set to go live with today's launch of Steam Next Fest . In a post on social media Friday evening , the Alliance Arts team wrote that, in addition to concerns about managing streaming restrictions, "we're concerned that the demo's content could be used to quickly imitate or replicate the game's presentation and gameplay with AI or other tools and that such works could be released before our launch." Read full article Comments</description>
+<dc:creator>Kyle Orland</dc:creator>
+<content:encoded>Since its earliest days, the video game industry has been built on developers creating clones of competing games , with varying levels of originality and varying levels of enforcement from game platforms . Now, though, AI coding tools are making that cloning process so efficient that many developers are getting extremely cautious about sharing their early work too widely. Developer Alliance Arts highlighted this trend over the weekend, delaying the launch of a planned public demo for its demon-themed Russian Roulette drinking game Drunken Goddess Reflex , which had been set to go live with today's launch of Steam Next Fest . In a post on social media Friday evening , the Alliance Arts team wrote that, in addition to concerns about managing streaming restrictions, "we're concerned that the demo's content could be used to quickly imitate or replicate the game's presentation and gameplay with AI or other tools and that such works could be released before our launch." Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>At what distance does a video doorbell stop detecting motion?</title>
 <link>https://www.engadget.com/2287906/video-doorbell-distance-stop-detecting-motion</link>
 <guid isPermaLink="false">a8f483c987a4c8f3426afacc079955f1e5a0cb0ed8df8f20b69e10c261833589</guid>
@@ -134,15 +186,15 @@
 <media:content url="https://www.engadget.com/img/gallery/at-what-distance-does-a-video-doorbell-stop-detecting-motion/l-intro-1792085683.jpg" medium="image"/>
 </item>
 <item>
-<title>Huge DMV data breach impacted current and former Florida residents</title>
+<title>Florida DMV hacked after police dept insecurely stored login info</title>
 <link>https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents</link>
 <guid isPermaLink="false">a0b606f2b2ac1fcff19117b73be3591f5d5aa9fd512f117d361bd68ce7a423e1</guid>
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 16:38:13 +0000</pubDate>
-<description>The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has begun notifying victims impacted by a recent data breach of driver’s license and motor vehicle data, but not everyone whose information was stolen will receive an alert. In a notice posted Friday, FLHSMV confirmed that it took “immediate steps” after discovering that “a malicious actor accessed certain department records on September 4, 2026, using compromised credentials.” There’s “no evidence” that data has yet been misused, the department said, but law enforcement “determined the information potentially affected includes driver license and motor vehicle data, to include document images, and other personal information.” FLHSMV is sending out letters to everyone affected, offering victims one year of credit monitoring from Sontiq, Inc. However, the state acknowledged that it may not have current contact information for many former Florida residents’ whose data was still being stored. Those potential victims can confirm if their data was stolen by emailing FLHSMV at customerinquiry@flhsmv.gov , officials said. Read full article Comments</description>
+<description>The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has begun notifying victims impacted by a recent data breach of driver’s license and motor vehicle data, but not everyone whose information was stolen will receive an alert. In a notice posted Friday, FLHSMV confirmed that it took “immediate steps” after discovering that “a malicious actor accessed certain department records on September 4, 2026, using compromised credentials.” There’s “no evidence” that data has yet been misused, the department said, but law enforcement “determined the information potentially affected includes driver license and motor vehicle data, to include document images, and other personal information.” FLHSMV is sending out letters to everyone affected, offering victims one year of credit monitoring from Sontiq, Inc. However, the state acknowledged that it may not have current contact information for many former Florida residents whose data was still being stored. Those potential victims can confirm if their data was stolen by emailing FLHSMV at customerinquiry@flhsmv.gov , officials said. Read full article Comments</description>
 <dc:creator>Ashley Belanger</dc:creator>
-<content:encoded>The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has begun notifying victims impacted by a recent data breach of driver’s license and motor vehicle data, but not everyone whose information was stolen will receive an alert. In a notice posted Friday, FLHSMV confirmed that it took “immediate steps” after discovering that “a malicious actor accessed certain department records on September 4, 2026, using compromised credentials.” There’s “no evidence” that data has yet been misused, the department said, but law enforcement “determined the information potentially affected includes driver license and motor vehicle data, to include document images, and other personal information.” FLHSMV is sending out letters to everyone affected, offering victims one year of credit monitoring from Sontiq, Inc. However, the state acknowledged that it may not have current contact information for many former Florida residents’ whose data was still being stored. Those potential victims can confirm if their data was stolen by emailing FLHSMV at customerinquiry@flhsmv.gov , officials said. Read full article Comments</content:encoded>
+<content:encoded>The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has begun notifying victims impacted by a recent data breach of driver’s license and motor vehicle data, but not everyone whose information was stolen will receive an alert. In a notice posted Friday, FLHSMV confirmed that it took “immediate steps” after discovering that “a malicious actor accessed certain department records on September 4, 2026, using compromised credentials.” There’s “no evidence” that data has yet been misused, the department said, but law enforcement “determined the information potentially affected includes driver license and motor vehicle data, to include document images, and other personal information.” FLHSMV is sending out letters to everyone affected, offering victims one year of credit monitoring from Sontiq, Inc. However, the state acknowledged that it may not have current contact information for many former Florida residents whose data was still being stored. Those potential victims can confirm if their data was stolen by emailing FLHSMV at customerinquiry@flhsmv.gov , officials said. Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1384284626-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1384284626-1152x648.jpg" medium="image"/>
 </item>
@@ -223,19 +275,6 @@
 <content:encoded>Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg . The big announcement is expected to be a new MacBook Pro with an OLED touchscreen that's also lighter and has an iPhone-like Dynamic Island. But Apple is also planning on revealing a 14-inch MacBook Pro and a new iMac with the M6 chip, which was recently introduced with the Mac Mini . Apple's updated iPad Mini will apparently finally get an OLED screen as well and put the selfie cam on the landscape edge. "Can't wait to p … Read the full story at The Verge.</content:encoded>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot</title>
-<link>https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot</link>
-<guid isPermaLink="false">48a8da46caf41a6218a4ab0f228526ea2bae423d29eea96ce4f5c3169cee22f5</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 16:00:00 +0000</pubDate>
-<description>Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.</description>
-<dc:creator>Matt Burgess</dc:creator>
-<content:encoded>Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/master/pass/GettyImages-2262950720.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/master/pass/GettyImages-2262950720.jpg" medium="image"/>
 </item>
 <item>
 <title>Why your USB device keeps disconnecting (and how to fix it)</title>
@@ -654,19 +693,6 @@
 <media:content url="https://media.wired.com/photos/6ac9144496a91d67fca310c1/master/pass/Xbox%20Disc.jpg" medium="image"/>
 </item>
 <item>
-<title>Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories</title>
-<link>https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories</link>
-<guid isPermaLink="false">cb821ddf24c674cbeef308f39642c0668070b7ba9d509f5679666ee80ee15ab0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 10:30:00 +0000</pubDate>
-<description>In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.</description>
-<dc:creator>David Gilbert</dc:creator>
-<content:encoded>In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg" medium="image"/>
-</item>
-<item>
 <title>Museum exhibit reveals the intricate workings of a knackered Dell</title>
 <link>https://www.theregister.com/offbeat/2026/10/19/museum-exhibit-reveals-the-intricate-workings-of-a-knackered-dell/5303250</link>
 <guid isPermaLink="false">afe20c9257846bcaa8f1f93f092d02aec889acc38774a728f65ae754590a3fa5</guid>
@@ -756,32 +782,6 @@
 <content:encoded>Microsoft has failed to win permission to appeal to the UK Supreme Court in the long-running legal spat with ValueLicensing after the Court of Appeal refused its application. The US megacorp was challenging a November 2025 ruling in ValueLicensing's favor that VL may resell pre-owned software licenses. That judgment was unambiguous, but Microsoft told The Register at the time that it would seek permission to appeal. That request was rejected last week in blunt terms. No reasons were given for the refusal, just the words "It is ordered that the application is refused." It isn't quite the end of the road. Microsoft could apply to the Supreme Court itself, but it would need to file within 28 days and show a compelling reason why the Court of Appeal was wrong to refuse its appeal. Things are looking dicey for Microsoft in the case that started in 2021 when ValueLicensing sued Microsoft for £270 million over claims that the Windows maker choked off the supply of surplus Office licenses. Microsoft denied any wrongdoing and Instead attempted to reframe the case as a copyright dispute. The UK's Competition Appeal Tribunal rejected Microsoft's arguments and a subsequent appeal. A recently published Consent Order adds to the pressure. It demands documents from past and present Microsoft bosses, including a potentially explosive internal deck titled "Second-Hand Software Presentation" (SHS). The contents of the file are unknown, but the Consent Order refers to it as a "Known Adverse Document." It dates back to 2013, a few years after Office 365 was launched. The order also asks why Microsoft waited until the end of 2025 to disclose the document’s existence, a few years after Office 365 launched. To add a little more spice, Alexander Wolfson is listed as an intervener on the appeal refusal. He is the proposed class representative in a separate claim filed on behalf of millions of UK customers seeking between £1.3 billion to £3.5 billion in compensation from Microsoft over its conduct regarding pre-owned licenses. ValueLicensing and Microsoft declined to comment on the latest development. Appeals aside, the next stage will be a Witness Statement from Microsoft explaining who knew what and when, followed by further disclosure. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5303768&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5303768&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It</title>
-<link>https://www.wired.com/review/insta360-luna-ultra-luna-pro</link>
-<guid isPermaLink="false">33384fdc8b71a7498076404ab162cd7a6117aca6017cd3621299ee0dea6f038f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
-<description>Insta360’s Luna Pro and Luna Ultra are the ideal cameras for solo filmmakers, content creators, and independent journalists.</description>
-<dc:creator>Scott Gilbertson</dc:creator>
-<content:encoded>Insta360’s Luna Pro and Luna Ultra are the ideal cameras for solo filmmakers, content creators, and independent journalists.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad51b17c6eb59d42f1b9d2a/master/pass/Insta360%20Luna%20Pro%20Ultra%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad51b17c6eb59d42f1b9d2a/master/pass/Insta360%20Luna%20Pro%20Ultra%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
-<title>Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card</title>
-<link>https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card</link>
-<guid isPermaLink="false">13e37eaea476c349c555f5e6c5413b9ac72c6820110189c93b5708ad3ffde3fe</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
-<description>The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.</description>
-<dc:creator>Maddy Varner</dc:creator>
-<content:encoded>The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg" medium="image"/>
 </item>
 <item>
 <title>AI’s epic cash call is matched only by its ability to strangle revenue streams</title>
@@ -1005,19 +1005,6 @@
 <media:content url="https://i.guim.co.uk/img/media/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/7_0_686_549/master/686.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8c4d7773e825c01195ce616e1832c3c" medium="image"/>
 </item>
 <item>
-<title>20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)</title>
-<link>https://www.wired.com/gallery/best-gifts-for-manly-men-2026</link>
-<guid isPermaLink="false">f558eaf2a82dcbb55e7823c5789da820819ff3583eb19cf5bdcc160a923fbc47</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 11:01:00 +0000</pubDate>
-<description>When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.</description>
-<dc:creator>Matthew Korfhage</dc:creator>
-<content:encoded>When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad2adfc85712117ad7fac60/master/pass/The%20Best%20Gifts%20for%20Men,%20Manly%20Men,%20and%20Menly%20Man%20Men%20top%20art%20SOURCE%20Amazon-Home%20Depot.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad2adfc85712117ad7fac60/master/pass/The%20Best%20Gifts%20for%20Men,%20Manly%20Men,%20and%20Menly%20Man%20Men%20top%20art%20SOURCE%20Amazon-Home%20Depot.jpg" medium="image"/>
-</item>
-<item>
 <title>The best toys and gifts for eight-year-olds, tested by eight-year-olds</title>
 <link>https://www.theguardian.com/thefilter/2026/oct/18/best-toys-gifts-for-eight-year-olds-uk</link>
 <guid isPermaLink="false">0e1e268ab66185f5dadd9e735dd10b923783dadcbcd038aa2610a1beda013d1b</guid>
@@ -1068,19 +1055,6 @@
 <content:encoded>Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decades The World Bank is urging developing countries to kickstart the creation of “small AI” models, which can run on a mobile phone with low connectivity, to reap the full benefits of artificial intelligence. While Silicon Valley big tech firms are focused on ever more sophisticated consumer products, Paschal Donohoe, the World Bank’s chief knowledge officer, said AI could also accelerate development for emerging economies – but only if it was adapted to local needs. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/eb8682cc7e3f9007f9509c961275a6fa6b472f92/446_0_3621_2896/master/3621.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=712999bf0afc4905c307124b98932f2e" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/eb8682cc7e3f9007f9509c961275a6fa6b472f92/446_0_3621_2896/master/3621.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=712999bf0afc4905c307124b98932f2e" medium="image"/>
-</item>
-<item>
-<title>Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK</title>
-<link>https://www.wired.com/review/valerion-visionmaster-max-4k-projector</link>
-<guid isPermaLink="false">99db1eb3cd6b58173ed09e22bfc617b0cd57cf41624f24d215c8be43587b1a20</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 10:00:00 +0000</pubDate>
-<description>The Valerion VisionMaster Max 4K Projector delivers superb blacks, great brightness, and more adjustment capabilities than many users need.</description>
-<dc:creator>Chris Haslam</dc:creator>
-<content:encoded>The Valerion VisionMaster Max 4K Projector delivers superb blacks, great brightness, and more adjustment capabilities than many users need.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" medium="image"/>
 </item>
 <item>
 <title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
@@ -1213,19 +1187,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>These 12 Automatic Cat Feeders Were the Best We Tested in 2026</title>
-<link>https://www.wired.com/gallery/best-automatic-cat-feeders</link>
-<guid isPermaLink="false">8350371bdf09cfae35b80ed13cba00b7b3057334417cf8f9bfb62bddb57ce695</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 11:02:00 +0000</pubDate>
-<description>We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad25ef4095147cf38919a3c/master/pass/Automatic%20Feeders%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad25ef4095147cf38919a3c/master/pass/Automatic%20Feeders%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline</title>
 <link>https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline</link>
 <guid isPermaLink="false">64644fa20b751ee49cb182c52b76b091c1324cf567bd9ae21f0278cbf315e1ce</guid>
@@ -1302,19 +1263,6 @@
 <content:encoded>Though plastic is usually inert, tiny pieces of it have the potential to react with one of the most pervasive molecules in the environment and in our bodies.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad106cafa571af93e3403ed/master/pass/1245245666" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad106cafa571af93e3403ed/master/pass/1245245666" medium="image"/>
-</item>
-<item>
-<title>Why AI Isn’t Ready to Tackle Our Convoluted Genomes</title>
-<link>https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes</link>
-<guid isPermaLink="false">b767546f449dada870ba4ce2550910ab4c54e113279b89ece1cb07aa96ca6415</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 09:00:00 +0000</pubDate>
-<description>The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.</description>
-<dc:creator>Philip Ball</dc:creator>
-<content:encoded>The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6acf63d6b06331734b2e70d7/master/pass/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acf63d6b06331734b2e70d7/master/pass/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg" medium="image"/>
 </item>
 <item>
 <title>Amazon wants you to Bee-lieve wearable AI can recall it all for you</title>
@@ -1551,32 +1499,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’</title>
-<link>https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly</link>
-<guid isPermaLink="false">1e662b76e44115f12d261a76bc287e0ebad52a2cb2187c8c83e04b214ddf27b4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 16:30:12 +0000</pubDate>
-<description>It turns out the Roadster 2 both sucks and blows.</description>
-<dc:creator>Jeremy White</dc:creator>
-<content:encoded>It turns out the Roadster 2 both sucks and blows.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad23cf9596e9f773d31db35/master/pass/Roadster_94.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad23cf9596e9f773d31db35/master/pass/Roadster_94.jpg" medium="image"/>
-</item>
-<item>
-<title>Razer Barracuda V2 Pro Review: A Gaming Headset for the Office</title>
-<link>https://www.wired.com/review/razer-barracuda-v2-pro</link>
-<guid isPermaLink="false">145adcfb9f59fa67c776e06ce71ae5a94fb12f2e55d60097d0b8b0a785fe7095</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
-<description>The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.</description>
-<dc:creator>Louryn Strampe</dc:creator>
-<content:encoded>The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad23b95526f09405ee8956f/master/pass/Razer%20Barracuda%20V2%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad23b95526f09405ee8956f/master/pass/Razer%20Barracuda%20V2%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>Ubuntu Stonking Stingray swims into spotlight with pre-release kernel</title>
 <link>https://www.theregister.com/os-platforms/2026/10/16/ubuntu-stonking-stingray-swims-into-spotlight-with-pre-release-kernel/5303580</link>
 <guid isPermaLink="false">2a70ab81c00170ebb26a9bc3ad9d1c3a9f44221a5cdf21a15b5fd0555ae39dd1</guid>
@@ -1720,19 +1642,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Roadster_87-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Super Scam Me documentary shows what it takes to catch a romance scammer</title>
-<link>https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain</link>
-<guid isPermaLink="false">a9bac7249b15a7a13d807a54ca395e4624b0e7b9911f2c9099df008096c307b5</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 14:00:59 +0000</pubDate>
-<description>If you got a DM from an unverified Jon Bon Jovi account after commenting on one of his official Instagram posts, what would it take to make you believe it was really the rock star hoping to connect? And at what point when he starts asking you to send money—like lose-your-house kind of money—would you snap out of the fantasy and stop draining your bank account? In a documentary premiering Saturday— Super Scam Me —investigative journalist Mariana van Zeller goes deep into this toxic love-bombing terrain. In a clip that Ars is exclusively debuting below, you can see how van Zeller worked with an ethical hacker, Arman the Cyber, to use a fake bitcoin receipt and bait the fake Bon Jovi, giving the victim some much-needed closure. Sneak peek at National Geographic's Super Scam Me . Scamming a romance scammer Broadcasting on National Geographic at 9 pm ET and available to stream on Disney+ and Hulu, the documentary takes viewers on an empathetic quest to understand how the line between “lover” and “fraud victim” gets blurred in romance scams that the Federal Trade Commission says cost Americans nearly $1.5 billion in losses each year. Read full article Comments</description>
-<dc:creator>Ashley Belanger</dc:creator>
-<content:encoded>If you got a DM from an unverified Jon Bon Jovi account after commenting on one of his official Instagram posts, what would it take to make you believe it was really the rock star hoping to connect? And at what point when he starts asking you to send money—like lose-your-house kind of money—would you snap out of the fantasy and stop draining your bank account? In a documentary premiering Saturday— Super Scam Me —investigative journalist Mariana van Zeller goes deep into this toxic love-bombing terrain. In a clip that Ars is exclusively debuting below, you can see how van Zeller worked with an ethical hacker, Arman the Cyber, to use a fake bitcoin receipt and bait the fake Bon Jovi, giving the victim some much-needed closure. Sneak peek at National Geographic's Super Scam Me . Scamming a romance scammer Broadcasting on National Geographic at 9 pm ET and available to stream on Disney+ and Hulu, the documentary takes viewers on an empathetic quest to understand how the line between “lover” and “fraud victim” gets blurred in romance scams that the Federal Trade Commission says cost Americans nearly $1.5 billion in losses each year. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/SuperScamMe_UHD_42-1152x597.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/SuperScamMe_UHD_42-1152x597.jpg" medium="image"/>
-</item>
-<item>
 <title>Attack on BAE-managed system disrupts US bankruptcy courts</title>
 <link>https://www.theregister.com/security/2026/10/16/attack-on-bae-managed-system-disrupts-us-bankruptcy-courts/5303487</link>
 <guid isPermaLink="false">b70967c96d0139319d19253275034600b777d378df9fb917020eda7d3590d433</guid>
@@ -1744,19 +1653,6 @@
 <content:encoded>The US' bankruptcy courts are currently down owing to what officials are calling a “cybersecurity incident.” The Administrative Office of the US Courts said the websites and systems that support the Bankruptcy Noticing Center (BNC), which manages electronic comms related to bankruptcy cases, were pulled offline while the vendor investigates. BAE Systems runs the affected systems and websites on behalf of the Federal Judiciary, and is “working to restore operations,” according to an announcement by the US Courts on Thursday. “As a result of the incident, all access to the BNC systems and websites that BAE operates on behalf of the judiciary and the related bankruptcy noticing process are unavailable at this time, including bnc.uscourts.gov, bankruptcynotices.uscourts.gov, notices.uscourts.gov, and the National Creditor Registration Service," it said. “The incident has also halted the BNC’s production and distribution of bankruptcy notices for bankruptcy courts.” While the public notice was published on Thursday, the issues affecting the BNC systems began a few days earlier, on October 9, according to the Bankruptcy Court of the Eastern District of Texas. Alongside its own announcement, the same court published a general order indicating that for any case filed on or after September 14 with an active motion to stay, that delay would be extended by an additional 30 days. The court said it will continue to accept filings, open cases, and process documents, but said there may be a delay in the entry and service of notices and orders until the issues are resolved. The courts' ability to process electronic and paper bankruptcy notices is affected, and it applies to federal bankruptcy courts across the country. A spokesperson at BAE told The Register: "BAE Systems, Inc. operates the Bankruptcy Noticing Center (BNC) on behalf of the Administrative Office of the U.S. Courts (AOUSC). We are aware of a security incident that is isolated to the BNC system and have taken immediate steps to address it. We are coordinating closely with AOUSC on the response." The disruption comes at a difficult time for the US public sector, which has struggled with multiple recent cyberattacks. ShinyHunters' attack on the FBI in September is doubtless the most high-profile of these, although the Arizona Judicial Branch confirmed an attack on the state’s court systems at around the same time. Officials said the “criminal hackers or their bots” were responsible for stealing personal data and backup court files. The US Courts also said in August 2025 that it was stepping up its cybersecurity measures in response to increased targeting of its case management system. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=257239&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=257239&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Microsoft Surface Laptop Ultra Review: The First Real AI PC</title>
-<link>https://www.wired.com/review/microsoft-surface-laptop-ultra</link>
-<guid isPermaLink="false">1650cf68be633a0d28c9ac79312f034eacd1c0921869cd5fcdd2fbac873602b1</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 13:00:00 +0000</pubDate>
-<description>The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life.</description>
-<dc:creator>Luke Larsen</dc:creator>
-<content:encoded>The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad13db2947d3d6c92ec6bb7/master/pass/Review%20Surface%20Laptop%20Ultra%20102026%20top%20art%20SOURCE%20BH%20Photo.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad13db2947d3d6c92ec6bb7/master/pass/Review%20Surface%20Laptop%20Ultra%20102026%20top%20art%20SOURCE%20BH%20Photo.jpg" medium="image"/>
 </item>
 <item>
 <title>British watchdog seeks tougher terms around Microsoft's dominance of business software</title>
@@ -1785,19 +1681,6 @@
 <media:content url="https://image.theregister.com/?imageId=5303468&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The Surface Laptop Ultra delivers on most of Microsoft's promises</title>
-<link>https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises</link>
-<guid isPermaLink="false">a418dd0153129b50f90275cb42187fd1afeec97620e4bc4404a20144aa6df8fb</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 12:00:05 +0000</pubDate>
-<description>Over the past week, the laptop Microsoft sent me has been summarizing books and movies, generating images from my imagination, and running a 70-billion-parameter AI model that would be a stretch to fit on most laptops. It also played AAA games at a speed and fidelity I would have thought impossible on an ARM system just a year ago. Microsoft wants to sell you one computer for all of your needs, and for once that doesn't feel like total marketing fluff. Mostly. Microsoft is throwing both arms around the new Nvidia RTX Spark platform with the Surface Laptop Ultra—and setting its sights on the would-be MacBook Pro buyer, or as the company called it, "a high performance audience." The bet is that rather than a gaming desktop for fun and a development laptop for work, buyers will pay more for one machine that does both. The Surface Laptop Ultra arrives at a strange time in personal computing. Recent industry numbers showed a 20 percent drop in total PC shipments year over year in the third quarter of 2026. That's not just consumer purchasing either—that's across the board. Between the RAMpocalypse that has exploded consumer prices and an industry fixated on enterprise money, there hasn't been much new hardware to excite PC enthusiasts. Read full article Comments</description>
-<dc:creator>Nick Indge</dc:creator>
-<content:encoded>Over the past week, the laptop Microsoft sent me has been summarizing books and movies, generating images from my imagination, and running a 70-billion-parameter AI model that would be a stretch to fit on most laptops. It also played AAA games at a speed and fidelity I would have thought impossible on an ARM system just a year ago. Microsoft wants to sell you one computer for all of your needs, and for once that doesn't feel like total marketing fluff. Mostly. Microsoft is throwing both arms around the new Nvidia RTX Spark platform with the Surface Laptop Ultra—and setting its sights on the would-be MacBook Pro buyer, or as the company called it, "a high performance audience." The bet is that rather than a gaming desktop for fun and a development laptop for work, buyers will pay more for one machine that does both. The Surface Laptop Ultra arrives at a strange time in personal computing. Recent industry numbers showed a 20 percent drop in total PC shipments year over year in the third quarter of 2026. That's not just consumer purchasing either—that's across the board. Between the RAMpocalypse that has exploded consumer prices and an industry fixated on enterprise money, there hasn't been much new hardware to excite PC enthusiasts. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Capita set to miss legal deadline on 93,000 civil servants' pension fixes, claims union</title>
 <link>https://www.theregister.com/public-sector/2026/10/16/capita-set-to-miss-legal-deadline-on-93000-civil-servants-pension-fixes-claims-union/5303500</link>
 <guid isPermaLink="false">041dc41fdeaa4a5531cb35890c99df8b9b4ade2919e00ab258e2d67ef69891a3</guid>
@@ -1822,19 +1705,6 @@
 <content:encoded>CAIS’ Wage Loss Dashboard puts AI-related job cuts into dollars and cents.</content:encoded>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/How-many-jobs-is-your-state-losing-to-AI-This-dashboard-tracks-the-cuts-and-the-cost.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/How-many-jobs-is-your-state-losing-to-AI-This-dashboard-tracks-the-cuts-and-the-cost.jpg" medium="image"/>
-</item>
-<item>
-<title>Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer</title>
-<link>https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer</link>
-<guid isPermaLink="false">7499b41fdf7fc003ff9b99df1997628f4dfeebc6729d196588fafb5067dbbb7c</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 11:00:53 +0000</pubDate>
-<description>Welcome to Edition 9.15 of the Rocket Report! The launch I'm most looking forward to in the next few weeks is that of Japan's Martian Moons Exploration (MMX) mission. MMX is one of the marquee space science missions launching this year, and it's set to leave Earth as soon as Monday (US time) aboard a Japanese H3 rocket. The spacecraft will visit Phobos and Deimos, the two asteroid-like moons of Mars, deploying a rover and collecting specimens for return to Earth in 2031. Exploration at its finest. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Reflect Orbital looks to India for launch capacity . California-based Reflect Orbital, the startup attempting to offer sunlight on-demand with in-space mirrors, announced the purchase of two launches Wednesday from Indian launcher Skyroot Aerospace, Payload Space reports . One of the launches will use Skyroot's Vikram-1 rocket, which became the first privately developed Indian rocket to reach orbit in July. The other will fly on an upgraded rocket called the Vikram-1U. Read full article Comments</description>
-<dc:creator>Stephen Clark</dc:creator>
-<content:encoded>Welcome to Edition 9.15 of the Rocket Report! The launch I'm most looking forward to in the next few weeks is that of Japan's Martian Moons Exploration (MMX) mission. MMX is one of the marquee space science missions launching this year, and it's set to leave Earth as soon as Monday (US time) aboard a Japanese H3 rocket. The spacecraft will visit Phobos and Deimos, the two asteroid-like moons of Mars, deploying a rover and collecting specimens for return to Earth in 2031. Exploration at its finest. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Reflect Orbital looks to India for launch capacity . California-based Reflect Orbital, the startup attempting to offer sunlight on-demand with in-space mirrors, announced the purchase of two launches Wednesday from Indian launcher Skyroot Aerospace, Payload Space reports . One of the launches will use Skyroot's Vikram-1 rocket, which became the first privately developed Indian rocket to reach orbit in July. The other will fly on an upgraded rocket called the Vikram-1U. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy</title>
@@ -1889,19 +1759,6 @@
 <media:content url="https://media.wired.com/photos/6ad1031a254a54edd86f4f5e/master/pass/Review%20Jabra%20Enhance%20Select%20M3%20102025%20top%20art%20SOURCE%20Jabra.jpg" medium="image"/>
 </item>
 <item>
-<title>The New Fan’s Guide to the Unreal World of Nathan Fielder</title>
-<link>https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder</link>
-<guid isPermaLink="false">cc3d0049be0ee3ed0c5cd64356f746f6dae62d4e4d7d77c148f1db0880f9c634</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 10:00:00 +0000</pubDate>
-<description>Surprised by the hype around yet another documentary on Theranos fraudster Elizabeth Holmes? It has everything to do with this experimental comedian.</description>
-<dc:creator>Miles Klee</dc:creator>
-<content:encoded>Surprised by the hype around yet another documentary on Theranos fraudster Elizabeth Holmes? It has everything to do with this experimental comedian.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad1230d3bea6f2be1ce448f/master/pass/NathanFielder_NF-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad1230d3bea6f2be1ce448f/master/pass/NathanFielder_NF-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Postgres 19 delayed after AI reviewers find more bugs than humans can fix</title>
 <link>https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471</link>
 <guid isPermaLink="false">711ff4437e8bd1782b490c45373c736bdda62389ef7f54875a69574e7d57e76c</guid>
@@ -1939,19 +1796,6 @@
 <content:encoded>PC; Origame Digital This odd but absorbing adventure sends you waddling across Antarctica in search of an eldritch entity – uncovering a world far stranger than it first appears A Nazi kneels down on frozen snow, staring at an endless Antarctic horizon. Another holds a gun to his head, ready to end his own life. I direct a small waddling penguin up to them, trying to imagine what it could be thinking. Dismay, perhaps. Likely bewilderment. But then a faint smile seems to break out across its beaky face, as if amused by these silly humans and their misguided belief that they could ever best this howling, harsh landscape. For most games, the idea of playing as a penguin observing Nazis losing the plot near the south pole would be weird enough. But Penguin Colony, developed by Origame Digital, pushes further. This is an audacious, frequently brilliant retelling of HP Lovecraft’s 1936 novella At the Mountains of Madness, in which eldritch horrors are just as common as Nazis. Further weirdness abounds: the many collectibles scattered about this place are not shiny gold objects à la Super Mario or Sonic. Rather, they are words. So tottering about as a semiaquatic bird, you have a unique mission: collect human language. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/a22ff356dab9c2094538405df58f27c9ef83c868/505_176_1088_870/master/1088.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fe9b84a78630d4de4dd227baa395e3ce" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/a22ff356dab9c2094538405df58f27c9ef83c868/505_176_1088_870/master/1088.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fe9b84a78630d4de4dd227baa395e3ce" medium="image"/>
-</item>
-<item>
-<title>Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat</title>
-<link>https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat</link>
-<guid isPermaLink="false">97d9f705abfe962fdc027d6c9b181aab08b2d8289006564a3e12512ca507c89c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
-<description>Scientists can’t agree why reefs in the Red Sea have long been immune to bleaching. The answer could be the key to saving these tough corals as climate change begins taking its toll.</description>
-<dc:creator>Eli Siegel-Bernstein</dc:creator>
-<content:encoded>Scientists can’t agree why reefs in the Red Sea have long been immune to bleaching. The answer could be the key to saving these tough corals as climate change begins taking its toll.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6acfd1d0b694762e88044dcf/master/pass/Reef_lead.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acfd1d0b694762e88044dcf/master/pass/Reef_lead.jpg" medium="image"/>
 </item>
 <item>
 <title>Open source sovereignty gets down to the boring business of making it work</title>
@@ -2019,19 +1863,6 @@
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
-<title>HP Coupon Codes and Deals October 2026</title>
-<link>https://www.wired.com/story/hp-coupon-code</link>
-<guid isPermaLink="false">ab048b1690ffbd1040e79d315bc85b27ae0a3171cd4d90b899e1507dff4da139</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.</description>
-<dc:creator>Luke Larsen</dc:creator>
-<content:encoded>Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
-</item>
-<item>
 <title>A Tesla Flying Car? I Don’t Know, Man</title>
 <link>https://www.wired.com/story/tesla-flying-car-faa</link>
 <guid isPermaLink="false">aa4cba8a64873f5ac4c04bea0355e5fed9f1e25a689c40213442f02a7e10cdf0</guid>
@@ -2043,32 +1874,6 @@
 <content:encoded>The Federal Aviation Administration will likely have thoughts about the Tesla Roadster 2’s ability to leave the ground.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad1d58314d5ead8303e0748/master/pass/2026-10-16T014239Z_1011196447_RC214OAAWK2R_RTRMADP_3_TESLA-ROADSTER.JPG" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1d58314d5ead8303e0748/master/pass/2026-10-16T014239Z_1011196447_RC214OAAWK2R_RTRMADP_3_TESLA-ROADSTER.JPG" medium="image"/>
-</item>
-<item>
-<title>The Tesla Roadster 2 Is Here—and It Flies</title>
-<link>https://www.wired.com/story/tesla-roadster-2-launch</link>
-<guid isPermaLink="false">1da7da4298bf77277549bcf4eb32f68ccf26c16fd066432ac6fb7bb45bf78ac0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 01:22:51 +0000</pubDate>
-<description>The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.</description>
-<dc:creator>Aarian Marshall</dc:creator>
-<content:encoded>The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad1d5e2a804ead0a674d698/master/pass/2026-10-16T014704Z_772485108_RC214OA3Y5KO_RTRMADP_3_TESLA-ROADSTER.JPG" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad1d5e2a804ead0a674d698/master/pass/2026-10-16T014704Z_772485108_RC214OA3Y5KO_RTRMADP_3_TESLA-ROADSTER.JPG" medium="image"/>
-</item>
-<item>
-<title>We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView</title>
-<link>https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview</link>
-<guid isPermaLink="false">05d28d7370b8f5f56d760ac9cd2e9f0fc52ab2d73f93e2995ffd1725f96d4b4c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 21:18:15 +0000</pubDate>
-<description>This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.</description>
-<dc:creator>Brian Barrett, Leah Feiger, Reece Rogers</dc:creator>
-<content:encoded>This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6acff05076c17d102a553f12/master/pass/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acff05076c17d102a553f12/master/pass/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg" medium="image"/>
 </item>
 <item>
 <title>AI Hacks Leave a Mess That AI Companies Aren’t Paying For</title>
@@ -2123,19 +1928,6 @@
 <media:content url="https://image.theregister.com/?imageId=257960&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Upgrade Your Thermostat for Winter With This Ecobee Deal for $120</title>
-<link>https://www.wired.com/story/ecobee-fall-sale-2026</link>
-<guid isPermaLink="false">22e16ae080b8e533e0cb185000e936433f56fe0422ada916e85aecef987461bc</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 19:00:49 +0000</pubDate>
-<description>You don’t need the fanciest model to make your heating routine smarter. A refurbished Ecobee we love is just $120 through October 21.</description>
-<dc:creator>Kat Merck</dc:creator>
-<content:encoded>You don’t need the fanciest model to make your heating routine smarter. A refurbished Ecobee we love is just $120 through October 21.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad12208409b08718ac6feae/master/pass/Ecobee3%20Lite%20top%20art%20SOURCE%20Ecobee.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad12208409b08718ac6feae/master/pass/Ecobee3%20Lite%20top%20art%20SOURCE%20Ecobee.jpg" medium="image"/>
-</item>
-<item>
 <title>$24,000 AI experiment ports TypeScript compiler to Rust</title>
 <link>https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409</link>
 <guid isPermaLink="false">848e69a85e1c0976ce41dc72cec4bc86f54b5c7a80907baf1afe3aaef4944067</guid>
@@ -2160,19 +1952,6 @@
 <content:encoded>Sure, running emulated Game Boy games at 30 fps with four shades of gray on an E Ink screen is cool, but you know what's cooler? A custom open source E Ink driver that could theoretically let any display do the same thing. YouTuber Bo Made It published a video last week demonstrating what he calls the InkBoy on a tiny ESP32-S3-powered e-paper board. It looks just about as good as the old-fashioned olive-green screen on the original Game Boy, which isn’t saying much, but it’s an impressive feat to make this work on a cheap stock e-paper screen. For those who haven’t owned an e-reader, E Ink displays are great at what they’re designed for. They can retain what's on the screen without continuously consuming energy by using electrical pulses to move charged pigment particles within individual pixels, enabling them to store the screen state physically. That makes e-paper devices very power efficient, but it comes with a huge trade off: Changing those pixels is a glacially slow process compared with the modern displays we're all accustomed to. The screen that Bo used to make his InkBoy, for example, has a refresh speed of around 300 milliseconds, which is actually on the faster end of e-paper displays - but only really practical for displaying static images. Standard black and white E Ink displays contain two types of pigments: Positively charged black ones, and negatively charged white pigments. Swapping between the two requires a series of brief electrical charges in a particular waveform pattern that gradually move the pixels from the front of the screen to the back, clearing out most of the pigment that shouldn’t be at the surface. The native driver in Bo’s Waveshare 1.54-inch ESP32-S3 e-paper display does just that, and it doesn’t leave a lot of room for displaying motion. In order to get around those limitations, Bo built his own driver for the display that shortened the waveform and enabled per-pixel driving to reduce image ghosting. More impressively, it enabled his ostensibly black and white screen to display four shades of grey, just like an original Game Boy. He was originally using dithering to create greyscale images, but it honestly looked horrible. Luckily Bo noticed something while trying to fix the issue of image ghosting. “I noticed the display was already producing grey - just accidentally,” he said in his video. “The pigment doesn’t instantly jump from black to white, so I wondered if I deliberately stop driving it partway through the transition, can I produce those grey levels on demand?” The answer was yes, and with some additional tweaking he was able to produce those grey levels at 30 frames per second - a vast improvement from the 3.33 frames per second available with the original driver. It’s an impressive accomplishment, but is it a first? Not quite, but it’s still a new way of approaching faster E Ink refresh times. As Bo explains, he got his idea from another YouTuber who built their own E Ink Game Boy, albeit with some entirely custom hardware that allowed them to bypass typical E Ink screen design to create their own faster display. What Bo did was code his own driver for stock hardware, making this an impressive accomplishment in its own right, and one enterprising user could theoretically reproduce on their own if desired. After a month of work, and with the admitted use of some vibe coding for the driver, Bo has published a working version of his driver on GitHub, but with a hefty warning: Not only can forcing custom waveforms and higher refresh rates on E Ink screens cause permanent damage, but long-term panel life wasn’t evaluated as part of his experiment, either. If you’re going to try this, in other words, do so at your own risk, and maybe not on your modded Kindle - buy a cheap E Ink screen to break instead. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=245728&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=245728&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM</title>
-<link>https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm</link>
-<guid isPermaLink="false">e69710e6ccd415a942fc33e087a6f65f2c1edecbc36977c7aaacae1097dd5d2e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 17:05:19 +0000</pubDate>
-<description>Trump’s newly installed press secretary tells WIRED that in the early 2010s, she promoted a product for a company then called Beachbody, which she described as “sort of a pyramid scheme.”</description>
-<dc:creator>Tess Owen, Tim Marchman</dc:creator>
-<content:encoded>Trump’s newly installed press secretary tells WIRED that in the early 2010s, she promoted a product for a company then called Beachbody, which she described as “sort of a pyramid scheme.”</content:encoded>
-<enclosure url="https://media.wired.com/photos/6acfbfe28180da3345611aef/master/pass/GettyImages-2299988078.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acfbfe28180da3345611aef/master/pass/GettyImages-2299988078.jpg" medium="image"/>
 </item>
 <item>
 <title>Smartphone shipments plummet as memory crisis pumps up prices</title>
@@ -2266,6 +2045,58 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/google-universal-cart.jpg" medium="image"/>
 </item>
 <item>
+<title>Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It</title>
+<link>https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop</link>
+<guid isPermaLink="false">14a2f02b4378a6425accf32359d4edf7f7ec1c5dcc73b222bbc39b594d8e9241</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
+<description>Low-quality AI-generated content currently dominates children’s media. Maka, a streaming platform run by child development experts, is offering an alternative.</description>
+<dc:creator>Jason Parham</dc:creator>
+<content:encoded>Low-quality AI-generated content currently dominates children’s media. Maka, a streaming platform run by child development experts, is offering an alternative.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6acfb4b1bca2b73e26f409dc/master/pass/Kids-Content-Deeply-Broken-Culture-Mockup_Gradient_Channels.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acfb4b1bca2b73e26f409dc/master/pass/Kids-Content-Deeply-Broken-Culture-Mockup_Gradient_Channels.jpg" medium="image"/>
+</item>
+<item>
+<title>Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy</title>
+<link>https://www.wired.com/story/democrats-are-gearing-up-to-investigate-the-trump-administration-it-wont-be-so-easy</link>
+<guid isPermaLink="false">e0c04169c391247f42d41d8be9ea954a6433f9a887667b844d93448d1968216d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 10:30:00 +0000</pubDate>
+<description>As a recent government report on DOGE shows, even getting basic information out of the Trump administration will put a new Congress to the test.</description>
+<dc:creator>Vittoria Elliott</dc:creator>
+<content:encoded>As a recent government report on DOGE shows, even getting basic information out of the Trump administration will put a new Congress to the test.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6acd9768fccc4c5244b9544c/master/pass/GettyImages-2247045310.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acd9768fccc4c5244b9544c/master/pass/GettyImages-2247045310.jpg" medium="image"/>
+</item>
+<item>
+<title>‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads</title>
+<link>https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads</link>
+<guid isPermaLink="false">3579928b08186f91db21e6cfe0e2d9b5bd68b53ef4d137ebbe44af2710524f43</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
+<description>Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.</description>
+<dc:creator>Matt Burgess, Lily Hay Newman</dc:creator>
+<content:encoded>Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6acfe05dd7a1c8d94ba22a02/master/pass/Security_SophisticatedZero-ClickSpywareFoundBeingDistr-ezgif.com-video-to-gif-converter.gif" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acfe05dd7a1c8d94ba22a02/master/pass/Security_SophisticatedZero-ClickSpywareFoundBeingDistr-ezgif.com-video-to-gif-converter.gif" medium="image"/>
+</item>
+<item>
+<title>Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission</title>
+<link>https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission</link>
+<guid isPermaLink="false">348f3bf52fa88f4376f1a45309e986e5a6098eb7594ee0cf410fc58694d6c8f5</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 09:15:00 +0000</pubDate>
+<description>Though scaled back from initial plans of landing, the voyage will serve as a dress rehearsal for when humans return to the moon’s surface.</description>
+<dc:creator>Jorge Garay</dc:creator>
+<content:encoded>Though scaled back from initial plans of landing, the voyage will serve as a dress rehearsal for when humans return to the moon’s surface.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ace784a3ccd7fa0977b8204/master/pass/WR-Nasa.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace784a3ccd7fa0977b8204/master/pass/WR-Nasa.jpg" medium="image"/>
+</item>
+<item>
 <title>From Mario to machine guns: how Ubisoft Paris made Tom Clancy’s Rainbow Six Tactics</title>
 <link>https://www.theguardian.com/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics</link>
 <guid isPermaLink="false">55ed57c413e22a93448878bf8d90c713a62f4cdbf3aa9e0ef7c9e6178cce7c5f</guid>
@@ -2277,6 +2108,58 @@
 <content:encoded>The studio is swapping the Mushroom Kingdom’s vivid palette for the blood-soaked grit of military action series Where do you go after Mario? It’s a question the team at Ubisoft Paris found itself pondering three years ago after wrapping up work on the charming turn-based tactics adventure, Mario + Rabbids: Sparks of Hope , sequel to its unexpected crossover hit, Mario + Rabbids: Kingdom Battle. By melding a rather specialist genre with video gaming’s biggest household name, the developer introduced chin-stroking strategic play to a whole new audience. “ Having the opportunity to work with the Mario franchise was a privilege, and it’s still something I’m very proud of,” says level designer director, Julien Vial. “I still remember seeing the first prototype and being blown away by all the possibilities . ” Now, Ubisoft Paris has returned with a new project, but this time the studio is swapping the Mushroom Kingdom’s vivid palette for the blood-soaked grit of military action series Rainbow Six. Where Mario and Rabbids saw squishy creatures bounce harmlessly across levels as Mario encased foes in honey, Rainbow Six Tactics, a turn-based tactical spin-off from Rainbow Six Siege , sees balaclava-clad insurgents take shrapnel rounds to the chest. A seamless tonal shift, then. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/462c25d94e20d6ab8bd20b2b675fa9c6bcdb57db/986_594_1957_1566/master/1957.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7b702d5ddadb069eb727131b63040dd" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/462c25d94e20d6ab8bd20b2b675fa9c6bcdb57db/986_594_1957_1566/master/1957.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7b702d5ddadb069eb727131b63040dd" medium="image"/>
+</item>
+<item>
+<title>Walmart Promo Codes: 20% Off for October 2026</title>
+<link>https://www.wired.com/story/top-walmart-promo-codes</link>
+<guid isPermaLink="false">8877d1d22e66923e9a743f2acfcad037e8660850f972881de723256107daf77c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
+<description>Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
+</item>
+<item>
+<title>Hotels.com Coupon Codes for October 2026</title>
+<link>https://www.wired.com/story/hotels-com-coupon</link>
+<guid isPermaLink="false">c8ad1699dbc8e556c04ff18ab0d8911c6b9d299d77428d841361301980f813a0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
+<description>Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
+</item>
+<item>
+<title>Lenovo Coupon Codes: 15% Off in October 2026</title>
+<link>https://www.wired.com/story/lenovo-coupon-code</link>
+<guid isPermaLink="false">14e7cdfe2afd61fc93971f233c6774e3d7d531d77427c824b9a1849d6b6363c4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.</description>
+<dc:creator>Luke Larsen</dc:creator>
+<content:encoded>Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
+</item>
+<item>
+<title>AI Came for Math. Now It’s Chasing the Rest of Science</title>
+<link>https://www.wired.com/story/ai-is-coming-for-science-next-watch-out</link>
+<guid isPermaLink="false">4634524ba4f8bd48dcaaf285bd880150589d87511b61cebc1d9a4eb71d67217b</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 18:15:00 +0000</pubDate>
+<description>AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.</description>
+<dc:creator>Will Knight</dc:creator>
+<content:encoded>AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ace87bed95d506835d511b4/master/pass/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace87bed95d506835d511b4/master/pass/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg" medium="image"/>
 </item>
 <item>
 <title>Ready player one? Why the games arcade is having a rebirth</title>
@@ -2316,6 +2199,123 @@
 <content:encoded>The kingdom of Hyrule has been prettified, the soundtrack is newly orchestrated and our hero feels strikingly different under the thumbs … we play a hands-on demo of Nintendo’s Switch 2 remake of a 1998 game-changer When beloved art is revisited and revised, a familiar cry is often heard: “You’re ruining my childhood!” But with Nintendo’s Switch 2 remake of Ocarina of Time, there are also livelihoods at risk: specifically, the man running the shooting gallery in Castle Town. In the original 1998 version of the game, he’d rip off players as they funnelled rupees and fudged the then still novel analogue-stick aiming. But in 2026 we have more responsive frame rates and a motion-controlled slingshot that allows precision adjustments. His targets tumble on the first go, and with them his entire business model. Even in Hyrule, the death of the high street seems inevitable. Bad news for him but great news for Link, a child of the forest who, as in 1998, steps into a vast fantasy kingdom to vanquish a great evil, but now does so with a number of improvements. The boy can now sprint, preventing the ignominy of endless roly-polies to zip across grassy plains. He has a manual jump, free-rotating camera, a scrolling inventory bar that replaces menu screen faff and, crucially, a fatter wallet for holding all those gems he fleeces from struggling shooting gallery owners. Yes, we are being asked to applaud features that have been the norm for decades elsewhere, but it’s undeniably striking to enter familiar territory with a hero who feels this different under the thumbs. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/c2a1544dfcc137112f74b2641d33f3025f183feb/595_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0fe695e22931b5c80675fc347647f66" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/c2a1544dfcc137112f74b2641d33f3025f183feb/595_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0fe695e22931b5c80675fc347647f66" medium="image"/>
+</item>
+<item>
+<title>Formlabs Has a 3D Printer for Normies</title>
+<link>https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies</link>
+<guid isPermaLink="false">490f426bfa30b5f62c7dcbd91bdd77944db71a102be47021bb086990fe81acf0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
+<description>The Form Studio 1 is a $699 desktop-sized printer that fits on a desk and only stinks a little bit.</description>
+<dc:creator>Boone Ashworth</dc:creator>
+<content:encoded>The Form Studio 1 is a $699 desktop-sized printer that fits on a desk and only stinks a little bit.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ace946f5ba8ef37cd443e51/master/pass/Formlabs-3D-Printer-Gear-Form-Studio-1%E2%80%93media-kit-003.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace946f5ba8ef37cd443e51/master/pass/Formlabs-3D-Printer-Gear-Form-Studio-1%E2%80%93media-kit-003.jpg" medium="image"/>
+</item>
+<item>
+<title>My Friend Has No Soul</title>
+<link>https://www.wired.com/story/my-friend-has-no-soul</link>
+<guid isPermaLink="false">5ea50dc1a5d4598b5e8b291ea4302a5d53ac22a0bd39310d1942df1cbc6ea93d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 11:00:00 +0000</pubDate>
+<description>The second iteration of the viral Friend AI necklace is louder and less interesting.</description>
+<dc:creator>Boone Ashworth</dc:creator>
+<content:encoded>The second iteration of the viral Friend AI necklace is louder and less interesting.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6acdf17fe71041f109e915b0/master/pass/E4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acdf17fe71041f109e915b0/master/pass/E4.jpg" medium="image"/>
+</item>
+<item>
+<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
+<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
+<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
+<dc:creator>Matthew Korfhage</dc:creator>
+<content:encoded>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
+</item>
+<item>
+<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
+<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
+<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
+<dc:creator>Noah Shachtman</dc:creator>
+<content:encoded>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>cool kids are writing in all lowercase now. does that make you mad?</title>
+<link>https://www.wired.com/story/the-case-for-lowercase</link>
+<guid isPermaLink="false">414bd040737017f247f4a5bbb37b94629751b2e667dececb948bb49d560d99cb</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+<description>a certain kind of person writes in all lowercase now. why?</description>
+<dc:creator>Tiffany Ng</dc:creator>
+<content:encoded>a certain kind of person writes in all lowercase now. why?</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" medium="image"/>
+</item>
+<item>
+<title>Nothing Headphone (1) Pro Review: Studio Quality</title>
+<link>https://www.wired.com/review/nothing-headphone-1-pro</link>
+<guid isPermaLink="false">56e49739865e48aaabaa0ea89d5276ef3eeae8b8b9d4f2b584183a950300e3df</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+<description>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</description>
+<dc:creator>Harry Rabinowitz</dc:creator>
+<content:encoded>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)</title>
+<link>https://www.wired.com/story/best-energy-drinks</link>
+<guid isPermaLink="false">b4ffba1daad4e4ccc8d0bdfe3e1797329a85ee1c2b1890aecb1fac1fbc62f88c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 09:36:00 +0000</pubDate>
+<description>The future is here, and it is jacked up on B vitamins, red dye, and taurine. These are the best energy drinks to get from tired to wired.</description>
+<dc:creator>Pete Cottell</dc:creator>
+<content:encoded>The future is here, and it is jacked up on B vitamins, red dye, and taurine. These are the best energy drinks to get from tired to wired.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ace47d9d672a344b2157934/master/pass/Update%20Best%20Energy%20Drinks%20102026%20top%20art%20SOURCE%20Costco.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace47d9d672a344b2157934/master/pass/Update%20Best%20Energy%20Drinks%20102026%20top%20art%20SOURCE%20Costco.jpg" medium="image"/>
+</item>
+<item>
+<title>Cat-Like Whiskers Help Tiny Drones Fly in the Dark</title>
+<link>https://www.wired.com/story/cat-like-whiskers-help-tiny-drones-fly-in-the-dark</link>
+<guid isPermaLink="false">4af3c5dc6c7492a1c8fe176d513cede925710f96064017f3c3abfd5c2837c8ae</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 09:15:00 +0000</pubDate>
+<description>Researchers took lessons from nocturnal animals to help rescue drones overcome a key challenge: flying in the dark.</description>
+<dc:creator>Ritsuko Kawai</dc:creator>
+<content:encoded>Researchers took lessons from nocturnal animals to help rescue drones overcome a key challenge: flying in the dark.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ace7f14e7efb271b8268bc8/master/pass/2026_Q3_Web_TUDelft_Drones_0182.jpeg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace7f14e7efb271b8268bc8/master/pass/2026_Q3_Web_TUDelft_Drones_0182.jpeg" medium="image"/>
+</item>
+<item>
+<title>Tesla’s Roadster 2 Is Late—and Entering a Different EV World</title>
+<link>https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world</link>
+<guid isPermaLink="false">dc36994a7859ff3e9a348b5ee843874b60df4185f1bdbf13e3a50f49f400694c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 09:15:00 +0000</pubDate>
+<description>Nine years after its reveal, the overdue Roadster is set to debut on Thursday to an EV market that has grown skeptical of electric hypercars.</description>
+<dc:creator>Aarian Marshall</dc:creator>
+<content:encoded>Nine years after its reveal, the overdue Roadster is set to debut on Thursday to an EV market that has grown skeptical of electric hypercars.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6aceb1911c96dec39a5cc07b/master/pass/Tesla-Roadster-Walkup-Gear-AP-551443509667.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aceb1911c96dec39a5cc07b/master/pass/Tesla-Roadster-Walkup-Gear-AP-551443509667.jpg" medium="image"/>
 </item>
 <item>
 <title>Linus Torvalds is using AI to develop Linux kernel code now</title>
