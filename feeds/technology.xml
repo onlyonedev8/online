@@ -4,19 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?</title>
-<link>https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood</link>
-<guid isPermaLink="false">ddc8df7497bff0bbaad2280beead16a96e6961af50d351b2a337bdfdab6a5510</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 06:00:18 +0000</pubDate>
-<description>As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line – or just around the corner ‘Don’t fear the dead – and don’t fear me.” An exact facsimile of a young Val Kilmer, not quite dead and not quite alive, utters that baiting line in the trailer for the new western As Deep as the Grave. Director Coerte Voorhees knows exactly what he is doing – this is an AI-created version of the late actor, approved by his family but bringing with it a heap of controversy about whether such technology could make flesh-and-blood thespians redundant. Not just yet, judging by the extended glimpse of the film released earlier this year : it looks like a thirtysomething Kilmer, if a robot version had been sent back to the 1920s American wilderness by Skynet and, as well as being strangely rigid, had forgotten to download his voice, let alone his signature air of spacey shrewdness. Kilmer’s estate signed off on it, citing his enthusiasm for new technology that expands storytelling, but surely he would have been dismayed by this freaky doppelganger. Continue reading...</description>
-<dc:creator>Phil Hoad</dc:creator>
-<content:encoded>As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line – or just around the corner ‘Don’t fear the dead – and don’t fear me.” An exact facsimile of a young Val Kilmer, not quite dead and not quite alive, utters that baiting line in the trailer for the new western As Deep as the Grave. Director Coerte Voorhees knows exactly what he is doing – this is an AI-created version of the late actor, approved by his family but bringing with it a heap of controversy about whether such technology could make flesh-and-blood thespians redundant. Not just yet, judging by the extended glimpse of the film released earlier this year : it looks like a thirtysomething Kilmer, if a robot version had been sent back to the 1920s American wilderness by Skynet and, as well as being strangely rigid, had forgotten to download his voice, let alone his signature air of spacey shrewdness. Kilmer’s estate signed off on it, citing his enthusiasm for new technology that expands storytelling, but surely he would have been dismayed by this freaky doppelganger. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b502b90b4b5d47c7f6c22fe568c9f21f" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b502b90b4b5d47c7f6c22fe568c9f21f" medium="image"/>
-</item>
-<item>
 <title>Googlebook review: Google’s new laptops are woefully underbaked</title>
 <link>https://www.theguardian.com/technology/2026/oct/20/googlebook-review-google-laptops-chromeos-android</link>
 <guid isPermaLink="false">629cb57439f662dcaa6e8cf4e48a8ab8bb559ef5c25915a27399ef02f177a1fa</guid>
@@ -28,6 +15,19 @@
 <content:encoded>Great hardware let down by software flaws on these pricey machines that combine ChromeOS with Android Google’s attempt to create a new type of laptop to compete with Windows and macOS machines is finally here, combining the best of ChromeOS and Android into the new Googlebook. With advanced links to Android phones and the best of Google built in, can these Googlebooks really compete with a MacBook Air or Surface Laptop? I took two for a spin to find out. For years, Chromebooks have been the boss of budget laptops, but Googlebooks take a different, far more premium approach. Made by a range of traditional PC makers, including Acer, Asus, Dell, HP and Lenovo, they start at £999 (€1,099/ $899 / A$2,299 ) – a far cry from the £160 Chromebooks. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/ee163d0f417072d3807edd7c97356a837cab552d/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcb38b8e398646ad5f379078c365a8af" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ee163d0f417072d3807edd7c97356a837cab552d/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcb38b8e398646ad5f379078c365a8af" medium="image"/>
+</item>
+<item>
+<title>Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?</title>
+<link>https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood</link>
+<guid isPermaLink="false">ddc8df7497bff0bbaad2280beead16a96e6961af50d351b2a337bdfdab6a5510</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 06:00:18 +0000</pubDate>
+<description>As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line – or just around the corner ‘Don’t fear the dead – and don’t fear me.” An exact facsimile of a young Val Kilmer, not quite dead and not quite alive, utters that baiting line in the trailer for the new western As Deep as the Grave. Director Coerte Voorhees knows exactly what he is doing – this is an AI-created version of the late actor, approved by his family but bringing with it a heap of controversy about whether such technology could make flesh-and-blood thespians redundant. Not just yet, judging by the extended glimpse of the film released earlier this year : it looks like a thirtysomething Kilmer, if a robot version had been sent back to the 1920s American wilderness by Skynet and, as well as being strangely rigid, had forgotten to download his voice, let alone his signature air of spacey shrewdness. Kilmer’s estate signed off on it, citing his enthusiasm for new technology that expands storytelling, but surely he would have been dismayed by this freaky doppelganger. Continue reading...</description>
+<dc:creator>Phil Hoad</dc:creator>
+<content:encoded>As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line – or just around the corner ‘Don’t fear the dead – and don’t fear me.” An exact facsimile of a young Val Kilmer, not quite dead and not quite alive, utters that baiting line in the trailer for the new western As Deep as the Grave. Director Coerte Voorhees knows exactly what he is doing – this is an AI-created version of the late actor, approved by his family but bringing with it a heap of controversy about whether such technology could make flesh-and-blood thespians redundant. Not just yet, judging by the extended glimpse of the film released earlier this year : it looks like a thirtysomething Kilmer, if a robot version had been sent back to the 1920s American wilderness by Skynet and, as well as being strangely rigid, had forgotten to download his voice, let alone his signature air of spacey shrewdness. Kilmer’s estate signed off on it, citing his enthusiasm for new technology that expands storytelling, but surely he would have been dismayed by this freaky doppelganger. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b502b90b4b5d47c7f6c22fe568c9f21f" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b502b90b4b5d47c7f6c22fe568c9f21f" medium="image"/>
 </item>
 <item>
 <title>Japan launches mission to bring home a piece of the Martian moon Phobos</title>
@@ -54,6 +54,19 @@
 <content:encoded>Sony last week revived its famed Walkman brand of portable music players, with a trio of updated products that feature Android 16, touch screens, eye-popping prices, and dubious assertions of audiophile appeal. The Japanese giant named the new models the NW-WM1ZM3, NW-WM1AM3 and NW-ZX900. All can store and play many codecs, including MP3s, WMA, and FLAC files, plus others like Direct Stream Digital (DSD) and Apple Lossless, which use various tricks to avoid nasty artefacts accruing during the digitization process. Sony also says it has used “key components made from oxygen-free copper” because that apparently delivers “uncompromising sound quality.” The machines also include “screws featuring a low-resistance gold-plated treatment … providing a stable ground connection that delivers powerful bass, an expansive soundstage and smooth, extended high frequencies.” Sony claims even the cabling it’s used in the devices “further reduces noise and preserves signal integrity for rich, detailed sound.” They’re also housed in carefully-milled slabs of copper – gold-plated in the case of the NW-WM1ZM3 – because that apparently improves sound, too. And then Sony’s gone and spoiled it all by offering Bluetooth connectivity, a notorious music-mangler, in addition to wired headphone ports. Sony’s US site lists all three devices, which run Android 16 and include Wi-Fi so they can access streaming music services. All are USB-chargeable and Sony claims their batteries allow 30-odd hours of music playback. The NW-ZX900 packs a five-inch touch screen and 64GB of onboard memory. It’s the baby of the range at just $1,900. The NW-WM1AM3 will set you back $3,000, which buys 128GB of memory and a 5.5-inch screen. The flagship NW-WM1ZM3 has the same size screen and includes 256GB of memory. It’s also a ‘Droid. Don’t bother trying to put these under a Christmas tree because Sony says it will ship them mid-January. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5304056&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5304056&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Don’t be fooled. The AI that was supposed to save us time is doing just the opposite | Gaby Hinsliff</title>
+<link>https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk</link>
+<guid isPermaLink="false">500a4518841bf1e3e616916e26f3e77d266123cc238b928e6e0e88c1606d788d</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:17 +0000</pubDate>
+<description>The government says it can transform the state with AI, but it is no match for the resulting stream of machine-generated slop. And we all pay the cost Another morning, another avalanche of emails. Even after a guilty cull, my inbox is sitting at well over 7,000, but lately I’ve started subscribing to the Quentin Crisp theory of housework: why bother, when after four years or so you stop noticing the accumulating dust? Empty inboxes just fill up again anyway. In theory, email was supposed to save hours of meetings, phone calls and standing over photocopiers. Instead, we just spend hours deleting stuff people wouldn’t have bothered telling us if it had meant picking up the phone, but which they can now spam to their entire database at the click of a button. The glorious ease and convenience of being able to reach the world in seconds came, we now know, with the inconvenience of them being able to reach you right back. Gaby Hinsliff is a Guardian columnist Continue reading...</description>
+<dc:creator>Gaby Hinsliff</dc:creator>
+<content:encoded>The government says it can transform the state with AI, but it is no match for the resulting stream of machine-generated slop. And we all pay the cost Another morning, another avalanche of emails. Even after a guilty cull, my inbox is sitting at well over 7,000, but lately I’ve started subscribing to the Quentin Crisp theory of housework: why bother, when after four years or so you stop noticing the accumulating dust? Empty inboxes just fill up again anyway. In theory, email was supposed to save hours of meetings, phone calls and standing over photocopiers. Instead, we just spend hours deleting stuff people wouldn’t have bothered telling us if it had meant picking up the phone, but which they can now spam to their entire database at the click of a button. The glorious ease and convenience of being able to reach the world in seconds came, we now know, with the inconvenience of them being able to reach you right back. Gaby Hinsliff is a Guardian columnist Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/55c4a8455eb4fa69029f5190872b3e993c3d18ed/1234_0_4623_3699/master/4623.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a63d1b8f42753fe7e8a78287686f2981" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/55c4a8455eb4fa69029f5190872b3e993c3d18ed/1234_0_4623_3699/master/4623.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a63d1b8f42753fe7e8a78287686f2981" medium="image"/>
 </item>
 <item>
 <title>Adorama Camera Coupon Codes &amp; Promo Codes: October 2026</title>
@@ -236,6 +249,19 @@
 <content:encoded>The bright spotlight’s focused beam improves the quality of video captured at night while scaring off unwanted visitors. | Image: Baseus Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across your property, so they know they've been detected. The targeted light also improves the quality of video captured in the dark to increase the chances of a subject being identified, and it can assist your family with after-hours activities like taking the dog out. The Baseus U2 Pr … Read the full story at The Verge.</content:encoded>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Is this the beginning of the end of the AI stock market boom?</title>
+<link>https://www.theguardian.com/business/2026/oct/20/ai-stock-market-boom-beginning-of-the-end-imf-wallstreet-nasdaq</link>
+<guid isPermaLink="false">08cbee451f7ad0d0bbfeba91dd55a77b27bbf6b9d4519b383b3e6394c88588d2</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 02:29:19 +0000</pubDate>
+<description>After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under way Get our breaking news email , free app or daily news podcast The world is holding its breath as it waits to find out whether this year’s estimated $US1tn investment in artificial intelligence is resting on a castle made of sand. Last week, the Nasdaq 100 – an index of the 100 biggest non-financial stocks on the American tech-heavy Nasdaq exchange – dropped by 5.5%, triggering the usual angst that the AI boom is about to go bust. Continue reading...</description>
+<dc:creator>Patrick Commins</dc:creator>
+<content:encoded>After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under way Get our breaking news email , free app or daily news podcast The world is holding its breath as it waits to find out whether this year’s estimated $US1tn investment in artificial intelligence is resting on a castle made of sand. Last week, the Nasdaq 100 – an index of the 100 biggest non-financial stocks on the American tech-heavy Nasdaq exchange – dropped by 5.5%, triggering the usual angst that the AI boom is about to go bust. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/ddfb561650f575c6123c0a9b57256c95a64a8ee8/182_0_3595_2877/master/3595.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c4764f63efb088bf478257710732774" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ddfb561650f575c6123c0a9b57256c95a64a8ee8/182_0_3595_2877/master/3595.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c4764f63efb088bf478257710732774" medium="image"/>
 </item>
 <item>
 <title>ICANN testing tech to let law enforcement access non-public WHOIS info</title>
@@ -985,9 +1011,9 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 13:46:52 +0000</pubDate>
-<description>A German court has issued an injunction banning SAP from providing certain features of its Signavio product, following a legal challenge from process mining biz Celonis. The ruling only applies to implementations in Germany, but is part of a broader legal tussle between the two companies over intellectual property. This case focuses on software which helps companies understand their own complex business processes in order to improve them and help prepare for an application migration. The Munich Regional Court ruled against SAP for infringing a Celonis patent covering the technology which determines the lead time between process stages of a process instance. The court also asked SAP to provide more information and offer financial statements about its alleged infringement. In a statement, an SAP spokesperson said: “The court’s ruling relates to one specific function within SAP Signavio Process Intelligence, not to the product as a whole. SAP Signavio Process Intelligence remains available to customers. S/4HANA Cloud migrations are not affected. SAP is working to ensure that there is no disruption to our customers.” SAP added: " SAP respectfully disagrees with the Munich court's ruling and has appealed the decision. SAP has separately challenged the validity of the asserted patent before the Federal Patent Court. In fact, the Munich court's decision represents only one of several ongoing disputes between SAP and Celonis, including patent actions brought by SAP in Germany and the United States. SAP’s first priority is ensuring that there is no disruption to our customers, and we will address all related matters through the appropriate legal channels." Celonis specializes in process mining, building software designed to gather data from people's interactions with business applications. It aims to uncover how organizations’ processes are actually performed, as opposed to how they were designed. For example, during a process mining project, pharma giant GSK discovered around 28,000 different variations for the process of running a sales order. Celonis was founded in 2011 and early customers included Siemens, with projects examining how processes run on the global engineering company’s SAP software. In 2021, SAP decided it wanted in on the same market and bought mining company Signavio, in part to help customers move from legacy software systems to the cloud. The ERP giant does not mandate Signavio for its migrations, but the software is bundled in packages under the moniker RISE with SAP, the lift-shift-and-transform commercial push SAP launched in 2021 to get users into the cloud and on its latest ERP offering, S/4HANA. The latest ruling is part of a set of legal disputes between Celonis and SAP. In March last year, Celonis filed a lawsuit in the US Court, Northern District of California, claiming the ERP giant had made it more difficult and expensive for third-party software companies to get hold of customer data stored in SAP's business software. Cel</description>
+<description>A German court has issued an injunction banning SAP from providing certain features of its Signavio product, following a legal challenge from process mining biz Celonis. The ruling only applies to implementations in Germany, but is part of a broader legal tussle between the two companies over intellectual property. This case focuses on software which helps companies understand their own complex business processes in order to improve them and help prepare for an application migration. The Munich Regional Court ruled against SAP for infringing a Celonis patent covering the technology which determines the lead time between process stages of a process instance. The court also asked SAP to provide more information and offer financial statements about its alleged infringement. In a statement, an SAP spokesperson said: “The court’s ruling relates to one specific function within SAP Signavio Process Intelligence, not to the product as a whole. SAP Signavio Process Intelligence remains available to customers. S/4HANA Cloud migrations are not affected. SAP is working to ensure that there is no disruption to our customers.” SAP added: " SAP respectfully disagrees with the Munich court's ruling and has appealed the decision. SAP has separately challenged the validity of the asserted patent before the Federal Patent Court. In fact, the Munich court's decision represents only one of several ongoing disputes between SAP and Celonis, including patent actions brought by SAP in Germany and the United States. SAP’s first priority is ensuring that there is no disruption to our customers, and we will address all related matters through the appropriate legal channels." A Celonis spokesperson told The Reg : “The Munich court’s decision validates our position, finding that SAP Sig navio technology infringes Celonis’ patent rights. We will always vigorously defend our proprietary technology and challenge unlawful efforts to stifle fair competition." It noted that SAP's parallel action nullity action against the patent in question had not yet been decided. Celonis specializes in process mining, building software designed to gather data from people's interactions with business applications. It aims to uncover how organizations’ processes are actually performed, as opposed to how they were designed. For example, during a process mining project, pharma giant GSK discovered around 28,000 different variations for the process of running a sales order. Celonis was founded in 2011 and early customers included Siemens, with projects examining how processes run on the global engineering company’s SAP software. In 2021, SAP decided it wanted in on the same market and bought mining company Signavio, in part to help customers move from legacy software systems to the cloud. The ERP giant does not mandate Signavio for its migrations, but the software is bundled in packages under the moniker RISE with SAP, the lift-shift-and-transform commercial push SAP launched in 2021 to get users int</description>
 <dc:creator>Lindsay Clark</dc:creator>
-<content:encoded>A German court has issued an injunction banning SAP from providing certain features of its Signavio product, following a legal challenge from process mining biz Celonis. The ruling only applies to implementations in Germany, but is part of a broader legal tussle between the two companies over intellectual property. This case focuses on software which helps companies understand their own complex business processes in order to improve them and help prepare for an application migration. The Munich Regional Court ruled against SAP for infringing a Celonis patent covering the technology which determines the lead time between process stages of a process instance. The court also asked SAP to provide more information and offer financial statements about its alleged infringement. In a statement, an SAP spokesperson said: “The court’s ruling relates to one specific function within SAP Signavio Process Intelligence, not to the product as a whole. SAP Signavio Process Intelligence remains available to customers. S/4HANA Cloud migrations are not affected. SAP is working to ensure that there is no disruption to our customers.” SAP added: " SAP respectfully disagrees with the Munich court's ruling and has appealed the decision. SAP has separately challenged the validity of the asserted patent before the Federal Patent Court. In fact, the Munich court's decision represents only one of several ongoing disputes between SAP and Celonis, including patent actions brought by SAP in Germany and the United States. SAP’s first priority is ensuring that there is no disruption to our customers, and we will address all related matters through the appropriate legal channels." Celonis specializes in process mining, building software designed to gather data from people's interactions with business applications. It aims to uncover how organizations’ processes are actually performed, as opposed to how they were designed. For example, during a process mining project, pharma giant GSK discovered around 28,000 different variations for the process of running a sales order. Celonis was founded in 2011 and early customers included Siemens, with projects examining how processes run on the global engineering company’s SAP software. In 2021, SAP decided it wanted in on the same market and bought mining company Signavio, in part to help customers move from legacy software systems to the cloud. The ERP giant does not mandate Signavio for its migrations, but the software is bundled in packages under the moniker RISE with SAP, the lift-shift-and-transform commercial push SAP launched in 2021 to get users into the cloud and on its latest ERP offering, S/4HANA. The latest ruling is part of a set of legal disputes between Celonis and SAP. In March last year, Celonis filed a lawsuit in the US Court, Northern District of California, claiming the ERP giant had made it more difficult and expensive for third-party software companies to get hold of customer data stored in SAP's business software. Celonis was later allowed to amend and refile its complaint after the US court dismissed most of the claims. A trial is set for September 2027. SAP has also launched a case alleging a patent infringement action against Celonis at a Düsseldorf, Germany, court . It also filed suit in October last year at the District Court of Delaware over four US patents. Celonis has launched other cases alleging infringement by SAP, including in a Texas federal district court . ®</content:encoded>
+<content:encoded>A German court has issued an injunction banning SAP from providing certain features of its Signavio product, following a legal challenge from process mining biz Celonis. The ruling only applies to implementations in Germany, but is part of a broader legal tussle between the two companies over intellectual property. This case focuses on software which helps companies understand their own complex business processes in order to improve them and help prepare for an application migration. The Munich Regional Court ruled against SAP for infringing a Celonis patent covering the technology which determines the lead time between process stages of a process instance. The court also asked SAP to provide more information and offer financial statements about its alleged infringement. In a statement, an SAP spokesperson said: “The court’s ruling relates to one specific function within SAP Signavio Process Intelligence, not to the product as a whole. SAP Signavio Process Intelligence remains available to customers. S/4HANA Cloud migrations are not affected. SAP is working to ensure that there is no disruption to our customers.” SAP added: " SAP respectfully disagrees with the Munich court's ruling and has appealed the decision. SAP has separately challenged the validity of the asserted patent before the Federal Patent Court. In fact, the Munich court's decision represents only one of several ongoing disputes between SAP and Celonis, including patent actions brought by SAP in Germany and the United States. SAP’s first priority is ensuring that there is no disruption to our customers, and we will address all related matters through the appropriate legal channels." A Celonis spokesperson told The Reg : “The Munich court’s decision validates our position, finding that SAP Sig navio technology infringes Celonis’ patent rights. We will always vigorously defend our proprietary technology and challenge unlawful efforts to stifle fair competition." It noted that SAP's parallel action nullity action against the patent in question had not yet been decided. Celonis specializes in process mining, building software designed to gather data from people's interactions with business applications. It aims to uncover how organizations’ processes are actually performed, as opposed to how they were designed. For example, during a process mining project, pharma giant GSK discovered around 28,000 different variations for the process of running a sales order. Celonis was founded in 2011 and early customers included Siemens, with projects examining how processes run on the global engineering company’s SAP software. In 2021, SAP decided it wanted in on the same market and bought mining company Signavio, in part to help customers move from legacy software systems to the cloud. The ERP giant does not mandate Signavio for its migrations, but the software is bundled in packages under the moniker RISE with SAP, the lift-shift-and-transform commercial push SAP launched in 2021 to get users into the cloud and on its latest ERP offering, S/4HANA. The latest ruling is part of a set of legal disputes between Celonis and SAP. In March last year, Celonis filed a lawsuit in the US Court, Northern District of California, claiming the ERP giant had made it more difficult and expensive for third-party software companies to get hold of customer data stored in SAP's business software. Celonis was later allowed to amend and refile its complaint after the US court dismissed most of the claims. A trial is set for September 2027. SAP has also launched a case alleging a patent infringement action against Celonis at a Düsseldorf, Germany, court . It also filed suit in October last year at the District Court of Delaware over four US patents. Celonis has launched other cases alleging infringement by SAP, including in a Texas federal district court . ® Updated on October 20 to add a quote from Celonis.</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=258630&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=258630&amp;width=800" medium="image"/>
 </item>
@@ -1200,19 +1226,6 @@
 <media:content url="https://i.guim.co.uk/img/media/1b5ce85190e6d89e4db3acb2c4d28f253a101ac3/500_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bde95d232e797e796d75d87a15f2141" medium="image"/>
 </item>
 <item>
-<title>The Story of Billy Evans and ‘Theranos 2.0’</title>
-<link>https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20</link>
-<guid isPermaLink="false">a9d78ebbb160d97177f182a9eeeb2ff6bb7aab05557bba6ac7badadd211a8248</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
-<description>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</description>
-<dc:creator>Christopher Hooks</dc:creator>
-<content:encoded>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" medium="image"/>
-</item>
-<item>
 <title>How Elizabeth Holmes Tricked WIRED—and Everyone Else</title>
 <link>https://www.wired.com/story/how-elizabeth-holmes-tricked-wired-and-everyone-else</link>
 <guid isPermaLink="false">11c144944d534372cee9a1b4074e5606797e33acae860e1e75fd14e52ec639fd</guid>
@@ -1224,6 +1237,19 @@
 <content:encoded>WIRED was the first magazine to cover Theranos and its enticing billionaire founder. There were warning signs even then.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg" medium="image"/>
+</item>
+<item>
+<title>The Story of Billy Evans and ‘Theranos 2.0’</title>
+<link>https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20</link>
+<guid isPermaLink="false">a9d78ebbb160d97177f182a9eeeb2ff6bb7aab05557bba6ac7badadd211a8248</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+<description>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</description>
+<dc:creator>Christopher Hooks</dc:creator>
+<content:encoded>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" medium="image"/>
 </item>
 <item>
 <title>15 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)</title>
@@ -1343,19 +1369,6 @@
 <media:content url="https://image.theregister.com/?imageId=262396&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots</title>
-<link>https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots</link>
-<guid isPermaLink="false">44cb238414efe1821124a6a8a88789d1ca45fb22d3c40367c08ccf758e97e7af</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 04:00:19 +0000</pubDate>
-<description>Backlash against content creators includes restricted hours for filming and even outright bans Stand in any vaguely photogenic spot these days on holiday and the chances are you will come across people posing with raised phones and even ring lights. Some may be influencers with huge audiences on social media, others just overkeen Instagram users. With hotels and beauty spots now so overrun, however, bans on photography are coming into place. The five-star Hotel du Cap-Eden-Roc in Antibes, known for its glamorous clientele, views of the Côte d’Azur and a stunning infinity pool, has brought in rules against photoshoots: no longer allowed without prior permission. Continue reading...</description>
-<dc:creator>Lauren Cochrane</dc:creator>
-<content:encoded>Backlash against content creators includes restricted hours for filming and even outright bans Stand in any vaguely photogenic spot these days on holiday and the chances are you will come across people posing with raised phones and even ring lights. Some may be influencers with huge audiences on social media, others just overkeen Instagram users. With hotels and beauty spots now so overrun, however, bans on photography are coming into place. The five-star Hotel du Cap-Eden-Roc in Antibes, known for its glamorous clientele, views of the Côte d’Azur and a stunning infinity pool, has brought in rules against photoshoots: no longer allowed without prior permission. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/a115ed145b828dcc148bd50e8765fea6f90fdc74/119_0_4630_3705/master/4630.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ae3e5178ddf21370917aeb7e507e305" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/a115ed145b828dcc148bd50e8765fea6f90fdc74/119_0_4630_3705/master/4630.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ae3e5178ddf21370917aeb7e507e305" medium="image"/>
-</item>
-<item>
 <title>ICANN vows to work faster, improve transparency</title>
 <link>https://www.theregister.com/networks/2026/10/19/icann-vows-to-work-faster-improve-transparency/5303751</link>
 <guid isPermaLink="false">76e460cef547e4388cca5635a016d43eb1879e8bc75d04b99ceb896497083c83</guid>
@@ -1421,30 +1434,17 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Wikipedia often gets taken for granted – but its history is fascinating, and its future is fragile</title>
-<link>https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat</link>
-<guid isPermaLink="false">427bd94667dcb0e2d7abbd04073b5ef204c8b9588875cb42cfeaaab12ab72a02</guid>
+<title>Microsoft pulls out of AI datacentre project in Essex over power supply concerns</title>
+<link>https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns</link>
+<guid isPermaLink="false">ebe8d70f2c63cccf14cb6e63b15eaf6deef693abddefdb0ad5de9d5077b7142e</guid>
 <source>The Guardian Technology</source>
 <category>technology</category>
-<pubDate>Sun, 18 Oct 2026 14:00:02 +0000</pubDate>
-<description>Wikipedia’s 68m articles have been consulted trillions of times. Not bad for a website that has barely changed since it was founded 20 years ago A few years ago, I was struck by the tension between how Wikipedia was used, and how it was talked about. Everyone was on it all the time, and yet its reputation had stalled at “don’t trust it”, because it was the “free encyclopedia that anyone can edit”. Clearly people were trusting it, so much so it had become part of the fabric of everyday life since it was founded by Jimmy Wales and Larry Sanger in 2001. But despite the fact it now has been consulted trillions of times by billions of people (English Wikipedia alone is 5.2bn words long), it inspires an odd lack of curiosity. Even people donating to Wikipedia might say the money was “for the factcheckers”, though there aren’t any – not paid ones, anyway. Meanwhile, the internet in the social media era had begun to feel like a much uglier place, and some digital nostalgia was setting in: here was this holdover that had somehow survived; a website that functions – and even looks – much the same as it did 20 years ago. Continue reading...</description>
-<dc:creator>Richard Cooke</dc:creator>
-<content:encoded>Wikipedia’s 68m articles have been consulted trillions of times. Not bad for a website that has barely changed since it was founded 20 years ago A few years ago, I was struck by the tension between how Wikipedia was used, and how it was talked about. Everyone was on it all the time, and yet its reputation had stalled at “don’t trust it”, because it was the “free encyclopedia that anyone can edit”. Clearly people were trusting it, so much so it had become part of the fabric of everyday life since it was founded by Jimmy Wales and Larry Sanger in 2001. But despite the fact it now has been consulted trillions of times by billions of people (English Wikipedia alone is 5.2bn words long), it inspires an odd lack of curiosity. Even people donating to Wikipedia might say the money was “for the factcheckers”, though there aren’t any – not paid ones, anyway. Meanwhile, the internet in the social media era had begun to feel like a much uglier place, and some digital nostalgia was setting in: here was this holdover that had somehow survived; a website that functions – and even looks – much the same as it did 20 years ago. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/145_0_2850_2279/master/2850.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b7e188fd4a63b15d1fb57990a915ad4" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/145_0_2850_2279/master/2850.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b7e188fd4a63b15d1fb57990a915ad4" medium="image"/>
-</item>
-<item>
-<title>What are self-replicating ‘AI worms’, and why is Anthropic worried about them?</title>
-<link>https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries</link>
-<guid isPermaLink="false">6719421a10a6f040bc98239c104280b02fcb66c1d1179d50f09da5c176e2ddf1</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 13:30:00 +0000</pubDate>
-<description>The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year Warnings about what artificial intelligence might do in the future – together with alarming reports of what it has gotten up to already – are being issued so quickly that even security experts have difficulty triaging what to worry about. Yet a report this week from Anthropic’s offensive research team grabbed attention by describing a new, practical threat, one devoid of human characteristics or apocalyptic musings. The red team, as such internal testers are called, said it created a malicious AI program that spread autonomously through internet-connected “smart” televisions and could do the same inside other ordinary devices. While machines running AI usually need a fair amount of computing power, the researchers said that their program split parts of itself among 15 televisions and was still able to function by using a bit of power from each. Continue reading...</description>
-<dc:creator>Joseph Menn in San Francisco</dc:creator>
-<content:encoded>The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year Warnings about what artificial intelligence might do in the future – together with alarming reports of what it has gotten up to already – are being issued so quickly that even security experts have difficulty triaging what to worry about. Yet a report this week from Anthropic’s offensive research team grabbed attention by describing a new, practical threat, one devoid of human characteristics or apocalyptic musings. The red team, as such internal testers are called, said it created a malicious AI program that spread autonomously through internet-connected “smart” televisions and could do the same inside other ordinary devices. While machines running AI usually need a fair amount of computing power, the researchers said that their program split parts of itself among 15 televisions and was still able to function by using a bit of power from each. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da1c47be63305de9e2c1558a4f679961" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da1c47be63305de9e2c1558a4f679961" medium="image"/>
+<pubDate>Sun, 18 Oct 2026 13:05:14 +0000</pubDate>
+<description>Development by UK firm Nscale heralded by ministers as largest of its kind in country loses anchor tenant The development of a huge AI datacentre hailed by the UK government has received a fresh setback after Microsoft pulled out of the project over concerns about power supplies. The development by the British company Nscale, heralded by ministers as the country’s largest AI datacentre when it was announced in 2025, was planned to open at Loughton in Essex next year. Continue reading...</description>
+<dc:creator>Gwyn Topham and Aisha Down</dc:creator>
+<content:encoded>Development by UK firm Nscale heralded by ministers as largest of its kind in country loses anchor tenant The development of a huge AI datacentre hailed by the UK government has received a fresh setback after Microsoft pulled out of the project over concerns about power supplies. The development by the British company Nscale, heralded by ministers as the country’s largest AI datacentre when it was announced in 2025, was planned to open at Loughton in Essex next year. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/7_0_686_549/master/686.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8c4d7773e825c01195ce616e1832c3c" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/7_0_686_549/master/686.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8c4d7773e825c01195ce616e1832c3c" medium="image"/>
 </item>
 <item>
 <title>20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)</title>
@@ -1525,19 +1525,6 @@
 <media:content url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" medium="image"/>
 </item>
 <item>
-<title>Climate Change Has It In for the World’s Best Surfing</title>
-<link>https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing</link>
-<guid isPermaLink="false">8c53bca09a49f3aa302dc02528a3d8d7f8b7ff05411516d1a0f59f62e912c676</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
-<description>As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.</description>
-<dc:creator>Damian Carrington</dc:creator>
-<content:encoded>As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" medium="image"/>
-</item>
-<item>
 <title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
 <link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
 <guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
@@ -1549,6 +1536,19 @@
 <content:encoded>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
+</item>
+<item>
+<title>Climate Change Has It In for the World’s Best Surfing</title>
+<link>https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing</link>
+<guid isPermaLink="false">8c53bca09a49f3aa302dc02528a3d8d7f8b7ff05411516d1a0f59f62e912c676</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+<description>As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.</description>
+<dc:creator>Damian Carrington</dc:creator>
+<content:encoded>As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" medium="image"/>
 </item>
 <item>
 <title>The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)</title>
@@ -1603,6 +1603,19 @@
 <media:content url="https://media.wired.com/photos/6ad14bcb1efa7811b4f5a5a5/master/pass/Kernel-Panic-Encription-Being-Squeezed-to-Death-Security.jpg" medium="image"/>
 </item>
 <item>
+<title>The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’</title>
+<link>https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism</link>
+<guid isPermaLink="false">4c6ee6feb9a349cf912dbe5d716ba0e14ee9bb510e407a6bd79c375944df0e87</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 11:33:20 +0000</pubDate>
+<description>Westminster appears to be waking up to warnings over AI safety, with concerns over its use by extremist groups and bad actors “I have this sense that, within a few months, AI is going to be all anyone is talking about,” said one cabinet minister, with an ominous stare. It was Labour conference, with everyone from ministers to activists jubilant at Andy Burnham’s takeover and a bounce in the polls after the change of leader. Continue reading...</description>
+<dc:creator>Rowena Mason and Dan Milmo</dc:creator>
+<content:encoded>Westminster appears to be waking up to warnings over AI safety, with concerns over its use by extremist groups and bad actors “I have this sense that, within a few months, AI is going to be all anyone is talking about,” said one cabinet minister, with an ominous stare. It was Labour conference, with everyone from ministers to activists jubilant at Andy Burnham’s takeover and a bounce in the polls after the change of leader. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/e0d13c6ce0b90597a109492537328402905b91ca/719_0_7202_5760/master/7202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d64ba44ae3d973bd86b09365f0e6969" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/e0d13c6ce0b90597a109492537328402905b91ca/719_0_7202_5760/master/7202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d64ba44ae3d973bd86b09365f0e6969" medium="image"/>
+</item>
+<item>
 <title>The Best LED Grow Lights for Houseplants This Winter (2026)</title>
 <link>https://www.wired.com/story/best-led-grow-lights</link>
 <guid isPermaLink="false">8aae8e1c228c239801196c8cb652dfdd591196d838f9577b3f510958c387ee3d</guid>
@@ -1655,19 +1668,6 @@
 <media:content url="https://media.wired.com/photos/6ad25ef4095147cf38919a3c/master/pass/Automatic%20Feeders%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline</title>
-<link>https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline</link>
-<guid isPermaLink="false">64644fa20b751ee49cb182c52b76b091c1324cf567bd9ae21f0278cbf315e1ce</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 11:00:30 +0000</pubDate>
-<description>How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonators It started with an entirely ordinary interaction on LinkedIn. Someone had tagged me in a post, saying how much they’d enjoyed contributing to a New York Post article I’d written about “chronoworking”. As the author of a book about circadian rhythms, it was exactly the sort of subject I might write about. Except I’d never heard of this person, let alone interviewed them. I clicked on the link and my stomach dropped. There, above an article about people who organise their working lives around their biological clocks, was my name: Linda Geddes. Continue reading...</description>
-<dc:creator>Linda Geddes</dc:creator>
-<content:encoded>How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonators It started with an entirely ordinary interaction on LinkedIn. Someone had tagged me in a post, saying how much they’d enjoyed contributing to a New York Post article I’d written about “chronoworking”. As the author of a book about circadian rhythms, it was exactly the sort of subject I might write about. Except I’d never heard of this person, let alone interviewed them. I clicked on the link and my stomach dropped. There, above an article about people who organise their working lives around their biological clocks, was my name: Linda Geddes. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/a426a8b6b459aed32bd6a8e431b13736369c3b21/676_119_6732_5385/master/6732.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a7f7ce92a8548d1f4911fd55981f00c8" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/a426a8b6b459aed32bd6a8e431b13736369c3b21/676_119_6732_5385/master/6732.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a7f7ce92a8548d1f4911fd55981f00c8" medium="image"/>
-</item>
-<item>
 <title>Why BioWare's Neverwinter Nights still has thousands of active players</title>
 <link>https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players</link>
 <guid isPermaLink="false">34a0d3cd41083e9989b9704fa654fcdfc99d5000166f1c15adbdcc3e51e0d235</guid>
@@ -1705,19 +1705,6 @@
 <content:encoded>Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn’t have to be.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad1f0ac654d391d88f8bd34/master/pass/Bitcoin%20Legacy.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1f0ac654d391d88f8bd34/master/pass/Bitcoin%20Legacy.jpg" medium="image"/>
-</item>
-<item>
-<title>‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes</title>
-<link>https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care</link>
-<guid isPermaLink="false">28df7871f5a7a9bb1a0e8bcef037b3c5d6c7714e7a952019b1e02c51d82a37b2</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 09:00:28 +0000</pubDate>
-<description>The entrepreneur turned fraudster is the subject of an Oscar-tipped new documentary that takes an unusual look at her strange legacy David Agus’s first encounter with Elizabeth Holmes at a health conference came as a shock. The Holmes he met in the green room was personable and pleasant. The Holmes he interviewed on stage was altogether different. “The accent changed: this deep voice, very serious,” Agus, a medical oncologist , recalls by phone from Los Angeles. “It was as if I had met a person and then interviewed a separate person. That transition from the green room to the stage – I had never experienced something like that before.” Continue reading...</description>
-<dc:creator>David Smith in Washington</dc:creator>
-<content:encoded>The entrepreneur turned fraudster is the subject of an Oscar-tipped new documentary that takes an unusual look at her strange legacy David Agus’s first encounter with Elizabeth Holmes at a health conference came as a shock. The Holmes he met in the green room was personable and pleasant. The Holmes he interviewed on stage was altogether different. “The accent changed: this deep voice, very serious,” Agus, a medical oncologist , recalls by phone from Los Angeles. “It was as if I had met a person and then interviewed a separate person. That transition from the green room to the stage – I had never experienced something like that before.” Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b3dfe0c191d3a31dd9f0fe861233569" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b3dfe0c191d3a31dd9f0fe861233569" medium="image"/>
 </item>
 <item>
 <title>Microplastics React With Water, a New Study Says. That’s a Problem for Biology</title>
@@ -2134,19 +2121,6 @@
 <content:encoded>CAIS’ Wage Loss Dashboard puts AI-related job cuts into dollars and cents.</content:encoded>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/How-many-jobs-is-your-state-losing-to-AI-This-dashboard-tracks-the-cuts-and-the-cost.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/How-many-jobs-is-your-state-losing-to-AI-This-dashboard-tracks-the-cuts-and-the-cost.jpg" medium="image"/>
-</item>
-<item>
-<title>AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy</title>
-<link>https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector</link>
-<guid isPermaLink="false">e4859b5d9686ba72baae7d8586a28a6bd8065505fee8101128e03f091fec692d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
-<description>A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.</description>
-<dc:creator>John Brandon</dc:creator>
-<content:encoded>A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft bringing Defender to Linux desktops. Repeat: Microsoft bringing Defender to Linux desktops</title>
