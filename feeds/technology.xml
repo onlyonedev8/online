@@ -4,6 +4,19 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How to stop audio from auto-playing on Android Auto</title>
+<link>https://www.engadget.com/2288195/how-to-stop-audio-automatically-play-android-auto</link>
+<guid isPermaLink="false">9e7e2c89a5a920bd53152f2e563e84661852adffd6343b5ceab4b9401936978d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 00:30:00 +0000</pubDate>
+<description>Although Android Auto's autoplay feature is intended to be a convenience, you may find yourself wanting to turn it off. Here's how.</description>
+<dc:creator>staff@engadget.com (Gabriela Vătu)</dc:creator>
+<content:encoded>Although Android Auto's autoplay feature is intended to be a convenience, you may find yourself wanting to turn it off. Here's how.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-stop-audio-from-auto-playing-on-android-auto/l-intro-1792093586.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-stop-audio-from-auto-playing-on-android-auto/l-intro-1792093586.jpg" medium="image"/>
+</item>
+<item>
 <title>What can you use the HDMI port on your Ugreen NAS for?</title>
 <link>https://www.engadget.com/2288161/ugreen-nas-hdmi-port-uses</link>
 <guid isPermaLink="false">251b5a65056c4068f8f1268e5dd0bc189bcb3440c0a1bbe2d98c6bb95fb4432a</guid>
@@ -834,19 +847,6 @@
 <content:encoded>Microsoft has reportedly pulled out of plans for Britain's largest AI supercomputer, because the government-backed project is facing the rather inconvenient problem of having no electricity to run it. The tech giant has terminated its agreement with British AI infrastructure startup Nscale for a planned datacenter in Loughton, Essex, according to The Telegraph, which first reported the withdrawal on Sunday. The decision follows reports that the site, which was supposed to begin operating in 2027, might not receive enough electricity from the grid until the early to mid-2030s. Microsoft was expected to be the anchor customer at Loughton, which Nscale had pitched as the UK's largest sovereign AI datacenter. Its departure leaves Nscale without a publicly announced customer for the site, although the neocloud insists the project is still going ahead. When the deal was announced in September 2025, the plan was to pack 23,040 Nvidia GB300 GPUs into a 50MW facility, with room to expand to 90MW. Microsoft would use the computing power for its Azure cloud services, with the first chips expected in early 2027. One important detail remained: how to power it. As The Guardian reported last month , UK Power Networks warned Nscale that the grid capacity needed might not be available until the 2030s. A UK Power Networks spokesperson told The Register it could not discuss individual connections due to obligations under Section 105 of the Utilities Act. "However, in general, many datacenters, whilst they can connect to our distribution network, are awaiting works on the national transmission network which we do not own," the spokesperson said. Nscale, meanwhile, isn't letting the small matter of losing its biggest customer dampen its enthusiasm. “We remain committed to both the Loughton project and the UK and we are exploring alternative power sources for the site, in addition to other expansion sites in the UK. Our relationship with Microsoft remains strong and long-term, and this unfortunate London-wide grid issue has no impact on our other contracts,” Nscale told The Register . Microsoft did not respond to a request for comment. The project has already had its share of awkward moments. In March, it was revealed that the site earmarked for Britain's AI supercomputer was still being used as a scaffolding yard. Nscale has since cleared the land, but removing the scaffolding has proved easier than securing electricity. The government might be feeling a little red-faced too, having trumpeted the Loughton project as part of Microsoft's £22 billion UK investment announcement in September 2025 . Just over a year later, Microsoft has walked away, and the site is still facing years of delays in getting the power it needs. The grid problems extend well beyond Essex. Ofgem proposed charging datacenter developers for connection requests earlier this year, hoping to discourage speculative projects from clogging up the queue. Demand for new connections had surged from 41GW to 125GW in less than a year, with datacenters accounting for at least 80GW. Some UK datacenter developers have turned to gas-powered generation rather than wait years for a grid connection, while others face growing resistance from the people living nearby. Residents near Google's Waltham Cross facility complained about noise, lighting and poor consultation at a public meeting in July. Britain isn’t alone in finding that the AI boom comes with substantial infrastructure demands. In the US, public enthusiasm for datacenters appears to be cooling, with concerns about electricity costs and environmental impacts increasingly souring attitudes towards new developments. For all the billions being thrown at AI infrastructure, the industry is discovering that building datacenters is the easy part. Getting them connected to the grid, and keeping the neighbors happy, is proving rather more difficult. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=240959&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=240959&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>What's the point of the 2.5G Ethernet port on your router?</title>
-<link>https://www.engadget.com/2287123/ethernet-2-5-g-port-router-what-it-does</link>
-<guid isPermaLink="false">c4605ed1964acce9b14569a737b1e1eddbd2bb964072219bb28c2e2e2e1ca79c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 12:15:00 +0000</pubDate>
-<description>Most routers have several 1 Gbps ports, but yours might have one or more 2.5 Gbps options that are great for speeding up compatible devices.</description>
-<dc:creator>staff@engadget.com (Anna Washenko)</dc:creator>
-<content:encoded>Most routers have several 1 Gbps ports, but yours might have one or more 2.5 Gbps options that are great for speeding up compatible devices.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/whats-the-point-of-the-2-5g-ethernet-port-on-your-router/l-intro-1792014156.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/whats-the-point-of-the-2-5g-ethernet-port-on-your-router/l-intro-1792014156.jpg" medium="image"/>
 </item>
 <item>
 <title>Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’</title>

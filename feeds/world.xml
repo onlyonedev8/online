@@ -4,6 +4,32 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>WATCH: David Muir reports on the beloved barn owls that have made Manhattan home</title>
+<link>https://abcnews.com/video/137396739</link>
+<guid isPermaLink="false">0a7c2b4e68b6203538109891995032123f12191c3a02b36ad726774fbb5cbc3f</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 00:39:26 +0000</pubDate>
+<description>An expert says it’s the first documented instance of barn owls nesting in Manhattan in modern history.</description>
+<dc:creator></dc:creator>
+<content:encoded>An expert says it’s the first documented instance of barn owls nesting in Manhattan in modern history.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/WNT/261019_wn_ender_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/WNT/261019_wn_ender_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Shawn Oliver pleads not guilty to OUI after suspending lieutenant governor campaign</title>
+<link>https://abcnews.com/International/wireStory/shawn-oliver-pleads-guilty-oui-charge-after-crash-137392161</link>
+<guid isPermaLink="false">e99eacbf9c2b84701ad6992a80009fd4f17284fd9a18414d6e71ec79d682e56b</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 00:21:57 +0000</pubDate>
+<description>Shawn Oliver has pleaded not guilty to charges of operating under the influence and other related offenses after suspending his campaign for lieutenant governor of Massachusetts</description>
+<dc:creator></dc:creator>
+<content:encoded>Shawn Oliver has pleaded not guilty to charges of operating under the influence and other related offenses after suspending his campaign for lieutenant governor of Massachusetts</content:encoded>
+<enclosure url="https://s.abcnews.com/images/International/wirestory_12d0cd82fc419703b661da807b1cfe3e_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/wirestory_12d0cd82fc419703b661da807b1cfe3e_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>DOJ charges 28 with unlawful voting, other election-related offenses in California</title>
 <link>https://abcnews.com/US/doj-charges-28-unlawful-voting-election-related-offenses/story?id=137384589</link>
 <guid isPermaLink="false">773682101be48f9f2d1bfdd90e426f5ee272b39a55313c6ba44628f27ef3c83b</guid>
@@ -119,19 +145,6 @@
 <content:encoded>Pro-Palestinian activist Mahmoud Khalil appeals to the U.S. Supreme Court, seeking to sue the government for allegedly violating his First Amendment rights.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/Politics/khalil-gty-er-261019_1792435597460_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Politics/khalil-gty-er-261019_1792435597460_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Shawn Oliver pleads not guilty to OUI charge after crash</title>
-<link>https://abcnews.com/International/wireStory/shawn-oliver-pleads-guilty-oui-charge-after-crash-137392161</link>
-<guid isPermaLink="false">e99eacbf9c2b84701ad6992a80009fd4f17284fd9a18414d6e71ec79d682e56b</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 19 Oct 2026 20:33:09 +0000</pubDate>
-<description>Shawn Oliver has pleaded not guilty to charges of operating under the influence and other related offenses after suspending his campaign for lieutenant governor of Massachusetts</description>
-<dc:creator></dc:creator>
-<content:encoded>Shawn Oliver has pleaded not guilty to charges of operating under the influence and other related offenses after suspending his campaign for lieutenant governor of Massachusetts</content:encoded>
-<enclosure url="https://s.abcnews.com/images/International/wirestory_12d0cd82fc419703b661da807b1cfe3e_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/wirestory_12d0cd82fc419703b661da807b1cfe3e_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Art crime detective Arthur Brand warns: 'All museums have been, and will be, victims of theft'</title>
@@ -769,18 +782,5 @@
 <content:encoded>ABC News’ Juju Chang reports on the growing trend of “boomerang kids” returning to live with their parents amid housing costs and financial concerns.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/GMA/261015_gma3_boomerang_children_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261015_gma3_boomerang_children_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: DIY Halloween costumes for this year’s viral trends</title>
-<link>https://abcnews.com/video/137285460</link>
-<guid isPermaLink="false">47ed13797ff1a3ae4d05daca5d3c22f3f0c83203f7550796b03f3766a0b6417f</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 15 Oct 2026 16:08:11 +0000</pubDate>
-<description>Lori Bergamotto shares easy, last-minute DIY Halloween costume ideas inspired by the people and pop culture moments that made headlines this year.</description>
-<dc:creator></dc:creator>
-<content:encoded>Lori Bergamotto shares easy, last-minute DIY Halloween costume ideas inspired by the people and pop culture moments that made headlines this year.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/GMA/261015_gma_bergamotto6_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/261015_gma_bergamotto6_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 </channel></rss>
