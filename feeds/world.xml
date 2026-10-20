@@ -4,6 +4,19 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Live: Curfews come into effect around France to combat looting</title>
+<link>https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting</link>
+<guid isPermaLink="false">05cd1ff675ea282c970172e72f6c54d24f35c02e0df6320e7262c90c5a68c05d</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 02:51:36 +0000</pubDate>
+<description>Curfews came into effect in cities across France, including Paris, Bordeaux, Nice and Lyon, as French police attempted to crack down on looting during protests. Prime Minister Sebastien Lecornu has said that implementing a state of emergency is not out of the question. Follow our liveblog for the latest updates.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>Curfews came into effect in cities across France, including Paris, Bordeaux, Nice and Lyon, as French police attempted to crack down on looting during protests. Prime Minister Sebastien Lecornu has said that implementing a state of emergency is not out of the question. Follow our liveblog for the latest updates.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/4ba3c65c-cc29-11f1-b901-638c1c1f5fd6/w:1024/p:16x9/000-D3RV38Z.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/4ba3c65c-cc29-11f1-b901-638c1c1f5fd6/w:1024/p:16x9/000-D3RV38Z.jpg" medium="image"/>
+</item>
+<item>
 <title>Rep. Adam Smith joins lawmakers who received letter with 'suspicious substance'</title>
 <link>https://abcnews.com/US/rep-adam-smith-joins-list-lawmakers-received-letter/story?id=137400114</link>
 <guid isPermaLink="false">a7e1ee0acf149b8303d07c695704c987238d4ef22fd202564ec1549d1e30d3f5</guid>
@@ -498,19 +511,6 @@
 <media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-trump-infantino_7318599.jpg?20260811033719" medium="image"/>
 </item>
 <item>
-<title>France protests draw global attention: Trump, Vance blame immigration for unrest</title>
-<link>https://www.france24.com/en/video/20261019-france-protests-draw-global-attention-trump-vance-blame-immigration-for-unrest</link>
-<guid isPermaLink="false">93b1e8eeacc186039a5711927480a26ffa679037de730acb20c7ab816e58962d</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 19 Oct 2026 14:04:26 +0000</pubDate>
-<description>US President Donald Trump on Sunday blamed immigration for unrest during protests in France and urged the country to tighten its migration rules. Trump's post comes after similar comments made by Vice President JD Vance on Saturday. Vance, who is seen as a potential presidential candidate in the 2028 election, also drew a connection to upcoming midterm races for congressional seats on November 3, where Republicans are not expected to perform well. FRANCE 24's Fraser Jackson reports from the United States.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>US President Donald Trump on Sunday blamed immigration for unrest during protests in France and urged the country to tighten its migration rules. Trump's post comes after similar comments made by Vice President JD Vance on Saturday. Vance, who is seen as a potential presidential candidate in the 2028 election, also drew a connection to upcoming midterm races for congressional seats on November 3, where Republicans are not expected to perform well. FRANCE 24's Fraser Jackson reports from the United States.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/a771db7e-cbbe-11f1-bfb3-d1d2c32ebb87/w:1024/p:16x9/EN-20261019-141412-141540-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/a771db7e-cbbe-11f1-bfb3-d1d2c32ebb87/w:1024/p:16x9/EN-20261019-141412-141540-CS.jpg" medium="image"/>
-</item>
-<item>
 <title>UN cuts food aid to half a million Gazans over funding shortages</title>
 <link>https://news.sky.com/story/un-cuts-food-aid-to-half-a-million-gazans-over-funding-shortages-13600991</link>
 <guid isPermaLink="false">a1259bc8fa5200e137225f212f6f0c5265f90ae96c36520d32cbb41cd0d9d0f8</guid>
@@ -639,19 +639,6 @@
 <content:encoded>On "This Week," Energy Secretary Chris Wright defended the president's decision to waive new sanctions and tariffs meant to pressure President Vladimir Putin.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261016_1792171828302_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/donald-trump-1-gty-gmh-261016_1792171828302_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'</title>
-<link>https://news.sky.com/story/trump-endorses-netanyahu-ahead-of-israeli-elections-calling-him-great-warrior-prime-minister-13600658</link>
-<guid isPermaLink="false">c7dc70234050085e6f8e7a672e877398b3e4715424bc690d8ed3638aa7ff8d59</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Sun, 18 Oct 2026 14:50:00 +0000</pubDate>
-<description>Donald Trump has endorsed Benjamin Netanyahu ahead of the Israeli elections later this month, calling him a "great warrior prime minister".</description>
-<dc:creator></dc:creator>
-<content:encoded>Donald Trump has endorsed Benjamin Netanyahu ahead of the Israeli elections later this month, calling him a "great warrior prime minister".</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-benjamin-netanyahu_7379982.jpg?20261018161627" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-benjamin-netanyahu_7379982.jpg?20261018161627" medium="image"/>
 </item>
 <item>
 <title>Dems lead GOP in House vote choice as Trump's approval rating hits record low: Poll</title>
