@@ -4,6 +4,123 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Google Cloud problems: regulators push for details about outage which caused widespread disruption – latest updates</title>
+<link>https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates</link>
+<guid isPermaLink="false">57a6c2dc796e4df00ea2bf9454d96359314dc623dfd02a92d2018b1dd8e76e51</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:49:12 +0000</pubDate>
+<description>Google apologises after suffering a major Cloud outage in its London region that caused problems at banks, Revolut, and court video cameras Google cloud failure hits millions as UK courts and banks knocked offline The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that employment rose in the last quarter. “This data has caught the market on the hop, with traders scrambling to respond and boost exposure to the pound. Good news has been a touch more prevalent for the UK of late, which is just the kind of framing the government needs heading into the budget, though signs of more resilience in the labour market do of course mean the BoE has more room to respond to higher inflation.” “The labour market remains relatively flat overall. This resilience in the face of headwinds driven by global events is welcome. But underlying problems remain, with around one million young people not in education, employment or training and overall employment more than two million short of the Government’s 80% employment rate target. To fix those challenges we need to change the benefit system so it offers active help to all who need it, but also make it easier for employers to create jobs. “ Continue reading...</description>
+<dc:creator>Graeme Wearden</dc:creator>
+<content:encoded>Google apologises after suffering a major Cloud outage in its London region that caused problems at banks, Revolut, and court video cameras Google cloud failure hits millions as UK courts and banks knocked offline The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that employment rose in the last quarter. “This data has caught the market on the hop, with traders scrambling to respond and boost exposure to the pound. Good news has been a touch more prevalent for the UK of late, which is just the kind of framing the government needs heading into the budget, though signs of more resilience in the labour market do of course mean the BoE has more room to respond to higher inflation.” “The labour market remains relatively flat overall. This resilience in the face of headwinds driven by global events is welcome. But underlying problems remain, with around one million young people not in education, employment or training and overall employment more than two million short of the Government’s 80% employment rate target. To fix those challenges we need to change the benefit system so it offers active help to all who need it, but also make it easier for employers to create jobs. “ Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/4abba6c5ea456b0e89fd05e658c5c6fa8a713ce7/430_0_3301_2641/master/3301.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a68f17dc63aa32408ab0618dd69ca4ed" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/4abba6c5ea456b0e89fd05e658c5c6fa8a713ce7/430_0_3301_2641/master/3301.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a68f17dc63aa32408ab0618dd69ca4ed" medium="image"/>
+</item>
+<item>
+<title>Amazon Prime comes with an Alexa upgrade you should know about</title>
+<link>https://www.engadget.com/2288734/amazon-prime-alexa-upgrade-you-should-know-about</link>
+<guid isPermaLink="false">13a833c73aebae379a3a01115ddc200dbdfccd2e485822393d4cb441418613c7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:45:00 +0000</pubDate>
+<description>Amazon's Echo Show and Dot devices, tablets and website all have new capabilities that you might want to take for a spin.</description>
+<dc:creator>staff@engadget.com (Alec Hively)</dc:creator>
+<content:encoded>Amazon's Echo Show and Dot devices, tablets and website all have new capabilities that you might want to take for a spin.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/amazon-prime-comes-with-an-alexa-upgrade-you-should-know-about/l-intro-1792159763.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/amazon-prime-comes-with-an-alexa-upgrade-you-should-know-about/l-intro-1792159763.jpg" medium="image"/>
+</item>
+<item>
+<title>'Password1' and a forgotten test account land Welsh outfits in hot water</title>
+<link>https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139</link>
+<guid isPermaLink="false">632655dcedb656af527d0fdedd80f07bee11cce8aeef6b5312049e49c011997f</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:35:00 +0000</pubDate>
+<description>A test account protected by "Password1" helped an intruder steal personal data relating to 3,300 people, mostly children, in a ransomware attack that has drawn regulatory rebukes for two Welsh organizations. The Information Commission's Office (ICO) issued reprimands rather than fines to Ogi Networks Limited (ONL) and the Local Government Data Unit – Wales, also known as Data Cymru. According to the ICO, altnet ONL provided server and connectivity infrastructure, licensing, and support to Data Cymru, which helps public bodies across Wales make effective use of data. On November 1, 2024, Data Cymru suffered a ransomware attack after a miscreant exploited a test account called Test2 to infiltrate its network and encrypt 182.7 GB of data housed in a file server and an internal database server. "Before deploying the ransomware, the threat actor exfiltrated 42 GB of data from a primary domain controller, a file server and an SQL server," the ICO said on Tuesday in its reprimand of ONL [PDF]. ONL told the ICO it created the test account on January 13, 2012, during its initial project for Data Cymru. "ONL confirmed that the creation of the 'Test2' account was likely intended to test user account access before migrating 'real' users to its services," the ICO said. "When it was created, the 'Test2' account was given the password of 'Password1'." The ICO cited Bitwarden's password strength tool, which rated "Password1" as "very weak" and estimated a cracking time of less than a second. "The local administrator accounts on the three impacted systems all had the same password. This meant that once one system had been breached, the local account hashes could be collected and used by the threat actor to authenticate access to other systems on the Data Cymru network," the regulator added. "ONL confirmed that it did not carry out any reviews of local administrator accounts following their initial deployment. This meant these accounts remained active, regardless of whether they were used, and continued to use the same default passwords set at the time of their creation in January 2012, as part of ONL's initial project with Data Cymru, for more than 12.5 years." The data watchdog reprimanded ONL under Article 32 of the UK GDPR because it failed to put in place "appropriate technical and organisational measures" to ensure processing systems and services were safe, and it didn't regularly assess or evaluate those measures. It found ONL had no auditing procedures to review user accounts within Data Cymru's Active Directory. The ICO's separate reprimand of Data Cymru [PDF] also detailed failures in its security arrangements. "Password1 is not an appropriate password, it is a wide-open door to nefarious actors," said ICO head of investigations David Doodson. "This incident shows how a single weak password, attached to an account that was no longer needed, can leave the door open to a serious cyber-attack that can affect thousands. "The responsibility for these failures</description>
+<dc:creator>Paul Kunert</dc:creator>
+<content:encoded>A test account protected by "Password1" helped an intruder steal personal data relating to 3,300 people, mostly children, in a ransomware attack that has drawn regulatory rebukes for two Welsh organizations. The Information Commission's Office (ICO) issued reprimands rather than fines to Ogi Networks Limited (ONL) and the Local Government Data Unit – Wales, also known as Data Cymru. According to the ICO, altnet ONL provided server and connectivity infrastructure, licensing, and support to Data Cymru, which helps public bodies across Wales make effective use of data. On November 1, 2024, Data Cymru suffered a ransomware attack after a miscreant exploited a test account called Test2 to infiltrate its network and encrypt 182.7 GB of data housed in a file server and an internal database server. "Before deploying the ransomware, the threat actor exfiltrated 42 GB of data from a primary domain controller, a file server and an SQL server," the ICO said on Tuesday in its reprimand of ONL [PDF]. ONL told the ICO it created the test account on January 13, 2012, during its initial project for Data Cymru. "ONL confirmed that the creation of the 'Test2' account was likely intended to test user account access before migrating 'real' users to its services," the ICO said. "When it was created, the 'Test2' account was given the password of 'Password1'." The ICO cited Bitwarden's password strength tool, which rated "Password1" as "very weak" and estimated a cracking time of less than a second. "The local administrator accounts on the three impacted systems all had the same password. This meant that once one system had been breached, the local account hashes could be collected and used by the threat actor to authenticate access to other systems on the Data Cymru network," the regulator added. "ONL confirmed that it did not carry out any reviews of local administrator accounts following their initial deployment. This meant these accounts remained active, regardless of whether they were used, and continued to use the same default passwords set at the time of their creation in January 2012, as part of ONL's initial project with Data Cymru, for more than 12.5 years." The data watchdog reprimanded ONL under Article 32 of the UK GDPR because it failed to put in place "appropriate technical and organisational measures" to ensure processing systems and services were safe, and it didn't regularly assess or evaluate those measures. It found ONL had no auditing procedures to review user accounts within Data Cymru's Active Directory. The ICO's separate reprimand of Data Cymru [PDF] also detailed failures in its security arrangements. "Password1 is not an appropriate password, it is a wide-open door to nefarious actors," said ICO head of investigations David Doodson. "This incident shows how a single weak password, attached to an account that was no longer needed, can leave the door open to a serious cyber-attack that can affect thousands. "The responsibility for these failures did not sit with one organisation alone. ONL created the test account whilst Data Cymru retained overall control of its network, including the ability to instruct ONL to create or remove accounts. Neither had put in place sufficiently clear and effective measures to ensure that old accounts were routinely identified and removed." ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=5294336&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5294336&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>How to stop fake virus pop-ups on your Windows PC</title>
+<link>https://www.engadget.com/2288676/how-to-stop-fake-virus-pop-up-windows-pc</link>
+<guid isPermaLink="false">5c1116fff34a52da2eab779f1ffa0d01e78cf16a195b2d369cb53aabf5ad5da1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:15:00 +0000</pubDate>
+<description>Blaring security alerts that urge you to call a number or download a scanner are bogus, and you can shut them up easily.</description>
+<dc:creator>staff@engadget.com (Kari Paul)</dc:creator>
+<content:encoded>Blaring security alerts that urge you to call a number or download a scanner are bogus, and you can shut them up easily.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-stop-fake-virus-pop-ups-on-your-windows-pc/l-intro-1792156820.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-stop-fake-virus-pop-ups-on-your-windows-pc/l-intro-1792156820.jpg" medium="image"/>
+</item>
+<item>
+<title>TikTok employees said they knew about child safety issues, but execs failed to act</title>
+<link>https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings</link>
+<guid isPermaLink="false">419921f61ca4569102f2363e089bf29795c474642eb7889676aaadd5e47ca969</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:11:23 +0000</pubDate>
+<description>TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR . The publication reports that employees were frustrated over TikTok executives failing to appropriately act on concerns they raised, including minors bypassing age-restricted content, and appearing in "transactional sexual content" the company could financially benefit from. The previously unreported depositions of TikTok staffers were filed in federal court in March, and connected to a multi-district litigation initiated in 2022 that brings together hundreds of lawsuits alleging that TikTok, Meta, Snap … Read the full story at The Verge.</description>
+<dc:creator>Jess Weatherbed</dc:creator>
+<content:encoded>TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR . The publication reports that employees were frustrated over TikTok executives failing to appropriately act on concerns they raised, including minors bypassing age-restricted content, and appearing in "transactional sexual content" the company could financially benefit from. The previously unreported depositions of TikTok staffers were filed in federal court in March, and connected to a multi-district litigation initiated in 2022 that brings together hundreds of lawsuits alleging that TikTok, Meta, Snap … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951406/STK051_VRG_Illo_N_Barclay_6_tiktok.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951406/STK051_VRG_Illo_N_Barclay_6_tiktok.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Adobe Lightroom mobile can now open closed eyes in photos with a simple tap</title>
+<link>https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair</link>
+<guid isPermaLink="false">6e9a867871806dd967dda44040a25a277c6cd7e7a21b0549af02ebf01e3ce825</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:06:44 +0000</pubDate>
+<description>Adobe announced yesterday that the mobile version of Lightroom , available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature. Being able to easily save an otherwise great photo by opening a subject's eyes has been a feature in Adobe's Photoshop Elements for nearly a decade, but as DPReview points out , Elements sources the replacement from another phot … Read the full story at The Verge.</description>
+<dc:creator>Andrew Liszewski</dc:creator>
+<content:encoded>Adobe announced yesterday that the mobile version of Lightroom , available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature. Being able to easily save an otherwise great photo by opening a subject's eyes has been a feature in Adobe's Photoshop Elements for nearly a decade, but as DPReview points out , Elements sources the replacement from another phot … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Final Fantasy dips back into the SNES golden era with Resonance</title>
+<link>https://www.theverge.com/games/1013958/final-fantasy-resonance-review</link>
+<guid isPermaLink="false">69e8845c7f002a4979a7dd36cfd29100795461c160e03413584e65e8faea8173</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
+<description>Final Fantasy is a lot different than it used to be. While many of the early Final Fantasy titles look and play similarly to each other, the series has since grown to encompass blockbuster games like Final Fantasy XVI and the gargantuan Final Fantasy VII Remake trilogy, which don't play much like the classics. But there's still an audience for retro RPGs and old-school Final Fantasy games, especially thanks to the HD-2D style that mixes gorgeous pixel art with detailed 3D graphics to great effect. Square Enix has made a bunch of HD-2D games already, like the remakes of early Dragon Quest titles , but this week, it's launching the first HD-2D … Read the full story at The Verge.</description>
+<dc:creator>Jay Peters</dc:creator>
+<content:encoded>Final Fantasy is a lot different than it used to be. While many of the early Final Fantasy titles look and play similarly to each other, the series has since grown to encompass blockbuster games like Final Fantasy XVI and the gargantuan Final Fantasy VII Remake trilogy, which don't play much like the classics. But there's still an audience for retro RPGs and old-school Final Fantasy games, especially thanks to the HD-2D style that mixes gorgeous pixel art with detailed 3D graphics to great effect. Square Enix has made a bunch of HD-2D games already, like the remakes of early Dragon Quest titles , but this week, it's launching the first HD-2D … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ss_a5850396e3aaf971ce506069bb412e9deb805391.1920x1080-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ss_a5850396e3aaf971ce506069bb412e9deb805391.1920x1080-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Antigravity just halved the price of its drone — by swapping its headset for wristwatch control</title>
+<link>https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control</link>
+<guid isPermaLink="false">1425d64459175b929010206b4bdcfd75b1a5126f2430d5b886a969575667cfd8</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
+<description>The Antigravity A1, with the new Follow Me Kit. | Photo by Sean Hollister / The Verge Last year's Antigravity A1 is the best beginner drone I've ever tried. I put a friend who'd never flown into its virtual cockpit and didn't worry one bit. The A1's also nice for people who'd prefer to think about flying rather than filming , because you can reframe its 360-degree footage after. But until today, that meant wearing the company's FPV goggles and spending upwards of $1,599 on the complete set. Now, Antigravity is halving the price of entry to $799 in the US with a new "Follow Me" kit that replaces the original headset and motion controller with a wristwatch and ring instead. The idea is that Antigravity can be your robot cam … Read the full story at The Verge.</description>
+<dc:creator>Sean Hollister</dc:creator>
+<content:encoded>The Antigravity A1, with the new Follow Me Kit. | Photo by Sean Hollister / The Verge Last year's Antigravity A1 is the best beginner drone I've ever tried. I put a friend who'd never flown into its virtual cockpit and didn't worry one bit. The A1's also nice for people who'd prefer to think about flying rather than filming , because you can reframe its 360-degree footage after. But until today, that meant wearing the company's FPV goggles and spending upwards of $1,599 on the complete set. Now, Antigravity is halving the price of entry to $799 in the US with a new "Follow Me" kit that replaces the original headset and motion controller with a wristwatch and ring instead. The idea is that Antigravity can be your robot cam … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-antigravity-a1-sean-hollister-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-antigravity-a1-sean-hollister-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Antigravity's Follow Me bundle adds accurate tracking and gesture controls to its A1 drone</title>
+<link>https://www.engadget.com/2289029/antigravity-a1-drone-follow-me-bundle-hands-on</link>
+<guid isPermaLink="false">2be7e4c671d4dc5e336caed12d94da797a2f92e66d0ad2a855e03a6667359dd7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
+<description>Antigravity's watch and ring remote are available as an accessory bundle or as a full kit with the A1 drone.</description>
+<dc:creator>staff@engadget.com (Mat Smith)</dc:creator>
+<content:encoded>Antigravity's watch and ring remote are available as an accessory bundle or as a full kit with the A1 drone.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/antigravitys-follow-me-bundle-adds-accurate-tracking-and-gesture-controls-to-its-a1-drone/l-intro-1792172648.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/antigravitys-follow-me-bundle-adds-accurate-tracking-and-gesture-controls-to-its-a1-drone/l-intro-1792172648.jpg" medium="image"/>
+</item>
+<item>
 <title>Google Cloud says a 'power event' caused today's outage</title>
 <link>https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160</link>
 <guid isPermaLink="false">ddcb33c5d11ab7c0f337cec2d12b760756ff55245c7734c7c864635ee7cc37b4</guid>
@@ -49,9 +166,9 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 12:33:27 +0000</pubDate>
-<description>Use of tools ‘may result in the transfer of sensitive data to (China)’, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from Chinese startup DeepSeek , as the countries race for dominance in the fast-moving sector. A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices. Continue reading...</description>
+<description>Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek , as the countries race for dominance in the fast-moving sector. A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices. Continue reading...</description>
 <dc:creator>Agence France-Presse</dc:creator>
-<content:encoded>Use of tools ‘may result in the transfer of sensitive data to (China)’, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from Chinese startup DeepSeek , as the countries race for dominance in the fast-moving sector. A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices. Continue reading...</content:encoded>
+<content:encoded>Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek , as the countries race for dominance in the fast-moving sector. A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/6f8ade7b2c623ea3ba988db863da7a2fd1af5796/560_0_4164_3333/master/4164.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cca23ca3a5c8993633fce00d6f71bd03" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/6f8ade7b2c623ea3ba988db863da7a2fd1af5796/560_0_4164_3333/master/4164.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cca23ca3a5c8993633fce00d6f71bd03" medium="image"/>
 </item>
@@ -80,19 +197,6 @@
 <content:encoded>AI is increasingly getting good at doing some tasks, but it can never replace human workers’ judgment Autonomous cars, which may be the safest we have built, keep getting easily avoidable parking tickets. While Waymos crash far less often than human drivers over tens of millions of miles, they’re still terrible at performing basic tasks – keeping out of disabled parking spots and tow-away zones, or steering clear of a church garage during Sunday service, according to the Wall Street Journal . That is the state of AI today: impressively capable at something complex, yet embarrassingly clumsy at something easy. And it has implications for what work will remain human and what will be automated by AI. Madhu Shashanka is co-founder, chief scientist and chief technology officer at Concentric AI, a data security software company Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/1ec14522bb2e09e892ab197b6436169a94f4fac9/0_0_2836_2269/master/2836.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3907a51e0c4a361f2e43d90f60510b8a" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/1ec14522bb2e09e892ab197b6436169a94f4fac9/0_0_2836_2269/master/2836.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3907a51e0c4a361f2e43d90f60510b8a" medium="image"/>
-</item>
-<item>
-<title>Google says ‘power event’ that disrupted Cloud services has been ‘mitigated’, after widespread problems – latest updates</title>
-<link>https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates</link>
-<guid isPermaLink="false">57a6c2dc796e4df00ea2bf9454d96359314dc623dfd02a92d2018b1dd8e76e51</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 12:15:19 +0000</pubDate>
-<description>Google apologises after suffering a major Cloud outage in its London region that caused problems at banks, Revolut, and court video cameras The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that employment rose in the last quarter. “This data has caught the market on the hop, with traders scrambling to respond and boost exposure to the pound. Good news has been a touch more prevalent for the UK of late, which is just the kind of framing the government needs heading into the budget, though signs of more resilience in the labour market do of course mean the BoE has more room to respond to higher inflation.” “The labour market remains relatively flat overall. This resilience in the face of headwinds driven by global events is welcome. But underlying problems remain, with around one million young people not in education, employment or training and overall employment more than two million short of the Government’s 80% employment rate target. To fix those challenges we need to change the benefit system so it offers active help to all who need it, but also make it easier for employers to create jobs. “ Continue reading...</description>
-<dc:creator>Graeme Wearden</dc:creator>
-<content:encoded>Google apologises after suffering a major Cloud outage in its London region that caused problems at banks, Revolut, and court video cameras The pound has rallied after Britain’s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352, as the City welcomes the news that employment rose in the last quarter. “This data has caught the market on the hop, with traders scrambling to respond and boost exposure to the pound. Good news has been a touch more prevalent for the UK of late, which is just the kind of framing the government needs heading into the budget, though signs of more resilience in the labour market do of course mean the BoE has more room to respond to higher inflation.” “The labour market remains relatively flat overall. This resilience in the face of headwinds driven by global events is welcome. But underlying problems remain, with around one million young people not in education, employment or training and overall employment more than two million short of the Government’s 80% employment rate target. To fix those challenges we need to change the benefit system so it offers active help to all who need it, but also make it easier for employers to create jobs. “ Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/4abba6c5ea456b0e89fd05e658c5c6fa8a713ce7/430_0_3301_2641/master/3301.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a68f17dc63aa32408ab0618dd69ca4ed" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/4abba6c5ea456b0e89fd05e658c5c6fa8a713ce7/430_0_3301_2641/master/3301.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a68f17dc63aa32408ab0618dd69ca4ed" medium="image"/>
 </item>
 <item>
 <title>3+ useful features included with Google One that people ignore</title>
@@ -132,6 +236,19 @@
 <content:encoded>OpenAI says its models now come with better COBOL capabilities.</content:encoded>
 <enclosure url="https://www.engadget.com/img/gallery/openai-says-its-models-can-help-banks-migrate-from-old-cobol-programs/l-intro-1792497626.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/openai-says-its-models-can-help-banks-migrate-from-old-cobol-programs/l-intro-1792497626.jpg" medium="image"/>
+</item>
+<item>
+<title>Spotify’s new podcast memberships let you pay for extra perks</title>
+<link>https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch</link>
+<guid isPermaLink="false">1de7b9aae8f8738acc86fc4dcdff0dccc0f1c2b917ef194b349a0e31ac5fba3c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+<description>Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May , the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks including additional content, early access, bonus episodes, and reduced ads behind a paywall. Users can find Memberships on a podcast's Spotify page, with the ability to subscribe, pay, and access the exclusive benefits "in just a few taps," according to Spotify. Podcast creators can set their pricing options and bundle benefits across multiple subscrip … Read the full story at The Verge.</description>
+<dc:creator>Jess Weatherbed</dc:creator>
+<content:encoded>Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May , the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks including additional content, early access, bonus episodes, and reduced ads behind a paywall. Users can find Memberships on a podcast's Spotify page, with the ability to subscribe, pay, and access the exclusive benefits "in just a few taps," according to Spotify. Podcast creators can set their pricing options and bundle benefits across multiple subscrip … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-Podcast-Memberships.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-Podcast-Memberships.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Spotify's Memberships program for podcasts is here to compete with Patreon</title>
@@ -186,7 +303,7 @@
 <media:content url="https://media.wired.com/photos/6ad67b40b1e2ce8d04a898c4/master/pass/Sony%20ULT%20Tower%207%20Speaker%20Deal%20102026%20top%20art%20SOURCE%20Sony.jpg" medium="image"/>
 </item>
 <item>
-<title>TechPulse puts ZDNET and 5 other tech sites in one feed – for free</title>
+<title>TechPulse puts ZDNET and 4 other tech sites in one feed – for free</title>
 <link>https://www.zdnet.com/tech/techpulse-free-tech-news-app-zdnet</link>
 <guid isPermaLink="false">0c7f7e8cd45dc616b9d343a76be47aa362b720008e664d2dde0c56bb41903b44</guid>
 <source>ZDNET</source>
@@ -195,8 +312,8 @@
 <description>Choose which CNET Group publications appear in your feed, then catch up on news, reviews, and videos – without an algorithm deciding what you see.</description>
 <dc:creator>Elyse Betters Picaro</dc:creator>
 <content:encoded>Choose which CNET Group publications appear in your feed, then catch up on news, reviews, and videos – without an algorithm deciding what you see.</content:encoded>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/TP-PromoImage.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/TP-PromoImage.jpg" medium="image"/>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/TechPulse-app.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/TechPulse-app.jpg" medium="image"/>
 </item>
 <item>
 <title>The Physics Behind Tesla’s Flying Roadster</title>
@@ -225,19 +342,6 @@
 <media:content url="https://image.theregister.com/?imageId=5235229&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
-<link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
-<guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
-<description>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</description>
-<dc:creator>Matt Kamen</dc:creator>
-<content:encoded>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
-</item>
-<item>
 <title>Sexual Assault Is a Free Speech Issue</title>
 <link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
 <guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
@@ -249,6 +353,19 @@
 <content:encoded>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
+</item>
+<item>
+<title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
+<link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
+<guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
+<description>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</description>
+<dc:creator>Matt Kamen</dc:creator>
+<content:encoded>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
 </item>
 <item>
 <title>Organic Mattress Sale: 20 Percent Off Essentia Beds</title>
@@ -264,7 +381,7 @@
 <media:content url="https://media.wired.com/photos/6ad674bb43f8fc6e5c00cffe/master/pass/My%20Favorite%20Organic%20Mattress%20Is%20Discounted%20Right%20Now%20102026%20top%20art%20SOURCE%20Essentia.jpg" medium="image"/>
 </item>
 <item>
-<title>They Fled Trump’s America. Now They Regret it</title>
+<title>They Fled Trump’s America. Now They Regret It</title>
 <link>https://www.wired.com/story/they-fled-trumps-america-now-they-regret-it</link>
 <guid isPermaLink="false">982dabb6381b6f6b7dc94a92677a2ee3710696657fc855e0784ae70cbd6122e1</guid>
 <source>Wired</source>
@@ -472,32 +589,6 @@
 <media:content url="https://image.theregister.com/?imageId=5304056&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Don’t be fooled. The AI that was supposed to save us time is doing just the opposite | Gaby Hinsliff</title>
-<link>https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk</link>
-<guid isPermaLink="false">500a4518841bf1e3e616916e26f3e77d266123cc238b928e6e0e88c1606d788d</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:17 +0000</pubDate>
-<description>The government says it can transform the state with AI, but it is no match for the resulting stream of machine-generated slop. And we all pay the cost Another morning, another avalanche of emails. Even after a guilty cull, my inbox is sitting at well over 7,000, but lately I’ve started subscribing to the Quentin Crisp theory of housework: why bother, when after four years or so you stop noticing the accumulating dust? Empty inboxes just fill up again anyway. In theory, email was supposed to save hours of meetings, phone calls and standing over photocopiers. Instead, we just spend hours deleting stuff people wouldn’t have bothered telling us if it had meant picking up the phone, but which they can now spam to their entire database at the click of a button. The glorious ease and convenience of being able to reach the world in seconds came, we now know, with the inconvenience of them being able to reach you right back. Gaby Hinsliff is a Guardian columnist Continue reading...</description>
-<dc:creator>Gaby Hinsliff</dc:creator>
-<content:encoded>The government says it can transform the state with AI, but it is no match for the resulting stream of machine-generated slop. And we all pay the cost Another morning, another avalanche of emails. Even after a guilty cull, my inbox is sitting at well over 7,000, but lately I’ve started subscribing to the Quentin Crisp theory of housework: why bother, when after four years or so you stop noticing the accumulating dust? Empty inboxes just fill up again anyway. In theory, email was supposed to save hours of meetings, phone calls and standing over photocopiers. Instead, we just spend hours deleting stuff people wouldn’t have bothered telling us if it had meant picking up the phone, but which they can now spam to their entire database at the click of a button. The glorious ease and convenience of being able to reach the world in seconds came, we now know, with the inconvenience of them being able to reach you right back. Gaby Hinsliff is a Guardian columnist Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/55c4a8455eb4fa69029f5190872b3e993c3d18ed/1234_0_4623_3699/master/4623.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a63d1b8f42753fe7e8a78287686f2981" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/55c4a8455eb4fa69029f5190872b3e993c3d18ed/1234_0_4623_3699/master/4623.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a63d1b8f42753fe7e8a78287686f2981" medium="image"/>
-</item>
-<item>
-<title>Chewy Promo Codes: $20 Off October 2026</title>
-<link>https://www.wired.com/story/chewy-promo-code</link>
-<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
-</item>
-<item>
 <title>Adorama Camera Coupon Codes &amp; Promo Codes: October 2026</title>
 <link>https://www.wired.com/story/adorama-promo-code</link>
 <guid isPermaLink="false">136a2d1ea728c543cc9e3e9843549ce3689050d1a284d4c80e3509eb5bae7efe</guid>
@@ -561,6 +652,19 @@
 <content:encoded>Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.</content:encoded>
 <enclosure url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" medium="image"/>
+</item>
+<item>
+<title>Chewy Promo Codes: $20 Off October 2026</title>
+<link>https://www.wired.com/story/chewy-promo-code</link>
+<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
 </item>
 <item>
 <title>30% Off Canon Promo Codes | October 2026</title>
@@ -836,32 +940,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>CoreWeave&amp;#8217;s debt is becoming the whole AI industry&amp;#8217;s problem</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</link>
-<guid isPermaLink="false">85ed69736e92d20ff74d7e2062e9c3d01f530f6cdce8bb4e9c5d7cc86f86f929</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 21:28:20 +0000</pubDate>
-<description>CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath "SPAC King" Palihapitiya noticed the distressed debt , and also asked whether the AI buildout was a private credit bubble . Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot! There even seemed to be some collateral damage in the market on other AI companies, too. Now, I have also asked if the AI industry is a bubble, but when the SPAC King echoes concerns held by a lady whose ongoing questi … Read the full story at The Verge.</description>
-<dc:creator>Elizabeth Lopatto</dc:creator>
-<content:encoded>CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath "SPAC King" Palihapitiya noticed the distressed debt , and also asked whether the AI buildout was a private credit bubble . Its shares are down more than 20 percent since Tuesday's close, which is kind of a lot! There even seemed to be some collateral damage in the market on other AI companies, too. Now, I have also asked if the AI industry is a bubble, but when the SPAC King echoes concerns held by a lady whose ongoing questi … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>I tried a $99 plug that promises to track your car and send help when needed — without selling your data</title>
-<link>https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date</link>
-<guid isPermaLink="false">43c9106709af315f25fc2f1e8549249ccf4162151ace43bf5557e593c4956995</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 21:00:17 +0000</pubDate>
-<description>The Miles is a smart plug for your car. My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with emergency accident response and roadside assistance. The idea is that knowing all these things should help me feel more comfortable when my daughter starts driving alone. I tested the (now discontinued) Ring Car Cam when my son was learning to drive, but he hated it and refused to turn it on; I wondered if the Miles could provide the same peace of mind without feeling a … Read the full story at The Verge.</description>
-<dc:creator>Jennifer Pattison Tuohy</dc:creator>
-<content:encoded>The Miles is a smart plug for your car. My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with emergency accident response and roadside assistance. The idea is that knowing all these things should help me feel more comfortable when my daughter starts driving alone. I tested the (now discontinued) Ring Car Cam when my son was learning to drive, but he hated it and refused to turn it on; I wondered if the Miles could provide the same peace of mind without feeling a … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6271.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6271.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Best Power Bank Deals: Laptops, MagSafe, and More</title>
 <link>https://www.wired.com/story/power-bank-deals-october-2026</link>
 <guid isPermaLink="false">bae8a593705f83c364de19e64b091888e2131ab9b84a7b8c2cddc1938a094b19</guid>
@@ -1016,19 +1094,6 @@
 <content:encoded>WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad6231e8983de0c230024ad/master/pass/GettyImages-1266839449.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad6231e8983de0c230024ad/master/pass/GettyImages-1266839449.jpg" medium="image"/>
-</item>
-<item>
-<title>Sony’s best noise-canceling earbuds are nearly $100 off today only</title>
-<link>https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only</link>
-<guid isPermaLink="false">e6e234bc172dfbe94dc691fb185ef5a8534250e161970a82b7baa95b529b9a8e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 18:52:41 +0000</pubDate>
-<description>Sony’s WF-1000XM6 are on sale in black today only. | Image: Sony For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5 . B&amp;H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren’t currently offering a discount on the XM6. Sony WF-1000XM6 earbuds Where to Buy: $329.99 $238 at B&amp;H Photo The XM6 are a solid upgrade over their predecessor and easily amongst the best noise-canceling wireless earbuds on the market. In his review , John Higgins noted that they do a better job of tuning out other people’s conversations than any other earbuds he’s tested. Sony has also improved the bone-conduction sensor and added AI-powered microphones that help keep your voice clear during calls, even in noisy environments. The XM6 earbuds also deliver clean, balanced sound with impressive bass, raising the bar of what we expect with Sony’s WF-1000XM series. If you prefer to customize your listening experience, Sony’s Sound Connect app offers plenty of customization options, including the ability to adjust how much surrounding noise you hear without removing the earbuds. You can also personalize the touch controls. The XM6 earbuds support Sony’s LDAC codec, which delivers higher-quality audio from compatible Android devices, too. New in the latest set is a listening mode that makes music sound more like background audio playing in a cafe, allowing you to listen to your favorite music without getting too distracted from whatever you’re doing. Read our Sony WF-1000XM6 review.</description>
-<dc:creator>Sheena Vasani</dc:creator>
-<content:encoded>Sony’s WF-1000XM6 are on sale in black today only. | Image: Sony For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5 . B&amp;H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren’t currently offering a discount on the XM6. Sony WF-1000XM6 earbuds Where to Buy: $329.99 $238 at B&amp;H Photo The XM6 are a solid upgrade over their predecessor and easily amongst the best noise-canceling wireless earbuds on the market. In his review , John Higgins noted that they do a better job of tuning out other people’s conversations than any other earbuds he’s tested. Sony has also improved the bone-conduction sensor and added AI-powered microphones that help keep your voice clear during calls, even in noisy environments. The XM6 earbuds also deliver clean, balanced sound with impressive bass, raising the bar of what we expect with Sony’s WF-1000XM series. If you prefer to customize your listening experience, Sony’s Sound Connect app offers plenty of customization options, including the ability to adjust how much surrounding noise you hear without removing the earbuds. You can also personalize the touch controls. The XM6 earbuds support Sony’s LDAC codec, which delivers higher-quality audio from compatible Android devices, too. New in the latest set is a listening mode that makes music sound more like background audio playing in a cafe, allowing you to listen to your favorite music without getting too distracted from whatever you’re doing. Read our Sony WF-1000XM6 review.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Sony-WF-1000XM6.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Sony-WF-1000XM6.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth</title>
@@ -1200,19 +1265,6 @@
 <media:content url="https://image.theregister.com/?imageId=5229675&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Fiber vs. cable internet: What's the difference between them?</title>
-<link>https://www.engadget.com/2287870/fiber-vs-cable-internet-difference-between</link>
-<guid isPermaLink="false">7fe0a5ea22fa172b7964049e56dddda1cf7b7e47d19dadf697d983f26c8bc9dc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 16:15:00 +0000</pubDate>
-<description>Fiber internet is more modern than cable, but the older technology still works well for today's connection needs.</description>
-<dc:creator>staff@engadget.com (Antony Terence)</dc:creator>
-<content:encoded>Fiber internet is more modern than cable, but the older technology still works well for today's connection needs.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/fiber-vs-cable-internet-whats-the-difference-between-them/l-intro-1792085043.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fiber-vs-cable-internet-whats-the-difference-between-them/l-intro-1792085043.jpg" medium="image"/>
-</item>
-<item>
 <title>Red Hat helps teach about tech writing</title>
 <link>https://www.theregister.com/os-platforms/2026/10/19/red-hat-helps-teach-about-tech-writing/5303868</link>
 <guid isPermaLink="false">bfc22d6af405633557254b6ffd265c9ef7abab9600f88313ba305d7d448e5327</guid>
@@ -1239,32 +1291,6 @@
 <media:content url="https://media.wired.com/photos/6ad63be5ae9c6872d8862277/master/pass/Get%20Your%20Kitchen%20Thanksgiving-Ready%20With%20All-Clad%E2%80%99s%20Factory%20Seconds%20Sale%20102026%20top%20art%20SOURCE%20All-Clad.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple is set to hold another product event on October 28</title>
-<link>https://www.engadget.com/2290401/apple-pro-and-tell-event-october-28-announcement</link>
-<guid isPermaLink="false">d41c81c1b0b4b48527287abd9b0ccae724e1d1456947ac6896dfc38cb46aeccb</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 16:09:26 +0000</pubDate>
-<description>Apple's "Pro and Tell" event is taking place in Los Angeles and will likely feature the first touchscreen Mac.</description>
-<dc:creator>staff@engadget.com (Kris Holt)</dc:creator>
-<content:encoded>Apple's "Pro and Tell" event is taking place in Los Angeles and will likely feature the first touchscreen Mac.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/apple-pro-and-tell-event-october-28-announcement/l-intro-1792426206.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-pro-and-tell-event-october-28-announcement/l-intro-1792426206.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple teases MacBook Pro event next week</title>
-<link>https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement</link>
-<guid isPermaLink="false">8e8803bda3628fd46fdbd0f2c319ab77d3c07d6ab8adbebe13131a734d74d4b7</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 16:04:29 +0000</pubDate>
-<description>Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg . The big announcement is expected to be a new MacBook Pro with an OLED touchscreen that's also lighter and has an iPhone-like Dynamic Island. But Apple is also planning on revealing a 14-inch MacBook Pro and a new iMac with the M6 chip, which was recently introduced with the Mac Mini . Apple's updated iPad Mini will apparently finally get an OLED screen as well and put the selfie cam on the landscape edge. "Can't wait to p … Read the full story at The Verge.</description>
-<dc:creator>Jay Peters</dc:creator>
-<content:encoded>Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg . The big announcement is expected to be a new MacBook Pro with an OLED touchscreen that's also lighter and has an iPhone-like Dynamic Island. But Apple is also planning on revealing a 14-inch MacBook Pro and a new iMac with the M6 chip, which was recently introduced with the Mac Mini . Apple's updated iPad Mini will apparently finally get an OLED screen as well and put the selfie cam on the landscape edge. "Can't wait to p … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot</title>
 <link>https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot</link>
 <guid isPermaLink="false">48a8da46caf41a6218a4ab0f228526ea2bae423d29eea96ce4f5c3169cee22f5</guid>
@@ -1276,32 +1302,6 @@
 <content:encoded>Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/master/pass/GettyImages-2262950720.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/master/pass/GettyImages-2262950720.jpg" medium="image"/>
-</item>
-<item>
-<title>Why your USB device keeps disconnecting (and how to fix it)</title>
-<link>https://www.engadget.com/2287812/usb-device-disconnecting-reasons</link>
-<guid isPermaLink="false">ca15fbac7ca506405cdd3fa5d5a50f1fb8c9b204950028f2afe97302389ddf1c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 15:45:00 +0000</pubDate>
-<description>If your USB peripheral is on the fritz, it's worth doing some troubleshooting with the port itself. Give these steps a try.</description>
-<dc:creator>staff@engadget.com (Ben Stegner)</dc:creator>
-<content:encoded>If your USB peripheral is on the fritz, it's worth doing some troubleshooting with the port itself. Give these steps a try.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-usb-device-keeps-disconnecting-and-how-to-fix-it/l-intro-1792082689.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-usb-device-keeps-disconnecting-and-how-to-fix-it/l-intro-1792082689.jpg" medium="image"/>
-</item>
-<item>
-<title>Amazon is funding a new nuclear plant in Indiana</title>
-<link>https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana</link>
-<guid isPermaLink="false">b0ef1cc24d7131641e5d589b8ea4f280391b21e7d02798eca0c3942af2dab018</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 15:44:20 +0000</pubDate>
-<description>It’ll be several years before the facility is complete, but this digital rendering gives us some idea of what it’ll look like. | Image: Amazon Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant , which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional power grid and Amazon's data centers. No timeline for construction or operation has been announced for the facility, which Amazon says "could" create 1,000 construction jobs and 100 permanent roles. The facility in Indiana is targeting to build 12 Xe-100 SMR's, an advanced (but unproven) reactor th … Read the full story at The Verge.</description>
-<dc:creator>Jess Weatherbed</dc:creator>
-<content:encoded>It’ll be several years before the facility is complete, but this digital rendering gives us some idea of what it’ll look like. | Image: Amazon Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant , which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional power grid and Amazon's data centers. No timeline for construction or operation has been announced for the facility, which Amazon says "could" create 1,000 construction jobs and 100 permanent roles. The facility in Indiana is targeting to build 12 Xe-100 SMR's, an advanced (but unproven) reactor th … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Amazon-nuclear-power-plant-Indiana-.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Amazon-nuclear-power-plant-Indiana-.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Uber dodges £340M cabbie lawsuit after drivers miss legal deadline</title>
@@ -1328,19 +1328,6 @@
 <content:encoded>This week, Character.AI declared bankruptcy. While some saw the fall of a chatbot platform as a harbinger for the industry , court filings indicate that the decision was actually a key part of a deal that has let Disney hire most of Character.AI’s staff—including its now former CEO Karandeep Anand —potentially acquire most of Character.AI’s technology , and avoid the beleaguered startup’s many legal liabilities and obligations. In the past few years, Character.AI has faced multiple private lawsuits over the safety of its chatbots, as well as investigations from regulators around the world. In a declaration filed as part of the bankruptcy, Character.AI’s newly appointed CEO explained that the goal of the bankruptcy was to reach a “consensual resolution” with personal injury claimants and a group of states investigating the company, while maximizing the value of the company’s assets for shareholders. The Disney deal seems to be structured so that whatever is left of Character.AI will retain responsibility for those legal battles, some of which are still ongoing. Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple’s last-gen Mac Mini with the M4 is $150 off</title>
-<link>https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale</link>
-<guid isPermaLink="false">4c14ea4cdc714e96e9396b62c0dd1df3404afa90df60b80b9102825a86e6a5cf</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 14:41:48 +0000</pubDate>
-<description>The front view of the Mac Mini. | Image: The Verge Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available from Amazon for $779.99 (originally $899) for the past couple of weeks. However, at $649 it’s a much more tempting price. The M4 Mac Mini launched at $599 in 2024, and was an incredible value. Given that this sale price makes it just $50 more than the original price instead of $200, it’s a good time to buy if you want to spend as little as possible on a modern Mac desktop. Mac Mini with M4 Where to Buy: $799 $649 at Best Buy (256GB) Aside from some impressive generational leaps in processing power, you aren’t missing out on a ton by skipping the M6 model and opting for the M4. Their design and ports are nearly identical, and with either model you’ll need to supply your own keyboard, mouse, display, webcam, etc. If you’re on the fence and can’t decide between the M4 and M6 models, I suggest checking out my colleague Antonio’s review of the M6 Mac Mini. The newer model might be well worth the extra $130 cost. Read our review of the M4 Mac Mini and the M6 Mac Mini More Verge-approved deals Today brought a big discount to LG’s C6 OLEDs lineup , particularly its bigger models. The 55-inch model is $999.99 at Amazon , Best Buy , and Costco (previously $1,399.99), costing a little less than the 42- and 48-inch configurations. The price hasn’t gone below $1,299.99 before, so it’s a good time to consider an upgrade. The 65-inch model is cheaper than before, too. Previously $1,699.99, but normally selling for $1,500 or so, you can grab the larger version for $1,399.99 at Amazon , Best Buy , and Costco . If you have a big room and budget, the 77-inch LG C6H that, like the 48-inch version, has a tandem OLED panel that offers more brightness and better colors, is $1,999.99 , down from $2,499.99. For $499.99, you can grab a 14-inch HP OmniBook 3 during Best Buy’s deal of the day that has a 2K OLED screen, a capable Snapdragon X ARM processor, 16GB of RAM, and a 256GB SSD. This seems like a fantastic option for anyone on a budget. Its Snapdragon processor can run most x86 Windows 11 apps without much issue, and it’s just a rarity to get these kinds of specs — from the OLED screen to the RAM amount — at $500. My colleague Antonio reviewed the 16-inch version that cuts some corners in the screen department compared to this 14-inch model. It’s time to get spooky if you haven’t already planned your run of games for Halloween. The spectacular Silent Hill 2 remake is down to $21.34 on Steam for PC via Fanatical , a third-party site I’ve shopped from numerous times. If you’re alright with spending more, Resident Evil Requiem is one of Capcom’s several great 2026 games, and it’s $20 off at Amazon on all platforms, costing $49.99.</description>
-<dc:creator>Cameron Faulkner</dc:creator>
-<content:encoded>The front view of the Mac Mini. | Image: The Verge Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available from Amazon for $779.99 (originally $899) for the past couple of weeks. However, at $649 it’s a much more tempting price. The M4 Mac Mini launched at $599 in 2024, and was an incredible value. Given that this sale price makes it just $50 more than the original price instead of $200, it’s a good time to buy if you want to spend as little as possible on a modern Mac desktop. Mac Mini with M4 Where to Buy: $799 $649 at Best Buy (256GB) Aside from some impressive generational leaps in processing power, you aren’t missing out on a ton by skipping the M6 model and opting for the M4. Their design and ports are nearly identical, and with either model you’ll need to supply your own keyboard, mouse, display, webcam, etc. If you’re on the fence and can’t decide between the M4 and M6 models, I suggest checking out my colleague Antonio’s review of the M6 Mac Mini. The newer model might be well worth the extra $130 cost. Read our review of the M4 Mac Mini and the M6 Mac Mini More Verge-approved deals Today brought a big discount to LG’s C6 OLEDs lineup , particularly its bigger models. The 55-inch model is $999.99 at Amazon , Best Buy , and Costco (previously $1,399.99), costing a little less than the 42- and 48-inch configurations. The price hasn’t gone below $1,299.99 before, so it’s a good time to consider an upgrade. The 65-inch model is cheaper than before, too. Previously $1,699.99, but normally selling for $1,500 or so, you can grab the larger version for $1,399.99 at Amazon , Best Buy , and Costco . If you have a big room and budget, the 77-inch LG C6H that, like the 48-inch version, has a tandem OLED panel that offers more brightness and better colors, is $1,999.99 , down from $2,499.99. For $499.99, you can grab a 14-inch HP OmniBook 3 during Best Buy’s deal of the day that has a 2K OLED screen, a capable Snapdragon X ARM processor, 16GB of RAM, and a 256GB SSD. This seems like a fantastic option for anyone on a budget. Its Snapdragon processor can run most x86 Windows 11 apps without much issue, and it’s just a rarity to get these kinds of specs — from the OLED screen to the RAM amount — at $500. My colleague Antonio reviewed the 16-inch version that cuts some corners in the screen department compared to this 14-inch model. It’s time to get spooky if you haven’t already planned your run of games for Halloween. The spectacular Silent Hill 2 remake is down to $21.34 on Steam for PC via Fanatical , a third-party site I’ve shopped from numerous times. If you’re alright with spending more, Resident Evil Requiem is one of Capcom’s several great 2026 games, and it’s $20 off at Amazon on all platforms, costing $49.99.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/macminim4.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/macminim4.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield</title>
@@ -1538,19 +1525,6 @@
 <media:content url="https://image.theregister.com/?imageId=5303256&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The Story of Billy Evans and ‘Theranos 2.0’</title>
-<link>https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20</link>
-<guid isPermaLink="false">a9d78ebbb160d97177f182a9eeeb2ff6bb7aab05557bba6ac7badadd211a8248</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
-<description>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</description>
-<dc:creator>Christopher Hooks</dc:creator>
-<content:encoded>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" medium="image"/>
-</item>
-<item>
 <title>How Elizabeth Holmes Tricked WIRED—and Everyone Else</title>
 <link>https://www.wired.com/story/how-elizabeth-holmes-tricked-wired-and-everyone-else</link>
 <guid isPermaLink="false">11c144944d534372cee9a1b4074e5606797e33acae860e1e75fd14e52ec639fd</guid>
@@ -1562,6 +1536,19 @@
 <content:encoded>WIRED was the first magazine to cover Theranos and its enticing billionaire founder. There were warning signs even then.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg" medium="image"/>
+</item>
+<item>
+<title>The Story of Billy Evans and ‘Theranos 2.0’</title>
+<link>https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20</link>
+<guid isPermaLink="false">a9d78ebbb160d97177f182a9eeeb2ff6bb7aab05557bba6ac7badadd211a8248</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+<description>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</description>
+<dc:creator>Christopher Hooks</dc:creator>
+<content:encoded>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" medium="image"/>
 </item>
 <item>
 <title>15 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)</title>
@@ -1822,6 +1809,19 @@
 <content:encoded>Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/master/pass/101626-Power%20Play.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/master/pass/101626-Power%20Play.jpg" medium="image"/>
+</item>
+<item>
+<title>World Bank says ‘small AI’ could transform developing countries</title>
+<link>https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies</link>
+<guid isPermaLink="false">d9a834e73e871bf54e7187a340b9ef76ba45e322efb2a4cc61c0f53829b9d7aa</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 10:00:56 +0000</pubDate>
+<description>Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decades The World Bank is urging developing countries to kickstart the creation of “small AI” models, which can run on a mobile phone with low connectivity, to reap the full benefits of artificial intelligence. While Silicon Valley big tech firms are focused on ever more sophisticated consumer products, Paschal Donohoe, the World Bank’s chief knowledge officer, said AI could also accelerate development for emerging economies – but only if it was adapted to local needs. Continue reading...</description>
+<dc:creator>Heather Stewart in Bangkok</dc:creator>
+<content:encoded>Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decades The World Bank is urging developing countries to kickstart the creation of “small AI” models, which can run on a mobile phone with low connectivity, to reap the full benefits of artificial intelligence. While Silicon Valley big tech firms are focused on ever more sophisticated consumer products, Paschal Donohoe, the World Bank’s chief knowledge officer, said AI could also accelerate development for emerging economies – but only if it was adapted to local needs. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/eb8682cc7e3f9007f9509c961275a6fa6b472f92/446_0_3621_2896/master/3621.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=712999bf0afc4905c307124b98932f2e" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/eb8682cc7e3f9007f9509c961275a6fa6b472f92/446_0_3621_2896/master/3621.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=712999bf0afc4905c307124b98932f2e" medium="image"/>
 </item>
 <item>
 <title>Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK</title>
@@ -2238,19 +2238,6 @@
 <content:encoded>The UK's competition watchdog wants to designate Microsoft with strategic market status (SMS) in business software, allowing the regulator it to intervene to level the playing field, and says it is considering other areas for investigation. Regulators around the world are watching to see what the UK decides in this case, with bodies such as the US Federal Trade Commission (FTC) and the European Commission mulling similar actions. The Competition and Markets Authority (CMA) is opening a consultation on whether to tag the Redmond software giant with strategic market status in respect of its portfolio of business software applications. This follows an investigation the regulator started back in May into Microsoft’s software portfolio including Word, Excel, Outlook, PowerPoint and Teams, plus its security, server and operating systems. The watchdog is also probing whether Microsoft enjoys a position of “substantial and entrenched market power” through the suite of software that could be seen as stifling competition and harming buyer choice. It lays out its proposed decision in a document [PDF] and is inviting comments that must be submitted by November 13. The CMA will make its final decision by February 13, 2027. Bargain spotter The CMA makes it clear the company holds a strong position in each of the five areas it investigated (personal computer operating systems, productivity software suites, security software, server operating systems and relational database management systems), and that customers face barriers when switching providers – limiting their choice and weakening the ability of other software developers to offer rival products. Its proposal document notes Microsoft has been by far the largest provider of business software in the UK for decades. It finds that many customers view Microsoft's portfolio as a unified software environment, forming an end-to-end, integrated stack which makes for easier technical integration between products, with discounted pricing for buying whole bundles of applications together. This makes customers less likely to adopt products from alternative providers that may offer similar or superior functionality, as doing so would duplicate licensing costs for products already in their Microsoft bundle, the CMA says. “Organizations should be able to choose the products that work best for them, switch provider when they want to and combine services from different suppliers. We want to ensure businesses have the freedom to choose how they use Microsoft’s products alongside alternatives,” said CMA chief exec Sarah Cardell. Finding that the criteria for SMS designation are met would not imply or assume wrongdoing on Microsoft’s part, the regulator stresses. A separate document [PDF] spells out the potential interventions that the CMA could make. These include ensuring that Microsoft’s technical design choices do not restrict the ability to use other providers; that commercial arrangements (like bundling) do not limit effective competition; and preventing Microsoft from using its market power in business software to distort competition in adjacent activities, such as cloud services. Rivals back licensing scrutiny Cloud providers previously complained that Microsoft's licensing terms make it more costly for companies to deploy Windows Server instances and services such as SQL Server on non-Microsoft clouds. The proposed SMS designation grew out of the CMA’s investigations into whether the big global players were having a negative impact on the cloud services market in the UK . This largely fizzled out with the watchdog securing undertakings from Microsoft and Amazon Web Services (AWS) that they would work to reduce barriers to switching between clouds and operating multi-cloud deployments. In an update, the CMA says that more can be done to address barriers to switching between cloud providers and using multiple cloud services, and it will continue to work with AWS and Microsoft to address them. It also says it its looking into whether customers can freely choose the best AI tools, and whether alternative AI providers have a level playing field to compete against Copilot. In a statement sent to The Register , Microsoft said it does not share the CMA’s views in its proposed decision on business software solutions. “All our products - including Copilot - are open and interoperable, giving customers the ability to use them alongside competing services and choose solutions that work best for them at attractive prices. We will continue engaging constructively to ensure UK customers and businesses carry on benefiting from robust competition,” a spokesperson told us. However, some pressure groups were quick to signal their approval. The Browser Choice Alliance said it welcomes the CMA’s proposed decision, adding that: “BCA members have long experienced how Microsoft leverages its market power from Windows and productivity software to push users towards its Edge browser, even where they’re trying to use an alternative.” The Open Cloud Coalition, which counts Google as a member, said: “Microsoft’s restrictive software licensing practices distort competition in the cloud, harm choice, and increase costs. This once-in-a-generation opportunity to end these practices can strengthen competition and lower customer costs, if the CMA acts quickly and decisively.” ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5303558&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5303558&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Want your AI chats to stay private? Brave TEEs up end-to-end encryption</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/16/want-your-ai-chats-to-stay-private-brave-tees-up-end-to-end-encryption/5303462</link>
-<guid isPermaLink="false">9fb413ec1bf908960b5317198c908379715b68aedae0d23d0ce89905a79e08d3</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 12:15:00 +0000</pubDate>
-<description>Brave Software has set up a secure space so those using its browser can converse with the company's AI assistant in private. At a time when AI agents like Meta's Muse ask for extensive access to personal information, and AI companies repurpose conversations for training , this amounts to swimming against the tide. Following up on an experiment launched last November to implement a confidential channel for LLM conversations with the help of NEAR AI's trusted execution environment (TEE), the browser maker has connected its Leo AI assistant to Z.ai 's GLM 5.3 Flash under the protection of end-to-end encryption. The result is that Brave users can submit a prompt to Leo that gets encrypted on-device and sent over the network using Oblivious HTTP , a protocol for separating network requests from associated content. Brave's AI Gateway forwards the encrypted query to the TEE without passing along the user's IP address. After Brave verifies the enclave's attestation, the browser encrypts the query using a key bound to the TEE. The TEE decrypts the request, runs it through the AI model, and sends back an encrypted response that gets decrypted by the receiving browser. "In 2014, I argued in ' Trust but Verify ' that users shouldn't have to place blind trust in the software they rely on," said Brendan Eich, co-founder and CEO of Brave, in a statement . "They should be able to verify it; this is a user-first principle. AI has raised the stakes, yet too much of it still runs on 'trust me bro' promises, often at the user's expense." NEAR AI's confidential AI pipeline is built with Intel TDX and Nvidia Confidential Compute. It includes end-to-end encryption that keeps Brave from knowing what was asked and NEAR AI from knowing who did the asking during the network hop. Data isolation prevents the prompt or response from being read during processing. Responses are signed in the TEE and there's attestation so users can confirm there's no model bait-and-switch . Leo's GLM 5.3 Flash brain may be isolated in this scenario, but Brave's AI bot can still conduct searches from within the TEE via the Brave Search API's LLM context endpoint. And any searches done this way transit via the TEE rather than the user's browser, which keeps the user's IP address out of the picture. The implementation isn't quite complete: Brave intends to work on moving the verification step into the browser and to publish a log of TEE keys, and to provide enclave attestation for exact model weights loaded into memory, among other things. Brave is not the only company trying to make AI less of a data exposure risk. Apple , AWS , Google , Nvidia , and Microsoft all have some form of private cloud compute infrastructure for AI. Then there's Prem AI , which promises encrypted inference, not to mention providers advertising zero data retention, which isn't as verifiable. One way to ensure privacy while using AI is to run inference on local hardware using an open weight model, assuming the model and t</description>
-<dc:creator>Thomas Claburn</dc:creator>
-<content:encoded>Brave Software has set up a secure space so those using its browser can converse with the company's AI assistant in private. At a time when AI agents like Meta's Muse ask for extensive access to personal information, and AI companies repurpose conversations for training , this amounts to swimming against the tide. Following up on an experiment launched last November to implement a confidential channel for LLM conversations with the help of NEAR AI's trusted execution environment (TEE), the browser maker has connected its Leo AI assistant to Z.ai 's GLM 5.3 Flash under the protection of end-to-end encryption. The result is that Brave users can submit a prompt to Leo that gets encrypted on-device and sent over the network using Oblivious HTTP , a protocol for separating network requests from associated content. Brave's AI Gateway forwards the encrypted query to the TEE without passing along the user's IP address. After Brave verifies the enclave's attestation, the browser encrypts the query using a key bound to the TEE. The TEE decrypts the request, runs it through the AI model, and sends back an encrypted response that gets decrypted by the receiving browser. "In 2014, I argued in ' Trust but Verify ' that users shouldn't have to place blind trust in the software they rely on," said Brendan Eich, co-founder and CEO of Brave, in a statement . "They should be able to verify it; this is a user-first principle. AI has raised the stakes, yet too much of it still runs on 'trust me bro' promises, often at the user's expense." NEAR AI's confidential AI pipeline is built with Intel TDX and Nvidia Confidential Compute. It includes end-to-end encryption that keeps Brave from knowing what was asked and NEAR AI from knowing who did the asking during the network hop. Data isolation prevents the prompt or response from being read during processing. Responses are signed in the TEE and there's attestation so users can confirm there's no model bait-and-switch . Leo's GLM 5.3 Flash brain may be isolated in this scenario, but Brave's AI bot can still conduct searches from within the TEE via the Brave Search API's LLM context endpoint. And any searches done this way transit via the TEE rather than the user's browser, which keeps the user's IP address out of the picture. The implementation isn't quite complete: Brave intends to work on moving the verification step into the browser and to publish a log of TEE keys, and to provide enclave attestation for exact model weights loaded into memory, among other things. Brave is not the only company trying to make AI less of a data exposure risk. Apple , AWS , Google , Nvidia , and Microsoft all have some form of private cloud compute infrastructure for AI. Then there's Prem AI , which promises encrypted inference, not to mention providers advertising zero data retention, which isn't as verifiable. One way to ensure privacy while using AI is to run inference on local hardware using an open weight model, assuming the model and the machine running it haven't been compromised. ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5303468&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5303468&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost</title>
