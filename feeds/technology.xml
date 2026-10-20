@@ -4,6 +4,97 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Don't put your phone in the TSA bin — do this instead</title>
+<link>https://www.engadget.com/2288969/why-shouldnt-put-phone-tsa-bin</link>
+<guid isPermaLink="false">903308623db95f2bf546150eb66cd6d01d74487a5af390c3bab4f62d7a5a2e56</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 16:45:00 +0000</pubDate>
+<description>Let's be honest, TSA bins are just gross.</description>
+<dc:creator>staff@engadget.com (Giancarlo Valdes)</dc:creator>
+<content:encoded>Let's be honest, TSA bins are just gross.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/dont-put-your-phone-in-the-tsa-bin-do-this-instead/l-intro-1792170181.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/dont-put-your-phone-in-the-tsa-bin-do-this-instead/l-intro-1792170181.jpg" medium="image"/>
+</item>
+<item>
+<title>Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'</title>
+<link>https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198</link>
+<guid isPermaLink="false">1aad6943261a1f7e245d056252249e6071f05a7da027c647d8b8a059067b0dff</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 16:30:00 +0000</pubDate>
+<description>An "avalanche of vulnerability reports" is forcing curl to move lower-severity cases into public view, reserving private handling for high and critical flaws. From October 26, low and medium-severity reports should be filed in the open source data transfer tool's public GitHub repository, maintainer Daniel Stenberg said . "Security researchers in doubt can still submit the issue on HackerOne and we can tell them what severity we deem it to be. Over the last few years, over 90 percent of all submissions could quickly be assessed to be less than HIGH." Stenberg already shuttered curl's bug bounty scheme this year as AI-generated submissions piled work onto its security team. Stenberg has previously acknowledged that not all AI-assisted reports are bad, but the workload now demands another response. "This policy change is entirely triggered by the current avalanche of vulnerability reports that keep pouring in . We see no end to them and we do not anticipate this flood to decrease within the next several months. "We are struggling as a project as all key maintainers feel strained, overloaded and brought to the brink of what we can muster. We must act to survive. This is our next step in a survival strategy. It might not be our last. We aim to not drown." Public handling would let more people assess reports, develop fixes, write advisories, and check for related problems before releases ship, Stenberg said. Handling vulnerability reports publicly won't reduce the work per report, he admits, though it could spread the load and make the resulting lessons and documentation easier to find. At least that's the theory. Public disclosure also gives attackers more time to exploit flaws before fixes arrive. The maintainer agrees this is unfortunate yet unavoidable. "We limit this practice to less than HIGH for this reason: at least these problems are not terrible." Stenberg said researchers using AI are generating unusual option combinations unlikely to occur in real applications, then treating minor discrepancies as vulnerabilities. "We can't continue down this spiraling path with our sanity intact. We don't have the bandwidth, manpower or even will to handle a never-ending vulnerability reporting stream at this pace. I believe few software projects can stand this kind of prolonged high volume deluge for extended periods. Something needs to give way." ®</description>
+<dc:creator>Paul Kunert</dc:creator>
+<content:encoded>An "avalanche of vulnerability reports" is forcing curl to move lower-severity cases into public view, reserving private handling for high and critical flaws. From October 26, low and medium-severity reports should be filed in the open source data transfer tool's public GitHub repository, maintainer Daniel Stenberg said . "Security researchers in doubt can still submit the issue on HackerOne and we can tell them what severity we deem it to be. Over the last few years, over 90 percent of all submissions could quickly be assessed to be less than HIGH." Stenberg already shuttered curl's bug bounty scheme this year as AI-generated submissions piled work onto its security team. Stenberg has previously acknowledged that not all AI-assisted reports are bad, but the workload now demands another response. "This policy change is entirely triggered by the current avalanche of vulnerability reports that keep pouring in . We see no end to them and we do not anticipate this flood to decrease within the next several months. "We are struggling as a project as all key maintainers feel strained, overloaded and brought to the brink of what we can muster. We must act to survive. This is our next step in a survival strategy. It might not be our last. We aim to not drown." Public handling would let more people assess reports, develop fixes, write advisories, and check for related problems before releases ship, Stenberg said. Handling vulnerability reports publicly won't reduce the work per report, he admits, though it could spread the load and make the resulting lessons and documentation easier to find. At least that's the theory. Public disclosure also gives attackers more time to exploit flaws before fixes arrive. The maintainer agrees this is unfortunate yet unavoidable. "We limit this practice to less than HIGH for this reason: at least these problems are not terrible." Stenberg said researchers using AI are generating unusual option combinations unlikely to occur in real applications, then treating minor discrepancies as vulnerabilities. "We can't continue down this spiraling path with our sanity intact. We don't have the bandwidth, manpower or even will to handle a never-ending vulnerability reporting stream at this pace. I believe few software projects can stand this kind of prolonged high volume deluge for extended periods. Something needs to give way." ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=258345&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=258345&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>AMD is bringing FSR 4.1 to Xbox consoles and handhelds</title>
+<link>https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops</link>
+<guid isPermaLink="false">4765d0199e5a406bf17901455a19853c63c57d5930071c1738c5405a992383d6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 16:21:18 +0000</pubDate>
+<description>AMD has just revealed that it's bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and handhelds like the Xbox Ally X devices. FSR 4.1 will start appearing for Radeon RX 6000-series GPUs today, as well as Ryzen AI Max 300 and 400 series devices, and Ryzen AI 9 300 and 400 series devices. AMD launched its FSR 4.1 update for Radeon RX 9000-series graphics cards in March, and promised to bring the technology to older GPUs and handhelds this year. FSR 4.1 can improve performance in more than 300 supported games , including Cyberpunk 2077 , Battlefield 6 , and Assassin's Cre … Read the full story at The Verge.</description>
+<dc:creator>Tom Warren</dc:creator>
+<content:encoded>AMD has just revealed that it's bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and handhelds like the Xbox Ally X devices. FSR 4.1 will start appearing for Radeon RX 6000-series GPUs today, as well as Ryzen AI Max 300 and 400 series devices, and Ryzen AI 9 300 and 400 series devices. AMD launched its FSR 4.1 update for Radeon RX 9000-series graphics cards in March, and promised to bring the technology to older GPUs and handhelds this year. FSR 4.1 can improve performance in more than 300 supported games , including Cyberpunk 2077 , Battlefield 6 , and Assassin's Cre … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/3b4peqgb3j7f1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/3b4peqgb3j7f1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>You can build your own mechanical keyboard, but is it worth the price?</title>
+<link>https://www.engadget.com/2288961/build-keyboard-why-worth-it</link>
+<guid isPermaLink="false">be17078aeccbb4d5145bdaf568d52afc07672e6a0004683e9327e5eb8be54380</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 16:15:00 +0000</pubDate>
+<description>If you have both the time and money, building a keyboard can be a fun hobby.</description>
+<dc:creator>staff@engadget.com (Robin Bea)</dc:creator>
+<content:encoded>If you have both the time and money, building a keyboard can be a fun hobby.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/you-can-build-your-own-mechanical-keyboard-but-is-it-worth-the-price/l-intro-1792169830.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/you-can-build-your-own-mechanical-keyboard-but-is-it-worth-the-price/l-intro-1792169830.jpg" medium="image"/>
+</item>
+<item>
+<title>OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/20/onedrive-loses-bunch-of-copilot-shortcuts-in-file-explorer-clear-out/5304149</link>
+<guid isPermaLink="false">eed5f7860c8b99a7af4268d4f2e8836ac363d42d390277f9f231b5facc37a4c6</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 16:04:00 +0000</pubDate>
+<description>Microsoft is pruning OneDrive's Copilot options from File Explorer's right-click menu, though the AI assistant isn't being shown the door entirely. The Windows giant will remove shortcuts for summarizing documents, generating FAQs, comparing files and images, explaining images, extracting text, and asking questions. The rollout begins in mid-November and is expected to finish by early December. "Ask Copilot" will remain. Microsoft's September 2025 announcement of the feature said: "We are bringing the power of AI directly into your daily file management experience. With just a few clicks, Copilot can help you summarize lengthy documents, generate an FAQ, compare files, or answer questions about your file." Users can still right-click a OneDrive file and select "Ask Copilot" to start a conversation with the file attached, or use the Copilot icon in File Explorer Home. The individual actions will also remain available in the OneDrive activity center. Adding a clutch of Copilot options with identical icons did little to make an already crowded menu easier to navigate. In its message on the subject, Microsoft said: "We're simplifying how people use Copilot with their OneDrive files in File Explorer." An extra click, yes, but at least you won't need a taller screen to view even more context menu options. Microsoft has stated that it intends to adopt a more thoughtful approach to how and where its AI assistant turns up in its product line. In March 2026, Windows boss Pavan Davuluri said : "We are reducing unnecessary Copilot entry points." File Explorer's crowded right-click menu seems as good a place to start as any. The File Explorer context menu is also undergoing an overhaul as part of Microsoft's attempt to make it less "cluttered and sluggish," to the point where users could opt to have it work a bit like it used to in Windows 10. ®</description>
+<dc:creator>Richard Speed</dc:creator>
+<content:encoded>Microsoft is pruning OneDrive's Copilot options from File Explorer's right-click menu, though the AI assistant isn't being shown the door entirely. The Windows giant will remove shortcuts for summarizing documents, generating FAQs, comparing files and images, explaining images, extracting text, and asking questions. The rollout begins in mid-November and is expected to finish by early December. "Ask Copilot" will remain. Microsoft's September 2025 announcement of the feature said: "We are bringing the power of AI directly into your daily file management experience. With just a few clicks, Copilot can help you summarize lengthy documents, generate an FAQ, compare files, or answer questions about your file." Users can still right-click a OneDrive file and select "Ask Copilot" to start a conversation with the file attached, or use the Copilot icon in File Explorer Home. The individual actions will also remain available in the OneDrive activity center. Adding a clutch of Copilot options with identical icons did little to make an already crowded menu easier to navigate. In its message on the subject, Microsoft said: "We're simplifying how people use Copilot with their OneDrive files in File Explorer." An extra click, yes, but at least you won't need a taller screen to view even more context menu options. Microsoft has stated that it intends to adopt a more thoughtful approach to how and where its AI assistant turns up in its product line. In March 2026, Windows boss Pavan Davuluri said : "We are reducing unnecessary Copilot entry points." File Explorer's crowded right-click menu seems as good a place to start as any. The File Explorer context menu is also undergoing an overhaul as part of Microsoft's attempt to make it less "cluttered and sluggish," to the point where users could opt to have it work a bit like it used to in Windows 10. ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=1619823&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=1619823&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)</title>
+<link>https://www.wired.com/review/review-hatch-sleep-clock</link>
+<guid isPermaLink="false">7e74c4fb9657bced8e1084400032b6d315cca297b11925a48287f4796c666b54</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 16:03:17 +0000</pubDate>
+<description>I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. Can the Hatch Sleep Clock give me the best of both worlds at an affordable price?</description>
+<dc:creator>Boutayna Chokrane</dc:creator>
+<content:encoded>I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. Can the Hatch Sleep Clock give me the best of both worlds at an affordable price?</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad67177f85dfee471db0a6b/master/pass/Review%20Hatch%20Sleep%20Clock%20102026%20top%20art%20SOURCE%20Hatch.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad67177f85dfee471db0a6b/master/pass/Review%20Hatch%20Sleep%20Clock%20102026%20top%20art%20SOURCE%20Hatch.jpg" medium="image"/>
+</item>
+<item>
+<title>Arturia’s MiniFreak 49 makes its Freak synths more professional</title>
+<link>https://www.theverge.com/gadgets/1014255/arturias-minifreak-49-synthesizer</link>
+<guid isPermaLink="false">e8f7eb6b3db4fd38dd485bfaa47fbd8713748e6c943019f977478f6ef138537f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
+<description>Arturia is adding to its Freak line of proudly weird digital synths with the MiniFreak 49. Under the hood, it's almost identical to the current MiniFreak , but it adds a number of more professional features and some interface improvements. The most noticeable change is that, rather than the MiniFreak's 37 minikeys or the MicroFreak's 25 "key" touchplate, the MiniFreak 49 has (as you may have guessed) 49 full-sized, semi-weighted keys. Though it's somewhat disappointing that they feature only mono aftertouch instead of polyphonic aftertouch. It also trades the touchstrips of the other Freak instruments for proper aluminum pitch and mod wheel … Read the full story at The Verge.</description>
+<dc:creator>Terrence O’Brien</dc:creator>
+<content:encoded>Arturia is adding to its Freak line of proudly weird digital synths with the MiniFreak 49. Under the hood, it's almost identical to the current MiniFreak , but it adds a number of more professional features and some interface improvements. The most noticeable change is that, rather than the MiniFreak's 37 minikeys or the MicroFreak's 25 "key" touchplate, the MiniFreak 49 has (as you may have guessed) 49 full-sized, semi-weighted keys. Though it's somewhat disappointing that they feature only mono aftertouch instead of polyphonic aftertouch. It also trades the touchstrips of the other Freak instruments for proper aluminum pitch and mod wheel … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Playful2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Playful2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>The Gospel according to Peter (Thiel)</title>
 <link>https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis</link>
 <guid isPermaLink="false">79c68c952c743be25d648079368083f6d583203037f900c61ca1a12191a5bde1</guid>
@@ -43,19 +134,6 @@
 <media:content url="https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg" medium="image"/>
 </item>
 <item>
-<title>Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)</title>
-<link>https://www.wired.com/review/review-hatch-sleep-clock</link>
-<guid isPermaLink="false">7e74c4fb9657bced8e1084400032b6d315cca297b11925a48287f4796c666b54</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 15:32:00 +0000</pubDate>
-<description>I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. Can the Hatch Sleep Clock give me the best of both worlds at an affordable price?</description>
-<dc:creator>Boutayna Chokrane</dc:creator>
-<content:encoded>I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. Can the Hatch Sleep Clock give me the best of both worlds at an affordable price?</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad67177f85dfee471db0a6b/master/pass/Review%20Hatch%20Sleep%20Clock%20102026%20top%20art%20SOURCE%20Hatch.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad67177f85dfee471db0a6b/master/pass/Review%20Hatch%20Sleep%20Clock%20102026%20top%20art%20SOURCE%20Hatch.jpg" medium="image"/>
-</item>
-<item>
 <title>openEuler brings China's enterprise Linux ambitions to the desktop</title>
 <link>https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145</link>
 <guid isPermaLink="false">c2aed37a22dfa4474a0158ecb8727752cb9ff88c80d5f139dd9b0b5851741384</guid>
@@ -75,9 +153,9 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 15:27:50 +0000</pubDate>
-<description>A computer program has finally oudone humans at solving cryptic crosswords. Plus, more from around the puzzleverse • Don’t get Cluesletter, our weekly puzzles newsletter, delivered to your inbox? Sign up here When the IBM supercomputer Deep Blue beat Garry Kasparov at chess in 1997, it was an early victory for artificial intelligence over the human mind, and the culmination of decades of attempts. Almost 30 years later, a computer program has finally outdone humans at solving cryptic crosswords. Earlier this month, a model called Darmok solved the final puzzle of the Times’s annual cryptic crossword competition about three minutes faster than Liam Hughes, 29, who became the contest’s youngest (human) winner . Wolf trap missing its lowest crosspiece? (5)” Proportion of inspiration and perspiration? It’s roughly 45% and 42% (5) Kick-off leads to decisive early goal for PSG (5) To read the complete version of this newsletter including the exclusive Letter Adder game, subscribe to receive Cluesletter in your inbox every Tuesday. Continue reading...</description>
+<description>A computer program has finally outdone humans at solving cryptic crosswords. Plus, more from around the puzzleverse • Don’t get Cluesletter, our weekly puzzles newsletter, delivered to your inbox? Sign up here When the IBM supercomputer Deep Blue beat Garry Kasparov at chess in 1997, it was an early victory for artificial intelligence over the human mind, and the culmination of decades of attempts. Almost 30 years later, a computer program has finally outdone humans at solving cryptic crosswords. Earlier this month, a model called Darmok solved the final puzzle of the Times’s annual cryptic crossword competition about three minutes faster than Liam Hughes, 29, who became the contest’s youngest (human) winner . Wolf trap missing its lowest crosspiece? (5)” Proportion of inspiration and perspiration? It’s roughly 45% and 42% (5) Kick-off leads to decisive early goal for PSG (5) To read the complete version of this newsletter including the exclusive Letter Adder game, subscribe to receive Cluesletter in your inbox every Tuesday. Continue reading...</description>
 <dc:creator>Alan Evans</dc:creator>
-<content:encoded>A computer program has finally oudone humans at solving cryptic crosswords. Plus, more from around the puzzleverse • Don’t get Cluesletter, our weekly puzzles newsletter, delivered to your inbox? Sign up here When the IBM supercomputer Deep Blue beat Garry Kasparov at chess in 1997, it was an early victory for artificial intelligence over the human mind, and the culmination of decades of attempts. Almost 30 years later, a computer program has finally outdone humans at solving cryptic crosswords. Earlier this month, a model called Darmok solved the final puzzle of the Times’s annual cryptic crossword competition about three minutes faster than Liam Hughes, 29, who became the contest’s youngest (human) winner . Wolf trap missing its lowest crosspiece? (5)” Proportion of inspiration and perspiration? It’s roughly 45% and 42% (5) Kick-off leads to decisive early goal for PSG (5) To read the complete version of this newsletter including the exclusive Letter Adder game, subscribe to receive Cluesletter in your inbox every Tuesday. Continue reading...</content:encoded>
+<content:encoded>A computer program has finally outdone humans at solving cryptic crosswords. Plus, more from around the puzzleverse • Don’t get Cluesletter, our weekly puzzles newsletter, delivered to your inbox? Sign up here When the IBM supercomputer Deep Blue beat Garry Kasparov at chess in 1997, it was an early victory for artificial intelligence over the human mind, and the culmination of decades of attempts. Almost 30 years later, a computer program has finally outdone humans at solving cryptic crosswords. Earlier this month, a model called Darmok solved the final puzzle of the Times’s annual cryptic crossword competition about three minutes faster than Liam Hughes, 29, who became the contest’s youngest (human) winner . Wolf trap missing its lowest crosspiece? (5)” Proportion of inspiration and perspiration? It’s roughly 45% and 42% (5) Kick-off leads to decisive early goal for PSG (5) To read the complete version of this newsletter including the exclusive Letter Adder game, subscribe to receive Cluesletter in your inbox every Tuesday. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/c6c720b35b47cb4d8acc8251786141517b5aaa4d/0_0_1676_1341/master/1676.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09951da0d0c14976a47f4f634a0ad849" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/c6c720b35b47cb4d8acc8251786141517b5aaa4d/0_0_1676_1341/master/1676.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09951da0d0c14976a47f4f634a0ad849" medium="image"/>
 </item>
@@ -192,9 +270,9 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 14:18:37 +0000</pubDate>
-<description>Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday , which says Spotify has also made changes to its recommendation system to highlight more music made by human artists. "Our editors hold the same standard and don't program content identified as slop or spam," Spotify says. "Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations." Though Spotify has stopped short of mandating labels on all AI tracks, it launched an "AI Persona" badge fo … Read the full story at The Verge.</description>
+<description>Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. "Our editors hold the same standard and don't program content identified as slop or spam," Spotify says. "Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations." Though Spotify has stopped short of mandating labels on all AI tracks, it launched an "AI Persona" badge for … Read the full story at The Verge.</description>
 <dc:creator>Emma Roth</dc:creator>
-<content:encoded>Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday , which says Spotify has also made changes to its recommendation system to highlight more music made by human artists. "Our editors hold the same standard and don't program content identified as slop or spam," Spotify says. "Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations." Though Spotify has stopped short of mandating labels on all AI tracks, it launched an "AI Persona" badge fo … Read the full story at The Verge.</content:encoded>
+<content:encoded>Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. "Our editors hold the same standard and don't program content identified as slop or spam," Spotify says. "Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations." Though Spotify has stopped short of mandating labels on all AI tracks, it launched an "AI Persona" badge for … Read the full story at The Verge.</content:encoded>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -446,19 +524,6 @@
 <media:content url="https://www.engadget.com/img/gallery/openai-says-its-models-can-help-banks-migrate-from-old-cobol-programs/l-intro-1792497626.jpg" medium="image"/>
 </item>
 <item>
-<title>Spotify’s new podcast memberships let you pay for extra perks</title>
-<link>https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch</link>
-<guid isPermaLink="false">1de7b9aae8f8738acc86fc4dcdff0dccc0f1c2b917ef194b349a0e31ac5fba3c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-<description>Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May , the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks including additional content, early access, bonus episodes, and reduced ads behind a paywall. Users can find Memberships on a podcast's Spotify page, with the ability to subscribe, pay, and access the exclusive benefits "in just a few taps," according to Spotify. Podcast creators can set their pricing options and bundle benefits across multiple subscrip … Read the full story at The Verge.</description>
-<dc:creator>Jess Weatherbed</dc:creator>
-<content:encoded>Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May , the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks including additional content, early access, bonus episodes, and reduced ads behind a paywall. Users can find Memberships on a podcast's Spotify page, with the ability to subscribe, pay, and access the exclusive benefits "in just a few taps," according to Spotify. Podcast creators can set their pricing options and bundle benefits across multiple subscrip … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-Podcast-Memberships.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-Podcast-Memberships.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Spotify's Memberships program for podcasts is here to compete with Patreon</title>
 <link>https://www.engadget.com/2290053/spotifys-memberships-program-for-podcasts-is-here-to-compete-with-patreon</link>
 <guid isPermaLink="false">b7469a1b556ba997bfdfab74f323f3766fec965219abd65484682a7534342156</guid>
@@ -600,19 +665,6 @@
 <content:encoded>The internet told them Europe was a social paradise. Turns out the trains are awful, the health care isn’t free, and people can be really mean.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ab68ffabc7793cf754904bd/master/pass/Final_Art.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ab68ffabc7793cf754904bd/master/pass/Final_Art.jpg" medium="image"/>
-</item>
-<item>
-<title>Some Google Home Speakers caught downloading hundreds of gigs of data</title>
-<link>https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download</link>
-<guid isPermaLink="false">c7fa16bcc73cb08000d7ad31f4b02a40db69cd537056e8bd17ed5b391ebcefaa</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:16:47 +0000</pubDate>
-<description>Google says a fix is rolling out that should solve the issue. | Photo: Jennifer Patison Tuohy / The Verge Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week , may be caused by the speakers failing to correctly download and install a firmware update, with one Redditor finding that his device was consuming more than 200GB per day. Thankfully, Google is aware of the issue. In a statement to 9to5Google , the company said that "a fix is already rolling out that should address this for users." Most of the reports are tied specifically to the new Google Ho … Read the full story at The Verge.</description>
-<dc:creator>Jess Weatherbed</dc:creator>
-<content:encoded>Google says a fix is rolling out that should solve the issue. | Photo: Jennifer Patison Tuohy / The Verge Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week , may be caused by the speakers failing to correctly download and install a firmware update, with one Redditor finding that his device was consuming more than 200GB per day. Thankfully, Google is aware of the issue. In a statement to 9to5Google , the company said that "a fix is already rolling out that should address this for users." Most of the reports are tied specifically to the new Google Ho … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>This New Food Delivery App Could Be the Antidote to Menu Markups</title>
@@ -797,19 +849,6 @@
 <media:content url="https://image.theregister.com/?imageId=5304056&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Chewy Promo Codes: $20 Off October 2026</title>
-<link>https://www.wired.com/story/chewy-promo-code</link>
-<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
-</item>
-<item>
 <title>Adorama Camera Coupon Codes &amp; Promo Codes: October 2026</title>
 <link>https://www.wired.com/story/adorama-promo-code</link>
 <guid isPermaLink="false">136a2d1ea728c543cc9e3e9843549ce3689050d1a284d4c80e3509eb5bae7efe</guid>
@@ -875,6 +914,19 @@
 <media:content url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" medium="image"/>
 </item>
 <item>
+<title>Chewy Promo Codes: $20 Off October 2026</title>
+<link>https://www.wired.com/story/chewy-promo-code</link>
+<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
+</item>
+<item>
 <title>30% Off Canon Promo Codes | October 2026</title>
 <link>https://www.wired.com/story/canon-promo-code</link>
 <guid isPermaLink="false">b7b297c4c57110a535ebb7e21ce3aa1ad5547e25ec9499eef52e4ec8f670dea2</guid>
@@ -884,6 +936,19 @@
 <description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</description>
 <dc:creator>Gear Team</dc:creator>
 <content:encoded>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>Whoop Promo Codes: 20% Off This October 2026</title>
+<link>https://www.wired.com/story/whoop-promo-code</link>
+<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
+<dc:creator>Boutayna Chokrane</dc:creator>
+<content:encoded>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</content:encoded>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
@@ -925,19 +990,6 @@
 <content:encoded>Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.</content:encoded>
 <enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Whoop Promo Codes: 20% Off This October 2026</title>
-<link>https://www.wired.com/story/whoop-promo-code</link>
-<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
-<dc:creator>Boutayna Chokrane</dc:creator>
-<content:encoded>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
 <title>‘David Beckham’ was briefly the world’s second-worst manga pirate</title>
@@ -1094,19 +1146,6 @@
 <content:encoded>Don't tuck your router away in a corner, even if it is a bit of an eyesore.</content:encoded>
 <enclosure url="https://www.engadget.com/img/gallery/why-your-expensive-wi-fi-7-router-could-be-delivering-slower-speeds/l-intro-1792091857.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/why-your-expensive-wi-fi-7-router-could-be-delivering-slower-speeds/l-intro-1792091857.jpg" medium="image"/>
-</item>
-<item>
-<title>What does MLO mean on your router and should you enable it?</title>
-<link>https://www.engadget.com/2288038/mlo-router-meaning-should-you-enable</link>
-<guid isPermaLink="false">5ff8c3a6ed803325706e64524a5b6e5ea1eafb2d08c07a3b8263cd93bac81e24</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 22:00:00 +0000</pubDate>
-<description>Multi-link operation is a key part of Wi-Fi 7 routers.</description>
-<dc:creator>staff@engadget.com (Robin Bea)</dc:creator>
-<content:encoded>Multi-link operation is a key part of Wi-Fi 7 routers.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/what-does-mlo-mean-on-your-router-and-should-you-enable-it/l-intro-1792090274.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-does-mlo-mean-on-your-router-and-should-you-enable-it/l-intro-1792090274.jpg" medium="image"/>
 </item>
 <item>
 <title>Best Power Bank Deals: Laptops, MagSafe, and More</title>
@@ -1289,19 +1328,6 @@
 <content:encoded>Open source Windows alternative ReactOS has reached a major milestone: The operating system can now be installed directly onto an NTFS drive partition. As reported by Phoronix , the move to NTFS clears a long-standing hurdle for the project and brings it one step closer to finally reaching beta. Prior to this latest announcement, ReactOS required users to keep a FAT32 partition for installations. A proprietary Microsoft-developed filesystem, NTFS can trace its roots back through the Windows NT family lineage starting in 1993 with Windows NT 3.1. The variant introduced with Windows XP in 2001 remains the standard used by most Windows systems today. With ReactOS's stated goal of reaching binary compatibility with Windows Server 2003, being confined to FAT32 partitions was a practical barrier to clear on the way to reproducing the Windows environment. However, users looking to hop off the Windows train shouldn't be grabbing their bags just yet. ReactOS wrote that the new driver still "lacks caching (which causes inferior performance), journaling and security support." So while the new driver is here, even the most intrepid of OS tinkerers should tread carefully. The ReactOS team warned in its announcement on X that there are still "potentially undiscovered bugs." Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties-500x500.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties-500x500.jpg" medium="image"/>
-</item>
-<item>
-<title>Here's how we would build out the perfect modular electric Slate truck</title>
-<link>https://www.engadget.com/2289274/heres-how-we-would-build-out-the-perfect-modular-electric-slate-truck</link>
-<guid isPermaLink="false">dbd5500c54fef4605fe85b1aaaf4e68bf803c168410fc4a774d5e845c98f1f28</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 18:30:00 +0000</pubDate>
-<description>A Bronco for the modern age.</description>
-<dc:creator>staff@engadget.com (Will Shanklin)</dc:creator>
-<content:encoded>A Bronco for the modern age.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/heres-how-we-would-build-out-the-perfect-modular-electric-slate-truck/l-intro-1792004130.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-how-we-would-build-out-the-perfect-modular-electric-slate-truck/l-intro-1792004130.jpg" medium="image"/>
 </item>
 <item>
 <title>Security patches need patches now that attackers have AI</title>
@@ -1642,19 +1668,6 @@
 <media:content url="https://image.theregister.com/?imageId=5303256&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The Story of Billy Evans and ‘Theranos 2.0’</title>
-<link>https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20</link>
-<guid isPermaLink="false">a9d78ebbb160d97177f182a9eeeb2ff6bb7aab05557bba6ac7badadd211a8248</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
-<description>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</description>
-<dc:creator>Christopher Hooks</dc:creator>
-<content:encoded>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" medium="image"/>
-</item>
-<item>
 <title>How Elizabeth Holmes Tricked WIRED—and Everyone Else</title>
 <link>https://www.wired.com/story/how-elizabeth-holmes-tricked-wired-and-everyone-else</link>
 <guid isPermaLink="false">11c144944d534372cee9a1b4074e5606797e33acae860e1e75fd14e52ec639fd</guid>
@@ -1666,6 +1679,19 @@
 <content:encoded>WIRED was the first magazine to cover Theranos and its enticing billionaire founder. There were warning signs even then.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg" medium="image"/>
+</item>
+<item>
+<title>The Story of Billy Evans and ‘Theranos 2.0’</title>
+<link>https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20</link>
+<guid isPermaLink="false">a9d78ebbb160d97177f182a9eeeb2ff6bb7aab05557bba6ac7badadd211a8248</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+<description>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</description>
+<dc:creator>Christopher Hooks</dc:creator>
+<content:encoded>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" medium="image"/>
 </item>
 <item>
 <title>15 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)</title>
@@ -2225,32 +2251,6 @@
 <content:encoded>The latest interim release of Ubuntu is here, complete with kernel 7.3 – even though it isn't officially out yet. It also includes a new speech-to-text system that is intriguing but not fully useful. Ubuntu 26.10 "Stonking Stingray" arrived on time. This is just a couple of weeks after the beta version that we looked at earlier this month , suggesting that the team didn’t encounter any show-stopper bugs. The faster kernel release cycle that Canonical adopted in 2024 has slightly bitten them this time around: the Linux kernel’s new faster AI-boosted release cycle means that 7.2 is relatively old now, but 7.3 isn’t quite ready yet; at the time of writing, it’s on Release Candidate 7 – but Canonical has jumped the gun and used it anyway. So, the release version of Ubuntu 26.10 comes with a pre-release kernel, and machines will get updated to the completed 7.3 as soon as it’s available. We tried the default GNOME edition, with GNOME 51. It looks identical to the beta version. The most visible difference in this release is in the window-tiling assistant, which now displays a Windows-like transient pop-up box offering various tiled arrangements when you drag a window to the edge of the screen. The Myna speech-to-text tool, whose announcement we covered back in June , is now available – albeit as a technology preview. We tested the beta on an old ThinkPad, and while the pre-release OS ran perfectly, Myna didn't work. (Incidentally, after switching to a non-GPU LLM, it does work in the release version – just very slowly.) So, we tried the release version on our newer testbed machine, a Dell XPS 9370. The installation process is more straightforward now, with some official instructions , and as the Dell doesn't have an unsupported Nvidia GPU to complicate things, it worked fine. The installation pulls in nearly a gigabyte of dependencies and language model files: since the installation ISO is already 6⅔ GB, it's probably a good thing that it’s not included. We tested it in the Writer module of LibreOffice 26.8. Invoking it is as simple as pressing Super+J , and then talking. Using the laptop’s built-in microphone, accuracy was poor, but with a USB headset, it improved markedly. It’s a little odd to watch as the model revises the text as you go along, going back and altering words as later ones resolve ambiguities, but it did the job. It doesn’t understand punctuation or commands: words such as "comma," "full stop," "new line," "delete," and so on, were entered into the document along with other text. For a preview, though, it's impressive, and for those who have problems with the use of their arms – such as the Reg FOSS desk just three years ago – this is a seriously useful extra. Ubuntu now just has to catch up with macOS and Windows, both of which have offered speech input for several years – but it's finally entered the race. This is one use of LLMs of which we heartily approve. Alongside the flagship GNOME edition, all the flavors have been updated, which hasn't happened for about a year. For some flavors, this means new versions of their respective desktops, depending on the release cycle of the respective environment. As we said when we looked at the beta release, Kubuntu 26.10 comes with KDE Plasma 6.7.5, which is the final Plasma release to support X11. Although Ubuntu MATE skipped the LTS release earlier this year, it's back with the Stonking release: Ubuntu MATE 26.10 will come as good news for fans of this retro GNOME 2 style desktop. A year ago, Ubuntu Unity missed the 25.10 release, and 26.04 is not an LTS, so fans of Canonical's in-house desktop should take a close look at Ubuntu Unity 26.10 . A visible change from previous releases is that it's picked up some accessory apps from the Lomiri desktop , which is the community continuation of what was going to be Unity 8. Ubuntu Unity 26.10 uses the Lomiri terminal emulator by default, and Lomiri's File Manager is available as an alternative to the default Nemo file manager. The "minimal" installation of this release is even more stripped back than Xubuntu Minimal – this version doesn't have the Snap subsystem installed at all. Ubuntu Budgie 26.10 has the very latest Budgie desktop version 10.10.3 , which brings some accessibility improvements. Ubuntu Cinnamon 26.10 has an updated version of Mint’s Cinnamon environment, too – it includes the very latest Cinnamon 6.6.9, released in June. Lubuntu 26.10 includes the latest LXQt 2.4 , which arrived too close to the release of Lubuntu 26.04 to be incorporated. The other 26.10 flavors are more modest releases, which just pick up the latest versions of their components. Under the hood, there are some deeper changes that affect all editions. As we mentioned in the beta version, more core CLI tools have been replaced with new Rust versions, now including the NTP-sync daemon. Stonking replaces dbus-daemon with dbus-broker , and it uses systemd 261.3. The server version has been updated as well, and now includes AMD ROCm 10.0 , OpenSSL 4, OpenSSH 10.5, and the Rust upki tool for revoking security certificates. Canonical’s home-grown TPM-backed full disk encryption is present, but intrepid experimenters who have enabled that on 26.04 can't upgrade for now – this should follow later. One of the benefits of increasingly mature FOSS desktops is that upgrades are increasingly routine, so long as you haven't rolled up your sleeves, lifted the hood, and started customizing the OS. If you just install packages from Snapcraft and leave the OS alone, interim versions are pretty safe these days, and so is the upgrade process. It's one way to avoid being nagged about Ubuntu Pro, if that irks you. Pro is not available on interim releases. By default, LTS versions don't automatically offer to upgrade to interim ones – if you want it, you must opt in . We suggest leaving it until the final version of the kernel, but otherwise, it’s already in good shape. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5303615&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5303615&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>New online tool will check lawyers' sloppy AI-written briefs since they can't seem to be bothered</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/16/new-online-tool-will-check-lawyers-sloppy-ai-written-briefs-since-they-cant-seem-to-be-bothered/5303589</link>
-<guid isPermaLink="false">4835b3e02eaace2457295a5cea21af9f8674b1fba91a1493a1e4f143d8f30895</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 16:08:35 +0000</pubDate>
-<description>For lawyers who love to use AI to write legal briefs, there's just one problem: bots hallucinate and make things up. Fortunately, a new tool, CiteProof , promises to crawl over briefs and filings for fabricated case citations and misquoted court opinions before they result in sanctions, fines, or just plain embarrassing dressing downs from a judge. This is hardly a new problem, with lawyers relying on AI to do their work for several years with predictably horrible results. Even if GPT-4 was capable of passing a bar exam in 2023, that doesn’t mean it wasn’t hallucinating case law . OpenAI models aren’t alone in getting lawyers in trouble, either - Claude was actually thrown under the bus by Anthropic’s own lawyers last year when defending the company from a music publishing copyright lawsuit. A declaration in the case from an Anthropic data scientist contained a pair of Claude-formatted citations that pointed to improper records, and lawyers didn’t catch it in review. The lawyers blamed Claude for the issue. Stories of AI hallucinations winding up in legal briefs are everywhere nowadays, and have had serious consequences beyond professional rebukes: A Georgia court decision was even vacated last year after a court order was found to contain fictional citations. In short, AI and the legal world, which demands precision and accuracy, don’t always mix , so a fact checker that can do a better job than apparently absent-minded human reviewers is needed. CiteProof wants to be that fact checker. Free users can run individual checks through CiteProof to look for citations or statutes, while paid users can run in-depth scans that include more detailed verification reports, quotation checking, bulk scanning, and the like. CiteProof admitted that, as a small operation, some vibe-coding was involved in the creation of the platform, but no AI is involved in checking legal briefs for AI. “You cannot reliably catch AI hallucinations with more AI guesswork,” a CiteProof spokesperson told us. “This is the foundational principle of CiteProof.” There aren’t any LLMs or probabilistic models under CiteProof’s hood, we’re told, with queries instead relying on direct, deterministic searches of public court records to look for evidence that what AI is citing for lawyers isn’t being completely made up. It’s not going to tell you whether you’re making a good argument, mind you - CiteProof is just going to free up that legal assistant to do something more productive than checking citations. The only thing that leaves CiteProof’s servers, the company claims, is strings extracted from citations that can be input into CourtListener to figure out if they’re real. Everything runs in the US, and nothing is stored or transmitted to an LLM at any point, CiteProof says. But why encourage lawyers to use more AI if it’s not a reliable tool for their purposes? The genie is already out of the bottle, CiteProof says, even if it is a real messy genie who just makes stuff up. “Lawyers and</description>
-<dc:creator>Brandon Vigliarolo</dc:creator>
-<content:encoded>For lawyers who love to use AI to write legal briefs, there's just one problem: bots hallucinate and make things up. Fortunately, a new tool, CiteProof , promises to crawl over briefs and filings for fabricated case citations and misquoted court opinions before they result in sanctions, fines, or just plain embarrassing dressing downs from a judge. This is hardly a new problem, with lawyers relying on AI to do their work for several years with predictably horrible results. Even if GPT-4 was capable of passing a bar exam in 2023, that doesn’t mean it wasn’t hallucinating case law . OpenAI models aren’t alone in getting lawyers in trouble, either - Claude was actually thrown under the bus by Anthropic’s own lawyers last year when defending the company from a music publishing copyright lawsuit. A declaration in the case from an Anthropic data scientist contained a pair of Claude-formatted citations that pointed to improper records, and lawyers didn’t catch it in review. The lawyers blamed Claude for the issue. Stories of AI hallucinations winding up in legal briefs are everywhere nowadays, and have had serious consequences beyond professional rebukes: A Georgia court decision was even vacated last year after a court order was found to contain fictional citations. In short, AI and the legal world, which demands precision and accuracy, don’t always mix , so a fact checker that can do a better job than apparently absent-minded human reviewers is needed. CiteProof wants to be that fact checker. Free users can run individual checks through CiteProof to look for citations or statutes, while paid users can run in-depth scans that include more detailed verification reports, quotation checking, bulk scanning, and the like. CiteProof admitted that, as a small operation, some vibe-coding was involved in the creation of the platform, but no AI is involved in checking legal briefs for AI. “You cannot reliably catch AI hallucinations with more AI guesswork,” a CiteProof spokesperson told us. “This is the foundational principle of CiteProof.” There aren’t any LLMs or probabilistic models under CiteProof’s hood, we’re told, with queries instead relying on direct, deterministic searches of public court records to look for evidence that what AI is citing for lawyers isn’t being completely made up. It’s not going to tell you whether you’re making a good argument, mind you - CiteProof is just going to free up that legal assistant to do something more productive than checking citations. The only thing that leaves CiteProof’s servers, the company claims, is strings extracted from citations that can be input into CourtListener to figure out if they’re real. Everything runs in the US, and nothing is stored or transmitted to an LLM at any point, CiteProof says. But why encourage lawyers to use more AI if it’s not a reliable tool for their purposes? The genie is already out of the bottle, CiteProof says, even if it is a real messy genie who just makes stuff up. “Lawyers and associates are already using AI to speed up research and drafting, and that adoption isn't stopping,” the representative told us. “CiteProof isn't encouraging blind AI adoption—it acts as an objective, non-AI guardrail to ensure that if someone uses generative tools to draft, fabricated citations are caught before hitting a court docket.” It’s better than nothing, even if it doesn’t come cheap: A single brief costs $49 to check if you don’t opt for the limited free tier, with bundles offering multiple briefs at a discount ($199 for a five-pack), all the way up to $499 a month for 200 brief reviews for law firms that just can’t stop relying on AI to make their arguments for them. ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=255120&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=255120&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Networking problems after the October 2026 Windows update? NTLM might be to blame</title>
-<link>https://www.theregister.com/security/2026/10/16/networking-problems-after-the-october-2026-windows-update-ntlm-might-be-to-blame/5303503</link>
-<guid isPermaLink="false">0b2c1e2cb30417068339f0b38547632b37f3a6a7d1bf9aaa65adc5e477a9cb3e</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 15:30:00 +0000</pubDate>
-<description>The October 2026 Windows security update may break networking for some customers who are still clinging to long-deprecated NTLMv1 security. A seemingly minor change in the update could have major implications for administrators and enterprises that haven't fully moved away from the legacy technology. Before the October 2026 update, Windows permitted NTLMv1-derived credentials for Single Sign-On and generated warning events. After the update, requests to use NTLMv1-derived credentials are blocked. It comes down to the BlockNtlmSSO registry value. If it hasn't been set, Windows will now use Enforce mode (1) instead of Audit mode (0), thus blocking requests and potentially impacting Wi-Fi, Ethernet, and VPN authentication, and therefore connections. The update does not set the value of BlockNtlmSSO , and administrators can set it to 0 to temporarily allow NTLMv1-derived Single Sign-On credentials. However, Microsoft noted, "Using Audit mode reduces the protection provided by Enforce mode and should only be considered as a scoped, temporary security exception." To be clear, this is not a bug and is by design. The addition of NTLM to the deprecation list occurred in 2024 , and Microsoft added audit logs for NTLMv1 usage in late August 2025. The Windows giant has made no secret of its desire to ditch the legacy technology, stating in 2023 , "Our end goal is eliminating the need to use NTLM at all." The problem is NTLM's longevity. It appeared in 1993 with Windows NT 3.1, and removing it from enterprise environments has proven tricky, even though it is somewhat insecure by modern standards. Microsoft removed it from Windows 11 24H2 and Windows Server 2025, but some remnants can still be found, notably when using MS-CHAPv2-based connections, including PEAP-MSCHAPv2, and EAP-MSCHAPv2, in a domain-joined environment. Hence the introduction of the audit mode in 2025, to help administrators spot where the technology was still being used. It is now 2026, and Microsoft has taken the next step. If Credential Guard is not enabled and BlockNtlmSSO is not set to Audit mode (0), the use of NTLMv1-derived credentials will be blocked as Microsoft works "to finalize the disablement of NTLMv1." There is no indication of how long the BlockNtlmSSO workaround (setting the value to Audit mode) will work - most likely until the next major Windows release. In September, Microsoft said , "In-market versions of Windows client and Windows Server will continue to support NTLM." However, it also stated, "Our long-term objective is a Windows platform that doesn't need NTLM at all." As such, if the message wasn't already clear, the move to enforce it by default makes it impossible to miss. The technology still exists in the operating system, but it is on its way out and will be removed in a future Windows release. Problems with networking after the October 2026 Windows security update could therefore signal that migration plans are not as far along, or as complete, as administrator</description>
-<dc:creator>Richard Speed</dc:creator>
-<content:encoded>The October 2026 Windows security update may break networking for some customers who are still clinging to long-deprecated NTLMv1 security. A seemingly minor change in the update could have major implications for administrators and enterprises that haven't fully moved away from the legacy technology. Before the October 2026 update, Windows permitted NTLMv1-derived credentials for Single Sign-On and generated warning events. After the update, requests to use NTLMv1-derived credentials are blocked. It comes down to the BlockNtlmSSO registry value. If it hasn't been set, Windows will now use Enforce mode (1) instead of Audit mode (0), thus blocking requests and potentially impacting Wi-Fi, Ethernet, and VPN authentication, and therefore connections. The update does not set the value of BlockNtlmSSO , and administrators can set it to 0 to temporarily allow NTLMv1-derived Single Sign-On credentials. However, Microsoft noted, "Using Audit mode reduces the protection provided by Enforce mode and should only be considered as a scoped, temporary security exception." To be clear, this is not a bug and is by design. The addition of NTLM to the deprecation list occurred in 2024 , and Microsoft added audit logs for NTLMv1 usage in late August 2025. The Windows giant has made no secret of its desire to ditch the legacy technology, stating in 2023 , "Our end goal is eliminating the need to use NTLM at all." The problem is NTLM's longevity. It appeared in 1993 with Windows NT 3.1, and removing it from enterprise environments has proven tricky, even though it is somewhat insecure by modern standards. Microsoft removed it from Windows 11 24H2 and Windows Server 2025, but some remnants can still be found, notably when using MS-CHAPv2-based connections, including PEAP-MSCHAPv2, and EAP-MSCHAPv2, in a domain-joined environment. Hence the introduction of the audit mode in 2025, to help administrators spot where the technology was still being used. It is now 2026, and Microsoft has taken the next step. If Credential Guard is not enabled and BlockNtlmSSO is not set to Audit mode (0), the use of NTLMv1-derived credentials will be blocked as Microsoft works "to finalize the disablement of NTLMv1." There is no indication of how long the BlockNtlmSSO workaround (setting the value to Audit mode) will work - most likely until the next major Windows release. In September, Microsoft said , "In-market versions of Windows client and Windows Server will continue to support NTLM." However, it also stated, "Our long-term objective is a Windows platform that doesn't need NTLM at all." As such, if the message wasn't already clear, the move to enforce it by default makes it impossible to miss. The technology still exists in the operating system, but it is on its way out and will be removed in a future Windows release. Problems with networking after the October 2026 Windows security update could therefore signal that migration plans are not as far along, or as complete, as administrators might have thought. ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5286774&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5286774&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost</title>
