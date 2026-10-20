@@ -4,6 +4,58 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Rep. Adam Smith joins lawmakers who received letter with 'suspicious substance'</title>
+<link>https://abcnews.com/US/rep-adam-smith-joins-list-lawmakers-received-letter/story?id=137400114</link>
+<guid isPermaLink="false">a7e1ee0acf149b8303d07c695704c987238d4ef22fd202564ec1549d1e30d3f5</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 02:43:24 +0000</pubDate>
+<description>Washington State Democratic Congressman Adam Smith received a “suspicious letter containing a powdery substance” on Monday.</description>
+<dc:creator></dc:creator>
+<content:encoded>Washington State Democratic Congressman Adam Smith received a “suspicious letter containing a powdery substance” on Monday.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/AP20057590400046_1792459347597_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/AP20057590400046_1792459347597_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Triumphal Arch final plans submitted to National Capital Planning Commission</title>
+<link>https://abcnews.com/Politics/triumphal-arch-final-plans-submitted-interior-department-national/story?id=137392598</link>
+<guid isPermaLink="false">26cdb33dc01d2b6a6ec54053a566208924c167a307e2fad6663d543c62c3a4b4</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 02:38:07 +0000</pubDate>
+<description>The plans are scheduled to be reviewed at a Nov. 5 National Capital Planning Commission meeting.</description>
+<dc:creator></dc:creator>
+<content:encoded>The plans are scheduled to be reviewed at a Nov. 5 National Capital Planning Commission meeting.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/arch-1-ht-gmh-261019_1792435449124_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/arch-1-ht-gmh-261019_1792435449124_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>JD Vance says he thinks Trump would endorse him if he ran for president</title>
+<link>https://abcnews.com/Politics/jd-vance-thinks-trump-endorse-ran-president/story?id=137400567</link>
+<guid isPermaLink="false">fa5063f7efbdb92010bb480b34bac70dc5a2c200dfa287006bada47f94021b17</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 02:33:25 +0000</pubDate>
+<description>Vance added that he hasn't spoken to Trump about it and cautioned that Trump has sometimes let a race play out to see what happens.</description>
+<dc:creator></dc:creator>
+<content:encoded>Vance added that he hasn't spoken to Trump about it and cautioned that Trump has sometimes let a race play out to see what happens.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/jd-vance-1-abc-gmh-251012_1760274961111_hpMain_2_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/jd-vance-1-abc-gmh-251012_1760274961111_hpMain_2_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Zelensky accuses US of delaying missile deliveries as tensions rise</title>
+<link>https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise</link>
+<guid isPermaLink="false">c2d39297890d3998c69060ffc7be74d065ac60b2a496129b1248f59cceda7f91</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 01:56:59 +0000</pubDate>
+<description>Ukrainian President Volodymyr Zelensky accused the US on Monday of holding up deliveries of Patriot interceptor missiles already paid for by European allies, as tensions with President Donald Trump’s administration deepened over military aid and intelligence sharing.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>Ukrainian President Volodymyr Zelensky accused the US on Monday of holding up deliveries of Patriot interceptor missiles already paid for by European allies, as tensions with President Donald Trump’s administration deepened over military aid and intelligence sharing.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/35a106a0-cbdc-11f1-844f-d1d2c32ebb87/w:1024/p:16x9/bb914f42bdf0a8c35c60195688087ff485fa414d.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/35a106a0-cbdc-11f1-844f-d1d2c32ebb87/w:1024/p:16x9/bb914f42bdf0a8c35c60195688087ff485fa414d.jpg" medium="image"/>
+</item>
+<item>
 <title>Japan launches mission to explore Mars' moons and bring back samples</title>
 <link>https://www.france24.com/en/technology/20261020-japan-launches-mission-to-explore-mars-moons-and-bring-back-samples</link>
 <guid isPermaLink="false">5a217fe008a8102ba572df16aa62fec3355e6488528f1b94d323904f95f5dbe8</guid>
@@ -15,19 +67,6 @@
 <content:encoded>Japan launched a spacecraft on Tuesday on a five-year mission to explore Mars' mysterious moons, Phobos and Deimos, and bring back samples for the first time. The $578 million project aims to deliver dust, soil and rocks to Earth in 2031, potentially shedding light on how the moons formed and the origins of life.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/af16faf0-cb94-11f1-9e48-2d1c143cdef3/w:1024/p:16x9/1329e57e1d2112e42b31f522a1d6229f84f9f886.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/af16faf0-cb94-11f1-9e48-2d1c143cdef3/w:1024/p:16x9/1329e57e1d2112e42b31f522a1d6229f84f9f886.jpg" medium="image"/>
-</item>
-<item>
-<title>US citizen injured during ICE detainment in California, officials say</title>
-<link>https://abcnews.com/US/us-citizen-injured-ice-detainment-long-beach-california/story?id=137397850</link>
-<guid isPermaLink="false">f7659510573989e9dec972b6721ea8482b5c64419ddccef0a2f433dec4f2a21d</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 20 Oct 2026 01:11:19 +0000</pubDate>
-<description>California Democratic Rep. Robert Garcia, whose district includes Long Beach, called the incident "incredibly disturbing" and said the man is a U.S. citizen.</description>
-<dc:creator></dc:creator>
-<content:encoded>California Democratic Rep. Robert Garcia, whose district includes Long Beach, called the incident "incredibly disturbing" and said the man is a U.S. citizen.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/ice-ht-er-261019_1792453719085_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/ice-ht-er-261019_1792453719085_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: David Muir reports on the beloved barn owls that have made Manhattan home</title>
@@ -54,19 +93,6 @@
 <content:encoded>Shawn Oliver has pleaded not guilty to charges of operating under the influence and other related offenses after suspending his campaign for lieutenant governor of Massachusetts</content:encoded>
 <enclosure url="https://s.abcnews.com/images/International/wirestory_12d0cd82fc419703b661da807b1cfe3e_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/International/wirestory_12d0cd82fc419703b661da807b1cfe3e_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>DOJ charges 28 with unlawful voting, other election-related offenses in California</title>
-<link>https://abcnews.com/US/doj-charges-28-unlawful-voting-election-related-offenses/story?id=137384589</link>
-<guid isPermaLink="false">773682101be48f9f2d1bfdd90e426f5ee272b39a55313c6ba44628f27ef3c83b</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 19 Oct 2026 23:23:20 +0000</pubDate>
-<description>The DOJ has charged 28 individuals in California with election-related offenses, and did not rule out prosecuting election workers who are "processing the ballots" there.</description>
-<dc:creator></dc:creator>
-<content:encoded>The DOJ has charged 28 individuals in California with election-related offenses, and did not rule out prosecuting election workers who are "processing the ballots" there.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/vote-4-gty-gmh-261019_1792414804974_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/vote-4-gty-gmh-261019_1792414804974_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Ronaldo suspended for 30 days and fined for walking out on Portugal camp</title>
@@ -483,32 +509,6 @@
 <content:encoded>US President Donald Trump on Sunday blamed immigration for unrest during protests in France and urged the country to tighten its migration rules. Trump's post comes after similar comments made by Vice President JD Vance on Saturday. Vance, who is seen as a potential presidential candidate in the 2028 election, also drew a connection to upcoming midterm races for congressional seats on November 3, where Republicans are not expected to perform well. FRANCE 24's Fraser Jackson reports from the United States.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/a771db7e-cbbe-11f1-bfb3-d1d2c32ebb87/w:1024/p:16x9/EN-20261019-141412-141540-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/a771db7e-cbbe-11f1-bfb3-d1d2c32ebb87/w:1024/p:16x9/EN-20261019-141412-141540-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Macron kicks off three-day Gulf tour, seeks securing fuel supplies amid crisis</title>
-<link>https://www.france24.com/en/video/20261019-macron-kicks-off-three-day-gulf-tour-seeks-securing-fuel-supplies-amid-crisis</link>
-<guid isPermaLink="false">643ebeff66e0673f014ecfd60a12e1a4c9d3f9d96bc1cf2328234196bfacbe63</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 19 Oct 2026 14:02:57 +0000</pubDate>
-<description>French President Emmanuel Macron on Monday began a Gulf tour aimed at securing oil and diesel supplies in an effort to bring down prices, after a weekend of violent protests sparked by soaring living costs. Macron, just hours after slamming France's "unbridled" violence in an address late on Sunday, arrived in OPEC member Kuwait where he was welcomed by the emir, Sheikh Mishal Al-Ahmad Al-Jaber Al-Sabah. FRANCE 24's International Affairs Editor Kethevane Gorjestani tells us more.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>French President Emmanuel Macron on Monday began a Gulf tour aimed at securing oil and diesel supplies in an effort to bring down prices, after a weekend of violent protests sparked by soaring living costs. Macron, just hours after slamming France's "unbridled" violence in an address late on Sunday, arrived in OPEC member Kuwait where he was welcomed by the emir, Sheikh Mishal Al-Ahmad Al-Jaber Al-Sabah. FRANCE 24's International Affairs Editor Kethevane Gorjestani tells us more.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/7bf0070c-cbc1-11f1-8672-2d1c143cdef3/w:1024/p:16x9/EN-20261019-140909-141357-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/7bf0070c-cbc1-11f1-8672-2d1c143cdef3/w:1024/p:16x9/EN-20261019-140909-141357-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Bipartisan group of senators want answers on Starlink disruptions in Ukraine</title>
-<link>https://abcnews.com/Politics/bipartisan-group-senators-answers-starlink-disruptions-us-support/story?id=137330556</link>
-<guid isPermaLink="false">6309eb46cd71211161a70da716601a4dd67f707cc76bb133581d316fd4491633</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 19 Oct 2026 13:46:28 +0000</pubDate>
-<description>The lawmakers say American personnel were endangered in attacks on Ukraine.</description>
-<dc:creator></dc:creator>
-<content:encoded>The lawmakers say American personnel were endangered in attacks on Ukraine.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Politics/starlink-ukraine-rt-jt-261016_1792179710209_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/starlink-ukraine-rt-jt-261016_1792179710209_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>UN cuts food aid to half a million Gazans over funding shortages</title>
