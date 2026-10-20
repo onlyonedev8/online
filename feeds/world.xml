@@ -4,17 +4,56 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Iran live updates: Trump says US is winning war, 'can leave right now'</title>
-<link>https://abcnews.com/International/live-updates/iran-live-updates?id=137370653</link>
-<guid isPermaLink="false">aea2f18822cdc0181cee20821c73b4767f93896f8e57783a988ade2d16bb0ccb</guid>
+<title>US nearing deal with Russia to free multiple jailed Americans: Sources</title>
+<link>https://abcnews.com/Politics/us-nearing-deal-russia-free-multiple-jailed-americans/story?id=137415614</link>
+<guid isPermaLink="false">15f4569f5126546d9f9906e6d0f93b57e67ea54d4a0651c1fc212cc2a09d35b2</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Tue, 20 Oct 2026 16:41:07 +0000</pubDate>
-<description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
+<pubDate>Tue, 20 Oct 2026 17:32:21 +0000</pubDate>
+<description>Sources say the talks have centered on freeing Stephen Hubbard.</description>
 <dc:creator></dc:creator>
-<content:encoded>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/donald-trump-9-gty-gmh-261020_1792504384339_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/donald-trump-9-gty-gmh-261020_1792504384339_hpMain_16x9_1600.jpg" medium="image"/>
+<content:encoded>Sources say the talks have centered on freeing Stephen Hubbard.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Politics/stephen-hubbard-01-ap-jt-261020_1792515206298_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/stephen-hubbard-01-ap-jt-261020_1792515206298_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Trump says what Russia is doing to Ukraine is 'fine'</title>
+<link>https://abcnews.com/video/137418640</link>
+<guid isPermaLink="false">8eb48b13f6d4fa4b6f85bbf81b49bb4825b240762d615de5072e8bb7e2bfa1dc</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 17:15:01 +0000</pubDate>
+<description>Former U.S. Ambassador to Ukraine Bill Taylor reacts to the latest comments from President Donald Trump on Russia as questions grow over America's support of Ukraine.</description>
+<dc:creator></dc:creator>
+<content:encoded>Former U.S. Ambassador to Ukraine Bill Taylor reacts to the latest comments from President Donald Trump on Russia as questions grow over America's support of Ukraine.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Politics/261020_abcnl_12p_taylor_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/261020_abcnl_12p_taylor_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Christina Applegate says learning she doesn't have MS is ‘very unnerving’</title>
+<link>https://abcnews.com/GMA/Culture/christina-applegate-misdiagnosed-ms/story?id=137407744</link>
+<guid isPermaLink="false">2142574600d618ffcea56efe201cc5ed61e3e2762e998fda68a3467eeae1c2d0</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 17:10:17 +0000</pubDate>
+<description>Christina Applegate says she was misdiagnosed with the neurological and autoimmune disorder multiple sclerosis.</description>
+<dc:creator></dc:creator>
+<content:encoded>Christina Applegate says she was misdiagnosed with the neurological and autoimmune disorder multiple sclerosis.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/GMA/applegate-gty-jef-261020_1792498019373_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/applegate-gty-jef-261020_1792498019373_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>How French police are harnessing social media to identify looters</title>
+<link>https://www.france24.com/en/france/20261020-how-french-police-are-harnessing-social-media-to-identify-looters</link>
+<guid isPermaLink="false">1b37f14c5ccf07ad6579da15785f8a4f892e91ad65931d6af0c546da74b27d55</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 16:50:49 +0000</pubDate>
+<description>French police are turning to social media to identify and arrest suspects linked to last weekend’s looting and unrest. Investigators are scrutinising videos posted online alongside footage from thousands of security cameras to track suspects and gather evidence. The crackdown comes as the government vows to hold those responsible for the violence and damage to shops accountable.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>French police are turning to social media to identify and arrest suspects linked to last weekend’s looting and unrest. Investigators are scrutinising videos posted online alongside footage from thousands of security cameras to track suspects and gather evidence. The crackdown comes as the government vows to hold those responsible for the violence and damage to shops accountable.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/33d21e38-cca2-11f1-b8ea-4dd8ac2cf3bf/w:1024/p:16x9/AP26290607552722.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/33d21e38-cca2-11f1-b8ea-4dd8ac2cf3bf/w:1024/p:16x9/AP26290607552722.jpg" medium="image"/>
 </item>
 <item>
 <title>Man arrested for alleged threats to shoot President Trump at Kansas rally</title>
@@ -95,19 +134,6 @@
 <media:content url="https://s.france24.com/media/display/4d3474bc-cc97-11f1-b7a6-638c1c1f5fd6/w:1024/p:16x9/EN-20261020-140836-141726-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>WATCH: Jake Bauers speaks out before World Series with wife</title>
-<link>https://abcnews.com/video/137407470</link>
-<guid isPermaLink="false">1f3c0c40e154d8401646ec14b6c5b388779fd8fb99bfb033dc8a63fdc8cf9d39</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 20 Oct 2026 15:41:04 +0000</pubDate>
-<description>ABC News exclusive: Brewers playoff hero Jake Bauers and his wife, Lauren, speak with Will Reeve about how he revived his career after nearly walking away from baseball.</description>
-<dc:creator></dc:creator>
-<content:encoded>ABC News exclusive: Brewers playoff hero Jake Bauers and his wife, Lauren, speak with Will Reeve about how he revived his career after nearly walking away from baseball.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/GMA/261020_gma_reeve_bauers_745_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/261020_gma_reeve_bauers_745_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>US midterm elections: Trump approval rating falls to new low</title>
 <link>https://www.france24.com/en/video/20261020-us-midterm-elections-trump-approval-rating-falls-to-new-low</link>
 <guid isPermaLink="false">bc210483afa78b7f7c72dbf6dcbeca7fd936092431dfe7948af6d61e729ca06f</guid>
@@ -121,7 +147,7 @@
 <media:content url="https://s.france24.com/media/display/78964d88-cba7-11f1-83fd-638c1c1f5fd6/w:1024/p:16x9/2026-10-17T212609Z-1651462827-RC285OA65KAS-RTRMADP-3-USA-TRUMP-KENTUCKY.jpg" medium="image"/>
 </item>
 <item>
-<title>Two men re-arrested in RAF Fairford investigation</title>
+<title>Two men re-arrested in RAF Fairford investigation on suspicion of assisting Iran</title>
 <link>https://news.sky.com/story/two-men-re-arrested-in-raf-fairford-investigation-13596084</link>
 <guid isPermaLink="false">f8857414b2d36dd1562b36fde0b54c150bc97707b2cbae18811355869dd5475b</guid>
 <source>Sky News Home</source>
@@ -130,21 +156,8 @@
 <description>Two men have been re-arrested over an alleged plot near RAF Fairford, police said.</description>
 <dc:creator></dc:creator>
 <content:encoded>Two men have been re-arrested over an alleged plot near RAF Fairford, police said.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" medium="image"/>
-</item>
-<item>
-<title>Christina Applegate says she was misdiagnosed with MS</title>
-<link>https://abcnews.com/GMA/Culture/christina-applegate-misdiagnosed-ms/story?id=137407744</link>
-<guid isPermaLink="false">2142574600d618ffcea56efe201cc5ed61e3e2762e998fda68a3467eeae1c2d0</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 20 Oct 2026 15:01:27 +0000</pubDate>
-<description>Christina Applegate says she was misdiagnosed with the neurological and autoimmune disorder multiple sclerosis.</description>
-<dc:creator></dc:creator>
-<content:encoded>Christina Applegate says she was misdiagnosed with the neurological and autoimmune disorder multiple sclerosis.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/GMA/applegate-gty-jef-261020_1792498019373_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/applegate-gty-jef-261020_1792498019373_hpMain_16x9_1600.jpg" medium="image"/>
+<enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-raf-fairford-gloucestershire_7363694.jpg?20260929031312" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-raf-fairford-gloucestershire_7363694.jpg?20260929031312" medium="image"/>
 </item>
 <item>
 <title>From fine wine to no alcohol: The changing world of French sommeliers</title>
@@ -212,7 +225,7 @@
 <media:content url="https://s.france24.com/media/display/15e27694-cc8d-11f1-ae58-6313a763b466/w:1024/p:16x9/000-D3UU32L.jpg" medium="image"/>
 </item>
 <item>
-<title>Zelensky in Oslo for talks with US envoys as Ukraine claims missile holdup</title>
+<title>Zelensky, US envoys hold talks in Oslo as Ukraine claims missile holdup</title>
 <link>https://www.france24.com/en/europe/20261020-zelensky-oslo-for-talks-with-us-envoys-ukraine-claims-missile-holdup</link>
 <guid isPermaLink="false">27a933f0849a7e2dd0ca287aa164a12e316bab3289b3a4a1c555c19e7da64310</guid>
 <source>France 24</source>
@@ -394,6 +407,19 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-bbc-london_7381744.jpg?20261020144228" medium="image"/>
 </item>
 <item>
+<title>Neglect in hospital contributed to baby's meningitis death, jury rules</title>
+<link>https://news.sky.com/story/neglect-in-hospital-contributed-to-babys-meningitis-death-jury-rules-13601362</link>
+<guid isPermaLink="false">5355b77cfb892275e33aff7ed48dcbfaecbf019201f9d2b4e7b0e3bfe2cfadcf</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 12:41:00 +0000</pubDate>
+<description>Neglect contributed to the death of a five-month-old girl who died from meningitis after opportunities were missed in hospital to save or prolong her life, an inquest jury has found.</description>
+<dc:creator></dc:creator>
+<content:encoded>Neglect contributed to the death of a five-month-old girl who died from meningitis after opportunities were missed in hospital to save or prolong her life, an inquest jury has found.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-esta-alina-high-lynsey-carr_7381975.jpg?20261020171545" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-esta-alina-high-lynsey-carr_7381975.jpg?20261020171545" medium="image"/>
+</item>
+<item>
 <title>Exiled critic of Rwandan President Kagame found beheaded in Uganda</title>
 <link>https://www.france24.com/en/video/20261020-exiled-critic-of-rwandan-president-kagame-found-beheaded-in-uganda</link>
 <guid isPermaLink="false">41f173b50df63aa1f09029316b4d05f8ac9bd5330d9967db877d115d2e76fff5</guid>
@@ -420,23 +446,10 @@
 <media:content url="https://s.france24.com/media/display/0dee99ea-cc7e-11f1-9a40-2d1c143cdef3/w:1024/p:16x9/capture-7a2f75c4.jpg" medium="image"/>
 </item>
 <item>
-<title>Kenyan cult leader found guilty of murder</title>
-<link>https://www.france24.com/en/tv-shows/eye-on-africa/20261020-kenyan-cult-leader-found-guilty-of-murder</link>
-<guid isPermaLink="false">a2020938a17e121ccf3398b25e988289d21c0aa88c8d4e221c75838cc068d9de</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Tue, 20 Oct 2026 12:15:27 +0000</pubDate>
-<description>In tonight's programme: Kenyan cult leader Paul Mackenzie is convicted of 191 murders, 190 of which were of children. Also, a former Rwandan soldier and outspoken government critic, Robert Kabera, is found decapitated in Uganda. Plus we meet a young Ivorian music lover who travels around the country looking for old-school sounds that need a little TLC.</description>
-<dc:creator>Georja CALVIN-SMITH</dc:creator>
-<content:encoded>In tonight's programme: Kenyan cult leader Paul Mackenzie is convicted of 191 murders, 190 of which were of children. Also, a former Rwandan soldier and outspoken government critic, Robert Kabera, is found decapitated in Uganda. Plus we meet a young Ivorian music lover who travels around the country looking for old-school sounds that need a little TLC.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/f871ee72-cc7e-11f1-bb25-d1d2c32ebb87/w:1024/p:16x9/capture-0ac0abc7.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/f871ee72-cc7e-11f1-bb25-d1d2c32ebb87/w:1024/p:16x9/capture-0ac0abc7.jpg" medium="image"/>
-</item>
-<item>
 <title>Four soldiers from UN-backed force missing after gang attack in Haiti</title>
 <link>https://news.sky.com/story/four-soldiers-from-un-backed-force-missing-after-gang-attack-in-haiti-13601304</link>
 <guid isPermaLink="false">d3c63f4d5d247f2fb22f7beabe9735848426f604c8f88c6163ceff2bd2bd45fb</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Tue, 20 Oct 2026 10:59:00 +0000</pubDate>
 <description>Armoured police vehicles part of the Gang Suppression Force patrol the Tabarre neighbourhood of Port-au-Prince, Monday. Pic: Odelyn Joseph/AP</description>
@@ -535,19 +548,6 @@
 <content:encoded>The warnings surfaced in a trove of unreported court records. "I have been fighting about fixing this for months with people who didn't think the harms are severe enough," wrote one executive. (Image credit: Imen Ben Youssef)</content:encoded>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4896x3264+0+0/resize/4896x3264!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F26%2Fe544d725449598514b51dd7221db%2Fgettyimages-2298297976.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4896x3264+0+0/resize/4896x3264!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F26%2Fe544d725449598514b51dd7221db%2Fgettyimages-2298297976.jpg" medium="image"/>
-</item>
-<item>
-<title>Britain's first storm of the season named</title>
-<link>https://news.sky.com/story/britains-first-storm-of-the-season-named-13601253</link>
-<guid isPermaLink="false">2266c8b30c2f6a16c6758bc417300eaed750a48b43ff7ff6c23d9463487ce2ff</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Tue, 20 Oct 2026 08:39:00 +0000</pubDate>
-<description>Britain's first named storm of the season is due to hit large parts of the country later this week.</description>
-<dc:creator></dc:creator>
-<content:encoded>Britain's first named storm of the season is due to hit large parts of the country later this week.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-weather-london_7347830.jpg?20260911105906" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-weather-london_7347830.jpg?20260911105906" medium="image"/>
 </item>
 <item>
 <title>Rep. Adam Smith joins lawmakers who received letter with 'suspicious substance'</title>
@@ -730,6 +730,19 @@
 <content:encoded>Lawmakers on Capitol Hill are considering bills to keep cash an option in commerce.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/Business/261019_abc_nwo_schulze_cash_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Business/261019_abc_nwo_schulze_cash_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>King Charles 'sends books about soil' to Aung San Suu Kyi</title>
+<link>https://news.sky.com/story/king-charles-sends-books-and-letters-to-detained-aung-san-suu-kyi-officials-say-13601026</link>
+<guid isPermaLink="false">840c6c487c31c353851eec112bcee148cebc1dd1834687b14ffadbe3c7684e2b</guid>
+<source>Sky News World</source>
+<category>world</category>
+<pubDate>Mon, 19 Oct 2026 14:53:00 +0000</pubDate>
+<description>Myanmar's detained former leader Aung San Suu Kyi has been photographed receiving books and letters from the King Charles, officials said.</description>
+<dc:creator></dc:creator>
+<content:encoded>Myanmar's detained former leader Aung San Suu Kyi has been photographed receiving books and letters from the King Charles, officials said.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-aung-san-suu-kyi-the-king_7380847.jpg?20261019155216" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-aung-san-suu-kyi-the-king_7380847.jpg?20261019155216" medium="image"/>
 </item>
 <item>
 <title>Object thought to be Amelia Earhart’s missing plane likely just 'large trees', researchers find</title>

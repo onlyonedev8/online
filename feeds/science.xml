@@ -4,6 +4,19 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why Drug Companies Are Rushing to Market Ketamine Medicines</title>
+<link>https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html</link>
+<guid isPermaLink="false">f57834171edef6c7b1c88976683da8da43fa75754ed284922c0d3d7e58a88d56</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Tue, 20 Oct 2026 17:07:40 +0000</pubDate>
+<description>Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic.</description>
+<dc:creator>Andrew Jacobs</dc:creator>
+<content:encoded>Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic.</content:encoded>
+<enclosure url="https://static01.nyt.com/images/2026/09/14/science/14SCI-KETAMINE-FDA/14SCI-KETAMINE-FDA-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/09/14/science/14SCI-KETAMINE-FDA/14SCI-KETAMINE-FDA-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>NASA Experimental Mars Helicopter Blade Designs Target Longer Flights</title>
 <link>https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights</link>
 <guid isPermaLink="false">717885f71763239e6341223e975a24865b70db43f3d5934be9f46c1c34c4a01a</guid>
@@ -28,19 +41,6 @@
 <content:encoded>Male mosquitoes infected with a parasite have been released in Barcelona to reduce the number of insects that can transmit infections such as dengue</content:encoded>
 <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317461295.jpg" type="image/jpeg"/>
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317461295.jpg" medium="image"/>
-</item>
-<item>
-<title>Why Drug Companies Are Rushing to Market Ketamine Medicines</title>
-<link>https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html</link>
-<guid isPermaLink="false">f57834171edef6c7b1c88976683da8da43fa75754ed284922c0d3d7e58a88d56</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 20 Oct 2026 15:13:47 +0000</pubDate>
-<description>Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic.</description>
-<dc:creator>Andrew Jacobs</dc:creator>
-<content:encoded>Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic.</content:encoded>
-<enclosure url="https://static01.nyt.com/images/2026/09/14/science/14SCI-KETAMINE-FDA/14SCI-KETAMINE-FDA-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/09/14/science/14SCI-KETAMINE-FDA/14SCI-KETAMINE-FDA-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>NASA Provides Progress Update on Moon Base Rovers</title>
