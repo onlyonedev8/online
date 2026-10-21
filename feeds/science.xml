@@ -108,19 +108,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/KPkNFDYQLrena9wtMDRGie-1920-80.png" medium="image"/>
 </item>
 <item>
-<title>NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module</title>
-<link>https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module</link>
-<guid isPermaLink="false">2f953910c20328395f4138f7994cac2ea19ca0dd271ea98270acacea508cd068</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 20 Oct 2026 18:11:33 +0000</pubDate>
-<description>2 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Space Reactor-1 Freedom will be the first spacecraft ever to demonstrate fission power beyond Earth’s orbit, traveling to Mars to deliver a science payload called SkyFall. NASA/Alberto Bertolin Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “ Ignition ” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA and its partners have mutually agreed to key contract actions that will advance the SR‑1 Freedom mission. “These contract actions not only reduce technical risk and help us maintain momentum toward our 2028 launch, but they also strengthen collaboration across our partners,” said Steve Sinacore, SR-1 Freedom program director. “These actions keep SR‑1 Freedom on track and ensure we’re building the strongest possible foundation for NASA’s first fission‑powered voyage beyond Earth orbit while developing technology extensible to a vibrant space nuclear future.” Space Reactor-1 Freedom’s nuclear power module, located at the end of the spacecraft’s boom, consists of a reactor that generates heat through nuclear fission and a power conversion system that converts that heat into electricity to power systems and electric propulsion. NASA/Alberto Bertolin Sierra Lobo Inc. will provide the nuclear power module’s closed Brayton cycle power conversion system, which converts thermal energy from its fission reactor into electrical power needed for SR-1 Freedom’s nuclear electric propulsion demonstration. The work will be conducted under the Space Flight Systems Development and Operations Contract III, awarded in 2024 , to support spaceflight hardware design, development, testing, and operations at NASA’s Glenn Research Center in Cleveland. The power conversion system will be integrated with the fission reactor, which is being designed and developed by the Department of Energy (DOE)’s Idaho National Laboratory to complete the nuclear power module. NASA and DOE incorporate thorough safety standards throughout the design and development of the SR-1 Freedom spacecraft, including interagency safety reviews, continuous oversight by a NASA chief safety officer, regulatory compliance, and a rigorous safety design process focusing on hazards, failure tolerance, and nuclear safety. In addition, the nuclear reactor portion of SR-1 Freedom will remain inactive until the spacecraft leaves Earth orbit. Launching in late 2028, SR‑1 Freedom will deliver the SkyFall science mission, a team of three Mars helicopters evolved from the Ingenuity design, to collect scientific data, demonstrate exploration zones, and identify potential water sources. The mission will pave the way for deep space exploration and next‑generation fission</description>
-<dc:creator>Gary Daines</dc:creator>
-<content:encoded>2 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Space Reactor-1 Freedom will be the first spacecraft ever to demonstrate fission power beyond Earth’s orbit, traveling to Mars to deliver a science payload called SkyFall. NASA/Alberto Bertolin Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “ Ignition ” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA and its partners have mutually agreed to key contract actions that will advance the SR‑1 Freedom mission. “These contract actions not only reduce technical risk and help us maintain momentum toward our 2028 launch, but they also strengthen collaboration across our partners,” said Steve Sinacore, SR-1 Freedom program director. “These actions keep SR‑1 Freedom on track and ensure we’re building the strongest possible foundation for NASA’s first fission‑powered voyage beyond Earth orbit while developing technology extensible to a vibrant space nuclear future.” Space Reactor-1 Freedom’s nuclear power module, located at the end of the spacecraft’s boom, consists of a reactor that generates heat through nuclear fission and a power conversion system that converts that heat into electricity to power systems and electric propulsion. NASA/Alberto Bertolin Sierra Lobo Inc. will provide the nuclear power module’s closed Brayton cycle power conversion system, which converts thermal energy from its fission reactor into electrical power needed for SR-1 Freedom’s nuclear electric propulsion demonstration. The work will be conducted under the Space Flight Systems Development and Operations Contract III, awarded in 2024 , to support spaceflight hardware design, development, testing, and operations at NASA’s Glenn Research Center in Cleveland. The power conversion system will be integrated with the fission reactor, which is being designed and developed by the Department of Energy (DOE)’s Idaho National Laboratory to complete the nuclear power module. NASA and DOE incorporate thorough safety standards throughout the design and development of the SR-1 Freedom spacecraft, including interagency safety reviews, continuous oversight by a NASA chief safety officer, regulatory compliance, and a rigorous safety design process focusing on hazards, failure tolerance, and nuclear safety. In addition, the nuclear reactor portion of SR-1 Freedom will remain inactive until the spacecraft leaves Earth orbit. Launching in late 2028, SR‑1 Freedom will deliver the SkyFall science mission, a team of three Mars helicopters evolved from the Ingenuity design, to collect scientific data, demonstrate exploration zones, and identify potential water sources. The mission will pave the way for deep space exploration and next‑generation fission-powered systems designed to keep NASA’s Moon Base operating through periods of darkness and in locations where solar power alone is not sufficient. For information about SR-1 Freedom, visit: https://www.nasa.gov/mission/space-reactor-1-freedom/</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1920" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1920" medium="image"/>
-</item>
-<item>
 <title>Jeff Bezos is playing the long game with Blue Origin (op-ed)</title>
 <link>https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed</link>
 <guid isPermaLink="false">17cf68ea6d337cecbdd5ef2f885f4abf0821852fa4492995f74e1c8bea6df2de</guid>
@@ -158,19 +145,6 @@
 <content:encoded>null HAWTHORNE, Calif. — A moon buggy carrying a history-making supercomputer is ready to launch to the lunar surface. And it's taking some inspiration from Mars. Later this year, Astrolab will launch its uncrewed moon rover FLIP to the lunar south pole as part of the Griffin Mission 1, or Griffin-1. The California company is one of two that NASA has selected to develop a drivable rover for the agency's Artemis program. On board FLIP will be Hewlett Packard Enterprise's (HPE) Spaceborne Computer-4, an advanced computer module built to be used in space. This will be the first time that high-performance computing and artificial intelligence will be tested on the lunar surface. As NASA gets closer to landing humans back on the moon with Artemis, advancements like this aim to support future human habitation as well as economic activity on and around the moon. "We're sending the first supercomputer from HPE to the lunar surface later this year, doing the first GPU [graphics processing unit] on the moon [and the] first AI experiments on the moon," Jaret Matthews, founder and CEO of Astrolab, said during an Oct. 14 media event here at Astrolab's headquarters. "They're breaking new ground, and they're ahead of the curve." The computer is designed to be lightweight, compact, self-contained and fanless. It has a low-power 64-bit CPU (central processing unit) with a GPU. The computer will be attached to FLIP's cooling system and will be powered by a system supported by both batteries and solar cells on the rover. The computer will also be paired with solid state drives from the company KIOXIA that will allow for memory storage. Mission Control at Astrolab. Chelsea Gohd Astrolab CEO and founder Jaret Matthews points out the Astrolab landing site among other locations at the lunar south pole. Chelsea Gohd Jaret Matthews presents Astrolab's FLIP rover. Chelsea Gohd The FLIP rover's headlights and attached artwork. Chelsea Gohd A close-up of the attached artwork on the FLIP rover. Chelsea Gohd So, what will a supercomputer and AI accomplish on this uncrewed mission? First and foremost, the flightwill test how the computer works in this extreme environment. The computer is built with heat-conductive aluminum and is designed with the specific conditions of the lunar south pole in mind. But while it was designed and tested to be able to withstand the extreme temperatures and conditions on the moon's surface, the upcoming mission seeks to show that this advanced technology can actually work in this environment. "NASA's given us a real challenge," Matthews told Space.com at the media event. "We have to design for a full year on the lunar surface. So that means surviving multiple lunar nights, upwards of 150 hours of complete darkness where we're not receiving energy or warmth from the sun. And then, also, there's going to be a long period [in] which we're operating semi-autonomously for [when] the astronauts are not there … and so we're having to develop a semi-autonomous platform that will spend many months [and] travel hundreds of kilometers [on the moon]." But the computer will more than just prove its durability, if all goes to plan. It will also analyze visual data captured on the mission and enable autonomous observations, process navigation, mapping and terrain analysis. The mission also promises to test AI capabilities, though it's unclear what exact applications we'll see with this lunar AI. HPE shared in a statement that "an AI services container will demonstrate reliable deployment of scalable AI service applications on the moon." It is also to be determined exactly how, once tested, these capabilities might be used with future crewed missions. Astronauts aboard the International Space Station already use computers for communications, science experiments and other daily tasks while living in space, but we can't say yet exactly how future astronauts might use these capabilities, especially with the addition of AI, on the moon. From Mars to the moon One interesting aspect of this new development is where it came from. While HPE has provided computing power to NASA for decades, Matthews is also bringing his previous experience working at NASA's Jet Propulsion Laboratory (JPL) into this new venture. "One of the experiments [that will be] running on the spaceborne computer on the moon is a localization software experiment from JPL. It has been used on Mars, and this will be the first time it's used on the moon," Matthews said. "The challenge with the moon and Mars is that there's no GPS, so locating yourself and knowing where you are on the surface [can be difficult]," he added. "So we're going to be running what is essentially a machine learning algorithm that JPL developed to take a map that's stored in memory … and compare it to the local terrain we see around us, and then do a match. So essentially, match features of the local terrain to the map that's stored in memory to help find ourselves on the map and keep ourselves away from dangerous craters." As its name suggests, Griffin-1 will be the first mission for the robotic Griffin moon lander, which was developed by Astrobotic. The Pittsburgh company is flying Griffin-1 for NASA, under the agency's CLPS (Commercial Lunar Payload Services) program. In addition to FLIP, the mission will carry Astrobiotic's CubeRover, a small, uncrewed rover; LandCam-X, an optical navigation system; and Nanofiche GLPH (Galactic Library to Preserve Humanity), a tiny archive of human history, to the moon's surface. "The moon presents a challenging environment for advanced computing, and we’re pleased to provide HPE with an opportunity to demonstrate its technology on the lunar surface," Matthews added in a statement. "Our FLIP rover is designed to accommodate a variety of payloads, and this mission will demonstrate how commercial lunar mobility platforms can support technology development and scientific research."</content:encoded>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA Experimental Mars Helicopter Blade Designs Target Longer Flights</title>
-<link>https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights</link>
-<guid isPermaLink="false">717885f71763239e6341223e975a24865b70db43f3d5934be9f46c1c34c4a01a</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 20 Oct 2026 16:02:35 +0000</pubDate>
-<description>Ingenuity roamx-0201 Ingenuity roamx-0201 Ingenuity roamx-0201 Curtain Toggle 2-Up Image Details Rotor blade cross-sections highlight the thinner profile of the roamx-0201 design (right) compared to the more traditional, rounded shape used by NASA’s Ingenuity Mars helicopter, which accomplished the first powered flight on Mars. NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers. NASA’s Ingenuity helicopter made history as the first powered aircraft to fly on another planet. The SkyFall mission, scheduled for launch in 2028, builds on that legacy with a trio of helicopters destined for Mars exploration. Both missions utilize a blade designed to operate in Mars’ thin atmosphere, with a curved edge reminiscent of but distinct from blades used on Earth. Researchers are exploring unconventional blade designs that are thinner and sharper, aiming to enable future missions after Skyfall to expand their single-flight range across Mars. One team at NASA’s Ames Research Center in California’s Silicon Valley is working with Imperial College London, United Kingdom, and Nagoya University, Japan, to test a new blade cross-section, or airfoil, that promises to significantly boost aerodynamic performance on Mars. Researchers designed the new airfoil, called roamx-0201, using advanced simulations and algorithms tuned to Mars conditions, pointing researchers toward a thinner, asymmetrical shape. Subsequent wind tunnel tests showed that the optimized design boosted performance and was better able to recover in risky flight conditions. Researchers used high-fidelity simulation tools to analyze the performance of the roamx-0201 airfoil and compare it to Ingenuity’s capacity. They found that the redesigned blades could enable future Mars helicopters to expand the distances that can be covered in one uninterrupted flight from Ingenuity’s 0.7 kilometers to as much as 18.7 kilometers while carrying scientific instruments. The findings were announced in a paper published Sept. 22 in the journal of the American Institute of Aeronautics and Astronautics. The roamx‑0201 blades performed well in part because they were able to operate longer at higher speeds before experiencing a phenomenon known as “drag divergence”, where performance drops suddenly when the rotors approach the speed of sound, which is lower on Mars than on Earth. The new blade also differs from earlier designs in how it uses turbulence to create lift. As air flows over a rotorcraft blade, it forms a thin region called the “boundary layer.” The new airfoil intentionally disrupts the flow of that boundary layer at the front of the airfoil directly at the leading edge to create a disturbance that, counterintuitively,</description>
-<dc:creator>Arezu Sarvestani</dc:creator>
-<content:encoded>Ingenuity roamx-0201 Ingenuity roamx-0201 Ingenuity roamx-0201 Curtain Toggle 2-Up Image Details Rotor blade cross-sections highlight the thinner profile of the roamx-0201 design (right) compared to the more traditional, rounded shape used by NASA’s Ingenuity Mars helicopter, which accomplished the first powered flight on Mars. NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers. NASA’s Ingenuity helicopter made history as the first powered aircraft to fly on another planet. The SkyFall mission, scheduled for launch in 2028, builds on that legacy with a trio of helicopters destined for Mars exploration. Both missions utilize a blade designed to operate in Mars’ thin atmosphere, with a curved edge reminiscent of but distinct from blades used on Earth. Researchers are exploring unconventional blade designs that are thinner and sharper, aiming to enable future missions after Skyfall to expand their single-flight range across Mars. One team at NASA’s Ames Research Center in California’s Silicon Valley is working with Imperial College London, United Kingdom, and Nagoya University, Japan, to test a new blade cross-section, or airfoil, that promises to significantly boost aerodynamic performance on Mars. Researchers designed the new airfoil, called roamx-0201, using advanced simulations and algorithms tuned to Mars conditions, pointing researchers toward a thinner, asymmetrical shape. Subsequent wind tunnel tests showed that the optimized design boosted performance and was better able to recover in risky flight conditions. Researchers used high-fidelity simulation tools to analyze the performance of the roamx-0201 airfoil and compare it to Ingenuity’s capacity. They found that the redesigned blades could enable future Mars helicopters to expand the distances that can be covered in one uninterrupted flight from Ingenuity’s 0.7 kilometers to as much as 18.7 kilometers while carrying scientific instruments. The findings were announced in a paper published Sept. 22 in the journal of the American Institute of Aeronautics and Astronautics. The roamx‑0201 blades performed well in part because they were able to operate longer at higher speeds before experiencing a phenomenon known as “drag divergence”, where performance drops suddenly when the rotors approach the speed of sound, which is lower on Mars than on Earth. The new blade also differs from earlier designs in how it uses turbulence to create lift. As air flows over a rotorcraft blade, it forms a thin region called the “boundary layer.” The new airfoil intentionally disrupts the flow of that boundary layer at the front of the airfoil directly at the leading edge to create a disturbance that, counterintuitively, pulls the blade upward to help lift the rotorcraft more effectively than with earlier designs. Another challenge for rotorcraft is “stall,” an aerodynamic condition in which performance drops sharply and flight becomes unstable following a change in the angle of airflow. Ingenuity’s blades experienced steep performance degradation at stall, but under the conditions studied, the roamx-0201 design showed significantly improved stall behavior. That means future helicopters could operate safely at a wider range of flight angles. While the technology is not yet ready for Mars, tests are helping engineers understand and resolve discrepancies between computational predictions and real-world performance. Ongoing research across NASA aims to enable more efficient Mars helicopters that can fly farther, carry more payload, and unlock new science and discovery missions.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png" medium="image"/>
 </item>
 <item>
 <title>Parasite-infected mosquitoes released in Europe for first time</title>
@@ -212,7 +186,7 @@
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317353201.jpg" medium="image"/>
 </item>
 <item>
-<title>Where does the ‘extreme male brain’ sit in our better understanding of autism?</title>
+<title>The controversial legacy of a ‘male’ theory of autism</title>
 <link>https://www.newscientist.com/article/2592226-where-does-the-extreme-male-brain-sit-in-our-better-understanding-of-autism</link>
 <guid isPermaLink="false">80bd1a0e0fda702f3441b39898fdb29b7dfb8ef5c0dffe397471d5afcfe88500</guid>
 <source>New Scientist</source>
@@ -223,32 +197,6 @@
 <content:encoded>Simon Baron-Cohen’s influential research helped pin autism as a particularly male condition. As studies increasingly broaden our view of autism, has his perspective changed?</content:encoded>
 <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314691625.jpg" type="image/jpeg"/>
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_314691625.jpg" medium="image"/>
-</item>
-<item>
-<title>Webb Captures Stellar Jets</title>
-<link>https://www.nasa.gov/image-article/webb-captures-stellar-jets</link>
-<guid isPermaLink="false">6675ae824e75fa1beaaf628936b387f9fe84cfb72cdc0643edb5bb3a318c834c</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 20 Oct 2026 14:44:09 +0000</pubDate>
-<description>NASA’s James Webb Space Telescope has revealed many protostars and stars within the glowing gases of NGC 7129. Hot, atomic hydrogen gas is shown here in the golden region, while cooler, molecular hydrogen gas, shocked by embedded protostars, is represented in red. NASA, ESA, CSA, STScI; Image Processing: Alyssa Pagan (STScI) An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in an interactive experience. Image credit: NASA, ESA, CSA, STScI; Image Processing: Alyssa Pagan (STScI)</description>
-<dc:creator>HQ Web Team</dc:creator>
-<content:encoded>NASA’s James Webb Space Telescope has revealed many protostars and stars within the glowing gases of NGC 7129. Hot, atomic hydrogen gas is shown here in the golden region, while cooler, molecular hydrogen gas, shocked by embedded protostars, is represented in red. NASA, ESA, CSA, STScI; Image Processing: Alyssa Pagan (STScI) An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in an interactive experience. Image credit: NASA, ESA, CSA, STScI; Image Processing: Alyssa Pagan (STScI)</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=2048" medium="image"/>
-</item>
-<item>
-<title>NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory</title>
-<link>https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory</link>
-<guid isPermaLink="false">82351ac5423961b6963002e81b4bf8df11a5d0812a17a511da15b65c4d7a7f1d</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 20 Oct 2026 14:21:42 +0000</pubDate>
-<description>Credit: NASA The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build a Moon Base and establish an enduring presence on the lunar surface. As we put the principles of the Artemis Accords into practice, we are expanding opportunities for like-minded nations around the world to contribute to humanity’s return to the Moon. Uzbekistan is a welcome addition to this growing coalition.” Minister of Foreign Affairs of the Republic of Uzbekistan Bakhtiyor Saidov signed the Artemis Accords on behalf of the country. The signing took place during a visit by U.S. Secretary of State Marco Rubio. Uzbekistan has increasingly engaged with NASA and the broader international space community through its development of a national space program aimed at advancing Uzbekistan’s space industry and participation in global space forums. Uzbek students also are working to develop and launch the country’s first CubeSat, or small satellite technology demonstration, by 2028. In early October, NASA officials met with representatives from Uzbekistan’s Ministry of Digital Technologies and Uzbekistan’s space agency, Uzcosmos, during the 2026 International Astronautical Congress in Antalya, Türkiye, where the two sides discussed civil space cooperation and opportunities for increased engagement. Uzbekistan is scheduled to host the annual global space event in 2028. In 2020, NASA and the State Department joined with seven other founding nations to establish the Artemis Accords, responding to the growing interest in lunar activities by both governments and private companies. They introduced the first set of practical principles aimed at enhancing the safety and coordination between nations as they explore the Moon, Mars, and beyond. Signing the Artemis Accords means committing to explore peaceably and transparently, to render aid to those in need, to enable access to scientific data that all of humanity can learn from, to ensure activities do not interfere with those of others, and to preserve historically significant sites and artifacts by developing best practices for space exploration for the benefit of all. More countries are expected to sign the Artemis Accords in the months and years ahead, as NASA continues its work to establish a safe, peaceful, and prosperous future in space. Learn more about the Artemis Accords at: https://www.nasa.gov/artemis-accords Share Details Last Updated Oct 20, 2026 Location NASA Headquarters Related Terms Artemis Accords Office of International and Interagency Relations (OIIR)</description>
-<dc:creator>Elizabeth Shaw</dc:creator>
-<content:encoded>Credit: NASA The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build a Moon Base and establish an enduring presence on the lunar surface. As we put the principles of the Artemis Accords into practice, we are expanding opportunities for like-minded nations around the world to contribute to humanity’s return to the Moon. Uzbekistan is a welcome addition to this growing coalition.” Minister of Foreign Affairs of the Republic of Uzbekistan Bakhtiyor Saidov signed the Artemis Accords on behalf of the country. The signing took place during a visit by U.S. Secretary of State Marco Rubio. Uzbekistan has increasingly engaged with NASA and the broader international space community through its development of a national space program aimed at advancing Uzbekistan’s space industry and participation in global space forums. Uzbek students also are working to develop and launch the country’s first CubeSat, or small satellite technology demonstration, by 2028. In early October, NASA officials met with representatives from Uzbekistan’s Ministry of Digital Technologies and Uzbekistan’s space agency, Uzcosmos, during the 2026 International Astronautical Congress in Antalya, Türkiye, where the two sides discussed civil space cooperation and opportunities for increased engagement. Uzbekistan is scheduled to host the annual global space event in 2028. In 2020, NASA and the State Department joined with seven other founding nations to establish the Artemis Accords, responding to the growing interest in lunar activities by both governments and private companies. They introduced the first set of practical principles aimed at enhancing the safety and coordination between nations as they explore the Moon, Mars, and beyond. Signing the Artemis Accords means committing to explore peaceably and transparently, to render aid to those in need, to enable access to scientific data that all of humanity can learn from, to ensure activities do not interfere with those of others, and to preserve historically significant sites and artifacts by developing best practices for space exploration for the benefit of all. More countries are expected to sign the Artemis Accords in the months and years ahead, as NASA continues its work to establish a safe, peaceful, and prosperous future in space. Learn more about the Artemis Accords at: https://www.nasa.gov/artemis-accords Share Details Last Updated Oct 20, 2026 Location NASA Headquarters Related Terms Artemis Accords Office of International and Interagency Relations (OIIR)</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-uzbekistan-77-101926.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-uzbekistan-77-101926.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>Red light, white light: How to preserve your night vision while using stargazing apps</title>
@@ -496,19 +444,6 @@
 <content:encoded>A row over when to publish crucial climate change assessments risks letting countries off the hook on emissions cuts</content:encoded>
 <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317349988.jpg" type="image/jpeg"/>
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317349988.jpg" medium="image"/>
-</item>
-<item>
-<title>Martian Dawn</title>
-<link>https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2</link>
-<guid isPermaLink="false">a6a14a28737ed87a3ef14e8e321b7b22b3c69cc19fd97312aab882cf347f0342</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 19 Oct 2026 16:05:00 +0000</pubDate>
-<description>The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.</description>
-<dc:creator></dc:creator>
-<content:encoded>The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" medium="image"/>
 </item>
 <item>
 <title>Bottlenose whales may look after each other when they’re sick</title>
@@ -966,19 +901,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/85cusoXdo7cLyXzQDDVy8P-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>Artemis II Heat Shield After Splashdown</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1320</link>
-<guid isPermaLink="false">bd7ea775e6f02cf018151963e6bbeb538b0eff8129c915bf68bebb3980d24ec5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 16:33:00 +0000</pubDate>
-<description>Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.</description>
-<dc:creator></dc:creator>
-<content:encoded>Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" medium="image"/>
-</item>
-<item>
 <title>'Mission: 60s' event promises passport back to the Space Age</title>
 <link>https://www.space.com/space-exploration/apollo/rocket-back-to-the-space-age-with-mission-60s-event-in-nyc-next-weekend</link>
 <guid isPermaLink="false">e7847647bbe94a17222791fe1deec51b61e36bda0c80a4dc599f75049cb72e36</guid>
@@ -1239,19 +1161,6 @@
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/10/Dark-Matter-Galaxies-cr.several-Default.webp" medium="image"/>
 </item>
 <item>
-<title>Transporter-18 SmallSats Encapsulation</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1315</link>
-<guid isPermaLink="false">e4159da664528188a8fd82ed2613bde89d53f23fb96e15a19a83328717fae347</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 13 Oct 2026 17:52:00 +0000</pubDate>
-<description>Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.</description>
-<dc:creator></dc:creator>
-<content:encoded>Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" medium="image"/>
-</item>
-<item>
 <title>Week in images: 12-16 October 2026</title>
 <link>https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_October_2026</link>
 <guid isPermaLink="false">9820def6e51cab9379efbf54bc294c47be9af8b946ff23f47502788ff929f899</guid>
@@ -1369,97 +1278,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" medium="image"/>
 </item>
 <item>
-<title>Astronomers Solve Cosmic Cold Case with NASA Hubble Data</title>
-<link>https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9</link>
-<guid isPermaLink="false">e7acee45febf783e11665c7d291d8b2a40f8aba5f5607b9b460e19e507ca7a75</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 06 Oct 2026 16:17:00 +0000</pubDate>
-<description>This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.</description>
-<dc:creator></dc:creator>
-<content:encoded>This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA Astronaut Christina Koch at Eagles vs. Rams</title>
-<link>https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field</link>
-<guid isPermaLink="false">578734c1fe8df2e9efa4b83a532b1ddf9a63a7e7b36defe815c606d85de22c40</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 05 Oct 2026 17:45:00 +0000</pubDate>
-<description>NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.</description>
-<dc:creator></dc:creator>
-<content:encoded>NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA’s SpaceX Crew-13 Launches</title>
-<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3</link>
-<guid isPermaLink="false">07f5c690e45e94633737ffc40a00e6a269a635b19c6024bf14b670f62bc26804</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 01 Oct 2026 18:07:00 +0000</pubDate>
-<description>A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.</description>
-<dc:creator></dc:creator>
-<content:encoded>A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Star Trails</title>
-<link>https://www.nasa.gov/image-detail/iss075e0144232</link>
-<guid isPermaLink="false">2f9c821724c6cf311138939fbf5d114d76dd53bcf1741a4ef170f481e93f4cad</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 30 Sep 2026 17:51:00 +0000</pubDate>
-<description>This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.</description>
-<dc:creator></dc:creator>
-<content:encoded>This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Crew-13 Rocket and Spacecraft at Launch Pad</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1312</link>
-<guid isPermaLink="false">47cd5f055f779d2d1de59b29bc2e3358cc9091b0da2f013985ec259eda8dc622</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 29 Sep 2026 15:33:00 +0000</pubDate>
-<description>Ahead of launch of NASA’s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.</description>
-<dc:creator></dc:creator>
-<content:encoded>Ahead of launch of NASA’s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova</title>
-<link>https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207</link>
-<guid isPermaLink="false">26ec5e4da7e213b5df4096c233fdfa86e32cf848c1db76707ae23292412979a7</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 23 Sep 2026 18:45:00 +0000</pubDate>
-<description>An image from NASA's Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.</description>
-<dc:creator></dc:creator>
-<content:encoded>An image from NASA's Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" medium="image"/>
-</item>
-<item>
-<title>COSI Telescope Comes Together</title>
-<link>https://www.nasa.gov/image-detail/cosi-2026july-01</link>
-<guid isPermaLink="false">39bb98da64415a1cb91f491c728ba0e6148bff3c25fb06bce87abe66040713a5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 18 Sep 2026 15:46:00 +0000</pubDate>
-<description>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.</description>
-<dc:creator></dc:creator>
-<content:encoded>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" medium="image"/>
-</item>
-<item>
 <title>Artemis III Crew Visits NASA Kennedy's Vehicle Assembly Building</title>
 <link>https://www.nasa.gov/image-detail/afs-8-101-1307</link>
 <guid isPermaLink="false">9212a1e9d8662e960c7092f49c3e8b12a15c44ebb4cd2f3f279df26d2a5b6c07</guid>
@@ -1471,32 +1289,6 @@
 <content:encoded>NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.</content:encoded>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Chandra Spots Galactic Gem</title>
-<link>https://www.nasa.gov/image-detail/galaxies-iizw096</link>
-<guid isPermaLink="false">6a1d948744d290016a0617c18261d449a216e52c846e957efd5a8ea82c6a5c5e</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 11 Sep 2026 17:22:00 +0000</pubDate>
-<description>Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.</description>
-<dc:creator></dc:creator>
-<content:encoded>Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" medium="image"/>
-</item>
-<item>
-<title>Superbubble in the Large Magellanic Cloud</title>
-<link>https://www.nasa.gov/image-detail/hubble-n44-wfc3-large</link>
-<guid isPermaLink="false">026a0bc93661a13b3d9350ebebc36e78a1b5937b2f4ba3b195ce5ec192fb29e3</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 08 Sep 2026 16:49:00 +0000</pubDate>
-<description>N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope image in the upper central region.</description>
-<dc:creator></dc:creator>
-<content:encoded>N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope image in the upper central region.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" medium="image"/>
 </item>
 <item>
 <title>Lunar Occultation of Venus</title>
@@ -1564,45 +1356,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg" medium="image"/>
 </item>
 <item>
-<title>NASA's Artemis II Crew Receives Congressional Space Medal of Honor</title>
-<link>https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2</link>
-<guid isPermaLink="false">08be272fa996fab8e77bfebf01d8fbf7812eb1fd6446482c175fdaf2d2edd0f3</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 28 Aug 2026 22:24:00 +0000</pubDate>
-<description>President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.</description>
-<dc:creator></dc:creator>
-<content:encoded>President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Astronauts Anil Menon and Sophie Adenot on Spacewalk</title>
-<link>https://www.nasa.gov/image-detail/gmt230_ehdc1-2</link>
-<guid isPermaLink="false">cb37876c1de0f8b8a2938843104fc756be99199e420ad39c37d3cd812a56a61c</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 25 Aug 2026 14:58:00 +0000</pubDate>
-<description>From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station.</description>
-<dc:creator></dc:creator>
-<content:encoded>From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's B777 Gets New Coat of Paint</title>
-<link>https://www.nasa.gov/image-detail/jsc2026e407303</link>
-<guid isPermaLink="false">f7e995f8c8d6b7d64d5dd5dd7a6d8bf253d7dce8ba4d40d6757ad8a159fd3895</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 18 Aug 2026 15:16:00 +0000</pubDate>
-<description>NASA's Boeing 777 returns to the agency's Langley Research Center after receiving a new paint scheme.</description>
-<dc:creator></dc:creator>
-<content:encoded>NASA's Boeing 777 returns to the agency's Langley Research Center after receiving a new paint scheme.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" medium="image"/>
-</item>
-<item>
 <title>Colorful Collage of Tarantula Nebula</title>
 <link>https://www.nasa.gov/image-detail/30dor-crop</link>
 <guid isPermaLink="false">c66fa1686b72e2606534bad91ba33deb29d79cade921ec43b2632131268cf3dd</guid>
@@ -1614,84 +1367,6 @@
 <content:encoded>Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.</content:encoded>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" medium="image"/>
-</item>
-<item>
-<title>Perseids Meteor Shower</title>
-<link>https://www.nasa.gov/image-detail/perseidsorion-2</link>
-<guid isPermaLink="false">796e22218cfd29be9db55317e7fb1b94fe245cca06bf425698882b75441051a9</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 13 Aug 2026 15:09:00 +0000</pubDate>
-<description>The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.</description>
-<dc:creator></dc:creator>
-<content:encoded>The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" medium="image"/>
-</item>
-<item>
-<title>2026 Total Solar Eclipse in Spain</title>
-<link>https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2</link>
-<guid isPermaLink="false">88facde88034cedc4ee8f0a4003b54cd7fdcd2931f77b522038da11ed4e20ede</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 12 Aug 2026 20:17:00 +0000</pubDate>
-<description>A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.</description>
-<dc:creator></dc:creator>
-<content:encoded>A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Taking Flight to Prepare for Space</title>
-<link>https://www.nasa.gov/image-detail/55412014375-711b8f02f7-o</link>
-<guid isPermaLink="false">41e68718233e5748c8fabc1c402dd2d3796e5d0c73bed26fb43341b54e51ef95</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 06 Aug 2026 15:20:00 +0000</pubDate>
-<description>NASA astronaut candidate Adam Fuhrmann prepares for a training flight aboard NASA’s WB-57 aircraft.</description>
-<dc:creator></dc:creator>
-<content:encoded>NASA astronaut candidate Adam Fuhrmann prepares for a training flight aboard NASA’s WB-57 aircraft.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Artemis III Orion Crew and Service Modules Joined</title>
-<link>https://www.nasa.gov/image-detail/ksc-20260730-ph-as01-6583-2</link>
-<guid isPermaLink="false">6e404c98955ac1870d35db9a8d32e17f27227f8790c6279d5387e976a901b503</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 05 Aug 2026 17:31:00 +0000</pubDate>
-<description>Engineers connect the Orion crew and service modules for the Artemis III mission inside the Neil A. Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida.</description>
-<dc:creator></dc:creator>
-<content:encoded>Engineers connect the Orion crew and service modules for the Artemis III mission inside the Neil A. Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp" medium="image"/>
-</item>
-<item>
-<title>Understanding How Martian Auroras Are Made</title>
-<link>https://www.nasa.gov/image-detail/pia22076-2</link>
-<guid isPermaLink="false">e45d3f37215b93d3f2d1db9f69c465b09ef520498956afd94522a259c7c9e561</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 29 Jul 2026 15:48:00 +0000</pubDate>
-<description>This illustration depicts charged particles from a solar storm stripping away charged particles of Mars' atmosphere, one of the processes of Martian atmosphere loss studied by NASA's MAVEN mission.</description>
-<dc:creator></dc:creator>
-<content:encoded>This illustration depicts charged particles from a solar storm stripping away charged particles of Mars' atmosphere, one of the processes of Martian atmosphere loss studied by NASA's MAVEN mission.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/07/pia22076.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/07/pia22076.jpg" medium="image"/>
-</item>
-<item>
-<title>New Crew Members Welcomed to International Space Station</title>
-<link>https://www.nasa.gov/image-detail/iss074e0814792</link>
-<guid isPermaLink="false">0829e0523cd7d00011ae85772e9d4fcbcbc004a791c77583bc8b542ee93be348</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 24 Jul 2026 16:45:00 +0000</pubDate>
-<description>From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a portrait while holding a cake celebrating their recent arrival aboard the International Space Station.</description>
-<dc:creator></dc:creator>
-<content:encoded>From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a portrait while holding a cake celebrating their recent arrival aboard the International Space Station.</content:encoded>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/07/iss074e0814792orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/07/iss074e0814792orig.jpg" medium="image"/>
 </item>
 <item>
 <title>εpsilon</title>
