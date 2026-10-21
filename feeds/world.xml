@@ -4,6 +4,45 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Jane Doe says she felt 'unsupported and disbelieved' by Cornell president</title>
+<link>https://abcnews.com/US/jane-doe-felt-unsupported-disbelieved-cornell-president/story?id=137427708</link>
+<guid isPermaLink="false">08395f100f4d440677aad5a1e8df066ff614a412519ca0360f1f31ffbb7097a4</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 00:30:14 +0000</pubDate>
+<description>The former Cornell student who alleged she was gang raped at a fraternity house in 2024 said she felt "unsupported and disbelieved" by the school's president.</description>
+<dc:creator></dc:creator>
+<content:encoded>The former Cornell student who alleged she was gang raped at a fraternity house in 2024 said she felt "unsupported and disbelieved" by the school's president.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/cornell-1-rt-gmh-261015_1792082316866_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/cornell-1-rt-gmh-261015_1792082316866_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Amy Acton campaign slams Ramaswamy over controversial ad featuring estranged mother</title>
+<link>https://abcnews.com/Politics/amy-acton-campaign-slams-ramaswamy-controversial-ad-featuring/story?id=137421475</link>
+<guid isPermaLink="false">ea9dc23dff8ef6a737ffdf749d7f1438691f95e0651b860f78f22c02b5db4d96</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 00:19:19 +0000</pubDate>
+<description>Ohio Gubernatorial Candidate Amy Acton’s campaign alleged her opponent's campaign is using her estranged mother in a controversial political ad against her.</description>
+<dc:creator></dc:creator>
+<content:encoded>Ohio Gubernatorial Candidate Amy Acton’s campaign alleged her opponent's campaign is using her estranged mother in a controversial political ad against her.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Politics/acton-1-gty-jef-261020_1792520808026_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/acton-1-gty-jef-261020_1792520808026_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Great white shark leaps out of ocean off California's Marina Beach</title>
+<link>https://abcnews.com/video/137428306</link>
+<guid isPermaLink="false">48bb143971cc255fda25ce27999b9b4e718275d9bd33a6cea844cb247aa44601</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 00:15:54 +0000</pubDate>
+<description>A great white shark surprised visitors off Marina Beach, California, when it leapt out of the ocean as a beachgoer was taking a video.</description>
+<dc:creator></dc:creator>
+<content:encoded>A great white shark surprised visitors off Marina Beach, California, when it leapt out of the ocean as a beachgoer was taking a video.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/WNT/261020_wn_vo_shark_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/WNT/261020_wn_vo_shark_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Italy announces new security measures after Milan riots, deploying 500 soldiers</title>
 <link>https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers</link>
 <guid isPermaLink="false">40cbfd38a691e4f7c7c5289e12cdabcc7e692c797948d413d0c4bf209cffd99e</guid>
@@ -17,6 +56,19 @@
 <media:content url="https://s.france24.com/media/display/30cbdb5e-ccd2-11f1-a6e1-2d1c143cdef3/w:1024/p:16x9/AP26293753064302.jpg" medium="image"/>
 </item>
 <item>
+<title>El-Sayed says Trump's attacks on his faith are to distract from pain he's causing</title>
+<link>https://abcnews.com/Politics/abdul-el-sayed-trumps-attacks-faith-meant-distract/story?id=137382911</link>
+<guid isPermaLink="false">b737d87e90fedb2fa4dde37c628676d98724fa108d2ea32edaa18c0de1a2b422</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Tue, 20 Oct 2026 23:24:42 +0000</pubDate>
+<description>The Michigan Senate candidate said they don't address Americans' struggles.</description>
+<dc:creator></dc:creator>
+<content:encoded>The Michigan Senate candidate said they don't address Americans' struggles.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Politics/el-sayed-1-abc-gmh-261020_1792518139144_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/el-sayed-1-abc-gmh-261020_1792518139144_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Nigeria records first Ebola case as outbreak spreads across Africa</title>
 <link>https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa</link>
 <guid isPermaLink="false">ff482f120a8612c3c136c0285e195d4b8e846e996d4ad858012d721ac8aae882</guid>
@@ -28,19 +80,6 @@
 <content:encoded>Nigeria has confirmed its first Ebola case in Africa's latest outbreak, while Kenya reported its ninth infection, raising fears of further spread across the continent. Africa CDC chief Jean Kaseya warned of an “extremely serious threat” and urged the international community to send funding, medical supplies and health workers.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/db9f009a-cccf-11f1-8fb9-638c1c1f5fd6/w:1024/p:16x9/AP26293670227514.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/db9f009a-cccf-11f1-8fb9-638c1c1f5fd6/w:1024/p:16x9/AP26293670227514.jpg" medium="image"/>
-</item>
-<item>
-<title>Rogers says inroads with Black and Jewish voters will help him beat El-Sayed</title>
-<link>https://abcnews.com/Politics/michigan-gop-senate-candidate-mike-rogers-inroads-black/story?id=137382967</link>
-<guid isPermaLink="false">e29741672950647662ba11db7174d437c110ccafd850908a9d8e0885adbffb62</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 20 Oct 2026 23:18:16 +0000</pubDate>
-<description>He broke with Trump on some tariffs and said he’s “worried” about the economy.</description>
-<dc:creator></dc:creator>
-<content:encoded>He broke with Trump on some tariffs and said he’s “worried” about the economy.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Politics/mike-rogers-davis-sit-20261020-abc-jh_1792537002525_hpMain_16x9_1600.jpeg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/mike-rogers-davis-sit-20261020-abc-jh_1792537002525_hpMain_16x9_1600.jpeg" medium="image"/>
 </item>
 <item>
 <title>American Airlines flight blows tire while landing at Chicago O'Hare: FAA</title>
@@ -67,19 +106,6 @@
 <content:encoded>Two weeks out from the Midterm elections, there’s bipartisan pushback against data centers that suck the water and power out of communities. Just two years ago, ChatGPT was still a brand new thing, and AI was admired with awe by most voters. Like in 2024, the hot button issue in swing constituencies remains inflation or ‘the price of eggs’. But anxiety over the end of the month is now coupled with anxiety over the end of the world. In 2026, bots and large language models write papers and churn out campaign ads. We'll ask about calls for regulation despite fierce resistance from tech billionaires and whether the latest wobbles from the stock market signal that the race to corner the market and scale up at warp speed may be running out of road.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/aac402a4-ccb1-11f1-b252-6313a763b466/w:1024/p:16x9/Anglais-2026-10-20T17-55-58-249Z.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/aac402a4-ccb1-11f1-b252-6313a763b466/w:1024/p:16x9/Anglais-2026-10-20T17-55-58-249Z.jpg" medium="image"/>
-</item>
-<item>
-<title>Amy Acton campaign slams Ramaswamy over controversial ad featuring estranged mother</title>
-<link>https://abcnews.com/Politics/amy-acton-campaign-slams-ramaswamy-controversial-ad-featuring/story?id=137421475</link>
-<guid isPermaLink="false">ea9dc23dff8ef6a737ffdf749d7f1438691f95e0651b860f78f22c02b5db4d96</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 20 Oct 2026 22:42:42 +0000</pubDate>
-<description>Ohio Gubernatorial Candidate Amy Acton’s campaign alleged her opponent's campaign is using her estranged mother in a controversial political ad against her.</description>
-<dc:creator></dc:creator>
-<content:encoded>Ohio Gubernatorial Candidate Amy Acton’s campaign alleged her opponent's campaign is using her estranged mother in a controversial political ad against her.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Politics/acton-1-gty-jef-261020_1792520808026_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/acton-1-gty-jef-261020_1792520808026_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Trump says what Russia is doing to Ukraine is 'fine'</title>
@@ -615,19 +641,6 @@
 <media:content url="https://s.abcnews.com/images/US/vote-12gty-gmh-261019_1792414805435_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Triumphal Arch final plans submitted to National Capital Planning Commission</title>
-<link>https://abcnews.com/Politics/triumphal-arch-final-plans-submitted-interior-department-national/story?id=137392598</link>
-<guid isPermaLink="false">26cdb33dc01d2b6a6ec54053a566208924c167a307e2fad6663d543c62c3a4b4</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 20 Oct 2026 10:38:11 +0000</pubDate>
-<description>The plans are scheduled to be reviewed at a Nov. 5 National Capital Planning Commission meeting.</description>
-<dc:creator></dc:creator>
-<content:encoded>The plans are scheduled to be reviewed at a Nov. 5 National Capital Planning Commission meeting.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/arch-1-ht-gmh-261019_1792435449124_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/arch-1-ht-gmh-261019_1792435449124_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>What if an AI bubble bursts — and that accelerates AI job losses?</title>
 <link>https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses</link>
 <guid isPermaLink="false">93590db6a53c7325cb17ff90e32f4e744e921c2074e87c6927aef983733c529d</guid>
@@ -873,18 +886,5 @@
 <content:encoded>ABC News contributor Don Mihalek discusses the bystander credited with stopping the suspected gunman and ongoing investigations.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/261016_abcnl_3p_mihalek_shooting_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261016_abcnl_3p_mihalek_shooting_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Elon Musk unveils Tesla's new Roadster, and it can fly</title>
-<link>https://abcnews.com/video/137312932</link>
-<guid isPermaLink="false">a9646118efbbb16873fd8cf38867f0f3658153e70b38f1412255390fcc7dd809</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 11:30:38 +0000</pubDate>
-<description>Using SpaceX rocket technology, the sports car climbed a curved ramp and hurled itself to a controlled landing.</description>
-<dc:creator></dc:creator>
-<content:encoded>Using SpaceX rocket technology, the sports car climbed a curved ramp and hurled itself to a controlled landing.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Technology/261016_gmafl_tesla_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Technology/261016_gmafl_tesla_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 </channel></rss>
