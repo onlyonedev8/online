@@ -4,6 +4,19 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>PHP warns it plans to release 2 emergency patches imminently</title>
+<link>https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches</link>
+<guid isPermaLink="false">837182b6a8aaa4eed69e441e7b16938f23978097a78c3dcac4edac7c7b757203</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 02:12:18 +0000</pubDate>
+<description>Website admins, brace yourselves. Fixes for what are believed to be uncommonly severe vulnerabilities are scheduled to drop in a little more than 12 hours for PHP, a programming language that powers websites and Web applications everywhere. PHP maintainers said Monday that they planned to release patches for two vulnerabilities, both with severity ratings of 9.2 out of a possible 10. Waiting for PHP2Shell “All PHP users are encouraged to prepare now so they can upgrade as soon as the release is available,” the advisory stated. “We reserve the right to release earlier should details of either vulnerability become public, or should evidence of active exploitation appear in the wild.” Read full article Comments</description>
+<dc:creator>Dan Goodin</dc:creator>
+<content:encoded>Website admins, brace yourselves. Fixes for what are believed to be uncommonly severe vulnerabilities are scheduled to drop in a little more than 12 hours for PHP, a programming language that powers websites and Web applications everywhere. PHP maintainers said Monday that they planned to release patches for two vulnerabilities, both with severity ratings of 9.2 out of a possible 10. Waiting for PHP2Shell “All PHP users are encouraged to prepare now so they can upgrade as soon as the release is available,” the advisory stated. “We reserve the right to release earlier should details of either vulnerability become public, or should evidence of active exploitation appear in the wild.” Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg" medium="image"/>
+</item>
+<item>
 <title>YouTube might be testing hiding the dislike button</title>
 <link>https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu</link>
 <guid isPermaLink="false">c014b161f25d8a756bc56571d5fa6aa4650fd5c4e5c737f6071878ecad141bbd</guid>
@@ -979,19 +992,6 @@
 <media:content url="https://image.theregister.com/?imageId=5235229&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Sexual Assault Is a Free Speech Issue</title>
-<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
-<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
-<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
-<dc:creator>Ej Dickson</dc:creator>
-<content:encoded>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
-</item>
-<item>
 <title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
 <link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
 <guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
@@ -1003,6 +1003,19 @@
 <content:encoded>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
+</item>
+<item>
+<title>Sexual Assault Is a Free Speech Issue</title>
+<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
+<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
+<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
+<dc:creator>Ej Dickson</dc:creator>
+<content:encoded>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
 </item>
 <item>
 <title>Organic Mattress Sale: 20 Percent Off Essentia Beds</title>
@@ -1200,6 +1213,19 @@
 <media:content url="https://image.theregister.com/?imageId=5304056&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>Chewy Promo Codes: $20 Off October 2026</title>
+<link>https://www.wired.com/story/chewy-promo-code</link>
+<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
+</item>
+<item>
 <title>Wayfair Coupons: Up to 80% Off October 2026</title>
 <link>https://www.wired.com/story/wayfair-promo-code</link>
 <guid isPermaLink="false">46b2d1d5338167151c44b18359199046c3084b4513d702d9ff550dd41e1c45ab</guid>
@@ -1224,19 +1250,6 @@
 <content:encoded>Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.</content:encoded>
 <enclosure url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" medium="image"/>
-</item>
-<item>
-<title>Chewy Promo Codes: $20 Off October 2026</title>
-<link>https://www.wired.com/story/chewy-promo-code</link>
-<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
 </item>
 <item>
 <title>30% Off Canon Promo Codes | October 2026</title>
@@ -1484,19 +1497,6 @@
 <content:encoded>To feed its Indiana datacenters with plenty of juice, Amazon is funding the development of a new nuclear facility that will provide nearly 1 gigawatt of power. However, we'll have to see if this happens anytime soon, given the immature technology it's using. Amazon said on Monday that it was funding the project with an undisclosed amount of cash as part of an expansion of its existing deal with X-energy , a next-generation nuclear power startup focusing on building small modular reactors (SMRs) powered by Tri-Structural ISOtropic (TRISO) fuel pellets and cooled by helium gas. Amazon would tell us only that it’s “investing billions in nuclear energy projects” without getting specific on this project. According to X-energy, the project will see Amazon fund the development of 12 of those SMRs, its Xe-100 model, in Sullivan County, Indiana, at the site of a former coal power plant. Once up and running, the facility will supply 960 megawatts of grid-connected electricity, with Amazon contracting as the first power purchaser from the future plant. As for when it might come online, that’s anyone’s guess. Amazon wouldn’t tell us, only pointing us to an article in Indiana newspaper the South Bend Tribune in which an X-energy representative said it could be completed “as early as the mid-2030s,” though “the timeline could change the further the project gets developed.” That’s quite likely given X-energy’s current status and the state of next-generation nuclear power more generally, and to understand why it helps to understand how nuclear permitting works in the US. First off, despite the promises , hype , and mountains of cash poured into nuclear power by the tech industry, the US has yet to build a single operable SMR. China and Russia have built functional SMRs. A single experimental unit has achieved criticality in the US, but it’s not a functional, power-producing reactor and was only built to demonstrate the ability for a specific design to become one. The company with that experimental US SMR is not X-energy, who has yet to build a working reactor. As to how reactors get approved in the US, there are two pathways that nuclear power companies can pursue: One is to get a standard design approval from the Nuclear Regulatory Commission (NRC). That pathway gives a company license to build a reactor of a specific model wherever they want, as the design has been deemed safe independent of any physical site. That means the certified reactor can be sold and built without the need for the NRC to recertify the core design each time a project gets underway. There is only one company in the US that has a standard design approval for an SMR: Nuscale , which has yet to build a single reactor, has no projects under construction, and has already abandoned a Utah plant due to lack of interest from power distributors. The other option allows SMR developers to get approval for a site-specific project, which is quicker and involves the NRC blessing a particular reactor in a particular place. There have been several of those permits awarded, with Kairos Power being approved to build an SMR in Oak Ridge, Tennessee in partnership with Google, General Electric planning another SMR in Oak Ridge, and TerraPower inching forward with its own project in Wyoming despite delays . Notice X-energy isn’t mentioned there, either. The company claims that it’s in “the final phases” of NRC approval for a construction permit in Texas , where it’ll supply power for a Dow Chemical manufacturing plant, but that likely won’t matter too much for the Indiana project’s timeline. As mentioned above, nuclear construction permits are site specific, and the Texas plant only involves four reactors - far fewer than the 12 planned in Indiana. X-energy didn’t respond to questions for this story, but Amazon told us it's not going to be involved in any way with getting approval across the finish line for the Indiana plant. “Amazon's role is as an investor … as well as committing to being the first customer for power produced from the facility,” a company spokesperson told us. “New technologies like this often need initial customers to help de-risk projects and provide funding so they can be built and scaled to commercial availability, and that is the role Amazon is playing by helping to fund the project's development.” Like other large, ambitious next-generation nuclear projects, in other words, this one is just as much in the maybe column as the rest. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5303977&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5303977&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</title>
-<link>https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says</link>
-<guid isPermaLink="false">8adbc6a2d3ed293efc6bcb6bbbb8cfcd2b5c10e4cdefdd4de8b8a1c6d2166024</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 20:21:53 +0000</pubDate>
-<description>On Monday, a court granted the US government's request to deny release of a former OpenAI engineer accused of bugging a top-secret conference room to steal the frontier lab’s secrets. In a court filing Sunday, US attorney Craig Missakian argued that Abdulrahman Alfozan must continue to be detained while the US makes its case that Alfozan brazenly spied on OpenAI, either for his own personal business gain or to benefit the Kingdom of Saudi Arabia. Evidence showed that Alfozan had been chatting with a member of the KSA royal family on WhatsApp, while pursuing opportunities to permanently move back to Saudi Arabia during the country's biggest AI push yet, the government argued. Shortly before his arrest, the FBI found he accessed a folder called "Saudi Gov Docs" on his iPhone, where he also allegedly stored photos of a second bug he planted in the offices. Read full article Comments</description>
-<dc:creator>Ashley Belanger</dc:creator>
-<content:encoded>On Monday, a court granted the US government's request to deny release of a former OpenAI engineer accused of bugging a top-secret conference room to steal the frontier lab’s secrets. In a court filing Sunday, US attorney Craig Missakian argued that Abdulrahman Alfozan must continue to be detained while the US makes its case that Alfozan brazenly spied on OpenAI, either for his own personal business gain or to benefit the Kingdom of Saudi Arabia. Evidence showed that Alfozan had been chatting with a member of the KSA royal family on WhatsApp, while pursuing opportunities to permanently move back to Saudi Arabia during the country's biggest AI push yet, the government argued. Shortly before his arrest, the FBI found he accessed a folder called "Saudi Gov Docs" on his iPhone, where he also allegedly stored photos of a second bug he planted in the offices. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Maxwell gives sub-optimal code a runtime glow-up</title>
