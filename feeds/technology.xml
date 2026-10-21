@@ -4,6 +4,71 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Java crashes the departure board at Tyne and Wear Metro</title>
+<link>https://www.theregister.com/offbeat/2026/10/21/java-crashes-the-departure-board-at-tyne-and-wear-metro/5304106</link>
+<guid isPermaLink="false">dacfb3ac5889a362b0c725b97ddce598e25d61b53f1b6bdbde374dbefe9c405e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:43:00 +0000</pubDate>
+<description>Java has elbowed its way onto a Tyne and Wear Metro information display, giving passengers an error message alongside their train times. Eagle-eyed Register reader abend0c4 spotted the sign, whose dialog design suggests a rather elderly Windows installation. Could it be Windows 7 in Classic guise, or perhaps Windows Server 2008 R2? Both wheezed their last in 2023, when the Extended Security Updates (ESU) program ended. Or perhaps POSReady 7? That kept going (again via ESU) until October 8, 2024 . Not that the end of ESU means the code will suddenly stop working. Just that Microsoft has called a halt to updates. The Tyne and Wear Metro is no stranger to keeping old technology running past its expiration date. Opened in August 1980 , the transit network has been replacing its aging rolling stock with new units, but the signage has endured. Then again, compared to the Commodore VIC-20 and Apple II, which ruled the home computing roost in 1980, perhaps an operating system that's only been obsolete for a few years isn't such a bad thing. Any second now somebody will be writing an email about some hardware by Sinclair, Acorn, or their particular device maker of choice. But back to the sign. Sadly, it's unclear which version of Java has elbowed its way to the foreground. Java's troubleshooting guidance lists video driver problems as one possible cause of this error. The train indicator seems to be operating as normal if somewhat obscured by Java's attempt to be the centre of attention," our reader noted. Java is longer be a bright young thing, yet it still keeps plenty of enterprise systems running behind the scenes. On this occasion, it appears to prefer the foreground. We'd prefer it kept a lower profile. Passengers have enough ups and downs without Java throwing its toys out of the virtual pram. ®</description>
+<dc:creator>Richard Speed</dc:creator>
+<content:encoded>Java has elbowed its way onto a Tyne and Wear Metro information display, giving passengers an error message alongside their train times. Eagle-eyed Register reader abend0c4 spotted the sign, whose dialog design suggests a rather elderly Windows installation. Could it be Windows 7 in Classic guise, or perhaps Windows Server 2008 R2? Both wheezed their last in 2023, when the Extended Security Updates (ESU) program ended. Or perhaps POSReady 7? That kept going (again via ESU) until October 8, 2024 . Not that the end of ESU means the code will suddenly stop working. Just that Microsoft has called a halt to updates. The Tyne and Wear Metro is no stranger to keeping old technology running past its expiration date. Opened in August 1980 , the transit network has been replacing its aging rolling stock with new units, but the signage has endured. Then again, compared to the Commodore VIC-20 and Apple II, which ruled the home computing roost in 1980, perhaps an operating system that's only been obsolete for a few years isn't such a bad thing. Any second now somebody will be writing an email about some hardware by Sinclair, Acorn, or their particular device maker of choice. But back to the sign. Sadly, it's unclear which version of Java has elbowed its way to the foreground. Java's troubleshooting guidance lists video driver problems as one possible cause of this error. The train indicator seems to be operating as normal if somewhat obscured by Java's attempt to be the centre of attention," our reader noted. Java is longer be a bright young thing, yet it still keeps plenty of enterprise systems running behind the scenes. On this occasion, it appears to prefer the foreground. We'd prefer it kept a lower profile. Passengers have enough ups and downs without Java throwing its toys out of the virtual pram. ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=5304110&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5304110&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer</title>
+<link>https://www.wired.com/story/openai-startup-brain-implants-detect-cancer</link>
+<guid isPermaLink="false">2c4e7f92e57194808c7b2f8fca8a9bfad8fc2ae447d3c872c2c9d399ec561434</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:30:00 +0000</pubDate>
+<description>It’s the latest in a growing wave of bets that AI companies are making on brain data.</description>
+<dc:creator>Emily Mullin</dc:creator>
+<content:encoded>It’s the latest in a growing wave of bets that AI companies are making on brain data.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More</title>
+<link>https://www.wired.com/gallery/best-hearing-aids</link>
+<guid isPermaLink="false">27d0be49bca567b709279cff7d9ce5f81336580d5f180c6c4fe18d384646bb15</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+<description>These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.</description>
+<dc:creator>Christopher Null</dc:creator>
+<content:encoded>These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" medium="image"/>
+</item>
+<item>
+<title>She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family</title>
+<link>https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family</link>
+<guid isPermaLink="false">7b4f4d84b5324608b27d17b03e945d28cdaff727244e91077414a9cb5e0c4d19</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+<description>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</description>
+<dc:creator>Joshuah Bearman, Owen Long</dc:creator>
+<content:encoded>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" medium="image"/>
+</item>
+<item>
+<title>The spec is the new code, so brush up on your prose, says Kaseya CTO</title>
+<link>https://www.theregister.com/software/2026/10/21/the-spec-is-the-new-code-so-brush-up-on-your-prose-says-kaseya-cto/5304002</link>
+<guid isPermaLink="false">27d5c9877762b963119c894dc3a70686a9ddfc5968c521953c33778bd204c7f1</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+<description>Software developers will need to get their kicks from becoming code coaches of AI, professors of prompt engineering, and masters of their domain. So says Pratik Wadher, chief technology officer at Kaseya, who oversaw a team of codesmiths rewriting software across the company’s managed services portfolio, which spans remote monitoring and management, backup and recovery, cybersecurity, and automation. “The goal is unifying our data, unifying our API, but as we are starting to also look at the product portfolio that we have, we're trying to understand what are the patterns that we can use to consolidate the product workflows,” he tells The Register . Storage is a good example. The basic workflows involve reading and writing data to storage arrays, Kaseya's own cloud environment, or the racks run by hyperscalers. The team re-architected the back end of its storage products so the storage engine reads and writes to any kind of storage from ZFS to S3. “This is where AI helps,” Wadher claims. “Fundamentally we have accelerated that piece of re-architecture.” Since joining Kaseya in September 2025, the CTO has been trying to simplify what he admits can be a “confusing” number of individual products. “The storage layer that we've been writing, we re-architected and wrote it in six weeks. And that's the actual writing, implementing and testing the code. There are years of domain expertise behind understanding how we want to write it.” In the process, Kaseya used Anthropic coding agents to help a human write the spec. The meatbags at Kaseya then iterated on it and peer-reviewed it with critique agents, before the AI generated the code. Anthropic’s Claude is becoming the “de facto standard” for writing code at Kaseya . “ When I look at my engineers, it's not how I used to write code. It's almost like I'm manipulating these agents, but the best engineers are still critical, because you have developed a lot of experience in understanding what you need to do,” Wadher says. Does this take the fun out of coding? Yes and no, he claims. Mirroring the wider industry, some Kaseya engineers are embracing the new approach and some are more “hesitant.” “ The fun part of coding is going to be the design, the architecture, the thinking. Writing code is fun but I don't think it's [ the ] fun [part]. The fun part is having the code run, seeing what it can do, and then tweaking it and changing it. If you can accelerate that and start seeing the results, I think that, for me at least, that would be the fun part: seeing the impact.” Developers must become proficient prompters and “you need the domain expertise,” he adds. “If you’re just using AI to generate code I don’t think you’re going to be useful and I don't think the code you're writing is going to be useful.” Some Reg readers and some of the article-writing vultures may disagree. There is a clear split happening in the world of FOSS, for example, where some projects want only human-written code and others take what the</description>
+<dc:creator>Paul Kunert</dc:creator>
+<content:encoded>Software developers will need to get their kicks from becoming code coaches of AI, professors of prompt engineering, and masters of their domain. So says Pratik Wadher, chief technology officer at Kaseya, who oversaw a team of codesmiths rewriting software across the company’s managed services portfolio, which spans remote monitoring and management, backup and recovery, cybersecurity, and automation. “The goal is unifying our data, unifying our API, but as we are starting to also look at the product portfolio that we have, we're trying to understand what are the patterns that we can use to consolidate the product workflows,” he tells The Register . Storage is a good example. The basic workflows involve reading and writing data to storage arrays, Kaseya's own cloud environment, or the racks run by hyperscalers. The team re-architected the back end of its storage products so the storage engine reads and writes to any kind of storage from ZFS to S3. “This is where AI helps,” Wadher claims. “Fundamentally we have accelerated that piece of re-architecture.” Since joining Kaseya in September 2025, the CTO has been trying to simplify what he admits can be a “confusing” number of individual products. “The storage layer that we've been writing, we re-architected and wrote it in six weeks. And that's the actual writing, implementing and testing the code. There are years of domain expertise behind understanding how we want to write it.” In the process, Kaseya used Anthropic coding agents to help a human write the spec. The meatbags at Kaseya then iterated on it and peer-reviewed it with critique agents, before the AI generated the code. Anthropic’s Claude is becoming the “de facto standard” for writing code at Kaseya . “ When I look at my engineers, it's not how I used to write code. It's almost like I'm manipulating these agents, but the best engineers are still critical, because you have developed a lot of experience in understanding what you need to do,” Wadher says. Does this take the fun out of coding? Yes and no, he claims. Mirroring the wider industry, some Kaseya engineers are embracing the new approach and some are more “hesitant.” “ The fun part of coding is going to be the design, the architecture, the thinking. Writing code is fun but I don't think it's [ the ] fun [part]. The fun part is having the code run, seeing what it can do, and then tweaking it and changing it. If you can accelerate that and start seeing the results, I think that, for me at least, that would be the fun part: seeing the impact.” Developers must become proficient prompters and “you need the domain expertise,” he adds. “If you’re just using AI to generate code I don’t think you’re going to be useful and I don't think the code you're writing is going to be useful.” Some Reg readers and some of the article-writing vultures may disagree. There is a clear split happening in the world of FOSS, for example, where some projects want only human-written code and others take what they describe as a more pragmatic view of AI tools . AI is already forcing change upon the tech sector. Research last year suggested the number of graduates starting a career in technology is plunging with certain functions being subsumed by agents. “I think basic tasks will be done by AI, so you're not going to need that,” Wadher says. “The skills that will be extremely important are critical thinking and writing. “The worst part of coding, [the thing] engineers hate is writing the documentation. Well, guess what? That is going to become even more critical now. Being able to write clear, concise design specifications, the functional specifications, is going to be extremely important. The good thing is that you’ll now have an [AI] partner that can do this with you and you can iterate with this partner. “I would say the new code is the spec. That's what you're going to check into GitHub now, because you want to make sure that the spec you wrote is going to generate the same type of code now over and over again. I have seen variances." ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=5304006&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5304006&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Happiness is the next AI KPI if Oxford boffins have their way</title>
 <link>https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253</link>
 <guid isPermaLink="false">ef2dbed529b94616908df200955327e596467e594615bfaa30cddb59708e4277</guid>
@@ -108,6 +173,45 @@
 <media:content url="https://i.guim.co.uk/img/media/9483c0b6ad81f5a1fd4e3f6e9910cbdca6feb3a8/456_0_4560_3648/master/4560.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2614de3e90decd414300b27cc6cd11aa" medium="image"/>
 </item>
 <item>
+<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
+<link>https://www.wired.com/story/ulta-coupon</link>
+<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
+<dc:creator>Boutayna Chokrane</dc:creator>
+<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
+</item>
+<item>
+<title>LG Promo Codes and Coupons for October 2026</title>
+<link>https://www.wired.com/story/lg-promo-code</link>
+<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
+<dc:creator>Harry Rabinowitz</dc:creator>
+<content:encoded>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
+</item>
+<item>
+<title>20% Off Sephora Promo Code | October 2026</title>
+<link>https://www.wired.com/story/sephora-promo-code</link>
+<guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Earn more points on skincare purchases when you use our Sephora coupon.</description>
+<dc:creator>Louryn Strampe</dc:creator>
+<content:encoded>Earn more points on skincare purchases when you use our Sephora coupon.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
+</item>
+<item>
 <title>TurboTax Full Service Coupons This October 2026</title>
 <link>https://www.wired.com/story/turbotax-coupon</link>
 <guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
@@ -145,45 +249,6 @@
 <content:encoded>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</content:encoded>
 <enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
-</item>
-<item>
-<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ulta-coupon</link>
-<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
-<dc:creator>Boutayna Chokrane</dc:creator>
-<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
-<title>20% Off Sephora Promo Code | October 2026</title>
-<link>https://www.wired.com/story/sephora-promo-code</link>
-<guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Earn more points on skincare purchases when you use our Sephora coupon.</description>
-<dc:creator>Louryn Strampe</dc:creator>
-<content:encoded>Earn more points on skincare purchases when you use our Sephora coupon.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
-</item>
-<item>
-<title>LG Promo Codes and Coupons for October 2026</title>
-<link>https://www.wired.com/story/lg-promo-code</link>
-<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
-<dc:creator>Harry Rabinowitz</dc:creator>
-<content:encoded>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
 </item>
 <item>
 <title>Nervous ISPs replace Chrome as strange consumers of DNS resources</title>
@@ -1174,19 +1239,6 @@
 <media:content url="https://image.theregister.com/?imageId=5235229&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Sexual Assault Is a Free Speech Issue</title>
-<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
-<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
-<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
-<dc:creator>Ej Dickson</dc:creator>
-<content:encoded>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
-</item>
-<item>
 <title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
 <link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
 <guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
@@ -1198,6 +1250,19 @@
 <content:encoded>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
+</item>
+<item>
+<title>Sexual Assault Is a Free Speech Issue</title>
+<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
+<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
+<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
+<dc:creator>Ej Dickson</dc:creator>
+<content:encoded>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
 </item>
 <item>
 <title>Organic Mattress Sale: 20 Percent Off Essentia Beds</title>
@@ -1421,19 +1486,6 @@
 <media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
 </item>
 <item>
-<title>30% Off Canon Promo Codes | October 2026</title>
-<link>https://www.wired.com/story/canon-promo-code</link>
-<guid isPermaLink="false">b7b297c4c57110a535ebb7e21ce3aa1ad5547e25ec9499eef52e4ec8f670dea2</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</description>
-<dc:creator>Gear Team</dc:creator>
-<content:encoded>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
 <title>Mint Mobile Discounts for October 2026</title>
 <link>https://www.wired.com/story/mint-mobile-promo-code</link>
 <guid isPermaLink="false">b8f96101317d5d3aeee56f938d848113e17452daebaf04df30932d350ea9d27f</guid>
@@ -1445,6 +1497,19 @@
 <content:encoded>Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.</content:encoded>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>30% Off Canon Promo Codes | October 2026</title>
+<link>https://www.wired.com/story/canon-promo-code</link>
+<guid isPermaLink="false">b7b297c4c57110a535ebb7e21ce3aa1ad5547e25ec9499eef52e4ec8f670dea2</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</description>
+<dc:creator>Gear Team</dc:creator>
+<content:encoded>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
 <title>Mattress Firm Coupons: Save up to $700</title>
@@ -1473,19 +1538,6 @@
 <media:content url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" medium="image"/>
 </item>
 <item>
-<title>Whoop Promo Codes: 20% Off This October 2026</title>
-<link>https://www.wired.com/story/whoop-promo-code</link>
-<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
-<dc:creator>Boutayna Chokrane</dc:creator>
-<content:encoded>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
 <title>Home Chef Promo Codes for October 2026</title>
 <link>https://www.wired.com/story/home-chef-promo-code</link>
 <guid isPermaLink="false">580603dccec2c7644d73d5998c27cfaa2ab8eaf3c3382d424af8406f13ec7f1e</guid>
@@ -1510,6 +1562,19 @@
 <content:encoded>Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.</content:encoded>
 <enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Whoop Promo Codes: 20% Off This October 2026</title>
+<link>https://www.wired.com/story/whoop-promo-code</link>
+<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
+<dc:creator>Boutayna Chokrane</dc:creator>
+<content:encoded>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
 <title>AT&amp;T Promo Codes: $50 Off This October 2026</title>
@@ -2162,58 +2227,6 @@
 <media:content url="https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/145_0_2850_2279/master/2850.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b7e188fd4a63b15d1fb57990a915ad4" medium="image"/>
 </item>
 <item>
-<title>20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)</title>
-<link>https://www.wired.com/gallery/best-gifts-for-manly-men-2026</link>
-<guid isPermaLink="false">f558eaf2a82dcbb55e7823c5789da820819ff3583eb19cf5bdcc160a923fbc47</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 11:01:00 +0000</pubDate>
-<description>When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.</description>
-<dc:creator>Matthew Korfhage</dc:creator>
-<content:encoded>When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad2adfc85712117ad7fac60/master/pass/The%20Best%20Gifts%20for%20Men,%20Manly%20Men,%20and%20Menly%20Man%20Men%20top%20art%20SOURCE%20Amazon-Home%20Depot.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad2adfc85712117ad7fac60/master/pass/The%20Best%20Gifts%20for%20Men,%20Manly%20Men,%20and%20Menly%20Man%20Men%20top%20art%20SOURCE%20Amazon-Home%20Depot.jpg" medium="image"/>
-</item>
-<item>
-<title>OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty</title>
-<link>https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty</link>
-<guid isPermaLink="false">de5ff6f54f5c054664fc5be4a7da1b53322315b802020b29486244864a901472</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 10:30:00 +0000</pubDate>
-<description>Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.</description>
-<dc:creator>Reece Rogers</dc:creator>
-<content:encoded>Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad240695195eb0dd6087017/master/pass/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad240695195eb0dd6087017/master/pass/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg" medium="image"/>
-</item>
-<item>
-<title>Data Centers Have a New PR Plan: Your Kid’s Field Trip</title>
-<link>https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids</link>
-<guid isPermaLink="false">452021bb30da092ac720c425d609a297979766534934026d4431dfd3f0050885</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 10:30:00 +0000</pubDate>
-<description>Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.</description>
-<dc:creator>Caroline Haskins</dc:creator>
-<content:encoded>Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/master/pass/101626-Power%20Play.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/master/pass/101626-Power%20Play.jpg" medium="image"/>
-</item>
-<item>
-<title>Oh no, what happened to my OOHPod? Windows command prompt puts in a surprise appearance</title>
-<link>https://www.theregister.com/offbeat/2026/10/18/oh-no-what-happened-to-my-oohpod-windows-command-prompt-puts-in-a-surprise-appearance/5303109</link>
-<guid isPermaLink="false">e9673a8274904d893c513d691bfb533619e22eb71ffdc5c92a9aaceee2fda048</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 08:09:00 +0000</pubDate>
-<description>The Windows command line is a marvelous thing, beloved by administrators, but not quite so welcome when you're trying to get a parcel out of a locker. Today's example of Windows behaving badly comes from Ireland and one of the nation's OOHPod postal lockers. An eagle-eyed Register reader, trying to retrieve a parcel, found the locker screen instead teasing a command prompt. For the uninitiated, OOHPod is a service where people retrieve and deposit goods in lockers. Scan your ID (or enter it on a touch screen) and the appropriate locker door springs open and the item (or items) can be retrieved. This all works, assuming whatever is running behind the scenes isn't having a bit of a moment, as our reader experienced. Instead of a welcoming display on the locker's screen, our reader found a blank screen and what looked suspiciously like a minimized command-line window. "I tapped to maximize the window," they told us, "and a sudden command prompt appeared immediately afterward." A command prompt? More like an open invitation for mischief for the average Register reader. After all, while ordinary customers might have been flustered, this was surely an opportunity to teach the engineers who allowed it a lesson. Perhaps a cheeky FORMAT , or possibly the creation of a truly cursed batch file? Or something worse? This is surely what the comment section is made for. Unfortunately (or fortunately, depending on your perspective), no pop-up keyboard appeared for our reader to unleash havoc (not that they would dream of such a thing), and there was no handy socket to plug in a peripheral. The touchscreen accepted another finger jab, and the command window went away, replaced by the usual OOHPod interface, allowing packages to be collected as normal. It was the responsible thing to do, and the bank of lockers was left in a state where the next customer would not have to worry about what this odd cmd.exe thing was all about. However, the question remains. Would you have been so responsible? Or, if there was some way to enter commands, would you have tried to turn a minor bork into a life lesson for the engineer who let Windows give passersby a glimpse of its undercrackers? ®</description>
-<dc:creator>Richard Speed</dc:creator>
-<content:encoded>The Windows command line is a marvelous thing, beloved by administrators, but not quite so welcome when you're trying to get a parcel out of a locker. Today's example of Windows behaving badly comes from Ireland and one of the nation's OOHPod postal lockers. An eagle-eyed Register reader, trying to retrieve a parcel, found the locker screen instead teasing a command prompt. For the uninitiated, OOHPod is a service where people retrieve and deposit goods in lockers. Scan your ID (or enter it on a touch screen) and the appropriate locker door springs open and the item (or items) can be retrieved. This all works, assuming whatever is running behind the scenes isn't having a bit of a moment, as our reader experienced. Instead of a welcoming display on the locker's screen, our reader found a blank screen and what looked suspiciously like a minimized command-line window. "I tapped to maximize the window," they told us, "and a sudden command prompt appeared immediately afterward." A command prompt? More like an open invitation for mischief for the average Register reader. After all, while ordinary customers might have been flustered, this was surely an opportunity to teach the engineers who allowed it a lesson. Perhaps a cheeky FORMAT , or possibly the creation of a truly cursed batch file? Or something worse? This is surely what the comment section is made for. Unfortunately (or fortunately, depending on your perspective), no pop-up keyboard appeared for our reader to unleash havoc (not that they would dream of such a thing), and there was no handy socket to plug in a peripheral. The touchscreen accepted another finger jab, and the command window went away, replaced by the usual OOHPod interface, allowing packages to be collected as normal. It was the responsible thing to do, and the bank of lockers was left in a state where the next customer would not have to worry about what this odd cmd.exe thing was all about. However, the question remains. Would you have been so responsible? Or, if there was some way to enter commands, would you have tried to turn a minor bork into a life lesson for the engineer who let Windows give passersby a glimpse of its undercrackers? ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5303113&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5303113&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Plug-in solar is legal in these 10 states now – how it could save you money</title>
 <link>https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026</link>
 <guid isPermaLink="false">726cac08584cc65eb91df891fd045c51914bc0ca8d1d098d045099661f69d12e</guid>
@@ -2225,19 +2238,6 @@
 <content:encoded>So-called balcony solar setups are becoming legal across the US. Here’s the latest.</content:encoded>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/abc106f7-9ae3-4a45-8de8-2da5b0a9b031.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/abc106f7-9ae3-4a45-8de8-2da5b0a9b031.jpg" medium="image"/>
-</item>
-<item>
-<title>Cybercrims go beyond stealing data to attack physical building systems</title>
-<link>https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677</link>
-<guid isPermaLink="false">eb9ab4b8e22ff77be174c70baea44624d507927dbba2d239348df055311f6db4</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 11:30:00 +0000</pubDate>
-<description>Late Sunday night, a still-unknown cybercriminal or group hacked thousands of remote-controlled refrigeration systems across hundreds of French grocery stores , spiking temperatures, spoiling food, and sparking fires. This is part of an ongoing trend of attacking physical systems that can do damage in the real world. In August, a ransomware attack disrupted building-management systems at a Canadian hospital, affecting door access controls, central HVAC monitoring, and the issuing of staff access cards. And three years ago, cyberattacks hit Las Vegas casinos , causing slot machines to go dark, preventing payment kiosks and ATMs from spitting out cash, and locking guests out of their rooms when the electronic keys stopped working. Not all digital intrusions remain in cyberspace, and attackers don’t need to encrypt files and steal data to cause chaos. Hitting physical systems often produces more severe consequences - and turns up the heat on executives to pay an extortion demand. “There was one gig where the customer was refusing to pay, and so the threat actor was like, ‘Hold my beer, have fun getting into your offices,’ and locked everybody out,” Tim Beasley, a senior incident response consultant at Semperis, told The Register . Beasley won’t name the customer, or provide any incriminating information, but said the incident response involved police smashing glass in addition to his team recovering compromised data. “The cops had to break in, and literally get into the building, breaking some windows, so the customer was able to finally get back in,” he said. We asked if the customer paid the ransom demand, and Beasley yelled: “Oh, hell, no!” A report published earlier this month by ServiceNow’s Armis Labs found increasing evidence of ransomware attackers using physical consequences as leverage in their intrusions. “Today’s BAS operate at the intersection of IT and OT worlds, creating unprecedented exposure,” the report said . Ransomware with physical consequences Building automation systems - BAS - are the critical systems that control and monitor facilities’ HVAC, lighting, energy usage, and water consumption. They also oversee badge readers, door locks, surveillance cameras, fire alarm control panels, and other physical safety equipment. As such, BAS make very attractive targets for ransomware operators looking for high-pressure ways to extort organizations into paying multi-million ransom demands. These systems also appeal to government-backed goons and hacktivists looking to ensure maximum psychological and physical impact during destructive cyberattacks. Armis Labs found 73 percent of organizations own BAS that have been used in ransomware attacks, and this same percentage have known exploited vulnerabilities in at least one of their building automation systems. Additionally, 91 percent of BAS communicate over insecure protocols - opening up an even bigger attack surface for cyber-miscreants wanting to cause physical harm. “The primary thing</description>
-<dc:creator>Jessica Lyons</dc:creator>
-<content:encoded>Late Sunday night, a still-unknown cybercriminal or group hacked thousands of remote-controlled refrigeration systems across hundreds of French grocery stores , spiking temperatures, spoiling food, and sparking fires. This is part of an ongoing trend of attacking physical systems that can do damage in the real world. In August, a ransomware attack disrupted building-management systems at a Canadian hospital, affecting door access controls, central HVAC monitoring, and the issuing of staff access cards. And three years ago, cyberattacks hit Las Vegas casinos , causing slot machines to go dark, preventing payment kiosks and ATMs from spitting out cash, and locking guests out of their rooms when the electronic keys stopped working. Not all digital intrusions remain in cyberspace, and attackers don’t need to encrypt files and steal data to cause chaos. Hitting physical systems often produces more severe consequences - and turns up the heat on executives to pay an extortion demand. “There was one gig where the customer was refusing to pay, and so the threat actor was like, ‘Hold my beer, have fun getting into your offices,’ and locked everybody out,” Tim Beasley, a senior incident response consultant at Semperis, told The Register . Beasley won’t name the customer, or provide any incriminating information, but said the incident response involved police smashing glass in addition to his team recovering compromised data. “The cops had to break in, and literally get into the building, breaking some windows, so the customer was able to finally get back in,” he said. We asked if the customer paid the ransom demand, and Beasley yelled: “Oh, hell, no!” A report published earlier this month by ServiceNow’s Armis Labs found increasing evidence of ransomware attackers using physical consequences as leverage in their intrusions. “Today’s BAS operate at the intersection of IT and OT worlds, creating unprecedented exposure,” the report said . Ransomware with physical consequences Building automation systems - BAS - are the critical systems that control and monitor facilities’ HVAC, lighting, energy usage, and water consumption. They also oversee badge readers, door locks, surveillance cameras, fire alarm control panels, and other physical safety equipment. As such, BAS make very attractive targets for ransomware operators looking for high-pressure ways to extort organizations into paying multi-million ransom demands. These systems also appeal to government-backed goons and hacktivists looking to ensure maximum psychological and physical impact during destructive cyberattacks. Armis Labs found 73 percent of organizations own BAS that have been used in ransomware attacks, and this same percentage have known exploited vulnerabilities in at least one of their building automation systems. Additionally, 91 percent of BAS communicate over insecure protocols - opening up an even bigger attack surface for cyber-miscreants wanting to cause physical harm. “The primary thing that we see with any attack on building management systems or physical systems: It’s a great place for the threat actor to hide,” Michael Freeman, ServiceNow’s senior director of threat research, told The Register . “It's easier for them to compromise, and it's easier for them to hide in.” BAS and operational technology (OT) in general have fewer security controls than IT systems. Most require continual uptime, which makes them harder to patch or even scan for vulnerabilities and misconfigurations as this may lead to outages. “One case in particular, against a very large financial institution, the threat actors were staying low and quiet by attacking their BMS systems, and then pivoting into the IT environment,” Freeman said. The intruders were routinely caught - and booted from - the financial institution’s IT systems, so they built backdoors into the BMS to ensure persistent access to both OT and IT networks. “We're also seeing threat actors using AI to understand more building automation systems, especially ones that are using obscure OSs like VxWorks, older Unix-type systems,” Freeman said. AI has entered the chat As multiple security experts have told us in previous interviews, security through obscurity is dead . Not only does AI make it easier for attackers to find bugs – some very obscure and decades old - but it also means criminals no longer need to be OT experts to carry out destructive cyberattacks on critical networks and facilities. Instead, they can use AI to learn all about the obscure protocols and proprietary hardware and software that historically made industrial control systems black boxes. “It’s easier to understand what the controls are,” Freeman said, using the example of an attacker trying to take down a plane, or some similar catastrophic cyberattack. Historically, even advanced, government-backed hacking squads would “be quiet, because you don't know what changing certain settings is going to do,” Freeman explained. “Now you can use AI to say, ‘If I compromise a weight and balance system for airlines, all I need to do now is move this number here to this number, and I just told the system to load heavy stuff on the right side of the plane instead of equal distribution.'” Freeman told us he has seen attackers break into airlines’ OT gear in the past. “But they didn’t know what they were getting into, and so they left them alone,” he said. “Those do cause me concern because in the past I've helped to kick people out of those types of systems.” Industrial orgs increasingly under attack OT security provider Dragos tracks ransomware groups’ claims against industrial organizations on the criminals’ leak sites, along with publicly disclosed intrusions affecting manufacturing and other critical sectors. To be clear: claims on leak sites aren’t always accurate or even true, and the claim itself doesn’t mean operations or control systems were hit. Since 2022, however, “the numbers have been consistently increasing,” Lexie Mooney, senior threat analyst at Dragos, told The Register . The cybersecurity firm tracked 995 ransomware attacks against industrial orgs in 2023, a 49.5 percent increase from 2022. That number j umped more than 87 percent in 2024 . Active ransomware groups targeting industrial orgs also grew in 2024 to 80 groups, up from 50 the year before. Dragos tracked 119 ransomware groups impacting more than 3,300 industrial organizations in 2025, and the incidents have steadily increased every quarter this year: 1,020 incidents in the first quarter of 2026 and 1,140 incidents in Q2 . “The vast majority of cases are opportunistic,” Abdul Alamri, a senior threat analyst at Dragos, told us. “In some of the cases that we have seen an operational impact, either physical systems or an OT operation, it’s just the nature of the opportunism on the part of those ransomware groups.” This is partially due to the complexity of OT systems, he added. “Ransomware groups want to disrupt operations, and put pressure on the victims to pay the ransom,” Alamri said. “They don’t want to invest that time and effort to target complex systems." It’s usually quicker and easier for financially motivated crims to affect operations via IT systems - as the extortionists did in the August 2025 Jaguar Land Rover (JLR) breach , which halted manufacturing and crippled business operations for months. Internet-connected OT: the next 'low-hanging fruit' The other side of this complexity, however, is that many organizations themselves still lack visibility into their OT environments. Dragos estimates that fewer than 10 percent of OT networks worldwide currently have sufficient network monitoring in place. Plus, in 30 percent of incidents the security firm responded to in 2025, the investigations did not begin with a detection alert, but with someone noticing that “something seemed wrong” in operations. This lack of visibility, combined with threats from AI , worries Alamri. “If you compare</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5303687&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5303687&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Which coffee chain was founded in London in 1971? The Saturday quiz</title>
