@@ -4,6 +4,45 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Urgent security fix issued for code vital to estimated 70% of all websites</title>
+<link>https://abcnews.com/Technology/urgent-security-fix-issued-code-vital-estimated-70/story?id=137447718</link>
+<guid isPermaLink="false">d18ade439cdb1f238d7061c9ae40ce2bf23b02e4aacdfa301dd259f21b28bba4</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 18:37:09 +0000</pubDate>
+<description>The code vulnerability could allow attackers to take over servers, experts say.</description>
+<dc:creator></dc:creator>
+<content:encoded>The code vulnerability could allow attackers to take over servers, experts say.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Technology/internet-2-gty-rt-261021_1792595326722_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Technology/internet-2-gty-rt-261021_1792595326722_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Florida mayor arrested on grand theft and fraud charges: State AG</title>
+<link>https://abcnews.com/US/mayor-kissimmee-florida-arrested-grand-theft-fraud-charges/story?id=137448984</link>
+<guid isPermaLink="false">78aa1296fd70e205a82b99a7223e074590a431ca5fcd654e2d28af692a2ab984</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 18:05:43 +0000</pubDate>
+<description>Kissimmee Mayor Jackie Espinosa is being charged with grand theft and organized scheme to defraud, according to Florida Attorney General James Uthmeier.</description>
+<dc:creator></dc:creator>
+<content:encoded>Kissimmee Mayor Jackie Espinosa is being charged with grand theft and organized scheme to defraud, according to Florida Attorney General James Uthmeier.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/espinosa-2-ht-er-261021_1792597388806_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/espinosa-2-ht-er-261021_1792597388806_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Meta ordered to pay $25 billion for deceiving users about privacy on Facebook</title>
+<link>https://abcnews.com/Technology/wireStory/meta-ordered-pay-new-mexico-25-billion-deceiving-137452515</link>
+<guid isPermaLink="false">d054e80db4bf945b417222a7fd07644d35ad77643802706cfad9bc36654b0186</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 18:04:30 +0000</pubDate>
+<description>A judge has ordered Meta to pay New Mexico $25 billion after a jury found the company liable for deceiving users about privacy and content moderation on Facebook</description>
+<dc:creator></dc:creator>
+<content:encoded>A judge has ordered Meta to pay New Mexico $25 billion after a jury found the company liable for deceiving users about privacy and content moderation on Facebook</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/wirestory_b329f82c3d3db3758a159405acbd4d0e_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/wirestory_b329f82c3d3db3758a159405acbd4d0e_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Canadian publisher drops author Orelien after confirming he used AI in debut novel</title>
 <link>https://www.france24.com/en/culture/20261021-canadian-publisher-drops-author-orelien-after-confirming-he-used-ai-in-debut-novel</link>
 <guid isPermaLink="false">d69670de632f0c1d11d8e96a7bc4045b54d50a06a701545965b61c5e1eb80de4</guid>
@@ -15,6 +54,19 @@
 <content:encoded>The Canadian publisher representing Thélyson Orélien on Wednesday said it had dropped the prize-nominated writer over new information indicating that he did use artificial intelligence to write his acclaimed debut.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/cffc09d6-b744-11f1-8522-4d7b41827f6c/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-14-2.png" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/cffc09d6-b744-11f1-8522-4d7b41827f6c/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-14-2.png" medium="image"/>
+</item>
+<item>
+<title>Police given more time to question two men re-arrested in RAF Fairford investigation</title>
+<link>https://news.sky.com/story/police-given-more-time-to-question-two-men-re-arrested-in-raf-fairford-investigation-13601987</link>
+<guid isPermaLink="false">1a710f24f7323e589e285294a3bb72a912aeabdde8f084b3b4463d1b6be4b78e</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 17:23:00 +0000</pubDate>
+<description>Two men who were re-arrested as part of an investigation into a suspected terror plot near RAF Fairford can be held for up to seven days after police were given more time to question them.</description>
+<dc:creator></dc:creator>
+<content:encoded>Two men who were re-arrested as part of an investigation into a suspected terror plot near RAF Fairford can be held for up to seven days after police were given more time to question them.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-raf-fairford-armed-police_7362863.jpg?20260927230350" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-raf-fairford-armed-police_7362863.jpg?20260927230350" medium="image"/>
 </item>
 <item>
 <title>WATCH: National Geographic reveals 'Best of the World' destinations</title>
@@ -41,32 +93,6 @@
 <content:encoded>French President Emmanuel Macron on Wednesday paid an unannounced visit to Riyadh in a bid to underscore French support for the kingdom amid intensified attacks by Houthi rebels and an attempt to ease tensions at home by securing oil and diesel imports.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/aa979f94-cd6e-11f1-b444-4da0d2c6855d/w:1024/p:16x9/2026-10-21T151836Z-1599925537-RC2O7OAFE3Q9-RTRMADP-3-GULF-FRANCE-SAUDI-ARABIA.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/aa979f94-cd6e-11f1-b444-4da0d2c6855d/w:1024/p:16x9/2026-10-21T151836Z-1599925537-RC2O7OAFE3Q9-RTRMADP-3-GULF-FRANCE-SAUDI-ARABIA.jpg" medium="image"/>
-</item>
-<item>
-<title>Urgent security fix issued for code vital to estimated 70% of all websites</title>
-<link>https://abcnews.com/Technology/urgent-security-fix-issued-code-vital-estimated-70/story?id=137447718</link>
-<guid isPermaLink="false">d18ade439cdb1f238d7061c9ae40ce2bf23b02e4aacdfa301dd259f21b28bba4</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 17:05:22 +0000</pubDate>
-<description>The code vulnerability could allow attackers to take over servers, experts say.</description>
-<dc:creator></dc:creator>
-<content:encoded>The code vulnerability could allow attackers to take over servers, experts say.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Technology/internet-2-gty-rt-261021_1792595326722_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Technology/internet-2-gty-rt-261021_1792595326722_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Witkoff lauds 'humanitarian' Putin as Russia releases detained American</title>
-<link>https://abcnews.com/International/witkoff-arrives-st-petersburg-putin-talks-kremlin-aide/story?id=137438106</link>
-<guid isPermaLink="false">9d9bdb62301e28e081c854732cd586d0bd3964e8d9fc4608686b80d7972643bc</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 16:51:10 +0000</pubDate>
-<description>President Donald Trump's special envoy Steve Witkoff landed in the Russian city of St. Petersburg on Wednesday morning, a Kremlin aide confirmed.</description>
-<dc:creator></dc:creator>
-<content:encoded>President Donald Trump's special envoy Steve Witkoff landed in the Russian city of St. Petersburg on Wednesday morning, a Kremlin aide confirmed.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/hubbard-1-rt-gmh-261021_1792597916679_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/hubbard-1-rt-gmh-261021_1792597916679_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Greece: Protesters draw inspiration from demonstrations in France</title>
@@ -540,7 +566,7 @@
 <title>Garda investigation launched as two bodies found in Ireland</title>
 <link>https://news.sky.com/story/garda-investigation-launched-as-two-bodies-found-in-ireland-13601860</link>
 <guid isPermaLink="false">fe45f865dc94ac245206f39764f01f9dc35326bbe95a18f399221bd8d68d631a</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Wed, 21 Oct 2026 10:19:00 +0000</pubDate>
 <description>A Garda investigation has been launched after two bodies were discovered in Ireland.</description>
@@ -563,6 +589,19 @@
 <media:content url="https://e3.365dm.com/25/12/1920x1080/skynews-birmingham-weather_7105636.jpg?20251209140212" medium="image"/>
 </item>
 <item>
+<title>What workplace violence perpetrators have in common, new Secret Service report finds</title>
+<link>https://abcnews.com/Politics/perpetrators-workplace-violence-common-new-secret-service-report/story?id=137425519</link>
+<guid isPermaLink="false">5201d4b0b298c43d88705721877a6f9c1110d720bb84aa501e24210a1c2a228b</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 09:14:25 +0000</pubDate>
+<description>Three quarters of perpetrators who carried out workplace attacks exhibited behaviors of concern: US Secret Service</description>
+<dc:creator></dc:creator>
+<content:encoded>Three quarters of perpetrators who carried out workplace attacks exhibited behaviors of concern: US Secret Service</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/secret-service-officer-gty-jt-261020_1792530492603_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/secret-service-officer-gty-jt-261020_1792530492603_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Actor Noel Clarke pleads not guilty to six sexual offences</title>
 <link>https://news.sky.com/story/actor-noel-clarke-pleads-not-guilty-to-six-sexual-offences-13601830</link>
 <guid isPermaLink="false">28080104664388335ae98dae93814872ec18cd0c1fa92dfd30e290a9f62bb350</guid>
@@ -576,6 +615,19 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-noel-clarke-clarke_7382727.jpg?20261021113521" medium="image"/>
 </item>
 <item>
+<title>How much does pregnancy cost? Be prepared with these tips</title>
+<link>https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy</link>
+<guid isPermaLink="false">9e5593f8d2eba57f007bb0619bc7e6c124c4c6c62e7944e05c3b55cf737de155</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+<description>The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giving birth.</description>
+<dc:creator>Stephanie O'Neill</dc:creator>
+<content:encoded>The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giving birth.</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/3840x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fac%2F936c4970443496dbac79e50eabc6%2Fhelpline-07-leadart.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/3840x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fac%2F936c4970443496dbac79e50eabc6%2Fhelpline-07-leadart.jpg" medium="image"/>
+</item>
+<item>
 <title>At least 153 people killed in drone strike on disputed Sudan-South Sudan region</title>
 <link>https://news.sky.com/story/at-least-153-people-killed-in-drone-strike-on-disputed-sudan-south-sudan-region-13601817</link>
 <guid isPermaLink="false">a794839e831874b4f9c68e43ceac622801d62b1e85cf17cae6d6dd29240cef71</guid>
@@ -587,19 +639,6 @@
 <content:encoded>A drone strike on a fuel depot in a disputed region on the Sudan-South Sudan border has killed at least 153 people.</content:encoded>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-sudan-southsudan_7382655.jpg?20261021095804" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-sudan-southsudan_7382655.jpg?20261021095804" medium="image"/>
-</item>
-<item>
-<title>Teacher struck off after 'low-cut crop top' comment to schoolgirl</title>
-<link>https://news.sky.com/story/berwickshire-high-school-teacher-struck-off-for-inappropriate-behaviour-and-low-cut-crop-top-comment-to-schoolgirl-13601811</link>
-<guid isPermaLink="false">c42a0323769dc9ac8840a332f0098d93ff2fec8ca31f0e2bdca1ca1835f89b5f</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 08:16:00 +0000</pubDate>
-<description>A former teacher has been struck off for telling a pupil he would attend a school production of Grease if she was wearing a "low-cut crop top and tight trousers".</description>
-<dc:creator></dc:creator>
-<content:encoded>A former teacher has been struck off for telling a pupil he would attend a school production of Grease if she was wearing a "low-cut crop top and tight trousers".</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-berwickshire-high-school_7382635.jpg?20261021093405" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-berwickshire-high-school_7382635.jpg?20261021093405" medium="image"/>
 </item>
 <item>
 <title>Childcare costs weigh on some voters before the midterm elections</title>
@@ -652,19 +691,6 @@
 <content:encoded>The DOJ's list of alleged noncitizens registered to vote in California includes a “high percentage” of people who say they were born in the U.S., L.A. officials said.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/vote-4-gty-gmh-261019_1792414804974_hpMain_2_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/vote-4-gty-gmh-261019_1792414804974_hpMain_2_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Rogers says inroads with Black and Jewish voters will help him beat El-Sayed</title>
-<link>https://abcnews.com/Politics/michigan-gop-senate-candidate-mike-rogers-inroads-black/story?id=137382967</link>
-<guid isPermaLink="false">e29741672950647662ba11db7174d437c110ccafd850908a9d8e0885adbffb62</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 01:19:24 +0000</pubDate>
-<description>He broke with Trump on some tariffs and said he’s “worried” about the economy.</description>
-<dc:creator></dc:creator>
-<content:encoded>He broke with Trump on some tariffs and said he’s “worried” about the economy.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Politics/mike-rogers-davis-sit-20261020-abc-jh_1792537002525_hpMain_16x9_1600.jpeg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/mike-rogers-davis-sit-20261020-abc-jh_1792537002525_hpMain_16x9_1600.jpeg" medium="image"/>
 </item>
 <item>
 <title>Uganda reacts angrily as Nigeria confirms its first Ebola case</title>
@@ -756,19 +782,6 @@
 <content:encoded>A 65-year-old woman was killed in a shark attack at a popular beach on South Africa's southeastern coast, local authorities said.</content:encoded>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-south-africa-shark_7382062.jpg?20261020185414" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-south-africa-shark_7382062.jpg?20261020185414" medium="image"/>
-</item>
-<item>
-<title>Trump attacks Democratic challenger Hamilton at Kansas rally as Senate race tightens</title>
-<link>https://abcnews.com/Politics/trump-attacks-democratic-challenger-adam-hamilton-kansas-rally/story?id=137404084</link>
-<guid isPermaLink="false">c72a2b100dcede9ca8dc545bdde4a873fd5fdd55e334d7c246cc0d2089eb773c</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 20 Oct 2026 17:59:50 +0000</pubDate>
-<description>President Donald Trump took the stage in Kansas on Monday night to campaign for Sen. Roger Marshall, a one-term incumbent facing a close race against Adam Hamilton.</description>
-<dc:creator></dc:creator>
-<content:encoded>President Donald Trump took the stage in Kansas on Monday night to campaign for Sen. Roger Marshall, a one-term incumbent facing a close race against Adam Hamilton.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Politics/trump-kansas-rally_1792482283930_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/trump-kansas-rally_1792482283930_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Some older siblings left raising family members after parents' deportation: Advocates</title>
