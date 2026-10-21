@@ -4,6 +4,32 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?</title>
+<link>https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings</link>
+<guid isPermaLink="false">e49b804aa4fbcb2135f4541cc816fa13d7b63c27ba92c0d859a6ae561e379c01</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 23:36:31 +0000</pubDate>
+<description>For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet . During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able to add their own vehicles to the company's robotaxi fleet in the second quarter of 2027. Here's his exact quote (emphasis ours): Like I mentioned earlier, the software for Cybercabs and Model Y is the same. And pretty soon we'll be able to release the same software as part of the V15 relea … Read the full story at The Verge.</description>
+<dc:creator>Andrew J. Hawkins</dc:creator>
+<content:encoded>For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet . During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able to add their own vehicles to the company's robotaxi fleet in the second quarter of 2027. Here's his exact quote (emphasis ours): Like I mentioned earlier, the software for Cybercabs and Model Y is the same. And pretty soon we'll be able to release the same software as part of the V15 relea … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk</title>
+<link>https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611</link>
+<guid isPermaLink="false">3b79ed3ee897876175dfb6bdb8311ed52dbdbecb68d83f4a0c33e51d670c8d5f</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 23:02:57 +0000</pubDate>
+<description>PHP developers have accused software supply chain security shop Chainguard of effectively revealing critical bugs in the open-source scripting language ahead of a planned official disclosure. On Wednesday, just hours after releasing emergency patches for the two bugs collectively called PHP2shell, PHP maintainers published a blog about how the vulnerabilities were found and fixed. They credited researchers at Calif, OpenAI, and Wiz with finding the security holes between August and September. All three companies have said they used AI models to find the vulnerabilities, which are now tracked as CVE-2026-109618 and CVE-2026-109619, and can allow an unauthenticated attacker to execute code on servers running PHP. This is especially serious because PHP powers huge chunks of the public web. It also adds a dose of irony to the “leak and disrupted disclosure” part of the blog, which blames Chainguard - a company that aims to secure software supply chains by hardening open source code - for the messy disclosure. The trouble, according to PHP developers, started on Tuesday around 15:00 UTC, when “two CVE IDs began circulating on online forums and social media,” along with incorrect information about the release time and CVSS severity rating. At that point, no technical details leaked. The rumors, however, prompted PHP maintainers to warn people in advance about the critical flaws, and move the planned disclosure forward a day, from Thursday to Wednesday. “Distributors were still packaging the fix, so releasing immediately would have left many users without an easy way to update,” the PHP Foundation blog says. “Moving the release forward by one day was the best compromise between acting quickly, giving people time to prepare, and making sure everyone had a simple update path when the vulnerabilities were disclosed.” A couple of hours later, Calif “mistakenly” published a video showing a proof-of-concept exploit and “additional, though limited” information about the bugs, we’re told. “Mitigation advice we started providing to a few critical infrastructure providers around Oct 20th 23:00 UTC, may have leaked as well,” the PHP blog says, but it does not name these providers. And then it throws Chainguard under the bus: “On October 21st at 07:41 UTC, more than six hours before the coordinated release, Chainguard unilaterally broke the embargo and published built images containing the fix. Like other distributors, Chainguard had received the patch in advance so its users could update the moment the vulnerabilities were disclosed. Any attacker could now study the fix in binary form while every other PHP user was still waiting for the release. This disregarded weeks of work by many parties toward a coordinated disclosure.” Chainguard CEO: 'We made the call' Chainguard CEO Dan Lorenc spoke with The Register on Wednesday, and while he doesn’t dispute the timeline, said his company "didn't leak." “These things are messy,” Lorenc said. Chainguard learned “something</description>
+<dc:creator>Jessica Lyons</dc:creator>
+<content:encoded>PHP developers have accused software supply chain security shop Chainguard of effectively revealing critical bugs in the open-source scripting language ahead of a planned official disclosure. On Wednesday, just hours after releasing emergency patches for the two bugs collectively called PHP2shell, PHP maintainers published a blog about how the vulnerabilities were found and fixed. They credited researchers at Calif, OpenAI, and Wiz with finding the security holes between August and September. All three companies have said they used AI models to find the vulnerabilities, which are now tracked as CVE-2026-109618 and CVE-2026-109619, and can allow an unauthenticated attacker to execute code on servers running PHP. This is especially serious because PHP powers huge chunks of the public web. It also adds a dose of irony to the “leak and disrupted disclosure” part of the blog, which blames Chainguard - a company that aims to secure software supply chains by hardening open source code - for the messy disclosure. The trouble, according to PHP developers, started on Tuesday around 15:00 UTC, when “two CVE IDs began circulating on online forums and social media,” along with incorrect information about the release time and CVSS severity rating. At that point, no technical details leaked. The rumors, however, prompted PHP maintainers to warn people in advance about the critical flaws, and move the planned disclosure forward a day, from Thursday to Wednesday. “Distributors were still packaging the fix, so releasing immediately would have left many users without an easy way to update,” the PHP Foundation blog says. “Moving the release forward by one day was the best compromise between acting quickly, giving people time to prepare, and making sure everyone had a simple update path when the vulnerabilities were disclosed.” A couple of hours later, Calif “mistakenly” published a video showing a proof-of-concept exploit and “additional, though limited” information about the bugs, we’re told. “Mitigation advice we started providing to a few critical infrastructure providers around Oct 20th 23:00 UTC, may have leaked as well,” the PHP blog says, but it does not name these providers. And then it throws Chainguard under the bus: “On October 21st at 07:41 UTC, more than six hours before the coordinated release, Chainguard unilaterally broke the embargo and published built images containing the fix. Like other distributors, Chainguard had received the patch in advance so its users could update the moment the vulnerabilities were disclosed. Any attacker could now study the fix in binary form while every other PHP user was still waiting for the release. This disregarded weeks of work by many parties toward a coordinated disclosure.” Chainguard CEO: 'We made the call' Chainguard CEO Dan Lorenc spoke with The Register on Wednesday, and while he doesn’t dispute the timeline, said his company "didn't leak." “These things are messy,” Lorenc said. Chainguard learned “something was coming in PHP” on Friday from one of the researchers that found the bugs, Lorenc told us. Later that night, using his company’s AI harness and a frontier model, the CEO and the Chainguard team independently found the same memory corruption vulnerabilities. All it took was a “basic prompt of ‘find bad vulnerabilities in PHP,’” Lorenc wrote in a subsequent LinkedIn post. On Saturday, Chainguard began working with the PHP maintainers, confirmed that some of its findings matched the bug reports, and helped test the patches. “The patches are crazy - this is not a simple vulnerability,” Lorenc told The Register . “It really did take them months to build a real, working patch for it. And then on Monday, the rumors started, and yesterday it just spiraled.” Some people published POCs on social media, other security vendors reported seeing real-world exploitation, and late Tuesday night Lorenc told us he decided to ship the fixes, and notified the PHP coordinated disclosure channel about his plans. “People were getting hit in advance” of the official PHP disclosure, “so we made the call to ship the fixes under that,” Lorenc said. “It's coordinated vulnerability disclosure, unless there's evidence of active exploits in the wild.” Also on Tuesday night, Chainguard published built artifacts and made them accessible to anyone, not just customers. “And then I woke up this morning and saw that this was all our fault,” Lorenc said. When asked if he would do anything differently, given the fallout from Chainguard’s early disclosure, Lorenc said no. “This process and policy is based on trying to coordinate as much as possible until shit hits the fan and people start weaponizing things,” he said. “It sucks, because we really are all on one team, and there's bad guys over there doing stuff.” Chainguard’s honeypots trapped IPs from China and Russia targeting the vulnerabilities on Wednesday, Lorenc added. “Just being told there's a vulnerability in a piece of software - even something as big as PHP - is enough to find it,” he told us. “I did that myself without any other knowledge on Friday." "I think this is kind of the new normal. People are able to build an exploit in hours without even knowing what the vulnerability is." What we know about the CVEs and how to exploit them While we still don’t know the scope of exploitation - or what will happen to vulnerable legacy systems that don’t have security fixes - threat hunters predict it’s going to be a doozy. “Successful exploitation could allow attackers to take control of affected servers, steal sensitive data, and deface the websites running on them,” Wiz researchers Sagi Tzadik, Shir Tamari, Nir Ohfeld, and Tomer Schwartz warned on Wednesday, adding the oft-quoted stat that PHP powers 70 percent of all websites in the world. “Every PHP version released in the last decade is affected by at least one of these vulnerabilities, going back to version 5.4,” the Wiz kids wrote. “Attackers can exploit them remotely, in some cases fairly easily. Immediate patching is strongly advised.” Both bugs are related to how PHP handles memory management and error handling, and both lead to remote code execution (RCE). They can cause a corrupted internal PHP state when a request ends unexpectedly, and then a later request can reuse that state, leading to memory disclosure or RCE. “Both are memory corruption vulnerabilities,” VulnCheck researcher Patrick Garrity explained. “If an attacker can shape the memory PHP trusts, they can potentially hijack what it does next, and in these cases that means remote code execution.” CVE-2026-109618 ( GHSA-w8hw-w9fx-j79w ) leads to RCE via out-of-memory corruption. “If a request reached PHP's memory_limit at exactly the wrong moment, PHP could leave partially initialized internal data behind and later treat it as valid, corrupting memory,” the project maintainer wrote. “On Apache with mod_php, an unauthenticated request can trigger this before any application code runs.” CVE-2026-109619 ( GHSA-6wmf-4rv5-p3rp ) allows RCE via stale state. “A fatal error at the wrong point could leave internal state pointing to memory that belonged to a previous request,” according to the PGP Foundation. “A later request handled by the same worker could then use that freed memory. A use-after-free and worker crash were confirmed, and the reporter demonstrated remote code execution against a real-world application running on Apache with mod_php.”®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=5304620&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5304620&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure</title>
 <link>https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure</link>
 <guid isPermaLink="false">e39c688df31a7f54f7ef5d13d495d031f07dc7c77abafceb96cea80e0b94d16a</guid>
@@ -13,8 +39,8 @@
 <description>Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.</description>
 <dc:creator>Paresh Dave</dc:creator>
 <content:encoded>Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad93b2d580bb57e495f3eef/master/pass/2173579243" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad93b2d580bb57e495f3eef/master/pass/2173579243" medium="image"/>
+<enclosure url="https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg" medium="image"/>
 </item>
 <item>
 <title>Mark Zuckerberg says Meta is 'entering a new phase' with Muse</title>
@@ -353,19 +379,6 @@
 <content:encoded>Apple just revealed a new brand identity for Apple Music, with the expected turn to Liquid Glass. I’m not much of a fan of their new design language in general; this is where I admit that I’m still running MacOS Sequoia and have grumpy things to say about rounded corner radii and text legibility. It’s just a trend, it will pass, and at some point I’ll probably cave and upgrade when it starts actually affecting my ability to get work done, or more importantly get security updates. Once I adjust, I’ll stop noticing it, and life will go on. As such, I wouldn’t normally find an obvious rebrand like this notable, much less feel like I had much to say about it. But then I happened to catch Apple’s behind-the-scenes video in my YouTube recommendations, and I realized I did have thoughts. Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Walmart is inviting AI agents to shop for you</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</link>
-<guid isPermaLink="false">20d01956fcee92e766917384c60be3ae330580565eaf78bdd0999302b3882a2e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 19:30:00 +0000</pubDate>
-<description>Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which blocked Perplexity's shopping agent and Meta's Muse AI assistant . But Walmart is opening its doors to AI shoppers - as long as they follow the retailer's rules. It has outlined a set of terms for agents, saying that "agents must not take actions beyond what the shopper intends" and cannot change a customer's payment method. Agents also can only access inf … Read the full story at The Verge.</description>
-<dc:creator>Emma Roth</dc:creator>
-<content:encoded>Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which blocked Perplexity's shopping agent and Meta's Muse AI assistant . But Walmart is opening its doors to AI shoppers - as long as they follow the retailer's rules. It has outlined a set of terms for agents, saying that "agents must not take actions beyond what the shopper intends" and cannot change a customer's payment method. Agents also can only access inf … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>RIP BioWare: EA shuts down storied RPG studio after over three decades</title>
@@ -1291,6 +1304,45 @@
 <media:content url="https://i.guim.co.uk/img/media/9483c0b6ad81f5a1fd4e3f6e9910cbdca6feb3a8/456_0_4560_3648/master/4560.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2614de3e90decd414300b27cc6cd11aa" medium="image"/>
 </item>
 <item>
+<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
+<link>https://www.wired.com/story/ulta-coupon</link>
+<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
+<dc:creator>Boutayna Chokrane</dc:creator>
+<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
+</item>
+<item>
+<title>LG Promo Codes and Coupons for October 2026</title>
+<link>https://www.wired.com/story/lg-promo-code</link>
+<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
+<dc:creator>Harry Rabinowitz</dc:creator>
+<content:encoded>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
+</item>
+<item>
+<title>20% Off Sephora Promo Code | October 2026</title>
+<link>https://www.wired.com/story/sephora-promo-code</link>
+<guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Earn more points on skincare purchases when you use our Sephora coupon.</description>
+<dc:creator>Louryn Strampe</dc:creator>
+<content:encoded>Earn more points on skincare purchases when you use our Sephora coupon.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
+</item>
+<item>
 <title>TurboTax Full Service Coupons This October 2026</title>
 <link>https://www.wired.com/story/turbotax-coupon</link>
 <guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
@@ -1315,45 +1367,6 @@
 <content:encoded>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</content:encoded>
 <enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
-</item>
-<item>
-<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ulta-coupon</link>
-<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
-<dc:creator>Boutayna Chokrane</dc:creator>
-<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
-<title>20% Off Sephora Promo Code | October 2026</title>
-<link>https://www.wired.com/story/sephora-promo-code</link>
-<guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Earn more points on skincare purchases when you use our Sephora coupon.</description>
-<dc:creator>Louryn Strampe</dc:creator>
-<content:encoded>Earn more points on skincare purchases when you use our Sephora coupon.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
-</item>
-<item>
-<title>LG Promo Codes and Coupons for October 2026</title>
-<link>https://www.wired.com/story/lg-promo-code</link>
-<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
-<dc:creator>Harry Rabinowitz</dc:creator>
-<content:encoded>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
 </item>
 <item>
 <title>Udemy Coupon Codes: 20% Off October 2026</title>
@@ -1850,19 +1863,6 @@
 <media:content url="https://image.theregister.com/?imageId=5235229&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Sexual Assault Is a Free Speech Issue</title>
-<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
-<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
-<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
-<dc:creator>Ej Dickson</dc:creator>
-<content:encoded>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
-</item>
-<item>
 <title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
 <link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
 <guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
@@ -1874,6 +1874,19 @@
 <content:encoded>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
+</item>
+<item>
+<title>Sexual Assault Is a Free Speech Issue</title>
+<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
+<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
+<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
+<dc:creator>Ej Dickson</dc:creator>
+<content:encoded>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
 </item>
 <item>
 <title>Organic Mattress Sale: 20 Percent Off Essentia Beds</title>
@@ -2071,19 +2084,6 @@
 <media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
 </item>
 <item>
-<title>30% Off Canon Promo Codes | October 2026</title>
-<link>https://www.wired.com/story/canon-promo-code</link>
-<guid isPermaLink="false">b7b297c4c57110a535ebb7e21ce3aa1ad5547e25ec9499eef52e4ec8f670dea2</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</description>
-<dc:creator>Gear Team</dc:creator>
-<content:encoded>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
 <title>Mint Mobile Discounts for October 2026</title>
 <link>https://www.wired.com/story/mint-mobile-promo-code</link>
 <guid isPermaLink="false">b8f96101317d5d3aeee56f938d848113e17452daebaf04df30932d350ea9d27f</guid>
@@ -2095,6 +2095,19 @@
 <content:encoded>Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.</content:encoded>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>30% Off Canon Promo Codes | October 2026</title>
+<link>https://www.wired.com/story/canon-promo-code</link>
+<guid isPermaLink="false">b7b297c4c57110a535ebb7e21ce3aa1ad5547e25ec9499eef52e4ec8f670dea2</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</description>
+<dc:creator>Gear Team</dc:creator>
+<content:encoded>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
 <title>‘David Beckham’ was briefly the world’s second-worst manga pirate</title>
@@ -2251,19 +2264,6 @@
 <content:encoded>Europe’s drive for cloud sovereignty is leading to member states favoring providers from their own nation instead of building a Europe-wide cloud services market, according to a report critical of the EU’s proposed Cloud and AI Development Act ( CADA ). A study by the European Centre for International Political Economy (ECIPE) looked at public cloud contracts in nine EU member states and found that every one that invoked the new vocabulary around “sovereignty” went to a domestic provider, rather than one based in another EU country. It says that European cloud procurement was already highly concentrated nationally before sovereignty became a key policy objective, based on analysis of 8,725 cloud-related procurement contracts between 2018 and 2025. Nearly all went to providers in the same country with negligible intra-EU cross-border competition. Furthermore, the report claims that those domestic wins often turn out to be from prime contractors that are relying on infrastructure provided by the big hyperscale operators, where sovereignty attaches to the nationality of the operator, not to the infrastructure layer on which the service depends. At issue is a conceptual confusion over cloud sovereignty, which is being used to represent two different problems, according to ECIPE. One treats sovereignty as a security and resilience objective, securing data and managing risks. Sovereignty here means that the user has choices over the provider and design of their cloud service needs. The second treats sovereignty as an industrial policy objective, where sovereignty is more about the notion of Europe-headquartered firms becoming more successful if they are not exposed to competition with non-European providers. CADA includes the two different logics and, confusingly, aims to achieve both outcomes, the report states. The legislation frames the four European Union assurance levels as criteria for security, resilience and trustworthy cloud provision, but the criteria actually aim to enforce sovereignty through requirements concerning EU-located infrastructure, restrictions on third-country control, and control over software supply chains. The goal of cloud sovereignty is therefore at risk of becoming a vehicle for policies that favor selected providers, restrict competition and fragment digital markets, ECIPE warns. Instead of allowing pan-European rivals for the big US cloud providers to grow and flourish, the framework may thus have the opposite effect in encouraging member states to favor providers within their own borders, leading to fragmentation across Europe. A more coherent approach would keep the resilience objectives, but temper their use through technological neutrality requirements that preserve interoperability, portability, and multi-cloud options, the report authors state. It makes a number of policy recommendations, including defining sovereignty as a demonstrated outcome, not an ownership status. “Real sovereignty means a public buyer can show its data is secure and that it can switch provider if it has to. A provider’s passport does not tell you that”, said ECIPE Director and co-author of the study, Fredrik Erixon. “Europe’s cloud market is already national in practice. CADA risks locking that in.” Vague drafting But not everyone might agree. Earlier this year, tech trade association CISPE (Cloud Infrastructure Service Providers in Europe) urged the European Commission to legislate for real tech sovereignty, rather than the illusion of it. It argued that sovereignty must be defined by control, not by whether a provider merely has an EU presence, and that means effective ownership of the underlying technology and protection from extraterritorial laws like the US CLOUD Act, under which Washington can compel American tech companies such as the big cloud operators, to hand over any data they hold, including data stored overseas. The same group had earlier warned that the EC’s criteria for cloud sovereignty had been drafted so vaguely as to favor incumbents – meaning the big American operators that already dominate Europe's cloud market. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5229675&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5229675&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Red Hat helps teach about tech writing</title>
-<link>https://www.theregister.com/os-platforms/2026/10/19/red-hat-helps-teach-about-tech-writing/5303868</link>
-<guid isPermaLink="false">bfc22d6af405633557254b6ffd265c9ef7abab9600f88313ba305d7d448e5327</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 16:11:00 +0000</pubDate>
-<description>In Brno in Czechia, Red Hat’s large local office has been helping the city’s Masaryk University to teach future technical writers. Whenever someone tries to teach, though, they learn as well. At the Open Source Summit in Prague, a senior member of Red Hat’s documentation team in Brno presented a talk called Diagrams &amp; Dragons: Teaching Technical Writing to University Students the Open Source Way . Red Hat has a large site in Brno, which is the second-largest Czech city and is also the home of the respected Masaryk University . Red Hat’s Brno office has a substantial documentation team — this vulture was part of it for a while. For the last four years, Red Hat has been working with the university’s Faculty of Informatics to teach a course unit in technical writing. Jiří Herrman talked about what the course tutors had learned from the students. For FI MUNI, its course PV177 Technical Writing. Red Hat has a page with some of the materials . “RH has been looking into cultivating technical writers in Brno for a while,” he said, but the launch of the course was “delayed due to the 2020 worldwide global… thingy.” The company particularly wants to work on what he described as “that tricky part of technical writing where you actually have to interact with other humans.” Some of the things that struck this former tech-docs writer the most are covered on pages 7 and 9 from Herrman’s short slide deck [PDF], which discuss what didn’t work. Although the course was aimed at students with some technical knowledge, they found that setting classwork with shell-based tools didn’t work: some of the students had never used the command-line, some came with borrowed laptops without admin-level access, and some came with just phones rather than laptops. Some we found less surprising. Getting students to grade one anothers’ work, much as professional tech writers review one another’s contributions, didn’t work well – partly due to the speed required. In the end, the compromise was to give the students a course in grading each other’s work “without pissing each other off.” It didn’t shock us, but we suspect might leave some training vendors taken aback, that interacting with remote teachers who were presenting online didn’t work well – especially when there were multiple tutors, changing with each class. LLM use You may well have already foreseen the biggest “gotcha” for a course that ran for the first time in 2023. It is, naturally, use of LLM. The students were told that they were not allowed to use LLMs during the course, but naturally enough, they did so anyway. Among the problems that Herrman reported were that giving praise to good work that involved LLM use just encouraged more cheating. However, telling students off for it discouraged them, and that encourages cheating. So the team had to come up with some tactics to try to manage this, which involved teaching the students how to use LLMs instead. They did, however, find some things that did work well. Awarding po</description>
-<dc:creator>Liam Proven</dc:creator>
-<content:encoded>In Brno in Czechia, Red Hat’s large local office has been helping the city’s Masaryk University to teach future technical writers. Whenever someone tries to teach, though, they learn as well. At the Open Source Summit in Prague, a senior member of Red Hat’s documentation team in Brno presented a talk called Diagrams &amp; Dragons: Teaching Technical Writing to University Students the Open Source Way . Red Hat has a large site in Brno, which is the second-largest Czech city and is also the home of the respected Masaryk University . Red Hat’s Brno office has a substantial documentation team — this vulture was part of it for a while. For the last four years, Red Hat has been working with the university’s Faculty of Informatics to teach a course unit in technical writing. Jiří Herrman talked about what the course tutors had learned from the students. For FI MUNI, its course PV177 Technical Writing. Red Hat has a page with some of the materials . “RH has been looking into cultivating technical writers in Brno for a while,” he said, but the launch of the course was “delayed due to the 2020 worldwide global… thingy.” The company particularly wants to work on what he described as “that tricky part of technical writing where you actually have to interact with other humans.” Some of the things that struck this former tech-docs writer the most are covered on pages 7 and 9 from Herrman’s short slide deck [PDF], which discuss what didn’t work. Although the course was aimed at students with some technical knowledge, they found that setting classwork with shell-based tools didn’t work: some of the students had never used the command-line, some came with borrowed laptops without admin-level access, and some came with just phones rather than laptops. Some we found less surprising. Getting students to grade one anothers’ work, much as professional tech writers review one another’s contributions, didn’t work well – partly due to the speed required. In the end, the compromise was to give the students a course in grading each other’s work “without pissing each other off.” It didn’t shock us, but we suspect might leave some training vendors taken aback, that interacting with remote teachers who were presenting online didn’t work well – especially when there were multiple tutors, changing with each class. LLM use You may well have already foreseen the biggest “gotcha” for a course that ran for the first time in 2023. It is, naturally, use of LLM. The students were told that they were not allowed to use LLMs during the course, but naturally enough, they did so anyway. Among the problems that Herrman reported were that giving praise to good work that involved LLM use just encouraged more cheating. However, telling students off for it discouraged them, and that encourages cheating. So the team had to come up with some tactics to try to manage this, which involved teaching the students how to use LLMs instead. They did, however, find some things that did work well. Awarding points, even on a semi-arbitrary basis, with occasional secret prizes, as well dispensing feedback via internet-style memes. A final exercise was to role-play a scenario, “Dungeons &amp; Dragons” style. The quest was “I want to be a tech writer, but how to get there?”. This involved navigating a cross-functional team, creating things like release notes, technical notes, and some real documentation for the process. And as the course materials are open source, the graduates ended up with a permanent FOSS record that they can show to prospective employers. There is a project Github , and you can see some of the student’s archived coursework for 2025 and 2026 . The issues around LLM use in tech writing were the primary subject of a “Birds of a Feather” session that Herrman moderated earlier: Technical Writing in the Age of AI . He started by asking how many in the audience were using AI in their tech-writing efforts, getting what he called an “overwhelming majority” who were already on-board. What we found interesting is what people said they didn’t use it for. They find even the best models are poor at writing documentation themselves. They’re also poor at drawing diagrams, and at reading them for review purposes. They’re poor at reviewing docs (“AI is too obsequious and so reviews are overly positive,” and “it doesn’t give good feedback on user focus, or structure.”) However, most of the attendees found uses for it all the same. Examples included “Change management” and “Updating to new code” – in other words, identifying which parts of large products had changed and which therefore needed fresh documentation. Others said they used it for “Documenting decisions from meeting notes,” and in other ways, “Collecting information resources for writing,” and worryingly, to “Summarize notes (from conferences, meetings, etc.) and cluster by themes”. Another use was “Reverse engineering code to figure out intent,” or to “Find existing docs to prevent reinvention or duplication.” Tech writing is a demanding job, and pretty much permanently under-resourced. We can’t and don’t blame anyone for grabbing onto anything that might help. Even so, for us, what stood out from this session was the pretty much unanimous agreement among an audience of tech writers that LLMs were poor at doing the job that tech writers themselves did. Reviewing each others’ docs is a core part of the job: tech writers are used to this, and when they review the bots’ efforts, they find the machinese lacking. That fits our impressions, too. What we found alarming is that, although they find the bots poor at doing what the writers know best, even so, they trusted the bots to be competent in other functions, things the writers don’t look at so closely – for example, finding and selecting where docs need updating. The use for summarization is especially alarming: this is something that studies have demonstrated LLMs are bad at . They shorten, not summarize, and that’s no substitute. We find that worrying, but we regularly hear reports of companies pressing staff to use AI more. This is an all-too-human response: “it can’t do my job, but if I must use it, then this stuff isn’t my jurisdiction, and if it messes up, I can blame someone else.” We just worry at whose desk this buck will eventually stop. ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=1682374&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1682374&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff</title>
