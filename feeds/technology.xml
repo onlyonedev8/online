@@ -4,6 +4,110 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Our Favorite Darn Tough Merino Wool Socks Are on Sale at REI</title>
+<link>https://www.wired.com/story/darn-tough-sock-sale-october-2026</link>
+<guid isPermaLink="false">0586cfd90a697cd67f8b763afbc45c561673b9d47f2b2978b906c0c72d47e43b</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:52:22 +0000</pubDate>
+<description>Get ready for winter: Darn Tough socks are on sale at REI.</description>
+<dc:creator>Scott Gilbertson</dc:creator>
+<content:encoded>Get ready for winter: Darn Tough socks are on sale at REI.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad7f0304809649ec79b42ad/master/pass/Our%20Favorite%20Merino%20Wool%20Socks%20Are%20On%20Sale%20102026%20top%20art%20SOURCE%20REI.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad7f0304809649ec79b42ad/master/pass/Our%20Favorite%20Merino%20Wool%20Socks%20Are%20On%20Sale%20102026%20top%20art%20SOURCE%20REI.jpg" medium="image"/>
+</item>
+<item>
+<title>Now Serato DJ works on your iPhone</title>
+<link>https://www.theverge.com/tech/1015319/serato-dj-for-ios</link>
+<guid isPermaLink="false">22cfd230ea56c3cd38309a8ed24c9907d4010c02f83de4f73208f4f337822725</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:51:31 +0000</pubDate>
+<description>Serato DJ for iOS brings the company's pro-level DJ suite to the iPhone and iPad. Before now, the company had only dipped its toes into mobile software, with apps like Pyro that basically just added some autofades between songs in a playlist. This is the first time most of the features of its flagship DJ app have been available on a mobile device. Competitors like Rekordbox and Algoriddim have had proper mobile DJ apps for some time. If you're a DJ used to Serato on a laptop, the workflow should feel instantly familiar. You can even transfer your library directly from Serato DJ 5.0 on your laptop to your iOS device either over USB-C or wire … Read the full story at The Verge.</description>
+<dc:creator>Terrence O’Brien</dc:creator>
+<content:encoded>Serato DJ for iOS brings the company's pro-level DJ suite to the iPhone and iPad. Before now, the company had only dipped its toes into mobile software, with apps like Pyro that basically just added some autofades between songs in a playlist. This is the first time most of the features of its flagship DJ app have been available on a mobile device. Competitors like Rekordbox and Algoriddim have had proper mobile DJ apps for some time. If you're a DJ used to Serato on a laptop, the workflow should feel instantly familiar. You can even transfer your library directly from Serato DJ 5.0 on your laptop to your iOS device either over USB-C or wire … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DJ-for-iOS-iPhone-Handheld-1920x1080-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DJ-for-iOS-iPhone-Handheld-1920x1080-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone</title>
+<link>https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy</link>
+<guid isPermaLink="false">711a09351ddc7aa0f3be8ab190ebc2a6a48bf28752f2a0d23e16959ab9416269</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:34:37 +0000</pubDate>
+<description>The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substances.</description>
+<dc:creator>Kate Knibbs</dc:creator>
+<content:encoded>The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substances.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad7fa47e71bc9cefa5d5242/master/pass/Wired%20Low%20T.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad7fa47e71bc9cefa5d5242/master/pass/Wired%20Low%20T.jpg" medium="image"/>
+</item>
+<item>
+<title>OneDrive gives Macs a million things to keep in sync</title>
+<link>https://www.theregister.com/saas/2026/10/21/onedrive-gives-macs-a-million-things-to-keep-in-sync/5304442</link>
+<guid isPermaLink="false">182c2f05b3a61cac53072255ff97814c9f69289fbedcd9d14372ae5aa40be739</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:27:00 +0000</pubDate>
+<description>Microsoft is raising OneDrive's supported macOS sync limit to one million items, matching Windows, alongside new Copilot features, sharing controls, and an admin command-line tool. The macOS preview is scheduled for the Insiders ring this month, with general availability targeted for June 2027. Eligible devices must meet hardware and configuration requirements; others retain the existing 300,000-item supported limit. "This increase is intended to help organizations with large OneDrive and SharePoint libraries sync more content reliably across devices," Microsoft said. However, sync performance may suffer for large numbers of read-only files or accounts under legal hold. "We are actively working to improve performance and reliability for these scenarios," Microsoft said. Microsoft's cull of OneDrive's File Explorer shortcuts wasn't a retreat from AI. Its latest announcement gives Copilot more to do. The assistant can now be asked to analyze across files (for example, selecting several spreadsheets and getting the bot to come up with charts and graphs), told to organize folders, or save a repeated workflow as a personal skill in a Markdown file. There is also a Prompt Gallery to save the user from having to come up with their own ideas. Perhaps most interesting is the addition of "Hero Links," designed to end the proliferation of links to files and folders in OneDrive as permission needs change. The feature provides one link per file and folder by default, with permissions that can be updated while keeping the same URL. Automatic expiration controls are still coming, however. Organizations that require time-limited access will want to check that gap before adopting the feature. Administrators also get a OneDrive Sync command-line tool, available in private preview, for inspecting accounts, configuration, policies, and sync status. The tool can pull information from the OneDrive sync client and provide data on status, policy troubleshooting, and issue diagnosis, from folder backup and policy problems on a single PC to identifying devices that need attention across an organization. And yes, there is, of course, integration with AI agents. ®</description>
+<dc:creator>Richard Speed</dc:creator>
+<content:encoded>Microsoft is raising OneDrive's supported macOS sync limit to one million items, matching Windows, alongside new Copilot features, sharing controls, and an admin command-line tool. The macOS preview is scheduled for the Insiders ring this month, with general availability targeted for June 2027. Eligible devices must meet hardware and configuration requirements; others retain the existing 300,000-item supported limit. "This increase is intended to help organizations with large OneDrive and SharePoint libraries sync more content reliably across devices," Microsoft said. However, sync performance may suffer for large numbers of read-only files or accounts under legal hold. "We are actively working to improve performance and reliability for these scenarios," Microsoft said. Microsoft's cull of OneDrive's File Explorer shortcuts wasn't a retreat from AI. Its latest announcement gives Copilot more to do. The assistant can now be asked to analyze across files (for example, selecting several spreadsheets and getting the bot to come up with charts and graphs), told to organize folders, or save a repeated workflow as a personal skill in a Markdown file. There is also a Prompt Gallery to save the user from having to come up with their own ideas. Perhaps most interesting is the addition of "Hero Links," designed to end the proliferation of links to files and folders in OneDrive as permission needs change. The feature provides one link per file and folder by default, with permissions that can be updated while keeping the same URL. Automatic expiration controls are still coming, however. Organizations that require time-limited access will want to check that gap before adopting the feature. Administrators also get a OneDrive Sync command-line tool, available in private preview, for inspecting accounts, configuration, policies, and sync status. The tool can pull information from the OneDrive sync client and provide data on status, policy troubleshooting, and issue diagnosis, from folder backup and policy problems on a single PC to identifying devices that need attention across an organization. And yes, there is, of course, integration with AI agents. ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=260377&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=260377&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>As fans reject AI-generated music, even boosters are drawing the line</title>
+<link>https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky</link>
+<guid isPermaLink="false">369e9fe44cde6862c771c646ffaf1a21ad3916e8c64c7d1f8a70cf6582a4f196</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:22:51 +0000</pubDate>
+<description>Enthusiasts like Grimes and A$AP Rocky may embrace AI-generated content, but they won’t produce it themselves Streaming services, notable musicians and fans are confronting the growing presence of AI-generated music and drawing lines in the sand. On Tuesday, Spotify announced it had removed about 50m songs considered AI slop from its recommendations to users over the past year. Continue reading...</description>
+<dc:creator>Blake Montgomery</dc:creator>
+<content:encoded>Enthusiasts like Grimes and A$AP Rocky may embrace AI-generated content, but they won’t produce it themselves Streaming services, notable musicians and fans are confronting the growing presence of AI-generated music and drawing lines in the sand. On Tuesday, Spotify announced it had removed about 50m songs considered AI slop from its recommendations to users over the past year. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/8247f9d5d61677fd63d2d0b76590621d1901f9e1/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b963fb2949df52dbfa191ca86b826ddc" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/8247f9d5d61677fd63d2d0b76590621d1901f9e1/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b963fb2949df52dbfa191ca86b826ddc" medium="image"/>
+</item>
+<item>
+<title>Roku Pro Series OLED TV Review (2026)</title>
+<link>https://www.wired.com/review/roku-pro-series-oled</link>
+<guid isPermaLink="false">4d2e237275c836cd8fb25da872edf965fefa88c5ca61a5c52cde2b3f501b2dc8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:21:18 +0000</pubDate>
+<description>It doesn’t reinvent the wheel, but with a friendly user interface, great remote, and below-average price, it doesn’t have to.</description>
+<dc:creator>Rick Broida</dc:creator>
+<content:encoded>It doesn’t reinvent the wheel, but with a friendly user interface, great remote, and below-average price, it doesn’t have to.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad79518e71bc9cefa5d51bd/master/pass/Review%20Roku%20Pro%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad79518e71bc9cefa5d51bd/master/pass/Review%20Roku%20Pro%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>Nvidia’s latest GPU driver brings a new way to speed up PC games</title>
+<link>https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support</link>
+<guid isPermaLink="false">9d139281b4ec70e03eef76f787ca59f3976781f8b80a2e14da3c5d6343ffa4ef</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:09:26 +0000</pubDate>
+<description>Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game "just-in-time" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud. "Using DirectX 12, Windows 11, and the Microsoft Agility SDK, developers capture shaders into a State Object Database (SODB), allowing Microsoft's cloud network to precompile shaders for hundreds of thousands of hardware and driver combinations," explains Nvidia's And … Read the full story at The Verge.</description>
+<dc:creator>Tom Warren</dc:creator>
+<content:encoded>Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game "just-in-time" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud. "Using DirectX 12, Windows 11, and the Microsoft Agility SDK, developers capture shaders into a State Object Database (SODB), allowing Microsoft's cloud network to precompile shaders for hundreds of thousands of hardware and driver combinations," explains Nvidia's And … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>How to spot a white label gadget, and why that's important</title>
+<link>https://www.engadget.com/2292707/how-to-spot-a-white-label-gadget</link>
+<guid isPermaLink="false">e99ff0c84767c5a21b4d78f514ba9ad53ee61ec42330ac9b3309014b440d0c62</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
+<description>Sometimes the same product is sold under multiple brands, which means you might not be getting the best gear.</description>
+<dc:creator>staff@engadget.com (Daniel Cooper)</dc:creator>
+<content:encoded>Sometimes the same product is sold under multiple brands, which means you might not be getting the best gear.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-spot-a-white-label-gadget-and-why-thats-important/l-intro-1792586287.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-spot-a-white-label-gadget-and-why-thats-important/l-intro-1792586287.jpg" medium="image"/>
+</item>
+<item>
 <title>AI cuts coding time, but it's also filling open source's inbox with crap</title>
 <link>https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389</link>
 <guid isPermaLink="false">729ec851083006e3daea9599a331ad68684c544fb9da2aec1d8ee1a0c6b5abe5</guid>
@@ -147,7 +251,7 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise</title>
+<title>ServiceNow and Nvidia launch Arc, a new AI agent for enterprise</title>
 <link>https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise</link>
 <guid isPermaLink="false">a161a381365b4e8a145ae7a2e311496f0272c6a0ad0c3a548fdbe9c7012c168e</guid>
 <source>ZDNET</source>
@@ -433,45 +537,6 @@
 <media:content url="https://i.guim.co.uk/img/media/9483c0b6ad81f5a1fd4e3f6e9910cbdca6feb3a8/456_0_4560_3648/master/4560.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2614de3e90decd414300b27cc6cd11aa" medium="image"/>
 </item>
 <item>
-<title>LG Promo Codes and Coupons for October 2026</title>
-<link>https://www.wired.com/story/lg-promo-code</link>
-<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
-<dc:creator>Harry Rabinowitz</dc:creator>
-<content:encoded>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
-</item>
-<item>
-<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ulta-coupon</link>
-<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
-<dc:creator>Boutayna Chokrane</dc:creator>
-<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
-<title>20% Off Sephora Promo Code | October 2026</title>
-<link>https://www.wired.com/story/sephora-promo-code</link>
-<guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Earn more points on skincare purchases when you use our Sephora coupon.</description>
-<dc:creator>Louryn Strampe</dc:creator>
-<content:encoded>Earn more points on skincare purchases when you use our Sephora coupon.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
-</item>
-<item>
 <title>TurboTax Full Service Coupons This October 2026</title>
 <link>https://www.wired.com/story/turbotax-coupon</link>
 <guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
@@ -511,15 +576,54 @@
 <media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
 </item>
 <item>
+<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
+<link>https://www.wired.com/story/ulta-coupon</link>
+<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
+<dc:creator>Boutayna Chokrane</dc:creator>
+<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
+</item>
+<item>
+<title>20% Off Sephora Promo Code | October 2026</title>
+<link>https://www.wired.com/story/sephora-promo-code</link>
+<guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Earn more points on skincare purchases when you use our Sephora coupon.</description>
+<dc:creator>Louryn Strampe</dc:creator>
+<content:encoded>Earn more points on skincare purchases when you use our Sephora coupon.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
+</item>
+<item>
+<title>LG Promo Codes and Coupons for October 2026</title>
+<link>https://www.wired.com/story/lg-promo-code</link>
+<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
+<dc:creator>Harry Rabinowitz</dc:creator>
+<content:encoded>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
+</item>
+<item>
 <title>Nervous ISPs replace Chrome as strange consumers of DNS resources</title>
 <link>https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344</link>
 <guid isPermaLink="false">fab81318eaf73dacddacce3a1459140e7066f65c41aa57d8396b4420f52ec90d</guid>
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 03:16:37 +0000</pubDate>
-<description>Google has fixed the flaws in the Chromium browser engine that saw it poll DNS root servers, but ISPs who seem to have odd views about resilience now emerged as a new source of probably-well-meaning overconsumption of internet resources. ICANN’s office of the Chief Technology Officer delivered that view on Monday during the governance org’s annual conference in Bali, Indonesia, in a session that shared recent data from its Identifier Technology Health Indicators (ITHI) research program which monitors the security, stability and resilience of the domain name system. ICANN principal technologist Maud Durand opened with a discussion of “Chromiods” the odd flaw in Chrome that meant well-meaning efforts to avoid a form of DNS hijacking caused the browser to generate about half of all DNS root server traffic during the year 2020. Given Chrome’s enormous prevalence, that traffic was unwelcome. ICANN, plus other internetworking and governance stakeholders, told Google to sort it out. Durand said the Chocolate Factory gradually did. ICANN has kept measuring the impact Chrome makes and Durand shared the graph below which shows the browser’s share of DNS root server traffic falling from 45 percent to one percent today. Or as Durand described it, “in the noise.” ICANN has now detected a new source of odd DNS traffic: ISPs that use multiple DNS servers for every one of their customers’ requests. “Every single DNS query is sent three times: to Google, to Cloudflare, and to another DNS resolver,” Durand said, labelling this practice a “belt and suspenders” approach because a single resolver usually suffices to keep services up. It’s good practice to specify primary and secondary DNS resolvers, in case one doesn’t work. But DNS resolvers are already very resilient, and making multiple requests is unusual. The ISPs ICANN has spotted send DNS requests over IPv4 and IPv6, and for non-cached requests repeat them within 100 milliseconds for about half of queries. A further 30 percent repeat within thirty seconds. “It is hard to know if it is a bug or a specific behaviour,” Durand said, before advancing a personal theory that the ISPs who use this odd resilience technique can’t hire skilled internetworking engineers and therefore created a kind of brute-force resilience routine. The organization is researching the cause. ICANN feels the ISPs using this practice aren’t major players, but the org worries that if the practice becomes widespread, or is adopted by a large entity, it could have a nasty impact. Pointlessly busy DNS servers also matter because ICANN thinks the number of DNS service providers is becoming more concentrated. ICANN has tried to calculate how many DNS resolvers half of internet users can “see” when they are online. As the graph below shows, users could see almost 250 resolver farms in the year 2020. That figure is just under 150 today. Again, Durand isn’t sure why but suspects the number of DNS resolver operators might be shrinking and that the re</description>
+<description>Google has fixed the flaws in the Chromium browser engine that saw it poll DNS root servers, but ISPs who seem to have odd views about resilience now emerged as a new source of probably-well-meaning overconsumption of internet resources. ICANN’s office of the Chief Technology Officer delivered that view on Monday during the governance org’s annual conference in Bali, Indonesia, in a session that shared recent data from its Identifier Technology Health Indicators (ITHI) research program which monitors the security, stability and resilience of the domain name system. ICANN principal technologist Maud Durand opened with a discussion of “Chromioids” the odd flaw in Chrome that meant well-meaning efforts to avoid a form of DNS hijacking caused the browser to generate about half of all DNS root server traffic during the year 2020. Given Chrome’s enormous prevalence, that traffic was unwelcome. ICANN, plus other internetworking and governance stakeholders, told Google to sort it out. Durand said the Chocolate Factory gradually did. ICANN has kept measuring the impact Chrome makes and Durand shared the graph below which shows the browser’s share of DNS root server traffic falling from 45 percent to one percent today. Or as Durand described it, “in the noise.” ICANN has now detected a new source of odd DNS traffic: ISPs that use multiple DNS servers for every one of their customers’ requests. “Every single DNS query is sent three times: to Google, to Cloudflare, and to another DNS resolver,” Durand said, labelling this practice a “belt and suspenders” approach because a single resolver usually suffices to keep services up. It’s good practice to specify primary and secondary DNS resolvers, in case one doesn’t work. But DNS resolvers are already very resilient, and making multiple requests is unusual. The ISPs ICANN has spotted send DNS requests over IPv4 and IPv6, and for non-cached requests repeat them within 100 milliseconds for about half of queries. A further 30 percent repeat within thirty seconds. “It is hard to know if it is a bug or a specific behaviour,” Durand said, before advancing a personal theory that the ISPs who use this odd resilience technique can’t hire skilled internetworking engineers and therefore created a kind of brute-force resilience routine. The organization is researching the cause. ICANN feels the ISPs using this practice aren’t major players, but the org worries that if the practice becomes widespread, or is adopted by a large entity, it could have a nasty impact. Pointlessly busy DNS servers also matter because ICANN thinks the number of DNS service providers is becoming more concentrated. ICANN has tried to calculate how many DNS resolvers half of internet users can “see” when they are online. As the graph below shows, users could see almost 250 resolver farms in the year 2020. That figure is just under 150 today. Again, Durand isn’t sure why but suspects the number of DNS resolver operators might be shrinking and that the r</description>
 <dc:creator>Simon Sharwood</dc:creator>
-<content:encoded>Google has fixed the flaws in the Chromium browser engine that saw it poll DNS root servers, but ISPs who seem to have odd views about resilience now emerged as a new source of probably-well-meaning overconsumption of internet resources. ICANN’s office of the Chief Technology Officer delivered that view on Monday during the governance org’s annual conference in Bali, Indonesia, in a session that shared recent data from its Identifier Technology Health Indicators (ITHI) research program which monitors the security, stability and resilience of the domain name system. ICANN principal technologist Maud Durand opened with a discussion of “Chromiods” the odd flaw in Chrome that meant well-meaning efforts to avoid a form of DNS hijacking caused the browser to generate about half of all DNS root server traffic during the year 2020. Given Chrome’s enormous prevalence, that traffic was unwelcome. ICANN, plus other internetworking and governance stakeholders, told Google to sort it out. Durand said the Chocolate Factory gradually did. ICANN has kept measuring the impact Chrome makes and Durand shared the graph below which shows the browser’s share of DNS root server traffic falling from 45 percent to one percent today. Or as Durand described it, “in the noise.” ICANN has now detected a new source of odd DNS traffic: ISPs that use multiple DNS servers for every one of their customers’ requests. “Every single DNS query is sent three times: to Google, to Cloudflare, and to another DNS resolver,” Durand said, labelling this practice a “belt and suspenders” approach because a single resolver usually suffices to keep services up. It’s good practice to specify primary and secondary DNS resolvers, in case one doesn’t work. But DNS resolvers are already very resilient, and making multiple requests is unusual. The ISPs ICANN has spotted send DNS requests over IPv4 and IPv6, and for non-cached requests repeat them within 100 milliseconds for about half of queries. A further 30 percent repeat within thirty seconds. “It is hard to know if it is a bug or a specific behaviour,” Durand said, before advancing a personal theory that the ISPs who use this odd resilience technique can’t hire skilled internetworking engineers and therefore created a kind of brute-force resilience routine. The organization is researching the cause. ICANN feels the ISPs using this practice aren’t major players, but the org worries that if the practice becomes widespread, or is adopted by a large entity, it could have a nasty impact. Pointlessly busy DNS servers also matter because ICANN thinks the number of DNS service providers is becoming more concentrated. ICANN has tried to calculate how many DNS resolvers half of internet users can “see” when they are online. As the graph below shows, users could see almost 250 resolver farms in the year 2020. That figure is just under 150 today. Again, Durand isn’t sure why but suspects the number of DNS resolver operators might be shrinking and that the remaining visible resolvers belong to tech giants. ®</content:encoded>
+<content:encoded>Google has fixed the flaws in the Chromium browser engine that saw it poll DNS root servers, but ISPs who seem to have odd views about resilience now emerged as a new source of probably-well-meaning overconsumption of internet resources. ICANN’s office of the Chief Technology Officer delivered that view on Monday during the governance org’s annual conference in Bali, Indonesia, in a session that shared recent data from its Identifier Technology Health Indicators (ITHI) research program which monitors the security, stability and resilience of the domain name system. ICANN principal technologist Maud Durand opened with a discussion of “Chromioids” the odd flaw in Chrome that meant well-meaning efforts to avoid a form of DNS hijacking caused the browser to generate about half of all DNS root server traffic during the year 2020. Given Chrome’s enormous prevalence, that traffic was unwelcome. ICANN, plus other internetworking and governance stakeholders, told Google to sort it out. Durand said the Chocolate Factory gradually did. ICANN has kept measuring the impact Chrome makes and Durand shared the graph below which shows the browser’s share of DNS root server traffic falling from 45 percent to one percent today. Or as Durand described it, “in the noise.” ICANN has now detected a new source of odd DNS traffic: ISPs that use multiple DNS servers for every one of their customers’ requests. “Every single DNS query is sent three times: to Google, to Cloudflare, and to another DNS resolver,” Durand said, labelling this practice a “belt and suspenders” approach because a single resolver usually suffices to keep services up. It’s good practice to specify primary and secondary DNS resolvers, in case one doesn’t work. But DNS resolvers are already very resilient, and making multiple requests is unusual. The ISPs ICANN has spotted send DNS requests over IPv4 and IPv6, and for non-cached requests repeat them within 100 milliseconds for about half of queries. A further 30 percent repeat within thirty seconds. “It is hard to know if it is a bug or a specific behaviour,” Durand said, before advancing a personal theory that the ISPs who use this odd resilience technique can’t hire skilled internetworking engineers and therefore created a kind of brute-force resilience routine. The organization is researching the cause. ICANN feels the ISPs using this practice aren’t major players, but the org worries that if the practice becomes widespread, or is adopted by a large entity, it could have a nasty impact. Pointlessly busy DNS servers also matter because ICANN thinks the number of DNS service providers is becoming more concentrated. ICANN has tried to calculate how many DNS resolvers half of internet users can “see” when they are online. As the graph below shows, users could see almost 250 resolver farms in the year 2020. That figure is just under 150 today. Again, Durand isn’t sure why but suspects the number of DNS resolver operators might be shrinking and that the remaining visible resolvers belong to tech giants. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=261129&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=261129&amp;width=800" medium="image"/>
 </item>
@@ -654,19 +758,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300641963.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Google’s more personalized Gemini AI is heading to your car</title>
-<link>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</link>
-<guid isPermaLink="false">925e6a635cad1b6fed420699983a9de970460ae27b7188c94d7428243cbde004</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 22:11:34 +0000</pubDate>
-<description>Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to "take me to my doctor's appointment" instead of pulling up directions manually, or ask it to "find the car wash from the photo I t … Read the full story at The Verge.</description>
-<dc:creator>Emma Roth</dc:creator>
-<content:encoded>Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to "take me to my doctor's appointment" instead of pulling up directions manually, or ask it to "find the car wash from the photo I t … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Merging SpaceX and Tesla would be a "good idea," Musk says</title>
 <link>https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says</link>
 <guid isPermaLink="false">268c445ff6a64a04f14dd2a0fe7dd3f32d6fe7136c2660b731dcffe634aeeec3</guid>
@@ -743,19 +834,6 @@
 <content:encoded>Hackers aren't giving up at cracking the Playstation 5's latest firmware as evidenced by a new video showing an apparent kernel exploit.</content:encoded>
 <enclosure url="https://www.engadget.com/img/gallery/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6/l-intro-1792530805.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/the-latest-playstation-firmware-may-have-already-been-cracked-ahead-of-gta-6/l-intro-1792530805.jpg" medium="image"/>
-</item>
-<item>
-<title>Tesla and SpaceX are discussing a possible merger, Musk says</title>
-<link>https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees</link>
-<guid isPermaLink="false">db29f3780b4c0baded296e351266deb916667cea7198503b8b9114755444776f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 21:30:24 +0000</pubDate>
-<description>Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday . Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also noted that he is not a member of either committee, nor involved in any of the discussions. "Because I'm a conflicted party, I can't actually be in the discussions of the special committees," Musk said. "So it's an odd kabuki dance where two groups of people are talking and I can't be in the conversation. … Read the full story at The Verge.</description>
-<dc:creator>Andrew J. Hawkins</dc:creator>
-<content:encoded>Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday . Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also noted that he is not a member of either committee, nor involved in any of the discussions. "Because I'm a conflicted party, I can't actually be in the discussions of the special committees," Musk said. "So it's an odd kabuki dance where two groups of people are talking and I can't be in the conversation. … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix</title>
@@ -951,19 +1029,6 @@
 <content:encoded>It has been 13 years since the debut of a new medium-lift rocket in the United States, the Antares vehicle developed by Orbital Sciences Corporation. The initial 100-series variant of the Antares rocket was kind of a hot mess. The rocket used old Soviet engines built during the era when Apollo astronauts were landing on the Moon. Decades later, in the 1990s, Aerojet acquired the engines and refurbished them for a rocket that would launch in the 2010s. Predictably, on the fifth launch of an Antares rocket in 2014, it exploded. The Antares vehicle is the last of a dying breed of medium-lift rockets—defined as having a lift capacity of 2 to 20 metric tons—in the United States. Nearly a decade and a half later there is a new generation of medium-lift vehicles coming online, and they are starkly different from Antares, which had not just Russian engines but a core stage manufactured in Ukraine. Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke-second-stage-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke-second-stage-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>How long can you expect your original Steam Deck to last?</title>
-<link>https://www.engadget.com/2289277/how-long-steam-deck-last-lifespan-support</link>
-<guid isPermaLink="false">6e097f2efbd6ec7a1adfbcaf431abc59a2513892b12de6b0fdd299be180da4d2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 18:30:00 +0000</pubDate>
-<description>The original Steam Deck has been around for a while, but unless you only play the heaviest games, it should be great for some time more.</description>
-<dc:creator>staff@engadget.com (Will Shanklin)</dc:creator>
-<content:encoded>The original Steam Deck has been around for a while, but unless you only play the heaviest games, it should be great for some time more.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/how-long-can-you-expect-your-original-steam-deck-to-last/l-intro-1791573909.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-long-can-you-expect-your-original-steam-deck-to-last/l-intro-1791573909.jpg" medium="image"/>
 </item>
 <item>
 <title>Ukraine’s drone rescue of wounded soldier puts much touted idea into practice</title>
@@ -1616,6 +1681,19 @@
 <media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
 </item>
 <item>
+<title>Chewy Promo Codes: $20 Off October 2026</title>
+<link>https://www.wired.com/story/chewy-promo-code</link>
+<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
+</item>
+<item>
 <title>30% Off Canon Promo Codes | October 2026</title>
 <link>https://www.wired.com/story/canon-promo-code</link>
 <guid isPermaLink="false">b7b297c4c57110a535ebb7e21ce3aa1ad5547e25ec9499eef52e4ec8f670dea2</guid>
@@ -1627,32 +1705,6 @@
 <content:encoded>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</content:encoded>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
-<title>Wayfair Coupons: Up to 80% Off October 2026</title>
-<link>https://www.wired.com/story/wayfair-promo-code</link>
-<guid isPermaLink="false">46b2d1d5338167151c44b18359199046c3084b4513d702d9ff550dd41e1c45ab</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" medium="image"/>
-</item>
-<item>
-<title>Mattress Firm Coupons: Save up to $700</title>
-<link>https://www.wired.com/story/mattress-firm-coupon</link>
-<guid isPermaLink="false">49e4bd56c5dc54dae8ed21f5dcc8ee34721f0bfa88c216b825eab03564e80254</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</description>
-<dc:creator>Nena Farrell</dc:creator>
-<content:encoded>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>Mint Mobile Discounts for October 2026</title>
@@ -1668,30 +1720,30 @@
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
-<title>Chewy Promo Codes: $20 Off October 2026</title>
-<link>https://www.wired.com/story/chewy-promo-code</link>
-<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
+<title>Mattress Firm Coupons: Save up to $700</title>
+<link>https://www.wired.com/story/mattress-firm-coupon</link>
+<guid isPermaLink="false">49e4bd56c5dc54dae8ed21f5dcc8ee34721f0bfa88c216b825eab03564e80254</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
+<description>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</description>
+<dc:creator>Nena Farrell</dc:creator>
+<content:encoded>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
-<title>Whoop Promo Codes: 20% Off This October 2026</title>
-<link>https://www.wired.com/story/whoop-promo-code</link>
-<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
+<title>Wayfair Coupons: Up to 80% Off October 2026</title>
+<link>https://www.wired.com/story/wayfair-promo-code</link>
+<guid isPermaLink="false">46b2d1d5338167151c44b18359199046c3084b4513d702d9ff550dd41e1c45ab</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
-<dc:creator>Boutayna Chokrane</dc:creator>
-<content:encoded>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+<description>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" medium="image"/>
 </item>
 <item>
 <title>Home Chef Promo Codes for October 2026</title>
@@ -1718,6 +1770,19 @@
 <content:encoded>Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.</content:encoded>
 <enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Whoop Promo Codes: 20% Off This October 2026</title>
+<link>https://www.wired.com/story/whoop-promo-code</link>
+<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
+<dc:creator>Boutayna Chokrane</dc:creator>
+<content:encoded>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
 <title>AT&amp;T Promo Codes: $50 Off This October 2026</title>
@@ -1796,19 +1861,6 @@
 <content:encoded>Pennsylvania's health department issued a health alert Monday as cases of measles in pregnancy and, in turn, cases of congenital measles have continued to increase. Before the current outbreak—which continues to rage across the state—congenital measles cases hadn't been seen in decades, the department noted in its advisory. The alert included detailed clinical guidance for managing measles exposures and cases during pregnancy as well as cases in newborns. Many doctors have never seen such cases in their careers given the decades of successful use of the measles, mumps, and rubella (MMR) vaccine. But now, with vaccination rates slipping nationwide, the highly infectious virus is better able to get footholds in communities and spread rapidly through under-vaccinated pockets, as is happening in Pennsylvania. As of October 19, Pennsylvania had reported 1,286 measles cases this year across 42 counties. Of those, 247 have been hospitalized, and six people have reportedly died (though the latest reported death is still pending an investigation by the state health department before it is added to the state tally). Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg" medium="image"/>
-</item>
-<item>
-<title>New AI tool can predict cancer survival by a single patient selfie, study suggests</title>
-<link>https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie</link>
-<guid isPermaLink="false">f5de104106419b7644fe57eecc9bf9cbd07d8653b3e6a8d2b5eef97d9e43119f</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 22:30:08 +0000</pubDate>
-<description>System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face. The AI system was custom-built by experts at Mass General Brigham, a nonprofit, integrated academic healthcare system in Massachusetts, to estimate biological age and directly predict survival outcomes in patients diagnosed with cancer. Continue reading...</description>
-<dc:creator>Andrew Gregory Health editor</dc:creator>
-<content:encoded>System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face. The AI system was custom-built by experts at Mass General Brigham, a nonprofit, integrated academic healthcare system in Massachusetts, to estimate biological age and directly predict survival outcomes in patients diagnosed with cancer. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98a4aacec900ba7f6632e2b2e1a6ed33" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98a4aacec900ba7f6632e2b2e1a6ed33" medium="image"/>
 </item>
 <item>
 <title>Best Power Bank Deals: Laptops, MagSafe, and More</title>
@@ -2084,19 +2136,6 @@
 <media:content url="https://image.theregister.com/?imageId=240959&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’</title>
-<link>https://www.wired.com/story/nathan-fielder-tells-us-everything</link>
-<guid isPermaLink="false">1f89513665c18d163682e6589f6d27faad9f74de279c798b02a016716b079924</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 11:30:00 +0000</pubDate>
-<description>The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.</description>
-<dc:creator>Katie Drummond</dc:creator>
-<content:encoded>The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad1463d540188983e952ca6/master/pass/Oshiro_-(5)_final_web.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad1463d540188983e952ca6/master/pass/Oshiro_-(5)_final_web.jpg" medium="image"/>
-</item>
-<item>
 <title>Broadcom Wi-Fi bug turns sweet 16, still lets strangers hijack your router</title>
 <link>https://www.theregister.com/networks/2026/10/19/broadcom-wi-fi-bug-turns-sweet-16-still-lets-strangers-hijack-your-router/5303771</link>
 <guid isPermaLink="false">08b6bbd2b2ad40404a28a3edc497bb764f3ae64015e6769dcfd63df22f3e0412</guid>
@@ -2121,32 +2160,6 @@
 <content:encoded>It's been nearly half a century since the Voyager probes launched from Earth on a mission to explore the outer solar system, and they're still running. You can listen to the latest episode of The Kettle on this page, Spotify , Apple Podcasts , or YouTube . You can also subscribe on those platforms to be notified when a new episode goes live. You're probably familiar with some of Voyager's iconic images, like the Pale Blue Dot and and its portraits of the outer planets. Those photos and observations wouldn't have been possible without Voyager's imaging team, eight members of which were selected from scientists from around the world. The UK's sole representative, Dr. Garry Hunt, joins us on this episode of The Kettle to discuss his role in the Voyager program, the future of the mission, and the state of science in the UK, US, and beyond. A lightly edited transcript is included below: Brandon (00:01) Hi everyone, and welcome to another episode of The Register ’s Kettle Podcast. I'm your host, Brandon Vigliarolo, and we have a very special episode for you this week. We're gonna step away from the doom and gloom of AI and the silliness of Silicon Valley to talk about something and to someone of considerably more historic importance. The Voyager space missions will mark fifty years of exploring the solar system and beyond next year. With us to talk about this is Reg Reporter Richard Speed and our very special guest, British astrophysicist Dr. Garry Hunt who was a member of the original Voyager imaging team. Thank you so much, Dr. Hunt, for coming on. And I'm gonna turn this over to Richard today, since you two have such a history together working on stories for The Reg , and I'm excited to hear about what he's going to pick your brain about. So Richard, take it away. Richard Speed (00:46) Well Dr. Hunt, we've spoken a lot about the Voyager project over the years, but for anyone who's not aware of it, I wonder if you could summarize the mission, which is, I know, a big ask, and also what your role in it is and was. Garry Hunt (01:00) Well indeed, it's a unique mission in the sense that every 176 years the major planets Jupiter, Saturn, Uranus, Neptune, line up virtually in a straight line. And we wanted to explore the outer planets 'cause we've never been there before. I'm talking in the 1970s, late 1960s, '70s. So this is an unknown world. We thought that the major planets were keys to understanding the origin of the solar system, indeed the origin of life, so sending space missions there was a priority. But it needed to be done in a very economical way. With the planets lined up, that meant we could get there in the quickest way, requiring less fuel, and it would be the best way of going about it. So the opportunity came and NASA funded a mission to send two spacecraft at this unique time, which was in the mid '70s, 1977, to the major planets. NASA sent out an invitation to tender. They selected the ten instruments. Imaging had as an instrument in concept had been suggested, but they wanted a team of real scientists, not astronomers, not basic astronomers. They understood this is a chance to do real detailed science, real physics, real chemistry, the whole understanding of what went on. So they were looking for an interdisciplinary group of people. They selected eight people from invitations and I gather there were about nearly a thousand people proposed and of those eight I was chosen. Brandon (02:43) Wow. Garry Hunt (02:44) So I decided I suddenly found myself in this incredible position. I'm there to represent atmospheric physics. I want to understand the physics, the meteorology of the major planets. So here is an opportunity to explore the outer planets to learn about why we wanted to go to Jupiter, Saturn, Uranus, and Neptune. However, funding was tight. The president at the time was Nixon, and we only had funding as far as Jupiter and Saturn. So we were treading new territory. At the time the mission was sort of decided, we had not been through the asteroid belt. So the first question was: would the spacecraft even get that far? And of course the Pioneers had just been launched at the beginning of the '70s and they managed to get through and raised a lot of questions. So I was part of the imaging team, this amazing set of what I will call prima donnas, because we all were. They were from Carl Sagan to Vern Suomi, who was a meteorologist, to Brad Smith, a whole collection of people. And we had to design the imaging system, the cameras, and be part of the organization that developed the choice of trajectories and all the other facets of this mission. In other words, we had to understand the risks as well as the potential rewards that came from it. So it was a big responsibility. And to put the whole thing in real context, I learnt in December '72 from NASA that I'd been selected. We had our first mission meetings in February of '73, and we had until the summer of 1977 to get the spacecraft launched. And the window for launching was ten days. So this was really a big precision job. So large responsibility and had many opportunities, not only to do the science, but the work that I was doing when I took the data back to the UK was to actually serve as a trigger for planetary research within the UK. So this really was a major major part of a new world, new understanding. And as we have learned over the years, we have made history and just about all the observations we've made. Richard Speed (05:16) Okay, great, thank you. So, I mean, as you said, it's been coming out for half a century, 50 years since the spacecraft were launched on their mission and they've been, as you say, Jupiter, Saturn, Uranus, Neptune, and so on. I was just wondering, why do you think they've lasted for so long? Because it's just incredible, really if you think about it. Garry Hunt (05:36) Well, firstly I will put my hand up and say that the engineers of JPL are exceptional. We've had a few hitches and they've overcome it. First of all, we also said we want a spacecraft. It's going to unknown territories. We don't know how long it's going to last. Reliability was the key. So it was built around the Mariners, which have been the bedrock of the earlier missions to around Mars and flying by Venus. So that was the first thing. And so many of the aspects of it were built from equipment from the mid-sixties. So the issue is even more exciting to think that here we are 50 years after launch flying a spacecraft with equipment which was already 10 years old by the time we got it there. So this really is an example of reliability, which is the bottleneck. And of course, the other aspect of it we built in redundancy as well. So we knew that, if things went wrong, we had to find a way of easily overcoming it. As it's drifting away at the speed of thirty thousand miles an hour, you can't just sort of go out and repair it. You've got to be able to do things while the spacecraft is in motion. So there's a certain amount of redundancy, built in reliability, incredibly good careful planning, absolutely brilliant engineers who to this day are doing the most incredible things. Richard Speed (07:05) Well, yes, I have to say, I agree, having spoken to the current Voyager team, they are a bunch of very impressive individuals. And they seem to keep eking out more and more life from the spacecraft. I know it's powered by RTGs, which will eventually expire and there won't be enough power to keep it going. But it seems they'll be able to continue well into the 2030s, maybe even beyond. I mean, what do you think is going to end the mission because I mean it must be coming up. Do you think it'll be a hardware failure? We have had some spacecraft failures over the years or do you think it's going to be more prosaic? Perhaps it'll be just a lack of funding. Garry Hunt (07:41) Well, if you go back to our elementary school physics, we know that as it moves away the signal strength di</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=249462&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=249462&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>How the Xbox’s Disc-to-Digital Program Works</title>
-<link>https://www.wired.com/story/xbox-disc-to-digital</link>
-<guid isPermaLink="false">61692934e71d86db2d0acdb120076be027bb56b8ee0a54548edff692ac2d9312</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 10:30:00 +0000</pubDate>
-<description>Microsoft is letting players digitize their game discs for free, but don't sell your physical collection just yet.</description>
-<dc:creator>Matt Kamen</dc:creator>
-<content:encoded>Microsoft is letting players digitize their game discs for free, but don't sell your physical collection just yet.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ac9144496a91d67fca310c1/master/pass/Xbox%20Disc.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ac9144496a91d67fca310c1/master/pass/Xbox%20Disc.jpg" medium="image"/>
-</item>
-<item>
-<title>Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories</title>
-<link>https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories</link>
-<guid isPermaLink="false">cb821ddf24c674cbeef308f39642c0668070b7ba9d509f5679666ee80ee15ab0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 10:30:00 +0000</pubDate>
-<description>In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.</description>
-<dc:creator>David Gilbert</dc:creator>
-<content:encoded>In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg" medium="image"/>
 </item>
 <item>
 <title>Museum exhibit reveals the intricate workings of a knackered Dell</title>
@@ -2199,19 +2212,6 @@
 <content:encoded>As it was written , so it has come to pass. A while back, we suggested that given how good AI was at code analysis, it would become possible to clone large applications. And then where would we be? Here, that’s where. An industrious individual has released source code and binaries for Claude-copied Microsoft Office and Adobe Creative Suite programs, disappointingly not calling elements of the latter Fauxtoshop . They’re in pre-alpha states of incomplete bugginess, but with substantial functionality, which is proof of how insanely productive AI can be given a task needing zero creativity and wearing "This is what a proof of concept looks like" and "Unintended Consquesences" T-shirts. They could also add Karma Police to their wardrobe. It’s clear that Microsoft and Adobe are facing some competition from what their rival describes as "clean-room reimplementations." It’s also unclear that there is any law against it. You can’t copyright functionality, the code has been generated in Rust with claimed clean-room conditions, and while there may be something in claiming that the works are substantially derivative, there’s a big problem here. Companies that sell AI trained on the biggest theft of IP in history are going to need unmatched legal dexterity to claim that AI shouldn’t be allowed to sully their own IP. Chutzpah used to be defined as a child on trial for murdering their parents begging for mercy on the grounds that they’re an orphan. We’ll have to update that. The post-codeclone world is going to be interesting. Everything becomes effectively open source, which closes down substantial revenue streams for big companies who had assumed lock-in. The motivation to build ab-initio alternatives may go away, in open source as well as closed. The push to subscription-only cloud-hosted products, where nobody can get their thieving AI prompts on binaries, seems an obvious counter move, but AI can control and scrape a web interface, which is all it needs. It's an arms race that won’t be won by humans. Code cloning is just the latest case of AI being so disruptive it threatens its creators. Another is the doom loop that Microsoft-OpenAI acknowledged in internal emails : by siphoning away the ad revenue that pays for content, AI chokes off the data it depends on. It's deforestation by companies that built their business on other people's IP. The biggest potential point of failure is the money. How revenues will hold up against cheaper or free Chinese models is a concern, given the high importance assigned by Beijing to develop AI as a global influence vector. The models themselves are very efficient, in part because of export regulations on high-end silicon and something of a glut of older datacenters. This wouldn’t be the first time restricting access to technology is an evolutionary driver with a poor outcome for those doing the restricting. A much bigger issue is: where will the money come from to build the infrastructure that is needed to support the claims AI is using to justify its growth. Gartner says that there’s not enough return on investment to drive that growth, while a much more engaging SemiAnalysis podcast predicts total capex by 2030 of $11 trillion and asks where it’s going to come from. If you’re interested in understanding AI and aren't following SemiAnalysis, you’re not interested in understanding AI, and while the outfit is relentlessly optimistic it’s also wildly well-informed. In this case, the structure of the investment market for AI is picked apart. It is very weird. Neocloud is made up of startups with a voracious appetite for cash, but no investment grade status . Thus, Nvidia backstops them, guaranteeing to rent unsold capacity for a fixed price for long enough to guarantee enough revenue to attract other investment. Other cash-rich big tech companies do similar things. This backstopping, also known more wryly as "balance sheet as a service," effectively shifts more risk to investment-rated companies. It's an increasingly important capex enabler, but as SemiAnalysis says, it’s necessarily limited, especially if AI itself has blown a hole in the enterprise. Or take the residual value of the older compute. Normally, the book value and revenue capabilities of datacenter chips depreciates over five years or so to some nominal value. That’s not happening here, where chips of that vintage are suddenly producing the same or more revenue than they did when they were new. Such are the peculiarities of a supply-constrained market used to rapid obsolescence. Surely a good thing, though? No. It’s another strange and hard-to-model factor in a market defined by strange and hard-to-model factors. Don’t even mention AGI. Or models too dangerous to use. Or model collapse. Many investors do not like the strange and hard to model, including huge pools of institutional funds. There are models that can blend in risk-averse investors to speculative investments, but those who remember the clever models that blew up the global economy nearly twenty years ago are not yet all dead. The tl;dr of the answer to where do you get enough money to make AI work as promised, is: nobody knows. What happens if the capex has no cap to ex? See previous answer. It may be an infantile affliction to have animation clips come to mind when considering AI, but it can’t be helped. Agentic AI? Mickey Mouse as the sorcerer's apprentice in Fantasia. Big Tech pushing out AI as fast as it can? Wile E Coyote sawing through the branch he’s sitting on. AI investment market? Any of Caine’s quests in the Amazing Digital Circus. We’re all along for the ride, whether we like it or not. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5270706&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5270706&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543</link>
-<guid isPermaLink="false">e5047e2ab0f0da2e79f49991db824e65b2e0bef0699a955e3b852ddecc57416d</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 08:00:00 +0000</pubDate>
-<description>As organizations move from straightforward AI interactions towards longer conversations, complex reasoning and autonomous agents, the demands on their infrastructure are changing. Processing increasingly large amounts of context places significant pressure on memory capacity, while keeping accelerators supplied with data becomes just as important as raw computing power. One particular challenge is the key-value (KV) cache, which stores information generated during inference so models can reuse previous computations rather than repeatedly processing the same context. As context windows expand and multi-turn interactions become more demanding, these caches grow considerably. GPU memory and system memory provide fast access but are expensive and capacity constrained. Traditional storage offers greater capacity, yet its longer, CPU-mediated data paths can introduce latency that leaves valuable accelerator resources waiting for data. Huawei believes addressing this gap requires a different approach to storage. Bringing context memory closer to compute At HUAWEI CONNECT 2026 in Shanghai, Huawei introduced OceanStor M900 Context Memory Storage, designed to support AI inference across hyperscale datacenters and its Ascend SuperPoD infrastructure. The platform introduces what Huawei describes as a dedicated Context Memory Storage layer, extending KV cache beyond accelerator and system memory into a shared, multi-tier storage pool. Using Huawei's UnifiedBus high-speed interconnect, OceanStor M900 enables KV cache resources to be shared across a cluster, with Huawei claiming capacity of up to 64PB and substantially more context available per NPU. Its innovative ASU disk also integrates CPU, networking and storage controller functions. Combined with native KV semantics, this allows NPUs to access stored cache data in a single hop, avoiding conventional protocol conversion and CPU forwarding. According to Huawei, this approach reduces access latency to 60 microseconds, potentially doubling token throughput and halving time to first token in typical AI coding workloads. Cost and durability are also part of the proposition. Huawei's KV-aware adaptive storage technology manages data placement according to cache lifecycles, with claimed endurance of up to 24 drive writes per day, or 16 times that of conventional SSDs. The company argues this could reduce replacement and maintenance costs over time. The wider significance of OceanStor M900 lies in Huawei's approach to AI infrastructure. Rather than treating storage as a separate supporting component, the company is positioning memory, networking and compute as increasingly interconnected elements of inference performance. As agentic AI workloads grow, how efficiently infrastructure retains, shares and retrieves context may become as important as how quickly its accelerators can process it. Sponsored by Huawei</description>
-<dc:creator>David Gordon</dc:creator>
-<content:encoded>As organizations move from straightforward AI interactions towards longer conversations, complex reasoning and autonomous agents, the demands on their infrastructure are changing. Processing increasingly large amounts of context places significant pressure on memory capacity, while keeping accelerators supplied with data becomes just as important as raw computing power. One particular challenge is the key-value (KV) cache, which stores information generated during inference so models can reuse previous computations rather than repeatedly processing the same context. As context windows expand and multi-turn interactions become more demanding, these caches grow considerably. GPU memory and system memory provide fast access but are expensive and capacity constrained. Traditional storage offers greater capacity, yet its longer, CPU-mediated data paths can introduce latency that leaves valuable accelerator resources waiting for data. Huawei believes addressing this gap requires a different approach to storage. Bringing context memory closer to compute At HUAWEI CONNECT 2026 in Shanghai, Huawei introduced OceanStor M900 Context Memory Storage, designed to support AI inference across hyperscale datacenters and its Ascend SuperPoD infrastructure. The platform introduces what Huawei describes as a dedicated Context Memory Storage layer, extending KV cache beyond accelerator and system memory into a shared, multi-tier storage pool. Using Huawei's UnifiedBus high-speed interconnect, OceanStor M900 enables KV cache resources to be shared across a cluster, with Huawei claiming capacity of up to 64PB and substantially more context available per NPU. Its innovative ASU disk also integrates CPU, networking and storage controller functions. Combined with native KV semantics, this allows NPUs to access stored cache data in a single hop, avoiding conventional protocol conversion and CPU forwarding. According to Huawei, this approach reduces access latency to 60 microseconds, potentially doubling token throughput and halving time to first token in typical AI coding workloads. Cost and durability are also part of the proposition. Huawei's KV-aware adaptive storage technology manages data placement according to cache lifecycles, with claimed endurance of up to 24 drive writes per day, or 16 times that of conventional SSDs. The company argues this could reduce replacement and maintenance costs over time. The wider significance of OceanStor M900 lies in Huawei's approach to AI infrastructure. Rather than treating storage as a separate supporting component, the company is positioning memory, networking and compute as increasingly interconnected elements of inference performance. As agentic AI workloads grow, how efficiently infrastructure retains, shares and retrieves context may become as important as how quickly its accelerators can process it. Sponsored by Huawei</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5303545&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5303545&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns</title>
