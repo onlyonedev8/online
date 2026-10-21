@@ -4,17 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Minnesota man credited for saving kids, driver in runaway school bus</title>
-<link>https://abcnews.com/GMA/News/27-year-man-credited-saving-kids-driver-runaway/story?id=137443017</link>
-<guid isPermaLink="false">2914b272cf89c8d411e34dac54e459e62e7aeed2a1eeca205df80e6e61691c10</guid>
-<source>ABC News Top Stories</source>
+<title>Canadian publisher drops author Orelien after confirming he used AI in debut novel</title>
+<link>https://www.france24.com/en/culture/20261021-canadian-publisher-drops-author-orelien-after-confirming-he-used-ai-in-debut-novel</link>
+<guid isPermaLink="false">d69670de632f0c1d11d8e96a7bc4045b54d50a06a701545965b61c5e1eb80de4</guid>
+<source>France 24</source>
 <category>world</category>
-<pubDate>Wed, 21 Oct 2026 16:30:57 +0000</pubDate>
-<description>A 27-year-old Minnesota man is opening up after he saved nearly 20 children when their school bus driver suffered a medical emergency.</description>
-<dc:creator></dc:creator>
-<content:encoded>A 27-year-old Minnesota man is opening up after he saved nearly 20 children when their school bus driver suffered a medical emergency.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/GMA/bus-rescue-ht-gmh-261021_1792593094480_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/bus-rescue-ht-gmh-261021_1792593094480_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Wed, 21 Oct 2026 17:32:54 +0000</pubDate>
+<description>The Canadian publisher representing Thélyson Orélien on Wednesday said it had dropped the prize-nominated writer over new information indicating that he did use artificial intelligence to write his acclaimed debut.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>The Canadian publisher representing Thélyson Orélien on Wednesday said it had dropped the prize-nominated writer over new information indicating that he did use artificial intelligence to write his acclaimed debut.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/cffc09d6-b744-11f1-8522-4d7b41827f6c/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-14-2.png" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/cffc09d6-b744-11f1-8522-4d7b41827f6c/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-14-2.png" medium="image"/>
 </item>
 <item>
 <title>WATCH: National Geographic reveals 'Best of the World' destinations</title>
@@ -22,7 +22,7 @@
 <guid isPermaLink="false">e1543301897d4ec71cbd0aa4c776ef6e1a6b790ed50a32b09754728079a1ec75</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Wed, 21 Oct 2026 16:24:27 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 17:17:56 +0000</pubDate>
 <description>National Geographic editor-in-chief Nathan Lump talks about must-visit destinations for 2027.</description>
 <dc:creator></dc:creator>
 <content:encoded>National Geographic editor-in-chief Nathan Lump talks about must-visit destinations for 2027.</content:encoded>
@@ -30,12 +30,25 @@
 <media:content url="https://s.abcnews.com/images/Travel/261021_abcnl_11a_lump_natgeo_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
+<title>Macron visits Riyadh to show solidarity amid Houthi attacks, ease tensions at home via fuel deal</title>
+<link>https://www.france24.com/en/macron-visits-riyadh-show-solidarity-amid-houthi-attacks-ease-tensions-home-via-fuel-deal</link>
+<guid isPermaLink="false">5456ce18718c072490a8a1b01cf21f3c28daca69c68e9ad10be6818bf692e5d5</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 17:09:37 +0000</pubDate>
+<description>French President Emmanuel Macron on Wednesday paid an unannounced visit to Riyadh in a bid to underscore French support for the kingdom amid intensified attacks by Houthi rebels and an attempt to ease tensions at home by securing oil and diesel imports.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>French President Emmanuel Macron on Wednesday paid an unannounced visit to Riyadh in a bid to underscore French support for the kingdom amid intensified attacks by Houthi rebels and an attempt to ease tensions at home by securing oil and diesel imports.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/aa979f94-cd6e-11f1-b444-4da0d2c6855d/w:1024/p:16x9/2026-10-21T151836Z-1599925537-RC2O7OAFE3Q9-RTRMADP-3-GULF-FRANCE-SAUDI-ARABIA.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/aa979f94-cd6e-11f1-b444-4da0d2c6855d/w:1024/p:16x9/2026-10-21T151836Z-1599925537-RC2O7OAFE3Q9-RTRMADP-3-GULF-FRANCE-SAUDI-ARABIA.jpg" medium="image"/>
+</item>
+<item>
 <title>Urgent security fix issued for code vital to estimated 70% of all websites</title>
 <link>https://abcnews.com/Technology/urgent-security-fix-issued-code-vital-estimated-70/story?id=137447718</link>
 <guid isPermaLink="false">d18ade439cdb1f238d7061c9ae40ce2bf23b02e4aacdfa301dd259f21b28bba4</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Wed, 21 Oct 2026 16:16:12 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 17:05:22 +0000</pubDate>
 <description>The code vulnerability could allow attackers to take over servers, experts say.</description>
 <dc:creator></dc:creator>
 <content:encoded>The code vulnerability could allow attackers to take over servers, experts say.</content:encoded>
@@ -48,12 +61,38 @@
 <guid isPermaLink="false">9d9bdb62301e28e081c854732cd586d0bd3964e8d9fc4608686b80d7972643bc</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Wed, 21 Oct 2026 16:09:04 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 16:51:10 +0000</pubDate>
 <description>President Donald Trump's special envoy Steve Witkoff landed in the Russian city of St. Petersburg on Wednesday morning, a Kremlin aide confirmed.</description>
 <dc:creator></dc:creator>
 <content:encoded>President Donald Trump's special envoy Steve Witkoff landed in the Russian city of St. Petersburg on Wednesday morning, a Kremlin aide confirmed.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/hubbard-1-rt-gmh-261021_1792597916679_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/hubbard-1-rt-gmh-261021_1792597916679_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Greece: Protesters draw inspiration from demonstrations in France</title>
+<link>https://www.france24.com/en/video/20261021-greece-protesters-draw-inspiration-from-demonstrations-in-france</link>
+<guid isPermaLink="false">4bb95e88ff14609d3c16ca9fb8ff40b0dd34671c8b6e7be2e1f712d0f5a6b4f4</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 16:31:49 +0000</pubDate>
+<description>Inspired by protests in France and other parts of Europe, thousands of Greek students on Wednesday demonstrated around the country.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>Inspired by protests in France and other parts of Europe, thousands of Greek students on Wednesday demonstrated around the country.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/be60282c-cd6c-11f1-bbb1-4da0d2c6855d/w:1024/p:16x9/Greece-protests-1.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/be60282c-cd6c-11f1-bbb1-4da0d2c6855d/w:1024/p:16x9/Greece-protests-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Minnesota man credited for saving kids, driver in runaway school bus</title>
+<link>https://abcnews.com/GMA/News/27-year-man-credited-saving-kids-driver-runaway/story?id=137443017</link>
+<guid isPermaLink="false">2914b272cf89c8d411e34dac54e459e62e7aeed2a1eeca205df80e6e61691c10</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 16:30:57 +0000</pubDate>
+<description>A 27-year-old Minnesota man is opening up after he saved nearly 20 children when their school bus driver suffered a medical emergency.</description>
+<dc:creator></dc:creator>
+<content:encoded>A 27-year-old Minnesota man is opening up after he saved nearly 20 children when their school bus driver suffered a medical emergency.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/GMA/bus-rescue-ht-gmh-261021_1792593094480_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/bus-rescue-ht-gmh-261021_1792593094480_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>World set to breach 1.5°C warming limit set by Paris Climate Agreement</title>
@@ -238,19 +277,6 @@
 <media:content url="https://s.france24.com/media/display/d3ffd55e-cd5a-11f1-abbe-eb48fa034ddc/w:1024/p:16x9/FRENCH-CONNECTIONS-PAIN-AU-CHOCOLAT-STILL-V2.jpg" medium="image"/>
 </item>
 <item>
-<title>Paedophile who spiked baby's bottle with vodka before abuse jailed</title>
-<link>https://news.sky.com/story/edinburgh-paedophile-who-spiked-babys-bottle-with-vodka-before-abuse-jailed-for-12-years-13601906</link>
-<guid isPermaLink="false">d969fa2edf686b229cc8caf19a253c45aa2b78b909c84cd4ee132b4d711fe5ef</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 14:32:00 +0000</pubDate>
-<description>A paedophile who spiked a baby's bottle with vodka before molesting her has been jailed for 12 years.</description>
-<dc:creator></dc:creator>
-<content:encoded>A paedophile who spiked a baby's bottle with vodka before molesting her has been jailed for 12 years.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-ian-whyte-police-scotland_7382922.jpg?20261021150837" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-ian-whyte-police-scotland_7382922.jpg?20261021150837" medium="image"/>
-</item>
-<item>
 <title>France braces for another weekend of protests amid nationwide riots</title>
 <link>https://www.france24.com/en/france-braces-for-another-weekend-of-protests-amid-nationwide-riots</link>
 <guid isPermaLink="false">2dc58829e1f170d7f0ebcd473f83b554d2a2442d7ce109d2c7e48d8faccb3d20</guid>
@@ -394,45 +420,6 @@
 <media:content url="https://s.france24.com/media/display/3f272878-cd51-11f1-844d-19980254bb31/w:1024/p:16x9/capture-7cd460dc.jpg" medium="image"/>
 </item>
 <item>
-<title>REPLAY: French union leaders urge strikes after meeting with PM Lecornu</title>
-<link>https://www.france24.com/en/replay-french-union-leaders-urges-strikes-after-meeting-with-pm-lecornu</link>
-<guid isPermaLink="false">2db9f2740c058ed82a1ac69b8c750b4121ad1da5ef930147923b45e66736bc16</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 13:30:24 +0000</pubDate>
-<description>The leader of France's hardline CGT union on Wednesday called for strikes after talks with Prime Minister Sebastien Lecornu over fresh protests collapsed. As the country is reeling from last weekend's riots, the government offered "no measure or an acknowledgement of our demands" Sophie Binet, secretary general of the CGT, told reporters.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>The leader of France's hardline CGT union on Wednesday called for strikes after talks with Prime Minister Sebastien Lecornu over fresh protests collapsed. As the country is reeling from last weekend's riots, the government offered "no measure or an acknowledgement of our demands" Sophie Binet, secretary general of the CGT, told reporters.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/756cd872-cd4e-11f1-837a-19980254bb31/w:1024/p:16x9/EN-20261021-130835-132941-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/756cd872-cd4e-11f1-837a-19980254bb31/w:1024/p:16x9/EN-20261021-130835-132941-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Nigeria records its first Ebola case amid rapid regional spread</title>
-<link>https://www.france24.com/en/video/20261021-nigeria-records-its-first-ebola-case-amid-rapid-regional-spread</link>
-<guid isPermaLink="false">6d9583291599c70f8e6483526cfe80a647c8f63ad29cbcdf2ef24a452945cf41</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 13:28:52 +0000</pubDate>
-<description>After Kenya and Uganda, Nigeria has now announced its first Ebola case – a woman who was admitted to a private hospital in Abuja and travelled from Uganda. The outbreak, which originated in DR Congo in May, has been described by health officials as ​thefastest-spreading on record. Details by FRANCE 24's correspondent Sam Olukoya.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>After Kenya and Uganda, Nigeria has now announced its first Ebola case – a woman who was admitted to a private hospital in Abuja and travelled from Uganda. The outbreak, which originated in DR Congo in May, has been described by health officials as ​thefastest-spreading on record. Details by FRANCE 24's correspondent Sam Olukoya.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/48a63b76-cd53-11f1-9c1d-19980254bb31/w:1024/p:16x9/2026-10-21T045618Z-1772179031-RC2G4OAZODI8-RTRMADP-3-HEALTH-EBOLA-NIGERIA.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/48a63b76-cd53-11f1-9c1d-19980254bb31/w:1024/p:16x9/2026-10-21T045618Z-1772179031-RC2G4OAZODI8-RTRMADP-3-HEALTH-EBOLA-NIGERIA.jpg" medium="image"/>
-</item>
-<item>
-<title>What makes a great Halloween cake?</title>
-<link>https://www.france24.com/en/tv-shows/entre-nous/20261021-what-makes-a-great-halloween-cake</link>
-<guid isPermaLink="false">0d3f26bad8aacc941acb7dd46932e976cfa9584f79af3583a1d4b2594a1f7203</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 13:28:09 +0000</pubDate>
-<description>With Halloween around the corner we are pleased to welcome cake decoration expert Galina Duverne from the École de Cake Design in Paris. Galina tells us what makes a great Halloween cake and how the French have slowly been seduced by cake decorating.</description>
-<dc:creator>Delano D’SOUZA</dc:creator>
-<content:encoded>With Halloween around the corner we are pleased to welcome cake decoration expert Galina Duverne from the École de Cake Design in Paris. Galina tells us what makes a great Halloween cake and how the French have slowly been seduced by cake decorating.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/0fb3ce50-cd49-11f1-a4ff-19980254bb31/w:1024/p:16x9/capture-420820dd.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/0fb3ce50-cd49-11f1-a4ff-19980254bb31/w:1024/p:16x9/capture-420820dd.jpg" medium="image"/>
-</item>
-<item>
 <title>Israel detains dozens of Americans, including a congressional candidate, in West Bank</title>
 <link>https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians</link>
 <guid isPermaLink="false">584dbb0198ca3fbed3a5391d38e32562eca2d4a54a1c68fe5e1d3156697e9525</guid>
@@ -452,9 +439,9 @@
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Wed, 21 Oct 2026 13:28:00 +0000</pubDate>
-<description>Government and business websites across Europe have been taken down in a bid to protect organisations after a critical software update was issued over vulnerabilities in programming language.</description>
+<description>Government and business websites across Europe were taken down in a bid to protect organisations after a critical software update was issued over vulnerabilities in programming language.</description>
 <dc:creator></dc:creator>
-<content:encoded>Government and business websites across Europe have been taken down in a bid to protect organisations after a critical software update was issued over vulnerabilities in programming language.</content:encoded>
+<content:encoded>Government and business websites across Europe were taken down in a bid to protect organisations after a critical software update was issued over vulnerabilities in programming language.</content:encoded>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-ha-hacker-computer_7382912.jpg?20261021145111" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-ha-hacker-computer_7382912.jpg?20261021145111" medium="image"/>
 </item>
@@ -468,8 +455,8 @@
 <description>A man who was found guilty of his role in a gangland shooting that left a nine-year-old girl with a bullet lodged in her brain has been ordered to pay her compensation.</description>
 <dc:creator></dc:creator>
 <content:encoded>A man who was found guilty of his role in a gangland shooting that left a nine-year-old girl with a bullet lodged in her brain has been ordered to pay her compensation.</content:encoded>
-<enclosure url="https://e3.365dm.com/25/08/1920x1080/skynews-dalston-shooting_6991310.jpg?20261021151038" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/25/08/1920x1080/skynews-dalston-shooting_6991310.jpg?20261021151038" medium="image"/>
+<enclosure url="https://e3.365dm.com/25/08/1920x1080/skynews-dalston-shooting_6991310.jpg?20261021184415" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/25/08/1920x1080/skynews-dalston-shooting_6991310.jpg?20261021184415" medium="image"/>
 </item>
 <item>
 <title>Iran live updates: Rubio says Iran nuclear question 'at the core' of US approach</title>
@@ -511,7 +498,20 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-alisha-samuel-manchester_7378025.jpg?20261016082512" medium="image"/>
 </item>
 <item>
-<title>Jailed former DUP leader Jeffrey Donaldson accused of raping woman inside Parliament - reports</title>
+<title>Critical incident at NHS trust ends but patients still face 'long waits'</title>
+<link>https://news.sky.com/story/critical-incident-at-nhs-trust-ends-but-patients-still-face-long-waits-13601869</link>
+<guid isPermaLink="false">274a10ac8e728e946fc5d08699b7c15b8f36029ceec0fb02a692d790a29d13d4</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Wed, 21 Oct 2026 11:00:00 +0000</pubDate>
+<description>A critical incident at a NHS Trust has ended after the number of people waiting for assessment in A&amp;E "dropped significantly" - but hospital bosses warned patients still face "long waits".</description>
+<dc:creator></dc:creator>
+<content:encoded>A critical incident at a NHS Trust has ended after the number of people waiting for assessment in A&amp;E "dropped significantly" - but hospital bosses warned patients still face "long waits".</content:encoded>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-nottingham-hospital_7382754.jpg?20261021121155" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-nottingham-hospital_7382754.jpg?20261021121155" medium="image"/>
+</item>
+<item>
+<title>Jailed former DUP leader Jeffrey Donaldson accused of rape inside Parliament - reports</title>
 <link>https://news.sky.com/story/jailed-former-dup-leader-jeffrey-donaldson-accused-of-raping-woman-inside-parliament-reports-13601867</link>
 <guid isPermaLink="false">d42a87be52d411d265bb3c50fca2544813e8b3d4bc5756036b759d0c6a19c80c</guid>
 <source>Sky News Home</source>
@@ -639,19 +639,6 @@
 <content:encoded>Justice Elena Kagan says decisions by her conservative Supreme Court colleagues have increased political polarization and weakened democracy in the U.S. She spoke Tuesday, two weeks before the midterm elections, criticizing rulings that weakened the Vo...</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/wirestory_4554d6c508f37ac9821dfed06cfa02ab_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/wirestory_4554d6c508f37ac9821dfed06cfa02ab_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Boy, 16, found guilty of attempted murder after stabbing girl at school</title>
-<link>https://news.sky.com/story/boy-16-found-guilty-of-attempted-murder-after-stabbing-girl-at-school-13601783</link>
-<guid isPermaLink="false">aa6064949f5cd6c3dcc3326334c2ac7501864ff5b017c28d8ad1ef6ffa708076</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 06:34:00 +0000</pubDate>
-<description>A 16-year-old boy has been found guilty of attempted murder after stabbing a 15-year-old girl in the back at school.</description>
-<dc:creator></dc:creator>
-<content:encoded>A 16-year-old boy has been found guilty of attempted murder after stabbing a 15-year-old girl in the back at school.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-norwich-thorpe-st-andrew-school_7382762.png?20261021121841" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-norwich-thorpe-st-andrew-school_7382762.png?20261021121841" medium="image"/>
 </item>
 <item>
 <title>'High percentage' of DOJ's noncitizen voters list was born in US: LA County analysis</title>
