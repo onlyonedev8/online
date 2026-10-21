@@ -992,19 +992,6 @@
 <media:content url="https://image.theregister.com/?imageId=5235229&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
-<link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
-<guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
-<description>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</description>
-<dc:creator>Matt Kamen</dc:creator>
-<content:encoded>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
-</item>
-<item>
 <title>Sexual Assault Is a Free Speech Issue</title>
 <link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
 <guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
@@ -1016,6 +1003,19 @@
 <content:encoded>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
+</item>
+<item>
+<title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
+<link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
+<guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
+<description>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</description>
+<dc:creator>Matt Kamen</dc:creator>
+<content:encoded>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
 </item>
 <item>
 <title>Organic Mattress Sale: 20 Percent Off Essentia Beds</title>
@@ -1213,32 +1213,6 @@
 <media:content url="https://image.theregister.com/?imageId=5304056&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Chewy Promo Codes: $20 Off October 2026</title>
-<link>https://www.wired.com/story/chewy-promo-code</link>
-<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
-</item>
-<item>
-<title>Wayfair Coupons: Up to 80% Off October 2026</title>
-<link>https://www.wired.com/story/wayfair-promo-code</link>
-<guid isPermaLink="false">46b2d1d5338167151c44b18359199046c3084b4513d702d9ff550dd41e1c45ab</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" medium="image"/>
-</item>
-<item>
 <title>50% Off DoorDash Promo Code | October 2026</title>
 <link>https://www.wired.com/story/doordash-promo-code</link>
 <guid isPermaLink="false">54a4250e31be61ae89f53ae16f0a8f0ceda653a6186ea8ed96286551f14c01f1</guid>
@@ -1265,17 +1239,17 @@
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
-<title>Adorama Camera Coupon Codes &amp; Promo Codes: October 2026</title>
-<link>https://www.wired.com/story/adorama-promo-code</link>
-<guid isPermaLink="false">136a2d1ea728c543cc9e3e9843549ce3689050d1a284d4c80e3509eb5bae7efe</guid>
+<title>Chewy Promo Codes: $20 Off October 2026</title>
+<link>https://www.wired.com/story/chewy-promo-code</link>
+<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.</description>
-<dc:creator>Les Shu</dc:creator>
-<content:encoded>Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
+<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
 </item>
 <item>
 <title>Mint Mobile Discounts for October 2026</title>
@@ -1304,6 +1278,32 @@
 <media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
+<title>Wayfair Coupons: Up to 80% Off October 2026</title>
+<link>https://www.wired.com/story/wayfair-promo-code</link>
+<guid isPermaLink="false">46b2d1d5338167151c44b18359199046c3084b4513d702d9ff550dd41e1c45ab</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" medium="image"/>
+</item>
+<item>
+<title>Adorama Camera Coupon Codes &amp; Promo Codes: October 2026</title>
+<link>https://www.wired.com/story/adorama-promo-code</link>
+<guid isPermaLink="false">136a2d1ea728c543cc9e3e9843549ce3689050d1a284d4c80e3509eb5bae7efe</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.</description>
+<dc:creator>Les Shu</dc:creator>
+<content:encoded>Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
+</item>
+<item>
 <title>Whoop Promo Codes: 20% Off This October 2026</title>
 <link>https://www.wired.com/story/whoop-promo-code</link>
 <guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
@@ -1330,19 +1330,6 @@
 <media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
 </item>
 <item>
-<title>AT&amp;T Promo Codes: $50 Off This October 2026</title>
-<link>https://www.wired.com/story/att-promo-code</link>
-<guid isPermaLink="false">266d4e9f0ef7603ebeeca89b58bbd37bcc8c07aac0f65fd8223b10667626adff</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.</description>
-<dc:creator>Kat Merck</dc:creator>
-<content:encoded>Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
-</item>
-<item>
 <title>eBay Coupons: 20% Off in October 2026</title>
 <link>https://www.wired.com/story/ebay-coupon-code</link>
 <guid isPermaLink="false">c6105ba8f6b8195afed164bff94ab8a590c290c90e6d6ba934659bbc868037a0</guid>
@@ -1354,6 +1341,19 @@
 <content:encoded>Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.</content:encoded>
 <enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+</item>
+<item>
+<title>AT&amp;T Promo Codes: $50 Off This October 2026</title>
+<link>https://www.wired.com/story/att-promo-code</link>
+<guid isPermaLink="false">266d4e9f0ef7603ebeeca89b58bbd37bcc8c07aac0f65fd8223b10667626adff</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.</description>
+<dc:creator>Kat Merck</dc:creator>
+<content:encoded>Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
 </item>
 <item>
 <title>‘David Beckham’ was briefly the world’s second-worst manga pirate</title>
@@ -1863,19 +1863,6 @@
 <media:content url="https://image.theregister.com/?imageId=5303768&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It</title>
-<link>https://www.wired.com/review/insta360-luna-ultra-luna-pro</link>
-<guid isPermaLink="false">33384fdc8b71a7498076404ab162cd7a6117aca6017cd3621299ee0dea6f038f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
-<description>Insta360’s Luna Pro and Luna Ultra are the ideal cameras for solo filmmakers, content creators, and independent journalists.</description>
-<dc:creator>Scott Gilbertson</dc:creator>
-<content:encoded>Insta360’s Luna Pro and Luna Ultra are the ideal cameras for solo filmmakers, content creators, and independent journalists.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad51b17c6eb59d42f1b9d2a/master/pass/Insta360%20Luna%20Pro%20Ultra%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad51b17c6eb59d42f1b9d2a/master/pass/Insta360%20Luna%20Pro%20Ultra%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card</title>
 <link>https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card</link>
 <guid isPermaLink="false">13e37eaea476c349c555f5e6c5413b9ac72c6820110189c93b5708ad3ffde3fe</guid>
@@ -1887,6 +1874,19 @@
 <content:encoded>The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg" medium="image"/>
+</item>
+<item>
+<title>Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It</title>
+<link>https://www.wired.com/review/insta360-luna-ultra-luna-pro</link>
+<guid isPermaLink="false">33384fdc8b71a7498076404ab162cd7a6117aca6017cd3621299ee0dea6f038f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
+<description>Insta360’s Luna Pro and Luna Ultra are the ideal cameras for solo filmmakers, content creators, and independent journalists.</description>
+<dc:creator>Scott Gilbertson</dc:creator>
+<content:encoded>Insta360’s Luna Pro and Luna Ultra are the ideal cameras for solo filmmakers, content creators, and independent journalists.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad51b17c6eb59d42f1b9d2a/master/pass/Insta360%20Luna%20Pro%20Ultra%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad51b17c6eb59d42f1b9d2a/master/pass/Insta360%20Luna%20Pro%20Ultra%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>AI’s epic cash call is matched only by its ability to strangle revenue streams</title>
