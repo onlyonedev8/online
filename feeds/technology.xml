@@ -4,15 +4,54 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre</title>
+<link>https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre</link>
+<guid isPermaLink="false">0cce61e47c3830dc417f2925179f4cad7b0867c3bc0790d8eea4b12419e8a487</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 11:22:23 +0000</pubDate>
+<description>Company ordered to stop work at two sites in country, which has found itself at forefront of tech firms’ latest push Behind a wire fence lies a vast gaping wound of earth. Before Google’s arrival a few months ago, an estimated quarter of a million trees occupied the 330 hectares (815 acres) of forest near the town of Muhos in rural northern Finland. Now they are all gone. After the tech company illegally stripped the entire area to build a datacentre – taking even the top soil with it – all that remains is a vast expanse of mud indented with the trail marks of machinery, puddles and mounds of earth, roots and branches. Residents say that brown water flowing off the site is going into a stream that feeds the Oulujoki River. Continue reading...</description>
+<dc:creator>Miranda Bryant in Muhos and Otanmäki</dc:creator>
+<content:encoded>Company ordered to stop work at two sites in country, which has found itself at forefront of tech firms’ latest push Behind a wire fence lies a vast gaping wound of earth. Before Google’s arrival a few months ago, an estimated quarter of a million trees occupied the 330 hectares (815 acres) of forest near the town of Muhos in rural northern Finland. Now they are all gone. After the tech company illegally stripped the entire area to build a datacentre – taking even the top soil with it – all that remains is a vast expanse of mud indented with the trail marks of machinery, puddles and mounds of earth, roots and branches. Residents say that brown water flowing off the site is going into a stream that feeds the Oulujoki River. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4bb0318c7d16898ac438976376fb26c4" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4bb0318c7d16898ac438976376fb26c4" medium="image"/>
+</item>
+<item>
+<title>Eiliko maker says it&amp;#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots</title>
+<link>https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach</link>
+<guid isPermaLink="false">69e867673d3f62844532a5a6126a037aff9461754aa30612c157cfdb2d4e10d1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
+<description>The Eiliko robot toy. | Photo by Sean Hollister / The Verge Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare . It told owners that "your secrets are safe with me," but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning . The Verge and security researcher Sammy Azdoufal spent over a month trying to get in contact with the company, including emails to Energize Lab CEO and founder Shaw Yeung. Nobody would answer our questions. Now, the company is finally breaking its silence, though its response leaves something to be desired. View Link "We have confirmed the core issues ide … Read the full story at The Verge.</description>
+<dc:creator>Sean Hollister</dc:creator>
+<content:encoded>The Eiliko robot toy. | Photo by Sean Hollister / The Verge Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare . It told owners that "your secrets are safe with me," but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning . The Verge and security researcher Sammy Azdoufal spent over a month trying to get in contact with the company, including emails to Energize Lab CEO and founder Shaw Yeung. Nobody would answer our questions. Now, the company is finally breaking its silence, though its response leaves something to be desired. View Link "We have confirmed the core issues ide … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid</title>
+<link>https://www.wired.com/story/microsoft-surface-buying-guide</link>
+<guid isPermaLink="false">5f2bc7c758e1ae167d2972856b58ea2751629ac2d34d7a108a7e1592369f796c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
+<description>With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy.</description>
+<dc:creator>Luke Larsen</dc:creator>
+<content:encoded>With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad8bdd4ba3e5597384c8379/master/pass/update%20best%20surface%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad8bdd4ba3e5597384c8379/master/pass/update%20best%20surface%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
 <title>Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization</title>
 <link>https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization</link>
 <guid isPermaLink="false">3af0ccbbb60a0689bac94fd59996bf7f4a812ab94a26f980ae28282c9e963dc5</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 10:43:13 +0000</pubDate>
-<description>An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less Personalized Ads models at the beginning of this year.</description>
+<description>An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less-Personalized Ads models at the beginning of this year.</description>
 <dc:creator>Isabella Ward</dc:creator>
-<content:encoded>An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less Personalized Ads models at the beginning of this year.</content:encoded>
+<content:encoded>An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less-Personalized Ads models at the beginning of this year.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad9d068ec7a57895da5d773/master/pass/GettyImages-2296209094.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad9d068ec7a57895da5d773/master/pass/GettyImages-2296209094.jpg" medium="image"/>
 </item>
@@ -140,9 +179,9 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 08:40:42 +0000</pubDate>
-<description>Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Business live – latest updates Barclays is cutting 5,000 jobs as part of wider cost-cutting plans that its bosses say are being driven by advances in AI. The job cuts will mean losing about 5% of the bank’s 93,000 global staff, with executives confirming they had already cut 1,000 workers since the start of the year. Continue reading...</description>
+<description>Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Business live – latest updates Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances in AI. The job cuts will mean losing about 5% of the bank’s 93,000 global staff, with executives confirming they had already cut 1,000 workers since the start of the year. Continue reading...</description>
 <dc:creator>Kalyeena Makortoff Banking correspondent</dc:creator>
-<content:encoded>Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Business live – latest updates Barclays is cutting 5,000 jobs as part of wider cost-cutting plans that its bosses say are being driven by advances in AI. The job cuts will mean losing about 5% of the bank’s 93,000 global staff, with executives confirming they had already cut 1,000 workers since the start of the year. Continue reading...</content:encoded>
+<content:encoded>Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Business live – latest updates Barclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances in AI. The job cuts will mean losing about 5% of the bank’s 93,000 global staff, with executives confirming they had already cut 1,000 workers since the start of the year. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/42ebdcc562c64f3843def3a9641e7ab414a3974a/503_509_4491_3595/master/4491.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9894c92b789a12a28896a61d77e32ebe" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/42ebdcc562c64f3843def3a9641e7ab414a3974a/503_509_4491_3595/master/4491.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9894c92b789a12a28896a61d77e32ebe" medium="image"/>
 </item>
@@ -678,19 +717,6 @@
 <content:encoded>Why use your smartphone when AI can do it for you? We’ve reached a new level of AI inanity with the launch of Opposable , a tool that taps, swipes, and types on Android phones and controls iPhones through a companion computer, sparing users the apparent burden of operating their own devices. If you don't want to update a calendar event, start a timer, or enable dark mode, you can apparently use an AI agent app on your computer (any client that supports MCP will do) to have Opposable do the thing for you on a connected phone. You could just do it on your computer, of course, but that’d require actually using your hands - like it’s some sort of baby’s toy . Lame. Opposable describes the purpose of its app as being to “give your AI thumbs” that allow an agent to open apps, read the screen, tap, and type, all while signed in to a device as the person too lazy to use a super-convenient technology themselves. As described in a blog post published by its creators Wednesday, Opposable's developers explain that its Android implementation uses accessibility services to inspect the screen, while screenshots provide visual input for an AI model. The model then decodes the images and figures out where it needs to tap on the screen in order to do whatever its user asked of it. The visual processing is handled by a vision-language model known as GUI-Owl 1.5 2B, running through llama.cpp, while tasks can be handled by either a paired desktop AI agent or an on-device agent that works without a desktop connection (the latter is available only on Android devices – iPhones require a companion computer, with a Mac beta available and a hardware-assisted Windows/Linux option also advertised). Even then, AI isn’t used for everything, with around 40 common tasks (setting an alarm, sending a text, switching Wi-Fi on or off) running as fixed code without an AI model involved. Opposable doesn’t appear to be particularly fast, however, and its accuracy is questionable too. Opposable’s website includes three different examples of tasks executed using its product, and none seem to merit using an AI over, you know, human hands. In one example, Claude Code over MCP is used to change the system’s theme to dark mode and then set a five-minute timer. This takes 50 seconds and requires 17 tool calls. In a second example using Claude Code and MCP, Opposable is asked to look up when Apollo 11 launched and who was on board, which takes just shy of two minutes. The number of tool calls isn’t mentioned, but the run cost is $0.44, which seems ridiculous when you can use your hands and figure it out for free. Hell, just asking Gemini or Siri right on a smartphone would return the answer faster and cheaper. Those half-a-buck requests to Opposable could add up pretty quickly if you’re lazy enough to justify its use. A third example shows a virtual Android device operating without a paired desktop agent, instead relying on the on-device agent that Opposable installs on Android phones. Opening the clock app and switching to the stopwatch tab takes it about 96 seconds, which is supposed to be impressive, apparently, as the company behind Opposable decided to showcase it on the thing’s website. As for Opposable’s ability to actually accomplish tasks, well, that’s not exactly a sure thing. “On eight tasks the model had never been tuned on, run on the emulator twice each, giving it the whole task succeeded 4 and 3 times,” the blog post notes. I’m pretty sure my brain and hands can do better without burning tokens to fail. “Giving it one subgoal at a time and checking each claimed success against the accessibility tree before the next subgoal succeeded 6 times in both rounds,” the blog continues - so even when it gets babysat each step of the way, it still only succeeds at three-quarters of tasks. Cool - that’s really going to free up all that time wasted setting timers and doing other mundane tasks on my handset. Why someone would install this on their Android device - which requires sideloading an APK and manually granting access to read and interact with the screen through accessibility settings - seems like a bit of a mystery. Opposable’s website even warns that it could be a security disaster: “whoever holds the token can operate the phone, so treat it like a password,” but still invites users to try. An argument could be made for using Opposable as an accessibility tool for people with difficulty using a smartphone, but this isn’t mentioned anywhere on its website. Opposable is instead billed as a way to “hand off the phone chores,” leaving users free to do something else - just not on the phone currently being slowly controlled by a clumsy AI. Sure, you could give your AI some virtual thumbs through Opposable, but … why? We reached out to the Opposable team to get an answer to that question, but didn’t hear back. ® UPDATED AT 03:25 UTC, OCTOBER 2026 to add that Opposable does not consider its product an accessibility tool. "We do not market it as an assistive tool, because we have not built it or tested it as one," a spokesperson told The Reg by email. "If people with disabilities find it useful, we want to hear from them and build for them." The spokesperson also explained why demos are so slow: "It shows our small model on the Android emulator, on a laptop CPU, with no help from the phone's hardware." When running on phone, Opposable apparently does rather better. However the outfit admits it has done only very limited testing, but is about to do more.</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5293471&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5293471&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Airbnb bans making guests do dishes and take out the trash</title>
-<link>https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update</link>
-<guid isPermaLink="false">6641c2ca418268d1037bde6e875d26486063ce81a16e01ed5505ee8d0fa52c57</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 19:54:00 +0000</pubDate>
-<description>Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy , which starts with reservations booked on or after November 20th, says hosts can't ask guests to "complete tasks that require significant effort or time, or would typically be performed by a cleaner." According to Airbnb, that includes: Dishes: Guests shouldn't be asked to wash and put away dishes, but you can ask them to put used dishes in the sink. Laundry: Guests shouldn't be asked to remove sheets from the bed or start a load of laundry, but yo … Read the full story at The Verge.</description>
-<dc:creator>Stevie Bonifield</dc:creator>
-<content:encoded>Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy , which starts with reservations booked on or after November 20th, says hosts can't ask guests to "complete tasks that require significant effort or time, or would typically be performed by a cleaner." According to Airbnb, that includes: Dishes: Guests shouldn't be asked to wash and put away dishes, but you can ask them to put used dishes in the sink. Laundry: Guests shouldn't be asked to remove sheets from the bed or start a load of laundry, but yo … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Xbox is previewing paid cloud gaming for players without Game Pass</title>
@@ -1499,19 +1525,6 @@
 <media:content url="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" medium="image"/>
 </item>
 <item>
-<title>She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family</title>
-<link>https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family</link>
-<guid isPermaLink="false">7b4f4d84b5324608b27d17b03e945d28cdaff727244e91077414a9cb5e0c4d19</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
-<description>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</description>
-<dc:creator>Joshuah Bearman, Owen Long</dc:creator>
-<content:encoded>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" medium="image"/>
-</item>
-<item>
 <title>The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More</title>
 <link>https://www.wired.com/gallery/best-hearing-aids</link>
 <guid isPermaLink="false">27d0be49bca567b709279cff7d9ce5f81336580d5f180c6c4fe18d384646bb15</guid>
@@ -1523,6 +1536,19 @@
 <content:encoded>These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" medium="image"/>
+</item>
+<item>
+<title>She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family</title>
+<link>https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family</link>
+<guid isPermaLink="false">7b4f4d84b5324608b27d17b03e945d28cdaff727244e91077414a9cb5e0c4d19</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+<description>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</description>
+<dc:creator>Joshuah Bearman, Owen Long</dc:creator>
+<content:encoded>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" medium="image"/>
 </item>
 <item>
 <title>The spec is the new code, so brush up on your prose, says Kaseya CTO</title>
@@ -1629,19 +1655,6 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
-<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ulta-coupon</link>
-<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
-<dc:creator>Boutayna Chokrane</dc:creator>
-<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
 <title>20% Off Sephora Promo Code | October 2026</title>
 <link>https://www.wired.com/story/sephora-promo-code</link>
 <guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
@@ -1653,6 +1666,19 @@
 <content:encoded>Earn more points on skincare purchases when you use our Sephora coupon.</content:encoded>
 <enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
+</item>
+<item>
+<title>Udemy Coupon Codes: 20% Off October 2026</title>
+<link>https://www.wired.com/story/udemy-promo-code</link>
+<guid isPermaLink="false">bdf16745c1dc381e10dcaac97140ef7acd4454b353e4aef36658bb375c37260f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
 </item>
 <item>
 <title>LG Promo Codes and Coupons for October 2026</title>
@@ -1681,17 +1707,17 @@
 <media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
 </item>
 <item>
-<title>Udemy Coupon Codes: 20% Off October 2026</title>
-<link>https://www.wired.com/story/udemy-promo-code</link>
-<guid isPermaLink="false">bdf16745c1dc381e10dcaac97140ef7acd4454b353e4aef36658bb375c37260f</guid>
+<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
+<link>https://www.wired.com/story/ulta-coupon</link>
+<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
+<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
+<dc:creator>Boutayna Chokrane</dc:creator>
+<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>Nervous ISPs replace Chrome as strange consumers of DNS resources</title>
@@ -1874,19 +1900,6 @@
 <content:encoded>Multiple ransomware groups, including Qilin and Inc, have been exploiting a high-severity authentication bypass bug in Palo Alto Networks' PAN-OS, with Unit 42 investigating attacks since early June across numerous industries, such as finance, healthcare, and manufacturing. CVE-2026-0257 affects PAN-OS GlobalProtect portals and gateways, potentially allowing attackers to bypass security restrictions and establish an unauthorized VPN connection. The security vendor first disclosed and patched the bug on May 13 and initially assigned it a medium-severity rating, saying it was aware of attempts to exploit it but had not observed any malicious exploitation. That assessment quickly changed, and by the end of the month, Rapid7 researchers said they observed successful exploitation across multiple customer environments dating back to at least May 17. On Monday, Palo Alto Networks’ consulting and incident response biz, Unit 42, said ransomware crews including Qilin and Inc continue to batter the CVE. “Attackers are leveraging this vulnerability to gain an initial foothold into corporate networks, subsequently bypassing multi-factor authentication (MFA) controls to establish a VPN session,” said Andy Piazza, a senior director of threat intelligence at Unit 42. After gaining initial access, the criminals move laterally across the networks using Remote Desktop Protocol and Server Message Block (SMB), dropping additional malware for credential harvesting and data theft before ultimately deploying ransomware, Piazza warned. In its ongoing investigations, Unit 42 has spotted the ransomware criminals infecting “numerous industries, including education, financial services, healthcare, high tech, hospitality, manufacturing, professional and legal services, government, transportation and logistics, utilities and energy, and wholesale and retail." Palo Alto Networks did not respond to The Register ’s inquiries about the attacks, including how many organizations have been infected. Additionally, ReliaQuest intel analysts warned that “multiple threat groups,” including Settra ransomware operators , are also exploiting the bug to gain initial access to corporate networks via unauthorized VPN sessions. “The most significant evolution in tactics, techniques and procedures (TTPs) following successful exploitation of CVE-2026-0257 is the direct pivot to the virtualization layer,” Piazza wrote. “In one notable case, attackers moved from the compromised VPN gateway to the vCenter management appliance. From there, they disabled security controls on ESXi hypervisors (execInstalledOnly) and used a custom tool to perform offline credential dumping directly against a domain controller's virtual disk (VMDK).” This allows the miscreants to bypass in-guest endpoint detection and response products, and represents “a highly sophisticated method” of stealing domain-wide credentials, he added. Unit 42 has also spotted criminals chaining this exploit for initial access with other vulnerabilities such as CVE-2023-27532 , which targets Veeam backup infrastructure. So if you haven’t already patched vulnerable PAN-OS software, do so now - and investigate whether attackers have already gained access to your network. Check Unit 42’s indicators of compromise to assist with threat-hunting activities.®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5304250&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5304250&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers</title>
-<link>https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption</link>
-<guid isPermaLink="false">75c5d0978f4b1472b793cdf2a8e91504955940e920863c271349e279cfad1559</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 16:50:31 +0000</pubDate>
-<description>Our dependence on internet services of a few key tech companies leaves us vulnerable to cloud failures, bugs and more, experts say It happened again. A power outage hit a datacentre in London , and things cascaded from there: multiple banking services faltered, court hearings were put on hold and patients reported temporary glitches on the NHS app. The datacentre in question was in Google’s europe-west2-b zone, one of more than a dozen “zones” that the US search giant maintains in Europe to service its clients. Continue reading...</description>
-<dc:creator>Aisha Down</dc:creator>
-<content:encoded>Our dependence on internet services of a few key tech companies leaves us vulnerable to cloud failures, bugs and more, experts say It happened again. A power outage hit a datacentre in London , and things cascaded from there: multiple banking services faltered, court hearings were put on hold and patients reported temporary glitches on the NHS app. The datacentre in question was in Google’s europe-west2-b zone, one of more than a dozen “zones” that the US search giant maintains in Europe to service its clients. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/e4455495e92ab881db19e16dd3af7a07cccb239f/167_0_1666_1333/master/1666.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e921caf2d6d458306b4932981d7da72" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/e4455495e92ab881db19e16dd3af7a07cccb239f/167_0_1666_1333/master/1666.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e921caf2d6d458306b4932981d7da72" medium="image"/>
 </item>
 <item>
 <title>Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'</title>
@@ -2186,19 +2199,6 @@
 <content:encoded>The internet told them Europe was a social paradise. Turns out the trains are awful, the health care isn’t free, and people can be really mean.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ab68ffabc7793cf754904bd/master/pass/Final_Art.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ab68ffabc7793cf754904bd/master/pass/Final_Art.jpg" medium="image"/>
-</item>
-<item>
-<title>This New Food Delivery App Could Be the Antidote to Menu Markups</title>
-<link>https://www.wired.com/story/olo-new-food-delivery-app-could-be-the-antidote-to-menu-markups</link>
-<guid isPermaLink="false">fa15611adfa6145ba83ca74b2fb1e310cb261c837cdc91b62965fba4ccb93bd6</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:15:00 +0000</pubDate>
-<description>By sticking to in-store menu prices and a flat 5 percent fee, Olo wants to take the sting out of ordering dinner.</description>
-<dc:creator>Reece Rogers</dc:creator>
-<content:encoded>By sticking to in-store menu prices and a flat 5 percent fee, Olo wants to take the sting out of ordering dinner.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad671268983de0c2300263d/master/pass/GettyImages-1408776216.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad671268983de0c2300263d/master/pass/GettyImages-1408776216.jpg" medium="image"/>
 </item>
 <item>
 <title>UK finance watchdog wants firms to report AI failures and close calls</title>
