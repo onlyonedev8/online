@@ -4,6 +4,45 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI</title>
+<link>https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai</link>
+<guid isPermaLink="false">d32270d19deaab9d8cbb412b8e3e62728e172748b2d3f291971c72475f199fce</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 01:13:01 +0000</pubDate>
+<description>Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificial intelligence to help write his novel C’était ça ou mourir (It Was Either That or Die). Orélien has denied allegations that he used AI on his breakthrough novel and, last week, Canadian publisher Les Éditions du Boréal said it was standing by the 38-year-old writer. Continue reading...</description>
+<dc:creator>Agence France-Presse</dc:creator>
+<content:encoded>Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificial intelligence to help write his novel C’était ça ou mourir (It Was Either That or Die). Orélien has denied allegations that he used AI on his breakthrough novel and, last week, Canadian publisher Les Éditions du Boréal said it was standing by the 38-year-old writer. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/593ae3d39388056aa07d530e1309848d610c3078/1027_0_6240_4994/master/6240.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29162b08f8db4f8fb65e9a3d1b32b0c3" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/593ae3d39388056aa07d530e1309848d610c3078/1027_0_6240_4994/master/6240.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29162b08f8db4f8fb65e9a3d1b32b0c3" medium="image"/>
+</item>
+<item>
+<title>Not impressed with Google Maps? Make Waze your default on Pixel – here’s how</title>
+<link>https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel</link>
+<guid isPermaLink="false">833dfe301e30e680c86ed3f02d0387abc0e2c2aea65aac515e5a9736ef88fef3</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 01:00:00 +0000</pubDate>
+<description>If you’re tired of Google Maps failing to get you where you need to go, set Waze as the default on your Pixel. I’ve finally figured out how.</description>
+<dc:creator>Jack Wallen</dc:creator>
+<content:encoded>If you’re tired of Google Maps failing to get you where you need to go, set Waze as the default on your Pixel. I’ve finally figured out how.</content:encoded>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/wazehero2.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/wazehero2.jpg" medium="image"/>
+</item>
+<item>
+<title>To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623</link>
+<guid isPermaLink="false">e6e86cbbb513854cd1f32d7393342773d5e5fd493a4d0be5b84b0701b195b8ed</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 00:54:33 +0000</pubDate>
+<description>Nvidia has decided that its future prospects rest on an improved silicon substrate and packing supply chain, so has dipped into its giant pile of cash to ensure it can get the parts it needs by ensuring its suppliers have the resources needed to play their small part in keeping the flow of GPUs and AI processors strong. It’s not unusual for manufacturers to invest in their suppliers, because it helps to create certainty and spread financial risk. For those deals to be announced at a major tech company’s conference – as Nvidia did at its Berlin GTC gabfest – is somewhat novel, suggesting the company feels the need to show investors it is working to ensure it can meet demand for its products, and that demand will persist for years. Several of Nvidia’s announcements pertained to silicon substrates, aka wafers. Whatever you call them, they’re blank, round, silicon slabs onto which chipmakers etch circuits. They’re made by companies that sell to foundries like TSMC and Intel, which then turn them into chips of various flavours. At GTC Berlin, Nvidia CEO Jensen Huang observed that demand for AI hardware is vast, but that “Capacity is the constraint.” Specifically, capacity for activities like building substrates, advanced silicon packaging, testing, and creating optical connectors. Big Green therefore plans to increase substrate capacity for its products by 2.5x over the next three years. To make that happen, Nvidia has added Samsung’s Electro-Mechanics business unit to its substrate supply chain. Samsung apparently has immediate capacity at a factory in South Korea and Nvidia intends to tap that now. The deal means that by 2028, about a quarter of Sammy’s substrate output will go to Nvidia. Nvidia already has a deal with Japanese substrate outfit IBIDEN. In Berlin, the GPU giant pointed to further expansion that will triple production at an IBIDEN plant. Taiwanese substrate player Unimicron is also benefiting from Nvidia’s generosity, in the form of a capacity reservation agreement and associated plant expansion plans. It’s not just wafers that Nvidia wants to tuck into. The company has also signed a capacity reservation with Korean silicon packaging player Amkor. Again, Big Green’s involvement will see its partner expand capacity, in this case by 300 percent. Nvidia says this deal “will support higher production volumes for current and next-generation platforms.” AI systems need speedy networks, and many players see optical connections as the best way to build systems capable of handling the data deluges modern workloads create and require. Nvidia has therefore hatched a plan to boost manufacturing capacity at optics outfit SPIL. Again, Big Green already has a deal with the company, but in Berlin it expanded that arrangement in the hope it expands production capacity 15x by mid-2027, then doubles that again by the end of 2028. All of which suggests that Nvidia believes the AI infrastructure boom has years left to run. ®</description>
+<dc:creator>Simon Sharwood</dc:creator>
+<content:encoded>Nvidia has decided that its future prospects rest on an improved silicon substrate and packing supply chain, so has dipped into its giant pile of cash to ensure it can get the parts it needs by ensuring its suppliers have the resources needed to play their small part in keeping the flow of GPUs and AI processors strong. It’s not unusual for manufacturers to invest in their suppliers, because it helps to create certainty and spread financial risk. For those deals to be announced at a major tech company’s conference – as Nvidia did at its Berlin GTC gabfest – is somewhat novel, suggesting the company feels the need to show investors it is working to ensure it can meet demand for its products, and that demand will persist for years. Several of Nvidia’s announcements pertained to silicon substrates, aka wafers. Whatever you call them, they’re blank, round, silicon slabs onto which chipmakers etch circuits. They’re made by companies that sell to foundries like TSMC and Intel, which then turn them into chips of various flavours. At GTC Berlin, Nvidia CEO Jensen Huang observed that demand for AI hardware is vast, but that “Capacity is the constraint.” Specifically, capacity for activities like building substrates, advanced silicon packaging, testing, and creating optical connectors. Big Green therefore plans to increase substrate capacity for its products by 2.5x over the next three years. To make that happen, Nvidia has added Samsung’s Electro-Mechanics business unit to its substrate supply chain. Samsung apparently has immediate capacity at a factory in South Korea and Nvidia intends to tap that now. The deal means that by 2028, about a quarter of Sammy’s substrate output will go to Nvidia. Nvidia already has a deal with Japanese substrate outfit IBIDEN. In Berlin, the GPU giant pointed to further expansion that will triple production at an IBIDEN plant. Taiwanese substrate player Unimicron is also benefiting from Nvidia’s generosity, in the form of a capacity reservation agreement and associated plant expansion plans. It’s not just wafers that Nvidia wants to tuck into. The company has also signed a capacity reservation with Korean silicon packaging player Amkor. Again, Big Green’s involvement will see its partner expand capacity, in this case by 300 percent. Nvidia says this deal “will support higher production volumes for current and next-generation platforms.” AI systems need speedy networks, and many players see optical connections as the best way to build systems capable of handling the data deluges modern workloads create and require. Nvidia has therefore hatched a plan to boost manufacturing capacity at optics outfit SPIL. Again, Big Green already has a deal with the company, but in Berlin it expanded that arrangement in the hope it expands production capacity 15x by mid-2027, then doubles that again by the end of 2028. All of which suggests that Nvidia believes the AI infrastructure boom has years left to run. ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=5304630&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5304630&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>YouTube says it isn’t testing hiding the dislike button</title>
 <link>https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos</link>
 <guid isPermaLink="false">1a23f2bd44d0b65b45fc6713b94f9f74cd0327713da396a1e242b019b63ace63</guid>
@@ -1317,17 +1356,30 @@
 <media:content url="https://i.guim.co.uk/img/media/9483c0b6ad81f5a1fd4e3f6e9910cbdca6feb3a8/456_0_4560_3648/master/4560.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2614de3e90decd414300b27cc6cd11aa" medium="image"/>
 </item>
 <item>
-<title>LG Promo Codes and Coupons for October 2026</title>
-<link>https://www.wired.com/story/lg-promo-code</link>
-<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
+<title>TurboTax Full Service Coupons This October 2026</title>
+<link>https://www.wired.com/story/turbotax-coupon</link>
+<guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
-<dc:creator>Harry Rabinowitz</dc:creator>
-<content:encoded>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
+<description>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
+</item>
+<item>
+<title>Home Depot Promo Codes: 30% Off in October 2026</title>
+<link>https://www.wired.com/story/home-depot-promo-code</link>
+<guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
 </item>
 <item>
 <title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
@@ -1356,30 +1408,17 @@
 <media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
 </item>
 <item>
-<title>TurboTax Full Service Coupons This October 2026</title>
-<link>https://www.wired.com/story/turbotax-coupon</link>
-<guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
+<title>LG Promo Codes and Coupons for October 2026</title>
+<link>https://www.wired.com/story/lg-promo-code</link>
+<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
-</item>
-<item>
-<title>Home Depot Promo Codes: 30% Off in October 2026</title>
-<link>https://www.wired.com/story/home-depot-promo-code</link>
-<guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
+<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
+<dc:creator>Harry Rabinowitz</dc:creator>
+<content:encoded>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
 </item>
 <item>
 <title>Udemy Coupon Codes: 20% Off October 2026</title>
@@ -2097,17 +2136,17 @@
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
-<title>Wayfair Coupons: Up to 80% Off October 2026</title>
-<link>https://www.wired.com/story/wayfair-promo-code</link>
-<guid isPermaLink="false">46b2d1d5338167151c44b18359199046c3084b4513d702d9ff550dd41e1c45ab</guid>
+<title>Mint Mobile Discounts for October 2026</title>
+<link>https://www.wired.com/story/mint-mobile-promo-code</link>
+<guid isPermaLink="false">b8f96101317d5d3aeee56f938d848113e17452daebaf04df30932d350ea9d27f</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" medium="image"/>
+<description>Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.</description>
+<dc:creator>Les Shu</dc:creator>
+<content:encoded>Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
 <title>‘David Beckham’ was briefly the world’s second-worst manga pirate</title>
@@ -2253,19 +2292,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_20261019_113609.jpg" medium="image"/>
 </item>
 <item>
-<title>Europe’s cloud sovereignty rules could do more harm than good</title>
-<link>https://www.theregister.com/off-prem/2026/10/19/europes-cloud-sovereignty-rules-could-do-more-harm-than-good/5303890</link>
-<guid isPermaLink="false">b9aabe18ab5142092d88d0e8d833b2ec35cd473761984afcff0360b1d01ce57a</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 16:35:00 +0000</pubDate>
-<description>Europe’s drive for cloud sovereignty is leading to member states favoring providers from their own nation instead of building a Europe-wide cloud services market, according to a report critical of the EU’s proposed Cloud and AI Development Act ( CADA ). A study by the European Centre for International Political Economy (ECIPE) looked at public cloud contracts in nine EU member states and found that every one that invoked the new vocabulary around “sovereignty” went to a domestic provider, rather than one based in another EU country. It says that European cloud procurement was already highly concentrated nationally before sovereignty became a key policy objective, based on analysis of 8,725 cloud-related procurement contracts between 2018 and 2025. Nearly all went to providers in the same country with negligible intra-EU cross-border competition. Furthermore, the report claims that those domestic wins often turn out to be from prime contractors that are relying on infrastructure provided by the big hyperscale operators, where sovereignty attaches to the nationality of the operator, not to the infrastructure layer on which the service depends. At issue is a conceptual confusion over cloud sovereignty, which is being used to represent two different problems, according to ECIPE. One treats sovereignty as a security and resilience objective, securing data and managing risks. Sovereignty here means that the user has choices over the provider and design of their cloud service needs. The second treats sovereignty as an industrial policy objective, where sovereignty is more about the notion of Europe-headquartered firms becoming more successful if they are not exposed to competition with non-European providers. CADA includes the two different logics and, confusingly, aims to achieve both outcomes, the report states. The legislation frames the four European Union assurance levels as criteria for security, resilience and trustworthy cloud provision, but the criteria actually aim to enforce sovereignty through requirements concerning EU-located infrastructure, restrictions on third-country control, and control over software supply chains. The goal of cloud sovereignty is therefore at risk of becoming a vehicle for policies that favor selected providers, restrict competition and fragment digital markets, ECIPE warns. Instead of allowing pan-European rivals for the big US cloud providers to grow and flourish, the framework may thus have the opposite effect in encouraging member states to favor providers within their own borders, leading to fragmentation across Europe. A more coherent approach would keep the resilience objectives, but temper their use through technological neutrality requirements that preserve interoperability, portability, and multi-cloud options, the report authors state. It makes a number of policy recommendations, including defining sovereignty as a demonstrated outcome, not an ownership status. “Real sovereignty means a public buyer can sh</description>
-<dc:creator>Dan Robinson</dc:creator>
-<content:encoded>Europe’s drive for cloud sovereignty is leading to member states favoring providers from their own nation instead of building a Europe-wide cloud services market, according to a report critical of the EU’s proposed Cloud and AI Development Act ( CADA ). A study by the European Centre for International Political Economy (ECIPE) looked at public cloud contracts in nine EU member states and found that every one that invoked the new vocabulary around “sovereignty” went to a domestic provider, rather than one based in another EU country. It says that European cloud procurement was already highly concentrated nationally before sovereignty became a key policy objective, based on analysis of 8,725 cloud-related procurement contracts between 2018 and 2025. Nearly all went to providers in the same country with negligible intra-EU cross-border competition. Furthermore, the report claims that those domestic wins often turn out to be from prime contractors that are relying on infrastructure provided by the big hyperscale operators, where sovereignty attaches to the nationality of the operator, not to the infrastructure layer on which the service depends. At issue is a conceptual confusion over cloud sovereignty, which is being used to represent two different problems, according to ECIPE. One treats sovereignty as a security and resilience objective, securing data and managing risks. Sovereignty here means that the user has choices over the provider and design of their cloud service needs. The second treats sovereignty as an industrial policy objective, where sovereignty is more about the notion of Europe-headquartered firms becoming more successful if they are not exposed to competition with non-European providers. CADA includes the two different logics and, confusingly, aims to achieve both outcomes, the report states. The legislation frames the four European Union assurance levels as criteria for security, resilience and trustworthy cloud provision, but the criteria actually aim to enforce sovereignty through requirements concerning EU-located infrastructure, restrictions on third-country control, and control over software supply chains. The goal of cloud sovereignty is therefore at risk of becoming a vehicle for policies that favor selected providers, restrict competition and fragment digital markets, ECIPE warns. Instead of allowing pan-European rivals for the big US cloud providers to grow and flourish, the framework may thus have the opposite effect in encouraging member states to favor providers within their own borders, leading to fragmentation across Europe. A more coherent approach would keep the resilience objectives, but temper their use through technological neutrality requirements that preserve interoperability, portability, and multi-cloud options, the report authors state. It makes a number of policy recommendations, including defining sovereignty as a demonstrated outcome, not an ownership status. “Real sovereignty means a public buyer can show its data is secure and that it can switch provider if it has to. A provider’s passport does not tell you that”, said ECIPE Director and co-author of the study, Fredrik Erixon. “Europe’s cloud market is already national in practice. CADA risks locking that in.” Vague drafting But not everyone might agree. Earlier this year, tech trade association CISPE (Cloud Infrastructure Service Providers in Europe) urged the European Commission to legislate for real tech sovereignty, rather than the illusion of it. It argued that sovereignty must be defined by control, not by whether a provider merely has an EU presence, and that means effective ownership of the underlying technology and protection from extraterritorial laws like the US CLOUD Act, under which Washington can compel American tech companies such as the big cloud operators, to hand over any data they hold, including data stored overseas. The same group had earlier warned that the EC’s criteria for cloud sovereignty had been drafted so vaguely as to favor incumbents – meaning the big American operators that already dominate Europe's cloud market. ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5229675&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5229675&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff</title>
 <link>https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff</link>
 <guid isPermaLink="false">64c462c87525720e0c4e9dec4b82b637ae3de92e0a143cbda7af77b2e089ad88</guid>
@@ -2277,19 +2303,6 @@
 <content:encoded>Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informed Get our breaking news email , free app or daily news podcast Employers are increasingly using technology, from CCTV to keystroke monitoring, to track workers’ moves and it is being accelerated by the use of AI, the Human Technology Institute has warned. Examples provided to Guardian Australia by the institute include a fast-food restaurant using surveillance cameras to stop workers using their phones, and AI tracking leading to a cashier warned over making a mistake once every 533 scans. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/c2972d767784a668b4664e394a234487682599ea/497_0_5200_4160/master/5200.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d752a951bf2ae218f70042e646fe2ede" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/c2972d767784a668b4664e394a234487682599ea/497_0_5200_4160/master/5200.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d752a951bf2ae218f70042e646fe2ede" medium="image"/>
-</item>
-<item>
-<title>AI firm Anthropic to commit 5% of shares to fund for ‘public good’</title>
-<link>https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good</link>
-<guid isPermaLink="false">eddb5d017fd2cee9119b22d2011a18c91535a37436cd05ca93f2689c6c54f09c</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 12:51:04 +0000</pubDate>
-<description>The $48bn giveaway comes amid concerns about the tech and as the company prepares for a stock market listing Anthropic has said it will commit 5% of its shares to a fund for the “public good”, as the AI developer behind the Claude chatbot seeks to bolster its appeal before its stock market listing. The company announced it would commit the shares, worth around $48bn (£36bn) at its latest valuation in May, subject to shareholder approval. It will add a further 2% of its stock to the fund for every 50% increase in its value above an undisclosed baseline. Continue reading...</description>
-<dc:creator>Lauren Almeida</dc:creator>
-<content:encoded>The $48bn giveaway comes amid concerns about the tech and as the company prepares for a stock market listing Anthropic has said it will commit 5% of its shares to a fund for the “public good”, as the AI developer behind the Claude chatbot seeks to bolster its appeal before its stock market listing. The company announced it would commit the shares, worth around $48bn (£36bn) at its latest valuation in May, subject to shareholder approval. It will add a further 2% of its stock to the fund for every 50% increase in its value above an undisclosed baseline. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/2790d74966de266025ee31e1975f1f2ce9024d36/387_0_2915_2333/master/2915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c94595aa7819f9181ea96d8359e5f5d7" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/2790d74966de266025ee31e1975f1f2ce9024d36/387_0_2915_2333/master/2915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c94595aa7819f9181ea96d8359e5f5d7" medium="image"/>
 </item>
 <item>
 <title>Wikipedia often gets taken for granted – but its history is fascinating, and its future is fragile</title>
@@ -2472,19 +2485,6 @@
 <content:encoded>The move is a turning point in the developer’s relationship with AI and Linux.</content:encoded>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-10-13-at-1.27.55-PM.png" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-10-13-at-1.27.55-PM.png" medium="image"/>
-</item>
-<item>
-<title>Google lets you make personal Android apps for free now – with just prompts</title>
-<link>https://www.zdnet.com/tech/custom-android-apps-google-ai-studio</link>
-<guid isPermaLink="false">2a3791e45d58038a90f274fc7e1e6af0333efdf91933803d2b2c893fa03898b7</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 17:00:00 +0000</pubDate>
-<description>It just got a whole lot easier to vibe code the exact Android app you need – no developer experience required.</description>
-<dc:creator>Artie Beaty</dc:creator>
-<content:encoded>It just got a whole lot easier to vibe code the exact Android app you need – no developer experience required.</content:encoded>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg" medium="image"/>
 </item>
 <item>
 <title>Companies rushed in on AI. Now some are pulling back</title>
