@@ -4,6 +4,19 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Certification authority eMudhra defends its laughably weak private keys</title>
+<link>https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647</link>
+<guid isPermaLink="false">ff79d6a3046132053a20564c573b3817eeb6b0d20bc05c374125a174fde662b9</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 06:38:14 +0000</pubDate>
+<description>Indian certification authority eMudhra has defended the laughably weak private keys it used to sign some digital certificates it issued, and suggested others should share the blame for the incident. In case you’re coming to this one late, news broke yesterday that private keys the company used to sign certs were beyond weak: one was literally just the number “4,” and several others were short strings of easily guessed two-or-three-digit numbers. It’s easy to deduce the value of those keys, which makes it possible to forge certs and impersonate websites or other resources. That’s gold for scammers, phishers, and other miscreants. The entire infosec industry has pointed that out, urged swift adoption of better certs, and lamented the fact that implementing replacements will be a long and thankless task. eMudhra’s statement about the incident says it generated keys during “a Key Generation Ceremony (KGC) held on April 30, 2025, using FIPS 140-2 Level 3 Hardware Security Modules (HSMs).” Such hardware is the standard kit for the job and should in theory produce nicely complex keys and store them securely. But something went wrong. “A flaw in the KGC caused a wrap/unwrap step to produce a second set of weak keys alongside the original strong keys,” the statement claims. “The weak keys were the ones published to the browser root stores. eMudhra is working to establish the root cause.” The company then gets a tad defensive. “These roots and issuing CAs have gone through independent audits for two years in a row and have been in browser trust lists since mid-2025,” the statement adds, seemingly shifting some blame to auditors and other stakeholders. The announcement then points out that eMudhra’s TLS business generates just one percent of its revenue, meaning this mess won’t impact its bottom line too much. That’s nice to know for the company’s investors but rather misses the point that whoever relies on the company now has an urgent, unwanted, and costly job to do replacing certs. “eMudhra is working directly with customers who may be affected to give them replacement certificates, so that critical services are not disrupted. The company is also working with the root programs and continues its root-cause investigation,” the statement adds. The company allows that the incident “may have some reputational risks on eMudhra which cannot be quantified.” Ya think? ®</description>
+<dc:creator>Simon Sharwood</dc:creator>
+<content:encoded>Indian certification authority eMudhra has defended the laughably weak private keys it used to sign some digital certificates it issued, and suggested others should share the blame for the incident. In case you’re coming to this one late, news broke yesterday that private keys the company used to sign certs were beyond weak: one was literally just the number “4,” and several others were short strings of easily guessed two-or-three-digit numbers. It’s easy to deduce the value of those keys, which makes it possible to forge certs and impersonate websites or other resources. That’s gold for scammers, phishers, and other miscreants. The entire infosec industry has pointed that out, urged swift adoption of better certs, and lamented the fact that implementing replacements will be a long and thankless task. eMudhra’s statement about the incident says it generated keys during “a Key Generation Ceremony (KGC) held on April 30, 2025, using FIPS 140-2 Level 3 Hardware Security Modules (HSMs).” Such hardware is the standard kit for the job and should in theory produce nicely complex keys and store them securely. But something went wrong. “A flaw in the KGC caused a wrap/unwrap step to produce a second set of weak keys alongside the original strong keys,” the statement claims. “The weak keys were the ones published to the browser root stores. eMudhra is working to establish the root cause.” The company then gets a tad defensive. “These roots and issuing CAs have gone through independent audits for two years in a row and have been in browser trust lists since mid-2025,” the statement adds, seemingly shifting some blame to auditors and other stakeholders. The announcement then points out that eMudhra’s TLS business generates just one percent of its revenue, meaning this mess won’t impact its bottom line too much. That’s nice to know for the company’s investors but rather misses the point that whoever relies on the company now has an urgent, unwanted, and costly job to do replacing certs. “eMudhra is working directly with customers who may be affected to give them replacement certificates, so that critical services are not disrupted. The company is also working with the root programs and continues its root-cause investigation,” the statement adds. The company allows that the incident “may have some reputational risks on eMudhra which cannot be quantified.” Ya think? ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=188286&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=188286&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>AI firms say UK has a year to head off datacentre protests before construction is threatened</title>
 <link>https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened</link>
 <guid isPermaLink="false">0d706251c10a87aa5bac575c1c8b22815daf79176f06b123ab4a364c7a371ce6</guid>
@@ -1434,32 +1447,6 @@
 <media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
 </item>
 <item>
-<title>Udemy Coupon Codes: 20% Off October 2026</title>
-<link>https://www.wired.com/story/udemy-promo-code</link>
-<guid isPermaLink="false">bdf16745c1dc381e10dcaac97140ef7acd4454b353e4aef36658bb375c37260f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
-</item>
-<item>
-<title>20% Off Sephora Promo Code | October 2026</title>
-<link>https://www.wired.com/story/sephora-promo-code</link>
-<guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Earn more points on skincare purchases when you use our Sephora coupon.</description>
-<dc:creator>Louryn Strampe</dc:creator>
-<content:encoded>Earn more points on skincare purchases when you use our Sephora coupon.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
-</item>
-<item>
 <title>LG Promo Codes and Coupons for October 2026</title>
 <link>https://www.wired.com/story/lg-promo-code</link>
 <guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
@@ -1484,6 +1471,32 @@
 <content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
 <enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
+</item>
+<item>
+<title>20% Off Sephora Promo Code | October 2026</title>
+<link>https://www.wired.com/story/sephora-promo-code</link>
+<guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Earn more points on skincare purchases when you use our Sephora coupon.</description>
+<dc:creator>Louryn Strampe</dc:creator>
+<content:encoded>Earn more points on skincare purchases when you use our Sephora coupon.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
+</item>
+<item>
+<title>Udemy Coupon Codes: 20% Off October 2026</title>
+<link>https://www.wired.com/story/udemy-promo-code</link>
+<guid isPermaLink="false">bdf16745c1dc381e10dcaac97140ef7acd4454b353e4aef36658bb375c37260f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
 </item>
 <item>
 <title>Nervous ISPs replace Chrome as strange consumers of DNS resources</title>
@@ -1954,19 +1967,6 @@
 <media:content url="https://image.theregister.com/?imageId=5235229&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Sexual Assault Is a Free Speech Issue</title>
-<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
-<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
-<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
-<dc:creator>Ej Dickson</dc:creator>
-<content:encoded>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
-</item>
-<item>
 <title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
 <link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
 <guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
@@ -1978,6 +1978,19 @@
 <content:encoded>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
+</item>
+<item>
+<title>Sexual Assault Is a Free Speech Issue</title>
+<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
+<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
+<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
+<dc:creator>Ej Dickson</dc:creator>
+<content:encoded>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
 </item>
 <item>
 <title>Organic Mattress Sale: 20 Percent Off Essentia Beds</title>
@@ -2162,19 +2175,6 @@
 <media:content url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" medium="image"/>
 </item>
 <item>
-<title>Mattress Firm Coupons: Save up to $700</title>
-<link>https://www.wired.com/story/mattress-firm-coupon</link>
-<guid isPermaLink="false">49e4bd56c5dc54dae8ed21f5dcc8ee34721f0bfa88c216b825eab03564e80254</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</description>
-<dc:creator>Nena Farrell</dc:creator>
-<content:encoded>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
 <title>Mint Mobile Discounts for October 2026</title>
 <link>https://www.wired.com/story/mint-mobile-promo-code</link>
 <guid isPermaLink="false">b8f96101317d5d3aeee56f938d848113e17452daebaf04df30932d350ea9d27f</guid>
@@ -2186,6 +2186,19 @@
 <content:encoded>Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.</content:encoded>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>Mattress Firm Coupons: Save up to $700</title>
+<link>https://www.wired.com/story/mattress-firm-coupon</link>
+<guid isPermaLink="false">49e4bd56c5dc54dae8ed21f5dcc8ee34721f0bfa88c216b825eab03564e80254</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</description>
+<dc:creator>Nena Farrell</dc:creator>
+<content:encoded>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>‘David Beckham’ was briefly the world’s second-worst manga pirate</title>
@@ -2277,19 +2290,6 @@
 <content:encoded>To feed its Indiana datacenters with plenty of juice, Amazon is funding the development of a new nuclear facility that will provide nearly 1 gigawatt of power. However, we'll have to see if this happens anytime soon, given the immature technology it's using. Amazon said on Monday that it was funding the project with an undisclosed amount of cash as part of an expansion of its existing deal with X-energy , a next-generation nuclear power startup focusing on building small modular reactors (SMRs) powered by Tri-Structural ISOtropic (TRISO) fuel pellets and cooled by helium gas. Amazon would tell us only that it’s “investing billions in nuclear energy projects” without getting specific on this project. According to X-energy, the project will see Amazon fund the development of 12 of those SMRs, its Xe-100 model, in Sullivan County, Indiana, at the site of a former coal power plant. Once up and running, the facility will supply 960 megawatts of grid-connected electricity, with Amazon contracting as the first power purchaser from the future plant. As for when it might come online, that’s anyone’s guess. Amazon wouldn’t tell us, only pointing us to an article in Indiana newspaper the South Bend Tribune in which an X-energy representative said it could be completed “as early as the mid-2030s,” though “the timeline could change the further the project gets developed.” That’s quite likely given X-energy’s current status and the state of next-generation nuclear power more generally, and to understand why it helps to understand how nuclear permitting works in the US. First off, despite the promises , hype , and mountains of cash poured into nuclear power by the tech industry, the US has yet to build a single operable SMR. China and Russia have built functional SMRs. A single experimental unit has achieved criticality in the US, but it’s not a functional, power-producing reactor and was only built to demonstrate the ability for a specific design to become one. The company with that experimental US SMR is not X-energy, who has yet to build a working reactor. As to how reactors get approved in the US, there are two pathways that nuclear power companies can pursue: One is to get a standard design approval from the Nuclear Regulatory Commission (NRC). That pathway gives a company license to build a reactor of a specific model wherever they want, as the design has been deemed safe independent of any physical site. That means the certified reactor can be sold and built without the need for the NRC to recertify the core design each time a project gets underway. There is only one company in the US that has a standard design approval for an SMR: Nuscale , which has yet to build a single reactor, has no projects under construction, and has already abandoned a Utah plant due to lack of interest from power distributors. The other option allows SMR developers to get approval for a site-specific project, which is quicker and involves the NRC blessing a particular reactor in a particular place. There have been several of those permits awarded, with Kairos Power being approved to build an SMR in Oak Ridge, Tennessee in partnership with Google, General Electric planning another SMR in Oak Ridge, and TerraPower inching forward with its own project in Wyoming despite delays . Notice X-energy isn’t mentioned there, either. The company claims that it’s in “the final phases” of NRC approval for a construction permit in Texas , where it’ll supply power for a Dow Chemical manufacturing plant, but that likely won’t matter too much for the Indiana project’s timeline. As mentioned above, nuclear construction permits are site specific, and the Texas plant only involves four reactors - far fewer than the 12 planned in Indiana. X-energy didn’t respond to questions for this story, but Amazon told us it's not going to be involved in any way with getting approval across the finish line for the Indiana plant. “Amazon's role is as an investor … as well as committing to being the first customer for power produced from the facility,” a company spokesperson told us. “New technologies like this often need initial customers to help de-risk projects and provide funding so they can be built and scaled to commercial availability, and that is the role Amazon is playing by helping to fund the project's development.” Like other large, ambitious next-generation nuclear projects, in other words, this one is just as much in the maybe column as the rest. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5303977&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5303977&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Maxwell gives sub-optimal code a runtime glow-up</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/19/maxwell-gives-sub-optimal-code-a-runtime-glow-up/5303961</link>
-<guid isPermaLink="false">dd225e5b86166549478cf317604f6288a92d1612ad73b1a0ef12ae16eb192c65</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 19:57:49 +0000</pubDate>
-<description>It may not be enough to just use LLMs to write your code when you can also use them to adjust it while your program runs. DoubleAI, a Tel Aviv, Israel-based startup founded in 2023, on Monday introduced Maxwell , a code execution model (CEM) that evaluates, optimizes, and rewrites binary code during execution. Named for Maxwell's Demon , a creature imagined by physicist and mathematician James Clerk Maxwell in 1867 as part of a thought experiment on entropy, the Maxwell CEM preprocesses algorithms and machine instructions to maximize performance on available hardware. Maxwell is similar in concept to a just-in-time compiler, but provides more flexibility and formally verifies the equivalence of replacement code. Source code isn't touched. "Both Maxwell and a JIT compiler work while the program runs and both produce new machine code," said doubleAI co-founder Gal Beniamini, who holds a PhD in theoretical computer science, in an email to The Register . "The difference is that a compiler can't do high-level reasoning. It can't, for example, change the algorithm. Maxwell can and does. "One of the reasons why JIT compilers are so narrow is that, even though they can be data-dependent, the changes they make must be deterministic and correct 'by construction,' since JIT compilers are 'unthinking' classical algorithms. "Maxwell brings the expressive power of frontier AI into the 'JIT' setting. In addition, Maxwell relies on formal verification to write actual, hard proofs that show that its optimizations are sound. This expands the scope of its allowed optimisation far beyond that of any algorithm or compiler." Beniamini pointed to sorting as an example. The compiler, he said, will make a general-purpose sorting algorithm run as fast as it can, but it won't swap it out for a different algorithm. Compilers, said Beniamini, make decisions before the program runs and have to be narrow and conservative in their choices. Maxwell, he said, works with more information, isn't just a one-pass operation, and operates at a higher level. "It sees the exact hardware the program has landed on, and the actual shapes and types of the data flowing through it (information that is only available during runtime!)," Beniamini explained. "It also sees the state of the environment, what else is running in the same program, and which actual bottlenecks express themselves, and under which conditions. This allows it to specialize in ways a compiler never can." Since Maxwell operates continuously, it can keep improving programs as new bottlenecks arise. And it can "reason" in a way that compilers cannot. Maxwell's approach wouldn't be possible if the model rewrote code in a way that introduced errors on the fly, so the formal proof capability is not optional. According to doubleAI, Maxwell has made data pipelines more than 38x faster and AI inference kernels more than 4.5x faster. LTX-2.5 , an open world model that generates 4K video, managed to do so almost twice as fast with the</description>
-<dc:creator>Thomas Claburn</dc:creator>
-<content:encoded>It may not be enough to just use LLMs to write your code when you can also use them to adjust it while your program runs. DoubleAI, a Tel Aviv, Israel-based startup founded in 2023, on Monday introduced Maxwell , a code execution model (CEM) that evaluates, optimizes, and rewrites binary code during execution. Named for Maxwell's Demon , a creature imagined by physicist and mathematician James Clerk Maxwell in 1867 as part of a thought experiment on entropy, the Maxwell CEM preprocesses algorithms and machine instructions to maximize performance on available hardware. Maxwell is similar in concept to a just-in-time compiler, but provides more flexibility and formally verifies the equivalence of replacement code. Source code isn't touched. "Both Maxwell and a JIT compiler work while the program runs and both produce new machine code," said doubleAI co-founder Gal Beniamini, who holds a PhD in theoretical computer science, in an email to The Register . "The difference is that a compiler can't do high-level reasoning. It can't, for example, change the algorithm. Maxwell can and does. "One of the reasons why JIT compilers are so narrow is that, even though they can be data-dependent, the changes they make must be deterministic and correct 'by construction,' since JIT compilers are 'unthinking' classical algorithms. "Maxwell brings the expressive power of frontier AI into the 'JIT' setting. In addition, Maxwell relies on formal verification to write actual, hard proofs that show that its optimizations are sound. This expands the scope of its allowed optimisation far beyond that of any algorithm or compiler." Beniamini pointed to sorting as an example. The compiler, he said, will make a general-purpose sorting algorithm run as fast as it can, but it won't swap it out for a different algorithm. Compilers, said Beniamini, make decisions before the program runs and have to be narrow and conservative in their choices. Maxwell, he said, works with more information, isn't just a one-pass operation, and operates at a higher level. "It sees the exact hardware the program has landed on, and the actual shapes and types of the data flowing through it (information that is only available during runtime!)," Beniamini explained. "It also sees the state of the environment, what else is running in the same program, and which actual bottlenecks express themselves, and under which conditions. This allows it to specialize in ways a compiler never can." Since Maxwell operates continuously, it can keep improving programs as new bottlenecks arise. And it can "reason" in a way that compilers cannot. Maxwell's approach wouldn't be possible if the model rewrote code in a way that introduced errors on the fly, so the formal proof capability is not optional. According to doubleAI, Maxwell has made data pipelines more than 38x faster and AI inference kernels more than 4.5x faster. LTX-2.5 , an open world model that generates 4K video, managed to do so almost twice as fast with the help of Maxwell. Maxwell's optimizations reduced the data being exchanged between GPUs and optimized the kernel selection to drop unnecessary token padding. Maxwell's optimization capability varies depending on the source code and the hardware. "Maxwell does best on code that is algorithmic, and which can be tailored to hardware in a non-trivial manner," said Beniamini. "That being said, even code that isn't like that, but is written in a high level language like Python, can usually enjoy far reaching optimisations due to the available overhang. The same is true for PyTorch graphs, which (even under Torch's compiler) tend to be extremely far from optimal." It can also help with code security. Beniamini said Maxwell can eliminate issues like memory errors by proving their non-existence as part of the formalization process. "Anecdotally, we have found such issues in Python itself, through the use of Maxwell – i.e., cases in which Python was not memory safe, and where Maxwell proved that to be the case," he said. And better still, Maxwell's tracing and profiling don't incur much if any overhead on either the CPU or GPU. "The maximal overhead of Maxwell's tracing and profiling is 2 percent (when it isn't tracing, that falls to zero, of course), and the optimisations that Maxwell yields far outweigh that," said Beniamini. "We also apply Maxwell to the runtime itself, so that we get back a much larger than 2 percent 'flat' speedup, across the board. So in short: it's never slower." The installation process is similarly light-touch: Devs install the runtime and run their code, with the Maxwell model hosted by doubleAI. This arrangement, however, does require some amount of trust. Amnon Shashua, co-founder and CEO of doubleAI, founder and departing CEO of Mobileye and a professor of computer science at the Hebrew University of Jerusalem, said in a statement that AI has changed how software is written and now is changing how it runs. "CEMs, and Maxwell in particular, are agents on behalf of the hardware as opposed to code agents that are on behalf of the human user," he said. "In other words, they are the first AI that works for the machine, not the programmer." ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5303967&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5303967&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>How to find Flock cameras near you with MapQuest’s new ‘surveillance layer’</title>
