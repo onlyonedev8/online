@@ -4,6 +4,19 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>&lt;a href="https://news.sky.com/video/why-is-poland-reopening-cold-war-bunkers-13601040"&gt;Poland: Preparing for the worst as Moscow tensions rise&lt;/a&gt;</title>
+<link>https://news.sky.com/story/poland-preparing-for-the-worst-as-moscow-tensions-rise-13602123</link>
+<guid isPermaLink="false">13b8fe333c5dc971181e06f685da43ca4dd42642508e4e67775745a7f315b86d</guid>
+<source>Sky News World</source>
+<category>world</category>
+<pubDate>Thu, 22 Oct 2026 05:40:00 +0000</pubDate>
+<description></description>
+<dc:creator></dc:creator>
+<content:encoded>Read the full story at Sky News World.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-ivor-bennet-poland_7380971.jpg?20261019184800" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-ivor-bennet-poland_7380971.jpg?20261019184800" medium="image"/>
+</item>
+<item>
 <title>Democrats sue Trump administration over alleged election pressure campaign</title>
 <link>https://abcnews.com/Politics/democrats-sue-trump-administration-alleged-election-pressure-campaign/story?id=137463447</link>
 <guid isPermaLink="false">0932cb422fc8bada37443eaa1e583b1946d46f86448ad008af664b7afad8cda1</guid>
@@ -43,28 +56,28 @@
 <media:content url="https://s.abcnews.com/images/Entertainment/261021_abc_newone_dolly_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>'Wider wave of attacks' feared as 'critical' flaw hits websites worldwide</title>
+<title>'Millions' of exploitation attempts as 'critical' flaw hits websites</title>
 <link>https://news.sky.com/story/disruption-from-critical-flaw-in-websites-could-spread-in-coming-days-experts-warn-13602102</link>
 <guid isPermaLink="false">a4a7906a84af93a4bd9e078263fd729bd2b379a886d3e42626868585dc4dd7d9</guid>
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Thu, 22 Oct 2026 02:00:00 +0000</pubDate>
-<description>Disruption from a "critical" flaw that led to websites around the world being taken down could become "more widespread", an expert had told Sky News.</description>
+<description>There have been "millions" of exploitation attempts since a "critical" security flaw affecting websites around the world emerged, according to a major tech company.</description>
 <dc:creator></dc:creator>
-<content:encoded>Disruption from a "critical" flaw that led to websites around the world being taken down could become "more widespread", an expert had told Sky News.</content:encoded>
+<content:encoded>There have been "millions" of exploitation attempts since a "critical" security flaw affecting websites around the world emerged, according to a major tech company.</content:encoded>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-ha-hacker-computer_7382912.jpg?20261021145111" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-ha-hacker-computer_7382912.jpg?20261021145111" medium="image"/>
 </item>
 <item>
-<title>Russian missiles hit Kyiv as Moscow signals readiness for peace talks</title>
+<title>Russia and Ukraine trade strikes overnight as Moscow signals readiness for peace talks</title>
 <link>https://www.france24.com/en/europe/20261022-russia-missiles-kyiv-ukraine-peace-talks</link>
 <guid isPermaLink="false">f80fffbbf2e8fb630bf68b7c30e609fb4d56b8dab5f47dec38b9716b7c7c758f</guid>
 <source>France 24</source>
 <category>world</category>
 <pubDate>Thu, 22 Oct 2026 01:51:03 +0000</pubDate>
-<description>Russian missiles struck Kyiv overnight, wounding six people and forcing residents into shelters, Ukrainian authorities said Thursday, hours after Moscow signalled readiness to resume US-mediated peace talks. President Donald Trump said negotiations were closer than ever to ending the war, though the Kremlin expressed doubts over Ukrainian and European proposals.</description>
+<description>Russia and Ukraine traded major drone and missile strikes on each other's capitals overnight, hours after Moscow signalled readiness to resume US-mediated peace talks. President Donald Trump said negotiations were closer than ever to ending the war, though the Kremlin expressed doubts over Ukrainian and European proposals.</description>
 <dc:creator>FRANCE 24</dc:creator>
-<content:encoded>Russian missiles struck Kyiv overnight, wounding six people and forcing residents into shelters, Ukrainian authorities said Thursday, hours after Moscow signalled readiness to resume US-mediated peace talks. President Donald Trump said negotiations were closer than ever to ending the war, though the Kremlin expressed doubts over Ukrainian and European proposals.</content:encoded>
+<content:encoded>Russia and Ukraine traded major drone and missile strikes on each other's capitals overnight, hours after Moscow signalled readiness to resume US-mediated peace talks. President Donald Trump said negotiations were closer than ever to ending the war, though the Kremlin expressed doubts over Ukrainian and European proposals.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/bf71a96e-cb7f-11f1-8810-6313a763b466/w:1024/p:16x9/2026-10-18T235422Z-1304641961-RC2X5OA93ZJS-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/bf71a96e-cb7f-11f1-8810-6313a763b466/w:1024/p:16x9/2026-10-18T235422Z-1304641961-RC2X5OA93ZJS-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg" medium="image"/>
 </item>
@@ -134,15 +147,15 @@
 <media:content url="https://s.abcnews.com/images/US/univ-chicago-1-ap-jef-261021_1792596324817_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win</title>
+<title>Real Madrid thrash RB Leipzig as Mbappé scores in Champions League win</title>
 <link>https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win</link>
 <guid isPermaLink="false">235cb4115e6cf66c9c06154a4d893676f82bcc3672c3fa882e932bbaca91537f</guid>
 <source>France 24</source>
 <category>world</category>
 <pubDate>Thu, 22 Oct 2026 00:11:37 +0000</pubDate>
-<description>Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappe and Yan Diomande scored for Jose Mourinho’s side, while Tidiam Gomis replied for Leipzig. Mbappe has scored in all three European matches this season, taking his tally to 12 goals.</description>
+<description>Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappé and Yan Diomande scored for Jose Mourinho’s side, while Tidiam Gomis replied for Leipzig. Mbappé has scored in all three European matches this season, taking his tally to 12 goals.</description>
 <dc:creator>FRANCE 24</dc:creator>
-<content:encoded>Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappe and Yan Diomande scored for Jose Mourinho’s side, while Tidiam Gomis replied for Leipzig. Mbappe has scored in all three European matches this season, taking his tally to 12 goals.</content:encoded>
+<content:encoded>Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappé and Yan Diomande scored for Jose Mourinho’s side, while Tidiam Gomis replied for Leipzig. Mbappé has scored in all three European matches this season, taking his tally to 12 goals.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/5d6d175e-cd9a-11f1-b2ae-4da0d2c6855d/w:1024/p:16x9/AFP-20261021-D3ZX7Z4-v1-HighRes-FblEurC1RealMadridLeipzig.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/5d6d175e-cd9a-11f1-b2ae-4da0d2c6855d/w:1024/p:16x9/AFP-20261021-D3ZX7Z4-v1-HighRes-FblEurC1RealMadridLeipzig.jpg" medium="image"/>
 </item>
@@ -257,9 +270,9 @@
 <source>France 24</source>
 <category>world</category>
 <pubDate>Wed, 21 Oct 2026 21:21:41 +0000</pubDate>
-<description>A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech.”</description>
+<description>A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech".</description>
 <dc:creator>FRANCE 24</dc:creator>
-<content:encoded>A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech.”</content:encoded>
+<content:encoded>A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech".</content:encoded>
 <enclosure url="https://s.france24.com/media/display/16d2f3f4-cd8b-11f1-8bdc-19980254bb31/w:1024/p:16x9/7556d68f38536bf467bad2236ea4c8d933e4e776.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/16d2f3f4-cd8b-11f1-8bdc-19980254bb31/w:1024/p:16x9/7556d68f38536bf467bad2236ea4c8d933e4e776.jpg" medium="image"/>
 </item>
@@ -368,19 +381,6 @@
 <media:content url="https://s.france24.com/media/display/303326fa-cd83-11f1-989f-4da0d2c6855d/w:1024/p:16x9/EN-20261021-203844-205016-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Football regulator to address EFL clubs as quest for deal goes on</title>
-<link>https://news.sky.com/story/football-regulator-to-address-efl-clubs-as-quest-for-deal-goes-on-13602023</link>
-<guid isPermaLink="false">9f74fe79b9bad2a1e598378d6665bb7b266c06dd8ac19812956d44946946ed7c</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 19:01:00 +0000</pubDate>
-<description>The head of English football's watchdog will address the 72 clubs below the top flight on Thursday as the quest for a financial redistribution deal with the Premier League continues.</description>
-<dc:creator></dc:creator>
-<content:encoded>The head of English football's watchdog will address the 72 clubs below the top flight on Thursday as the quest for a financial redistribution deal with the Premier League continues.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-portsmouth-terry-devlin_7383144.jpg?20261021202855" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-portsmouth-terry-devlin_7383144.jpg?20261021202855" medium="image"/>
-</item>
-<item>
 <title>Le Pen sees polls boost amid mass protests, riots</title>
 <link>https://www.france24.com/en/le-pen-sees-polls-boost-amid-mass-protests-riots</link>
 <guid isPermaLink="false">0d110399c1310acfc962dbcd1cd80ef9f28416fd96fb02ad95faceb9ff8b6515</guid>
@@ -418,19 +418,6 @@
 <content:encoded>The Canadian publisher representing Thélyson Orélien on Wednesday said it had dropped the prize-nominated writer over new information indicating that he did use artificial intelligence to write his acclaimed debut.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/cffc09d6-b744-11f1-8522-4d7b41827f6c/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-14-2.png" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/cffc09d6-b744-11f1-8522-4d7b41827f6c/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-14-2.png" medium="image"/>
-</item>
-<item>
-<title>Police given more time to question two men re-arrested in RAF Fairford investigation</title>
-<link>https://news.sky.com/story/police-given-more-time-to-question-two-men-re-arrested-in-raf-fairford-investigation-13601987</link>
-<guid isPermaLink="false">1a710f24f7323e589e285294a3bb72a912aeabdde8f084b3b4463d1b6be4b78e</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 17:23:00 +0000</pubDate>
-<description>Two men who were re-arrested as part of an investigation into a suspected terror plot near RAF Fairford can be held for up to seven days after police were given more time to question them.</description>
-<dc:creator></dc:creator>
-<content:encoded>Two men who were re-arrested as part of an investigation into a suspected terror plot near RAF Fairford can be held for up to seven days after police were given more time to question them.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-raf-fairford-armed-police_7362863.jpg?20260927230350" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-raf-fairford-armed-police_7362863.jpg?20260927230350" medium="image"/>
 </item>
 <item>
 <title>WATCH: National Geographic reveals 'Best of the World' destinations</title>
@@ -615,17 +602,17 @@
 <media:content url="https://s.abcnews.com/images/International/wirestory_b46829a8161a4d152124642fd275f595_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Critical incident at NHS trust ends but patients still face 'long waits'</title>
-<link>https://news.sky.com/story/critical-incident-at-nhs-trust-ends-but-patients-still-face-long-waits-13601869</link>
-<guid isPermaLink="false">274a10ac8e728e946fc5d08699b7c15b8f36029ceec0fb02a692d790a29d13d4</guid>
+<title>Scrap 'unfair' prescription charges in England, say pharmacies</title>
+<link>https://news.sky.com/story/scrap-unfair-prescription-charges-in-england-say-pharmacies-13601870</link>
+<guid isPermaLink="false">6500c11b0d0f252a54073b0624ee228fa7533ca88fc17ca9f7f2bfb553493ea9</guid>
 <source>Sky News Home</source>
 <category>world</category>
-<pubDate>Wed, 21 Oct 2026 11:00:00 +0000</pubDate>
-<description>A critical incident at a NHS Trust has ended after the number of people waiting for assessment in A&amp;E "dropped significantly" - but hospital bosses warned patients still face "long waits".</description>
+<pubDate>Wed, 21 Oct 2026 11:03:00 +0000</pubDate>
+<description>Pharmacy leaders have called for prescription charges to be scrapped in England.</description>
 <dc:creator></dc:creator>
-<content:encoded>A critical incident at a NHS Trust has ended after the number of people waiting for assessment in A&amp;E "dropped significantly" - but hospital bosses warned patients still face "long waits".</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-nottingham-hospital_7382754.jpg?20261021121155" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-nottingham-hospital_7382754.jpg?20261021121155" medium="image"/>
+<content:encoded>Pharmacy leaders have called for prescription charges to be scrapped in England.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-pharmacy-chemist-pharmacist_7382792.jpg?20261021122351" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-pharmacy-chemist-pharmacist_7382792.jpg?20261021122351" medium="image"/>
 </item>
 <item>
 <title>Jailed former DUP leader Jeffrey Donaldson accused of rape inside Parliament - reports</title>
@@ -860,18 +847,5 @@
 <content:encoded>More than 16 years after the BP oil spill off the Gulf Coast, new research reveals lasting damage to marine life.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/261020_gmafl_oil_spill_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261020_gmafl_oil_spill_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump's approval rating hits new record low as US midterms loom</title>
-<link>https://news.sky.com/story/trumps-approval-rating-hits-new-record-low-as-us-midterms-loom-13601177</link>
-<guid isPermaLink="false">65380ef4f2b48331b4908b3c736852f617dc4953a7f7eac3e75ac6cc15322dce</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Tue, 20 Oct 2026 04:01:00 +0000</pubDate>
-<description>Donald Trump's approval rating has fallen to a record low - indicating that next month's midterm elections could be punishing for the Republicans.</description>
-<dc:creator></dc:creator>
-<content:encoded>Donald Trump's approval rating has fallen to a record low - indicating that next month's midterm elections could be punishing for the Republicans.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-donald-trump-rally_7381225.jpg?20261020050527" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-donald-trump-rally_7381225.jpg?20261020050527" medium="image"/>
 </item>
 </channel></rss>
