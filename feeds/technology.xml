@@ -4,6 +4,45 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances</title>
+<link>https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget</link>
+<guid isPermaLink="false">1db13b1120ad891aa484573ec8f7d3c314df39caca55390610d388bae0e89405</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 08:40:42 +0000</pubDate>
+<description>Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Business live – latest updates Barclays is cutting 5,000 jobs as part of wider cost-cutting plans that its bosses say are being driven by advances in AI. The job cuts will mean losing about 5% of the bank’s 93,000 global staff, with executives confirming they had already cut 1,000 workers since the start of the year. Continue reading...</description>
+<dc:creator>Kalyeena Makortoff Banking correspondent</dc:creator>
+<content:encoded>Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profits Business live – latest updates Barclays is cutting 5,000 jobs as part of wider cost-cutting plans that its bosses say are being driven by advances in AI. The job cuts will mean losing about 5% of the bank’s 93,000 global staff, with executives confirming they had already cut 1,000 workers since the start of the year. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/42ebdcc562c64f3843def3a9641e7ab414a3974a/503_509_4491_3595/master/4491.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9894c92b789a12a28896a61d77e32ebe" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/42ebdcc562c64f3843def3a9641e7ab414a3974a/503_509_4491_3595/master/4491.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9894c92b789a12a28896a61d77e32ebe" medium="image"/>
+</item>
+<item>
+<title>Fortnite is back on Apple's Australian App Store following court ruling</title>
+<link>https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling</link>
+<guid isPermaLink="false">16c11d245efd277763981f84c5715044e404a4493baffe4c58eeb27302d94121</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 08:18:58 +0000</pubDate>
+<description>Fortnite is back on the App Store in Australia after a federal court ordered Apple to open its iOS ecosystem up to competition.</description>
+<dc:creator>staff@engadget.com (Steve Dent)</dc:creator>
+<content:encoded>Fortnite is back on the App Store in Australia after a federal court ordered Apple to open its iOS ecosystem up to competition.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/fortnite-is-back-on-apples-australian-app-store-following-court-ruling/l-intro-1792656974.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/fortnite-is-back-on-apples-australian-app-store-following-court-ruling/l-intro-1792656974.jpg" medium="image"/>
+</item>
+<item>
+<title>Why the immediate future of liquid cooling is hybrid</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/22/partner-content-why-the-immediate-future-of-liquid-cooling-is-hybrid/5303795</link>
+<guid isPermaLink="false">73b405b12e0dbde68dcc54de265516ddd414781c63a66f6204cac800f20dc476</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
+<description>From training massive language models to powering nonstop inference , AI is fundamentally rewriting the rules of data center thermal management. AI workloads are characteristically less predictable and significantly more power-dense than traditional operations. As a result, deploying liquid cooling is no longer an experimental consideration. It has become absolute table stakes for handling AI and high-performance computing (HPC) demands. The industry conversation has shifted rapidly from “if or when” to how quickly organizations can deploy and scale. Here is a look at how AI is driving the shift toward high-density thermal management , the operational realities of adopting these systems, why the near future belongs to hybrid environments, and how data center operators can successfully navigate the transition. AI Workloads Push Densities Beyond Air Alone: The Hybrid Era Historically, traditional cooling methods were sufficient for enterprise workloads. However, air cooling remains viable and efficient only up to approximately 20 to 40 kW per rack. Today’s GPU-accelerated AI racks commonly operate between 40 kW and well over 100 kW, with next-generation systems expected to push toward 200 kW or more. This GPU-driven density has made air-only cooling strategies fundamentally impractical for cutting-edge infrastructure. This extreme concentration of heat generation challenges traditional airflow-based architectures, demanding a transformation in AI data center cooling. In the ongoing evaluation of DLC vs. air (direct liquid cooling versus air cooling), t he performance data is conclusive . Thermal modeling demonstrates that single-phase direct liquid cooling maintains chip-to-coolant temperature differences of roughly 17 to 20 °C under roughly 500 W processor loads , whereas comparable air-cooled systems exceed 60 °C. Liquid cooling, which is up to 3,000 times more effective at transferring heat than air, efficiently captures heat directly at the source, preventing thermal throttling and protecting infrastructure ROI. While transitioning to liquid cooling may seem like a straightforward solution, it is rarely a sudden, wholesale replacement. Most facilities are not going all-in on liquid. Instead, they are adopting hybrid cooling models that combine traditional air architectures with advanced direct-to-chip systems. Why Hybrid Will Dominate Transitions Through 2027-2028 Through 2027 and 2028, hybrid thermal strategies will dominate because data centers must accommodate both legacy IT equipment and next-generation AI accelerators within the same facility. The reality of brownfield retrofits, where most AI capacity is initially being deployed in existing air-cooled facilities, versus designing greenfield sites for liquid from day one means that air cooling will still play a critical role in ancillary systems and lower-density zones. The future is not strictly liquid cooling only. It is about right-sizing the cooling method to the specific workload. Ope</description>
+<dc:creator>Andrew Bradner</dc:creator>
+<content:encoded>From training massive language models to powering nonstop inference , AI is fundamentally rewriting the rules of data center thermal management. AI workloads are characteristically less predictable and significantly more power-dense than traditional operations. As a result, deploying liquid cooling is no longer an experimental consideration. It has become absolute table stakes for handling AI and high-performance computing (HPC) demands. The industry conversation has shifted rapidly from “if or when” to how quickly organizations can deploy and scale. Here is a look at how AI is driving the shift toward high-density thermal management , the operational realities of adopting these systems, why the near future belongs to hybrid environments, and how data center operators can successfully navigate the transition. AI Workloads Push Densities Beyond Air Alone: The Hybrid Era Historically, traditional cooling methods were sufficient for enterprise workloads. However, air cooling remains viable and efficient only up to approximately 20 to 40 kW per rack. Today’s GPU-accelerated AI racks commonly operate between 40 kW and well over 100 kW, with next-generation systems expected to push toward 200 kW or more. This GPU-driven density has made air-only cooling strategies fundamentally impractical for cutting-edge infrastructure. This extreme concentration of heat generation challenges traditional airflow-based architectures, demanding a transformation in AI data center cooling. In the ongoing evaluation of DLC vs. air (direct liquid cooling versus air cooling), t he performance data is conclusive . Thermal modeling demonstrates that single-phase direct liquid cooling maintains chip-to-coolant temperature differences of roughly 17 to 20 °C under roughly 500 W processor loads , whereas comparable air-cooled systems exceed 60 °C. Liquid cooling, which is up to 3,000 times more effective at transferring heat than air, efficiently captures heat directly at the source, preventing thermal throttling and protecting infrastructure ROI. While transitioning to liquid cooling may seem like a straightforward solution, it is rarely a sudden, wholesale replacement. Most facilities are not going all-in on liquid. Instead, they are adopting hybrid cooling models that combine traditional air architectures with advanced direct-to-chip systems. Why Hybrid Will Dominate Transitions Through 2027-2028 Through 2027 and 2028, hybrid thermal strategies will dominate because data centers must accommodate both legacy IT equipment and next-generation AI accelerators within the same facility. The reality of brownfield retrofits, where most AI capacity is initially being deployed in existing air-cooled facilities, versus designing greenfield sites for liquid from day one means that air cooling will still play a critical role in ancillary systems and lower-density zones. The future is not strictly liquid cooling only. It is about right-sizing the cooling method to the specific workload. Operators will successfully scale by deploying mixed architectures, such as utilizing direct-to-chip cold plates and Coolant Distribution Units (CDUs) for dense AI clusters, while managing residual heat with Computer Room Air Handlers (CRAHs) or fan-assisted Rear-Door Heat Exchangers (RDHx). The Real Bottleneck: Operational Complexity and the Talent Gap While the technology for liquid cooling is maturing, navigating the operational complexity of a hybrid cooling environment is the real challenge. Cooling is no longer just a facilities issue. It requires the convergence of IT, mechanical engineering, and software management. Facilities must now manage fluid chemistry, leak detection, risk mitigation, and sophisticated maintenance workflows. What’s more, the industry is facing a widening talent gap. Uptime Institute reports that nearly two-thirds of operators struggle to hire and retain qualified staff, underscoring a shortage of teams with expertise across both liquid cooling systems and integrated infrastructure. Addressing this will require new training models, deeper vendor collaboration, and greater reliance on managed services. While the industry is making strides toward standardizing interoperable designs - such as plug-and-play CDUs and manifolds that distribute coolant efficiently across racks - there is still fragmentation across vendors and approaches. Additionally, operators must navigate changing economics. While liquid infrastructure requires higher upfront CapEx, it delivers better Total Cost of Ownership (TCO) over time due to enhanced efficiency and density. Decision-makers are consequently shifting their focus from what is cheapest today to what can scale with AI demand. A Blueprint for Success: Reference Architectures and Readiness Navigating this hybrid cooling transition requires standardizing deployments to avoid complex, bespoke engineering for every site. A successful liquid cooling ecosystem relies on selecting the appropriate heat rejection architectures, which are defined by the heat capture method, CDU type (rack-mounted or floor-mounted), and the method of rejecting heat outdoors. A successful blueprint involve s choosing among six core architectures, ranging from rejecting heat to air within the IT space via liquid-to-air (L-A) CDUs, to utilizing dedicated independent water systems with liquid-to-liquid (L-L) CDUs for massive deployments. To future-proof AI infrastructure, operators should utilize a strategic readiness checklist: ● Plan in Parallel: Physical infrastructure and IT planning must happen simultaneously from day one to prevent facilities from lagging behind hardware deployments. ● Design for Flexibility: Build dynamic, responsive designs capable of supporting multiple hardware generations, utilizing hybrid air and liquid combinations. ● Embrace Sustainability and Heat Reuse: Tying cooling strategies to ESG goals is a clear win, as advanced liquid cooling solutions can reduce total facility energy consumption by up to 40 percent and cut water use by 20-90 percent. Furthermore, liquid cooling unlocks opportunities for heat reuse, allowing operators to redirect waste heat to adjacent buildings or district heating systems. Derisking Adoption Through Integrated Partnerships Deploying liquid cooling at scale introduces risk, particularly when sourcing racks, power, and cooling from multiple uncoordinated vendors. To derisk adoption and bridge the talent gap, operators must lean on integrated, end-to-end partnerships. Providers like Schneider Electric are addressing this complexity by engineering fully synchronized ecosystems. Facilities can successfully derisk liquid cooling transitions by focusing on: ● Integrated Power and Cooling: At AI densities, even minor imbalances between electrical load and thermal rejection can lead to system instability, underscoring the necessity of integrated AI data center cooling solutions. Through its acquisition of Motivair, Schneider Electric now offers a complete end-to-end liquid cooling ecosystem (including CDUs, cold plates, and manifolds) that is designed to work seamlessly alongside resilient uninterruptible power supplies (UPS) and distribution units. ● Validated Designs: Collaborating early with IT vendors and chip designers helps align reference designs for optimized integration. For example, Schneider Electric’s close collaboration with NVIDIA on validated architectures helps prevent physical infrastructure from becoming a bottleneck to GPU performance. ● Digital Lifecycle Management: AI infrastructure must become more dynamic. Using digital twins and simulation software, like Schneider Electric’s ETAP and AVEVA platforms, teams can design, model, and validate integrated power and cooling architectures before physical construction begins, predicting issues before they arise. ● Global Manufacturing and Services: Sourcing from partners with robust global manufacturing capacity reduces supply chain risk and accel</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=5303797&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5303797&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Certification authority eMudhra defends its laughably weak private keys</title>
 <link>https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647</link>
 <guid isPermaLink="false">ff79d6a3046132053a20564c573b3817eeb6b0d20bc05c374125a174fde662b9</guid>
@@ -108,6 +147,19 @@
 <media:content url="https://image.theregister.com/?imageId=5304630&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>Flaw in PHP computer language leads to shutdown of websites around world</title>
+<link>https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world</link>
+<guid isPermaLink="false">1e187f3420416b14540726f5b8bf06184a8253b071ad1450610b9d9b0c01b582</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 00:39:15 +0000</pubDate>
+<description>Precautionary takedowns come as experts say bad actors could exploit vulnerability in language used by 70% of sites Websites around the globe have gone dark after a serious vulnerability was found in a computer language used to build much of the world wide web. Belgian, Dutch, Finnish, French and German sites were among those that governments took down temporarily as they scrambled to patch the critical weakness in PHP, a language used by almost 70% of websites . Continue reading...</description>
+<dc:creator>Robert Booth and Aisha Down</dc:creator>
+<content:encoded>Precautionary takedowns come as experts say bad actors could exploit vulnerability in language used by 70% of sites Websites around the globe have gone dark after a serious vulnerability was found in a computer language used to build much of the world wide web. Belgian, Dutch, Finnish, French and German sites were among those that governments took down temporarily as they scrambled to patch the critical weakness in PHP, a language used by almost 70% of websites . Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/7b2ac9acb1cb8d1678d58a8d278df37914456a10/461_0_5417_4335/master/5417.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56ae4b17581afbb9c6d12f367ce28641" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/7b2ac9acb1cb8d1678d58a8d278df37914456a10/461_0_5417_4335/master/5417.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56ae4b17581afbb9c6d12f367ce28641" medium="image"/>
+</item>
+<item>
 <title>YouTube says it isn’t testing hiding the dislike button</title>
 <link>https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos</link>
 <guid isPermaLink="false">1a23f2bd44d0b65b45fc6713b94f9f74cd0327713da396a1e242b019b63ace63</guid>
@@ -132,6 +184,32 @@
 <content:encoded>For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet . During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able to add their own vehicles to the company's robotaxi fleet in the second quarter of 2027. Here's his exact quote (emphasis ours): Like I mentioned earlier, the software for Cybercabs and Model Y is the same. And pretty soon we'll be able to release the same software as part of the V15 relea … Read the full story at The Verge.</content:encoded>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case</title>
+<link>https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case</link>
+<guid isPermaLink="false">1272e8ea17e3e4139fd411162d0a04339cbf999b213b46f21ec3f92b57a4b6d5</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 23:33:34 +0000</pubDate>
+<description>Jury had found Meta misled consumers after Trump’s 2016 presidential campaign obtained user data without consent A judge in New Mexico ordered Meta Platforms to pay $25bn on ⁠Wednesday after a jury found the company had misled consumers in a case arising from allegations that a political consulting firm involved in Donald Trump ’s 2016 presidential campaign obtained data from millions of Facebook users ⁠without their consent. “Facebook’s wrongdoing – ⁠over the course of ​years and systematically broadcast to the public – goes to the heart of Facebook’s core business practices,” Judge Francis Mathew wrote in his order following the verdict. Continue reading...</description>
+<dc:creator>Guardian staff and agency</dc:creator>
+<content:encoded>Jury had found Meta misled consumers after Trump’s 2016 presidential campaign obtained user data without consent A judge in New Mexico ordered Meta Platforms to pay $25bn on ⁠Wednesday after a jury found the company had misled consumers in a case arising from allegations that a political consulting firm involved in Donald Trump ’s 2016 presidential campaign obtained data from millions of Facebook users ⁠without their consent. “Facebook’s wrongdoing – ⁠over the course of ​years and systematically broadcast to the public – goes to the heart of Facebook’s core business practices,” Judge Francis Mathew wrote in his order following the verdict. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/21d5e45e012af879a997b720907ee632f9052e63/294_0_3332_2666/master/3332.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98b46d19f6b8668cd463dfad817c1dad" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/21d5e45e012af879a997b720907ee632f9052e63/294_0_3332_2666/master/3332.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98b46d19f6b8668cd463dfad817c1dad" medium="image"/>
+</item>
+<item>
+<title>Tesla beats earnings projections after Musk floats SpaceX merger plan</title>
+<link>https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex</link>
+<guid isPermaLink="false">79f6059e8b90c73f577f87eead7da9935b20aafe14d2ba870c9c0e0837922eb2</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 23:03:16 +0000</pubDate>
+<description>Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but he declined to elaborate Investors were paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. But they didn’t glean further information after the company announced there would be no questions on the matter. “With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday,” Musk, the CEO of both companies, said on Tesla’s earnings call. He repeated a phrase he said on Tuesday: “I feel like I’m tap dancing through a minefield.” Continue reading...</description>
+<dc:creator>Dara Kerr</dc:creator>
+<content:encoded>Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but he declined to elaborate Investors were paying close attention to Tesla’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX. But they didn’t glean further information after the company announced there would be no questions on the matter. “With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday,” Musk, the CEO of both companies, said on Tesla’s earnings call. He repeated a phrase he said on Tuesday: “I feel like I’m tap dancing through a minefield.” Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/5079e04428f0108241397eee4e3383a1344455f5/436_0_4565_3655/master/4565.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8c7c23ea1726277b270807aec4513cd" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/5079e04428f0108241397eee4e3383a1344455f5/436_0_4565_3655/master/4565.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8c7c23ea1726277b270807aec4513cd" medium="image"/>
 </item>
 <item>
 <title>PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk</title>
@@ -1252,19 +1330,6 @@
 <media:content url="https://media.wired.com/photos/6ad7a0764809649ec79b3fcd/master/pass/Jason_and_Lucia_02.jpg" medium="image"/>
 </item>
 <item>
-<title>OpenAI's agents disabled their own safety monitoring systems</title>
-<link>https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems</link>
-<guid isPermaLink="false">691f1bdc840c289ac01e51f521ea5aca26e959603409cffc7a49ea500f907ab7</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 10:53:21 +0000</pubDate>
-<description>OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.</description>
-<dc:creator>staff@engadget.com (Mariella Moon)</dc:creator>
-<content:encoded>OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/openais-agents-disabled-their-own-safety-monitoring-systems/l-intro-1792579899.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/openais-agents-disabled-their-own-safety-monitoring-systems/l-intro-1792579899.jpg" medium="image"/>
-</item>
-<item>
 <title>Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer</title>
 <link>https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer</link>
 <guid isPermaLink="false">0858467ae6100e47b1c815c0f52db4d472fb278620523bab7881de89cc30e71b</guid>
@@ -1304,19 +1369,6 @@
 <media:content url="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" medium="image"/>
 </item>
 <item>
-<title>She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family</title>
-<link>https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family</link>
-<guid isPermaLink="false">7b4f4d84b5324608b27d17b03e945d28cdaff727244e91077414a9cb5e0c4d19</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
-<description>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</description>
-<dc:creator>Joshuah Bearman, Owen Long</dc:creator>
-<content:encoded>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" medium="image"/>
-</item>
-<item>
 <title>The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More</title>
 <link>https://www.wired.com/gallery/best-hearing-aids</link>
 <guid isPermaLink="false">27d0be49bca567b709279cff7d9ce5f81336580d5f180c6c4fe18d384646bb15</guid>
@@ -1328,6 +1380,19 @@
 <content:encoded>These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" medium="image"/>
+</item>
+<item>
+<title>She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family</title>
+<link>https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family</link>
+<guid isPermaLink="false">7b4f4d84b5324608b27d17b03e945d28cdaff727244e91077414a9cb5e0c4d19</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+<description>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</description>
+<dc:creator>Joshuah Bearman, Owen Long</dc:creator>
+<content:encoded>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" medium="image"/>
 </item>
 <item>
 <title>The spec is the new code, so brush up on your prose, says Kaseya CTO</title>
@@ -1434,45 +1499,6 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
-<title>Home Depot Promo Codes: 30% Off in October 2026</title>
-<link>https://www.wired.com/story/home-depot-promo-code</link>
-<guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
-</item>
-<item>
-<title>LG Promo Codes and Coupons for October 2026</title>
-<link>https://www.wired.com/story/lg-promo-code</link>
-<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
-<dc:creator>Harry Rabinowitz</dc:creator>
-<content:encoded>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
-</item>
-<item>
-<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ulta-coupon</link>
-<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
-<dc:creator>Boutayna Chokrane</dc:creator>
-<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
 <title>20% Off Sephora Promo Code | October 2026</title>
 <link>https://www.wired.com/story/sephora-promo-code</link>
 <guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
@@ -1497,6 +1523,45 @@
 <content:encoded>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</content:encoded>
 <enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
+</item>
+<item>
+<title>LG Promo Codes and Coupons for October 2026</title>
+<link>https://www.wired.com/story/lg-promo-code</link>
+<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
+<dc:creator>Harry Rabinowitz</dc:creator>
+<content:encoded>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
+</item>
+<item>
+<title>Home Depot Promo Codes: 30% Off in October 2026</title>
+<link>https://www.wired.com/story/home-depot-promo-code</link>
+<guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
+</item>
+<item>
+<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
+<link>https://www.wired.com/story/ulta-coupon</link>
+<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
+<dc:creator>Boutayna Chokrane</dc:creator>
+<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>Nervous ISPs replace Chrome as strange consumers of DNS resources</title>
@@ -1733,19 +1798,6 @@
 <media:content url="https://media.wired.com/photos/6ad67177f85dfee471db0a6b/master/pass/Review%20Hatch%20Sleep%20Clock%20102026%20top%20art%20SOURCE%20Hatch.jpg" medium="image"/>
 </item>
 <item>
-<title>US judge dismisses sexual abuse lawsuit from Sam Altman’s sister</title>
-<link>https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit</link>
-<guid isPermaLink="false">a433c9471435b8510cc993178660f85d5854b92b2d2853d0da3dad0504d07356</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 15:34:04 +0000</pubDate>
-<description>Ann Altman, the Open AI CEO’s sister, accused her brother of repeatedly sexually abusing her over two decades ago A judge dismissed a lawsuit filed by Sam Altman’s sister against him on Tuesday. Ann Altman accused the OpenAI CEO of repeatedly sexually abusing her more than two decades ago, which he has denied. In dismissing Ann Altman’s ⁠lawsuit, the US district judge Zachary Bluestone wrote that she had refused to appear for an independent medical examination despite warnings ⁠that failure to do so would result in the case’s dismissal. Continue reading...</description>
-<dc:creator>Reuters</dc:creator>
-<content:encoded>Ann Altman, the Open AI CEO’s sister, accused her brother of repeatedly sexually abusing her over two decades ago A judge dismissed a lawsuit filed by Sam Altman’s sister against him on Tuesday. Ann Altman accused the OpenAI CEO of repeatedly sexually abusing her more than two decades ago, which he has denied. In dismissing Ann Altman’s ⁠lawsuit, the US district judge Zachary Bluestone wrote that she had refused to appear for an independent medical examination despite warnings ⁠that failure to do so would result in the case’s dismissal. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/75838f30224e162b4eb6bdee8b48450c74b734d7/293_0_2915_2333/master/2915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f42cd5c15af3b588df85b180e6d52e8e" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/75838f30224e162b4eb6bdee8b48450c74b734d7/293_0_2915_2333/master/2915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f42cd5c15af3b588df85b180e6d52e8e" medium="image"/>
-</item>
-<item>
 <title>openEuler brings China's enterprise Linux ambitions to the desktop</title>
 <link>https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145</link>
 <guid isPermaLink="false">c2aed37a22dfa4474a0158ecb8727752cb9ff88c80d5f139dd9b0b5851741384</guid>
@@ -1863,19 +1915,6 @@
 <media:content url="https://image.theregister.com/?imageId=253305&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>US bans use of China’s DeepSeek AI tools by government agencies</title>
-<link>https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies</link>
-<guid isPermaLink="false">a3176ffcddfb96ed99bdfc7e8c8c23a083c4c90b7c502fcf6f98b7584e624628</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 12:33:27 +0000</pubDate>
-<description>Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek , as the countries race for dominance in the fast-moving sector. A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices. Continue reading...</description>
-<dc:creator>Agence France-Presse</dc:creator>
-<content:encoded>Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek , as the countries race for dominance in the fast-moving sector. A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/6f8ade7b2c623ea3ba988db863da7a2fd1af5796/560_0_4164_3333/master/4164.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cca23ca3a5c8993633fce00d6f71bd03" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/6f8ade7b2c623ea3ba988db863da7a2fd1af5796/560_0_4164_3333/master/4164.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cca23ca3a5c8993633fce00d6f71bd03" medium="image"/>
-</item>
-<item>
 <title>I’m a CTO. AI still needs your human expertise | Madhu Shashanka</title>
 <link>https://www.theguardian.com/technology/2026/oct/20/ai-human-judgment</link>
 <guid isPermaLink="false">7dd8c2087e64f20d6a09b505bfffa5ceb25fa38e8227d8c2b03e1492ecc61539</guid>
@@ -1967,19 +2006,6 @@
 <media:content url="https://image.theregister.com/?imageId=5235229&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
-<link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
-<guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
-<description>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</description>
-<dc:creator>Matt Kamen</dc:creator>
-<content:encoded>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
-</item>
-<item>
 <title>Sexual Assault Is a Free Speech Issue</title>
 <link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
 <guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
@@ -1991,6 +2017,19 @@
 <content:encoded>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
+</item>
+<item>
+<title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
+<link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
+<guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
+<description>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</description>
+<dc:creator>Matt Kamen</dc:creator>
+<content:encoded>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
 </item>
 <item>
 <title>Organic Mattress Sale: 20 Percent Off Essentia Beds</title>
@@ -2069,19 +2108,6 @@
 <content:encoded>The UK's financial regulator says firms' incident reporting must cover significant AI failures and near-misses as increasingly autonomous systems raise new risks. Speaking at Bloomberg's UK Policy Series on Monday, Financial Conduct Authority chief data, information and intelligence officer Jessica Rusu said the regulator wants Britain to lead safe AI adoption in financial services. Greater autonomy, however, requires clear accountability. "Poorly governed AI can create consumer harm, cyber vulnerabilities, and operational failures, potentially at much greater speed and scale," she said. "Our rules already require firms to report major incidents, and that must extend to significant AI failures and near-misses. As the AI Minister has recognized, near-miss reporting for agentic AI is becoming a national security priority. It is a regulatory priority too." The UK punches above its weight in financial services. The sector contributed £223.6 billion to the UK economy in 2025 , or 8 percent of national output. That share was the fourth highest among OECD countries. Last week, UK artificial intelligence minister Kanishka Narayan said the government plans to work with Parliament and technical experts to assess how it could strengthen the regime to better protect Britain from AI-driven cyber threats and loss-of-control risks. "That includes identifying and reporting on serious incidents and near misses, including reducing AI-driven risk across essential services, and ensuring serious AI incidents can be properly reviewed," he said. Steven Adler, co-founder and chief scientist of independent nonprofit Guidelight AI Standards, also told MPs last week that AI oversight could learn from aviation, where reporting of near-misses is mandatory in most jurisdictions. "The way this works in aviation is that you not only want to learn about the serious crashes where someone has in fact died; you want to learn about the near-misses, because you can learn from those and help avoid them in the future," he said. However, the government has yet to commit to adding AI-specific measures to the Cyber Security and Resilience (Network and Information Systems) Bill. Alexandra Jones, Director General for Growth, Science and International at the Department for Science, Innovation and Technology, told MPs last week that amendments remain under consideration. In January, the House of Commons Treasury Committee called on financial regulators to conduct stress tests to ensure businesses are ready for AI-driven market shocks. The committee said there should be clear lines of accountability when AI systems produce harmful or unfair outcomes. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=243695&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=243695&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Google cloud failure hits millions as UK courts and banks knocked offline</title>
-<link>https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption</link>
-<guid isPermaLink="false">062beb19e4529091114734ed3c5f0686c75c8975653bfede0a8b8385c2251ecc</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 09:45:39 +0000</pubDate>
-<description>Services restored for most users, but power fault stalled hearings and left Revolut, Lloyds and HSBC customers unable to pay or move money An outage at Google’s cloud services in the UK has caused widespread disruption, hitting courts and leaving millions of customers unable to access or send cash at banks including Lloyds, HSBC and Revolut. Google blamed a “power event” for the failure at its London-based Cloud computing operations on Tuesday, which affected its “europe-west2-b zone”. Continue reading...</description>
-<dc:creator>Kalyeena Makortoff and Julia Kollewe</dc:creator>
-<content:encoded>Services restored for most users, but power fault stalled hearings and left Revolut, Lloyds and HSBC customers unable to pay or move money An outage at Google’s cloud services in the UK has caused widespread disruption, hitting courts and leaving millions of customers unable to access or send cash at banks including Lloyds, HSBC and Revolut. Google blamed a “power event” for the failure at its London-based Cloud computing operations on Tuesday, which affected its “europe-west2-b zone”. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/d58e3aac6f0229d8898fb9662f67f64e3d40e5f7/213_0_2915_2333/master/2915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=318c395d1deb0d1a8411926b85759438" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/d58e3aac6f0229d8898fb9662f67f64e3d40e5f7/213_0_2915_2333/master/2915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=318c395d1deb0d1a8411926b85759438" medium="image"/>
 </item>
 <item>
 <title>Google Cloud's London zones takes a nap, multiple services disrupted</title>
@@ -2253,19 +2279,6 @@
 <media:content url="https://image.theregister.com/?imageId=5304014&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>New AI tool can predict cancer survival by a single patient selfie, study suggests</title>
-<link>https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie</link>
-<guid isPermaLink="false">f5de104106419b7644fe57eecc9bf9cbd07d8653b3e6a8d2b5eef97d9e43119f</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 22:30:08 +0000</pubDate>
-<description>System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face. The AI system was custom-built by experts at Mass General Brigham, a nonprofit, integrated academic healthcare system in Massachusetts, to estimate biological age and directly predict survival outcomes in patients diagnosed with cancer. Continue reading...</description>
-<dc:creator>Andrew Gregory Health editor</dc:creator>
-<content:encoded>System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face. The AI system was custom-built by experts at Mass General Brigham, a nonprofit, integrated academic healthcare system in Massachusetts, to estimate biological age and directly predict survival outcomes in patients diagnosed with cancer. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98a4aacec900ba7f6632e2b2e1a6ed33" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98a4aacec900ba7f6632e2b2e1a6ed33" medium="image"/>
-</item>
-<item>
 <title>Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline</title>
 <link>https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970</link>
 <guid isPermaLink="false">19e967b919d6ae1ee89992c9fbedf6b3bfb6b2ffa14afca44a02b2112f9069ce</guid>
@@ -2277,19 +2290,6 @@
 <content:encoded>Dutch grocery giant Ahold Delhaize, which operates US supermarket chains Food Lion, Giant Food, and Stop &amp; Shop, said it proactively took IT systems offline following a cyberattack, affecting most of its US and European brands. The multinational chain originally disclosed the incident on October 12. “Ahold Delhaize is experiencing a security issue within its network,” it said at the time, adding that security teams, working to mitigate the issues, took “some” IT systems offline. On Monday, the company confirmed that it proactively took certain IT systems, including websites and apps, offline, affecting most of its brands, and said that “malicious actions of others” caused the security issue. “Taking systems offline to help protect them was a precautionary measure that affected most of our brands across Europe and the United States,” Frans Muller, president and CEO of Ahold Delhaize, said in a Monday statement. “The investigation to date confirms this was the right decision.” At this time, all of the physical stores remain open, and the investigation hasn’t uncovered any evidence to suggest the miscreants stole any “sensitive customer, associate, or partner data,” the disclosure said. The company last week notified the Dutch National Cyber Security Centre about the digital intruders, and on Monday filed a report with the Dutch police, according to the statement. Albert Heijn’s website and app are back online, and the company expects home deliveries to resume on Friday. Belgian e-commerce is fully operational, and e-commerce services at Ahold Delhaize’s American brands (Food Lion, Giant Food, Martin’s, Hannaford, and Stop &amp; Shop) are expected to work “in the coming days.” The Etos and Gall &amp; Gall websites are also up and running, along with the “majority of websites and apps” across brands serving central and southeastern Europe. Ahold Delhaize did not immediately respond to The Register ’s questions about the cyberattack, including whether it was linked to attacks on refrigeration controllers at hundreds of French supermarkets beginning October 11. The attacks reportedly pushed temperatures as high as 122°F (50°C), spoiling food and causing fires at some locations. This latest cyberattack is Ahold Delhaize’s second in two years. A November 2024 digital break-in disrupted brands across the organization, with some Stop &amp; Shop stores struggling to fill prescriptions, while Food Lion employees reported delayed and missing deliveries. INC Ransom claimed responsibility for the attack at the time and leaked some documents reportedly taken from the retailer's systems. Ahold Delhaize ultimately determined more than 2.2 million people’s data - including personal, financial, and health details - had been compromised. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=249284&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=249284&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters</title>
-<link>https://www.theregister.com/offbeat/2026/10/19/amazon-makes-vague-commitment-to-unproven-nuclear-tech-to-power-indiana-datacenters/5303974</link>
-<guid isPermaLink="false">a74ffe10032c50b4b38c8acb0a83e88f170cad1ceed549d357200c5701384254</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 20:22:47 +0000</pubDate>
-<description>To feed its Indiana datacenters with plenty of juice, Amazon is funding the development of a new nuclear facility that will provide nearly 1 gigawatt of power. However, we'll have to see if this happens anytime soon, given the immature technology it's using. Amazon said on Monday that it was funding the project with an undisclosed amount of cash as part of an expansion of its existing deal with X-energy , a next-generation nuclear power startup focusing on building small modular reactors (SMRs) powered by Tri-Structural ISOtropic (TRISO) fuel pellets and cooled by helium gas. Amazon would tell us only that it’s “investing billions in nuclear energy projects” without getting specific on this project. According to X-energy, the project will see Amazon fund the development of 12 of those SMRs, its Xe-100 model, in Sullivan County, Indiana, at the site of a former coal power plant. Once up and running, the facility will supply 960 megawatts of grid-connected electricity, with Amazon contracting as the first power purchaser from the future plant. As for when it might come online, that’s anyone’s guess. Amazon wouldn’t tell us, only pointing us to an article in Indiana newspaper the South Bend Tribune in which an X-energy representative said it could be completed “as early as the mid-2030s,” though “the timeline could change the further the project gets developed.” That’s quite likely given X-energy’s current status and the state of next-generation nuclear power more generally, and to understand why it helps to understand how nuclear permitting works in the US. First off, despite the promises , hype , and mountains of cash poured into nuclear power by the tech industry, the US has yet to build a single operable SMR. China and Russia have built functional SMRs. A single experimental unit has achieved criticality in the US, but it’s not a functional, power-producing reactor and was only built to demonstrate the ability for a specific design to become one. The company with that experimental US SMR is not X-energy, who has yet to build a working reactor. As to how reactors get approved in the US, there are two pathways that nuclear power companies can pursue: One is to get a standard design approval from the Nuclear Regulatory Commission (NRC). That pathway gives a company license to build a reactor of a specific model wherever they want, as the design has been deemed safe independent of any physical site. That means the certified reactor can be sold and built without the need for the NRC to recertify the core design each time a project gets underway. There is only one company in the US that has a standard design approval for an SMR: Nuscale , which has yet to build a single reactor, has no projects under construction, and has already abandoned a Utah plant due to lack of interest from power distributors. The other option allows SMR developers to get approval for a site-specific project, which is quicker and involves the NRC blessing a particular reactor i</description>
-<dc:creator>Brandon Vigliarolo</dc:creator>
-<content:encoded>To feed its Indiana datacenters with plenty of juice, Amazon is funding the development of a new nuclear facility that will provide nearly 1 gigawatt of power. However, we'll have to see if this happens anytime soon, given the immature technology it's using. Amazon said on Monday that it was funding the project with an undisclosed amount of cash as part of an expansion of its existing deal with X-energy , a next-generation nuclear power startup focusing on building small modular reactors (SMRs) powered by Tri-Structural ISOtropic (TRISO) fuel pellets and cooled by helium gas. Amazon would tell us only that it’s “investing billions in nuclear energy projects” without getting specific on this project. According to X-energy, the project will see Amazon fund the development of 12 of those SMRs, its Xe-100 model, in Sullivan County, Indiana, at the site of a former coal power plant. Once up and running, the facility will supply 960 megawatts of grid-connected electricity, with Amazon contracting as the first power purchaser from the future plant. As for when it might come online, that’s anyone’s guess. Amazon wouldn’t tell us, only pointing us to an article in Indiana newspaper the South Bend Tribune in which an X-energy representative said it could be completed “as early as the mid-2030s,” though “the timeline could change the further the project gets developed.” That’s quite likely given X-energy’s current status and the state of next-generation nuclear power more generally, and to understand why it helps to understand how nuclear permitting works in the US. First off, despite the promises , hype , and mountains of cash poured into nuclear power by the tech industry, the US has yet to build a single operable SMR. China and Russia have built functional SMRs. A single experimental unit has achieved criticality in the US, but it’s not a functional, power-producing reactor and was only built to demonstrate the ability for a specific design to become one. The company with that experimental US SMR is not X-energy, who has yet to build a working reactor. As to how reactors get approved in the US, there are two pathways that nuclear power companies can pursue: One is to get a standard design approval from the Nuclear Regulatory Commission (NRC). That pathway gives a company license to build a reactor of a specific model wherever they want, as the design has been deemed safe independent of any physical site. That means the certified reactor can be sold and built without the need for the NRC to recertify the core design each time a project gets underway. There is only one company in the US that has a standard design approval for an SMR: Nuscale , which has yet to build a single reactor, has no projects under construction, and has already abandoned a Utah plant due to lack of interest from power distributors. The other option allows SMR developers to get approval for a site-specific project, which is quicker and involves the NRC blessing a particular reactor in a particular place. There have been several of those permits awarded, with Kairos Power being approved to build an SMR in Oak Ridge, Tennessee in partnership with Google, General Electric planning another SMR in Oak Ridge, and TerraPower inching forward with its own project in Wyoming despite delays . Notice X-energy isn’t mentioned there, either. The company claims that it’s in “the final phases” of NRC approval for a construction permit in Texas , where it’ll supply power for a Dow Chemical manufacturing plant, but that likely won’t matter too much for the Indiana project’s timeline. As mentioned above, nuclear construction permits are site specific, and the Texas plant only involves four reactors - far fewer than the 12 planned in Indiana. X-energy didn’t respond to questions for this story, but Amazon told us it's not going to be involved in any way with getting approval across the finish line for the Indiana plant. “Amazon's role is as an investor … as well as committing to being the first customer for power produced from the facility,” a company spokesperson told us. “New technologies like this often need initial customers to help de-risk projects and provide funding so they can be built and scaled to commercial availability, and that is the role Amazon is playing by helping to fund the project's development.” Like other large, ambitious next-generation nuclear projects, in other words, this one is just as much in the maybe column as the rest. ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5303977&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5303977&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>How to find Flock cameras near you with MapQuest’s new ‘surveillance layer’</title>
