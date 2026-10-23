@@ -4,6 +4,32 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The Pentagon's guidelines for "responsible AI" aren't always followed, report shows</title>
+<link>https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war</link>
+<guid isPermaLink="false">7b5791c482a420ea5d8b09f495e30e8819e529752d74549b1d542dfc8ea21de8</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 19:31:15 +0000</pubDate>
+<description>The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October. (Image credit: Government Accountability Office)</description>
+<dc:creator>Chiara Eisner</dc:creator>
+<content:encoded>The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October. (Image credit: Government Accountability Office)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1127x1192+0+0/resize/1127x1192!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F35%2F5c968cba4fdfa34765d346214ab1%2Fgao-ai.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1127x1192+0+0/resize/1127x1192!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F35%2F5c968cba4fdfa34765d346214ab1%2Fgao-ai.jpg" medium="image"/>
+</item>
+<item>
+<title>DOJ preemptively sues to block Alaska Senate results if Republican narrowly loses</title>
+<link>https://abcnews.com/US/doj-preemptively-sues-block-alaska-senate-results-republican/story?id=137512876</link>
+<guid isPermaLink="false">6b52a9f77dcdb80b72f208690216479f5d67dd83e0cabb3e019407e8d66e5f59</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 19:07:48 +0000</pubDate>
+<description>The Trump administration has preemptively filed a lawsuit to block the certification of the Alaska Senate race, citing name confusion among the candidates.</description>
+<dc:creator></dc:creator>
+<content:encoded>The Trump administration has preemptively filed a lawsuit to block the certification of the Alaska Senate race, citing name confusion among the candidates.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/dan-sullivan-2-gty-gmh-261023_1792770749742_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/dan-sullivan-2-gty-gmh-261023_1792770749742_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Ohio could decide control of the Senate. Its rural voters might decide the winner</title>
 <link>https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters</link>
 <guid isPermaLink="false">5ad6cd9e7e3b2e89f182891a9ab94490186d9ba618b08ea2397324e67d540a9a</guid>
@@ -41,19 +67,6 @@
 <content:encoded>Officials in northeast Ohio said a chemical tank leak earlier in the week was caused by an employee error</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>DOJ preemptively sues to block Alaska Senate results if Republican narrowly loses</title>
-<link>https://abcnews.com/US/doj-preemptively-sues-block-alaska-senate-results-republican/story?id=137512876</link>
-<guid isPermaLink="false">6b52a9f77dcdb80b72f208690216479f5d67dd83e0cabb3e019407e8d66e5f59</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 17:56:26 +0000</pubDate>
-<description>The Trump administration has preemptively filed a lawsuit to block the certification of the Alaska Senate race, citing name confusion among the candidates.</description>
-<dc:creator></dc:creator>
-<content:encoded>The Trump administration has preemptively filed a lawsuit to block the certification of the Alaska Senate race, citing name confusion among the candidates.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/dan-sullivan-2-gty-gmh-261023_1792770749742_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/dan-sullivan-2-gty-gmh-261023_1792770749742_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that</title>
@@ -472,7 +485,7 @@
 <media:content url="https://s.france24.com/media/display/5859209e-ced7-11f1-9bf9-bba4eee3dc72/w:1024/p:16x9/capture-63ab9de4.jpg" medium="image"/>
 </item>
 <item>
-<title>What is in the Be Ready checklist as Britons urged to stock up to survive potential cyber or climate emergencies?</title>
+<title>What is in the Be Ready checklist as Britons urged to stock up for emergencies?</title>
 <link>https://news.sky.com/story/what-is-in-the-be-ready-checklist-as-britons-urged-to-stock-up-to-survive-potential-cyber-or-climate-emergencies-13602659</link>
 <guid isPermaLink="false">04525372f156fcb4a06af01af2bb9d888919e7c5e1ed23288134dbdb593d998a</guid>
 <source>Sky News Home</source>
@@ -579,7 +592,7 @@
 <title>Israel orders army to prepare to fully close West Bank after two soldiers killed in shooting</title>
 <link>https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577</link>
 <guid isPermaLink="false">67feecb6f9703395bfb5e01978e0c9572523e5c5294bca421b9091a83a7db8d2</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Fri, 23 Oct 2026 08:03:00 +0000</pubDate>
 <description>The Israeli government has ordered its army to prepare for a full closure of the occupied West Bank following a shooting near Hebron which killed two soldiers.</description>
@@ -693,7 +706,7 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-duchess-of-sussex-meghan_7384470.jpg?20261023110214" medium="image"/>
 </item>
 <item>
-<title>Fatal shooting in Paris suburb 'clearly a terrorist crime' - as suspect arrested</title>
+<title>Terrorist shooting in Paris suburb marks 'turning point for France', Macron says</title>
 <link>https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320</link>
 <guid isPermaLink="false">d0d1bf66d5ef1b23c1461070273e822f1c841a072d0293a77fe1b9274069493b</guid>
 <source>Sky News Home</source>

@@ -4,6 +4,32 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Abandoned Popcorn Time apps had to be disabled to prevent a zombie army</title>
+<link>https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided</link>
+<guid isPermaLink="false">3be5f2059474b551ba4ba9b8d30b2c160592dffcaaeb5a52313fa43eeda35e51</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 19:35:15 +0000</pubDate>
+<description>Remember Popcorn Time , the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years , but the "Netflix of Piracy" software is still installed on millions of devices that are just waiting to join a bot army. Researchers at Eye Security found the updater for a Popcorn Time fork called "Time4Popcorn" still running on tons of Windows, macOS, and Android devices located around the world, phoning home to now-abandoned web domains over unencrypted HTTP and running an outdated, insecure version of Chrome. Eye Security's Niels Teus … Read the full story at The Verge.</description>
+<dc:creator>Stevie Bonifield</dc:creator>
+<content:encoded>Remember Popcorn Time , the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years , but the "Netflix of Piracy" software is still installed on millions of devices that are just waiting to join a bot army. Researchers at Eye Security found the updater for a Popcorn Time fork called "Time4Popcorn" still running on tons of Windows, macOS, and Android devices located around the world, phoning home to now-abandoned web domains over unencrypted HTTP and running an outdated, insecure version of Chrome. Eye Security's Niels Teus … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
+<guid isPermaLink="false">60b56cc3037dbda3a95126cc73210c100159f84d6a27e0e5e8c902267bb5813b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 19:32:39 +0000</pubDate>
+<description>Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one , for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between the model and the speaker does have a mostly natural back and forth (though for some reason, the model initially mistakes the speaker for somebody named "Ronaldo"). We made the first AI model you can have a realistic conversation with that was trained entirely on speech! Dessa is a full-duplex speech-to-sp … Read the full story at The Verge.</description>
+<dc:creator>Jay Peters</dc:creator>
+<content:encoded>Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one , for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between the model and the speaker does have a mostly natural back and forth (though for some reason, the model initially mistakes the speaker for somebody named "Ronaldo"). We made the first AI model you can have a realistic conversation with that was trained entirely on speech! Dessa is a full-duplex speech-to-sp … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Soundcore’s latest noise-crushing headphones are on sale for a new low price</title>
 <link>https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale</link>
 <guid isPermaLink="false">75c55b9c071dc270e1d0b4b8b950789e8712514a675e813e1566c75e3d672ce1</guid>
@@ -234,8 +260,8 @@
 <description>The new restrictions are a test which is explicitly not supposed to impact these entities.</description>
 <dc:creator>staff@engadget.com (Karissa Bell)</dc:creator>
 <content:encoded>The new restrictions are a test which is explicitly not supposed to impact these entities.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792771543.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792771543.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792783602.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792783602.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple Music has a fun Easter egg for the iPod's 25th anniversary</title>
@@ -316,19 +342,6 @@
 <media:content url="https://media.wired.com/photos/6ada8957133035a6bb08c0f2/master/pass/Business_How%20Many%20Billions%20Would%20It%20Take%20to%20Hold%20Meta%20Accountable_v1.jpg" medium="image"/>
 </item>
 <item>
-<title>Meta delays new business terms after publisher pushback on AI scraping</title>
-<link>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</link>
-<guid isPermaLink="false">7aa6acbd35f79e1aa638a6466c227c10d8921c3684b08de9cbfa308709c7ccea</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
-<description>Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company . In a statement to The Verge , Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th "to allow more time for us to explain to our partners and stakeholders what's changing and what's not." The business terms , which were originally supposed to go into effect on October 30th, appeared to give Meta permission to freely scrape the new sites that use its platforms, while using the material for AI training. Though Meta u … Read the full story at The Verge.</description>
-<dc:creator>Emma Roth</dc:creator>
-<content:encoded>Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company . In a statement to The Verge , Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th "to allow more time for us to explain to our partners and stakeholders what's changing and what's not." The business terms , which were originally supposed to go into effect on October 30th, appeared to give Meta permission to freely scrape the new sites that use its platforms, while using the material for AI training. Though Meta u … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>A farewell to BioWare, maker of some of the best games of the 21st century | Lucy James</title>
 <link>https://www.theguardian.com/games/2026/oct/23/bioware-rpg-games-ea-closure-mass-effect</link>
 <guid isPermaLink="false">70bf9d8d1e50c13920dc56548c33e72440890ed3a5048ad3d4be242aed693858</guid>
@@ -340,19 +353,6 @@
 <content:encoded>The closure of the studio responsible for some of the best games of the 21st century leaves the world of RPGs feeling smaller without the hope of another instalment of the much-loved sci-fi series Earlier this week, EA announced the closure of BioWare, a game studio with a 30-year history of compelling role-playing games, complex characters and bold, choice-driven narratives. Its forthcoming game in the Mass Effect sci-fi series has been cancelled, and more than 400 people are losing their jobs. As someone who has worked in the video games industry for 15 years and spent almost 20 as a BioWare fan, I am among millions of mourners today. It’s not terribly hard to see why BioWare got the chop. Its parent company has been saddled with $20bn of debt thanks to a recent leveraged buyout involving Jared Kushner and the Saudi wealth fund. EA was looking for weight to cut loose, and despite its hardcore fanbase and reputation for genre-defining RPGs such as Star Wars: Knights of the Old Republic and Dragon Age, BioWare hadn’t put out a critical or commercial hit in over 10 years. Its forthcoming game, titled Mass Effect: Universe according to a leaked trailer , was announced back in 2020. Despite some flashy teases, it was still years away from release. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/db0a48ae4a8bab736e867ed6a0033af706ae7f1e/831_0_1713_1372/master/1713.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e1f0cfe6f9ebc48849d00a0a8b0c87c" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/db0a48ae4a8bab736e867ed6a0033af706ae7f1e/831_0_1713_1372/master/1713.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e1f0cfe6f9ebc48849d00a0a8b0c87c" medium="image"/>
-</item>
-<item>
-<title>The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera</title>
-<link>https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade</link>
-<guid isPermaLink="false">374a21eda7a60ae88fd54fdab39f13ee651325dfeae152738b91a6224e59def5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 14:42:46 +0000</pubDate>
-<description>Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an articulating LCD display, and longer battery life. But this time around, Sigma is only claiming its new FP2 is the "world's smallest" full-frame shooter since those upgrades have increased its body-only weight by about 6 grams. The Sigma FP2 will be available on November 11th and starts at $2,199 for the camera body alone. For $2,749, you can bundle it with Sigma's upgraded EVF-21 viewfinder featuring a 5.76 … Read the full story at The Verge.</description>
-<dc:creator>Andrew Liszewski</dc:creator>
-<content:encoded>Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an articulating LCD display, and longer battery life. But this time around, Sigma is only claiming its new FP2 is the "world's smallest" full-frame shooter since those upgrades have increased its body-only weight by about 6 grams. The Sigma FP2 will be available on November 11th and starts at $2,199 for the camera body alone. For $2,749, you can bundle it with Sigma's upgraded EVF-21 viewfinder featuring a 5.76 … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>SparkyOS: Lightweight general-purpose Arch, on a pendrive</title>
