@@ -4,6 +4,19 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Feds charge 15 suspects in multiple alleged insurance, Medicare fraud schemes</title>
+<link>https://abcnews.com/US/feds-charge-15-suspects-multiple-alleged-insurance-medicare/story?id=137483638</link>
+<guid isPermaLink="false">70dcf167d5d976bb0adf4e5ad2af33f8c26d017ec6ddd5a20f09c93536a5080a</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 03:31:46 +0000</pubDate>
+<description>Federal prosecutors charged 15 people in connection with an alleged Medicare and insurance fraud schemes, the Justice Department said on Thursday.</description>
+<dc:creator></dc:creator>
+<content:encoded>Federal prosecutors charged 15 people in connection with an alleged Medicare and insurance fraud schemes, the Justice Department said on Thursday.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/health-care-fraud-arrest-ap-jt-261022_1792690629870_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/health-care-fraud-arrest-ap-jt-261022_1792690629870_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>With lockout looming, World Series could be MLB's last games for a while</title>
 <link>https://abcnews.com/Business/wireStory/lockout-looming-world-series-major-league-baseballs-games-137494687</link>
 <guid isPermaLink="false">2ec979edcf0bda4722e51938f457f79b5fe5c833f82fd07a3a1c8d03e801322f</guid>
@@ -30,17 +43,17 @@
 <media:content url="https://s.abcnews.com/images/US/261022_abcnl_6p_12yopilot_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>WATCH: Florida officer accused of stealing dead man's identity to take over his house</title>
-<link>https://abcnews.com/video/137494694</link>
-<guid isPermaLink="false">ca7135a469f109b2ea6cbb96955096f1c09775a555cf841d7996becfcdf948f7</guid>
-<source>ABC News Top Stories</source>
+<title>Military aircraft to be equipped to fight wildfires</title>
+<link>https://news.sky.com/story/military-aircraft-to-be-equipped-to-fight-wildfires-government-says-13602524</link>
+<guid isPermaLink="false">6737795509335f25eb94f1ddf6a9fcba7ed2bb53b052b8b388c91b5a6fe0b3dd</guid>
+<source>Sky News Home</source>
 <category>world</category>
-<pubDate>Fri, 23 Oct 2026 01:27:20 +0000</pubDate>
-<description>The officer is on paid administrative leave, and faces up to five felony charges.</description>
+<pubDate>Fri, 23 Oct 2026 01:11:00 +0000</pubDate>
+<description>Military aircraft will be equipped to help tackle wildfires, the UK government has announced, after a summer of "unrelenting" blazes and sustained hot conditions.</description>
 <dc:creator></dc:creator>
-<content:encoded>The officer is on paid administrative leave, and faces up to five felony charges.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/WNT/261022_wn_oquendo_florida_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/WNT/261022_wn_oquendo_florida_hpMain_16x9_1600.jpg" medium="image"/>
+<content:encoded>Military aircraft will be equipped to help tackle wildfires, the UK government has announced, after a summer of "unrelenting" blazes and sustained hot conditions.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-uk-helicopter-wildfires_7384222.jpg?20261023040224" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-uk-helicopter-wildfires_7384222.jpg?20261023040224" medium="image"/>
 </item>
 <item>
 <title>Veterans ask federal judge to block Trump's arch unless Congress approves it</title>
@@ -277,10 +290,23 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-tom-skerritt-hollywood_7384113.jpg?20261022204228" medium="image"/>
 </item>
 <item>
+<title>Trump says US gave Russia nothing to free American, but reality is more complicated</title>
+<link>https://abcnews.com/Politics/trump-us-gave-russia-free-american-reality-complicated/story?id=137447570</link>
+<guid isPermaLink="false">614e2fd9d7575c6a107181817ccca4958e719715feb543fd7e6f9f5142c62f7b</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 22 Oct 2026 19:17:08 +0000</pubDate>
+<description>In a push to close deals, Trump has pivoted toward Putin.</description>
+<dc:creator></dc:creator>
+<content:encoded>In a push to close deals, Trump has pivoted toward Putin.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/Stephen-Hubbard-4-ht-gmh-261021_1792606874730_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/Stephen-Hubbard-4-ht-gmh-261021_1792606874730_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Hugging grandparents consent advert taken down after backlash</title>
 <link>https://news.sky.com/story/advert-from-dublin-rape-crisis-centre-on-grandparents-hugging-and-kissing-children-withdrawn-13602472</link>
 <guid isPermaLink="false">59a70cf48e3fd39fefebb71708ab0fd1ec7e4eac7f35d0b61c1ecc476ba12268</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Thu, 22 Oct 2026 19:08:00 +0000</pubDate>
 <description>An Irish advert promoting consent has been withdrawn after complaints about its depictions of grandparents hugging and kissing their grandkids.</description>
@@ -600,19 +626,6 @@
 <content:encoded>The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.</content:encoded>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2F49%2Fd998dd854611bb8106d18608d794%2Ffarflungpostcard-ck.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2F49%2Fd998dd854611bb8106d18608d794%2Ffarflungpostcard-ck.jpg" medium="image"/>
-</item>
-<item>
-<title>Witkoff lauds 'humanitarian' Putin as Russia releases detained American</title>
-<link>https://abcnews.com/International/witkoff-arrives-st-petersburg-putin-talks-kremlin-aide/story?id=137438106</link>
-<guid isPermaLink="false">9d9bdb62301e28e081c854732cd586d0bd3964e8d9fc4608686b80d7972643bc</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 11:39:13 +0000</pubDate>
-<description>President Donald Trump's special envoy Steve Witkoff landed in the Russian city of St. Petersburg on Wednesday morning, a Kremlin aide confirmed.</description>
-<dc:creator></dc:creator>
-<content:encoded>President Donald Trump's special envoy Steve Witkoff landed in the Russian city of St. Petersburg on Wednesday morning, a Kremlin aide confirmed.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/International/Witkoff-Putin-DB-261021_1792579384836_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/Witkoff-Putin-DB-261021_1792579384836_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: David Muir on how Tampa Bay community came together to repair stadium for Rays</title>
