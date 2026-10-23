@@ -4,6 +4,32 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>WATCH: 12-year-old 'Captain William' goes viral after Delta DREAM Flight</title>
+<link>https://abcnews.com/video/137493900</link>
+<guid isPermaLink="false">7dd3fccb1bc94e6ce0092f5cf5e9a472faf7c2c6306a212b673cfc7b2744286a</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 01:42:53 +0000</pubDate>
+<description>Aspiring pilot William Hobson, 12, is winning hearts online after showing off his impressive in-flight lingo aboard Delta’s DREAM Flight.</description>
+<dc:creator></dc:creator>
+<content:encoded>Aspiring pilot William Hobson, 12, is winning hearts online after showing off his impressive in-flight lingo aboard Delta’s DREAM Flight.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/261022_abcnl_6p_12yopilot_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/261022_abcnl_6p_12yopilot_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Florida officer accused of stealing dead man's identity to take over his house</title>
+<link>https://abcnews.com/video/137494694</link>
+<guid isPermaLink="false">ca7135a469f109b2ea6cbb96955096f1c09775a555cf841d7996becfcdf948f7</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 01:27:20 +0000</pubDate>
+<description>The officer is on paid administrative leave, and faces up to five felony charges.</description>
+<dc:creator></dc:creator>
+<content:encoded>The officer is on paid administrative leave, and faces up to five felony charges.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/WNT/261022_wn_oquendo_florida_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/WNT/261022_wn_oquendo_florida_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Veterans ask federal judge to block Trump's arch unless Congress approves it</title>
 <link>https://abcnews.com/Politics/veterans-federal-judge-block-trumps-arch-congress-approves/story?id=137493537</link>
 <guid isPermaLink="false">21e6f11117012963f9bc8800fe5fe1254751f2046cdd140ec80d53e7da501780</guid>
@@ -93,19 +119,6 @@
 <content:encoded>Wes Streeting was asked by Sky News about the need to prepare the public for the possibility of war. File pic: Reuters</content:encoded>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-wes-streeting-uk_7384205.jpg?20261022232609" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-wes-streeting-uk_7384205.jpg?20261022232609" medium="image"/>
-</item>
-<item>
-<title>New York City to ban horse-drawn carriages in 2028</title>
-<link>https://abcnews.com/US/new-york-city-ban-horse-drawn-carriages-2028/story?id=137490461</link>
-<guid isPermaLink="false">9a95739afac95ee69cf77a2e842b68df25d42ca9612ee46ef90ea6fcb8c0c27c</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 21:41:07 +0000</pubDate>
-<description>Horse-drawn carriages will be riding into the sunset in New York City in two years after city leaders voted Thursday to ban the practice.</description>
-<dc:creator></dc:creator>
-<content:encoded>Horse-drawn carriages will be riding into the sunset in New York City in two years after city leaders voted Thursday to ban the practice.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/cp-horses-3-rt-gmh-261022_1792702328740_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/cp-horses-3-rt-gmh-261022_1792702328740_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Emirati diplomat could become next UN chief despite human rights concerns</title>
@@ -576,19 +589,6 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-donald-trump-us-president_7369192.jpg?20261005210257" medium="image"/>
 </item>
 <item>
-<title>Man charged with murder after woman found dead in car with puncture wounds</title>
-<link>https://news.sky.com/story/man-charged-with-murder-over-death-of-housing-association-worker-13602300</link>
-<guid isPermaLink="false">d0254d623ec48b2fb5b3647e62a634960236d21a604fed2d4edbffb30c0d5a4c</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 14:06:00 +0000</pubDate>
-<description>A man has been charged with murder after a housing association worker died following a car crash in South Wales, having sustained "puncture wounds".</description>
-<dc:creator></dc:creator>
-<content:encoded>A man has been charged with murder after a housing association worker died following a car crash in South Wales, having sustained "puncture wounds".</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-eleanor-barnfield-bridgend_7383321.jpg?20261022040218" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-eleanor-barnfield-bridgend_7383321.jpg?20261022040218" medium="image"/>
-</item>
-<item>
 <title>Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates</title>
 <link>https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino</link>
 <guid isPermaLink="false">96e7288763adfb8ea3f21dd8f062647f0ff41074959a11c5fb15dcc39d951918</guid>
@@ -873,19 +873,6 @@
 <content:encoded>A great white shark surprised visitors off Marina Beach, California, when it leapt out of the ocean as a beachgoer was taking a video.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/WNT/261020_wn_vo_shark_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/WNT/261020_wn_vo_shark_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Funding cuts forcing World Food Program to reduce lifesaving aid in Gaza</title>
-<link>https://abcnews.com/video/137411132</link>
-<guid isPermaLink="false">edfc2d538092b3e0833d72446df25a8f49798efc3678bba923e7a57f285180d7</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 20 Oct 2026 13:39:38 +0000</pubDate>
-<description>ABC News' Ian Pannell reports on the state of the agency, which says it's been providing food to around 1.6 million people every month since last year's ceasefire announcement.</description>
-<dc:creator></dc:creator>
-<content:encoded>ABC News' Ian Pannell reports on the state of the agency, which says it's been providing food to around 1.6 million people every month since last year's ceasefire announcement.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/International/261020_abcnl_8a_pannell_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/International/261020_abcnl_8a_pannell_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Suspect arrested in France after fire at historic city hall</title>
