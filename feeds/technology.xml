@@ -4,6 +4,19 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Etsy is cracking down on AI slop listings</title>
+<link>https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing</link>
+<guid isPermaLink="false">89dfa46391845bd46a081e60278ecf54431d98f828a07ec710b8ec51e5084511</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 00:09:58 +0000</pubDate>
+<description>Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that "many active buyers say they can't tell which items involve AI-generated content" and that sellers are "concerned about your work appearing alongside items that use AI in misleading ways," spurring the new policies and restrictions. Under the new policies, every listing must include "at least one unedited photo of the actual item against a real background," and all photos must "accurately represent the item a buyer will receive." The photos that aren't the first one can be edited with softw … Read the full story at The Verge.</description>
+<dc:creator>Jay Peters</dc:creator>
+<content:encoded>Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that "many active buyers say they can't tell which items involve AI-generated content" and that sellers are "concerned about your work appearing alongside items that use AI in misleading ways," spurring the new policies and restrictions. Under the new policies, every listing must include "at least one unedited photo of the actual item against a real background," and all photos must "accurately represent the item a buyer will receive." The photos that aren't the first one can be edited with softw … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,82.725656291205" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,82.725656291205" medium="image"/>
+</item>
+<item>
 <title>Palmer Luckey Made a Genetically Modified Military Dog Startup</title>
 <link>https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup</link>
 <guid isPermaLink="false">9f488d219f29a6eeca78a73bb6b31a808bb80fcf4ecb5ceedb19891331be5618</guid>
@@ -56,6 +69,45 @@
 <media:content url="https://media.wired.com/photos/6ada6dba4d7b986a1aaeb09e/master/pass/virus%20Shamonda%20Francia%201298348369.jpg" medium="image"/>
 </item>
 <item>
+<title>Switch 2 security takes a hit as hackers unlock homebrew access</title>
+<link>https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games</link>
+<guid isPermaLink="false">fe6ffcf62f0de84e13bd7e0b1e84c31edae942930f81a308add5767e777f0c80</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 22:25:33 +0000</pubDate>
+<description>A security researcher has demonstrated a software-only partial jailbreak of the Switch 2, gaining "userland" access that he says "lets us run homebrew, reverse engineer and mod Switch 2 games, back up save files off the Switch, and access most of the Switch 2’s peripherals through MMIO." The hack relies on the original Switch version of SmileBasic 4 , the latest in a long-running series of programming environments and interpreters that run on Nintendo hardware. The so-called "tethered" hack also requires access to a macOS or Linux PC on the same network to run a node.js package that helps enable privileged system access. Researcher Sammy Hajhamid writes that he used OpenAI's Codex to poke at SmileBasic's language interpreter, using a custom harness that could send USB commands to the system and view results via HDMI (as well as power cycling via a Bluetooth light switch flipping device). After "substantial effort for ~2 weeks," that harness discovered a 32-bit integer overflow that occurs when removing items from an array in SmileBasic. That error gives access to an array pointer, which in turn allows read and write access to portions of system memory. Read full article Comments</description>
+<dc:creator>Kyle Orland</dc:creator>
+<content:encoded>A security researcher has demonstrated a software-only partial jailbreak of the Switch 2, gaining "userland" access that he says "lets us run homebrew, reverse engineer and mod Switch 2 games, back up save files off the Switch, and access most of the Switch 2’s peripherals through MMIO." The hack relies on the original Switch version of SmileBasic 4 , the latest in a long-running series of programming environments and interpreters that run on Nintendo hardware. The so-called "tethered" hack also requires access to a macOS or Linux PC on the same network to run a node.js package that helps enable privileged system access. Researcher Sammy Hajhamid writes that he used OpenAI's Codex to poke at SmileBasic's language interpreter, using a custom harness that could send USB commands to the system and view results via HDMI (as well as power cycling via a Bluetooth light switch flipping device). After "substantial effort for ~2 weeks," that harness discovered a 32-bit integer overflow that occurs when removing items from an array in SmileBasic. That error gives access to an array pointer, which in turn allows read and write access to portions of system memory. Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-1152x648-1792704912.png" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-1152x648-1792704912.png" medium="image"/>
+</item>
+<item>
+<title>Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%</title>
+<link>https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42</link>
+<guid isPermaLink="false">66d5d662c245ed961e9e4df44b089c6da2665eab2aa3d822732469b6f8d650a6</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 22:12:19 +0000</pubDate>
+<description>Personalized mRNA vaccines against melanoma—the deadliest form of skin cancer—reduced the risk of death or recurrence by 42 percent compared to standard treatment in a late-stage trial, pharmaceutical partners Merck and Moderna announced Thursday . The results are a significant advance in melanoma treatment; Merck and Moderna are already engaging with regulatory authorities to get the vaccine approved. More broadly, the vaccine's success bolsters hope that mRNA vaccines and individualized cancer-targeting medicines offer a new paradigm for cancer therapies. "From the beginning, we believed mRNA technology could make it possible to develop cancer treatments uniquely matched to each patient’s tumor," Moderna CEO Stéphane Bancel said in a statement. The trial results "mark a defining moment for that vision and show what’s possible when we rethink how medicines are made." They also "reinforce our conviction that mRNA has the potential to fundamentally change how we treat cancer," he said. Read full article Comments</description>
+<dc:creator>Beth Mole</dc:creator>
+<content:encoded>Personalized mRNA vaccines against melanoma—the deadliest form of skin cancer—reduced the risk of death or recurrence by 42 percent compared to standard treatment in a late-stage trial, pharmaceutical partners Merck and Moderna announced Thursday . The results are a significant advance in melanoma treatment; Merck and Moderna are already engaging with regulatory authorities to get the vaccine approved. More broadly, the vaccine's success bolsters hope that mRNA vaccines and individualized cancer-targeting medicines offer a new paradigm for cancer therapies. "From the beginning, we believed mRNA technology could make it possible to develop cancer treatments uniquely matched to each patient’s tumor," Moderna CEO Stéphane Bancel said in a statement. The trial results "mark a defining moment for that vision and show what’s possible when we rethink how medicines are made." They also "reinforce our conviction that mRNA has the potential to fundamentally change how we treat cancer," he said. Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Latest estimate for Starship launches required to support a Moon landing? 22.</title>
+<link>https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22</link>
+<guid isPermaLink="false">f1aa022869033a7c605bdc84077df2cd90beb651613eff51fd925c1a2370cce7</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 21:52:31 +0000</pubDate>
+<description>NASA does not have, nor want, nuclear weapons. But when it comes to a particular metric that is part of the Artemis Program to land people on the Moon, NASA guards a particular number like they are trying to prevent outsiders from cracking nuclear codes. I am speaking of the number of Starship launches required to fuel a Starship-based lunar lander in low-Earth orbit such that it can fly out to the Moon, land there, and return to lunar orbit. This number has been a moving target over the years. The general response from NASA has typically been, 'We don't know for sure, so we're not going to say.' In 2023, for example, the then-director of NASA's Human Landing System, Lisa Watson-Morgan, told Ars , "We have a general idea, but I’m reluctant to say exactly what that is." Read full article Comments</description>
+<dc:creator>Eric Berger</dc:creator>
+<content:encoded>NASA does not have, nor want, nuclear weapons. But when it comes to a particular metric that is part of the Artemis Program to land people on the Moon, NASA guards a particular number like they are trying to prevent outsiders from cracking nuclear codes. I am speaking of the number of Starship launches required to fuel a Starship-based lunar lander in low-Earth orbit such that it can fly out to the Moon, land there, and return to lunar orbit. This number has been a moving target over the years. The general response from NASA has typically been, 'We don't know for sure, so we're not going to say.' In 2023, for example, the then-director of NASA's Human Landing System, Lisa Watson-Morgan, told Ars , "We have a general idea, but I’m reluctant to say exactly what that is." Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg" medium="image"/>
+</item>
+<item>
 <title>Canva’s first AI image model plans designs before generating them</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</link>
 <guid isPermaLink="false">5eee804247a435ab2dffe426bbbc3182cedc2a5bc7beefa07d081dcb6c6ccd27</guid>
@@ -106,6 +158,19 @@
 <content:encoded>Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next. Sure, let’s smoosh SpaceX and Tesla together, who cares Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready In Meta’s version of the future, I’ll have my Muse call your Muse Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen? Meta to create a new class of shares to fund AI push Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement Not even flying Roadsters can lift Tesla’s flat Q3 revenues Tesla and SpaceX are discussing a possible merger, Musk says SpaceX will try catching Starship and its booster for first time, Musk says Netflix is telling investors not to worry, even though you’re watching less and less SpaceX says big AI growth fueled revenue jump</content:encoded>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Comcast loses more customers, claims other ISPs' cheap prices are "irrational"</title>
+<link>https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational</link>
+<guid isPermaLink="false">4bbc4ed947d5a02c3727fcc3a3f431ef2ae5ca191e3cae7e0cff2f0bac1caf31</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 21:07:09 +0000</pubDate>
+<description>Comcast reportedly plans significant job cuts in its cable division as the firm continues to lose residential broadband and TV customers. Comcast lost 144,000 residential broadband customers in Q3 2026, up from a 91,000-customer loss in the same quarter a year ago, the company said in its earnings report today. Comcast historically capitalized on a lack of competition for high-speed wired broadband. But now it faces stronger competition from fixed wireless providers and from fiber providers in parts of its cable territory. "Fixed wireless remains aggressive and continues to take share, while fiber construction remains elevated, with pockets of irrational pricing and promotional activity," Comcast co-CEO Mike Cavanagh said today in an earnings call . Read full article Comments</description>
+<dc:creator>Jon Brodkin</dc:creator>
+<content:encoded>Comcast reportedly plans significant job cuts in its cable division as the firm continues to lose residential broadband and TV customers. Comcast lost 144,000 residential broadband customers in Q3 2026, up from a 91,000-customer loss in the same quarter a year ago, the company said in its earnings report today. Comcast historically capitalized on a lack of competition for high-speed wired broadband. But now it faces stronger competition from fixed wireless providers and from fiber providers in parts of its cable territory. "Fixed wireless remains aggressive and continues to take share, while fiber construction remains elevated, with pockets of irrational pricing and promotional activity," Comcast co-CEO Mike Cavanagh said today in an earnings call . Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>A new subscription service promises an evolving collection of 'bold and bizarre' indie games</title>
@@ -205,9 +270,9 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 20:17:52 +0000</pubDate>
-<description>eMudra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business. V. Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue. He also said that the emergence of organizations providing TLS certificates free of charge further reduced returns on investment when compared to other products and services the company offers. Don't let the door hit you on the butt “However, the level of social media amplification around this incident has brought scrutiny that is out of proportion to SSL/TLS’s place in our business,” the company continued in a Thursday post. “In view of this, after detailed deliberations our board has concluded that withdrawing from global SSL/TLS is the right decision for eMudhra and its shareholders.” Read full article Comments</description>
+<description>eMudhra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business. V. Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue. He also said that the emergence of organizations providing TLS certificates free of charge further reduced returns on investment when compared to other products and services the company offers. Don't let the door hit you on the butt “However, the level of social media amplification around this incident has brought scrutiny that is out of proportion to SSL/TLS’s place in our business,” the company continued in a Thursday post. “In view of this, after detailed deliberations our board has concluded that withdrawing from global SSL/TLS is the right decision for eMudhra and its shareholders.” Read full article Comments</description>
 <dc:creator>Dan Goodin</dc:creator>
-<content:encoded>eMudra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business. V. Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue. He also said that the emergence of organizations providing TLS certificates free of charge further reduced returns on investment when compared to other products and services the company offers. Don't let the door hit you on the butt “However, the level of social media amplification around this incident has brought scrutiny that is out of proportion to SSL/TLS’s place in our business,” the company continued in a Thursday post. “In view of this, after detailed deliberations our board has concluded that withdrawing from global SSL/TLS is the right decision for eMudhra and its shareholders.” Read full article Comments</content:encoded>
+<content:encoded>eMudhra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business. V. Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue. He also said that the emergence of organizations providing TLS certificates free of charge further reduced returns on investment when compared to other products and services the company offers. Don't let the door hit you on the butt “However, the level of social media amplification around this incident has brought scrutiny that is out of proportion to SSL/TLS’s place in our business,” the company continued in a Thursday post. “In view of this, after detailed deliberations our board has concluded that withdrawing from global SSL/TLS is the right decision for eMudhra and its shareholders.” Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg" medium="image"/>
 </item>
@@ -301,19 +366,6 @@
 <content:encoded>Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips , but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which you believe Elon Musk about wanting to go to Mars, or "spread the light of consciousness," as he put it in this week's SpaceX earnings call (and earlier S-1). Now, a reasonably informed person knows that we don't have the technology - or, frankly, even the raw information to build the technology - in order to support human life in space. … Read the full story at The Verge.</content:encoded>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Teenage Engineering launched an instrument amp with a ton of built-in effects</title>
-<link>https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp</link>
-<guid isPermaLink="false">7c0720e50a86584f10735b0bdd4c3d3114355ffb67159b127ab53155fabf49da</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 19:44:51 +0000</pubDate>
-<description>It looks exactly like what you’d expect a Teenage Engineering guitar amp to look like. | Image: Teenage Engineering Teenage Engineering is branching out into instrument amps with the previously leaked EP-35 , a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to it via Bluetooth and connect multiple EP-35s together over Bluetooth using Auracast . If you have them paired in stereo, tilting a unit to the left or right sets it to the appropriate stereo channel, which is pretty neat. There are separate effects processors for guitar and vocals, though you have limite … Read the full story at The Verge.</description>
-<dc:creator>Terrence O’Brien</dc:creator>
-<content:encoded>It looks exactly like what you’d expect a Teenage Engineering guitar amp to look like. | Image: Teenage Engineering Teenage Engineering is branching out into instrument amps with the previously leaked EP-35 , a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to it via Bluetooth and connect multiple EP-35s together over Bluetooth using Auracast . If you have them paired in stereo, tilting a unit to the left or right sets it to the appropriate stereo channel, which is pretty neat. There are separate effects processors for guitar and vocals, though you have limite … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/teenage-engineering-ep-35.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/teenage-engineering-ep-35.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Ink droplets in motion snag top prize in Nikon Small World contest</title>
@@ -1330,19 +1382,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg" medium="image"/>
 </item>
 <item>
-<title>Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought</title>
-<link>https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought</link>
-<guid isPermaLink="false">cda78f4c48ea7539bdf6db8420cfcf497032dd01b59663bf0972aa3e24787052</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 22:06:07 +0000</pubDate>
-<description>In September, when Microsoft severely limited the game-streaming buffet available to Game Pass subscribers , the company said non-subscribers would soon be able to "purchase cloud playtime hours through the Xbox Store and stream eligible games they own on supported devices." Today, Microsoft rolled out those a la carte Cloud Playtime purchases to Xbox Insiders, with prices that might be a bit galling for players who have already purchased these streamable games. The "introductory launch pricing" for Xbox's Cloud Playtime purchases is as follows: 10 hours for $4 (~$0.40/hour) 25 hours for $8 (~$0.32/hour) 50 hours for $12 (~$0.24/hour) Purchased playtime "remains available until it’s used," Microsoft writes, so you don't have to worry about your 50-hour purchase expiring before you can use it fully. Read full article Comments</description>
-<dc:creator>Kyle Orland</dc:creator>
-<content:encoded>In September, when Microsoft severely limited the game-streaming buffet available to Game Pass subscribers , the company said non-subscribers would soon be able to "purchase cloud playtime hours through the Xbox Store and stream eligible games they own on supported devices." Today, Microsoft rolled out those a la carte Cloud Playtime purchases to Xbox Insiders, with prices that might be a bit galling for players who have already purchased these streamable games. The "introductory launch pricing" for Xbox's Cloud Playtime purchases is as follows: 10 hours for $4 (~$0.40/hour) 25 hours for $8 (~$0.32/hour) 50 hours for $12 (~$0.24/hour) Purchased playtime "remains available until it’s used," Microsoft writes, so you don't have to worry about your 50-hour purchase expiring before you can use it fully. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores</title>
 <link>https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores</link>
 <guid isPermaLink="false">ee6639b974071d7e33cca0bbb5d5241f536738af48fee396491bb5e133c4c66b</guid>
@@ -1354,32 +1393,6 @@
 <content:encoded>Some hosts are threatening to strike, while others are plotting ways around Airbnb’s new restrictions. Guests, meanwhile, are celebrating.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad8f12cba3e5597384c89ad/master/pass/Business_Airbnb%20Hosts%20Are%20Furious%20They%20Can%20No%20Longer%20Make%20Guests%20Do%20Their%20Chores_v2.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad8f12cba3e5597384c89ad/master/pass/Business_Airbnb%20Hosts%20Are%20Furious%20They%20Can%20No%20Longer%20Make%20Guests%20Do%20Their%20Chores_v2.jpg" medium="image"/>
-</item>
-<item>
-<title>Enterprises keep buying software upgrades that IT thinks will make things worse</title>
-<link>https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades</link>
-<guid isPermaLink="false">6dbbd05f3543fccaab382ea3a941ef1e7e4af25358a0f736c2d6fe793d1eb06f</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 21:48:52 +0000</pubDate>
-<description>Enterprise-sized businesses spend, on average, 28 percent of their software budgets on unwanted upgrades, migrations, and licensing changes. Often, those firms' IT heads think those changes are detrimental. Those results are according to a survey of 2,018 chief information officers and senior IT decision-makers at companies with at least 10,000 employees that Origina commissioned for its report, “ The Software Tax .” About half of the respondents (1,011) are from the US, and the rest are from the United Kingdom. All respondents worked at companies with at least $1 billion in annual revenue. Keep in mind that Origina provides maintenance for various enterprise software. Its report points to independent software maintenance as a way for IT leaders to regain control over software budgets, illustrating its potential bias. A third-party research consultancy, Censuswide , conducted the survey. Read full article Comments</description>
-<dc:creator>Scharon Harding</dc:creator>
-<content:encoded>Enterprise-sized businesses spend, on average, 28 percent of their software budgets on unwanted upgrades, migrations, and licensing changes. Often, those firms' IT heads think those changes are detrimental. Those results are according to a survey of 2,018 chief information officers and senior IT decision-makers at companies with at least 10,000 employees that Origina commissioned for its report, “ The Software Tax .” About half of the respondents (1,011) are from the US, and the rest are from the United Kingdom. All respondents worked at companies with at least $1 billion in annual revenue. Keep in mind that Origina provides maintenance for various enterprise software. Its report points to independent software maintenance as a way for IT leaders to regain control over software budgets, illustrating its potential bias. A third-party research consultancy, Censuswide , conducted the survey. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Tesla profits drop 43% in Q3</title>
-<link>https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3</link>
-<guid isPermaLink="false">4ad5c31d34491ac9875bfc650c90b2ec98beb0314bf598e3e64a39b3617562cb</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 21:35:07 +0000</pubDate>
-<description>Tesla published its third-quarter 2026 financial results this afternoon. Earlier in October, it reported its sales and deliveries for the three-month period, selling fewer cars than in the same quarter in 2025 , yet it still beat analyst projections. Now we can see how those sales translate to the bottom line. Tesla brought in $28 billion in revenue in Q3, almost the same as in 2025. Automotive revenues were $20.6 billion, a 3 percent decrease year over year. Perhaps more troubling is the decline in revenue from solar panels and storage batteries—this line of business had been growing, but for Q3 revenue fell 16 percent year over year to $2.9 billion. Services and other revenues, though, which include parts and Supercharger use, grew by a third to $4.6 billion. But the company—like the rest of us—has seen its expenses go up. Operating expenses rose by 39 percent to $4.8 billion, dropping the company’s operating margin to just 2.6 percent; in Q3 2025, Tesla’s margin was 5.8 percent. Net profit fell to $787 million, down 43 percent year over year. What’s more, capital expenditures were up by 110 percent to $4.7 billion, and free cash flow was down 62 percent to $1.5 billion. Read full article Comments</description>
-<dc:creator>Jonathan M. Gitlin</dc:creator>
-<content:encoded>Tesla published its third-quarter 2026 financial results this afternoon. Earlier in October, it reported its sales and deliveries for the three-month period, selling fewer cars than in the same quarter in 2025 , yet it still beat analyst projections. Now we can see how those sales translate to the bottom line. Tesla brought in $28 billion in revenue in Q3, almost the same as in 2025. Automotive revenues were $20.6 billion, a 3 percent decrease year over year. Perhaps more troubling is the decline in revenue from solar panels and storage batteries—this line of business had been growing, but for Q3 revenue fell 16 percent year over year to $2.9 billion. Services and other revenues, though, which include parts and Supercharger use, grew by a third to $4.6 billion. But the company—like the rest of us—has seen its expenses go up. Operating expenses rose by 39 percent to $4.8 billion, dropping the company’s operating margin to just 2.6 percent; in Q3 2025, Tesla’s margin was 5.8 percent. Net profit fell to $787 million, down 43 percent year over year. What’s more, capital expenditures were up by 110 percent to $4.7 billion, and free cash flow was down 62 percent to $1.5 billion. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2019/10/tesla-polarizing-500x500.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2019/10/tesla-polarizing-500x500.jpg" medium="image"/>
 </item>
 <item>
 <title>‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms</title>
@@ -1445,19 +1458,6 @@
 <content:encoded>Why use your smartphone when AI can do it for you? We’ve reached a new level of AI inanity with the launch of Opposable , a tool that taps, swipes, and types on Android phones and controls iPhones through a companion computer, sparing users the apparent burden of operating their own devices. If you don't want to update a calendar event, start a timer, or enable dark mode, you can apparently use an AI agent app on your computer (any client that supports MCP will do) to have Opposable do the thing for you on a connected phone. You could just do it on your computer, of course, but that’d require actually using your hands - like it’s some sort of baby’s toy . Lame. Opposable describes the purpose of its app as being to “give your AI thumbs” that allow an agent to open apps, read the screen, tap, and type, all while signed in to a device as the person too lazy to use a super-convenient technology themselves. As described in a blog post published by its creators Wednesday, Opposable's developers explain that its Android implementation uses accessibility services to inspect the screen, while screenshots provide visual input for an AI model. The model then decodes the images and figures out where it needs to tap on the screen in order to do whatever its user asked of it. The visual processing is handled by a vision-language model known as GUI-Owl 1.5 2B, running through llama.cpp, while tasks can be handled by either a paired desktop AI agent or an on-device agent that works without a desktop connection (the latter is available only on Android devices – iPhones require a companion computer, with a Mac beta available and a hardware-assisted Windows/Linux option also advertised). Even then, AI isn’t used for everything, with around 40 common tasks (setting an alarm, sending a text, switching Wi-Fi on or off) running as fixed code without an AI model involved. Opposable doesn’t appear to be particularly fast, however, and its accuracy is questionable too. Opposable’s website includes three different examples of tasks executed using its product, and none seem to merit using an AI over, you know, human hands. In one example, Claude Code over MCP is used to change the system’s theme to dark mode and then set a five-minute timer. This takes 50 seconds and requires 17 tool calls. In a second example using Claude Code and MCP, Opposable is asked to look up when Apollo 11 launched and who was on board, which takes just shy of two minutes. The number of tool calls isn’t mentioned, but the run cost is $0.44, which seems ridiculous when you can use your hands and figure it out for free. Hell, just asking Gemini or Siri right on a smartphone would return the answer faster and cheaper. Those half-a-buck requests to Opposable could add up pretty quickly if you’re lazy enough to justify its use. A third example shows a virtual Android device operating without a paired desktop agent, instead relying on the on-device agent that Opposable installs on Android phones. Opening the clock app and switching to the stopwatch tab takes it about 96 seconds, which is supposed to be impressive, apparently, as the company behind Opposable decided to showcase it on the thing’s website. As for Opposable’s ability to actually accomplish tasks, well, that’s not exactly a sure thing. “On eight tasks the model had never been tuned on, run on the emulator twice each, giving it the whole task succeeded 4 and 3 times,” the blog post notes. I’m pretty sure my brain and hands can do better without burning tokens to fail. “Giving it one subgoal at a time and checking each claimed success against the accessibility tree before the next subgoal succeeded 6 times in both rounds,” the blog continues - so even when it gets babysat each step of the way, it still only succeeds at three-quarters of tasks. Cool - that’s really going to free up all that time wasted setting timers and doing other mundane tasks on my handset. Why someone would install this on their Android device - which requires sideloading an APK and manually granting access to read and interact with the screen through accessibility settings - seems like a bit of a mystery. Opposable’s website even warns that it could be a security disaster: “whoever holds the token can operate the phone, so treat it like a password,” but still invites users to try. An argument could be made for using Opposable as an accessibility tool for people with difficulty using a smartphone, but this isn’t mentioned anywhere on its website. Opposable is instead billed as a way to “hand off the phone chores,” leaving users free to do something else - just not on the phone currently being slowly controlled by a clumsy AI. Sure, you could give your AI some virtual thumbs through Opposable, but … why? We reached out to the Opposable team to get an answer to that question, but didn’t hear back. ® UPDATED AT 03:25 UTC, OCTOBER 2026 to add that Opposable does not consider its product an accessibility tool. "We do not market it as an assistive tool, because we have not built it or tested it as one," a spokesperson told The Reg by email. "If people with disabilities find it useful, we want to hear from them and build for them." The spokesperson also explained why demos are so slow: "It shows our small model on the Android emulator, on a laptop CPU, with no help from the phone's hardware." When running on phone, Opposable apparently does rather better. However the outfit admits it has done only very limited testing, but is about to do more.</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5293471&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5293471&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>The new human-crafted Apple Music brand matters in an AI world</title>
-<link>https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world</link>
-<guid isPermaLink="false">5faef298a82ac228f25ca3f3ac970c4497c1553c139b498a830e9079d5ff28b1</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 19:44:40 +0000</pubDate>
-<description>Apple just revealed a new brand identity for Apple Music, with the expected turn to Liquid Glass. I’m not much of a fan of their new design language in general; this is where I admit that I’m still running MacOS Sequoia and have grumpy things to say about rounded corner radii and text legibility. It’s just a trend, it will pass, and at some point I’ll probably cave and upgrade when it starts actually affecting my ability to get work done, or more importantly get security updates. Once I adjust, I’ll stop noticing it, and life will go on. As such, I wouldn’t normally find an obvious rebrand like this notable, much less feel like I had much to say about it. But then I happened to catch Apple’s behind-the-scenes video in my YouTube recommendations, and I realized I did have thoughts. Read full article Comments</description>
-<dc:creator>Aurich Lawson</dc:creator>
-<content:encoded>Apple just revealed a new brand identity for Apple Music, with the expected turn to Liquid Glass. I’m not much of a fan of their new design language in general; this is where I admit that I’m still running MacOS Sequoia and have grumpy things to say about rounded corner radii and text legibility. It’s just a trend, it will pass, and at some point I’ll probably cave and upgrade when it starts actually affecting my ability to get work done, or more importantly get security updates. Once I adjust, I’ll stop noticing it, and life will go on. As such, I wouldn’t normally find an obvious rebrand like this notable, much less feel like I had much to say about it. But then I happened to catch Apple’s behind-the-scenes video in my YouTube recommendations, and I realized I did have thoughts. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Nvidia woos wary Europeans with more open weights models</title>
@@ -1967,19 +1967,6 @@
 <media:content url="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" medium="image"/>
 </item>
 <item>
-<title>She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family</title>
-<link>https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family</link>
-<guid isPermaLink="false">7b4f4d84b5324608b27d17b03e945d28cdaff727244e91077414a9cb5e0c4d19</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
-<description>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</description>
-<dc:creator>Joshuah Bearman, Owen Long</dc:creator>
-<content:encoded>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" medium="image"/>
-</item>
-<item>
 <title>The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More</title>
 <link>https://www.wired.com/gallery/best-hearing-aids</link>
 <guid isPermaLink="false">27d0be49bca567b709279cff7d9ce5f81336580d5f180c6c4fe18d384646bb15</guid>
@@ -1991,6 +1978,19 @@
 <content:encoded>These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" medium="image"/>
+</item>
+<item>
+<title>She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family</title>
+<link>https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family</link>
+<guid isPermaLink="false">7b4f4d84b5324608b27d17b03e945d28cdaff727244e91077414a9cb5e0c4d19</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+<description>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</description>
+<dc:creator>Joshuah Bearman, Owen Long</dc:creator>
+<content:encoded>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" medium="image"/>
 </item>
 <item>
 <title>The spec is the new code, so brush up on your prose, says Kaseya CTO</title>
@@ -2071,19 +2071,6 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
-<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ulta-coupon</link>
-<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
-<dc:creator>Boutayna Chokrane</dc:creator>
-<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
 <title>20% Off Sephora Promo Code | October 2026</title>
 <link>https://www.wired.com/story/sephora-promo-code</link>
 <guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
@@ -2095,6 +2082,19 @@
 <content:encoded>Earn more points on skincare purchases when you use our Sephora coupon.</content:encoded>
 <enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
+</item>
+<item>
+<title>Udemy Coupon Codes: 20% Off October 2026</title>
+<link>https://www.wired.com/story/udemy-promo-code</link>
+<guid isPermaLink="false">bdf16745c1dc381e10dcaac97140ef7acd4454b353e4aef36658bb375c37260f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
 </item>
 <item>
 <title>LG Promo Codes and Coupons for October 2026</title>
@@ -2123,17 +2123,17 @@
 <media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
 </item>
 <item>
-<title>Udemy Coupon Codes: 20% Off October 2026</title>
-<link>https://www.wired.com/story/udemy-promo-code</link>
-<guid isPermaLink="false">bdf16745c1dc381e10dcaac97140ef7acd4454b353e4aef36658bb375c37260f</guid>
+<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
+<link>https://www.wired.com/story/ulta-coupon</link>
+<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
+<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
+<dc:creator>Boutayna Chokrane</dc:creator>
+<content:encoded>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>Nervous ISPs replace Chrome as strange consumers of DNS resources</title>
