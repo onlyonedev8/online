@@ -4,6 +4,32 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The £1,000 mistake people are making with new iPhone purchase</title>
+<link>https://news.sky.com/story/the-1000-mistake-people-are-making-with-new-iphone-purchase-13602560</link>
+<guid isPermaLink="false">03260a42262998237f232d736b50d571f98e890889fd2329fe938a9ca6967ab5</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 06:39:00 +0000</pubDate>
+<description>Apple's new iPhone Duo is the company's first foldable device - but at £1,999, it's not cheap.</description>
+<dc:creator></dc:creator>
+<content:encoded>Apple's new iPhone Duo is the company's first foldable device - but at £1,999, it's not cheap.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-iphone-duo-apple-iphone_7384320.jpg?20261023074732" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-iphone-duo-apple-iphone_7384320.jpg?20261023074732" medium="image"/>
+</item>
+<item>
+<title>US offers mixed messages on limits to Ukraine's Starshield system</title>
+<link>https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system</link>
+<guid isPermaLink="false">4047733cea7faa5ca2b6fa9486f9bb2c0993e3f1b45e0b85b7bfb69353591a60</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 06:22:59 +0000</pubDate>
+<description>US President Donald Trump said Thursday that Ukraine's access to the Starshield satellite system had been restored after Kyiv reported limitations in its access. Trump administration officials and their allies have blamed each other for the system restrictions which a European official said were still not over in Ukraine as of Thursday.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>US President Donald Trump said Thursday that Ukraine's access to the Starshield satellite system had been restored after Kyiv reported limitations in its access. Trump administration officials and their allies have blamed each other for the system restrictions which a European official said were still not over in Ukraine as of Thursday.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/8b0223f8-cea8-11f1-bca1-bd65831edece/w:1024/p:16x9/2026-10-21T074436Z-1248184118-RC2A4OASOPG5-RTRMADP-3-UKRAINE-CRISIS-RUBIO.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/8b0223f8-cea8-11f1-bca1-bd65831edece/w:1024/p:16x9/2026-10-21T074436Z-1248184118-RC2A4OASOPG5-RTRMADP-3-UKRAINE-CRISIS-RUBIO.jpg" medium="image"/>
+</item>
+<item>
 <title>Live: Macron meets with student representatives and law enforcement ahead of new protests</title>
 <link>https://www.france24.com/en/europe/20261023-macron-meets-with-student-representatives-and-law-enforcement-ahead-of-new-protests</link>
 <guid isPermaLink="false">325d4c2058c1afab73b1bd676c7a650b290b64439cfa8623d3ffa65dddb4a78b</guid>
@@ -28,6 +54,19 @@
 <content:encoded>The Mississippi Bureau of Investigation released the body camera footage of the fatal police shooting of 1-year-old Kohen Wiley in a Walmart parking lot in Senatobia.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/AP26292692866767_1792721647382_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/AP26292692866767_1792721647382_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Taiwan shuts down schools and businesses as Typhoon Champi approaches</title>
+<link>https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches</link>
+<guid isPermaLink="false">0f72f77296eaf2cd4a8f805fd25db01fb2f9f076b37af53b1faf22112f8ec83b</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 23 Oct 2026 03:00:54 +0000</pubDate>
+<description>As Typhoon Champi approached Taiwan, most businesses and schools were closed across the island Friday and hundreds of flights were canceled in the region. Authorities reported at least one death and dozens of injuries and more than 1,200 people have evacuated their homes.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>As Typhoon Champi approached Taiwan, most businesses and schools were closed across the island Friday and hundreds of flights were canceled in the region. Authorities reported at least one death and dozens of injuries and more than 1,200 people have evacuated their homes.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/f5c2df22-ce8d-11f1-90c0-1da646a5f16c/w:1024/p:16x9/d819a05d5c2fe530ae3991168d68541f32c11897.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/f5c2df22-ce8d-11f1-90c0-1da646a5f16c/w:1024/p:16x9/d819a05d5c2fe530ae3991168d68541f32c11897.jpg" medium="image"/>
 </item>
 <item>
 <title>With lockout looming, World Series could be MLB's last games for a while</title>
@@ -147,7 +186,7 @@
 <media:content url="https://s.abcnews.com/images/Politics/261022_abcnl_3p_angienixon_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>The national resilience moment that almost barely happened</title>
+<title>The national resilience moment that almost unfolded in silence - in stark contrast to NATO allies</title>
 <link>https://news.sky.com/story/be-ready-checklist-the-national-resilience-moment-that-almost-barely-happened-13602517</link>
 <guid isPermaLink="false">f65b2942c2d3d177f7a63695cf2a9e66601ca62b0f1ea809fa782784dd9a9bf5</guid>
 <source>Sky News Home</source>
@@ -264,19 +303,6 @@
 <media:content url="https://s.france24.com/media/display/bc610e72-ce4f-11f1-8150-23d55109f116/w:1024/p:16x9/EN-20261022-210133-211454-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Woman, 27, charged after police officer shot in Nottingham city centre</title>
-<link>https://news.sky.com/story/woman-27-charged-after-police-officer-shot-in-nottingham-city-centre-13602485</link>
-<guid isPermaLink="false">1c8cb647b852ed8db6bb55a953cd6baa9de1a89f67b854ceb9fd240545921936</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 19:39:00 +0000</pubDate>
-<description>A woman has been charged in connection with the shooting of a police officer in Nottingham city centre on Sunday, police have said.</description>
-<dc:creator></dc:creator>
-<content:encoded>A woman has been charged in connection with the shooting of a police officer in Nottingham city centre on Sunday, police have said.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-nottingham-shooting_7379638.jpg?20261022205450" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-nottingham-shooting_7379638.jpg?20261022205450" medium="image"/>
-</item>
-<item>
 <title>Israel’s Ben-Gvir shares AI videos mocking Gazans as ‘donkeys’ and sending them to Paris</title>
 <link>https://www.france24.com/en/tv-shows/truth-or-fake/20261022-israel-s-ben-gvir-shares-ai-videos-mocking-gazans-as-donkeys-and-sending-them-to-paris</link>
 <guid isPermaLink="false">d0cf0d94b0cb3f6b5ac55fb50b9a26d2d1a2ab15d8b030c9a442d39df7ef028e</guid>
@@ -288,19 +314,6 @@
 <content:encoded>Israel’s far-right minister Itamar Ben-Gvir is using AI-generated videos to mock Palestinians and push political messages ahead of the country’s election, including videos magically transporting Gazans to Paris or calling them "donkeys" for choosing to stay. One video has sparked an online spat with France. AI is playing a growing role in the campaign, with parties using deepfakes, bots and AI-generated content, raising concerns about disinformation and the technology’s influence on voters.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/e919d896-ce4e-11f1-bdb8-7967b15eed96/w:1024/p:16x9/thumbnail-icon.png" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/e919d896-ce4e-11f1-bdb8-7967b15eed96/w:1024/p:16x9/thumbnail-icon.png" medium="image"/>
-</item>
-<item>
-<title>Tom Skerritt, Top Gun and Alien actor, has died</title>
-<link>https://news.sky.com/story/actor-tom-skerritt-known-for-roles-in-top-gun-and-alien-has-died-13602478</link>
-<guid isPermaLink="false">718b086acf52c9bab091a18acc167340a81dbd7573130ed9bd82adb56ac3fd8b</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 19:28:00 +0000</pubDate>
-<description>Actor Tom Skerritt, best known for roles in Top Gun and Alien, has died at the age of 93.</description>
-<dc:creator></dc:creator>
-<content:encoded>Actor Tom Skerritt, best known for roles in Top Gun and Alien, has died at the age of 93.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-tom-skerritt-hollywood_7384113.jpg?20261022204228" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-tom-skerritt-hollywood_7384113.jpg?20261022204228" medium="image"/>
 </item>
 <item>
 <title>Trump says US gave Russia nothing to free American, but reality is more complicated</title>
@@ -319,7 +332,7 @@
 <title>Hugging grandparents consent advert taken down after backlash</title>
 <link>https://news.sky.com/story/advert-from-dublin-rape-crisis-centre-on-grandparents-hugging-and-kissing-children-withdrawn-13602472</link>
 <guid isPermaLink="false">59a70cf48e3fd39fefebb71708ab0fd1ec7e4eac7f35d0b61c1ecc476ba12268</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Thu, 22 Oct 2026 19:08:00 +0000</pubDate>
 <description>An Irish advert promoting consent has been withdrawn after complaints about its depictions of grandparents hugging and kissing their grandkids.</description>
@@ -524,19 +537,6 @@
 <media:content url="https://s.france24.com/media/display/fe660f46-ce29-11f1-adff-3f59e19fd7f8/w:1024/p:16x9/capture-d432d452.jpg" medium="image"/>
 </item>
 <item>
-<title>Italian truckers block roads to protest against soaring diesel prices</title>
-<link>https://www.france24.com/en/video/20261022-italian-truckers-block-roads-to-protest-against-soaring-diesel-prices</link>
-<guid isPermaLink="false">799010a68224c9be96ba70361e6aa71c678f32370f1e79975a4d55a87f4e3f13</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 15:31:04 +0000</pubDate>
-<description>Italian truck drivers have been blocking refineries and key roads to protest against soaring diesel prices. Italy’s government has warned truckers blocking roads could face criminal penalties, as authorities move to clear demonstrations. Details by FRANCE 24's correspondent in Rome, Seema Gupta.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>Italian truck drivers have been blocking refineries and key roads to protest against soaring diesel prices. Italy’s government has warned truckers blocking roads could face criminal penalties, as authorities move to clear demonstrations. Details by FRANCE 24's correspondent in Rome, Seema Gupta.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/d973d77e-ce2c-11f1-88bb-23d55109f116/w:1024/p:16x9/capture-df3e48d0.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/d973d77e-ce2c-11f1-88bb-23d55109f116/w:1024/p:16x9/capture-df3e48d0.jpg" medium="image"/>
-</item>
-<item>
 <title>Winter energy supply secure but possible 'tight days' for electricity - grid operators</title>
 <link>https://news.sky.com/story/winter-energy-supply-secure-despite-forecast-increase-in-peak-gas-and-possible-external-events-influence-grid-operators-13602351</link>
 <guid isPermaLink="false">55df24343149fd21838b066fb7ce6e8b7cbb455921b65114c4678e014afffcbe</guid>
@@ -576,45 +576,6 @@
 <media:content url="https://s.abcnews.com/images/Politics/vote-georgia-2-gty-gmh-261020_1792515191870_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Cameroon: Ten years after a massive train disaster, victims are still awaiting justice</title>
-<link>https://www.france24.com/en/video/20261022-cameroon-ten-years-after-a-massive-train-disaster-victims-are-still-awaiting-justice</link>
-<guid isPermaLink="false">8e557c9796f58c0fc184aae7b97ce0bbbd70caf99ba6a00500badebaacccbd76</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 14:23:38 +0000</pubDate>
-<description>It has been ten years since a Cameroon National Railway Intercity train travelling between Yaounde and Douala derailed and became the country's worst ever railway disaster. Seventy-nine people were killed and hundreds were injured.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>It has been ten years since a Cameroon National Railway Intercity train travelling between Yaounde and Douala derailed and became the country's worst ever railway disaster. Seventy-nine people were killed and hundreds were injured.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/319a19c0-cd76-11f1-be77-19980254bb31/w:1024/p:16x9/AP16296707809075.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/319a19c0-cd76-11f1-be77-19980254bb31/w:1024/p:16x9/AP16296707809075.jpg" medium="image"/>
-</item>
-<item>
-<title>French PM Sebastien Lecornu meets with leaders of political parties amid unrest</title>
-<link>https://www.france24.com/en/video/20261022-french-pm-sebastien-lecornu-meets-with-leaders-of-political-parties-amid-unrest</link>
-<guid isPermaLink="false">f238395a2fcc55d9c9878b711d375db4d23e8e4857f75ceb114ccdf664da1e13</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 14:21:42 +0000</pubDate>
-<description>French PM Sebastien Lecornu holds a meeting with the leaders of political parties after unrest this weekend across the country. The aim is to prevent potential violence during the next protests, including on Saturday as the "Yellow vests" movement called for a new mobilisation. Details by FRANCE 24's Luke Shrago.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>French PM Sebastien Lecornu holds a meeting with the leaders of political parties after unrest this weekend across the country. The aim is to prevent potential violence during the next protests, including on Saturday as the "Yellow vests" movement called for a new mobilisation. Details by FRANCE 24's Luke Shrago.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/8b7ebcfa-ce22-11f1-b348-97baf3e9dd31/w:1024/p:16x9/capture-1d521ee2.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/8b7ebcfa-ce22-11f1-b348-97baf3e9dd31/w:1024/p:16x9/capture-1d521ee2.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump ordered to sit for deposition in his $10bn BBC lawsuit</title>
-<link>https://news.sky.com/story/donald-trump-ordered-by-judge-to-sit-for-deposition-in-his-10bn-defamation-lawsuit-against-the-bbc-13602301</link>
-<guid isPermaLink="false">acc57000ebba60a2bfafff41f677d58eb2e14e44dc207309e244b537278ed338</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 14:07:00 +0000</pubDate>
-<description>A federal judge has ordered US President Donald Trump to sit for a deposition in his $10bn defamation lawsuit against the BBC by early December.</description>
-<dc:creator></dc:creator>
-<content:encoded>A federal judge has ordered US President Donald Trump to sit for a deposition in his $10bn defamation lawsuit against the BBC by early December.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-donald-trump-us-president_7369192.jpg?20261005210257" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-donald-trump-us-president_7369192.jpg?20261005210257" medium="image"/>
-</item>
-<item>
 <title>Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates</title>
 <link>https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino</link>
 <guid isPermaLink="false">96e7288763adfb8ea3f21dd8f062647f0ff41074959a11c5fb15dcc39d951918</guid>
@@ -652,19 +613,6 @@
 <content:encoded>As the Tampa Bay Rays and their fans prepare for the World Series, David Muir reports on how the community rebuilt the city and repair Tropicana Field after Hurricane Milton.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/WNT/261021_wn_ender_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/WNT/261021_wn_ender_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Amber weather warning in place as named storm hits UK - with another hours away</title>
-<link>https://news.sky.com/story/boelo-met-office-names-second-storm-to-hit-uk-in-24-hours-13602192</link>
-<guid isPermaLink="false">156bebe3dde6bebc4c26168588014b49d745760b0fa768796b591bdf73dc1894</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 09:23:00 +0000</pubDate>
-<description>Several weather warnings are in place as the first named storm of the season hits the UK today.</description>
-<dc:creator></dc:creator>
-<content:encoded>Several weather warnings are in place as the first named storm of the season hits the UK today.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-weather-london_7347830.jpg?20260911105906" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-weather-london_7347830.jpg?20260911105906" medium="image"/>
 </item>
 <item>
 <title>Trump merchandise stores are closing: 'He has peaked'</title>
@@ -769,19 +717,6 @@
 <content:encoded>National Geographic editor-in-chief Nathan Lump talks about must-visit destinations for 2027.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/Travel/261021_abcnl_11a_lump_natgeo_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Travel/261021_abcnl_11a_lump_natgeo_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>PC Sharon Beshenivsky killer jailed over underworld guns operation</title>
-<link>https://news.sky.com/story/pc-sharon-beshenivsky-killer-jailed-over-underworld-guns-operation-13601924</link>
-<guid isPermaLink="false">fd8131a00bc994286e0a0b216c96104115756181cc0a17d11b6ed52db16c556d</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 21 Oct 2026 14:20:00 +0000</pubDate>
-<description>A getaway driver for the gang who shot dead PC Sharon Beshenivsky in an armed robbery has been given a life sentence with a minimum term of eight years over his role in an underworld gun business.</description>
-<dc:creator></dc:creator>
-<content:encoded>A getaway driver for the gang who shot dead PC Sharon Beshenivsky in an armed robbery has been given a life sentence with a minimum term of eight years over his role in an underworld gun business.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-faisal-razzaq-razzaq_7283383.jpg?20260626110019" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/06/1920x1080/skynews-faisal-razzaq-razzaq_7283383.jpg?20260626110019" medium="image"/>
 </item>
 <item>
 <title>WATCH: Controversy brews over home of Winnie the Pooh</title>
