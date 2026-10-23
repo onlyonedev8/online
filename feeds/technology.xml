@@ -4,6 +4,45 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Greece enacts social media ban for kids under 15</title>
+<link>https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15</link>
+<guid isPermaLink="false">f02a73f4bc0a0b5395fad8de209c1f95e8ae805296585b25252793ac7531330c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 13:12:47 +0000</pubDate>
+<description>Greece has passed a social media ban for kids under 15 after after announcing the measure earlier this year.</description>
+<dc:creator>staff@engadget.com (Steve Dent)</dc:creator>
+<content:encoded>Greece has passed a social media ban for kids under 15 after after announcing the measure earlier this year.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/greece-enacts-social-media-ban-for-kids-under-15/l-intro-1792761065.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/greece-enacts-social-media-ban-for-kids-under-15/l-intro-1792761065.jpg" medium="image"/>
+</item>
+<item>
+<title>People are vibe coding their way to better TVs</title>
+<link>https://www.theverge.com/tech/1016116/vibe-coding-tv-os</link>
+<guid isPermaLink="false">d690f00a2af6682a31a104709c9224ebc4fa12c29a58594da7b0914fdfc3c8dc</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate>
+<description>Just imagine… a nice, clean homescreen with no ads, thanks to Claude. | Image: cleanyourtv Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their homescreens. While a lot of it is fun - one user turned their TV homescreen into a Pokémon town - I think there's a level of frustration behind it, too. And TV companies should take notice. Vibe coded my parents' TV this afternoon! It was showing a sponsored ad before you could even get to Netflix. Gave Claude Code the model number, it found the TV on wifi, removed 25 Xiaomi packages and wrote a new launcher. Looks … Read the full story at The Verge.</description>
+<dc:creator>John Higgins</dc:creator>
+<content:encoded>Just imagine… a nice, clean homescreen with no ads, thanks to Claude. | Image: cleanyourtv Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their homescreens. While a lot of it is fun - one user turned their TV homescreen into a Pokémon town - I think there's a level of frustration behind it, too. And TV companies should take notice. Vibe coded my parents' TV this afternoon! It was showing a sponsored ad before you could even get to Netflix. Gave Claude Code the model number, it found the TV on wifi, removed 25 Xiaomi packages and wrote a new launcher. Looks … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Netflix can’t fire its way out of this downward spiral</title>
+<link>https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad</link>
+<guid isPermaLink="false">c1fe178486987bed375e1cc925cc83643dde8699e8ecb97494f667cca329b61a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate>
+<description>Netflix co-CEO Ted Sarandos. | Photo by Noam Galai/Getty Images Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company was going to lay off 1,000 employees , downsizing its product, tech, and legal departments , and was ousting its chief content officer , film chairman , and film vice president . But it had also hired a new COO - "one of the most effective at-scale operators in the entertainment industry," Sarandos said - to turn things around. Though executive shake-ups aren't uncommon, having so many of them back to back would send a concerning message even in the best of circumstances. With Netflix, however, the situation lo … Read the full story at The Verge.</description>
+<dc:creator>Charles Pulliam-Moore</dc:creator>
+<content:encoded>Netflix co-CEO Ted Sarandos. | Photo by Noam Galai/Getty Images Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company was going to lay off 1,000 employees , downsizing its product, tech, and legal departments , and was ousting its chief content officer , film chairman , and film vice president . But it had also hired a new COO - "one of the most effective at-scale operators in the entertainment industry," Sarandos said - to turn things around. Though executive shake-ups aren't uncommon, having so many of them back to back would send a concerning message even in the best of circumstances. With Netflix, however, the situation lo … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2275802864.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2275802864.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Brick’s new app blocker is designed for bedtime doomscrolling</title>
 <link>https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch</link>
 <guid isPermaLink="false">f934fe64859bc83c4c7eac5fbe10748b78fa67dbb1baea65bbe6fbaa23644260</guid>
@@ -23,9 +62,9 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-<description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser , Wind Waker on the iPhone , Super Smash Bros. in mixed reality . Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to preserving games. Decomps and recomps - shorthand for decomposition and recomposition - are a form of reverse engineering that involves breaking a game … Read the full story at The Verge.</description>
+<description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser , Wind Waker on the iPhone , Super Smash Bros. in mixed reality . Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to preserving games. Decomps and recomps - shorthand for decompile and recompile - are a form of reverse engineering that involves breaking a game down to … Read the full story at The Verge.</description>
 <dc:creator>Andrew Webster</dc:creator>
-<content:encoded>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser , Wind Waker on the iPhone , Super Smash Bros. in mixed reality . Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to preserving games. Decomps and recomps - shorthand for decomposition and recomposition - are a form of reverse engineering that involves breaking a game … Read the full story at The Verge.</content:encoded>
+<content:encoded>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser , Wind Waker on the iPhone , Super Smash Bros. in mixed reality . Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to preserving games. Decomps and recomps - shorthand for decompile and recompile - are a form of reverse engineering that involves breaking a game down to … Read the full story at The Verge.</content:encoded>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -275,6 +314,19 @@
 <content:encoded>Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro.</content:encoded>
 <enclosure url="https://www.engadget.com/img/gallery/oura-sues-ultrahuman-yet-again-ring-pro/l-intro-1792756423.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/oura-sues-ultrahuman-yet-again-ring-pro/l-intro-1792756423.jpg" medium="image"/>
+</item>
+<item>
+<title>Best Early Black Friday Smart Bird Feeder Deals (2026)</title>
+<link>https://www.wired.com/story/early-black-friday-smart-bird-feeder-deals-october-2026</link>
+<guid isPermaLink="false">bc8bdb5dae0b3e9d6fff9862168dfea46523a310bc6877ce2cb5cba501ff3d98</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 09:30:00 +0000</pubDate>
+<description>I’ve spent years testing smart bird feeders. These are the currently discounted models I’d buy for myself—or give as gifts.</description>
+<dc:creator>Kat Merck</dc:creator>
+<content:encoded>I’ve spent years testing smart bird feeders. These are the currently discounted models I’d buy for myself—or give as gifts.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ada52d9d1bc30ab6431c2b6/master/pass/My%20Favorite%20Smart%20Bird%20Feeders%20Are%20Already%20on%20Sale%20for%20Black%20Friday%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada52d9d1bc30ab6431c2b6/master/pass/My%20Favorite%20Smart%20Bird%20Feeders%20Are%20Already%20on%20Sale%20for%20Black%20Friday%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>UK threatens subsea cable saboteurs with 14 years behind bars</title>
@@ -535,32 +587,6 @@
 <content:encoded>PM will also announce funding for specialised protective gear and the deployment of military aircraft The UK government is to create an AI Cobra unit to spot wildfires after this year’s record-breaking summer saw devastating blazes across the country. The country experienced its hottest-ever summer this year, with prolonged dry periods and extreme heat fuelling wildfires that triggered an emergency alert to mobile phones in England and Wales. Figures released on 8 October showed a clear upward trend in the number of fires recorded each year. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/ddd42922992ae55f86ec51be5c53ef522fcfffa2/0_0_6096_4878/master/6096.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03e4d514aea37d6c7515d150e36dc51d" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ddd42922992ae55f86ec51be5c53ef522fcfffa2/0_0_6096_4878/master/6096.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03e4d514aea37d6c7515d150e36dc51d" medium="image"/>
-</item>
-<item>
-<title>PC shipments dropped over 20 percent in Q3 due to RAM price hikes</title>
-<link>https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram</link>
-<guid isPermaLink="false">c2e4b9e500abf8ef6384a60b61802aa7b50a3fdcc3d7f5076e45d361faf0e4fa</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 21:30:39 +0000</pubDate>
-<description>Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low . Counterpoint linked the decline in PC shipments to higher component prices. Up until Q2 2026 , PC shipments had been growing for over two years straight. But over the last several months, RAM, SSDs , and chips from Intel , AMD , and Qualcomm have all gotten more expensive, leading to price hikes on everything from MacBooks to Raspberry Pis . C … Read the full story at The Verge.</description>
-<dc:creator>Stevie Bonifield</dc:creator>
-<content:encoded>Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low . Counterpoint linked the decline in PC shipments to higher component prices. Up until Q2 2026 , PC shipments had been growing for over two years straight. But over the last several months, RAM, SSDs , and chips from Intel , AMD , and Qualcomm have all gotten more expensive, leading to price hikes on everything from MacBooks to Raspberry Pis . C … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Fall 2026 earnings watch</title>
-<link>https://www.theverge.com/tech/1016506/fall-2026-earnings-watch</link>
-<guid isPermaLink="false">f7509caa6c98a7eb8defa9d4729bc224945030ab7cf569bc51c412d22dcc96fb</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 21:15:16 +0000</pubDate>
-<description>Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next. Sure, let’s smoosh SpaceX and Tesla together, who cares Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready In Meta’s version of the future, I’ll have my Muse call your Muse Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen? Meta to create a new class of shares to fund AI push Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement Not even flying Roadsters can lift Tesla’s flat Q3 revenues Tesla and SpaceX are discussing a possible merger, Musk says SpaceX will try catching Starship and its booster for first time, Musk says Netflix is telling investors not to worry, even though you’re watching less and less SpaceX says big AI growth fueled revenue jump</description>
-<dc:creator>Verge Staff</dc:creator>
-<content:encoded>Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next. Sure, let’s smoosh SpaceX and Tesla together, who cares Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready In Meta’s version of the future, I’ll have my Muse call your Muse Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen? Meta to create a new class of shares to fund AI push Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement Not even flying Roadsters can lift Tesla’s flat Q3 revenues Tesla and SpaceX are discussing a possible merger, Musk says SpaceX will try catching Starship and its booster for first time, Musk says Netflix is telling investors not to worry, even though you’re watching less and less SpaceX says big AI growth fueled revenue jump</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Comcast loses more customers, claims other ISPs' cheap prices are "irrational"</title>
@@ -1224,19 +1250,6 @@
 <content:encoded>In an ocean of boring microphones, Insta360's Mic adds a (customizable) pop of color.</content:encoded>
 <enclosure url="https://www.engadget.com/img/gallery/insta360-mic-review-a-midrange-mic-kit-thats-anything-but-boring/l-intro-1792526511.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/insta360-mic-review-a-midrange-mic-kit-thats-anything-but-boring/l-intro-1792526511.jpg" medium="image"/>
-</item>
-<item>
-<title>Roku's Pro Series LX OLED TVs are now available on Amazon</title>
-<link>https://www.engadget.com/2293840/roku-pro-series-lx-oled-tvs-at-amazon</link>
-<guid isPermaLink="false">fa903195fa04d75652fcf4a686826d61658df4384eea3c464ee85695d7f9beb1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-<description>Roku has released its Pro Series LX OLED TVs, which are now available on Amazon in 55 and 65-inch variants.</description>
-<dc:creator>staff@engadget.com (Mariella Moon)</dc:creator>
-<content:encoded>Roku has released its Pro Series LX OLED TVs, which are now available on Amazon in 55 and 65-inch variants.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/rokus-pro-series-lx-oled-tvs-are-now-available-on-amazon/l-intro-1792665032.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/rokus-pro-series-lx-oled-tvs-are-now-available-on-amazon/l-intro-1792665032.jpg" medium="image"/>
 </item>
 <item>
 <title>‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show</title>
@@ -2173,19 +2186,6 @@
 <content:encoded>Java has elbowed its way onto a Tyne and Wear Metro information display, giving passengers an error message alongside their train times. Eagle-eyed Register reader abend0c4 spotted the sign, whose dialog design suggests a rather elderly Windows installation. Could it be Windows 7 in Classic guise, or perhaps Windows Server 2008 R2? Both wheezed their last in 2023, when the Extended Security Updates (ESU) program ended. Or perhaps POSReady 7? That kept going (again via ESU) until October 8, 2024 . Not that the end of ESU means the code will suddenly stop working. Just that Microsoft has called a halt to updates. The Tyne and Wear Metro is no stranger to keeping old technology running past its expiration date. Opened in August 1980 , the transit network has been replacing its aging rolling stock with new units, but the signage has endured. Then again, compared to the Commodore VIC-20 and Apple II, which ruled the home computing roost in 1980, perhaps an operating system that's only been obsolete for a few years isn't such a bad thing. Any second now somebody will be writing an email about some hardware by Sinclair, Acorn, or their particular device maker of choice. But back to the sign. Sadly, it's unclear which version of Java has elbowed its way to the foreground. Java's troubleshooting guidance lists video driver problems as one possible cause of this error. The train indicator seems to be operating as normal if somewhat obscured by Java's attempt to be the centre of attention," our reader noted. Java is longer be a bright young thing, yet it still keeps plenty of enterprise systems running behind the scenes. On this occasion, it appears to prefer the foreground. We'd prefer it kept a lower profile. Passengers have enough ups and downs without Java throwing its toys out of the virtual pram. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5304110&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5304110&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer</title>
-<link>https://www.wired.com/story/openai-startup-brain-implants-detect-cancer</link>
-<guid isPermaLink="false">2c4e7f92e57194808c7b2f8fca8a9bfad8fc2ae447d3c872c2c9d399ec561434</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 10:30:00 +0000</pubDate>
-<description>It’s the latest in a growing wave of bets that AI companies are making on brain data.</description>
-<dc:creator>Emily Mullin</dc:creator>
-<content:encoded>It’s the latest in a growing wave of bets that AI companies are making on brain data.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" medium="image"/>
 </item>
 <item>
 <title>The spec is the new code, so brush up on your prose, says Kaseya CTO</title>
