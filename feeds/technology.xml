@@ -4,6 +4,45 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Brick’s new app blocker is designed for bedtime doomscrolling</title>
+<link>https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch</link>
+<guid isPermaLink="false">f934fe64859bc83c4c7eac5fbe10748b78fa67dbb1baea65bbe6fbaa23644260</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 12:50:17 +0000</pubDate>
+<description>The Brick Night is considerably bigger then the OG Brick, and more than double the price. | Image: Brick Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night introduces a location-based element: instead of requiring you to tap your phone against the device, like the OG Brick , this version uses Bluetooth to automatically kick in when you enter your bedroom (or any other room you put it in). The Brick Night uses two CR2477 batteries, and you can set a location zone of up to 25 feet x 25 feet. Both this and the Brick allow you to select specific apps to block instead of rendering your entire phone inacces … Read the full story at The Verge.</description>
+<dc:creator>Jess Weatherbed</dc:creator>
+<content:encoded>The Brick Night is considerably bigger then the OG Brick, and more than double the price. | Image: Brick Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night introduces a location-based element: instead of requiring you to tap your phone against the device, like the OG Brick , this version uses Bluetooth to automatically kick in when you enter your bedroom (or any other room you put it in). The Brick Night uses two CR2477 batteries, and you can set a location zone of up to 25 feet x 25 feet. Both this and the Brick allow you to select specific apps to block instead of rendering your entire phone inacces … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Retro gaming is being overrun with AI</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</link>
+<guid isPermaLink="false">4958c298c8376221908566391457d63eb51c090af21e1db79aa61494ddb98cd1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+<description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser , Wind Waker on the iPhone , Super Smash Bros. in mixed reality . Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to preserving games. Decomps and recomps - shorthand for decomposition and recomposition - are a form of reverse engineering that involves breaking a game … Read the full story at The Verge.</description>
+<dc:creator>Andrew Webster</dc:creator>
+<content:encoded>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser , Wind Waker on the iPhone , Super Smash Bros. in mixed reality . Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to preserving games. Decomps and recomps - shorthand for decomposition and recomposition - are a form of reverse engineering that involves breaking a game … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark</title>
+<link>https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review</link>
+<guid isPermaLink="false">9a0970c2cab75ef72cfe68980a3882a3b5a89fb5e91df9228fa6355169397d37</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+<description>NVIDIA's RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics.</description>
+<dc:creator>staff@engadget.com (Devindra Hardawar)</dc:creator>
+<content:encoded>NVIDIA's RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark/l-intro-1792702282.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark/l-intro-1792702282.jpg" medium="image"/>
+</item>
+<item>
 <title>Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches</title>
 <link>https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357</link>
 <guid isPermaLink="false">0f512a94bfdcbecd072d481fdd198c4aa8c5865e2861ce576d7f8239ae852200</guid>
@@ -28,6 +67,19 @@
 <content:encoded>People under 35 are hunting for no-frills rides they can pay for in cash and fix themselves – defying expectations to take on steep loans Jack Price joined the Marines in fall 2021 knowing he would need a car to get around base and that he couldn’t afford a new one. A joyless, month-long search through dealer classifieds and Facebook Marketplace listings ended when his mother spotted a 2010 Volkswagen Jetta posted on her office listserv by a co-worker moving abroad. With just 60,000 miles (96,560km) on themeter, the car (a manual!) was mechanically sound, and the air conditioning, sunroof and Bluetooth radio worked too. At $6,000, it was a steal. Price paid in cash. Five years on, the Jetta, which he called the Pewter Pebble, is still carting him from A to B in unassuming style. “I’ve completely driven it into the ground,” says the 30-year-old, who lives in Los Angeles. “All over bases, cross-country a couple times, not really lovingly. I get so much crap from people, but not people my age.” Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/8e4516adf299dc7cff29a4bd96731525cf367f24/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80e6350d6694ab28d16be03caa3b23e8" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/8e4516adf299dc7cff29a4bd96731525cf367f24/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80e6350d6694ab28d16be03caa3b23e8" medium="image"/>
+</item>
+<item>
+<title>Ukraine learns to fight without Starlink as Musk plays politics with satellites</title>
+<link>https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites</link>
+<guid isPermaLink="false">f07575bcf9dc0f2507a49dbd8ee69192a13eb8dd56ed850cf65c0b42046a3014</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 11:30:22 +0000</pubDate>
+<description>Elon Musk’s Starlink satellite service has played a pivotal role in supporting Ukraine’s successful resistance to Russia’s full-scale invasion for years. But with Starlink having become increasingly unreliable due to Musk’s political inclinations and the latest surprise disruptions to service in Ukraine, the Ukrainians and Europe as a whole are now facing urgent questions about how to move forward without it. As the world’s largest communications satellite network, Starlink can typically support high-speed Internet and data streams for any user or vehicle equipped with a relatively compact Starlink terminal. This has enabled Ukraine to maintain vital communications for both civilian purposes and military operations—and has also expanded the Ukrainian military’s capability to remotely control or provide guidance to drones used in both air defense against Russian attacks and for striking back at Russian targets. “Starlink currently offers some of the best satellite coverage available, with virtually no competitors when you consider the combination of cost, availability, and ease of use,” according to the head of hardware R&amp;D at the Ukrainian defense company BlueBird Tech , who provided comments to Ars anonymously for security reasons. “In practical terms, the main limitation is the need to position the antenna so it can receive signals from the satellites.” Read full article Comments</description>
+<dc:creator>Jeremy Hsu</dc:creator>
+<content:encoded>Elon Musk’s Starlink satellite service has played a pivotal role in supporting Ukraine’s successful resistance to Russia’s full-scale invasion for years. But with Starlink having become increasingly unreliable due to Musk’s political inclinations and the latest surprise disruptions to service in Ukraine, the Ukrainians and Europe as a whole are now facing urgent questions about how to move forward without it. As the world’s largest communications satellite network, Starlink can typically support high-speed Internet and data streams for any user or vehicle equipped with a relatively compact Starlink terminal. This has enabled Ukraine to maintain vital communications for both civilian purposes and military operations—and has also expanded the Ukrainian military’s capability to remotely control or provide guidance to drones used in both air defense against Russian attacks and for striking back at Russian targets. “Starlink currently offers some of the best satellite coverage available, with virtually no competitors when you consider the combination of cost, availability, and ease of use,” according to the head of hardware R&amp;D at the Ukrainian defense company BlueBird Tech , who provided comments to Ars anonymously for security reasons. “In practical terms, the main limitation is the need to position the antenna so it can receive signals from the satellites.” Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Starlink-terminal-in-Ukraine-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Starlink-terminal-in-Ukraine-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could</title>
@@ -67,6 +119,32 @@
 <content:encoded>People who reserved the Cybertruck in Australia and New Zealand will soon get a refund, because Tesla now won't release it there.</content:encoded>
 <enclosure url="https://www.engadget.com/img/gallery/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand/l-intro-1792754657.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand/l-intro-1792754657.jpg" medium="image"/>
+</item>
+<item>
+<title>Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees</title>
+<link>https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees</link>
+<guid isPermaLink="false">6b1cb1d24fc1654545b356b1b0ba6844d4fd32a489e42814d471e9376e0de38f</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 11:15:03 +0000</pubDate>
+<description>Peacock’s series, Crystal Lake , doesn’t feel like a Friday the 13th movie when you first press play, even though it’s set up to be a prequel to the original film. (This review includes spoilers of the original Friday the 13th movie but avoids major Crystal Lake spoilers.) Instead, Crystal Lake strives to build a drama that’s half homage, half uncharted territory while giving a long-awaited backstory to Pamela Voorhees. The original villain in the first film, Pam Voorhees, shocked audiences in 1980 by popping up out of nowhere in the midst of a brutal camp counselor killing spree, then confronting the final girl with a Norman Bates-like delivery of the movie’s chilling tagline, “Kill her, mommy,” using the voice of her drowned son Jason. Betsy Palmer as Pam Voorhees in Friday the 13th . Credit: via Paramount Pictures Linda Cardellini as Pam Voorhees in Crystal Lake. Credit: via Peacock Although the hockey-masked killer, Jason Voorhees, became the horror icon at the center of the franchise, his mom, Pam, continued to fascinate fans who knew very little about her. Beheaded in the first film after just 13 minutes onscreen, her spirit would occasionally appear in later films, but the original actor, Betsy Palmer, who portrayed Pam refused to return, largely because the character has no depth. Read full article Comments</description>
+<dc:creator>Ashley Belanger</dc:creator>
+<content:encoded>Peacock’s series, Crystal Lake , doesn’t feel like a Friday the 13th movie when you first press play, even though it’s set up to be a prequel to the original film. (This review includes spoilers of the original Friday the 13th movie but avoids major Crystal Lake spoilers.) Instead, Crystal Lake strives to build a drama that’s half homage, half uncharted territory while giving a long-awaited backstory to Pamela Voorhees. The original villain in the first film, Pam Voorhees, shocked audiences in 1980 by popping up out of nowhere in the midst of a brutal camp counselor killing spree, then confronting the final girl with a Norman Bates-like delivery of the movie’s chilling tagline, “Kill her, mommy,” using the voice of her drowned son Jason. Betsy Palmer as Pam Voorhees in Friday the 13th . Credit: via Paramount Pictures Linda Cardellini as Pam Voorhees in Crystal Lake. Credit: via Peacock Although the hockey-masked killer, Jason Voorhees, became the horror icon at the center of the franchise, his mom, Pam, continued to fascinate fans who knew very little about her. Beheaded in the first film after just 13 minutes onscreen, her spirit would occasionally appear in later films, but the original actor, Betsy Palmer, who portrayed Pam refused to return, largely because the character has no depth. Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp" medium="image"/>
+</item>
+<item>
+<title>Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready</title>
+<link>https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready</link>
+<guid isPermaLink="false">f65dbaad2654eb4acb047e000de52812012dd920a18fd3345c001187c94b6aca</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 11:00:57 +0000</pubDate>
+<description>Welcome to Edition 9.16 of the Rocket Report! Lots of SpaceX-related news this week including a couple of Thursday shockers. In one story, the company told the US Space Force thanks, but no thanks after being offered three military launch contracts. Then, on the civil space side of things, SpaceX's Starship may required up to 22 refuelings to support a lunar landing, a NASA safety panel said. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Miura 5 getting closer to launch . PLD Space says its Miura 5 rocket, due to undertake its inaugural launch next year, is nearing final integration, Aviation Week reports . The rocket is one of three Miura 5s the company has already manufactured, with the other two designed to qualify key system elements, CEO Raúl Torres said in an October 19 program update. PLD Space now targets a first flight of the small-lift vehicle before mid-2027. Read full article Comments</description>
+<dc:creator>Eric Berger</dc:creator>
+<content:encoded>Welcome to Edition 9.16 of the Rocket Report! Lots of SpaceX-related news this week including a couple of Thursday shockers. In one story, the company told the US Space Force thanks, but no thanks after being offered three military launch contracts. Then, on the civil space side of things, SpaceX's Starship may required up to 22 refuelings to support a lunar landing, a NASA safety panel said. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Miura 5 getting closer to launch . PLD Space says its Miura 5 rocket, due to undertake its inaugural launch next year, is nearing final integration, Aviation Week reports . The rocket is one of three Miura 5s the company has already manufactured, with the other two designed to qualify key system elements, CEO Raúl Torres said in an October 19 program update. PLD Space now targets a first flight of the small-lift vehicle before mid-2027. Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It</title>
@@ -195,8 +273,8 @@
 <description>Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro.</description>
 <dc:creator>staff@engadget.com (Steve Dent)</dc:creator>
 <content:encoded>Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/oura-sues-ultrahuman-again-to-block-its-latest-smart-ring-from-the-us-market/l-intro-1792749492.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/oura-sues-ultrahuman-again-to-block-its-latest-smart-ring-from-the-us-market/l-intro-1792749492.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/oura-sues-ultrahuman-yet-again-ring-pro/l-intro-1792756423.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/oura-sues-ultrahuman-yet-again-ring-pro/l-intro-1792756423.jpg" medium="image"/>
 </item>
 <item>
 <title>UK threatens subsea cable saboteurs with 14 years behind bars</title>
@@ -342,7 +420,7 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,82.725656291205" medium="image"/>
 </item>
 <item>
-<title>Palmer Luckey Made a Genetically Modified Military Dog Startup</title>
+<title>Palmer Luckey and Ben Lamm Made a Genetically Modified Military Dog Startup</title>
 <link>https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup</link>
 <guid isPermaLink="false">9f488d219f29a6eeca78a73bb6b31a808bb80fcf4ecb5ceedb19891331be5618</guid>
 <source>Wired</source>
@@ -524,19 +602,6 @@
 <media:content url="https://image.theregister.com/?imageId=5304901&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Meta&amp;#8217;s AI could still scrape news sites, legal experts say</title>
-<link>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</link>
-<guid isPermaLink="false">32b3170e24109d9a6879a006f0024083d479da17f893bd37f372c04cd23a5ba5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 20:32:05 +0000</pubDate>
-<description>Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. "This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape entire sites," James Grimmelmann, a professor of digital and information law at Cornell Law School, tells Nieman Lab . Initially, Meta's new terms for business accounts appeared to give the company permission to train its AI on news sites. The terms, which go into effect October 30th, stated that Meta "may use any … Read the full story at The Verge.</description>
-<dc:creator>Emma Roth</dc:creator>
-<content:encoded>Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. "This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape entire sites," James Grimmelmann, a professor of digital and information law at Cornell Law School, tells Nieman Lab . Initially, Meta's new terms for business accounts appeared to give the company permission to train its AI on news sites. The terms, which go into effect October 30th, stated that Meta "may use any … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Human receives AI-designed virus for the first time</title>
 <link>https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874</link>
 <guid isPermaLink="false">f6217b05d3d150d1cc6bb4beb755691d54a6b746d49d38690dd9a2f2abd52ff3</guid>
@@ -548,19 +613,6 @@
 <content:encoded>Researchers have administered AI-designed, bacteria-targeting viruses to a person in what they claim is a first, but don’t press them for results: They’re not ready to say how it went quite yet. Radical Numerics, a San Francisco-based AI lab developing AI models for bioscience, announced the treatment this week, claiming it marks the first time a cocktail containing AI-designed bacteriophages has been administered to a human patient under a compassionate-use arrangement. These aren’t just any viruses, mind you: Omnii-1, the AI model publicly unveiled by Radical Numerics this week, was used to design viable bacteriophages, a type of virus that specifically infects bacteria. Therapeutic use of phages isn’t novel in and of itself, with the bacteria-targeting viruses being sought as an alternative to combat the rise of antimicrobial-resistant bacteria that are increasingly rendering antibiotics ineffective . Phages have a number of potential advantages over antibiotics, most notably their ability to target specific bacterial strains – a big plus when it comes to sparing beneficial gut bacteria that can be affected by broad-spectrum antibiotics. AI has already shown promise in speeding up phage engineering, as we reported last year when a group of researchers from Stanford University and the Arc Institute created AI-designed phages that targeted E. coli bacteria. The phages, designed using the genetic sequence of a well-studied natural E. coli phage, included several variants that outperformed their biological predecessor in laboratory tests. Similar to the Stanford work, which is referenced in Radical Numerics' write-up, the company used its own AI model to design bacteriophages, which it then tested against bacteria isolated from the antibiotic-resistant infection its patient was suffering from. “The cocktail containing Omnii-1-designed phage variants eliminated the patient's antibiotic-resistant isolate in vitro,” the company explained, so there’s at least a success on record there. “The investigational cocktail was subsequently administered to the patient under compassionate use.” Unfortunately, that’s where the trail of results ends, as Radical Numerics didn’t publish anything about the results of testing the phage in a human, citing the need to protect their privacy. The company also doesn’t want to give the impression that its AI phage therapy is generally safe or effective, noting that observations from a single patient don’t establish much of anything. It’s not even stated what infection the patient was suffering from, though the research write-up does mention testing Omnii-1’s ability to predict which phages could infect Pseudomonas aeruginosa, a bacterium that can develop antibiotic resistance and cause infections in patients with burns and other wounds, as well as persistent lung infections in cystic fibrosis patients. The AI model “performed competitively” against a specialized model at predicting phage-host interactions, the research write-up notes. There’s nothing in the paper to suggest the patient was suffering from a Pseudomonas aeruginosa infection. “This marks an important milestone in translating AI-designed biology from computational predictions and laboratory validation to clinical administration,” Radical Numerics said of its work. The treatment takes the technology beyond laboratory testing, even if it turns out not to fully eliminate the infection. Radical Numerics hopes its work will lead to a process for designing and building phages targeted to individual bacterial infections, and the need for alternatives is already pressing – antibiotic resistance is a growing global health threat, with drug-resistant infections already causing substantial mortality worldwide. Radical Numerics didn’t respond to questions for this story. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=178701&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=178701&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Meta turns Muse sharing back on</title>
-<link>https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts</link>
-<guid isPermaLink="false">50dd0c98f11d38b5c2cfbb130945651b187928b18d12facde775a090fa8ea88d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 20:24:04 +0000</pubDate>
-<description>Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web addresses for shared conversations from Muse were named after a conversation's title and written into public DNS. Ars Technica said Tuesday that Meta paused the sharing feature after it reached out about what was going on. In a post today on X, Meta's David Singleton says that "The underlying is … Read the full story at The Verge.</description>
-<dc:creator>Jay Peters</dc:creator>
-<content:encoded>Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web addresses for shared conversations from Muse were named after a conversation's title and written into public DNS. Ars Technica said Tuesday that Meta paused the sharing feature after it reached out about what was going on. In a post today on X, Meta's David Singleton says that "The underlying is … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Spotify's Family plan QR code could cost you Premium access</title>
@@ -1187,19 +1239,6 @@
 <media:content url="https://www.engadget.com/img/gallery/rokus-pro-series-lx-oled-tvs-are-now-available-on-amazon/l-intro-1792665032.jpg" medium="image"/>
 </item>
 <item>
-<title>1Password will let Muse, Dots and Grok Bot sign in to sites for you without getting your credentials</title>
-<link>https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok</link>
-<guid isPermaLink="false">0cb04ebd1c330b12296e42ecab4f6bdeaa5dcd95c9c6670eb8f4568776633eb4</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-<description>If you're willing to let AI book or buy things on your behalf, 1Password just made that easier.</description>
-<dc:creator>staff@engadget.com (Steve Dent)</dc:creator>
-<content:encoded>If you're willing to let AI book or buy things on your behalf, 1Password just made that easier.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/1password-opens-up-ai-agents-muse-dots-grok/l-intro-1792691414.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/1password-opens-up-ai-agents-muse-dots-grok/l-intro-1792691414.jpg" medium="image"/>
-</item>
-<item>
 <title>‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show</title>
 <link>https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment</link>
 <guid isPermaLink="false">b6dec1af6d693c4be3058ebfe18dcfe40187a3f3eefcc5578a73b1d1c7f758b9</guid>
@@ -1239,19 +1278,6 @@
 <media:content url="https://i.guim.co.uk/img/media/bee9ffbae201f232019437dd608cde56248e206a/0_618_2744_2194/master/2744.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e68e0e99f12bfa2a4a8721861580cd0e" medium="image"/>
 </item>
 <item>
-<title>333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email</title>
-<link>https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email</link>
-<guid isPermaLink="false">0daf65ea75cc69316f75852a177b0df3776d75e8730ee7e08da2ed2f18b7087b</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 11:30:33 +0000</pubDate>
-<description>Unknown hackers hijacked more than 300 Tor exit nodes and reconfigured them to favor unencrypted email traffic and redirect SSH connections through servers they controlled, a researcher reported Tuesday. The hijacking began in late August, when, according to Tor volunteers , the attacker used a valid password that had been reused to gain access to a Tor management server. The attacker then installed Ebury , a backdoor written for Linux that was discovered 12 years ago. Mysteries remain Then the attacker connected from the management server to a second Tor server, called Switzerland2, through SSH, using an RSA key that, for unknown reasons, investigators couldn’t find among Switzerland2’s authorized keys. With administrative control of Switzerland2, the attackers installed Ebury there as well. Finally, the attacker reconfigured settings on two exit nodes that Switzerland2 hosted. Read full article Comments</description>
-<dc:creator>Dan Goodin</dc:creator>
-<content:encoded>Unknown hackers hijacked more than 300 Tor exit nodes and reconfigured them to favor unencrypted email traffic and redirect SSH connections through servers they controlled, a researcher reported Tuesday. The hijacking began in late August, when, according to Tor volunteers , the attacker used a valid password that had been reused to gain access to a Tor management server. The attacker then installed Ebury , a backdoor written for Linux that was discovered 12 years ago. Mysteries remain Then the attacker connected from the management server to a second Tor server, called Switzerland2, through SSH, using an RSA key that, for unknown reasons, investigators couldn’t find among Switzerland2’s authorized keys. With administrative control of Switzerland2, the attackers installed Ebury there as well. Finally, the attacker reconfigured settings on two exit nodes that Switzerland2 hosted. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants</title>
 <link>https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687</link>
 <guid isPermaLink="false">9142aad40c3dc2932be198194d1d2104a129232e34b31fd604f5ee81e17b4c92</guid>
@@ -1276,19 +1302,6 @@
 <content:encoded>Company ordered to stop work at two sites in country, which has found itself at forefront of tech firms’ latest push Behind a wire fence lies a vast gaping wound of earth. Before Google’s arrival a few months ago, an estimated quarter of a million trees occupied the 330 hectares (815 acres) of forest near the town of Muhos in rural northern Finland. Now they are all gone. After the tech company illegally stripped the entire area to build a datacentre – taking even the top soil with it – all that remains is a vast expanse of mud indented with the trail marks of machinery, puddles and mounds of earth, roots and branches. Residents say that brown water flowing off the site is going into a stream that feeds the Oulujoki River. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4bb0318c7d16898ac438976376fb26c4" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4bb0318c7d16898ac438976376fb26c4" medium="image"/>
-</item>
-<item>
-<title>UN says we're going to blow past 1.5º warming, offers a "now what?" answer</title>
-<link>https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming</link>
-<guid isPermaLink="false">a817ee5a84db0553e59b3e3393862b89e448b7dd69cfda45cea0955704c04b05</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 11:15:36 +0000</pubDate>
-<description>In 2015, all but two countries agreed to make an effort to keep global temperatures from reaching 1.5° C above pre-industrial readings. Since then, most of the world has largely treated what they signed on to as aspirational, and one of the largest emitters (the US) has alternately withdrawn and recommitted to the agreement. Meanwhile, the planet has responded as expected to steadily rising carbon emissions and appears to be practically at the 1.5° limit. On Wednesday, for the first time, the United Nations Environmental Programme (UNEP) acknowledged that reality and conceded that the goal of keeping warming below 1.5° was no longer a viable one. Instead, its new goalposts focus on keeping both how long we exceed that limit and how much we exceed it by, at a minimum. Doing that will require both dramatic emissions cuts now and the removal of hundreds of gigatonnes of carbon dioxide from the atmosphere before the century is out. Bowing to the inevitable Depending on which baseline you use to establish pre-industrial temperatures, as well as which reconstruction of global temperatures you rely on, the world has either gotten very close to, or already exceeded, the 1.5° milestone. The current El Niño event, which appears exceptionally strong, will almost certainly mean that we've gone over it no matter which records you choose. Read full article Comments</description>
-<dc:creator>John Timmer</dc:creator>
-<content:encoded>In 2015, all but two countries agreed to make an effort to keep global temperatures from reaching 1.5° C above pre-industrial readings. Since then, most of the world has largely treated what they signed on to as aspirational, and one of the largest emitters (the US) has alternately withdrawn and recommitted to the agreement. Meanwhile, the planet has responded as expected to steadily rising carbon emissions and appears to be practically at the 1.5° limit. On Wednesday, for the first time, the United Nations Environmental Programme (UNEP) acknowledged that reality and conceded that the goal of keeping warming below 1.5° was no longer a viable one. Instead, its new goalposts focus on keeping both how long we exceed that limit and how much we exceed it by, at a minimum. Doing that will require both dramatic emissions cuts now and the removal of hundreds of gigatonnes of carbon dioxide from the atmosphere before the century is out. Bowing to the inevitable Depending on which baseline you use to establish pre-industrial temperatures, as well as which reconstruction of global temperatures you rely on, the world has either gotten very close to, or already exceeded, the 1.5° milestone. The current El Niño event, which appears exceptionally strong, will almost certainly mean that we've gone over it no matter which records you choose. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2170672849-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2170672849-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid</title>
@@ -1601,19 +1614,6 @@
 <content:encoded>Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg" medium="image"/>
-</item>
-<item>
-<title>FCC chair warns media not to run the "fake polls" Trump keeps complaining about</title>
-<link>https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about</link>
-<guid isPermaLink="false">ab6b7c77600683b6d32ba16fa0521bf2a755ddad7183baad771620bea5ff0e68</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 22:17:50 +0000</pubDate>
-<description>Federal Communications Commission Chairman Brendan Carr today warned broadcasters about airing "fake polls," amplifying one of the many complaints that President Trump has regularly made about the news media. Carr's post on X said, "Many journalists and broadcasters have been amplifying or airing these Polls without regard to basic journalistic ethics and without informing the public that those Polls lack a scientific, accurate, or even real basis... Broadcasters are advised to avoid engaging in News Distortions or running Broadcast Hoaxes by airing Polls that would violate their regulatory obligations." Carr urged broadcasters to "provide their viewers with additional context and information about Polls they have covered." In fact, one small polling outfit was exposed as a hoax this week, and a similar incident occurred in August. News outlets have reported on these hoaxes, providing the very "context" that Carr said is needed. Read full article Comments</description>
-<dc:creator>Jon Brodkin</dc:creator>
-<content:encoded>Federal Communications Commission Chairman Brendan Carr today warned broadcasters about airing "fake polls," amplifying one of the many complaints that President Trump has regularly made about the news media. Carr's post on X said, "Many journalists and broadcasters have been amplifying or airing these Polls without regard to basic journalistic ethics and without informing the public that those Polls lack a scientific, accurate, or even real basis... Broadcasters are advised to avoid engaging in News Distortions or running Broadcast Hoaxes by airing Polls that would violate their regulatory obligations." Carr urged broadcasters to "provide their viewers with additional context and information about Polls they have covered." In fact, one small polling outfit was exposed as a hoax this week, and a similar incident occurred in August. News outlets have reported on these hoaxes, providing the very "context" that Carr said is needed. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg" medium="image"/>
 </item>
 <item>
 <title>Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores</title>
