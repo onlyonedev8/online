@@ -4,15 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenAI says it's cutting off internet access for frontier model training</title>
+<link>https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training</link>
+<guid isPermaLink="false">1fbeabc811c2d4d9129a8893343803b9e386b35f2ce50429e17bf311c56ba088</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 22:37:02 +0000</pubDate>
+<description>OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.</description>
+<dc:creator>staff@engadget.com (Ian Carlos Campbell)</dc:creator>
+<content:encoded>OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg" medium="image"/>
+</item>
+<item>
 <title>Xbox’s first chief operating officer is out after just a few months</title>
 <link>https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure</link>
 <guid isPermaLink="false">7bee3a3c9519ed80c31b9418872d619bd2bee3abe868a9e4d8b7805750e50690</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 21:39:26 +0000</pubDate>
-<description>Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge . Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief operating officer in July. Xbox CEO Asha Sharma announced Chiang's departure in a surprisingly short memo today. "Helen Chiang is leaving Microsoft today. I'm grateful for her years of service and wish her well," said Sharma. As Chiang is departing today, her immediate responsibilities are being split up between other Xbox leaders fo … Read the full story at The Verge.</description>
+<description>Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge . Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief operating officer in July. Xbox CEO Asha Sharma announced Chiang's departure in a surprisingly short memo today. "Helen Chiang is leaving Microsoft today. I'm grateful for her years of service and wish her well," said Sharma. As Chiang is departing today, her immediate responsibilities are being split up between other Xbox leaders … Read the full story at The Verge.</description>
 <dc:creator>Tom Warren</dc:creator>
-<content:encoded>Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge . Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief operating officer in July. Xbox CEO Asha Sharma announced Chiang's departure in a surprisingly short memo today. "Helen Chiang is leaving Microsoft today. I'm grateful for her years of service and wish her well," said Sharma. As Chiang is departing today, her immediate responsibilities are being split up between other Xbox leaders fo … Read the full story at The Verge.</content:encoded>
+<content:encoded>Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge . Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief operating officer in July. Xbox CEO Asha Sharma announced Chiang's departure in a surprisingly short memo today. "Helen Chiang is leaving Microsoft today. I'm grateful for her years of service and wish her well," said Sharma. As Chiang is departing today, her immediate responsibilities are being split up between other Xbox leaders … Read the full story at The Verge.</content:encoded>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -1315,19 +1328,6 @@
 <content:encoded>The PHP2Shell security fiasco has forced 32 UK government services offline and left another four partially unavailable as Whitehall scrambles to patch the critical vulnerabilities wreaking havoc across the web. The figures were disclosed in the House of Lords on Thursday, where tech minister Baroness Lloyd of Effra outlined the disruption following the discovery of two critical flaws in PHP . "Currently, the information I have is that 32 government services are unavailable and four are partially unavailable," Lloyd told peers. "That has resulted largely from precautionary measures taken to protect systems while security updates and mitigations are applied." "We are working very carefully with departments to restore the services safely and securely following that remediation activity," she added. Whitehall has not published a full list of affected services, although the Office for Budget Responsibility (OBR) is among those known to have taken their websites offline, rather inconveniently with next week's Budget looming. Peers also raised reports of disruption affecting the DVLA and police services. Britain isn't alone in pulling the plug. Government websites in Germany, France, Belgium, Finland, and the Netherlands have also been taken offline as a precaution, along with Australia's own cybersecurity agency website. Across the Atlantic, the NSA has urged organizations to patch or disconnect vulnerable systems, although the US government has not publicly confirmed any website shutdowns. PHP2Shell comprises two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619, that could allow unauthenticated attackers to execute code on vulnerable servers. The National Cyber Security Centre (NCSC) warned organizations to patch immediately or consider pulling affected systems offline until they could be fixed. "The NCSC was briefed by OpenAI last week on this potential specific vulnerability and has been working to ensure that disclosure happened in a co-ordinated way with vendors, so there was sufficient preparation to protect customers," Lloyd said. Security firm Calif found one of the PHP bugs using OpenAI's GPT-5.6 Sol model, while Google's Wiz separately uncovered both flaws with the help of AI tools. OpenAI then dug into the vulnerabilities itself and worked with vendors and government agencies to get the word out. The government established a cross-departmental incident response operation before public disclosure, Lloyd said. The NCSC also sent 50,000 warnings to businesses and other organizations. The disruption has spread beyond central government. Liberal Democrat peer Baroness Ludford pointed to several councils whose services had reportedly been taken offline, including Edinburgh, Oxford, Bristol, Lambeth, and Barnet. She questioned why central government and local authorities remain outside the statutory duties proposed under the government's Cyber Security and Resilience Bill , which returns to the Lords on Monday. "We are not currently aware of any confirmed compromise of central government systems resulting from these vulnerabilities," Lloyd told peers, later extending that assessment to the wider UK public sector. AWS says attackers were exploiting the flaws four days before they were publicly disclosed , while Cloudflare has since recorded millions of attempts to weaponize them. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=229174&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=229174&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>PC shipments are in the toilet, plunging over 20 percent from last year</title>
-<link>https://www.engadget.com/2294257/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year</link>
-<guid isPermaLink="false">e28a9437ea1c5be25a39d3533b2c03a135c46f1d8d45fa07ab21224b98184471</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 15:56:26 +0000</pubDate>
-<description>This could reach 27 percent throughout the end of 2026 as prices continue to rise.</description>
-<dc:creator>staff@engadget.com (Lawrence Bonk)</dc:creator>
-<content:encoded>This could reach 27 percent throughout the end of 2026 as prices continue to rise.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/l-intro-1792684457.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/l-intro-1792684457.jpg" medium="image"/>
 </item>
 <item>
 <title>Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks</title>
