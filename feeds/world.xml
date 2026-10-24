@@ -4,6 +4,19 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Early voting begins in New York: What to know and the key races to watch</title>
+<link>https://abcnews.com/US/early-voting-begins-new-york-key-races-watch/story?id=137518680</link>
+<guid isPermaLink="false">d75448043ffe17f8cb6b9d697dece21f4c8e324ab1a43de4bc08307d248e1e08</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 24 Oct 2026 14:47:31 +0000</pubDate>
+<description>Saturday is the first day of early voting in New York and Empire State voters could help decide which party will control the House over the next two years.</description>
+<dc:creator></dc:creator>
+<content:encoded>Saturday is the first day of early voting in New York and Empire State voters could help decide which party will control the House over the next two years.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Politics/USA-ELECTION-NEW-YORK_1792804953002_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/USA-ELECTION-NEW-YORK_1792804953002_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>NFL's Paris Premier: Saints RB Alvin Kamara on global reach, sport as catalyst for youth opportunity</title>
 <link>https://www.france24.com/en/tv-shows/spotlight/20261024-nfl-s-paris-premier-saints-rb-alvin-kamara-on-global-reach-sport-as-catalyst-for-youth-opportunity</link>
 <guid isPermaLink="false">8a1b562ca8681e30d50080c4f50bbd55e55873b67b28f499b0c70a4d51f3f7ff</guid>
@@ -641,19 +654,6 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-vincent-kompany-bayern-munich_7384916.jpg?20261023191749" medium="image"/>
 </item>
 <item>
-<title>2 ex-FBI officials charged with making false statements about Hunter Biden's laptop</title>
-<link>https://abcnews.com/Politics/wireStory/2-fbi-officials-charged-making-false-statements-hunter-137510537</link>
-<guid isPermaLink="false">70433227b7a84919081ffdf6b6aaee40336caa816529e2cc90aa01105b3d3b2c</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 16:18:18 +0000</pubDate>
-<description>Two former FBI intelligence officials who specialized in foreign election interference have been charged with making false statements about their roles in investigating the origins of Hunter Biden’s laptop in the run-up to the 2020 presidential election</description>
-<dc:creator></dc:creator>
-<content:encoded>Two former FBI intelligence officials who specialized in foreign election interference have been charged with making false statements about their roles in investigating the origins of Hunter Biden’s laptop in the run-up to the 2020 presidential election</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/wirestory_e41b7407f97c6dfc7c017875054c0c67_4x3_608.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/wirestory_e41b7407f97c6dfc7c017875054c0c67_4x3_608.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Billy Idol surprises students with musical instruments</title>
 <link>https://abcnews.com/video/137505771</link>
 <guid isPermaLink="false">eeb765080bfe073c7f9621f1784ba621fa21174bf14a931d76ae7e785394c9a7</guid>
@@ -901,7 +901,7 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-thomas-markle-tv_7384464.jpg?20261023105220" medium="image"/>
 </item>
 <item>
-<title>PM backs north of England Olympics bid with £7m budget injection</title>
+<title>Government backs bid for 'Northern Games' in 2040s</title>
 <link>https://news.sky.com/story/pm-backs-north-of-england-olympics-bid-with-7m-budget-injection-13597494</link>
 <guid isPermaLink="false">a5d9f8e8dbedd2acd008974affd0f7ff657cce8a45a8636e5f5cf7cc549d986e</guid>
 <source>Sky News Home</source>
