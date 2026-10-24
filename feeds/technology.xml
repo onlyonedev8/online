@@ -4,6 +4,45 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Common mistakes you should avoid when setting up your home network</title>
+<link>https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network</link>
+<guid isPermaLink="false">54fc64bd2be54dd274c0920cf3b3b9ccd31fcc81970a91906865fbbc0f2e0db2</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 23:30:00 +0000</pubDate>
+<description>Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the future.</description>
+<dc:creator>staff@engadget.com (Thomas Godwin)</dc:creator>
+<content:encoded>Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the future.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/common-mistakes-you-should-avoid-when-setting-up-your-home-network/l-intro-1792590096.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/common-mistakes-you-should-avoid-when-setting-up-your-home-network/l-intro-1792590096.jpg" medium="image"/>
+</item>
+<item>
+<title>Why your EV battery still loses charge while it's parked</title>
+<link>https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked</link>
+<guid isPermaLink="false">d38c7f0015def55b53c7a963e17cb3c92002bf50fcf7909f39434517f4d055ce</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 23:00:00 +0000</pubDate>
+<description>Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.</description>
+<dc:creator>staff@engadget.com (Husain Parvez)</dc:creator>
+<content:encoded>Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/why-your-ev-battery-still-loses-charge-while-its-parked/l-intro-1792579754.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-your-ev-battery-still-loses-charge-while-its-parked/l-intro-1792579754.jpg" medium="image"/>
+</item>
+<item>
+<title>What kind of cooling system do EV batteries use and how does it work?</title>
+<link>https://www.engadget.com/2292606/ev-battery-cooling-system-how-works</link>
+<guid isPermaLink="false">42cf08f7be36a31ad7c4c10f35d63a54935deee8ab0652155e8af4a523dc1a8d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 22:45:00 +0000</pubDate>
+<description>Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.</description>
+<dc:creator>staff@engadget.com (Luke James)</dc:creator>
+<content:encoded>Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work/l-intro-1792571941.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work/l-intro-1792571941.jpg" medium="image"/>
+</item>
+<item>
 <title>What are the different types of digital wallets?</title>
 <link>https://www.engadget.com/2292582/different-types-digital-wallet-explained</link>
 <guid isPermaLink="false">cc04fed74008da9fae81bad14d5c79f5d2efd0a343be0323315aadf15cb421c5</guid>
@@ -329,19 +368,6 @@
 <media:content url="https://www.engadget.com/img/gallery/which-services-can-you-safely-disable-to-improve-pc-gaming/l-intro-1792431811.jpg" medium="image"/>
 </item>
 <item>
-<title>How to improve your PC's airflow for better cooling</title>
-<link>https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling</link>
-<guid isPermaLink="false">96885daffb22374bacb102c714b26e1e2ad9075c150a2b486e3a650f3acf4659</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 12:45:00 +0000</pubDate>
-<description>Here's how to think about your PC's fans.</description>
-<dc:creator>staff@engadget.com (Robin Bea)</dc:creator>
-<content:encoded>Here's how to think about your PC's fans.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-improve-your-pcs-airflow-for-better-cooling/l-intro-1792426812.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-improve-your-pcs-airflow-for-better-cooling/l-intro-1792426812.jpg" medium="image"/>
-</item>
-<item>
 <title>Lee Chang Dong ponders the ethics of the camera</title>
 <link>https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview</link>
 <guid isPermaLink="false">1a7ddd20c143c34d1a37160336abce82e677cc1490f7ebb3f0575acd9c46b370</guid>
@@ -353,32 +379,6 @@
 <content:encoded>Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor or religion or compressed modernity , that uniquely Korean affliction, without feeling didactic. A different kind of movie would have captured the heat of that labor struggle. Possible Love picks up with the characters in the aftermath, a murkier time that defies easy understanding. The film opens with an epigraph: "Thou shall not covet." What foll … Read the full story at The Verge.</content:encoded>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Possible-Love_NYFF64_03.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Possible-Love_NYFF64_03.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>How long is too long for an HDMI cable?</title>
-<link>https://www.engadget.com/2290438/how-long-should-hdmi-cable-be-maximum-length</link>
-<guid isPermaLink="false">7f385128d6f2fbc62a176df0e1603c8401ce38fbdd2a467c894424d573866e60</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 12:30:00 +0000</pubDate>
-<description>An HDMI cable doesn't have an exact usable length, but shorter is always better for more complex uses.</description>
-<dc:creator>staff@engadget.com (Husain Parvez)</dc:creator>
-<content:encoded>An HDMI cable doesn't have an exact usable length, but shorter is always better for more complex uses.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/how-long-is-too-long-for-an-hdmi-cable/l-intro-1792426463.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-long-is-too-long-for-an-hdmi-cable/l-intro-1792426463.jpg" medium="image"/>
-</item>
-<item>
-<title>'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate</title>
-<link>https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games</link>
-<guid isPermaLink="false">09e83293f970466fbbb6268edc9d65aa991deeeb063f621ba50fa3e20a4df218</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 12:15:00 +0000</pubDate>
-<description>The debate about Sony's plan to stop making physical PS5 discs has raged since this summer.</description>
-<dc:creator>staff@engadget.com (Luke James)</dc:creator>
-<content:encoded>The debate about Sony's plan to stop making physical PS5 discs has raged since this summer.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/father-of-the-playstation-ken-kutaragi-sides-with-sony-on-the-physical-discs-debate/l-intro-1792693371.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/father-of-the-playstation-ken-kutaragi-sides-with-sony-on-the-physical-discs-debate/l-intro-1792693371.jpg" medium="image"/>
 </item>
 <item>
 <title>Laika has spent 20 years building up to Wildwood</title>
