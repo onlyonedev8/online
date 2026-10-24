@@ -4,6 +4,45 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Perspective: The next James Bond</title>
+<link>https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond</link>
+<guid isPermaLink="false">c82d4c2fb894a357575d23277286c4faf6754832ffe18f99634a77dc578b8200</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+<description>A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce? (Image credit: Jack Kay/Getty Images)</description>
+<dc:creator>Scott Simon</dc:creator>
+<content:encoded>A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce? (Image credit: Jack Kay/Getty Images)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5254x3493+0+0/resize/5254x3493!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2Fa0%2F7a32d87c4f46b3d5cf81ac7274e1%2Fgettyimages-651905941.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5254x3493+0+0/resize/5254x3493!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2Fa0%2F7a32d87c4f46b3d5cf81ac7274e1%2Fgettyimages-651905941.jpg" medium="image"/>
+</item>
+<item>
+<title>Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40</title>
+<link>https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan</link>
+<guid isPermaLink="false">5fe105728dcc6fd2327e7322dcac40944e4ed07e0ab5b966f87909ab5e5469bf</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Sat, 24 Oct 2026 11:59:08 +0000</pubDate>
+<description>Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday. (Image credit: AP Photo)</description>
+<dc:creator>The Associated Press</dc:creator>
+<content:encoded>Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday. (Image credit: AP Photo)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F54%2F65e65442429790eaf3f08a065edd%2Fap26296557878703.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F54%2F65e65442429790eaf3f08a065edd%2Fap26296557878703.jpg" medium="image"/>
+</item>
+<item>
+<title>France: Thousands march in Orléans against National Rally congress</title>
+<link>https://www.france24.com/en/video/20261024-france-thousands-march-in-orl%C3%A9ans-against-national-rally-congress</link>
+<guid isPermaLink="false">f231df26b1ee8c739274638bd026e6e5a99776d6dd6e7adcbf5ee10e9d71bd01</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 24 Oct 2026 11:45:20 +0000</pubDate>
+<description>Thousands of anti-fascist protesters took to the streets of Orléans on Saturday to demonstrate against a congress held by Marine Le Pen’s far-right National Rally party. Marchers criticised both Le Pen and President Emmanuel Macron, chanting slogans and carrying banners opposing the far right. The protest came amid renewed nationwide demonstrations over the cost of living, a week after rallies descended into street violence. The two-day congress also marked a major campaign event for Le Pen ahead of France’s presidential election in six months’ time. Antonia Kerrigan reports the latest from Orleans.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>Thousands of anti-fascist protesters took to the streets of Orléans on Saturday to demonstrate against a congress held by Marine Le Pen’s far-right National Rally party. Marchers criticised both Le Pen and President Emmanuel Macron, chanting slogans and carrying banners opposing the far right. The protest came amid renewed nationwide demonstrations over the cost of living, a week after rallies descended into street violence. The two-day congress also marked a major campaign event for Le Pen ahead of France’s presidential election in six months’ time. Antonia Kerrigan reports the latest from Orleans.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/6ecd1bba-cf9e-11f1-9f8a-4d317af013fd/w:1024/p:16x9/EN-20261024-130541-130806-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/6ecd1bba-cf9e-11f1-9f8a-4d317af013fd/w:1024/p:16x9/EN-20261024-130541-130806-CS.jpg" medium="image"/>
+</item>
+<item>
 <title>US seeks to topple Cuba's government</title>
 <link>https://www.france24.com/en/us-seeks-to-topple-cuba-s-government</link>
 <guid isPermaLink="false">b52eb58eab6b4c9fc0092a0e1263096abde07d90b8b084ccd53ea26daa8f8f7b</guid>
@@ -277,17 +316,17 @@
 <media:content url="https://s.abcnews.com/images/US/fbi-seal-abc-jt-241105_1730859247426_hpMain_5_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Live: France deploys 70,000 police officers for fresh wave of protests</title>
+<title>Live: French police seize weapons and arrest 135 people on the sidelines of new protests</title>
 <link>https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence</link>
 <guid isPermaLink="false">fda62057d1dabffa7b3d3d34bce19f3745b0731a388cc2947e4f9cd070fcdab2</guid>
 <source>France 24</source>
 <category>world</category>
 <pubDate>Sat, 24 Oct 2026 04:59:58 +0000</pubDate>
-<description>A coalition of the “Yellow Vests” movement, trade unions and students will march across France on Saturday with demands over studying conditions and purchasing power. Some 70,000 police are expected to be deployed as authorities fear looting and vandalism similar to last Saturday's unrest. Follow our liveblog for the latest updates.</description>
+<description>Police have seized various weapons and arrested 135 people on the sidelines of new protests on Saturday, French Interior Minister Laurent Nunez said. Some 70,000 police have been deployed ahead of a march by “Yellow Vests”, trade unions and students, with authorities fearing a repeat of the looting and vandalism seen during last Saturday's unrest. Follow our liveblog for the latest updates.</description>
 <dc:creator>FRANCE 24</dc:creator>
-<content:encoded>A coalition of the “Yellow Vests” movement, trade unions and students will march across France on Saturday with demands over studying conditions and purchasing power. Some 70,000 police are expected to be deployed as authorities fear looting and vandalism similar to last Saturday's unrest. Follow our liveblog for the latest updates.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/21124e34-cf87-11f1-8ad6-bba4eee3dc72/w:1024/p:16x9/2026-10-24T064232Z-1620451750-RC2I9OA264T2-RTRMADP-3-FRANCE-PROTEST.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/21124e34-cf87-11f1-8ad6-bba4eee3dc72/w:1024/p:16x9/2026-10-24T064232Z-1620451750-RC2I9OA264T2-RTRMADP-3-FRANCE-PROTEST.jpg" medium="image"/>
+<content:encoded>Police have seized various weapons and arrested 135 people on the sidelines of new protests on Saturday, French Interior Minister Laurent Nunez said. Some 70,000 police have been deployed ahead of a march by “Yellow Vests”, trade unions and students, with authorities fearing a repeat of the looting and vandalism seen during last Saturday's unrest. Follow our liveblog for the latest updates.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/75d2e3fe-cfa3-11f1-8fce-4b25c96ec90e/w:1024/p:16x9/2026-10-24T100959Z-98638370-RC2M9OARW7IA-RTRMADP-3-FRANCE-PROTEST.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/75d2e3fe-cfa3-11f1-8fce-4b25c96ec90e/w:1024/p:16x9/2026-10-24T100959Z-98638370-RC2M9OARW7IA-RTRMADP-3-FRANCE-PROTEST.jpg" medium="image"/>
 </item>
 <item>
 <title>Suspect arrested after fire at Hitler's 'Eagle's Nest' retreat</title>
@@ -498,19 +537,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1127x1192+0+0/resize/1127x1192!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F35%2F5c968cba4fdfa34765d346214ab1%2Fgao-ai.jpg" medium="image"/>
 </item>
 <item>
-<title>Why Trump told Burnham the UK is going to be 'very rich'</title>
-<link>https://news.sky.com/story/donald-trump-tells-andy-burnham-the-uk-will-become-very-rich-by-drilling-in-the-north-sea-13602842</link>
-<guid isPermaLink="false">f5e41cbfdbb0bf345d60975b319c3440f9a1f1684debf92d9711da43677ffc2c</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 19:10:00 +0000</pubDate>
-<description>Donald Trump has said he told Andy Burnham the UK is set to become "a very rich country" after the prime minister decided to allow drilling in the North Sea.</description>
-<dc:creator></dc:creator>
-<content:encoded>Donald Trump has said he told Andy Burnham the UK is set to become "a very rich country" after the prime minister decided to allow drilling in the North Sea.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-donald-trump-andy-burnham_7384969.jpg?20261023201042" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-donald-trump-andy-burnham_7384969.jpg?20261023201042" medium="image"/>
-</item>
-<item>
 <title>First lady Melania Trump says she brokered 'temporary' ceasefire in Ukrainian town</title>
 <link>https://abcnews.com/Politics/lady-melania-trump-brokered-temporary-localized-ceasefire-ukraine/story?id=137512833</link>
 <guid isPermaLink="false">462699e11f5d28839cf80db7bdcf69b7c7efa96482eb2b395d3aae4ebac6c8a5</guid>
@@ -561,19 +587,6 @@
 <content:encoded>As Israel approaches a consequential parliamentary election amid renewed violence in the occupied West Bank, Yedioth Ahronoth Senior Journalist Ben-Dror Yemini offers a critical assessment of Benjamin Netanyahu's political prospects, the limits of military escalation and the shifting relationship between national security and electoral legitimacy. Since October 7, 2023 "Netanyahu is not popular anymore," Yemini argues, identifying the Hamas-led attacks as a decisive turning point in the Israeli prime minister's public standing.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/5a830376-cf04-11f1-89ad-4d317af013fd/w:1024/p:16x9/EN-20261023-184343-185025-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/5a830376-cf04-11f1-89ad-4d317af013fd/w:1024/p:16x9/EN-20261023-184343-185025-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that</title>
-<link>https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point</link>
-<guid isPermaLink="false">2d53b366cea3ead516781179fa1ab2384d58dd1ac2f8890c162e86d8de9cdb3d</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 17:35:14 +0000</pubDate>
-<description>Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback. (Image credit: Saul Loeb)</description>
-<dc:creator>Rachel Treisman</dc:creator>
-<content:encoded>Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback. (Image credit: Saul Loeb)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7981x5321+0+0/resize/7981x5321!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2F9e%2Fa7feccc04514986c699822c53319%2Fgettyimages-2297967883-1.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7981x5321+0+0/resize/7981x5321!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2F9e%2Fa7feccc04514986c699822c53319%2Fgettyimages-2297967883-1.jpg" medium="image"/>
 </item>
 <item>
 <title>How Israeli settlers wearing keffiyehs are attacking West Bank olive groves</title>
@@ -652,19 +665,6 @@
 <content:encoded>Two former FBI intelligence officials who specialized in foreign election interference have been charged with making false statements about their roles in investigating the origins of Hunter Biden’s laptop in the run-up to the 2020 presidential election</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/wirestory_e41b7407f97c6dfc7c017875054c0c67_4x3_608.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/wirestory_e41b7407f97c6dfc7c017875054c0c67_4x3_608.jpg" medium="image"/>
-</item>
-<item>
-<title>Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries</title>
-<link>https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop</link>
-<guid isPermaLink="false">6b36c0e7b8d21f48c76f06bfc97d34f2765aaec595feb307485b87588fe5b7f8</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Fri, 23 Oct 2026 15:51:04 +0000</pubDate>
-<description>Republicans have long accused the FBI of mishandling the laptop and the investigations into the younger Biden. (Image credit: Anna Moneymaker)</description>
-<dc:creator>Ryan Lucas</dc:creator>
-<content:encoded>Republicans have long accused the FBI of mishandling the laptop and the investigations into the younger Biden. (Image credit: Anna Moneymaker)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3275x2183+0+0/resize/3275x2183!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2F51%2Fdb84d9874b77b9f268aad78e4268%2Fgettyimages-2160497887.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3275x2183+0+0/resize/3275x2183!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2F51%2Fdb84d9874b77b9f268aad78e4268%2Fgettyimages-2160497887.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Billy Idol surprises students with musical instruments</title>
@@ -901,15 +901,28 @@
 <media:content url="https://s.abcnews.com/images/Travel/261021_abcnl_11a_lump_natgeo_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Met Police received Thomas Markle allegations letter, but did not tell other forces</title>
+<title>Met Police told of allegations about Meghan's father, but did not share with other forces</title>
 <link>https://news.sky.com/story/met-police-received-thomas-markle-allegations-letter-but-did-not-tell-other-forces-13597502</link>
 <guid isPermaLink="false">bb2b23a007cf942b325b340f620531df5477c3068dced6a8a2993a29fa3dba1c</guid>
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Sat, 10 Oct 2026 16:53:00 +0000</pubDate>
-<description>The Metropolitan Police have today confirmed that they received a letter containing allegations about Megan Markle's father, Thomas.</description>
+<description>The Metropolitan Police has confirmed it received a letter in early 2019 containing allegations about the Duchess of Sussex's father, Thomas Markle.</description>
 <dc:creator></dc:creator>
-<content:encoded>The Metropolitan Police have today confirmed that they received a letter containing allegations about Megan Markle's father, Thomas.</content:encoded>
+<content:encoded>The Metropolitan Police has confirmed it received a letter in early 2019 containing allegations about the Duchess of Sussex's father, Thomas Markle.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-thomas-markle-tv_7384464.jpg?20261023105220" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-thomas-markle-tv_7384464.jpg?20261023105220" medium="image"/>
+</item>
+<item>
+<title>PM backs north of England Olympics bid with £7m budget injection</title>
+<link>https://news.sky.com/story/pm-backs-north-of-england-olympics-bid-with-7m-budget-injection-13597494</link>
+<guid isPermaLink="false">a5d9f8e8dbedd2acd008974affd0f7ff657cce8a45a8636e5f5cf7cc549d986e</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Sat, 10 Oct 2026 16:46:00 +0000</pubDate>
+<description>The Prime Minister is backing ambitions to bring the Olympic and Paralympic Games back to the UK, with £7 million cash to be announced in next week's budget.</description>
+<dc:creator></dc:creator>
+<content:encoded>The Prime Minister is backing ambitions to bring the Olympic and Paralympic Games back to the UK, with £7 million cash to be announced in next week's budget.</content:encoded>
 <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" medium="image"/>
 </item>
