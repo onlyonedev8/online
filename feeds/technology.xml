@@ -4,6 +4,84 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent</title>
+<link>https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent</link>
+<guid isPermaLink="false">03f1d2121e395027b66f85d2ef1ab9b42f36a34fbc424682a0384402c2595183</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:30:00 +0000</pubDate>
+<description>The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.</description>
+<dc:creator>Fernanda González</dc:creator>
+<content:encoded>The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6adbb6236c5716eb12b3253b/master/pass/vacuna%20melanoma%202275195271.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adbb6236c5716eb12b3253b/master/pass/vacuna%20melanoma%202275195271.jpg" medium="image"/>
+</item>
+<item>
+<title>Peak on consoles, hockey roguelites and other new indie games worth checking out</title>
+<link>https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out</link>
+<guid isPermaLink="false">aa32569e42eaacd3a62c515e8422f95c235651d9e1024e818975ee130a6ccd6b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:30:00 +0000</pubDate>
+<description>Steam Next Fest means there are a lot of weird new games in our indie gaming roundup this week.</description>
+<dc:creator>staff@engadget.com (Kris Holt)</dc:creator>
+<content:encoded>Steam Next Fest means there are a lot of weird new games in our indie gaming roundup this week.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/l-intro-1792786507.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/l-intro-1792786507.jpg" medium="image"/>
+</item>
+<item>
+<title>Raspberry Pi Desktop proves old PCs aren't past it</title>
+<link>https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676</link>
+<guid isPermaLink="false">514e958847d2c0525a8dd89afb1d59317313a1c5f6484991eafe1b085dde83d6</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:30:00 +0000</pubDate>
+<description>One of the most frequently asked questions of Linux folks is "what's the best lightweight distro for an old PC?" The Reg FOSS desk's current answer is Raspberry Pi Desktop. A couple of weeks ago, we covered the news of a Trixie update for the Raspberry Pi Desktop . Since then, we've been putting it through its paces on a couple of the oldest, slowest machines in the FOSS desk stables. It has performed splendidly. If you fancy dipping a tentative toe into Linux, but you only have a relatively old low-spec PC spare to try it on, this is ideal. This is a modern OS: it's a 2.6 GB download, and it uses about 8 GB of disk space when installed. It will be a bit too much for a 25-year-old PC that was intended for Windows XP, but if you have an old PC from the Windows Vista era to hand, that should do. The splash screen calls it "PiOS 6.3," just as on Arm-based Raspberry Pi hardware. Here, though, we're testing Raspberry Pi Desktop: the x86-64 PC edition of the Debian-based system, available at the bottom of the downloads page . Back in 2023, the PiOS got a new Debian 12-based version , which included a new Wayland-based desktop – although it still looked almost identical to the old environment, based on X11, Openbox, and LXDE. Sadly, the PC version didn't get upgraded. Two years later – so, almost exactly a year ago – we got a Debian 13-based PiOS 6 . The PC version still didn't get upgraded. Now the PC edition has finally caught up with Debian 13. It's very similar to September's PiOS 6.3 release, complete with the option of a dock instead of a taskbar. Like the Arm version, you can use the raspi-config tool to switch between the Wayland-based labwc compositor and X.org if you prefer. There is one important difference: Raspberry Pi OS still offers 32-bit and 64-bit Arm editions, but Raspberry Pi Desktop is now x86-64 only, following Debian 13's retirement of its x86-32 edition . The Arm editions now use kernel 6.18 , but the PC version is still on Debian's default kernel 6.12. It brings the Pi's streamlined Debian desktop to PCs, with an installer that asks few technical questions. You can do a custom installation into existing partitions if you want, but you can just click "OK" a few times and it will do almost everything for you automatically. Unlike Debian itself, there are no questions about what to download, which desktop, network installation, or anything like that. One size fits all. You get a custom desktop with a broadly Windows 95-style layout, except that the taskbar is at the top of the screen (you can move it if you want). You get a basic collection of preinstalled apps: Chromium, Firefox, a text editor, and some helpful documentation – albeit aimed at owners of real Pi hardware. At idle, it runs in a little under 450 MB of memory, and if you switch to X.org, Openbox uses about 50 MB less. The lightest variant of Ubuntu is generally agreed to be Lubuntu, but PiOS takes about half as much memory as Lubuntu 26.04 did in our testing . We tried</description>
+<dc:creator>Liam Proven</dc:creator>
+<content:encoded>One of the most frequently asked questions of Linux folks is "what's the best lightweight distro for an old PC?" The Reg FOSS desk's current answer is Raspberry Pi Desktop. A couple of weeks ago, we covered the news of a Trixie update for the Raspberry Pi Desktop . Since then, we've been putting it through its paces on a couple of the oldest, slowest machines in the FOSS desk stables. It has performed splendidly. If you fancy dipping a tentative toe into Linux, but you only have a relatively old low-spec PC spare to try it on, this is ideal. This is a modern OS: it's a 2.6 GB download, and it uses about 8 GB of disk space when installed. It will be a bit too much for a 25-year-old PC that was intended for Windows XP, but if you have an old PC from the Windows Vista era to hand, that should do. The splash screen calls it "PiOS 6.3," just as on Arm-based Raspberry Pi hardware. Here, though, we're testing Raspberry Pi Desktop: the x86-64 PC edition of the Debian-based system, available at the bottom of the downloads page . Back in 2023, the PiOS got a new Debian 12-based version , which included a new Wayland-based desktop – although it still looked almost identical to the old environment, based on X11, Openbox, and LXDE. Sadly, the PC version didn't get upgraded. Two years later – so, almost exactly a year ago – we got a Debian 13-based PiOS 6 . The PC version still didn't get upgraded. Now the PC edition has finally caught up with Debian 13. It's very similar to September's PiOS 6.3 release, complete with the option of a dock instead of a taskbar. Like the Arm version, you can use the raspi-config tool to switch between the Wayland-based labwc compositor and X.org if you prefer. There is one important difference: Raspberry Pi OS still offers 32-bit and 64-bit Arm editions, but Raspberry Pi Desktop is now x86-64 only, following Debian 13's retirement of its x86-32 edition . The Arm editions now use kernel 6.18 , but the PC version is still on Debian's default kernel 6.12. It brings the Pi's streamlined Debian desktop to PCs, with an installer that asks few technical questions. You can do a custom installation into existing partitions if you want, but you can just click "OK" a few times and it will do almost everything for you automatically. Unlike Debian itself, there are no questions about what to download, which desktop, network installation, or anything like that. One size fits all. You get a custom desktop with a broadly Windows 95-style layout, except that the taskbar is at the top of the screen (you can move it if you want). You get a basic collection of preinstalled apps: Chromium, Firefox, a text editor, and some helpful documentation – albeit aimed at owners of real Pi hardware. At idle, it runs in a little under 450 MB of memory, and if you switch to X.org, Openbox uses about 50 MB less. The lightest variant of Ubuntu is generally agreed to be Lubuntu, but PiOS takes about half as much memory as Lubuntu 26.04 did in our testing . We tried it on a ThinkPad X200s, released in 2008 . Ours has been upgraded with 8 GB of RAM, plus a spare 128 GB SATA SSD, but it's on the original 1.86 GHz Core 2 Duo SL9400 and Intel GMA4500 integrated GPU. Everything we tested worked, including Wi-Fi, Bluetooth, Ethernet, USB 2, volume control buttons, brightness keys, and an external screen on DisplayPort. It automatically picked up and added our network printer, and happily connected to both 2.4 GHz and 5 GHz Wi-Fi networks. For something even older and lower end, we went back to the year Vista was released: 2007 . We transplanted the SSD into a ThinkPad X61 Tablet from that same year. Our very battered X61 has 2 GB of DDR2 RAM. PiOS handled that fine – with the sole exception of the touchscreen, which didn't work. (We've only ever got that working with Windows XP.) In a 19-year-old PC with an SSD, PiOS booted in under half a minute, and it was able to run Firefox and Chromium and go online. Pages rendered slowly, but it worked. On the better-specced X200s, with four times the RAM, even the web experience was tolerable, if you're patient. We also tried it on a high-end machine from 2008, a Thinkpad W500, complete with AMD GPU. On that, it feels positively snappy. In our testing, PiOS takes as little memory as Alpine with Xfce – but it's far easier to install. Because it's Debian, it was also much easier to get additional apps such as both text-mode and GUI WordPerfect for Linux working. With Wine 11 from WineHQ , Microsoft Office 97 installed and ran superbly too. If you're willing to trade a tiny bit of security for visibly better performance, the tweaks we gave in 2022 still work well. PiOS is about as frugal as ChromeOS Flex, but you don't need a Google account or any other cloud login, and you get all-you-can-eat local apps. Compared to middleweight distros such as Linux Mint Xfce, Linux Lite, MX Linux, or Lubuntu, PiOS is significantly less demanding of hardware resources. There are even lighter-weight Linuxes out there. For example, there is a Debian 13 version of antiX Linux , but although smaller, it has an overwhelming collection of kernels, init systems, window managers, and file managers. AntiX is not beginner-friendly. In 2024, we l ooked at Tiny Core Linux 15 , which is far smaller. Now up to version 17.1, it remains a specialist tool: you'll need serious tech skills to add extra apps, let alone update. Alpine is capable, versatile, and lightweight, but assembling a desktop requires considerably more work. If you take the time to learn your way around it, Alpine can be configured to use even less disk and memory than PiOS, but Alpine has a smaller selection of software than Debian – unless you add Flatpak, which negates Alpine's lightweight, clean simplicity. Experienced Debian or Devuan users could build something leaner, but Raspberry Pi Desktop saves them the trouble. Its team has had 14 years of practice in diet Debian. The Raspberry Pi Desktop also supports Intel Mac hardware, and it's ideal for old-but-working Macs now long-unsupported by macOS. It could also suit older Intel MacBooks whose RAM can't be expanded, although Wi-Fi, graphics, and other hardware support will depend on the model. A 4 GB MacBook Air may still have useful life running current browsers and LibreOffice. Just possibly not at the same time. This should be your go-to option for an old, low-spec PC. It won't make a 15-year-old computer as fast as a new one. But it can make a 15-year-old PC useful again, with current, supported apps and tools. Once you get familiar with PiOS on a low-end x86 machine, it will also work fine on newer and more capable hardware. ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=228466&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=228466&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Best Pet Camera of 2026: Furbo, Petcube, and Enabot</title>
+<link>https://www.wired.com/gallery/best-pet-cameras</link>
+<guid isPermaLink="false">c926347acd972db68bb66c56728ce2343f64573bbbc1077c687c4ee7afa8a840</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:03:00 +0000</pubDate>
+<description>Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6adb915b98f760e7b008b9de/master/pass/Pet%20Cameras%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adb915b98f760e7b008b9de/master/pass/Pet%20Cameras%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>The datacentre next door: on the frontline of tech’s latest David v Goliath battle</title>
+<link>https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle</link>
+<guid isPermaLink="false">3e8922c315573e9a1fd91b6dab42e360cafc46241961fb4ab57b46d7a1790a8e</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:00:32 +0000</pubDate>
+<description>The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfect autumnal sky – but almost his entire view is blotted out by a vast expanse of prefabricated panels. The 23 metre-high grey hulk looming over him and his neighbours is a hyperscale datacentre. It is heralded by the area’s Labour politicians as a job creator, yet all Johnston can think about is what he has lost: “Before, the sun used to come around here and it was lovely.” The way residents have been treated is “disgusting”. Continue reading...</description>
+<dc:creator>Tom Wall. Photographs: Joel Redman</dc:creator>
+<content:encoded>The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfect autumnal sky – but almost his entire view is blotted out by a vast expanse of prefabricated panels. The 23 metre-high grey hulk looming over him and his neighbours is a hyperscale datacentre. It is heralded by the area’s Labour politicians as a job creator, yet all Johnston can think about is what he has lost: “Before, the sun used to come around here and it was lovely.” The way residents have been treated is “disgusting”. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/0373ee73af80c68fd75a9ab321de66de4801ad27/865_0_5902_4724/master/5902.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ada1a3c07b58c58f0534893c81f26bd0" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/0373ee73af80c68fd75a9ab321de66de4801ad27/865_0_5902_4724/master/5902.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ada1a3c07b58c58f0534893c81f26bd0" medium="image"/>
+</item>
+<item>
+<title>9 Unique Apps to Try on the iPhone Duo</title>
+<link>https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo</link>
+<guid isPermaLink="false">bdb8ca14035efa6d284a869783ae44cc9836a1ff4489d760866fbf0c26257e3b</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:45:00 +0000</pubDate>
+<description>Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.</description>
+<dc:creator>Julian Chokkattu</dc:creator>
+<content:encoded>Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg" medium="image"/>
+</item>
+<item>
 <title>My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale</title>
 <link>https://www.wired.com/story/joybird-semi-annual-sale-2026</link>
 <guid isPermaLink="false">4cecfbbc41a14d74f32a633b25e4fcd4766991207eda03f5e882c8e0bfe18db8</guid>
@@ -1395,19 +1473,6 @@
 <media:content url="https://media.wired.com/photos/6ada4bc4d53570f6403f714a/master/pass/Soundcore%20by%20Anker%20Space%202%20deal%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>Unauthorized AI agents are reportedly already accessing US bank accounts</title>
-<link>https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts</link>
-<guid isPermaLink="false">6c534d42ab318a9bd45fcf04f54a0d7c0386a9493a89dc62196b6615e7d7e076</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 18:02:04 +0000</pubDate>
-<description>Sources at several banks have indicated that they have been taking actions independent of user instructions.</description>
-<dc:creator>staff@engadget.com (Lawrence Bonk)</dc:creator>
-<content:encoded>Sources at several banks have indicated that they have been taking actions independent of user instructions.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/l-intro-1792692008.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/l-intro-1792692008.jpg" medium="image"/>
-</item>
-<item>
 <title>A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels</title>
 <link>https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels</link>
 <guid isPermaLink="false">3a1e0b361388d63d0f696f3ce90c8776a42315c15b0640900a661ff0902675c8</guid>
@@ -2123,19 +2188,6 @@
 <media:content url="https://image.theregister.com/?imageId=5304543&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026)</title>
-<link>https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026</link>
-<guid isPermaLink="false">3ab60313498aee6384c86688c6e728d9b12e341268f144ae45f9bf60ebf0ff7b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 17:00:15 +0000</pubDate>
-<description>Samsung’s Frame and Frame Pro are both on sale, as well as some of our other favorite art TVs.</description>
-<dc:creator>Luke Larsen</dc:creator>
-<content:encoded>Samsung’s Frame and Frame Pro are both on sale, as well as some of our other favorite art TVs.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>Chrome warns you about suspicious websites now – how to turn on Google’s new scam protection</title>
 <link>https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection</link>
 <guid isPermaLink="false">97381fa1ff012e6da51a6e775dea341e4b55566a787c42fd413a6d9ba043eb68</guid>
@@ -2147,19 +2199,6 @@
 <content:encoded>Google’s browser will flash two types of warnings based on whether the site is deemed dangerous or just suspicious.</content:encoded>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Chrome-Enhance-protection-in-Safe-Browsing-mode.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Chrome-Enhance-protection-in-Safe-Browsing-mode.jpg" medium="image"/>
-</item>
-<item>
-<title>This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good</title>
-<link>https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good</link>
-<guid isPermaLink="false">af1c60c7334e07f334d296d9b8dd57c35f5366edfdafd6f18e2531e1d30b5f4b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
-<description>Recursive makes the case that the benefits of using AI to build AI outweigh the risks.</description>
-<dc:creator>Will Knight</dc:creator>
-<content:encoded>Recursive makes the case that the benefits of using AI to build AI outweigh the risks.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/master/pass/business_ai_lab_recursive_improvement.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/master/pass/business_ai_lab_recursive_improvement.jpg" medium="image"/>
 </item>
 <item>
 <title>OpenBSD 8.0 beefs up virtual machines and gets a taste of Wine</title>
@@ -2186,19 +2225,6 @@
 <content:encoded>PHP developers have released emergency updates for two critical vulnerabilities after cybersecurity authorities warned organizations to patch immediately or consider taking exposed applications offline. PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35 address CVE-2026-109618 and CVE-2026-109619, which can allow unauthenticated remote code execution. The project's developers urged users to update immediately . All PHP installations serving web requests are potentially affected, including deployments using PHP-FPM, Apache's mod_php, php-cgi, FrankenPHP, and LiteSpeed, the developers said. "We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs." Jake Knott, head of threat intelligence at watchTowr, said: "As expected, watchTowr Intel is already observing in-the-wild exploitation of the latest PHP vulnerabilities, with a variety of vibecoded PoCs already hitting our sensors featuring a variety of 'php2shell' User-Agents. Whilst nobody has been successful to date, we don't expect that will last long." "Where immediate patching is not feasible, organizations should consider isolating internet-facing applications from public networks until a fix is available," CERT-EU said in an advisory issued ahead of the patches. The body lists both vulnerabilities with CVSS scores of 9.2. Finnish government services and websites belonging to the Dutch parliament, cybersecurity authorities, and data protection regulator were taken offline as a precaution. Privacy campaign group noyb also temporarily withdrew its website. PHP "powers WordPress, Drupal, Joomla, and Magento sites, shared hosting platforms, control panels, and an awful lot of software that doesn't even advertise that it runs PHP under the hood," infosec vendor Huntress noted . That makes identifying exposed installations a substantial job. "The number of places you have to go looking to identify vulnerable PHP versions gets very big, very fast," said John Hammond, Huntress's senior principal security researcher. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=263315&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=263315&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers</title>
-<link>https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers</link>
-<guid isPermaLink="false">fa1472d8387f6cb9d9f901409c0494229dc0b8fd3b3c86ea9c38f654a318c429</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 15:02:15 +0000</pubDate>
-<description>At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.</description>
-<dc:creator>Tom Bristow</dc:creator>
-<content:encoded>At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6ad8c8882adb51db52e1a235/master/pass/GettyImages-2301295306.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad8c8882adb51db52e1a235/master/pass/GettyImages-2301295306.jpg" medium="image"/>
 </item>
 <item>
 <title>Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision</title>
@@ -2292,19 +2318,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2299990631.jpg" medium="image"/>
 </item>
 <item>
-<title>Nvidia &lt;span class="t42"&gt;picks OpenShell to &lt;/span&gt;tame AI gents</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319</link>
-<guid isPermaLink="false">a1e9335d7aa9404ab5cfedb84f942fbb3ea2e2d40f2fc6a1d326a8fd03944b14</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 11:30:00 +0000</pubDate>
-<description>Nvidia has proposed a new way to keep corporate AI agents in line. Nvidia on Wednesday introduced its OpenShell Reference Architecture . Based on the company's OpenShell secure runtime, It's a recipe for creating, operating, observing, and policing AI agents using OpenShell on Nvidia hardware. "Nvidia created OpenShell to give agents the freedom to do useful work within clearly defined boundaries — contained, monitored and under control," CEO Jensen Huang said in a canned statement. "With the OpenShell Reference Architecture, agents can think on Rubin, act on Vera and be governed on BlueField." AI agents are touted as a powerful automation technology. The reality is that they can be unruly, as demonstrated by security testing OpenAI and Anthropic conducted, during which their models exceeded their remit and attacked third-party organizations. Developers of existing agents, like Claude Code, Codex, OpenClaw, and OpenCode, therefore include controls that limit access to tools like curl and bash. Devs also create sandboxes to isolate an agentic process from the host, so that if agents go awry they're contained. OpenShell sits a level above that with a runtime that extends sandboxing to govern gateway-brokered credentials, identity and policy boundaries, and (eventually) routing and workflows too. At least mostly – OpenShell still has a few open security-related issues listed on GitHub. To implement OpenShell, organizations need Nvidia hardware. The company's blueprint calls for Nvidia Vera Rubin infrastructure to run models like Nvidia Nemotron, with agent harnesses handled via Vera CPUs, and Nvidia BlueField-4 DPUs (aka SmartNICs) propping up Nvidia Sentry security software to monitor agent behavior. The AI biz has made this blueprint available to partners capable of powering Linux and Kubernetes infrastructure. The usual suspects are aboard: Canonical, SUSE and Red Hat. Cloud hyperscalers Amazon Web Services, Google Cloud, and Microsoft Azure have also been tapped as vendors for this vision. And of course Nvidia's floor plan applies to agents from various model builders, including Anthropic, Cohere, Google, Meta, OpenAI, Perplexity, Reflection, and SpaceX. Nvidia says several banks – Europe’s BBVA and Santander – are perusing the OpenShell Reference Architecture spec to see how it aligns with their security and governance requirements. And the AI biz is not too modest to let slip that SAP is integrating the OpenShell Reference Architecture with its Joule Studio runtime for safer agent operations. It's worth noting that OpenShell collects telemetry data by default, "to improve the project," Nvidia insists. The biz allows users to opt-out, with a cautionary note: "Third-party services, model providers, inference endpoints, agents, or tools that you configure and use with OpenShell may have their own terms and privacy practices." ®</description>
-<dc:creator>Thomas Claburn</dc:creator>
-<content:encoded>Nvidia has proposed a new way to keep corporate AI agents in line. Nvidia on Wednesday introduced its OpenShell Reference Architecture . Based on the company's OpenShell secure runtime, It's a recipe for creating, operating, observing, and policing AI agents using OpenShell on Nvidia hardware. "Nvidia created OpenShell to give agents the freedom to do useful work within clearly defined boundaries — contained, monitored and under control," CEO Jensen Huang said in a canned statement. "With the OpenShell Reference Architecture, agents can think on Rubin, act on Vera and be governed on BlueField." AI agents are touted as a powerful automation technology. The reality is that they can be unruly, as demonstrated by security testing OpenAI and Anthropic conducted, during which their models exceeded their remit and attacked third-party organizations. Developers of existing agents, like Claude Code, Codex, OpenClaw, and OpenCode, therefore include controls that limit access to tools like curl and bash. Devs also create sandboxes to isolate an agentic process from the host, so that if agents go awry they're contained. OpenShell sits a level above that with a runtime that extends sandboxing to govern gateway-brokered credentials, identity and policy boundaries, and (eventually) routing and workflows too. At least mostly – OpenShell still has a few open security-related issues listed on GitHub. To implement OpenShell, organizations need Nvidia hardware. The company's blueprint calls for Nvidia Vera Rubin infrastructure to run models like Nvidia Nemotron, with agent harnesses handled via Vera CPUs, and Nvidia BlueField-4 DPUs (aka SmartNICs) propping up Nvidia Sentry security software to monitor agent behavior. The AI biz has made this blueprint available to partners capable of powering Linux and Kubernetes infrastructure. The usual suspects are aboard: Canonical, SUSE and Red Hat. Cloud hyperscalers Amazon Web Services, Google Cloud, and Microsoft Azure have also been tapped as vendors for this vision. And of course Nvidia's floor plan applies to agents from various model builders, including Anthropic, Cohere, Google, Meta, OpenAI, Perplexity, Reflection, and SpaceX. Nvidia says several banks – Europe’s BBVA and Santander – are perusing the OpenShell Reference Architecture spec to see how it aligns with their security and governance requirements. And the AI biz is not too modest to let slip that SAP is integrating the OpenShell Reference Architecture with its Joule Studio runtime for safer agent operations. It's worth noting that OpenShell collects telemetry data by default, "to improve the project," Nvidia insists. The biz allows users to opt-out, with a cautionary note: "Third-party services, model providers, inference endpoints, agents, or tools that you configure and use with OpenShell may have their own terms and privacy practices." ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=249195&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=249195&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)</title>
 <link>https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic</link>
 <guid isPermaLink="false">7358c65ed70029854f50064a8e9002e61e6478276424309b271d3be6f7448207</guid>
@@ -2316,19 +2329,6 @@
 <content:encoded>The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.</content:encoded>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_4285.jpeg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_4285.jpeg" medium="image"/>
-</item>
-<item>
-<title>The dangers of letting tech billionaires shape our world</title>
-<link>https://www.theguardian.com/global/2026/oct/19/musk-ukraine-ai-music</link>
-<guid isPermaLink="false">61e8234ae88d8096c2aa59c13d28a3543b456a987f209c6dd2d96bcda3c7de88</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 14:31:45 +0000</pubDate>
-<description>As SpaceX impacts Ukraine and AI-generated music divides artists and fans, critics are asking what happens when technology has too much control over our lives This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you while sitting in front of Roy Lichtenstein’s monumental Drowning Girl, on view in New York City . Today in tech, we’re discussing the perils of Elon Musk’s one-man global infrastructure, AI-generated music and a Guardian AI conference in Paris. Continue reading...</description>
-<dc:creator>Blake Montgomery</dc:creator>
-<content:encoded>As SpaceX impacts Ukraine and AI-generated music divides artists and fans, critics are asking what happens when technology has too much control over our lives This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you while sitting in front of Roy Lichtenstein’s monumental Drowning Girl, on view in New York City . Today in tech, we’re discussing the perils of Elon Musk’s one-man global infrastructure, AI-generated music and a Guardian AI conference in Paris. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/9df3eaa715484d3f560e4dea76d7dda82597ac00/188_0_4077_3262/master/4077.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b2aeb5f1ede318c978e9f794f500730" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/9df3eaa715484d3f560e4dea76d7dda82597ac00/188_0_4077_3262/master/4077.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b2aeb5f1ede318c978e9f794f500730" medium="image"/>
 </item>
 <item>
 <title>Labor and the Coalition are poised to take a reckless gamble on AI. Haven’t they realised community support has collapsed? | Edward Santow and Sarah Sacher</title>
