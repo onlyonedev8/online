@@ -4,6 +4,32 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Quantum computers can get colder than deep space — Here's how they stay running</title>
+<link>https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold</link>
+<guid isPermaLink="false">cc1252ce7f58589ce1ab93d1b987a8de8b995657ea92e38e58d5c3182a88f3e6</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 13:30:00 +0000</pubDate>
+<description>Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out.</description>
+<dc:creator>staff@engadget.com (Nimrod Aldea)</dc:creator>
+<content:encoded>Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running/l-intro-1792594079.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running/l-intro-1792594079.jpg" medium="image"/>
+</item>
+<item>
+<title>Don't throw away your old Chromebook (even if you're getting a Googlebook)</title>
+<link>https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook</link>
+<guid isPermaLink="false">3361d9d0533a8cd5e4ba370af4345fa9c209c40afb557bf1aca5746c01dc8bd8</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 13:15:00 +0000</pubDate>
+<description>There's plenty an old Chromebook can do, even if it's not your main computer.</description>
+<dc:creator>staff@engadget.com (Robin Bea)</dc:creator>
+<content:encoded>There's plenty an old Chromebook can do, even if it's not your main computer.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook/l-intro-1792593842.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook/l-intro-1792593842.jpg" medium="image"/>
+</item>
+<item>
 <title>When AI glasses could be a worthy headphones replacement</title>
 <link>https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement</link>
 <guid isPermaLink="false">cb87798b355dca40c0c7543a6fa86a1984fb3409a521a2fdfa0864f702285cf1</guid>
@@ -54,19 +80,6 @@
 <content:encoded>Smart bulbs are a natural entry point to smart home tech, but they come with some annoyances. Use these instead.</content:encoded>
 <enclosure url="https://www.engadget.com/img/gallery/smart-bulbs-are-easy-to-install-but-this-smart-home-upgrade-is-more-inclusive/l-intro-1792502749.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/smart-bulbs-are-easy-to-install-but-this-smart-home-upgrade-is-more-inclusive/l-intro-1792502749.jpg" medium="image"/>
-</item>
-<item>
-<title>Google’s AI search changes upended online publishing</title>
-<link>https://www.theverge.com/column/1017983/google-ai-search-online-publishing</link>
-<guid isPermaLink="false">ab1f7cff37722d46d5fd64ba7b3126ce8f699a837d63d8e1b3af26123b893a0a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-<description>This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth . The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here . How it started The digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at the top of the search engine, with the goal of getting readers to click on their articles or discover their websites for the first time. For years, the relationship between Google and publishers was largely reciprocal; online pub … Read the full story at The Verge.</description>
-<dc:creator>Emma Roth</dc:creator>
-<content:encoded>This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth . The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here . How it started The digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at the top of the search engine, with the goal of getting readers to click on their articles or discover their websites for the first time. For years, the relationship between Google and publishers was largely reciprocal; online pub … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Scientists Trapped an Antimatter Particle for Months to Study Its Secrets</title>
@@ -459,32 +472,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg" medium="image"/>
 </item>
 <item>
-<title>Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything</title>
-<link>https://www.engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything</link>
-<guid isPermaLink="false">9ed72e711b6aaad29e4b956f82c47eb025df925462385a4c33fb458f5f593081</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
-<description>You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for.</description>
-<dc:creator>staff@engadget.com (Roger Fingas)</dc:creator>
-<content:encoded>You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything/l-intro-1792505372.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything/l-intro-1792505372.jpg" medium="image"/>
-</item>
-<item>
-<title>What is Theater Mode on your Apple Watch and when should you use it?</title>
-<link>https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch</link>
-<guid isPermaLink="false">d016d14f0f3da0948aa6940121844640083632eae3c1866394d737e8736880a7</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 15:30:00 +0000</pubDate>
-<description>There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful.</description>
-<dc:creator>staff@engadget.com (Jack Peachey)</dc:creator>
-<content:encoded>There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg" medium="image"/>
-</item>
-<item>
 <title>Fielded is obsessed with scammers and unhinged Japanese cyberpunk</title>
 <link>https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview</link>
 <guid isPermaLink="false">e802392f2f096dfec92dfd41a5bc380f9e84c81755be1bd2f765cb03be3949d6</guid>
@@ -847,6 +834,19 @@
 <content:encoded>OpenAI says it will deny internet access to the frontier models it is training, a move that underscores the inadequacy of safety measures undertaken to date. "Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access," the company said in a blog post . "We've implemented this policy and will maintain it until advances in these safeguards justify broader internet access." The denial of network service follows a report from safety evaluation partners METR and Redwood Research that found OpenAI's security and monitoring measures over the summer to be porous and ineffective . OpenAI said it has since "substantially hardened the security of our research environments" and has implemented new controls covering its infrastructure with the help of its cloud service providers. And the company claims these measures recently helped contain a September 20 incident in which an internal research model exploited a DNS misconfiguration to gain access to the internet. "Although we contained the incident, it exposed weaknesses that required further work," the company said. "We paused training and evaluation of our most capable models and used that pause to further harden our infrastructure, strengthen our monitoring, and improve the systems that automatically stop runs when we detect activity that poses a serious risk." Meanwhile, over at Anthropic… Anthropic, OpenAI's US rival in living large and dangerously on speculative funding, is addressing similar risks that have arisen during the testing and evaluation of its own models. Back in August, Anthropic said , "By default, all cyber evaluations should run inside a hardened sandbox (an isolated computing environment) with no internet access." The AI biz on Friday published a report on efforts by its Claude Mythos 5 model to convince an open source project to accept malicious code as part of its participation in a capture-the-flag security evaluation (when safety controls were disabled), and several related incidents first disclosed in July . The report coincides with an independent analysis of Mythos' behavior by the UK's AI Security Institute (AISI). AISI, according to Anthropic, has also decided to run its evaluations without internet access. The AISI report cites three key findings that raise more questions than they answer. The first is that Mythos 5 continued its attack even when informed that its targets were real and not part of an evaluation. The second is that the model's chain-of-thought reasoning process failed to consider the impact of harmful actions. And when interrogated about this, the model often produced invalid justification that the target was simulated, indicating bias toward its goal. And third, AISI said, most models tested during cyber evaluations took unsanctioned actions, though Mythos 5 did so the most. The observed behavior, AISI said, "could indicate that models are engaging in 'motivated reasoning': producing inferences and reasoning biased towards conclusions that justify continuing a particular approach to task completion." Or in other words, models "reason" to reach their goal, whether or not that reasoning is coherent or consistent with their ostensible alignment. "If these issues hold more generally and for future models, there are concerning implications," AISI said in its full technical report [PDF]. Specifically, motivated reasoning, the watchdog said, makes it more difficult to detect model misalignment. Anthropic, headed toward an expected initial public offering as soon as next month, put a brave face on the findings by noting that its current models are much better behaved, even as the company acknowledged that AI safety is more aspirational than achieved. "[W]e believe that all developers, ourselves included, have work to do to ensure that alignment, monitoring, and safety measures keep pace with the accelerating capabilities of frontier AI systems," the company said. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5305242&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5305242&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Xbox’s first chief operating officer is out after just a few months</title>
+<link>https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure</link>
+<guid isPermaLink="false">7bee3a3c9519ed80c31b9418872d619bd2bee3abe868a9e4d8b7805750e50690</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 21:39:26 +0000</pubDate>
+<description>Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge . Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief operating officer in July. Xbox CEO Asha Sharma announced Chiang's departure in a surprisingly short memo today. "Helen Chiang is leaving Microsoft today. I'm grateful for her years of service and wish her well," said Sharma. As Chiang is departing today, her immediate responsibilities are being split up between other Xbox leaders … Read the full story at The Verge.</description>
+<dc:creator>Tom Warren</dc:creator>
+<content:encoded>Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge . Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief operating officer in July. Xbox CEO Asha Sharma announced Chiang's departure in a surprisingly short memo today. "Helen Chiang is leaving Microsoft today. I'm grateful for her years of service and wish her well," said Sharma. As Chiang is departing today, her immediate responsibilities are being split up between other Xbox leaders … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Hegseth warns prediction market bets warp military judgment, endanger troops</title>
