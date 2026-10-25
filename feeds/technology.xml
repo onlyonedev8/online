@@ -4,6 +4,19 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Cookie theft: how fraudsters get the digital key to your accounts</title>
+<link>https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts</link>
+<guid isPermaLink="false">b9def26c21fa962291ee99119e852344b41609d41e4a40bc6c3ec339928f3a13</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 07:00:56 +0000</pubDate>
+<description>‘Session cookies’ are a primary target for hackers letting them hijack and use your accounts You’ve had a busy morning of life admin, logging into various accounts to check balances and make payments. At the end of a productive few hours you close your laptop and move on to your next job. What you don’t know is that fraudsters have hijacked your session with the bank and are now able to access your account. You are the victim of cookie theft, which belongs to a type of fraud known as “session hijacking”. Continue reading...</description>
+<dc:creator>Hilary Osborne</dc:creator>
+<content:encoded>‘Session cookies’ are a primary target for hackers letting them hijack and use your accounts You’ve had a busy morning of life admin, logging into various accounts to check balances and make payments. At the end of a productive few hours you close your laptop and move on to your next job. What you don’t know is that fraudsters have hijacked your session with the bank and are now able to access your account. You are the victim of cookie theft, which belongs to a type of fraud known as “session hijacking”. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/d704090ec1423450c012cae431933c0b4d4b1437/1425_927_4926_3943/master/4926.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9255eae8c64826adb1fc8ee8f14839bd" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/d704090ec1423450c012cae431933c0b4d4b1437/1425_927_4926_3943/master/4926.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9255eae8c64826adb1fc8ee8f14839bd" medium="image"/>
+</item>
+<item>
 <title>Here's what you need to know before buying a wireless CarPlay adapter</title>
 <link>https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying</link>
 <guid isPermaLink="false">eca65b85b672b19e27ffd769b891e31376f37b172d503899a41886195f3d746b</guid>
@@ -537,19 +550,6 @@
 <media:content url="https://media.wired.com/photos/6ada00b2fb70c7875ccb3ecc/master/pass/Watches%20Under%20400.jpg" medium="image"/>
 </item>
 <item>
-<title>The Qubitunes Soundstage Toy Is a Great Gift for Kids</title>
-<link>https://www.wired.com/story/qubitunes-starter-kit-october-2026</link>
-<guid isPermaLink="false">60cd5f40e384a8f9bcee55af82d76cc7702d926d16781209854afd4bc7bb99bf</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<description>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</description>
-<dc:creator>Simon Hill</dc:creator>
-<content:encoded>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>Best Laptops (2026): My Top Recommendations After Testing Hundreds</title>
 <link>https://www.wired.com/story/best-laptops</link>
 <guid isPermaLink="false">00b2efe45a9000eaa6c380325355fd85b03ffe53246a1f3e5968a67952ccefc8</guid>
@@ -561,6 +561,19 @@
 <content:encoded>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" medium="image"/>
+</item>
+<item>
+<title>The Qubitunes Soundstage Toy Is a Great Gift for Kids</title>
+<link>https://www.wired.com/story/qubitunes-starter-kit-october-2026</link>
+<guid isPermaLink="false">60cd5f40e384a8f9bcee55af82d76cc7702d926d16781209854afd4bc7bb99bf</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<description>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</description>
+<dc:creator>Simon Hill</dc:creator>
+<content:encoded>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Ray-Ban Meta Audio Review: The Best Smart Glasses</title>
@@ -1731,19 +1744,6 @@
 <content:encoded>China-aligned attackers used AI agents and compromised ConnectWise application credentials to target more than 2,250 Microsoft 365 tenants, Microsoft says. The Windows giant revealed this week that the attackers, tracked as Storm-0940, used an open source AI penetration-testing tool called ARTEX to automate attacks against Microsoft 365 environments. In some cases, they went from picking a target to gaining privileged cloud access in less than three hours. The findings shed more light on the ConnectWise security incident , which saw the IT management vendor pull the plug on its Cloud Backup, SaaS Security, and Cloud Management services after discovering unauthorized access to application identities. ConnectWise didn't initially identify who was responsible, but Microsoft has now pointed the finger at Storm-0940, a China-linked espionage crew that's been operating since at least 2021. The group has traditionally relied on the usual tricks, including password spraying and exploiting internet-facing applications, but this time it used AI to do some of the heavy lifting. ARTEX is an open source penetration-testing framework written in Go that uses AI agents to automate everything from reconnaissance and vulnerability discovery to credential attacks and data theft. Microsoft says Storm-0940 began using it as early as September to target organizations worldwide, including government agencies, defense contractors, banks, manufacturers, and tech firms. Between October 10 and 14, the hackers made more than 151,000 failed sign-in attempts against 327 accounts at eight organizations. Microsoft observed no successful logins from that password-spraying campaign, but then the attackers shifted to compromised ConnectWise application identities. The compromised application credentials let the attackers exploit permissions customers had already granted to ConnectWise services, without needing an interactive user login. Armed with ARTEX, Storm-0940 attempted to authenticate against more than 2,250 Microsoft 365 tenants, at times reaching 2,900 attempts a minute. Microsoft also observed AI-accelerated activity through Microsoft Graph, including reconnaissance, application credential changes, and attempts to modify privileges, potentially allowing the attackers to stick around even after the original credentials were revoked. Most attempts failed, though Microsoft says the hackers still managed to establish persistent privileged access at numerous organizations. It hasn't disclosed how many customers were compromised or whether any data was stolen, cautioning that a successful login doesn't necessarily mean information was accessed. ConnectWise CEO Manny Rivelo said the company had contained the affected application connections and was gradually restoring services, although shutting down those connections wouldn't necessarily boot out attackers who had already established a foothold in customer environments. ConnectWise has been here before. In May 2025, it admitted that a "sophisticated nation-state actor" had broken into its systems and compromised a small number of customers using its ScreenConnect remote access software. There's nothing to suggest the two attacks are linked. Nor is Storm-0940 alone in making use of ARTEX. Microsoft says it has spotted attackers from several geographic regions using the framework, which is freely available for penetration testing. The underlying techniques are nothing new – stolen credentials, password spraying, and application abuse – but Microsoft says AI helped Storm-0940 execute them faster, with some attacks progressing from initial targeting to privileged cloud access in under three hours. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5304691&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5304691&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre</title>
-<link>https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre</link>
-<guid isPermaLink="false">0cce61e47c3830dc417f2925179f4cad7b0867c3bc0790d8eea4b12419e8a487</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 11:22:23 +0000</pubDate>
-<description>Company ordered to stop work at two sites in country, which has found itself at forefront of tech firms’ latest push Behind a wire fence lies a vast gaping wound of earth. Before Google’s arrival a few months ago, an estimated quarter of a million trees occupied the 330 hectares (815 acres) of forest near the town of Muhos in rural northern Finland. Now they are all gone. After the tech company illegally stripped the entire area to build a datacentre – taking even the top soil with it – all that remains is a vast expanse of mud indented with the trail marks of machinery, puddles and mounds of earth, roots and branches. Residents say that brown water flowing off the site is going into a stream that feeds the Oulujoki River. Continue reading...</description>
-<dc:creator>Miranda Bryant in Muhos and Otanmäki</dc:creator>
-<content:encoded>Company ordered to stop work at two sites in country, which has found itself at forefront of tech firms’ latest push Behind a wire fence lies a vast gaping wound of earth. Before Google’s arrival a few months ago, an estimated quarter of a million trees occupied the 330 hectares (815 acres) of forest near the town of Muhos in rural northern Finland. Now they are all gone. After the tech company illegally stripped the entire area to build a datacentre – taking even the top soil with it – all that remains is a vast expanse of mud indented with the trail marks of machinery, puddles and mounds of earth, roots and branches. Residents say that brown water flowing off the site is going into a stream that feeds the Oulujoki River. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4bb0318c7d16898ac438976376fb26c4" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4bb0318c7d16898ac438976376fb26c4" medium="image"/>
 </item>
 <item>
 <title>Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid</title>
