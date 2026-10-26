@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers</title>
+<link>https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers</link>
+<guid isPermaLink="false">800d2d12ab7baaeb238fdfeb484a28e86d78d604ef151e2864f4ccf41aed92c8</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 26 Oct 2026 17:41:21 +0000</pubDate>
+<description>A confirmed exploit let rogue servers replace Electrum’s pending transactions, tricking users into redirecting Bitcoin to attacker addresses.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-wallet-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-wallet-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’</title>
 <link>https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm</link>
 <guid isPermaLink="false">622caa9bc02fe60c1ec58efbaa873bc228e2332d31f3c4c7785a716c0545f3f4</guid>
@@ -1201,16 +1212,5 @@
 <description>Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers’ credentials.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange</title>
-<link>https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange</link>
-<guid isPermaLink="false">ba4b5659cce31cab64a96ce5fd8560bc4ec862cfba9141b39f89ee65d86358c1</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 22 Oct 2026 14:04:48 +0000</pubDate>
-<description>Decrypt is building a destination where readers can discover, understand and trade the news, directly where they consume information.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/information-exchange-jupiter-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/information-exchange-jupiter-gID_7.png" medium="image"/>
 </item>
 </channel></rss>
