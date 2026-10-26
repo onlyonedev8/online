@@ -16,7 +16,6 @@ OUT = ROOT / "feeds"
 MAX_PER_SOURCE = 100
 USER_AGENT = "DailyPulse/1.0 (+RSS reader; respectful polling)"
 IMAGE_TIMEOUT = 8
-MIN_SPORTS_BODY = 80  # minimum characters of body text for sports stories
 MIN_IMAGE_WIDTH = 400
 MIN_IMAGE_HEIGHT = 225
 # Laplacian-variance blur heuristic. This is an image-quality check, not an AI vision model.
@@ -124,23 +123,6 @@ def entry_description(entry):
     value = max(candidates, key=len) if candidates else ""
     return value[:3000]
 
-def entry_body(entry):
-    """Full body text from content:encoded (paragraph breaks kept) or the longest summary."""
-    best = ""
-    for key in ("content", "summary", "description"):
-        value = entry.get(key, "")
-        if isinstance(value, list):
-            value = "\n".join(str(x.get("value", "")) for x in value if isinstance(x, dict))
-        value = re.sub(r"(?i)</p>|<br\s*/?>", "\n\n", str(value or ""))
-        value = html.unescape(re.sub(r"<[^>]+>", " ", value))
-        paras = [clean(p) for p in re.split(r"\n\s*\n", value)]
-        text = "\n\n".join(p for p in paras if p)
-        if len(text) > len(best): best = text
-    return best[:8000]
-
-def entry_author(entry):
-    return clean(entry.get("author") or entry.get("dc_creator") or "")
-
 def entry_date(entry):
     for key in ("published_parsed", "updated_parsed", "created_parsed"):
         parsed = entry.get(key)
@@ -187,16 +169,11 @@ def main():
                 image = next((candidate for candidate in entry_images(entry) if image_is_usable(candidate)), "")
                 if not image:
                     continue
-                body = entry_body(entry)
-                if category == "sports" and len(body) < MIN_SPORTS_BODY:
-                    continue  # sports cards need real body text; skip title-only entries
-                if not body:
-                    body = f"Read the full story at {name}."
                 title_key = re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
                 if link in seen_urls or (title_key and title_key in seen_titles): continue
                 seen_urls.add(link); seen_titles.add(title_key)
                 date = entry_date(entry)
-                grouped[category].append({"title":title,"link":link,"source":name,"date":date,"description":entry_description(entry),"body":body,"author":entry_author(entry),"image":image,"category":category})
+                grouped[category].append({"title":title,"link":link,"source":name,"date":date,"description":entry_description(entry),"image":image,"category":category})
                 total += 1
         except Exception as exc:
             failed_sources += 1
@@ -206,9 +183,9 @@ def main():
     all_items.sort(key=lambda x:x["date"], reverse=True)
     grouped["top"] = all_items
     def make_xml(items, title):
-        parts=['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel>', f'<title>{text_html(title)}</title>', '<link>https://example.com/</link>', '<description>Aggregated headlines linking to original publishers</description>']
+        parts=['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>', f'<title>{text_html(title)}</title>', '<link>https://example.com/</link>', '<description>Aggregated headlines linking to original publishers</description>']
         for x in items[:5000]:
-            parts += ['<item>', f'<title>{text_html(x["title"])}</title>', f'<link>{html.escape(x["link"], quote=False)}</link>', f'<guid isPermaLink="false">{hashlib.sha256(x["link"].encode()).hexdigest()}</guid>', f'<source>{text_html(x["source"])}</source>', f'<category>{text_html(x["category"])}</category>', f'<pubDate>{format_datetime(x["date"])}</pubDate>', f'<description>{text_html(x["description"])}</description>', f'<dc:creator>{text_html(x["author"])}</dc:creator>', f'<content:encoded>{text_html(x["body"])}</content:encoded>']
+            parts += ['<item>', f'<title>{text_html(x["title"])}</title>', f'<link>{html.escape(x["link"], quote=False)}</link>', f'<guid isPermaLink="false">{hashlib.sha256(x["link"].encode()).hexdigest()}</guid>', f'<source>{text_html(x["source"])}</source>', f'<category>{text_html(x["category"])}</category>', f'<pubDate>{format_datetime(x["date"])}</pubDate>', f'<description>{text_html(x["description"])}</description>']
             if x["image"]:
                 img = html.escape(x["image"], quote=True)
                 parts += [f'<enclosure url="{img}" type="image/jpeg"/>', f'<media:content url="{img}" medium="image"/>']
