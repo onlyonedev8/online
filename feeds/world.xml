@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Trump offers $1M reward for voter fraud tips that result in conviction</title>
+<link>https://abcnews.com/Politics/trump-offers-1m-reward-people-report-voter-fraud/story?id=137581908</link>
+<guid isPermaLink="false">6aec92d1f873b95f6d77e71ce122409ac939b765da9a000a7b7275b2b9fc0bc0</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 22:20:16 +0000</pubDate>
+<description>It is not clear where the money for this reward would come from.</description>
+<enclosure url="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261026_1793046150106_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261026_1793046150106_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Serbia’s elections: 'Tracking fraud for sure had an impact on the results'</title>
+<link>https://www.france24.com/en/europe/20261026-serbia-elections-tracking-fraud-had-an-impact-on-results-vote-fraud</link>
+<guid isPermaLink="false">fc816450d254f4eea753e0425ec6d4a4c122c2d20acaf1539fc915e7e555da1c</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 21:49:17 +0000</pubDate>
+<description>On October 25, Serbia's student-led protest movement won a historic victory in parliamentary ⁠elections, defeating outgoing President Aleksandar Vucic's party. Supporters of the student list explained to FRANCE 24 how they mounted a massive mobilisation to fight electoral fraud and monitor the electoral process inside and outside the polling stations.</description>
+<enclosure url="https://s.france24.com/media/display/ebe69ffe-d174-11f1-98c4-4d317af013fd/w:1024/p:16x9/Serbie-cover.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/ebe69ffe-d174-11f1-98c4-4d317af013fd/w:1024/p:16x9/Serbie-cover.jpg" medium="image"/>
+</item>
+<item>
 <title>The fall of El-Fasher, one year on</title>
 <link>https://www.france24.com/en/the-fall-of-el-fasher-one-year-on</link>
 <guid isPermaLink="false">b474e415704014e44e4e005cb2a4cdb564078b038b7b8d81370af68db3b45d40</guid>
@@ -26,15 +48,15 @@
 <media:content url="https://s.france24.com/media/display/682a0446-d17c-11f1-9a6e-5b4a75578ebb/w:1024/p:16x9/2026-10-26T195316Z-112147299-RC27BOAN60PB-RTRMADP-3-USA-TRUMP.jpg" medium="image"/>
 </item>
 <item>
-<title>Trump offers $1M reward for people who report voter fraud in past, upcoming elections</title>
-<link>https://abcnews.com/Politics/trump-offers-1m-reward-people-report-voter-fraud/story?id=137581908</link>
-<guid isPermaLink="false">6aec92d1f873b95f6d77e71ce122409ac939b765da9a000a7b7275b2b9fc0bc0</guid>
-<source>ABC News Top Stories</source>
+<title>Israel 'genocide' has continued in Gaza after ceasefire, UN report claims</title>
+<link>https://news.sky.com/story/un-report-claims-israel-genocide-in-gaza-has-continued-after-ceasefire-13604179</link>
+<guid isPermaLink="false">0f8dc3786f8f5857181c12e3e44156d137aab0024ecfb4801748207589b996d4</guid>
+<source>Sky News Home</source>
 <category>world</category>
-<pubDate>Mon, 26 Oct 2026 20:29:02 +0000</pubDate>
-<description>It is not clear where the money for this reward would come from.</description>
-<enclosure url="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261026_1793046150106_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-261026_1793046150106_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Mon, 26 Oct 2026 20:28:00 +0000</pubDate>
+<description>Israel has continued to commit genocide in Gaza despite last October's ceasefire, a UN commission claims.</description>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-israeli-strike-gaza-city_7388301.jpg?20261026222622" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-israeli-strike-gaza-city_7388301.jpg?20261026222622" medium="image"/>
 </item>
 <item>
 <title>Serbian student movement eyes power after election triumph</title>
@@ -348,7 +370,7 @@
 <title>Macron promises 'concrete measures' over protest demands - amid fears of Halloween unrest</title>
 <link>https://news.sky.com/story/macron-promises-concrete-measures-over-protest-demands-amid-fears-of-halloween-unrest-13604048</link>
 <guid isPermaLink="false">e432a8b5b3fe5d1c8c43d93d46bc2f2d342f25592ac80bba02f335d298d230a5</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Mon, 26 Oct 2026 14:44:00 +0000</pubDate>
 <description>Emmanuel Macron says his government will unveil "concrete measures" in response to the demands of student protesters for more resources in France.</description>
@@ -442,17 +464,6 @@
 <description>The former and current presidents campaigned for their respective party's candidates in the critical Michigan Senate race.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261026_gma_job_trump_obama1_0703_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261026_gma_job_trump_obama1_0703_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Bolsonaro's refusal to concede underscores ‘serious’ challenges to Brazil's democratic institutions</title>
-<link>https://www.france24.com/en/bolsonaro-s-refusal-to-concede-underscores-serious-challenges-to-brazil-s-democratic-institutions</link>
-<guid isPermaLink="false">61d6451f7b79b8dd06c9f758c3c7b929ea5074d75f6916cb92bfb61cbfc99c46</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 13:53:15 +0000</pubDate>
-<description>Annette Young is pleased to welcome Dr Pedro Perfeito da Silva, Latin American specialist at the University of Exeter. For Dr Perfeito da Silva, Lula's stunning success reflects the convergence of digital organizing, grassroots mobilization, targeted socioeconomic appeals and an effective effort to mobilise opposition to the Bolsonaro political project. As he explains, Lula assembled a coalition that "not only energized his supporters but also attracted voters from groups that had been somewhat skeptical of the government in the first round."</description>
-<enclosure url="https://s.france24.com/media/display/1a9e1cf2-d141-11f1-aa1e-5b4a75578ebb/w:1024/p:16x9/EN-20261026-130510-131145-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/1a9e1cf2-d141-11f1-aa1e-5b4a75578ebb/w:1024/p:16x9/EN-20261026-130510-131145-CS.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Homeowners go all out with Halloween decorations</title>
@@ -620,17 +631,6 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-jordan-church_7387552.jpg?20261026085249" medium="image"/>
 </item>
 <item>
-<title>Senior doctors to strike for two days in November</title>
-<link>https://news.sky.com/story/senior-doctors-in-england-to-strike-for-two-days-in-november-13603895</link>
-<guid isPermaLink="false">e433083decdb43ed46686fe22a15d1d8ee57e134604bb4713e1ea66868725fb8</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 08:12:00 +0000</pubDate>
-<description>Senior doctors in England plan to go on strike for two days in November over pay, the British Medical Association (BMA) has said.</description>
-<enclosure url="https://e3.365dm.com/26/06/1920x1080/skynews-doctor-strikes-bma_7285988.jpg?20260629183735" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/06/1920x1080/skynews-doctor-strikes-bma_7285988.jpg?20260629183735" medium="image"/>
-</item>
-<item>
 <title>Trump launches foul-mouthed tirade at Norway - as 'number one fan' Nicki Minaj attends rally</title>
 <link>https://news.sky.com/story/donald-trump-joined-by-number-one-fan-nicki-minaj-at-campaign-rally-13603867</link>
 <guid isPermaLink="false">92a5a3834f20dcc9bfddf3888577188944aaf57fbe3d8069ca50cc3657c7a278</guid>
@@ -662,17 +662,6 @@
 <description>"Everyone in Ukraine should know how to apply a tourniquet and how to stop someone's bleeding," Anatolii says.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-azovstal-ukraine_7387385.jpg?20261026002236" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-azovstal-ukraine_7387385.jpg?20261026002236" medium="image"/>
-</item>
-<item>
-<title>Talks between Ukraine, Russia and US to be held next month</title>
-<link>https://news.sky.com/story/meeting-between-ukraine-russia-and-us-to-be-held-next-month-zelenskyy-says-13603718</link>
-<guid isPermaLink="false">f6171ed796366d3b72babc438f4f7f06a43d333f6203b17e86b2d869ca3dc2fb</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Sun, 25 Oct 2026 18:09:00 +0000</pubDate>
-<description>A meeting between Ukraine, Russia and the US will take place next month, President Volodymyr Zelenskyy said.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-zelenskyy-ukraine_7387115.jpg?20261025192802" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-zelenskyy-ukraine_7387115.jpg?20261025192802" medium="image"/>
 </item>
 <item>
 <title>Open Senate seat up for grabs in Iowa as candidates tout populism, bipartisanship</title>
