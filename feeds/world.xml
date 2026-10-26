@@ -4,15 +4,147 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Anthropic formally files for IPO in major step for AI company</title>
+<title>LIVE: ABC News Live</title>
+<link>https://abcnews.com/video/41463246</link>
+<guid isPermaLink="false">c4dde2f9d4430a48432ef223ef2dea7731f9a2b9448e21ee003bf7e7734a1e77</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 15:24:55 +0000</pubDate>
+<description>24/7 coverage of breaking news and live events</description>
+<enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Jordan arrests three following deadly terror attack on church</title>
+<link>https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church</link>
+<guid isPermaLink="false">ff7fe6210ee52f2a4b733350ba4252a0ef5f25854a0a1a28287e7790ec8acc8d</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 15:12:52 +0000</pubDate>
+<description>Jordanian authorities on Monday arrested three terrorists following a deadly attack on a church during a funeral procession that killed nine people in the western village of Hammoud. The three assailants – who are Islamic extremists, according the Jordanian director of public security – were injured in a dawn shootout with authorities and are due to be brought before the courts in the nation that supports capital punishment.</description>
+<enclosure url="https://s.france24.com/media/display/93465636-d06c-11f1-9591-5b4a75578ebb/w:1024/p:16x9/e06a2b32c5fad7fb8c81c241552077acaf1af09b.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/93465636-d06c-11f1-9591-5b4a75578ebb/w:1024/p:16x9/e06a2b32c5fad7fb8c81c241552077acaf1af09b.jpg" medium="image"/>
+</item>
+<item>
+<title>Brazil's Lula reelected president in runoff vote: A look back at his career</title>
+<link>https://www.france24.com/en/brazil-s-lula-reelected-president-in-runoff-vote-a-look-back-at-his-career</link>
+<guid isPermaLink="false">7ab7020c363fc9c8aa7049341794201111fa1a48dda810db39a7514177d5ceb6</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 15:11:20 +0000</pubDate>
+<description>Brazilian President Luiz Inacio Lula da Silva won an unprecedented fourth term on Sunday (October 25), the country's electoral court said, in a shock result that defied polls.</description>
+<enclosure url="https://s.france24.com/media/display/fd221fee-d13a-11f1-84ec-5b4a75578ebb/w:1024/p:16x9/000-D4EJ8VV.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/fd221fee-d13a-11f1-84ec-5b4a75578ebb/w:1024/p:16x9/000-D4EJ8VV.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic preps for IPO in major step for AI company</title>
 <link>https://abcnews.com/Business/anthropic-formally-files-initial-public-stock-offering-major/story?id=137570700</link>
 <guid isPermaLink="false">d0e64b57128b2e04200b9eeb8b3ecbe8f4f540668ab715830c70669956957902</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Mon, 26 Oct 2026 13:41:51 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 15:00:09 +0000</pubDate>
 <description>Anthropic, the company behind chatbot Claude, has been among the leaders in AI development.</description>
 <enclosure url="https://s.abcnews.com/images/Business/anthropic-gty-jef-260731_1785503555591_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Business/anthropic-gty-jef-260731_1785503555591_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>US Midterms 2026: A history of gerrymandering</title>
+<link>https://www.france24.com/en/us-midterms-2026-a-history-of-gerrymandering</link>
+<guid isPermaLink="false">2a4bc0975c37f3a2f494f4c9dd8231dba19a093aa3fea06e72de61e1fd3205fc</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 14:48:54 +0000</pubDate>
+<description>What does a salamander have to do with US elections? Dating back centuries, gerrymandering continues to play a role in American elections today. Used more often by Republicans in the modern era of voting, Democrats have also resorted to the tactic in the past decade. But what is gerrymandering, and why is it called that? FRANCE 24's Tanishk Saha explains.</description>
+<enclosure url="https://s.france24.com/media/display/a8ee3dee-d14a-11f1-9245-bdb9616e85cf/w:1024/p:16x9/Thumbnail-01-Gerrymandering.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/a8ee3dee-d14a-11f1-9245-bdb9616e85cf/w:1024/p:16x9/Thumbnail-01-Gerrymandering.jpg" medium="image"/>
+</item>
+<item>
+<title>French President promises 'concrete measures' in response to French students' demands</title>
+<link>https://www.france24.com/en/video/20261026-french-president-promises-concrete-measures-in-response-to-french-students-demands</link>
+<guid isPermaLink="false">507afbcad5c6d006fe36441cb809fed4989e2f458378facf3f873f6038f86aa8</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 14:39:15 +0000</pubDate>
+<description>French President Emmanuel Macron said the government would announce “concrete measures" on Monday (October 26) to address school students’ demands after weeks of unrest. Prime Minister Sebastien Lecornu was scheduled to meet with students later Monday. FRANCE 24's Luke Shrago reports from the ground.</description>
+<enclosure url="https://s.france24.com/media/display/f3422bda-cfbf-11f1-9c62-4b25c96ec90e/w:1024/p:16x9/000-D4AX74W.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/f3422bda-cfbf-11f1-9c62-4b25c96ec90e/w:1024/p:16x9/000-D4AX74W.jpg" medium="image"/>
+</item>
+<item>
+<title>US midterms: Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats</title>
+<link>https://www.france24.com/en/us-midterms-obama-blasts-trump-s-chaos-and-cruelty-while-campaigning-for-democrats</link>
+<guid isPermaLink="false">abf7926435d741c677aeb3cee8ef4b262d42c92c8d66de1e8e0879683711f104</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 14:28:32 +0000</pubDate>
+<description>Ten days out from the elections that will determine control of the closely divided Congress, Barack Obama took to the campaign trail to accuse the Republican president of corruption, deride his strategy for Iran and skewer the gilded aesthetic he has applied ‌to White House renovations. FRANCE 24's Fraser Jackson tells us more.</description>
+<enclosure url="https://s.france24.com/media/display/7aa06634-d149-11f1-8d0a-4b25c96ec90e/w:1024/p:16x9/capture-2b4f75ac.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/7aa06634-d149-11f1-8d0a-4b25c96ec90e/w:1024/p:16x9/capture-2b4f75ac.jpg" medium="image"/>
+</item>
+<item>
+<title>Tens of thousands of Israelis living abroad expected to fly in for pivotal vote</title>
+<link>https://www.france24.com/en/tens-of-thousands-of-israelis-living-abroad-expected-to-fly-in-for-pivotal-vote</link>
+<guid isPermaLink="false">a3d6b8696ede80140b6ad4fa0e5eaf8b8c085cf56aea2c9de8368305f4f2f92f</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 14:20:51 +0000</pubDate>
+<description>Israelis are preparing to head to the polls on Tuesday (October 27). Unable to vote from abroad, tens of thousands of expatriate citizens have been flying in from across the world to cast their ballots. FRANCE 24's Noga Tarnopolsky met some of them at the airport.</description>
+<enclosure url="https://s.france24.com/media/display/7fc43c96-d142-11f1-abf3-4b25c96ec90e/w:1024/p:16x9/EN-20261026-140748-141044-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/7fc43c96-d142-11f1-abf3-4b25c96ec90e/w:1024/p:16x9/EN-20261026-140748-141044-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>AI giant Anthropic files for an IPO that could break records</title>
+<link>https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records</link>
+<guid isPermaLink="false">b4d20aefa8c3aa9f6f1c0411075999eabbba2ca8ffbab809842906d8c3154af2</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 14:16:23 +0000</pubDate>
+<description>The AI company, which makes the popular Claude chatbot, has filed for an initial public offering that could be one of the biggest ever. (Image credit: Patrick Sison)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4497x2998+0+0/resize/4497x2998!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F47%2F4ed851dd42299e2a29717619f3fe%2Fap26182544649628.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4497x2998+0+0/resize/4497x2998!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F47%2F4ed851dd42299e2a29717619f3fe%2Fap26182544649628.jpg" medium="image"/>
+</item>
+<item>
+<title>Serbia's Vucic concedes defeat to the student-led movement: What's next?</title>
+<link>https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next</link>
+<guid isPermaLink="false">ca4d04c9c348d62df2663687ff5a160ec8a2cf8ef98047da823ab088fb38d904</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 14:12:08 +0000</pubDate>
+<description>Serbia's student-led protest movement won a historic victory in parliamentary ⁠election, ending the ​long rule of Aleksandar Vucic and sparking mass celebrations. But their yet-to-be named leaders face a long list of issues. FRANCE 24's Angela Diffley gives us her analysis.</description>
+<enclosure url="https://s.france24.com/media/display/466c3472-d141-11f1-b5ca-bdb9616e85cf/w:1024/p:16x9/EN-20261026-140453-140748-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/466c3472-d141-11f1-b5ca-bdb9616e85cf/w:1024/p:16x9/EN-20261026-140453-140748-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>Lula wins fourth term: What are the reactions in Brazil?</title>
+<link>https://www.france24.com/en/lula-wins-fourth-term-what-are-the-reactions-in-brazil</link>
+<guid isPermaLink="false">6fac97bd28ca5e6d7f1ff27b7a38874dba89af33beebc9b101f5255f649753a9</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 14:04:39 +0000</pubDate>
+<description>Brazil's leftist President Luiz Inacio Lula da Silva was re-elected against all expectations on Sunday (October 25), but his conservative rival Flavio Bolsonaro refused to accept the loss and said he would seek to have the vote annulled. FRANCE 24's Jan Onoszko tells us more.</description>
+<enclosure url="https://s.france24.com/media/display/3c5ea0e2-d145-11f1-aa19-5b4a75578ebb/w:1024/p:16x9/capture-e357fa50.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/3c5ea0e2-d145-11f1-aa19-5b4a75578ebb/w:1024/p:16x9/capture-e357fa50.jpg" medium="image"/>
+</item>
+<item>
+<title>Bolsonaro's refusal to concede underscores ‘serious’ challenges to Brazil's democratic institutions</title>
+<link>https://www.france24.com/en/bolsonaro-s-refusal-to-concede-underscores-serious-challenges-to-brazil-s-democratic-institutions</link>
+<guid isPermaLink="false">61d6451f7b79b8dd06c9f758c3c7b929ea5074d75f6916cb92bfb61cbfc99c46</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 13:53:15 +0000</pubDate>
+<description>Annette Young is pleased to welcome Dr Pedro Perfeito da Silva, Latin American specialist at the University of Exeter. For Dr Perfeito da Silva, Lula's stunning success reflects the convergence of digital organizing, grassroots mobilization, targeted socioeconomic appeals and an effective effort to mobilise opposition to the Bolsonaro political project. As he explains, Lula assembled a coalition that "not only energized his supporters but also attracted voters from groups that had been somewhat skeptical of the government in the first round."</description>
+<enclosure url="https://s.france24.com/media/display/1a9e1cf2-d141-11f1-aa1e-5b4a75578ebb/w:1024/p:16x9/EN-20261026-130510-131145-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/1a9e1cf2-d141-11f1-aa1e-5b4a75578ebb/w:1024/p:16x9/EN-20261026-130510-131145-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>Will Netanyahu's security promise win him this election?</title>
+<link>https://www.france24.com/en/video/20261026-will-netanyahu-s-security-promise-win-him-this-election</link>
+<guid isPermaLink="false">7245e677289ae56a06cfdbb979e12e544f9162f5aec939214f88224abba18acd</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 13:52:32 +0000</pubDate>
+<description>Since the beginning of his political career, Benjamin Netanyahu, Israel's longest-serving prime minister, has campaigned on a promise that he is the only one who will keep the Jewish state safe. As Israelis head to the polls for their first election since the October7 Hamas attacks and the start of the war in Gaza, Netanyahu's strategy might be less effective. FRANCE 24's Gabrielle Nadler explains.</description>
+<enclosure url="https://s.france24.com/media/display/08eb65f0-ceb2-11f1-8538-4b25c96ec90e/w:1024/p:16x9/Netanyahu-cover.png" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/08eb65f0-ceb2-11f1-8538-4b25c96ec90e/w:1024/p:16x9/Netanyahu-cover.png" medium="image"/>
 </item>
 <item>
 <title>Lula wins Brazil election but faces uphill battle to govern</title>
@@ -24,6 +156,17 @@
 <description>Luiz Inacio Lula da Silva's narrow election victory on Sunday has dealt a blow to Brazil's far right, but deep political divisions remain. The newly re-elected president must tackle economic and security concerns at home while navigating international tensions with US President Donald Trump.</description>
 <enclosure url="https://s.france24.com/media/display/fd221fee-d13a-11f1-84ec-5b4a75578ebb/w:1024/p:16x9/000-D4EJ8VV.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/fd221fee-d13a-11f1-84ec-5b4a75578ebb/w:1024/p:16x9/000-D4EJ8VV.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Homeowners go all out with Halloween decorations</title>
+<link>https://abcnews.com/video/137559574</link>
+<guid isPermaLink="false">994d61301f1a1d67b038e447bba912851d56132aa7d8099fc8c28a3ba9a50f27</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 13:28:25 +0000</pubDate>
+<description>Front yards are being transformed into Halloween spectacles, with the elaborate decorations lifting spirits.</description>
+<enclosure url="https://s.abcnews.com/images/WNT/261025_wn_ender_657_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/WNT/261025_wn_ender_657_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Australian judge rejects prisoner's human rights challenge to Vegemite ban</title>
@@ -59,7 +202,7 @@
 <media:content url="https://s.france24.com/media/display/a18cd53e-d13a-11f1-9a7c-4b25c96ec90e/w:1024/p:16x9/mini1-2.jpg" medium="image"/>
 </item>
 <item>
-<title>Anthropic reveals loss as it plans to sell public shares for first time</title>
+<title>Anthropic reveals plans for blockbuster IPO</title>
 <link>https://news.sky.com/story/anthropic-reveals-loss-as-it-plans-to-sell-public-shares-for-first-time-13604009</link>
 <guid isPermaLink="false">e8800623f2eaab99f7ff306f817d5959c4a27a3ece16bc2270ea32b313da29d2</guid>
 <source>Sky News Home</source>
@@ -76,20 +219,20 @@
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Mon, 26 Oct 2026 12:49:00 +0000</pubDate>
-<description>Two strangers who killed a mother and her four-year-old daughter as they raced their high-performance cars along a city centre road have been jailed for 16 and 12 years respectively.</description>
+<description>Two strangers who killed a mother and her four-year-old daughter as they raced their high-performance cars along a city centre road have been jailed for 16 and 12 years.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-hardeep-bhachu-jasskamal-riyat_7387869.jpg?20261026131721" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-hardeep-bhachu-jasskamal-riyat_7387869.jpg?20261026131721" medium="image"/>
 </item>
 <item>
-<title>Live: France will maintain order without state of emergency, but it’s not off the table, Macron says</title>
+<title>Live: French PM meets with student groups; may replace admissions platform Parcoursup</title>
 <link>https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says</link>
 <guid isPermaLink="false">b476afc7ab24379ce9039b86c60645d8ed1ce970efd2eaa0d3dc39cdd9a90fd3</guid>
 <source>France 24</source>
 <category>world</category>
 <pubDate>Mon, 26 Oct 2026 12:47:12 +0000</pubDate>
-<description>President Emmanuel Macron on Monday said public order will be maintained in France without the need for a state of emergency, while noting that it was not “off-limits or taboo” if “things were to deteriorate". During a visit to Marseille, Macron promised "concrete" measures to address the demands by high school students after their protests triggered weeks of nationwide unrest. Follow our live blog for all the latest updates.</description>
-<enclosure url="https://s.france24.com/media/display/4904c526-d139-11f1-9ba3-4b25c96ec90e/w:1024/p:16x9/AP26299408242327.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/4904c526-d139-11f1-9ba3-4b25c96ec90e/w:1024/p:16x9/AP26299408242327.jpg" medium="image"/>
+<description>Prime Minister Sébastien Lecornu will meet with high school groups this evening about a proposal to replace higher education admissions platform Parcoursup within two years. President Emmanuel Macron earlier said public order would be maintained without the need for a state of emergency, while noting it was not “off-limits" if “things were to deteriorate". Follow our live blog for all the latest updates.</description>
+<enclosure url="https://s.france24.com/media/display/ceaecc3e-d14e-11f1-ab44-5b4a75578ebb/w:1024/p:16x9/000-D43E86B.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/ceaecc3e-d14e-11f1-ab44-5b4a75578ebb/w:1024/p:16x9/000-D43E86B.jpg" medium="image"/>
 </item>
 <item>
 <title>Israel braces for national elections seen as a referendum on Netanyahu</title>
@@ -279,72 +422,6 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-north-korea-howitzer_7387580.jpg?20261026092232" medium="image"/>
 </item>
 <item>
-<title>'Serbia is free': Belgrade erupts in celebration after Vucic's defeat</title>
-<link>https://www.france24.com/en/serbia-is-free-belgrade-erupts-in-celebration-after-vucic-s-defeat</link>
-<guid isPermaLink="false">a2db51949b5d3be40a52f7b79d8c1275e3c755ceae3600fca2ec25899050404e</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 09:55:43 +0000</pubDate>
-<description>Celebrations erupted across several Serbian cities late Sunday (October 25) as people hailed the student-backed movement deposing veteran leader Aleksandar Vucic's party in a snap election.</description>
-<enclosure url="https://s.france24.com/media/display/f5da151c-d11b-11f1-a017-4b25c96ec90e/w:1024/p:16x9/EN-20261026-090715-090917-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/f5da151c-d11b-11f1-a017-4b25c96ec90e/w:1024/p:16x9/EN-20261026-090715-090917-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Brazil: What challenges await Lula in his fourth term as president?</title>
-<link>https://www.france24.com/en/brazil-what-challenges-await-lula-in-his-fourth-term-as-president</link>
-<guid isPermaLink="false">8878b66b20b141ad2d34aacdb600fa30d848487681a15c67a6e4a7dca2af4bda</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 09:46:36 +0000</pubDate>
-<description>Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday (October 25). He will have to wrestle with a divided Brazil, an unfriendly Congress, feeble public finances and a Donald Trump-shaped menace during his unprecedented fourth term.</description>
-<enclosure url="https://s.france24.com/media/display/92b1f50c-d0d7-11f1-9469-bdb9616e85cf/w:1024/p:16x9/0498b5dbd26c81f0b76b2b0960050a2224c1a10b.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/92b1f50c-d0d7-11f1-9469-bdb9616e85cf/w:1024/p:16x9/0498b5dbd26c81f0b76b2b0960050a2224c1a10b.jpg" medium="image"/>
-</item>
-<item>
-<title>Brazil's Lula wins historic fourth term</title>
-<link>https://www.france24.com/en/brazil-s-lula-wins-historic-fourth-term</link>
-<guid isPermaLink="false">c42d2b88d359c939bccfc52e5e199fec43f8dc835328599d43badd16094b9043</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 09:44:58 +0000</pubDate>
-<description>Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday (October 26). The leftist leader won 51.7% of the vote, compared to 48.2% for the son of former president Jair Bolsonaro, official results showed. Bolsonaro has refused to accept the loss and said he would seek to annul the vote.</description>
-<enclosure url="https://s.france24.com/media/display/ceee314c-d119-11f1-9027-5b4a75578ebb/w:1024/p:16x9/EN-20261026-090215-090410-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/ceee314c-d119-11f1-9027-5b4a75578ebb/w:1024/p:16x9/EN-20261026-090215-090410-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Serbia's student movement ousts longtime leader Vucic in parliament poll</title>
-<link>https://www.france24.com/en/serbia-s-student-movement-ousts-longtime-leader-vucic-in-parliament-poll</link>
-<guid isPermaLink="false">7c0900459d3085b99eb3d098979191fb0f59090a8fe910fce1ad7ebaf638ceec</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 09:41:14 +0000</pubDate>
-<description>Serbia's Aleksandar Vucic conceded defeat in an historic election on Sunday (October 25) following a near to 70% turnout at polling stations. The snap election followed nearly two years of student-led demonstrations against perceived corruption and authoritarianism triggered by the deaths of 16 people when a train station canopy collapsed in the ‌city of Novi Sad in 2024. FRANCE 24's Laurent Rouy tells us more.</description>
-<enclosure url="https://s.france24.com/media/display/633333c2-d118-11f1-875e-bba4eee3dc72/w:1024/p:16x9/EN-20261026-081316-081819-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/633333c2-d118-11f1-875e-bba4eee3dc72/w:1024/p:16x9/EN-20261026-081316-081819-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Brazil's Lula seals re-election in surprise win</title>
-<link>https://www.france24.com/en/brazil-s-lula-seals-re-election-in-surprise-win</link>
-<guid isPermaLink="false">14bcca65f7eb2e9d369fee73b889eb95021d8d18d68fc6a348b7eb292a7b2c76</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 09:33:25 +0000</pubDate>
-<description>Brazil's President Luiz Inacio Lula da Silva won an unprecedented fourth term in a tight runoff against Flavio Bolsonaro on Sunday (October 25). The far-right candidate and son of former President Jair Bolsonaro has refused to accept the results and said he would seek to annul the vote.</description>
-<enclosure url="https://s.france24.com/media/display/65bc2598-d11f-11f1-8fc5-5b4a75578ebb/w:1024/p:16x9/title-4.png" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/65bc2598-d11f-11f1-8fc5-5b4a75578ebb/w:1024/p:16x9/title-4.png" medium="image"/>
-</item>
-<item>
-<title>‘Congratulations!’: World leaders hail Lula’s election victory in Brazil</title>
-<link>https://www.france24.com/en/americas/20261026-congratulations-world-leaders-hail-lula-s-election-victory-in-brazil</link>
-<guid isPermaLink="false">f8a4f4acfab0a601d8183a62c298eeb8d99b488b0ccb0376495bdb2e937dd50e</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 09:31:08 +0000</pubDate>
-<description>The international community on Monday congratulated Brazil's President Luiz Inacio Lula da Silva after his stunning re-election in a runoff with right-wing candidate Flavio Bolsonaro. The region's left-leaning leaders were quick to react as Brazil staved off a conservative wave in many countries while Europeans, such as Spanish Prime Minister Pedro Sanchez, celebrated a "progressive comeback".</description>
-<enclosure url="https://s.france24.com/media/display/d8712ae4-d0f1-11f1-829d-5b4a75578ebb/w:1024/p:16x9/2026-10-26T035757Z-1722584206-RC2RAOA2Q30I-RTRMADP-3-BRAZIL-ELECTION.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/d8712ae4-d0f1-11f1-829d-5b4a75578ebb/w:1024/p:16x9/2026-10-26T035757Z-1722584206-RC2RAOA2Q30I-RTRMADP-3-BRAZIL-ELECTION.jpg" medium="image"/>
-</item>
-<item>
 <title>Trump escalates anti-Muslim attacks against El-Sayed in Michigan</title>
 <link>https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks</link>
 <guid isPermaLink="false">2266d80af6660255849c4a755249b1cf3cba9c38903e3203e1b827e7691fe7a0</guid>
@@ -356,17 +433,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6165x4113+0+0/resize/6165x4113!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F51%2F0e38721241369cf0b0f390dbabe7%2Fap26298802484887.jpg" medium="image"/>
 </item>
 <item>
-<title>Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments</title>
-<link>https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage</link>
-<guid isPermaLink="false">de0db3fd94eba7f5e1e6918ddebe9867d9ecee018fed41df6ff8ea837a182363</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
-<description>Bottom row (from left): Paul Stone of Mt. Diablo Unified School District in California, Diana Swanson of Vail School District in Arizona, Kathleen Tejeda of Alvord Unified School District in California and Emily Ellis of Lexington School District Two in South Carolina.'/&gt; What makes special education teaching jobs so hard to fill? NPR set out to find some answers by talking to more than a dozen teachers who do this work every day. (Image credit: LA Johnson)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3201x2028+0+0/resize/3201x2028!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fa0%2F4dab85e941dd800bb21716c15331%2Ffull-grid.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3201x2028+0+0/resize/3201x2028!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fa0%2F4dab85e941dd800bb21716c15331%2Ffull-grid.jpg" medium="image"/>
-</item>
-<item>
 <title>How AI is transforming hurricane forecasts</title>
 <link>https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias</link>
 <guid isPermaLink="false">aca7ce5234cbb5421c889dc0963cb150929f317e4684a92b791ac15ab91a7d6d</guid>
@@ -376,6 +442,17 @@
 <description>Hurricane forecasters are increasingly using artificial intelligence to make predictions. (Image credit: NOAA)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/2000x1333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F87%2F99e0849e47e2813d852eb94b5f40%2Fap26282622911128.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/2000x1333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F87%2F99e0849e47e2813d852eb94b5f40%2Fap26282622911128.jpg" medium="image"/>
+</item>
+<item>
+<title>Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments</title>
+<link>https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage</link>
+<guid isPermaLink="false">de0db3fd94eba7f5e1e6918ddebe9867d9ecee018fed41df6ff8ea837a182363</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
+<description>Bottom row (from left): Paul Stone of Mt. Diablo Unified School District in California, Diana Swanson of Vail School District in Arizona, Kathleen Tejeda of Alvord Unified School District in California and Emily Ellis of Lexington School District Two in South Carolina.'/&gt; What makes special education teaching jobs so hard to fill? NPR set out to find some answers by talking to more than a dozen teachers who do this work every day. (Image credit: LA Johnson)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3201x2028+0+0/resize/3201x2028!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fa0%2F4dab85e941dd800bb21716c15331%2Ffull-grid.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3201x2028+0+0/resize/3201x2028!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fa0%2F4dab85e941dd800bb21716c15331%2Ffull-grid.jpg" medium="image"/>
 </item>
 <item>
 <title>Court ruling fails to end wait for thousands of immigrants stuck abroad without visas</title>
@@ -398,28 +475,6 @@
 <description>Republicans redrew Congressional district lines to try to tilt the midterms in their favor. But now they are facing expensive and competitive races they had hoped to outmaneuver. (Image credit: Anna Moneymaker)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5135x3423+0+0/resize/5135x3423!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F6a%2F46ec36764e5db11da70604db9122%2Fgettyimages-2301229190.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5135x3423+0+0/resize/5135x3423!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F6a%2F46ec36764e5db11da70604db9122%2Fgettyimages-2301229190.jpg" medium="image"/>
-</item>
-<item>
-<title>Lula's 'extraordinary victory' faces growing middle class, deeply-entrenched bolsonarismo &amp; Big Tech</title>
-<link>https://www.france24.com/en/lula-s-extraordinary-victory-faces-growing-middle-class-deeply-entrenched-bolsonarismo-big-tech</link>
-<guid isPermaLink="false">7aa8423b656a3e4dfa9c13156ae9c23dcbd4f68534d749407960a1153b794a59</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 08:41:47 +0000</pubDate>
-<description>Oliver Farry is pleased to welcome Dr Felipe Krause, Political Scientist, former Diplomat and Departmental Lecturer in Latin American Studies at the Oxford School of Global and Area Studies. Beneath Lula's electoral triumph lies a more complex political reality: the Brazilian hard right has consolidated its influence across state governments and legislative institutions, raising fundamental questions about the balance of power and the future of progressive governance. Lula will be focusing more on "working to keep things from eroding" rather than advancing his progressive agenda, explains Dr. Krause. 'There is more need for economic measures that support the growing middle class."</description>
-<enclosure url="https://s.france24.com/media/display/690b2716-d116-11f1-a852-5b4a75578ebb/w:1024/p:16x9/EN-20261026-080414-081316-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/690b2716-d116-11f1-a852-5b4a75578ebb/w:1024/p:16x9/EN-20261026-080414-081316-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>London's Oxford Street pedestrianised in 'truly momentous occasion for capital'</title>
-<link>https://news.sky.com/story/londons-oxford-street-pedestrianised-in-truly-momentous-occasion-for-capital-13603905</link>
-<guid isPermaLink="false">8a37ffec91a17863582072bcf6432f9be4818bd65a57d68c496b9f8bdaadd83b</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 08:33:00 +0000</pubDate>
-<description>London's Oxford Street is now traffic-free, with mayor Sadiq Khan hailing it "a truly momentous occasion for the capital".</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-oxford-street-pedestrianisation_7387703.jpg?20261026114715" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-oxford-street-pedestrianisation_7387703.jpg?20261026114715" medium="image"/>
 </item>
 <item>
 <title>Three men arrested in shootout after deadly attack on church in Jordan</title>
@@ -455,17 +510,6 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-b708-lower-bathville_7387528.jpg?20261026083955" medium="image"/>
 </item>
 <item>
-<title>Paris welcomes first NFL game with a party a day after protests</title>
-<link>https://www.france24.com/en/sport/20261026-paris-welcomes-first-nfl-game-with-a-party-a-day-after-protests</link>
-<guid isPermaLink="false">e1f5313151939a093d8f369a4f5abe2a55c07c42ee1becc221f01a97cf841348</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 07:41:40 +0000</pubDate>
-<description>The Stade de France near Paris made history Sunday when it hosted the first regular-season NFL game between the Pittsburgh Steelers and New Orleans Saints in a festive atmosphere a day after police clashed with demonstrators across France. While security issues dominated the headlines in the leadup to the game, the mood at the stadium was joyous with half-time shows including a rap performance.</description>
-<enclosure url="https://s.france24.com/media/display/22a7ea02-d07b-11f1-b453-4b25c96ec90e/w:1024/p:16x9/AP26298489678378.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/22a7ea02-d07b-11f1-b453-4b25c96ec90e/w:1024/p:16x9/AP26298489678378.jpg" medium="image"/>
-</item>
-<item>
 <title>Trump launches foul-mouthed tirade at Norway - as 'number one fan' Nicki Minaj attends rally</title>
 <link>https://news.sky.com/story/donald-trump-joined-by-number-one-fan-nicki-minaj-at-campaign-rally-13603867</link>
 <guid isPermaLink="false">92a5a3834f20dcc9bfddf3888577188944aaf57fbe3d8069ca50cc3657c7a278</guid>
@@ -475,28 +519,6 @@
 <description>Nicki Minaj said Donald Trump "has given us a future to look forward to" as she joined the US president on stage at a rally in Michigan.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-trump-nicki-minaj_7387480.jpg?20261026073204" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-trump-nicki-minaj_7387480.jpg?20261026073204" medium="image"/>
-</item>
-<item>
-<title>Real Madrid win Clasico against Barcelona thanks to Mbappé</title>
-<link>https://www.france24.com/en/tv-shows/sports/20261026-real-madrid-win-clasico-against-fc-barcelona-thanks-to-kylian-mbapp%C3%A9</link>
-<guid isPermaLink="false">96dce81c2883ae934b68c90b69d7b3fd451fbedd45f771e83c44aec89dcf9f6b</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 06:10:08 +0000</pubDate>
-<description>Real Madrid defeated FC Barcelona in La Liga (2-1) thanks to a brace by Kylian Mbappé, as the title race gets tighter.</description>
-<enclosure url="https://s.france24.com/media/display/1eeb4dc6-d0e6-11f1-9202-bba4eee3dc72/w:1024/p:16x9/mbappe-1-1.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/1eeb4dc6-d0e6-11f1-9202-bba4eee3dc72/w:1024/p:16x9/mbappe-1-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Mbappé, Kane and Yamal top favourites list in wide open 2026 Ballon d’Or race</title>
-<link>https://www.france24.com/en/sport/20261026-kane-primed-to-pip-yamal-mbappe-to-ballon-d-or-glory</link>
-<guid isPermaLink="false">7c3baec88d6c0cfb3fef4621bab30d0a4ef7ed0ea4ed1a610dda9e179310c418</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 04:38:55 +0000</pubDate>
-<description>French forward Kylian Mbappé, England captain Harry Kane and Spain's Lamine Yamal are among the favourites to be crowned the 2026 Ballon d'Or winner at a ceremony to be hosted Monday for the first time in England in recognition of the first winner Stanley Matthews.</description>
-<enclosure url="https://s.france24.com/media/display/ca7f1fee-ce27-11f1-a02a-7967b15eed96/w:1024/p:16x9/img-prin-ballondor.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/ca7f1fee-ce27-11f1-a02a-7967b15eed96/w:1024/p:16x9/img-prin-ballondor.jpg" medium="image"/>
 </item>
 <item>
 <title>Met Office issues new weather warning for wind - as two men killed by falling trees</title>
@@ -752,36 +774,14 @@
 <media:content url="https://s.abcnews.com/images/US/261023_gmafl_mayor_dispute_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>WATCH: 12-year-old 'Captain William' goes viral after Delta DREAM Flight</title>
-<link>https://abcnews.com/video/137493900</link>
-<guid isPermaLink="false">7dd3fccb1bc94e6ce0092f5cf5e9a472faf7c2c6306a212b673cfc7b2744286a</guid>
+<title>WATCH: 7-year-old singer wins hearts on the street, social media</title>
+<link>https://abcnews.com/video/137468560</link>
+<guid isPermaLink="false">01e7b68c33d4afc28174f909c14603374f424dea8809c92183c6c77b5bd6eee1</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Fri, 23 Oct 2026 01:42:53 +0000</pubDate>
-<description>Aspiring pilot William Hobson, 12, is winning hearts online after showing off his impressive in-flight lingo aboard Delta’s DREAM Flight.</description>
-<enclosure url="https://s.abcnews.com/images/US/261022_abcnl_6p_12yopilot_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/261022_abcnl_6p_12yopilot_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>LIVE: ABC News Live</title>
-<link>https://abcnews.com/video/41463246</link>
-<guid isPermaLink="false">c4dde2f9d4430a48432ef223ef2dea7731f9a2b9448e21ee003bf7e7734a1e77</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 21:18:35 +0000</pubDate>
-<description>24/7 coverage of breaking news and live events</description>
-<enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Inside the North Carolina State Fair</title>
-<link>https://abcnews.com/video/137473635</link>
-<guid isPermaLink="false">de23d71e883058e85a54136ee8476fa933ec7edb6a9345bab15ac7fa69ddc6bd</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 22 Oct 2026 17:16:12 +0000</pubDate>
-<description>ABC News' Leslie Lopez reports from Raleigh, where the North Carolina State Fair is underway and has already drawn hundreds of thousands of visitors.</description>
-<enclosure url="https://s.abcnews.com/images/GMA/261022_gma_lopez1_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/261022_gma_lopez1_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Thu, 22 Oct 2026 08:39:26 +0000</pubDate>
+<description>ABC News' Danny New talks to Jordan Sunshine, a boy in California who found therapy for his anxiety by performing on the streets of Los Angeles.</description>
+<enclosure url="https://s.abcnews.com/images/US/261022_gmafl_street_singer_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/261022_gmafl_street_singer_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 </channel></rss>
