@@ -139,14 +139,8 @@
       "enabled": true
     },
     {
-      "name": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/rss",
-      "category": "sports",
-      "enabled": true
-    },
-    {
-      "name": "Sky Sports Football",
-      "url": "https://www.skysports.com/rss/12040",
+      "name": "Sky Sports Premier League",
+      "url": "https://www.skysports.com/rss/11661",
       "category": "sports",
       "enabled": true
     },
@@ -310,6 +304,36 @@
       "name": "Polygon",
       "url": "https://www.polygon.com/rss/index.xml",
       "category": "gaming",
+      "enabled": true
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "category": "business",
+      "enabled": true
+    },
+    {
+      "name": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "category": "business",
+      "enabled": true
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "category": "business",
+      "enabled": true
+    },
+    {
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "business",
+      "enabled": true
+    },
+    {
+      "name": "Banking Dive",
+      "url": "https://www.bankingdive.com/feeds/news/",
+      "category": "business",
       "enabled": true
     }
   ]
