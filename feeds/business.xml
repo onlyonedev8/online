@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours</title>
+<link>https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours</link>
+<guid isPermaLink="false">1456f9d2a75f03e43bf65eb48855021b8312856e347f23aae362539f6d5d9f20</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 26 Oct 2026 19:31:02 +0000</pubDate>
+<description>Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic's sales, HR, and IT systems through third-party software.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>Why Prediction Markets Got the Brazilian Election So Wrong</title>
 <link>https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong</link>
 <guid isPermaLink="false">5f29cd85f28bb80da320df1d79a3558d0626ff9d0aa423b832de09b672603f2b</guid>
@@ -178,17 +189,6 @@
 <description>AI-powered reverse engineering could make it "easier and faster" for researchers to uncover and explain how devices collect and share data.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/samsung-smart-tv-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/samsung-smart-tv-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Taco Bell and Other Chains Are Using App Games to Keep Customers Coming Back. Is It Working?</title>
-<link>https://www.entrepreneur.com/buying-a-franchise/taco-bell-and-other-chains-are-using-app-games-to-keep-customers-coming-back-is-it-working</link>
-<guid isPermaLink="false">c7a77bc3653e1b914dfb38d6bc5be7582ec65bb2a16ba2e7f6d5e304806c69fb</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 15:00:00 +0000</pubDate>
-<description>Restaurants can't stop playing around. Prize drawings and spin-to-win rewards are showing up in loyalty apps from Taco Bell to Smoothie King.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/taco-bell-bid-on-luxe-1026.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/taco-bell-bid-on-luxe-1026.jpg" medium="image"/>
 </item>
 <item>
 <title>South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029</title>
@@ -873,6 +873,17 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png" medium="image"/>
 </item>
 <item>
+<title>She Built a $100 Million Business in 7 Years. Here’s How She Scaled From Scrappy Startup to Costco and Whole Foods.</title>
+<link>https://www.entrepreneur.com/building-a-business/she-built-a-100-million-business-32000-retail-locations-costco-whole-foods</link>
+<guid isPermaLink="false">b6ab641bdcd0e1e425ad249bd7b3e393588ff839de926e18f313888664acbc04</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Fri, 23 Oct 2026 19:34:29 +0000</pubDate>
+<description>Erica Groussman came up with her business idea during a family trip to Disney.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Erica-Groussman-holding-a-Daydreaming-About-Donuts-bar.-Credit-Trubar.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/Erica-Groussman-holding-a-Daydreaming-About-Donuts-bar.-Credit-Trubar.jpg" medium="image"/>
+</item>
+<item>
 <title>SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks</title>
 <link>https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list</link>
 <guid isPermaLink="false">52d22f4d94b63af0f1ae765ebf8ecd52ef6ba1a7ac2df6ebd3fb0a36c8c0c783</guid>
@@ -1201,16 +1212,5 @@
 <description>Brent crude hit a five-month high while Nvidia, Meta and chip stocks fell, pulling Asia's benchmark indexes down by up to 3.5% a week after South Korea's Kospi plunged 7.57%.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Bitcoin ETFs Erase October Losses With $1 Billion in Three Days</title>
-<link>https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days</link>
-<guid isPermaLink="false">a172ce1eb09a0d4020160de5d76e64a4bf5bdd01f9e158955f99f25cf133f5df</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 22 Oct 2026 16:31:07 +0000</pubDate>
-<description>Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 </channel></rss>

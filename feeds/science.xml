@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration</title>
+<link>https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration</link>
+<guid isPermaLink="false">136484e28eca446ede4302d4bbf6ede1aaf120a88f506b0cc0b91103986d389b</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 19:28:08 +0000</pubDate>
+<description>Explore This Section Science Science Activation NASA SEES Interns Tackle… Overview Resources Opportunities Citizen Science Highlights About Science Activation 4 min read NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration The Matrix Team developed a sophisticated interactive dashboard for the IM-3 mission that allows users to vary engine, spacecraft, and orbital parameters to investigate the effect on propellant margins and landing zone availability. The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) team focused on applying a method for measuring propellant mass in microgravity, where liquid fuel clings to tank walls instead of settling – a challenge central to NASA’s Artemis missions. The MATRIX team was mentored by Dr. Kevin Crosby, who, along with colleagues at NASA, developed the Modal Propellant Gauging (MPG) approach to microgravity propellant mass gauging at Carthage College in Kenosha, WI. MPG uses the acoustic response of propellant tanks to estimate the mass of fuel inside a tank. The method has been used successfully in several spaceflight experiments and is scheduled for demonstration on the Intuitive Machines IM-3 mission. The IM-3 lander, Trinity, is scheduled to touch down on the Moon in the Reiner Gamma region in 2027. The team developed models for predicting when MPG can take reliable readings during the mission, giving the interns direct experience with a technology preparing for spaceflight and lunar surface operations. Reconstructing a Lunar Mission from Public Data The MATRIX team relied entirely on publicly available sources, including Intuitive Machines’ published mission data. The NASA Jet Propulsion Laboratory’s Navigation and Ancillary Information Facility (NAIF) provided detailed trajectory records for the IM-1 and IM-2 missions. By comparing the IM-2 spacecraft’s reconstructed flight path with a model of its motion without engine thrust, the team identified engine burns and estimated the change in velocity associated with each burn. Because a complete IM-3 trajectory is not public, the team wrote a reconstruction algorithm using published IM-1 and IM-2 flight data. To model fluid behavior, the team ran computational fluid dynamics (CFD) simulations to estimate slosh dynamics within the tanks and conducted Monte Carlo simulations to predict the range of possible propellant states. Identifying Windows for Measurement The team’s analysis showed that MPG can take reliable readings during the two primary burns, Lunar Orbit Insertion (LOI) and Powered Descent, and in some cases during Descent Orbit Insertion. The spacecraft’s starting mass had the greatest effect on</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/10.09.26_SEES_Highlight.jpg?w=955&amp;h=637&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/10.09.26_SEES_Highlight.jpg?w=955&amp;h=637&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>Wind turbines have killed 19 million bats in 40 years in the US</title>
+<link>https://www.newscientist.com/article/2595845-wind-turbines-have-killed-19-million-bats-in-40-years-in-the-us</link>
+<guid isPermaLink="false">02b70233819277cf2b164e8c34d6f3ac5efa61d30c3a27c1c0d7dc701790f29d</guid>
+<source>New Scientist</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 19:00:00 +0000</pubDate>
+<description>Hoary bats have been the worst affected of the 10 species the researchers studied Michael Durham/Nature Picture Library/Alamy Wind turbines have killed nearly 19 million bats in the US over the past four decades, according to the most comprehensive analysis of its kind to date. The problem seems to have worsened in recent years, with more than 1.5 million deaths now occurring annually. But there may be ways of making this green energy source safer for wildlife without overly affecting energy production. This data can help “advance research to really support effective conservation measures and science-driven decision-making in the future”, says Charles Labuzzetta at Fort Collins Science Center in Colorado. Read more Endearing photos of bats show clever adaptations like long tongues Bats play a vital role in ecosystems, particularly by controlling insects like mosquitoes and moths that produce crop-killing caterpillars. But many species face growing threats from habitat loss, disease and human activities, with some now classified as threatened or endangered. Advertisement Wind turbines are one of these human-activity threats. Researchers have previously found large numbers of dead bats at wind farms during monitoring that is required to comply with wildlife protection regulations. But not all wind farms share their results, and monitoring methods vary from site to site, says team member Bethany Straw , also at Fort Collins Science Center. “We know bats are being impacted, but could we change the engineering or sites of a turbine to minimise those impacts?” she asks. “There’s been an increasing interest in this, but we just haven’t had the appropriate data yet.” Free newsletter Sign up to The Earth Edition Sign up to newsletter Now, Straw, Labuzzetta and their colleagues have analysed 499 reports from wind farms across the 48 adjoining US states to estimate how many bats were killed by turbines from 1981 to 2024, focusing on 10 species. They used a statistical model that considered differences in how wind farms searched for dead bats, the size and design of their turbines, and the surrounding environment. Their results suggest that wind turbines killed an estimated 18.7 million bats between 1981 and 2024. Annual deaths seem to have exceeded 1.5 million from 2021 onwards, which may be the result of more wind turbines being installed. Hoary bats ( Lasiurus cinereus ) had the greatest losses, with an estimated 6.7 million deaths, followed by 5.8 million deaths among eastern red bats ( Lasiurus borealis ), 3.4 million among silver-haired bats ( Lasionycteris noctivagans ) and 1.5 million among big brown bats ( Eptesicus fuscus ). Wind farms near rivers and turbines with longer blades were linked to more deaths among certain species, while having more space between the blades and the ground may reduce the risk. Don’t forget birds and bats when renovating or building new homes As newer homes are built or older homes are renovated, empty attic spaces are d</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318292163.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318292163.jpg" medium="image"/>
+</item>
+<item>
+<title>Darth Vader wields the Infinity Gauntlet in the first-ever official 'Star Wars' &amp; 'Marvel' crossover</title>
+<link>https://www.space.com/entertainment/space-books/darth-vader-wields-the-infinity-gauntlet-in-the-first-ever-official-star-wars-and-marvel-crossover</link>
+<guid isPermaLink="false">4df0cd6befbf1387480b6fd7f8b41c8f8647f2db7d2d928c9f2709cecb46cd31</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 19:00:00 +0000</pubDate>
+<description>null Yeah, yeah, yeah, it's non-canon, but come on; Darth Vader wielding the gleaming Infinity Gauntlet is just an excellent visual. This nerd-baiting image comes to us via the main cover of Marvel Comics' upcoming "Star Wars / Marvel: Hope Assembles #1." " Star Wars " celebrates its 50th anniversary next year, as does the first "Star Wars #1" comic, and to kick the intergalactic party off early, Marvel will publish the debut issue of this 6-issue miniseries from writer Kevin Smith ("Clerks," "Chasing Amy") and talented artist David Marquez on Jan. 13, 2027. It's the first-ever crossover between the "Star Wars" and Marvel Universe, and we’ve got a sweet four-page preview recreating the memorable opening scene of the original "Star Wars," where the Rebel Blockade Runner is ensnared in a Star Destroyer tractor beam and boarded by Lord Vader and a squad of stormtroopers. But this time, it's got Marvel superheroes added! Rafael Albuquerque's striking main cover for "Star Wars / Marvel: Hope Assembles #1" (Image credit: Marvel Comics) We get to see all those iconic scenes, including Darth Vader’s terrifying entrance, Princess Leia’s bold defiance, and C-3PO and R2-D2’s desperate escape in an entirely new light, as Marvel heroes like Iron Man, Thor, and Captain America rush to the rebellion's defense. This historic event series will showcase multiple themed variant covers from acclaimed artists such as Alex Ross, David Marquez, Kaare Andrews, Cory Smith, Rafael Albuquerque, Dan Jurgens, Matteo Lolli, and many more. Check out the four-page preview below: Marvel Comics Marvel Comics Marvel Comics Marvel Comics "One of the most exciting things about this series is seeing familiar moments through an entirely new lens," Editor Mark Paniccia said. "Kevin Smith and David Marquez understand exactly what makes these characters so enduring, and they find surprising, emotional, and often exhilarating ways to bring them together. Every issue has moments that will leave fans smiling, cheering, and eager to see what happens next." "Star Wars / Marvel: Hope Assembles #1" lands on Jan. 13, 2027, and is available as both a physical copy from your local comic book shop and as a Kindle e-book download . Star Wars / Marvel: Hope Assembles #1" (Kindle): $5.99 THE BIGGEST CROSSOVER OF THE CENTURY!!! To celebrate the 50th anniversary of STAR WARS, Marvel Comics and Lucasfilm Publishing present STAR WARS/MARVEL: HOPE ASSEMBLES, the first-ever crossover between the two legendary franchises. View Deal</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/SAHmqaxAWp2r58iVATwp3N-1920-80.png" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/SAHmqaxAWp2r58iVATwp3N-1920-80.png" medium="image"/>
+</item>
+<item>
 <title>NASA ends Swift space telescope mission after failed rescue attempt</title>
 <link>https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt</link>
 <guid isPermaLink="false">b1852e7dff6aeff02a445eea5040d9af169ff09362b0c38018d3672d3c306052</guid>
@@ -54,7 +87,7 @@
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Mon, 26 Oct 2026 17:13:44 +0000</pubDate>
-<description>2 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Members of the media are invited to tour a new lunar landing simulation at NASA’s Ames Research Center in California’s Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30. Using a combination of in-house and partner motion-based simulators, NASA is giving astronauts and engineering support teams simulated experiences before crew members pilot commercial human landing systems to the surface of the Moon. Through the Artemis program, NASA is targeting the next lunar landing in 2028. During the tour, media will have an opportunity to participate in a Vertical Motion Simulator ride-along and interview subject matter experts. Media interested in participating should RSVP by Tuesday, Oct. 27 at 5:00 pm PT to the NASA Ames newsroom at: arc-newsroom@mail.nasa.gov . Space is limited, and media must register in advance for consideration. NASA’s media accreditation policy is online. In your RSVP, please note your preference for Oct. 29 or Oct. 30. The landing simulation at Ames was developed by NASA’s Johnson Space Center in Houston and integrated into the recently upgraded simulator flight deck . As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars. For more information about NASA’s Artemis program, visit: https://www.nasa.gov/artemis -end- Jeanne Neal Ames Research Center, Calif. 650-604-4789 jeanne.c.neal@nasa.gov Share Details Last Updated Oct 26, 2026 Related Terms Ames Research Center Artemis Explore More 7 min read NASA, Partners Accelerate Lander Development for 2028 Moon Missions Article 3 days ago 8 min read NASA’s Artemis III Mission to Test Future Moon Lander Operations Article 3 days ago 1 min read NASA to Conduct Low-Altitude Flights Over Texas Farmland Article 6 days ago Keep Exploring Discover Related Topics Ames Research Center Vertical Motion Simulator (VMS) Artemis Human Landing System</description>
+<description>2 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Members of the media are invited to tour a new lunar landing simulation at NASA’s Ames Research Center in California’s Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30. Using a combination of in-house and partner motion-based simulators, NASA is giving astronauts and engineering support teams simulated experiences before crew members pilot commercial human landing systems to the surface of the Moon. Through the Artemis program, NASA is targeting the next lunar landing in 2028. During the tour, media will have an opportunity to participate in a Vertical Motion Simulator ride-along and interview subject matter experts. Media interested in participating should RSVP by Tuesday, Oct. 27 at 5:00 pm PT to the NASA Ames newsroom at: arc-dl-newsroom@mail.nasa.gov . Space is limited, and media must register in advance for consideration. NASA’s media accreditation policy is online. In your RSVP, please note your preference for Oct. 29 or Oct. 30. The landing simulation at Ames was developed by NASA’s Johnson Space Center in Houston and integrated into the recently upgraded simulator flight deck . As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars. For more information about NASA’s Artemis program, visit: https://www.nasa.gov/artemis -end- Jeanne Neal Ames Research Center, Calif. 650-604-4789 jeanne.c.neal@nasa.gov Share Details Last Updated Oct 26, 2026 Related Terms Ames Research Center Artemis Explore More 7 min read NASA, Partners Accelerate Lander Development for 2028 Moon Missions Article 3 days ago 8 min read NASA’s Artemis III Mission to Test Future Moon Lander Operations Article 3 days ago 1 min read NASA to Conduct Low-Altitude Flights Over Texas Farmland Article 6 days ago Keep Exploring Discover Related Topics Ames Research Center Vertical Motion Simulator (VMS) Artemis Human Landing System</description>
 <enclosure url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
@@ -158,6 +191,17 @@
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318275905.jpg" medium="image"/>
 </item>
 <item>
+<title>NASA, USDA Sign Agreement Advancing Earth Science, Agriculture</title>
+<link>https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture</link>
+<guid isPermaLink="false">865d376cf5cce55d678daec10bd8a3316053588fd54ade0b3578f5da0c188ebd</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 13:54:25 +0000</pubDate>
+<description>U.S. Secretary of Agriculture Brooke Rollins, left, and NASA Administrator Jared Isaacman signed a Memorandum of Understanding advancing agriculture and Earth science during an event at the University of Alabama in Tuscaloosa on Saturday, Oct. 24. Credit: NASA NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools to work wherever they can deliver meaningful outcomes for the American people,” said NASA Administrator Jared Isaacman. “By combining NASA’s Earth observation data and technical expertise with USDA’s knowledge of American agriculture, we can improve the information available to farmers and ranchers, strengthen our understanding of crop conditions and natural hazards, and pursue new high-risk, high-reward ideas that advance both science and American competitiveness.” Isaacman and U.S. Secretary of Agriculture Brooke Rollins signed the agreement Oct. 24 during NASA’s Inspiration Tour at the University of Alabama in Tuscaloosa. NASA and USDA’s longstanding partnership has supported collaborative research and data-sharing efforts that strengthen U.S. agriculture. The new agreement deepens this cooperation by focusing on improved data integration and enhanced coordination across Earth observation and agricultural applications. “American farmers are the best in the world and deserve any solution we can leverage, even when it is out of this world. I am proud to announce that USDA will now work with Administrator Isaacman and NASA to utilize the full power of technology, research, and development to fortify U.S. agriculture,” said Rollins. “With this unprecedented partnership the Trump Administration is committing to a bright future of research and tech opportunities that will enhance USDA acreage and yield estimation and drive profitability for American agriculture.” Under the new agreement, the agencies can explore activities in agricultural statistics, remote sensing science, modeling, geospatial data engineering, and super intelligence. NASA and USDA also will look at how to better align Earth observation data and analytical tools with agricultural needs, helping improve crop monitoring, acreage and yield estimates, and assessments of drought and other disasters. The agencies will examine new approaches for managing and analyzing large datasets, strengthening USDA’s data systems while providing farmers, ranchers, and policymakers with more timely and reliable information. For more information about NASA’s Earth science, visit: https://science.nasa.gov/earth -end- Camille Gallo / Elizabeth Shaw Headquarters, Washington 202-358-1600 camille.m.gallo@nasa.gov / elizabeth.a.shaw@nasa.gov Share Details Last Upd</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg?w=1829" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg?w=1829" medium="image"/>
+</item>
+<item>
 <title>Rubin telescope should find more of Earth's mysterious 'mini-moons' — including some we can study up close</title>
 <link>https://www.space.com/space-exploration/rubin-telescope-should-find-more-of-earths-mysterious-mini-moons-including-some-we-can-study-up-close</link>
 <guid isPermaLink="false">091aab35ba0b9e7634495c34b25a5192bb87378fb89d76070a90cae9c1022048</guid>
@@ -224,13 +268,13 @@
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317552955_d0a60a.jpg" medium="image"/>
 </item>
 <item>
-<title>2026 October 26 – M42: The Great Nebula in Orion</title>
+<title>APOD: 2026 October 26 – M42: The Great Nebula in Orion</title>
 <link>https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion</link>
 <guid isPermaLink="false">23928c472c6df700c96dcc6fc2c40e172982118547bc545eee1c8f20bcdd28cb</guid>
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Mon, 26 Oct 2026 04:05:00 +0000</pubDate>
-<description>APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M42: The Great Nebula in Orion Explanation: The Great Nebula in Orion , an immense, nearby starbirth region , is one of the most famous of all astronomical nebulas . Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigned colors highlighted by emission in hydrogen , wisps and sheets of dust and gas are particularly evident. The Great Nebula in Orion can be found with the unaided eye near the easily identifiable belt of three stars in the popular constellation Orion . In addition to housing a bright open cluster of stars known as the Trapezium , the Orion Nebula contains many stellar nurseries . These nurseries contain much hydrogen gas, hot young stars, proplyds , and stellar jets spewing material at high speeds. Also known as M42 , the Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun . Tomorrow’s picture: open space Date: October 26, 2026 Credit &amp; Copyright: Roberto Palaia Authors &amp; editors: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe A service of: ASD at NASA / GSFC , NASA Science Activation &amp; Michigan Tech. U. Random APOD Generator Yesterday’s Image APOD: 2026 October 25 – Dark Matter in a Simulated Universe Tomorrow’s Image</description>
+<description>APOD Science APOD APOD: 2026 October 26 – M42:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M42: The Great Nebula in Orion Explanation: The Great Nebula in Orion , an immense, nearby starbirth region , is one of the most famous of all astronomical nebulas . Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigned colors highlighted by emission in hydrogen , wisps and sheets of dust and gas are particularly evident. The Great Nebula in Orion can be found with the unaided eye near the easily identifiable belt of three stars in the popular constellation Orion . In addition to housing a bright open cluster of stars known as the Trapezium , the Orion Nebula contains many stellar nurseries . These nurseries contain much hydrogen gas, hot young stars, proplyds , and stellar jets spewing material at high speeds. Also known as M42 , the Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun . Tomorrow’s picture: open space Date: October 26, 2026 Credit &amp; Copyright: Roberto Palaia Authors &amp; editors: Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe A service of: ASD at NASA / GSFC , NASA Science Activation &amp; Michigan Tech. U. Random APOD Generator Yesterday’s Image APOD: 2026 October 25 – Dark Matter in a Simulated Universe Tomorrow’s Image</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg?w=1960&amp;h=2048&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg?w=1960&amp;h=2048&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
@@ -400,17 +444,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048" medium="image"/>
 </item>
 <item>
-<title>NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza</title>
-<link>https://science.nasa.gov/missions/swift/nasas-swift-mission-ends</link>
-<guid isPermaLink="false">5d84031974c94ba7d9b89eb1e02ae35d60a8c6bb8d9322003047cab3684dbddf</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 23 Oct 2026 21:51:19 +0000</pubDate>
-<description>4 min read NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to re-enter the atmosphere in the next few weeks. NASA’s Neil Gehrels Swift Observatory orbits above Earth in this artist’s concept. NASA’s Goddard Space Flight Center Conceptual Image Lab “Swift delivered an incredible, lasting return on investment for the nation, designed for a two-year primary mission but productive for more than 10 times as long,” said Shawn Domagal-Goldman, director, Astrophysics Division at NASA Headquarters in Washington. “In that time, Swift played a major role in advancing our understanding of the changing universe and was part of a revolution in astrophysics that showed how critical rapid-response observations are to the entire community. To support rapid response to cosmic events in a post-Swift world, we’re exploring our ability to use and augment NASA’s fleet of existing space telescopes, from fast-to-orbit commercial capabilities to efficient, innovative new missions. And Swift leaves us with an extraordinary archive of multiwavelength observations that will fuel new discoveries for decades more.” In its storied career, Swift has observed more than 2,000 gamma-ray bursts , the most powerful explosions in the cosmos. It has studied more than 1,400 supernova explosions, witnessed stars shredded by black holes , monitored active galaxies , conducted an all-sky X-ray survey, studied asteroids and comets , and more. Swift data has contributed to about 7,000 published scientific papers. “Swift was designed as a satellite dedicated to studying gamma-ray bursts, outbursts that came and went so quickly that no one could target them with large telescopes to learn more,” said S. Bradley Cenko, the mission’s principal investigator at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “Swift needed to detect and locate gamma-ray bursts, communicate their position to other observatories, and then swing its telescopes around to image the burst locations before their afterglows faded out. This typically took Swift about a minute to do.” Led by its first principal investigator, Neil Gehrels, Swift was born as a multiwavelength observatory, with co-aligned Optical/Ultraviolet and X-ray telescopes that could quickly image and refine a burst’s position. The mission launched into orbit on Nov. 20, 2004, and went to work the following month. In 2018, NASA renamed the mission to honor Gehrels following his death. The completed Swift spacecraft is seen in a clean room at NASA Goddard on Sept. 9, 2003. In front of it, Neil Gehrels, the mission’s first principal investigator, points toward the instruments at t</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg?w=2048&amp;h=1084&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg?w=2048&amp;h=1084&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>On this day in space! Oct. 23, 2007: NASA launches Harmony module to ISS on STS-120 space shuttle mission</title>
 <link>https://www.space.com/space-exploration/on-this-day-in-space-october-23-2026</link>
 <guid isPermaLink="false">f0eb8bdd66d9340461e1d465b330c76e3ed8154104ae249574661880be67aab3</guid>
@@ -420,6 +453,17 @@
 <description>null On October 23, 2007, the space shuttle Discovery launched the Harmony module to the International Space Station . The Harmony module is a utility hub 14 feet wide and 24 feet long, or about the length of a minibus. It joins the European Space Agency's Columbus module and Japan's Kibo laboratory and serves as the crew quarters for the American astronauts. Once it was installed, the space station grew from about the size of a three-bedroom house to something more like a five-bedroom house. When astronauts delivered Harmony to the space station , they left it temporarily attached to the Unity node. After the shuttle left, astronauts used the space station's robotic arm to move the shuttle docking port out of the way at the Destiny module. This made room for Harmony to then dock at its permanent home next to the Destiny module. The U.S. Harmony node flew to space aboard space shuttle Discovery during mission STS-120, in October 2007, to be a connecting module and allow a larger space station. (Image credit: NASA) Why it mattered In 2007, the International Space Station was much smaller than it is today in terms of living space for its astronaut crew. The Harmony connecting module changed all that. The STS-120 mission opened a new phase of ISS expansion by adding a vital connecting hub for future modules. Prior to Harmony's launch, the last new room addition to the ISS had occurred in 2001, when Russia's Pirs docking module (since discarded) arrived. The Harmony module ( its original name was Node 2 ), was the second NASA-led hub module (after the Unity, or Node 1, module) for the ISS. It was built for NASA by the Italy-based Thales Alenia Space and is covered with five "common berthing mechanisms," or connecting points for different ISS modules. After the two-week STS-120 flight, Harmony was moved from a temporary berth at the Unity module to the forward port on the NASA's main Destiny laboratory. Once there, it served as a connection point for Europe's Columbus lab on the starboard side, and Japan's massive Kibo lab on the port side. Some of its ports have been used by visiting caargo ships and a docking port on its roof allows visiting vehicles to park there. Inside the module are eight payload racks that include four used for avionics and four others for either stowage or crew quarters. NASA's astronaut crew quarters are based in the Harmony module. The name Harmony was selected durng a public naming contest by NASA. Want more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube .</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/4Qkczefm8pjzwLat4Khu2E-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/4Qkczefm8pjzwLat4Khu2E-1920-80.jpg" medium="image"/>
+</item>
+<item>
+<title>RS-25 Engine Tests at NASA Stennis</title>
+<link>https://www.nasa.gov/image-detail/ssc-20261021-s00947horig</link>
+<guid isPermaLink="false">6ff1a31b150a0efae57f1969eaecfc62a4a321cc21b34e948f7b124cb2916ba6</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Fri, 23 Oct 2026 18:59:00 +0000</pubDate>
+<description>Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg" medium="image"/>
 </item>
 <item>
 <title>Halley's Comet dazzles from afar in spectacular astrophoto of Orionid meteor shower</title>
@@ -585,17 +629,6 @@
 <description>&lt;p&gt;David Zamora is currently the Head of Flight Dynamics at Eutelsat. In this role, he is in charge of the overall management and organization of all flight dynamics (FD) related activities for the whole set of satellites controlled from the Eutelsat satellite control center in Paris, including: FD operations from beginning of life until satellite decommissioning, satellite collision avoidance and coordination of the specification of Flight Dynamics facilities. David has over 15 years’ experience in the space industry and he has led for Eutelsat the FD activities in the LEOP preparation (as FD Project Manager) and operations (as FD Director and Manager) for 6 Eutelsat satellites from two different satellite manufacturers. Before joining Eutelsat, David started his career at GMV, where he was one of the leading engineers in the development and validation of the new Flight Dynamics facilities for Eutelsat.&lt;/p&gt; David Zamora is the chairman of the Space Data Association. He contributed this article to Space.com's Expert Voices: Op-Ed &amp; Insights . The commercialization of space is well underway, and as a result, Earth’s orbit is becoming ever more congested. The current number of active satellites in orbit stands at around 16,000, according to the European Space Agency( ESA), and this number is expected to jump close to 60,000 by 2035, Novaspace projects . While it’s not always given the recognition it deserves, space has fast become a critical infrastructure layer, underpinning nearly all systems that enable modern life as we know it. Therefore, it’s critical that a safe and clean operating landscape is maintained. Yet this is becoming increasingly challenging, particularly given that, alongside the rapid increase in space traffic, there are also more than 1.2 million pieces of debris over 1 centimeter (0.4 inches) cm in Earth’s orbit, each of which could damage satellites and spacecraft and potentially cause disastrous consequences. With the number of active satellites and debris objects in space continuing to increase, the space environment is under growing pressure. Balancing expansion with sustainability Space was once the sole domain of nation states, but this is no longer the case. As technology has advanced, launch costs have decreased, and satellites have become more efficient, smaller and cheaper to build. These changes have democratized space, resulting in a massive increase in space traffic, not least constellations in low Earth orbit (LEO) that comprise thousands of satellites. Plans are underway to further expand these constellations, and new and even bigger constellations are also expected to launch in the coming years. Added to that, we’re also likely to see the first space-based data centers within the next few years, which may well mark the start of the wholesale shift of data centers from Earth to space, which will further add to the congestion already being felt. To ensure that space continues to meet our current and future needs,</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/Gt5R75f7y96u2THoLmzmaC-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/Gt5R75f7y96u2THoLmzmaC-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>Emily St. John Mandel: ‘I don’t want to write something relentlessly bleak’</title>
-<link>https://www.newscientist.com/article/2594154-emily-st-john-mandel-i-dont-want-to-write-something-relentlessly-bleak</link>
-<guid isPermaLink="false">e46a25d4e946a0536a24fff5a98c14702184e51630f55ddfd44be7e6e17999dd</guid>
-<source>New Scientist</source>
-<category>science</category>
-<pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
-<description>Emily St. John Mandel, best known for her prescient flu pandemic novel Station Eleven , joined the New Scientist Book Club to talk about her latest book, the science-fiction novel Exit Party . Emily discussed everything from why she is compelled to write about the aftermath of disaster – this latest book takes place in a near-future US, after a civil war – to how hard it was to keep ahead of the US news cycle as she wrote. Read more Read an extract from Exit Party by Emily St. John Mandel</description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/ESJM_v1.00_24_44_07.Still001.png" type="image/jpeg"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/ESJM_v1.00_24_44_07.Still001.png" medium="image"/>
 </item>
 <item>
 <title>Earth from Space: The pink city</title>
@@ -884,6 +917,17 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/cDkqW7Wqq3HxHeTogFGsqN-1920-80.jpg" medium="image"/>
 </item>
 <item>
+<title>Science on the Space Station with NASA Astronaut Jessica Watkins</title>
+<link>https://www.nasa.gov/image-detail/iss075e0190239</link>
+<guid isPermaLink="false">5f00aca8df46e2506f7a6e916ebae327aae0b38872c55b91a38e55bcd1b78305</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Wed, 21 Oct 2026 15:07:00 +0000</pubDate>
+<description>NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module's Life Science Glovebox, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" medium="image"/>
+</item>
+<item>
 <title>"A great budget lens for astrophotography, the sharpness produced at f/1.8 and f/2.8 is exactly what you want." Viltrox AF 16mm f/1.8 FE lens review</title>
 <link>https://www.space.com/stargazing/astrophotography/a-great-budget-lens-for-astrophotography-the-sharpness-produced-at-f-1-8-and-f-2-8-is-exactly-what-you-want-viltrox-af-16mm-f-1-8-fe-lens-review</link>
 <guid isPermaLink="false">37c41f4e1ffa70c1c3dd2cb796ae77774a9b7ae9aec20ceb04e0f337233b3423</guid>
@@ -1071,17 +1115,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/357C7FjvMFXnP6krGTgWxH-1920-80.png" medium="image"/>
 </item>
 <item>
-<title>NASA closes the book on epic OSIRIS-REx asteroid-sampling mission: 'I am immensely proud of what we did'</title>
-<link>https://www.space.com/astronomy/asteroids/nasa-closes-the-book-on-epic-osiris-rex-asteroid-sampling-mission-i-am-immensely-proud-of-what-we-did</link>
-<guid isPermaLink="false">f0f496cadbcb0998d3339fa64aa482caedd8826dfa50f8d7a8d0215d3ebfe282</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
-<description>&lt;p&gt;Sharmila Kuthunur is an independent space journalist based in Bengaluru, India. Her work has also appeared in Scientific American, Science, Astronomy and Live Science, among other publications. She holds a master's degree in journalism from Northeastern University in Boston.&amp;nbsp;&lt;/p&gt; On Sept. 30, NASA formally concluded OSIRIS-REx, the historic first U.S. mission to pluck a pristine piece of an asteroid and deliver it safely back to Earth. The van-sized OSIRIS-REx spacecraft — whose name is short for Origins, Spectral Interpretation, Resource Identification, Security-Regolith Explorer — visited and sampled Bennu , an ancient space rock holding pristine remnants from the dawn of our solar system more than 4.5 billion years ago. Among those cosmic relics are raw organic building blocks , the kind that may have seeded life on Earth. "I have known this day was coming for a long time, but it is still difficult to see it arrive," OSIRIS-REx Principal Investigator Dante Lauretta, who's based at the University of Arizona, said in a post on LinkedIn . "I feel enormous pride in what we accomplished together, and real sadness that this journey has come to an end." For the mission team, the farewell capped a decade of high-stakes engineering, on-the-fly troubleshooting and nail-biting close calls that ultimately delivered to Earth the largest asteroid sample ever collected in space, one that held secrets from the early solar system . Long before launch, the team faced obstacles that nearly thwarted the endeavor — chiefly, two rejections from NASA — before finally securing the green light for the $1 billion project under the New Frontiers Program in 2011. When OSIRIS-REx launched on Sept. 8, 2016, on a two-year journey across the inner solar system, Bennu was little more than a point of light in telescopes. Scientists expected the asteroid’s surface to be a smooth, sandy sphere where OSIRIS-REx could seamlessly touch down. Much to their surprise, however, when the probe arrived at the asteroid in late 2018, it revealed Bennu to be a treacherous, loosely bound amalgamation of jagged boulders. "Our expectations about the asteroid's surface were completely wrong," Lauretta said in an Oct. 7 statement from the University of Arizona. "There was no obvious place to collect a sample anywhere." When OSIRIS-REx touched down on a small crater named Nightingale , Bennu offered so little structural resistance that scientists said its surface reacted more like fluid than a hard, rocky shell. The spacecraft's sampling head sank directly into the asteroid, stopping after burrowing 20 inches (51 centimeters) deep by firing its thrusters at the right time to pull away, with the precious sample in hand. NASA's OSIRIS-REx spacecraft captured this series of images of asteroid Bennu on April 14, 2020, during the first rehearsal of the mission's sample collection event. The actual sample retrieval was extremely close to the way this looks. (Image credit: NASA/Goddard/Universit</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/BMVq9w3fG6m5zzzFvmqm9d-1920-80.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/BMVq9w3fG6m5zzzFvmqm9d-1920-80.jpg" medium="image"/>
-</item>
-<item>
 <title>Russian Satellite Makes a Menacing Approach to Another Craft in Orbit</title>
 <link>https://www.nytimes.com/2026/10/19/science/russia-satellite-kosmos-2612.html</link>
 <guid isPermaLink="false">a6e4e3abada02b49797e19c9414e8064c279f28a9c02289fdaed092db68f8208</guid>
@@ -1126,6 +1159,17 @@
 <media:content url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky/27582276-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_card_full.gif" medium="image"/>
 </item>
 <item>
+<title>Artemis II Heat Shield After Splashdown</title>
+<link>https://www.nasa.gov/image-detail/afs-8-101-1320</link>
+<guid isPermaLink="false">bd7ea775e6f02cf018151963e6bbeb538b0eff8129c915bf68bebb3980d24ec5</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Fri, 16 Oct 2026 16:33:00 +0000</pubDate>
+<description>Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" medium="image"/>
+</item>
+<item>
 <title>He Wants AI Benchmarking To Be a Science, Not a Dark Art</title>
 <link>https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016</link>
 <guid isPermaLink="false">66089718f6e1beb2bf4e471ab237f7dc313deafd63612f37bb0d9edae9c1203a</guid>
@@ -1135,6 +1179,28 @@
 <description>Benchmarks are the rulers of AI, in both senses of the word. As measuring sticks, they work according to an extremely simple logic: If you want to know what an AI model can do, devise a standardized test to gauge it. But AI benchmarks can also dominate the behavior of the entire field. In 1987, the Defense Advanced Research Projects Agency’s first benchmark on automatic speech-to-text… Source</description>
 <enclosure url="https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Default.webp" type="image/jpeg"/>
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Default.webp" medium="image"/>
+</item>
+<item>
+<title>Transporter-18 SmallSats Encapsulation</title>
+<link>https://www.nasa.gov/image-detail/afs-8-101-1315</link>
+<guid isPermaLink="false">e4159da664528188a8fd82ed2613bde89d53f23fb96e15a19a83328717fae347</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 13 Oct 2026 17:52:00 +0000</pubDate>
+<description>Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" medium="image"/>
+</item>
+<item>
+<title>Cosmic House of Mirrors</title>
+<link>https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors</link>
+<guid isPermaLink="false">942a9466c8b66c4e8c29e583bdaf0d3fa330eb489b6ebd292424f136c2cc8766</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Fri, 09 Oct 2026 14:28:00 +0000</pubDate>
+<description>This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they’ve stepped into a house of mirrors.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" medium="image"/>
 </item>
 <item>
 <title>Crew-12 Returns to Earth</title>
@@ -1157,6 +1223,116 @@
 <description>A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member's tablet.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" medium="image"/>
+</item>
+<item>
+<title>Astronomers Solve Cosmic Cold Case with NASA Hubble Data</title>
+<link>https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9</link>
+<guid isPermaLink="false">e7acee45febf783e11665c7d291d8b2a40f8aba5f5607b9b460e19e507ca7a75</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 06 Oct 2026 16:17:00 +0000</pubDate>
+<description>This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA Astronaut Christina Koch at Eagles vs. Rams</title>
+<link>https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field</link>
+<guid isPermaLink="false">578734c1fe8df2e9efa4b83a532b1ddf9a63a7e7b36defe815c606d85de22c40</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Mon, 05 Oct 2026 17:45:00 +0000</pubDate>
+<description>NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA’s SpaceX Crew-13 Launches</title>
+<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3</link>
+<guid isPermaLink="false">07f5c690e45e94633737ffc40a00e6a269a635b19c6024bf14b670f62bc26804</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Thu, 01 Oct 2026 18:07:00 +0000</pubDate>
+<description>A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" medium="image"/>
+</item>
+<item>
+<title>Star Trails</title>
+<link>https://www.nasa.gov/image-detail/iss075e0144232</link>
+<guid isPermaLink="false">2f9c821724c6cf311138939fbf5d114d76dd53bcf1741a4ef170f481e93f4cad</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Wed, 30 Sep 2026 17:51:00 +0000</pubDate>
+<description>This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" medium="image"/>
+</item>
+<item>
+<title>Crew-13 Rocket and Spacecraft at Launch Pad</title>
+<link>https://www.nasa.gov/image-detail/afs-8-101-1312</link>
+<guid isPermaLink="false">47cd5f055f779d2d1de59b29bc2e3358cc9091b0da2f013985ec259eda8dc622</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 29 Sep 2026 15:33:00 +0000</pubDate>
+<description>Ahead of launch of NASA’s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova</title>
+<link>https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207</link>
+<guid isPermaLink="false">26ec5e4da7e213b5df4096c233fdfa86e32cf848c1db76707ae23292412979a7</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Wed, 23 Sep 2026 18:45:00 +0000</pubDate>
+<description>An image from NASA's Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg" medium="image"/>
+</item>
+<item>
+<title>COSI Telescope Comes Together</title>
+<link>https://www.nasa.gov/image-detail/cosi-2026july-01</link>
+<guid isPermaLink="false">39bb98da64415a1cb91f491c728ba0e6148bff3c25fb06bce87abe66040713a5</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Fri, 18 Sep 2026 15:46:00 +0000</pubDate>
+<description>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" medium="image"/>
+</item>
+<item>
+<title>Artemis III Crew Visits NASA Kennedy's Vehicle Assembly Building</title>
+<link>https://www.nasa.gov/image-detail/afs-8-101-1307</link>
+<guid isPermaLink="false">9212a1e9d8662e960c7092f49c3e8b12a15c44ebb4cd2f3f279df26d2a5b6c07</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 15 Sep 2026 16:16:00 +0000</pubDate>
+<description>NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA's Chandra Spots Galactic Gem</title>
+<link>https://www.nasa.gov/image-detail/galaxies-iizw096</link>
+<guid isPermaLink="false">6a1d948744d290016a0617c18261d449a216e52c846e957efd5a8ea82c6a5c5e</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Fri, 11 Sep 2026 17:22:00 +0000</pubDate>
+<description>Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" medium="image"/>
+</item>
+<item>
+<title>Superbubble in the Large Magellanic Cloud</title>
+<link>https://www.nasa.gov/image-detail/hubble-n44-wfc3-large</link>
+<guid isPermaLink="false">026a0bc93661a13b3d9350ebebc36e78a1b5937b2f4ba3b195ce5ec192fb29e3</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 08 Sep 2026 16:49:00 +0000</pubDate>
+<description>N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope image in the upper central region.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" medium="image"/>
 </item>
 <item>
 <title>Lunar Occultation of Venus</title>
@@ -1214,6 +1390,50 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg" medium="image"/>
 </item>
 <item>
+<title>NASA's Artemis II Crew Receives Congressional Space Medal of Honor</title>
+<link>https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2</link>
+<guid isPermaLink="false">08be272fa996fab8e77bfebf01d8fbf7812eb1fd6446482c175fdaf2d2edd0f3</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Fri, 28 Aug 2026 22:24:00 +0000</pubDate>
+<description>President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Astronauts Anil Menon and Sophie Adenot on Spacewalk</title>
+<link>https://www.nasa.gov/image-detail/gmt230_ehdc1-2</link>
+<guid isPermaLink="false">cb37876c1de0f8b8a2938843104fc756be99199e420ad39c37d3cd812a56a61c</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 25 Aug 2026 14:58:00 +0000</pubDate>
+<description>From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA's B777 Gets New Coat of Paint</title>
+<link>https://www.nasa.gov/image-detail/jsc2026e407303</link>
+<guid isPermaLink="false">f7e995f8c8d6b7d64d5dd5dd7a6d8bf253d7dce8ba4d40d6757ad8a159fd3895</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 18 Aug 2026 15:16:00 +0000</pubDate>
+<description>NASA's Boeing 777 returns to the agency's Langley Research Center after receiving a new paint scheme.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" medium="image"/>
+</item>
+<item>
+<title>Colorful Collage of Tarantula Nebula</title>
+<link>https://www.nasa.gov/image-detail/30dor-crop</link>
+<guid isPermaLink="false">c66fa1686b72e2606534bad91ba33deb29d79cade921ec43b2632131268cf3dd</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Mon, 17 Aug 2026 16:03:00 +0000</pubDate>
+<description>Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" medium="image"/>
+</item>
+<item>
 <title>Perseids Meteor Shower</title>
 <link>https://www.nasa.gov/image-detail/perseidsorion-2</link>
 <guid isPermaLink="false">796e22218cfd29be9db55317e7fb1b94fe245cca06bf425698882b75441051a9</guid>
@@ -1223,6 +1443,39 @@
 <description>The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" medium="image"/>
+</item>
+<item>
+<title>2026 Total Solar Eclipse in Spain</title>
+<link>https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2</link>
+<guid isPermaLink="false">88facde88034cedc4ee8f0a4003b54cd7fdcd2931f77b522038da11ed4e20ede</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Wed, 12 Aug 2026 20:17:00 +0000</pubDate>
+<description>A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" medium="image"/>
+</item>
+<item>
+<title>Taking Flight to Prepare for Space</title>
+<link>https://www.nasa.gov/image-detail/55412014375-711b8f02f7-o</link>
+<guid isPermaLink="false">41e68718233e5748c8fabc1c402dd2d3796e5d0c73bed26fb43341b54e51ef95</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Thu, 06 Aug 2026 15:20:00 +0000</pubDate>
+<description>NASA astronaut candidate Adam Fuhrmann prepares for a training flight aboard NASA’s WB-57 aircraft.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg" medium="image"/>
+</item>
+<item>
+<title>Artemis III Orion Crew and Service Modules Joined</title>
+<link>https://www.nasa.gov/image-detail/ksc-20260730-ph-as01-6583-2</link>
+<guid isPermaLink="false">6e404c98955ac1870d35db9a8d32e17f27227f8790c6279d5387e976a901b503</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Wed, 05 Aug 2026 17:31:00 +0000</pubDate>
+<description>Engineers connect the Orion crew and service modules for the Artemis III mission inside the Neil A. Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp" medium="image"/>
 </item>
 <item>
 <title>εpsilon</title>

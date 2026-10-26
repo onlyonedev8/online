@@ -4,15 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Inmate serving life sentence escapes prison</title>
-<link>https://abcnews.com/US/convicted-murderer-escapes-tennessee-prison-authorities/story?id=137573001</link>
-<guid isPermaLink="false">f2e1d1335b2be27c8b610bcafa4bbc859d620fff630e76198632173c060ad591</guid>
+<title>'Star Trek' actor Walter Koenig dies at 90</title>
+<link>https://abcnews.com/GMA/Culture/star-trek-actor-walter-koenig-dies-90/story?id=137576960</link>
+<guid isPermaLink="false">4cad595937cfbf6636adf5ed39a5166bb21728ec02f26af0e4559306f84e8c6b</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Mon, 26 Oct 2026 18:46:36 +0000</pubDate>
-<description>Jacob Morley, a convicted murderer, escaped from a Tennessee prison on Sunday, according to the Tennessee Department of Correction.</description>
-<enclosure url="https://s.abcnews.com/images/US/tn-prison-ht-gmh-261026_1793025393491_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/tn-prison-ht-gmh-261026_1793025393491_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Mon, 26 Oct 2026 19:36:07 +0000</pubDate>
+<description>Walter Koenig's former co-star, George Takei, mourned his death in a Facebook post on Monday.</description>
+<enclosure url="https://s.abcnews.com/images/US/Walter-Koenig_gty-gmh-261026_1793032928568_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/Walter-Koenig_gty-gmh-261026_1793032928568_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?</title>
+<link>https://www.france24.com/en/tv-shows/the-debate/20261026-comeback-kid-how-did-brazil-veteran-leader-lula-upset-bolsonaro</link>
+<guid isPermaLink="false">c3955199ecd8a3e1c00a619561646c3b8f70e08b1d03a33d84d176c5f8d73db1</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 19:22:18 +0000</pubDate>
+<description>Two days shy of his 81st birthday… Brazil’s Luiz Inacio Lula da Silva emerging as the comeback kid. Coming from behind in the polls after a bitter campaign where he often showed his age, Lula becoming the first candidate since Brazil’s return to democracy in the 1980s to win the presidential runoff after trailing in the first round. How did the Workers Party leader turn a 2-point-2 million vote deficit against the far-right's Flavio Bolsonaro into a 4-point-4 million vote win? Reminder that three short weeks ago, most races at the federal and state level broke the way of conservatives and the far-right?</description>
+<enclosure url="https://s.france24.com/media/display/83c7ae8c-d16e-11f1-a411-bdb9616e85cf/w:1024/p:16x9/2026-10-26T050657Z-1271320918-RC2OAOA8T6EG-RTRMADP-3-BRAZIL-ELECTION.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/83c7ae8c-d16e-11f1-a411-bdb9616e85cf/w:1024/p:16x9/2026-10-26T050657Z-1271320918-RC2OAOA8T6EG-RTRMADP-3-BRAZIL-ELECTION.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic preps for IPO in major step for AI company</title>
+<link>https://abcnews.com/Business/anthropic-formally-files-initial-public-stock-offering-major/story?id=137570700</link>
+<guid isPermaLink="false">d0e64b57128b2e04200b9eeb8b3ecbe8f4f540668ab715830c70669956957902</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 18:51:06 +0000</pubDate>
+<description>Anthropic, the company behind chatbot Claude, has been among the leaders in AI development.</description>
+<enclosure url="https://s.abcnews.com/images/Business/anthropic-gty-jef-260731_1785503555591_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Business/anthropic-gty-jef-260731_1785503555591_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump administration pushes for food assistance card upgrade to fight fraud</title>
@@ -103,7 +125,7 @@
 <media:content url="https://s.france24.com/media/display/8e69e600-d15c-11f1-948d-bba4eee3dc72/w:1024/p:16x9/EN-20261026-170817-171420-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Pope in 'good health' and trip to South America will go ahead as planned</title>
+<title>Vatican issues Pope health update ahead of South America trip</title>
 <link>https://news.sky.com/story/pope-in-good-health-and-trip-to-south-america-will-go-ahead-as-planned-vatican-says-13604112</link>
 <guid isPermaLink="false">9a8c9f2603aec1e078bdcd03a277cb59bd1428f889b4109e01b1416a84dcb7ca</guid>
 <source>Sky News Home</source>
@@ -211,17 +233,6 @@
 <description>Microsoft is offering voluntary severance packages to 60,000 of its staff - more than a quarter of its workforce - including some in the UK.</description>
 <enclosure url="https://e3.365dm.com/26/05/1920x1080/skynews-microsoft-oxford-circus_7248660.jpg?20260514153445" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/05/1920x1080/skynews-microsoft-oxford-circus_7248660.jpg?20260514153445" medium="image"/>
-</item>
-<item>
-<title>Judge reinstates Maurene Comey after ruling her firing unlawful</title>
-<link>https://abcnews.com/US/judge-reinstates-maurene-comey-after-ruling-firing-unlawful/story?id=137575599</link>
-<guid isPermaLink="false">187ca30f67f33d186bf2725179947ab6dbd1c0798b74ffc2356f12a0c1d9aec3</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 15:48:24 +0000</pubDate>
-<description>A judge ruled against President Donald Trump and the DOJ over the firing of Maurene Comey from the U.S. Attorney’s Office for the Southern District of New York.</description>
-<enclosure url="https://s.abcnews.com/images/US/Maureen-Comey-1-gty-gmh-261026_1793028179638_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/Maureen-Comey-1-gty-gmh-261026_1793028179638_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Runners take on NYC Marathon with a mission</title>
@@ -475,17 +486,6 @@
 <description>Two strangers who killed a mother and her four-year-old daughter as they raced their high-performance cars along a city centre road have been jailed for 16 and 12 years.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-hardeep-bhachu-jasskamal-riyat_7387869.jpg?20261026131721" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-hardeep-bhachu-jasskamal-riyat_7387869.jpg?20261026131721" medium="image"/>
-</item>
-<item>
-<title>Live: French student representatives hail ‘concrete measures’, call for protests to continue</title>
-<link>https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says</link>
-<guid isPermaLink="false">b476afc7ab24379ce9039b86c60645d8ed1ce970efd2eaa0d3dc39cdd9a90fd3</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 26 Oct 2026 12:47:12 +0000</pubDate>
-<description>Representatives from French high school student groups on Monday hailed the government’s first measures to calm the crisis over ongoing unrest linked to their protest movement, including a gradual replacement of higher education admissions platform Parcoursup, but called for “continued mobilisation” after their meeting with Prime Minister Sébastien Lecornu. Follow our liveblog for all the latest.</description>
-<enclosure url="https://s.france24.com/media/display/5d44a936-d15a-11f1-a4c9-5b4a75578ebb/w:1024/p:16x9/000-D38V3ND.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/5d44a936-d15a-11f1-a4c9-5b4a75578ebb/w:1024/p:16x9/000-D38V3ND.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump failed to stop inflation. Now Republicans may pay the price in the midterms</title>
