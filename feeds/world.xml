@@ -4,6 +4,19 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Real Madrid win Clasico against FC Barcelona thanks to Kylian Mbappé</title>
+<link>https://www.france24.com/en/tv-shows/sports/20261026-real-madrid-win-clasico-against-fc-barcelona-thanks-to-kylian-mbapp%C3%A9</link>
+<guid isPermaLink="false">96dce81c2883ae934b68c90b69d7b3fd451fbedd45f771e83c44aec89dcf9f6b</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 26 Oct 2026 06:10:08 +0000</pubDate>
+<description>Real Madrid defeated FC Barcelona in La Liga (2-1) thanks to a brace by Kylian Mbappé, as the title race gets tighter.</description>
+<dc:creator>L'Equipe TV</dc:creator>
+<content:encoded>Real Madrid defeated FC Barcelona in La Liga (2-1) thanks to a brace by Kylian Mbappé, as the title race gets tighter.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/1eeb4dc6-d0e6-11f1-9202-bba4eee3dc72/w:1024/p:16x9/mbappe-1-1.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/1eeb4dc6-d0e6-11f1-9202-bba4eee3dc72/w:1024/p:16x9/mbappe-1-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Second person charged in connection with shooting of police officer in Nottingham</title>
 <link>https://news.sky.com/story/second-person-charged-in-connection-with-shooting-of-police-officer-in-nottingham-13603855</link>
 <guid isPermaLink="false">a178adb59244de95addd4cb33250a168eeda91ff4c55e65f56fd13bf92e0cc41</guid>
@@ -121,7 +134,7 @@
 <media:content url="https://s.france24.com/media/display/a4aad600-cf12-11f1-864d-bdb9616e85cf/w:1024/p:16x9/capture-56236f89.jpg" medium="image"/>
 </item>
 <item>
-<title>Lula re-elected president in Brazil but his opponent refuses to accept result</title>
+<title>Defeated Brazilian election candidate refuses to accept result</title>
 <link>https://news.sky.com/story/lula-re-elected-president-in-brazil-electoral-authority-says-13603818</link>
 <guid isPermaLink="false">aa9e5ae6a64dc4a4e23b4e3086e4f158697e3d36bed2e76b0ed78f5739b32cfb</guid>
 <source>Sky News Home</source>
@@ -130,8 +143,8 @@
 <description>Luiz Inácio Lula da Silva has been re-elected president of Brazil, the electoral authority has said, in a result that defied poll predictions - but his opponent has refused to accept the result.</description>
 <dc:creator></dc:creator>
 <content:encoded>Luiz Inácio Lula da Silva has been re-elected president of Brazil, the electoral authority has said, in a result that defied poll predictions - but his opponent has refused to accept the result.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-brazil-election-lula_7387417.jpg?20261026040940" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-brazil-election-lula_7387417.jpg?20261026040940" medium="image"/>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-brazil-election-flavio-bolsonaro_7387402.jpg?20261026004839" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-brazil-election-flavio-bolsonaro_7387402.jpg?20261026004839" medium="image"/>
 </item>
 <item>
 <title>Serbia's Vucic concedes defeat in historic snap election with record turnout</title>
@@ -293,7 +306,7 @@
 <title>Exiled opposition leader announces shock return to Venezuela</title>
 <link>https://news.sky.com/story/exiled-venezuelan-opposition-leader-announces-shock-return-to-the-country-13603692</link>
 <guid isPermaLink="false">a29e92cd43c90a4768de037851068942e15afa17c5ac1f02510fd4cc192ee5e7</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Sun, 25 Oct 2026 17:03:00 +0000</pubDate>
 <description>Venezuelan opposition leader Maria Corina Machado has returned ‌to the country nearly a year after her daring escape.</description>
@@ -485,30 +498,17 @@
 <media:content url="https://s.france24.com/media/display/cd897c30-d056-11f1-8d7f-5b4a75578ebb/w:1024/p:16x9/2026-10-24T194218Z-1784067987-RC2R9OAGSDD5-RTRMADP-3-FRANCE-PROTEST.jpg" medium="image"/>
 </item>
 <item>
-<title>Lula thanks voters for his victory, Flavio Bolsonaro does not recognize the results</title>
+<title>Brazil's Lula thanks voters for his victory, Bolsonaro does not recognise the results</title>
 <link>https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro</link>
 <guid isPermaLink="false">05fa1f528dbceeb9cb15e27336a43bb7b51ffe9e59d71fd025bac17c340b2fcd</guid>
 <source>France 24</source>
 <category>world</category>
 <pubDate>Sun, 25 Oct 2026 12:46:02 +0000</pubDate>
-<description>It is the first time in the country’s history since the return of democracy that a candidate who lost in the first round manages to come back and win in the runoff. The left-wing president obtained 51.7% of the votes, compared with the 48.2% received by right-wing Senator Flavio Bolsonaro.</description>
+<description>It is the first time in Brazil's history since the return of democracy in the country that a candidate who lost in the first round managed to come back and win in the runoff. The left-wing president Luiz Inacio Lula da Silva obtained 51.7% of the votes, compared with 48.2% won by right-wing Senator Flavio Bolsonaro.</description>
 <dc:creator>FRANCE 24</dc:creator>
-<content:encoded>It is the first time in the country’s history since the return of democracy that a candidate who lost in the first round manages to come back and win in the runoff. The left-wing president obtained 51.7% of the votes, compared with the 48.2% received by right-wing Senator Flavio Bolsonaro.</content:encoded>
+<content:encoded>It is the first time in Brazil's history since the return of democracy in the country that a candidate who lost in the first round managed to come back and win in the runoff. The left-wing president Luiz Inacio Lula da Silva obtained 51.7% of the votes, compared with 48.2% won by right-wing Senator Flavio Bolsonaro.</content:encoded>
 <enclosure url="https://s.france24.com/media/display/3cb7ae58-d0dc-11f1-a64c-bba4eee3dc72/w:1024/p:16x9/2026-10-26T012154Z-495985530-RC2PAOAKLO54-RTRMADP-3-BRAZIL-ELECTION.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/3cb7ae58-d0dc-11f1-a64c-bba4eee3dc72/w:1024/p:16x9/2026-10-26T012154Z-495985530-RC2PAOAKLO54-RTRMADP-3-BRAZIL-ELECTION.jpg" medium="image"/>
-</item>
-<item>
-<title>Polls open in Brazil presidential runoff</title>
-<link>https://www.france24.com/en/polls-open-in-brazil-presidential-runoff</link>
-<guid isPermaLink="false">8d55229e95d5540951f10b0dafd93d1493ff72572dc3607b6e12e975f17a1d17</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Sun, 25 Oct 2026 11:40:38 +0000</pubDate>
-<description>Brazilian President Luiz Inácio Lula da Silva and sight-wing senator Flavio Bolsonaro faced off Friday in their second and final debate ahead of Sunday's presidential runoff election. The two candidates repeated their campaign proposals, focusing on the cost of living and security, while exchanging ⁠allegations of corruption. France 24 Jan Onoszko telles us the latest from Rio de Janeiro.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>Brazilian President Luiz Inácio Lula da Silva and sight-wing senator Flavio Bolsonaro faced off Friday in their second and final debate ahead of Sunday's presidential runoff election. The two candidates repeated their campaign proposals, focusing on the cost of living and security, while exchanging ⁠allegations of corruption. France 24 Jan Onoszko telles us the latest from Rio de Janeiro.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/f689cca0-d067-11f1-911d-4b25c96ec90e/w:1024/p:16x9/EN-20261025-120157-120549-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/f689cca0-d067-11f1-911d-4b25c96ec90e/w:1024/p:16x9/EN-20261025-120157-120549-CS.jpg" medium="image"/>
 </item>
 <item>
 <title>This College of Magic turns ordinary kids into cool magicians</title>
