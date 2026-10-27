@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>An AI label alone no longer wins lenders, JPMorgan says</title>
+<link>https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says</link>
+<guid isPermaLink="false">b15c65edcf0a18d1930fd9e01e41a1f5f1694ad8f3bf0f03ae1da74f3a5d9ac0</guid>
+<source>CoinDesk</source>
+<category>business</category>
+<pubDate>Tue, 27 Oct 2026 08:24:39 +0000</pubDate>
+<description></description>
+<enclosure url="https://cdn.sanity.io/images/s3y3vcno/production/9aae75ee49cd130bbd14c457a11adcc0927c53a9-6000x4000.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/jpeg"/>
+<media:content url="https://cdn.sanity.io/images/s3y3vcno/production/9aae75ee49cd130bbd14c457a11adcc0927c53a9-6000x4000.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" medium="image"/>
+</item>
+<item>
+<title>Binance files for Brazil crypto license ahead of Friday deadline</title>
+<link>https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline</link>
+<guid isPermaLink="false">b581ea5e9bb52fe3dfc082d755e5195286b5a9eb6386ca164281c2c8580e2d56</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 27 Oct 2026 08:04:21 +0000</pubDate>
+<description>The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y3HTZGMXQ7SC5P5EPWXX7B/binance-brazil-edition.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y3HTZGMXQ7SC5P5EPWXX7B/binance-brazil-edition.png" medium="image"/>
+</item>
+<item>
 <title>Solana bug reports now cost 1 SOL as AI floods security teams with spam</title>
 <link>https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam</link>
 <guid isPermaLink="false">ea6e172fb46ef027cfe47ad1251ecd1e0cfd1e488f6e4deb8b6b7b610a4c1b77</guid>
@@ -1036,17 +1058,6 @@
 <description>Vibe coding your TV is impressive. Doing it without knowing exactly what you're touching is how you lose a rooted LG set and get a very sincere apology from an AI.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/photo-collage.png-1-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/photo-collage.png-1-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>US senator probes Tether after reported deal with ex-Trump crypto adviser</title>
-<link>https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal</link>
-<guid isPermaLink="false">742c452c3d980740ef1f326e66d988784167a9f8a2fcc0410e34a88ad2f1faf4</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 23 Oct 2026 17:42:12 +0000</pubDate>
-<description>The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MWKYVWPGFNQZJ4EMBSGH91/hi-probe-crypto-senator.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MWKYVWPGFNQZJ4EMBSGH91/hi-probe-crypto-senator.jpg" medium="image"/>
 </item>
 <item>
 <title>Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt</title>

@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenAI announces new discoveries in mathematics, computer science and physics</title>
+<link>https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics</link>
+<guid isPermaLink="false">f431ca66941a9e4169467edb6eaa2c57095e0b65f0b2e160884272252bab97bb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 08:18:16 +0000</pubDate>
+<description>OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems.</description>
+<enclosure url="https://www.engadget.com/img/gallery/openai-announces-new-discoveries-in-mathematics-computer-science-and-physics/l-intro-1793089035.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/openai-announces-new-discoveries-in-mathematics-computer-science-and-physics/l-intro-1793089035.jpg" medium="image"/>
+</item>
+<item>
+<title>UK government met 137 businesses over AI datacentres – but no environmental groups</title>
+<link>https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation</link>
+<guid isPermaLink="false">dc8feb23a31a7cb2ff2b4d4b1a9c74a9c44bcc6530c99d982182fe6ed75034be</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 07:00:04 +0000</pubDate>
+<description>Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expansion plans The UK’s policy on datacentres and AI was developed without any meetings with environmental groups, an investigation has found. The nonprofit organisation Spotlight on Corruption said a “considerable revolving door” shaped the government’s development of “AI growth zones”, a central plank of the former prime minister Keir Starmer’s AI and economic policy, with 38 ministers, senior civil servants and special advisers hired to positions in AI companies between July 2024 and September 2026. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/d7d40991e7793995807a7196e5227dd047cfc204/420_0_3413_2732/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b01773fb0eb9b1956fbbb40e33cb003d" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/d7d40991e7793995807a7196e5227dd047cfc204/420_0_3413_2732/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b01773fb0eb9b1956fbbb40e33cb003d" medium="image"/>
+</item>
+<item>
 <title>Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel</title>
 <link>https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625</link>
 <guid isPermaLink="false">fe43b9d5ff9f3eef567544c991800c4438d38bdaba1a31ba899e51417553c9d2</guid>
@@ -13,6 +35,17 @@
 <description>A supergroup of rights holders who own or control Elvis Presley songs have sued Anthropic for copyright infringement, alleging that the AI company stole The King’s works to train its AI models. “The Elvis Plaintiffs bring this action to enforce these exclusive rights against the Defendant that has built its entire business model based on copyright infringement at a scale never seen before,” states a complaint [PDF] filed last Friday in the United States District Court for the Northern District of California. Despite owning 274 Elvis songs, the titles of which offer many apt metaphors to illustrate the plaintiffs’ grievances, the lawsuit uses a Shakesperean allusion. “Defendant Anthropic has essentially put to the test the adage of whether monkeys and typewriters could, provided enough time, recreate Hamlet,” the complaint states. “However, rather than wait out the ‘infinite’ amount of time the infinite monkey theorem posits is necessary for said monkeys with typewriters to randomly, one letter at a time, string together that famous question of ‘To be or not to be?’, Anthropic found a workaround.” “Rather than training its monkeys from first principles, Anthropic found mimicry (i.e. copyright infringement) to be the much easier pursuit.” The lawsuit uses riffs that will sound familiar to anyone who has followed the many allegations that AI companies hoovered up any content they could find to train their models: Fair use doctrines don’t apply to all content used to train AI models; Anthropic should have known that some of the torrents and datasets it used for model training were either licensed (and therefore not freely usable), or stolen; The AI company should know it needs a license before allowing its Claude products to do things like produce the lyrics to Elvis songs when prompted to do so; Chatbots cost rights-holders money when users prompt them to produce create content “in the style of” artists whose works are subject to copyright. The plaintiffs want damages and a slice of Anthropic’s profits, or $150,000 per work. The latter values damages at $41.1 million. Anthropic has reportedly vowed to defend the matter, but has already resolved a similar case in which it was accused of training its models on books without seeking or securing permission from the authors. The AI upstart created a $1.5 billion fund to compensate writers to make that one go away. The plaintiffs note that Anthropic has billions of cash on hand and plans a mega-float (which it announced today ) so can afford to indulge in A Little Less Conversation, Don’t Be Cruel, stop being The Devil In Disguise, and Patch It Up by paying up. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=232704&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=232704&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Four takeaways from Anthropic’s potentially record-breaking stock market filing</title>
+<link>https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways</link>
+<guid isPermaLink="false">07f0459b0a7bc14a84c29a19c03fd52c7a00acb24f53e405ed693e59a362ac29</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 05:00:04 +0000</pubDate>
+<description>The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively impact its business. The company’s investor prospectus, released Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential risks of the technology to the reality of its current business: explosive but incredibly expensive growth. The filing to US financial regulators, known as an S-1, provides the public’s first look at an audited version of Anthropic’s finances. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da1c47be63305de9e2c1558a4f679961" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da1c47be63305de9e2c1558a4f679961" medium="image"/>
 </item>
 <item>
 <title>Chinese markets lose trillions as race for AI supremacy with US takes its toll</title>
@@ -57,6 +90,17 @@
 <description>Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.</description>
 <enclosure url="https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg" medium="image"/>
+</item>
+<item>
+<title>‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims</title>
+<link>https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report</link>
+<guid isPermaLink="false">8235ac7c15207d2eb31bada7641acfef335afb98ebae85fb1ceaf5202b453aaa</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 00:01:02 +0000</pubDate>
+<description>Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-called hostile environment for immigration, according to research. Tasks from the detection of potential sham marriages to determining the age of asylum seekers and checking through the contents of phones of new arrivals now involve use of the technology, according to a report by Open Rights Group (ORG). Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c20f7add03d3796dc4d6aa718b36df62" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c20f7add03d3796dc4d6aa718b36df62" medium="image"/>
 </item>
 <item>
 <title>Humanity can't afford not to spend $800B on AI, Anthropic insists</title>
@@ -321,6 +365,17 @@
 <description>Track down your suitcase, car keys, and other essentials with this $23 Bluetooth tracker.</description>
 <enclosure url="https://media.wired.com/photos/6adfa712dae5c72239fced97/master/pass/AirTag%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adfa712dae5c72239fced97/master/pass/AirTag%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>iPhone Duo owners report cracks in Apple’s first foldable handset</title>
+<link>https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset</link>
+<guid isPermaLink="false">de9475f8582c820bcb5c40d507797081c3709a05dfc5dc494587a2de6becc41d</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 19:15:37 +0000</pubDate>
+<description>Company says small number of devices affected by display glitch after posts appear on Reddit and social media Owners of the new foldable iPhone are reporting cracks in the device’s screen, as Apple confirmed an issue with a “small number” of units. Reports of cracks have emerged on Reddit and social media platforms since the handset went on general sale globally on Friday. Experts said there had been too few examples to determine whether there was a more serious problem with Apple’s first foldable device, which retails from $1,999 (£1,499). Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/c698617819e1a690d07c1616d74825b6af7e7a69/179_0_5355_4284/master/5355.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3eb258b3a8650db0c21fc7c52a415081" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/c698617819e1a690d07c1616d74825b6af7e7a69/179_0_5355_4284/master/5355.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3eb258b3a8650db0c21fc7c52a415081" medium="image"/>
 </item>
 <item>
 <title>Ghost of Yōtei studio Sucker Punch reportedly lays off 24 workers</title>
@@ -631,17 +686,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Apple-iPad-mini-8.jpg" medium="image"/>
 </item>
 <item>
-<title>Anthropic files for potentially record-breaking stock market valuation in key test for AI industry</title>
-<link>https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market</link>
-<guid isPermaLink="false">8cef9d6af68621e1052b8aeeaf4b24011c73aad8ca382f3e45b351f0e7f97f65</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 16:22:28 +0000</pubDate>
-<description>Market debut of firm behind Claude chatbot will be one of largest in US history, a test of AI boom’s financial viability Anthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history. The company’s float on the US market will serve as a test of the financial viability of the multitrillion-dollar AI boom. Analysts and investors have valued the San Francisco-based company, founded in 2021, at more than $1.5tn. The company, which will will list under the symbol ANT, confidentially filed with US financial regulators for an initial public offering in June. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/315_0_4582_3666/master/4582.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9914fec0bb36a1b6ae6255ecf735efa" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/315_0_4582_3666/master/4582.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9914fec0bb36a1b6ae6255ecf735efa" medium="image"/>
-</item>
-<item>
 <title>How do apps on the HomeView work, and what does CarPlay have to do with it?</title>
 <link>https://www.engadget.com/2294307/how-homeview-apps-work-what-carplay-have-to-do-with-it</link>
 <guid isPermaLink="false">0009967f86f2203f27e0cc7a753892dc9cfb184b136d691bfbd418f185bd38bf</guid>
@@ -741,17 +785,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>What are the downsides of a foldable electric bike?</title>
-<link>https://www.engadget.com/2294298/foldable-electric-bike-downsides</link>
-<guid isPermaLink="false">ae3344441f6f9b15aea654070850c7a2a99365a492c188bd374a18521e20c140</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 14:45:00 +0000</pubDate>
-<description>The foldable form factor comes with some trade-offs.</description>
-<enclosure url="https://www.engadget.com/img/gallery/what-are-the-downsides-of-a-foldable-electric-bike/l-intro-1791999912.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-are-the-downsides-of-a-foldable-electric-bike/l-intro-1791999912.jpg" medium="image"/>
-</item>
-<item>
 <title>Swift operations end: 2004 spacecraft headed for fiery reentry</title>
 <link>https://www.theregister.com/science/2026/10/26/swift-operations-end-2004-spacecraft-headed-for-fiery-reentry/5305346</link>
 <guid isPermaLink="false">d308c7a5361f3aa5b071ea495a3f451d7fd049a8f47bcec11750237a4cab242c</guid>
@@ -838,17 +871,6 @@
 <description>UK Biobank (UKB) says its platform is now "secure" and that academics will soon regain access, months after a major data leak of volunteer health data. The charity, which runs the eponymous research project and describes itself as the custodian of the world's most comprehensive biomedical dataset, said it is waiting for approval from health data controllers and central government before it relaunches the platform. UK Biobank's Research Analysis Platform (UKB-RAP) has locked out all medical researchers trying to access its dataset since the April attack , which led to all 500,000 volunteers’ data being listed for sale on Chinese ecommerce website Alibaba. More than 20,000 researchers use the dataset provided by the cloud-based platform. They upload research projects and run experiments informed by the genomic data UKB collected from 40-to-69-year-olds between 2006 and 2010. The org makes around 30 petabytes worth of the stuff available to researchers, who investigate conditions including cancer, dementia, Parkinson’s disease, and COVID-19 immunity. Professor Sir Rory Collins, CEO at UKB, said on Friday that the organization has "completed the work to ensure that the UKB-RAP is secure," and that the progress was checked by an independent cybersecurity company, whose report recommends reopening the platform. The charity will begin a phased re-introduction of researchers to its platform after it receives the necessary approvals, although boffins will not be able to download any results files at first. The platform will pilot a "manual output checking system," where human reviewers will inspect files researchers wish to download before allowing them to do so, ahead of an automated process expected to roll out next year. According to the guide UKB compiled for researchers outlining the changes to the platform, researchers will also be restricted from building public apps and sharing tools with external colleagues until that manual checking system is fully up and running. Researchers were also warned that they will not be able to refresh or dispense data, only work with pre-existing data. They were also told to expect automatic logout out after 15 minutes of inactivity, with 2FA required upon re-authentication. Other technical changes include no longer being able to SSH into jobs, interactive tools being run via "isolated browsing" which restricts data transfer between web apps and the user's local system, and some restrictions on CLI use. UKB is working toward a day when the researchers using its platform store no data on their own computers, working only with that which is uploaded to the repos it hosts. However, in uploading this data to online repos, de-identified data is accidentally included in the code. UKB says it runs daily automated scans of these repos to catch errors, and provides training to researchers to help prevent these occurrences. Collins said that since the attack, most researchers have confirmed the deletion of de-identified data f</description>
 <enclosure url="https://image.theregister.com/?imageId=5295365&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5295365&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism</title>
-<link>https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites</link>
-<guid isPermaLink="false">c07eb56e557593adc41a833cbd54f45af67eba0307f835f9e685b29d091827d0</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 12:00:41 +0000</pubDate>
-<description>Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California locals Locals in a rural area of California were recently startled to see dazzlingly bright light shining down from nearby mountains at night, illuminating a swathe of the desert below. Unbeknown to them, the strange nocturnal illumination was the latest step in a company’s plan to erect thousands of giant mirrors in space to reflect sunlight on to the Earth during night-time. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/7c7f30c6c0261f04d891e2564b27d085a9617055/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74613f5bc273cc8aa0ad4ebdf3efbb10" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/7c7f30c6c0261f04d891e2564b27d085a9617055/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74613f5bc273cc8aa0ad4ebdf3efbb10" medium="image"/>
 </item>
 <item>
 <title>Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall</title>
@@ -1522,17 +1544,6 @@
 <media:content url="https://image.theregister.com/?imageId=5305204&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking</title>
-<link>https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability</link>
-<guid isPermaLink="false">c501a531f3bdbbc423c10bc7c936b6226b2c3169ad6c1eef69077a254b26cb95</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 18:48:48 +0000</pubDate>
-<description>After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’ Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come. “I no longer think we’re going to be able to patch all bugs,” said Sam Altman on Thursday evening, joining the chorus of executives. In the midst of what’s being called “Black October”, for which researchers used AI to help identify critical flaws in a coding language that is used across millions of websites and may have been unpatched for years, tech executives are warning about the ways AI will be used both to identify and exploit security vulnerabilities at an unprecedented scale and pace. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/cb4c18c4ae3df1d687b8488dfb57058ade00d1a7/731_0_3659_2927/master/3659.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0fcf915eff60a2543bdf4861c42d972" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/cb4c18c4ae3df1d687b8488dfb57058ade00d1a7/731_0_3659_2927/master/3659.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0fcf915eff60a2543bdf4861c42d972" medium="image"/>
-</item>
-<item>
 <title>Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday</title>
 <link>https://www.wired.com/story/revival-rugs-birthday-sale-october-2026</link>
 <guid isPermaLink="false">255ec36bd301875d76548b1314c4949bdd0bb7b2d6f8d40e81acef54517509f4</guid>
@@ -1916,17 +1927,6 @@
 <description>Nintendo Switch 2; Nintendo/Nintendo Bringing a holiday vibe and a generous selection of sport-themed games, this is exactly what you want from a family video game When the first Nintendo Switch Sports brought the effortless fun of Wii Sports back into my living room in 2022, I was frankly delighted . My small children discovered the pleasure of waving a controller around in enthusiastic imitation of a tennis player, and the surprising subtlety of virtual bowling, working out how to twist the wrist just right to guarantee a strike. I did not expect this game to become a family fixture for the next several years as my kids got older and climbed up the online ranks in all six of its sports (plus the two that were added as free updates). Switch Sports is so beloved in my household that the release of Switch Sports Resort this week is the most anticipated gaming event of the year. To be fair, my children are a bit young for Grand Theft Auto. Nintendo Switch Sports Resort brings three of the six sports back – tennis, bowling, and volleyball – alongside golf and basketball. Then there are seven entirely new sports: boxing, table tennis, archery, thumb wrestling, skateboarding, jetski, and piloting a little prop plane. They are all intuitive, easy to get the hang of on the first or second attempt – some have more legs than others, in the long run – and all of them, crucially, are a little bit silly. Thumb wrestling in particular is cheerfully absurd, giving your characters gigantic thumbs on hands the size of their heads. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/20b38997c69574d368cfd18359295efe1e8c9ddd/1522_611_4637_3709/master/4637.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb45edc134f38d45fc2ac8bcb21202ef" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/20b38997c69574d368cfd18359295efe1e8c9ddd/1522_611_4637_3709/master/4637.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb45edc134f38d45fc2ac8bcb21202ef" medium="image"/>
-</item>
-<item>
-<title>AI firms say UK has a year to head off datacentre protests before construction is threatened</title>
-<link>https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened</link>
-<guid isPermaLink="false">0d706251c10a87aa5bac575c1c8b22815daf79176f06b123ab4a364c7a371ce6</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 05:00:08 +0000</pubDate>
-<description>Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style opposition AI companies have told ministers they have 12 months to head off public opposition to datacentres in the UK or risk US-style protests that could threaten their construction. Successive dry summers and rising energy bills are increasing public scrutiny of plans for the huge computer warehouses that are used to train and run AI models, says a submission to the Labour government from a group including the AI infrastructure companies Nvidia, Microsoft and Cisco. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/35c9f0f2f37cd8a924ee3a4ce63b0697c2f947d6/945_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1334b9c6960d4bb7ba1fe0a170e07e56" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/35c9f0f2f37cd8a924ee3a4ce63b0697c2f947d6/945_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1334b9c6960d4bb7ba1fe0a170e07e56" medium="image"/>
 </item>
 <item>
 <title>GridCraft is the open-source Excel clone for Linux I’ve been waiting for</title>
