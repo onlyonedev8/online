@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why is there a random arm taking over the X composer?</title>
+<link>https://www.engadget.com/2299052/why-is-there-a-random-arm-taking-over-the-x-composer</link>
+<guid isPermaLink="false">4d8b38749271bdad88f0bc9535d7d97ab432cdba2adea09d30327a2a6b6b4ab1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 21:35:22 +0000</pubDate>
+<description>The animation is pushing users to pay to promote their posts.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-is-there-a-random-arm-taking-over-the-x-composer/l-intro-1793136636.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-is-there-a-random-arm-taking-over-the-x-composer/l-intro-1793136636.jpg" medium="image"/>
+</item>
+<item>
+<title>iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen</title>
+<link>https://www.engadget.com/2299043/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen</link>
+<guid isPermaLink="false">70a1252082bc83743a2c20607664334f0b6ebf01428c07070498e53b3c229655</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 21:26:20 +0000</pubDate>
+<description>The leaks suggest the front camera could also see a boost.</description>
+<enclosure url="https://www.engadget.com/img/gallery/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/l-intro-1793135835.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/l-intro-1793135835.jpg" medium="image"/>
+</item>
+<item>
+<title>ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support</title>
+<link>https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support</link>
+<guid isPermaLink="false">33692ed4183c3a99c08e0d92603bb73d91592409cfd030a1930513b72964b858</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 21:13:59 +0000</pubDate>
+<description>You can use the AI assistant to update calendar events and search your inbox, among other things.</description>
+<enclosure url="https://www.engadget.com/img/gallery/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/l-intro-1793135485.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/l-intro-1793135485.jpg" medium="image"/>
+</item>
+<item>
+<title>Researchers are getting tired of OpenAI gatekeeping its breakthroughs</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics</link>
+<guid isPermaLink="false">578f4a1cc2a6a4ecc178ce6ae9d4f1561714fa336a6d894293bf4b94ff076062</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 20:48:58 +0000</pubDate>
+<description>On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI and mathematicians, who are still grappling with the hundreds of preprints unceremoniously dumped on them at the start of October. This time, OpenAI says it is working with expert "shepherds" to decide how best to share its latest breakthroughs. All three results conc … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Code-execution flaw in UEFI firmware threatens most servers on planet Earth</title>
+<link>https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth</link>
+<guid isPermaLink="false">7111ef88cef63a435929f84a977a691b093e738a488b46a1c2c667c59471a49e</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 20:25:55 +0000</pubDate>
+<description>Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world’s server vendors and data centers. The vulnerability, with a severity rating of 9.5 out of 10, resides in the TianoCore EDK II , an open source codebase that hardware makers and cloud providers use to create the UEFI firmware that runs during the boot-up sequence. Last year, a representative of the UEFI Forum called EDK2 the "preeminent solution / implementation of the UEFI specifications." Virtually all UEFI suppliers (sometimes still called IBVs or independent BIOS vendors), including AMI, Insyde, and Phoenix, use the reference code extensively. Project Mu, Microsoft's hardened EDK2 fork, used the code containing the vulnerable component as well. The vulnerability, tracked as CVE-2026-97631, is a memory-corruption flaw in an ICMP component that attackers can exploit to execute malicious code that runs before the operating system and firmware can implement defenses like Secure Boot , which establishes a chain of trust for all code, including the Trusted Platform Module (TPM), loaded during boot. While final payloads delivered by CVE-2026-97631 have no persistence—meaning they run only once—they can give attackers a wide opening to install other payloads that also run each time early in the boot process. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware-500x500.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware-500x500.jpg" medium="image"/>
+</item>
+<item>
+<title>Big Red gets cozy with Google to offer TPUs to AI customers</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846</link>
+<guid isPermaLink="false">1037573297b5a9dbb326ad7503afa9ee42aa112fd6402a9aeadddca9a1897ea3</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 20:20:27 +0000</pubDate>
+<description>Oracle Cloud Infrastructure (OCI) customers will soon have a raft of new choices. Big Red is hosting an event in Las Vegas this week to inject more air into the AI bubble explain its latest AI investments, and front and center of those efforts are an expanded partnership with OpenAI and plans to diversify its chip offerings beyond Nvidia by bringing Google's Tensor Processing Units (TPUs) to OCI. Oracle says its deal to add Google TPUs to OCI will make it the first hyperscale cloud platform outside Google's own cloud services to offer the chips. Those chips will be available for selection within OCI beginning in 2027, with capacity increasing over the course of several years. While not mentioning the quantity of Google TPUs that will be available next year or beyond, it does seem that Oracle is attempting to diversify away from being so heavily reliant on Nvidia, with whom it has inked deals worth tens of billions of dollars to outfit its datacenters, including the reportedly troubled Texas project it’s planning with the GPU maker and OpenAI. “Different AI workloads have different compute needs,” said OCI president Mahesh Thiagarajan. “Bringing Google TPUs to OCI gives customers … the flexibility to choose the right infrastructure for the performance, throughput, and economics of each AI workload.” Oracle isn't moving away from its partnership with OpenAI, either, announcing new ChatGPT integrations on Tuesday alongside two products that incorporate models from the House of Altman. The first of those, Oracle AI Workspace, is billed as a “single user experience that brings OpenAI frontier models together with Oracle applications, enterprise data, and cloud services” through ChatGPT plugins that basically turn Oracle’s existing business platforms into ChatGPT-accessible resources. “The Oracle AI Workspace will make the breadth of Oracle’s capabilities agent-ready and accessible to ChatGPT users,” the company explained. “People can describe business goals and these plugins in ChatGPT will bring together the right Oracle tools and information to help them accomplish it.” Along with giving OpenAI-powered tools access to selected business data, Oracle is hoping customers will also trust the models to help handle cybersecurity with the second new product, Oracle AI Security Mesh, "a managed platform that combines frontier AI models for cybersecurity … with Oracle's proven security expertise." As you might assume from its name and description, Oracle AI Security Mesh will use OpenAI cybersecurity models to find vulnerabilities, test whether they can be exploited, and recommend fixes in areas of a company's tech stack that it authorizes the Oracle-managed service to examine. Oracle also announced a deal with Snowflake to bring its AI data cloud to OCI as a native service. The new partnership will allow Oracle customers to purchase and use Snowflake directly from Oracle, which will handle all pricing, discounts, and billing. Oracle Universal Credits will a</description>
+<enclosure url="https://image.theregister.com/?imageId=4093906&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=4093906&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Rockstar workers in the UK will hold a union vote just as GTA 6 is released</title>
 <link>https://www.engadget.com/2298907/rockstar-workers-in-uk-hold-union-vote-as-gta-6-release</link>
 <guid isPermaLink="false">2773b964c4634cc18bc850977e052042e6ca395996855f4941914b15a227601a</guid>
@@ -37,15 +103,26 @@
 <media:content url="https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg" medium="image"/>
 </item>
 <item>
-<title>Google's Android Registered App Stores program launches Dec. 1, applications now open</title>
+<title>Google begins certifying Registered App Stores for Android, but not in the US</title>
 <link>https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open</link>
 <guid isPermaLink="false">3b51b179c05070f41b19f0dad8b57d5329bff85fab11a569009c1c8f3cabc02f</guid>
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 19:32:07 +0000</pubDate>
-<description>Running an app ecosystem has gotten a lot more complex for Google in the wake of its loss in the Epic Games antitrust case. While those in the US have access to app stores inside Google Play by order of the court, international users will have Google's voluntary Registered App Stores program . Google has announced that stores wishing to be part of that program are now free to apply, and support will roll out to some Android devices later this year. App stores accepted into the program will enjoy preferential treatment on the Android platform. Users of approved stores will be able to install apps with a single click, similar to the experience in the Play Store. These stores will also be allowed to update apps silently in the background like Google's store does. "In March, we announced the Registered App Stores program to give third-party app stores a more streamlined way to reach users while maintaining the safety and security of the Android ecosystem," said a Google spokesperson. "Eligible app stores outside the US can now apply to register their stores ahead of the new simplified installation experience rolling out to users later this year." Read full article Comments</description>
+<description>Running an app ecosystem has gotten a lot more complex for Google after its loss in the Epic Games antitrust case. While US users can access app stores in Google Play by court order, international users will use Google's voluntary Registered App Stores program . Google has announced that stores wishing to be part of that program are now free to apply, and support will roll out to some Android devices later this year. App stores accepted into the program will enjoy preferential treatment on the Android platform. Users of approved stores will be able to install apps with a single click, similar to the experience in the Play Store. These stores will also be allowed to update apps silently in the background like Google's store does. "In March, we announced the Registered App Stores program to give third-party app stores a more streamlined way to reach users while maintaining the safety and security of the Android ecosystem," said a Google spokesperson. "Eligible app stores outside the US can now apply to register their stores ahead of the new simplified installation experience rolling out to users later this year." Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic now lets Claude users jump out of plane without parachute</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807</link>
+<guid isPermaLink="false">8d1f583c06df9a3e46bbe2189e231c3e88ced4ecfc949690376b0bfc809d3d4c</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 19:29:00 +0000</pubDate>
+<description>Anthropic, prone to pronouncements about model safety, has given developers using Claude Code the opportunity to throw its guardrails out the window. The company's latest Claude Code build ( v2.1.311 ) supports an environmental variable designed to allow the AI agent to run the rm command, which deletes files, without asking for approval. The designated environmental variable (a value developers set in their shell) is called: CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS . Daisy Hollman, a member of technical staff at Anthropic, announced the change in a social media post . "Fun fact: --dangerously-skip-permissions doesn't actually approve EVERYTHING – we still block some obvious things like rm -rf ~ ," she wrote. "But today's release will let you disable this if you really want, by setting a new env var CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS=1 " Not everyone believed Hollman, perhaps due to the absurdity of the variable name or because the change isn't listed in the v2.1.311 change log. But she offered reassurance that it's real. "Not a joke!" she responded. "I hope this helps, and I hope the variable name is memorable." The name is easy to remember because it is very much like the aforementioned Claude Code flag --dangerously-skip-permissions . That command line flag enables bypassPermissions mode, which first surfaced in Claude Code v1.0.18, on June 9, 2025. Claude Code has several permission modes : default, acceptEdits, plan, auto, dontAsk, and bypassPermissions. Auto mode, which nominally allows everything but runs background safety checks, became the default in August ; bypassPermissions also nominally allows everything, without the safety checks. But there are still exceptions that do not get automatically approved and require a permission prompt, such as rm and rmdir . The new CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIONS environmental variable removes this last agentic restraint, though other things like managed settings may impose their own limitations. It's perhaps worth noting that there are numerous accounts of AI agents issuing commands like rm -rf ~ that wipe hard drives or take other action that results in data loss. But as they say, you only live once. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=240909&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=240909&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Elon Musk says Ukraine&amp;#8217;s military violated Starlink&amp;#8217;s terms of service</title>
@@ -57,6 +134,17 @@
 <description>Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica . According to Musk, "Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week," however Ukrainian officials have denied that happened, or that it is actually possible for them to do. The statement comes nearly two weeks after Ukrainian officials accused SpaceX of putting limits on the military's satellite internet service that disrupted its drone missions and operations. As reported by Axios , Ukraine uses Starlink for communications … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours</title>
+<link>https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811</link>
+<guid isPermaLink="false">a07e98d7d0796172124c9f8214fd631233e5de13e47f6e1b67ede354d4f293ec</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 19:11:02 +0000</pubDate>
+<description>An autonomous AI agent discovered four vulnerabilities in the decades-old, widely used EPICS (Experimental Physics and Industrial Control System) open source software toolkit, including a critical flaw that could allow remote attackers to execute code on systems used to control particle accelerators and fusion experiments. The bugs include a critical, 9.8-rated under CVSS v3.1 integer overflow vulnerability ( CVE-2026-114595 ), leading to an attacker-controlled out-of-bounds heap write and potentially remote code execution; an 8.2-rated, high-severity, improper message-length validation flaw ( CVE-2026-114596 ), causing an out-of-bounds memory write and controller-process crash; a 7.5-rated, high-severity insufficient bounds checking bug ( CVE-2026-114597 ) that allows out-of-bounds memory reads and process crashes; and a 7.5-rated, high-severity type confusion flaw ( CVE-2026-114598 ) that can lead to denial of service and could expose adjacent memory contents. All four affect EPICS Base, which is used to operate some of the world's largest scientific research projects and facilities, and organizations should update to version 7.0.11, which includes the fixes. “Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code,” the US Cybersecurity and Infrastructure Security Agency (CISA) warned in a Tuesday advisory. An AI agent called Cipher independently found all four previously unknown security holes - investigating and testing the unfamiliar EPICS system, and validating the four exploits - in three hours and 49 minutes, Causal Security co-founder Shubham Raj told The Register . “The initial investigation required no human intervention, followed by one instruction authorizing deeper exploitability testing in a secure environment,” Raj said. Earlier this year, Causal Security’s Cipher, which Raj described as “a fully autonomous super hacker that can reason across the technology stack,” found multiple critical attack paths in power-grid systems used across North America and Europe, prompting an October 8 security advisory from CISA. EPICS, originally developed by Los Alamos National Laboratory and Argonne National Laboratory, is used to build and remotely control distributed Supervisory Control and Data Acquisition (SCADA) systems, connecting operators to physical devices. It’s used in around 90 major scientific, university, and industrial projects and facilities globally including A rgonne National Laboratory's Advanced Photon Source and ITER's fusion reactor control system . All four of these flaws illustrate how AI agents are really good at finding vulnerabilities in industrial and operational technologies - systems and equipment that used to be able to rely on obscurity to protect them from hackers - and add to defenders' concerns that it's only a matter of time until an autonomous cyberattack shuts down cr</description>
+<enclosure url="https://image.theregister.com/?imageId=5305858&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5305858&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking</title>
@@ -178,6 +266,17 @@
 <description>Apple's smallest desktop delivers better performance and value for those willing to leave the laptop behind.</description>
 <enclosure url="https://www.engadget.com/img/gallery/why-buying-a-mac-mini-over-a-macbook-might-be-the-smarter-move/l-intro-1792413302.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/why-buying-a-mac-mini-over-a-macbook-might-be-the-smarter-move/l-intro-1792413302.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple takes powerful M6 chip to the MacBook Pro, iMac</title>
+<link>https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797</link>
+<guid isPermaLink="false">60101fbffa3acda7b53d950da1299ec47b33b9d4d35821b540fd94f802751dd3</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 17:47:07 +0000</pubDate>
+<description>If you were waiting to upgrade your Mac until you could get one with the latest CPU, the wait is over. Apple’s 6th-gen M-series processors are finally trickling down to its 14-inch MacBook Pro and iMac family early next month. Available in either “space black” or silver, Apple’s base-model MacBook Pro is largely unchanged from last gen. This is a mid-cycle refresh and so most of the improvements are under the hood. It sports the same high-res mini-LED display, chiclet keyboard, and port selection as its predecessor. Most of the improvements come from the silicon itself. Announced alongside a refreshed Mac mini in August, and fabbed on TSMC’s 2nm process tech, the M6 features a refreshed CPU with 12 CPU and 12 GPU cores, and is now complemented by a dual 16-core Neural Engine (what Apple calls its NPUs) which promises better performance for the slew of Apple Intelligence features now baked into macOS Golden Gate. The M6 MacBook Pro comes standard with 16 GB of unified memory, good for 153 GB/s of bandwidth. Memory can be specced up to 24 GB or 32 GB, boosting bandwidth to 170 GB/s for those with more demanding workloads or, as is more often the case, an aversion to closing Chrome tabs. Compared to the outgoing M5, which for the moment is still available in the MacBook Air, Apple says the M6 delivers significant performance gains thanks to the addition of two more cores. In Xcode, Apple boasts up to 30 percent higher performance versus a similarly equipped M5 MacBook Pro. The GPU enjoys similar gains in Blender ray tracing, local AI inference, and image processing, delivering 1.3x faster prompt processing and 1.3x faster rendering, and 1.2x faster performance in the Affinity creative suite. Despite higher performance, Apple boasts the same 24-hour battery life as the outgoing M5 model. Pricing also remains unchanged. A 16 GB model with 1 TB of solid state storage will set you back $1,999. One area of improvement not related to performance is connectivity. The M6 finally brings Wi-Fi 7 and Bluetooth 6 connectivity to the 14-inch MacBook Pro. The majority of these improvements also come to Apple’s most colorful of all-in-one desktops: the iMac. Here the performance jump is even larger, owing to the fact the machine never got the M5. Apple claims 1.5x faster performance in productivity apps like Excel, 2x faster graphics performance and 5x faster in local AI. Continuing the trend of better connectivity, along with Wi-Fi 7 and Bluetooth 6, certain iMac models also gain 2.5 Gbps Ethernet. As with the MacBook Pro, pricing remains unchanged, with iMacs starting at $1,499. Both the M6 MacBook Pro and iMac are available for preorder starting tomorrow with availability beginning Friday, Nov. 6. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5305802&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5305802&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>VisionQuest is what happens when AI really goes rogue</title>
@@ -642,17 +741,6 @@
 <media:content url="https://www.engadget.com/img/gallery/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/l-intro-1793110400.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple has updated the 14-inch MacBook Pro with an M6 chip</title>
-<link>https://www.engadget.com/2298120/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip</link>
-<guid isPermaLink="false">773f147528f94c85a02a6a48b4d10508a13b4b2f7a66877b75d37ae9da139e3c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:23:27 +0000</pubDate>
-<description>Sadly, the 16-inch MBP is still stuck with older M5 silicon.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/l-intro-1793109958.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/l-intro-1793109958.jpg" medium="image"/>
-</item>
-<item>
 <title>US officials want Section 702 renewed before damaging court ruling goes public</title>
 <link>https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public</link>
 <guid isPermaLink="false">3a93e7b5876c90870e18bf06415c2d9c9b5cc0d4ad0d19fc2f4d37083d7cb424</guid>
@@ -662,17 +750,6 @@
 <description>Two Democratic senators who have long overseen US intelligence say the Trump administration is illegally withholding a secret court’s findings from Congress until lawmakers renew a program that lets federal agents read Americans’ communications without a warrant. Seven months ago, the Foreign Intelligence Surveillance Court objected to search filters that let intelligence analysts pull Americans’ messages from intercepted data without the approvals, written justifications, or records the law requires. The court approved another year of surveillance anyway. The ruling has never been made public, and Senators Ron Wyden of Oregon and Adam Schiff of California say the administration’s own deadline for releasing it passed in September. The program, Section 702 of the Foreign Intelligence Surveillance Act (FISA), lapsed in June after Congress failed to renew it, though collection continues under the court’s March approval. The administration’s own public documentation says rulings like this one are reviewed for public release “within 180 days of issuance.” That window closed September 13, even as intelligence officials press lawmakers to reauthorize the program by the end of the year. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>A jailbroken PlayStation 5 can play PS2 discs, but Sony is giving users a tough choice</title>
-<link>https://www.engadget.com/2295693/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice</link>
-<guid isPermaLink="false">dbc5f0df378ce1952a0813dbe81eacc48a3bedd3a24c3b492f67cf26aee701a5</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:15:00 +0000</pubDate>
-<description>We mean that in the Faustian bargain sense.</description>
-<enclosure url="https://www.engadget.com/img/gallery/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice/l-intro-1792777805.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice/l-intro-1792777805.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple's foldable phone has a crease in its reputation</title>
@@ -695,17 +772,6 @@
 <description>Nobody sets out to build file infrastructure that makes employees less productive. Yet sensible technology decisions made years ago can leave organizations wrestling with systems that no longer suit how their teams work. Take network-attached storage (NAS). It has long provided a dependable way to store and access files. But what happens when the people using those files are no longer sitting in the same building, or even the same country? A project team can spend its morning waiting for a multi-gigabyte file to transfer over a VPN, then lose more time checking whether the copy they received is the latest. No single delay attracts much attention. Repeat that across projects and the cost starts to add up. The price of working around the problem When shared access becomes difficult, employees find workarounds. They download local copies, duplicate folders, and transfer files between systems to keep projects moving. Now imagine an architecture firm sharing a large building model between design offices. One team updates its copy while another works from yesterday’s export. Before anyone can move forward, someone has to reconcile the differences. That's time spent managing files rather than designing the building. Duplicated data consumes storage capacity and complicates oversight. Meanwhile, IT must keep legacy infrastructure running while addressing performance, cost, security, and governance requirements. Replacing every storage system is rarely a practical first move. Organizations have invested in infrastructure, access controls, and established processes. The sharper question is whether the way people access and collaborate on files needs to change. A conversation worth having The right starting point depends on which workflows create the most friction. Leaders need to identify the costs hidden in file transfers, local copies, and avoidable rework before choosing how to modernize. Those are the issues The Register and LucidLink will put on the table at an invitation-only executive dinner in London on Tuesday, November 24. Moderated by The Register’s Joe Fay, the roundtable will examine modernizing file infrastructure while protecting existing storage and governance investments. It's a chance to compare practical experience with peers who have faced the same uncomfortable question: when does a familiar system start holding the business back? Request your place at the November 24 dinner Sponsored by LucidLink.</description>
 <enclosure url="https://image.theregister.com/?imageId=5305527&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5305527&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>4 drawbacks you should know before buying an Xbox Series X</title>
-<link>https://www.engadget.com/2295682/drawbacks-you-should-know-before-buying-xbox-series-x</link>
-<guid isPermaLink="false">d4ff7947e0028411c8c5c2cb16ae0f25a9e66d17540152e3f14fa44f7f5bd624</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 12:45:00 +0000</pubDate>
-<description>The Xbox Series X has had some stumbles, so you should be aware of its faults before picking one up.</description>
-<enclosure url="https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-an-xbox-series-x/l-intro-1792781267.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-an-xbox-series-x/l-intro-1792781267.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft releases out-of-band Windows fixes with certificate updates</title>
@@ -1368,17 +1434,6 @@
 <media:content url="https://image.theregister.com/?imageId=5237915&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Tesla gave up the EV crown. Now it wants to win the autonomy race.</title>
-<link>https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine</link>
-<guid isPermaLink="false">0873146ef97f06cb3adb16fa4adafa2ac5943bff2ad2cb85aad82d4a8d5172c1</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 14:30:27 +0000</pubDate>
-<description>Elon Musk’s “flying” Roadster jumped and flipped through the air this month in a stunt that went viral around the world. But his bigger bet is on changing the way Tesla makes money—and the wider car industry is scrambling to catch up. Five days after the spectacle, made possible by compressed-gas thrusters developed by Musk’s SpaceX, he revealed the companies were exploring a merger that could accelerate his push into autonomous driving. At stake is more than a technological race. Car groups, already grappling with growing Chinese competition, are seeking to move beyond a business model centered on vehicle sales towards one that also generates recurring revenues from software and AI-powered services. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans</title>
 <link>https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans</link>
 <guid isPermaLink="false">b143c3f9e0b388b2b114504fd41f9377549af9c700a887c7d132d6ed2aefadef</guid>
@@ -1830,17 +1885,6 @@
 <media:content url="https://media.wired.com/photos/6adbb6236c5716eb12b3253b/master/pass/vacuna%20melanoma%202275195271.jpg" medium="image"/>
 </item>
 <item>
-<title>Raspberry Pi Desktop proves old PCs aren't past it</title>
-<link>https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676</link>
-<guid isPermaLink="false">514e958847d2c0525a8dd89afb1d59317313a1c5f6484991eafe1b085dde83d6</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 11:30:00 +0000</pubDate>
-<description>One of the most frequently asked questions of Linux folks is "what's the best lightweight distro for an old PC?" The Reg FOSS desk's current answer is Raspberry Pi Desktop. A couple of weeks ago, we covered the news of a Trixie update for the Raspberry Pi Desktop . Since then, we've been putting it through its paces on a couple of the oldest, slowest machines in the FOSS desk stables. It has performed splendidly. If you fancy dipping a tentative toe into Linux, but you only have a relatively old low-spec PC spare to try it on, this is ideal. This is a modern OS: it's a 2.6 GB download, and it uses about 8 GB of disk space when installed. It will be a bit too much for a 25-year-old PC that was intended for Windows XP, but if you have an old PC from the Windows Vista era to hand, that should do. The splash screen calls it "PiOS 6.3," just as on Arm-based Raspberry Pi hardware. Here, though, we're testing Raspberry Pi Desktop: the x86-64 PC edition of the Debian-based system, available at the bottom of the downloads page . Back in 2023, the PiOS got a new Debian 12-based version , which included a new Wayland-based desktop – although it still looked almost identical to the old environment, based on X11, Openbox, and LXDE. Sadly, the PC version didn't get upgraded. Two years later – so, almost exactly a year ago – we got a Debian 13-based PiOS 6 . The PC version still didn't get upgraded. Now the PC edition has finally caught up with Debian 13. It's very similar to September's PiOS 6.3 release, complete with the option of a dock instead of a taskbar. Like the Arm version, you can use the raspi-config tool to switch between the Wayland-based labwc compositor and X.org if you prefer. There is one important difference: Raspberry Pi OS still offers 32-bit and 64-bit Arm editions, but Raspberry Pi Desktop is now x86-64 only, following Debian 13's retirement of its x86-32 edition . The Arm editions now use kernel 6.18 , but the PC version is still on Debian's default kernel 6.12. It brings the Pi's streamlined Debian desktop to PCs, with an installer that asks few technical questions. You can do a custom installation into existing partitions if you want, but you can just click "OK" a few times and it will do almost everything for you automatically. Unlike Debian itself, there are no questions about what to download, which desktop, network installation, or anything like that. One size fits all. You get a custom desktop with a broadly Windows 95-style layout, except that the taskbar is at the top of the screen (you can move it if you want). You get a basic collection of preinstalled apps: Chromium, Firefox, a text editor, and some helpful documentation – albeit aimed at owners of real Pi hardware. At idle, it runs in a little under 450 MB of memory, and if you switch to X.org, Openbox uses about 50 MB less. The lightest variant of Ubuntu is generally agreed to be Lubuntu, but PiOS takes about half as much memory as Lubuntu 26.04 did in our testing . We tried</description>
-<enclosure url="https://image.theregister.com/?imageId=228466&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=228466&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Best Pet Camera of 2026: Furbo, Petcube, and Enabot</title>
 <link>https://www.wired.com/gallery/best-pet-cameras</link>
 <guid isPermaLink="false">c926347acd972db68bb66c56728ce2343f64573bbbc1077c687c4ee7afa8a840</guid>
@@ -1894,39 +1938,6 @@
 <description>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</description>
 <enclosure url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
-<title>OpenAI disables internet access during model training while Anthropic issues another mea culpa</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238</link>
-<guid isPermaLink="false">4cd9fa711dad90297a3db04aba91d13e82fd22eed814adc11a0ee9d7af381132</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 22:36:11 +0000</pubDate>
-<description>OpenAI says it will deny internet access to the frontier models it is training, a move that underscores the inadequacy of safety measures undertaken to date. "Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access," the company said in a blog post . "We've implemented this policy and will maintain it until advances in these safeguards justify broader internet access." The denial of network service follows a report from safety evaluation partners METR and Redwood Research that found OpenAI's security and monitoring measures over the summer to be porous and ineffective . OpenAI said it has since "substantially hardened the security of our research environments" and has implemented new controls covering its infrastructure with the help of its cloud service providers. And the company claims these measures recently helped contain a September 20 incident in which an internal research model exploited a DNS misconfiguration to gain access to the internet. "Although we contained the incident, it exposed weaknesses that required further work," the company said. "We paused training and evaluation of our most capable models and used that pause to further harden our infrastructure, strengthen our monitoring, and improve the systems that automatically stop runs when we detect activity that poses a serious risk." Meanwhile, over at Anthropic… Anthropic, OpenAI's US rival in living large and dangerously on speculative funding, is addressing similar risks that have arisen during the testing and evaluation of its own models. Back in August, Anthropic said , "By default, all cyber evaluations should run inside a hardened sandbox (an isolated computing environment) with no internet access." The AI biz on Friday published a report on efforts by its Claude Mythos 5 model to convince an open source project to accept malicious code as part of its participation in a capture-the-flag security evaluation (when safety controls were disabled), and several related incidents first disclosed in July . The report coincides with an independent analysis of Mythos' behavior by the UK's AI Security Institute (AISI). AISI, according to Anthropic, has also decided to run its evaluations without internet access. The AISI report cites three key findings that raise more questions than they answer. The first is that Mythos 5 continued its attack even when informed that its targets were real and not part of an evaluation. The second is that the model's chain-of-thought reasoning process failed to consider the impact of harmful actions. And when interrogated about this, the model often produced invalid justification that the target was simulated, indicating bias toward its goal. And third, AISI said, most models tested during cyber evaluations took unsanctioned actions, though Mythos 5 did so the most. The observed behavior, AISI said,</description>
-<enclosure url="https://image.theregister.com/?imageId=5305242&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305242&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>There's a third PHP2Shell bug, but it won't get an emergency fix</title>
-<link>https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208</link>
-<guid isPermaLink="false">77a47a3ac8f4b339cbe80687af420278d26afce3c9cabd378186180d39b8fbcd</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 20:04:40 +0000</pubDate>
-<description>As the PHP2Shell chaos continues, researchers have found a third PHP vulnerability that could allow attackers to take over websites or remotely run malware on vulnerable systems. But this one won’t receive an emergency fix. The PHP Foundation on Friday told The Register that it has reserved a CVE identifier (CVE-2026-115560) for a third RCE flaw to go with the first two that comprise PHP2Shell, and it will release a full advisory and fixed software with the next regular PHP release. CVE-2026-115560 “requires a very unlikely combination of configuration and specific PHP application code, which we do not expect to occur in practical use of PHP,” Elizabeth Barron, executive director of the PHP Foundation, told The Register . “The issue can be mitigated with a configuration setting. So for the moment the PHP Security Team has only published an informational advisory on the PHP website, explaining exactly this situation.” The informational advisory, published on Friday, suggests that users “set session.upload_progress.enabled=0 until the next regular bugfix release, to fully protect from an unlikely RCE vector.” These unlikely RCE attacks require an application to set “ session.serialize_handler to php_binary or php_serialize in its configuration and then switch it to php at runtime with ini_set() before calling session_start() .” Additionally, the session upload progress feature must be enabled. This setup, according to the PHP Foundation, is unlikely in real-world applications, and as such doesn’t pose the same massive risk as the earlier two CVEs that set the internet on fire earlier this week. Those, of course, are CVE-2026-109618 and CVE-2026-109619 , collectively called PHP2Shell . The related vulnerabilities involve memory-safety flaws in PHP, the open source programming language running on about 70 percent of websites with a known server-side programming language. The PHP Foundation officially disclosed and patched both bugs on Wednesday. Despite reports of mass exploitation attempts , and multiple proof-of-concept exploits both before and after the CVE disclosures, as of Friday there have been no publicly confirmed successful compromises attributed to PHP2Shell. “We have no evidence of successful exploitation of the two vulnerabilities from Wednesday prior to disclosure, and we currently have no evidence of any exploitation of these vulnerabilities on patched PHP versions,” Barron said. “We received no further indication from OpenAI, Wiz or Calif, with whom we're working closely on this issue, regarding any issues on patched systems.” The Register reached out to multiple other security researchers, all of whom said they’ve documented exploitation attempts - but no confirmed successful attacks in the wild. “Nonetheless, exploitation may have already begun in a limited fashion and the threat is viable and very serious,” Mandiant Chief Technology Officer Charles Carmakal said in a Friday LinkedIn post. Google Cloud owns Mandiant, along with clou</description>
-<enclosure url="https://image.theregister.com/?imageId=5305212&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305212&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200</link>
-<guid isPermaLink="false">372c83abd639006de805154d3f689df7f59a3072dca27006c5fa31e62f6f46ef</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 19:14:57 +0000</pubDate>
-<description>An independent evaluation of OpenAI's internal misalignment monitoring system revealed that the system was not fit for purpose during a period when the company's bots were breaking into model-hosting platform Hugging Face. The safeguards weren't nearly strong enough. "The METR and Redwood employees discovered a number of novel vulnerabilities in the asynchronous internal misalignment monitoring system as it existed on and before July 21st," said evaluation partners METR and Redwood Research in a report released on Thursday. The system, since improved according to OpenAI, was intended to monitor AI agent behavior. But as described by METR and Redwood Research, its monitoring capability was incomplete and could be bypassed by the agents it was supposed to monitor. Bypassing the system wasn't always necessary because it wasn't always operative. Monitoring was suspended, for example, during compaction events. Compaction is a process by which AI models condense the data in their context window to make room for further input. And between May and July 2026, about 10 percent of eligible internal Codex traffic went unmonitored during compaction, according to the report. That gap was theoretically large enough to allow AI agents to postpone monitoring indefinitely: agents could further suppress monitoring by continuing to take actions without returning control to the user. "At the time of the exercise, the monitoring system triggered when agents returned control to the user, so during the time period when compaction events were not being monitored, agents could indefinitely postpone being monitored by simply continuing to take actions," the report explains. This is not to say that OpenAI agents necessarily did so – the actions they did take, against Hugging Face and other organizations, have now been well documented. But OpenAI's internal monitoring system could easily have missed any misbehavior, were the company's AI agents inclined to conceal their activities – by acting during compaction – or simply to operate in system blind spots. The report continues in this vein, citing not only monitoring gaps but poorly constructed software – dare we say vibe-coded? – that gave OpenAI agents the means to evade the shoddy monitoring. "We found a way Codex agents could in principle bypass Codex sandboxing and Auto-Review, allowing them to take any action that the host user could take," the report says. "We also discovered an exploit agents could use that would prevent hundreds of recent actions (including the actions involved in the exploit itself) from being monitored." The details of this exploit were redacted by OpenAI, but to summarize: the monitoring system that missed some traffic could be avoided by agents that were constrained by a non-working sandbox and had access to an exploit to evade monitoring. But that's not all. The evaluators found that AI agents could craft inputs that caused monitoring to fail, that there were two client-controllable headers capa</description>
-<enclosure url="https://image.theregister.com/?imageId=5305204&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305204&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Android lets you ‘bubble’ apps for easy access now – how it works</title>

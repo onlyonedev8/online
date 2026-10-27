@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure</title>
+<link>https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure</link>
+<guid isPermaLink="false">850b4ba1bad3c14b70cd87b8faeacdbf9f527ddf2164d348cf6400740b165022</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 27 Oct 2026 21:28:22 +0000</pubDate>
+<description>VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZJHJBWY657RY1S76WDA6QD/hi-goldman-sachs-and-bitcoin-etf.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZJHJBWY657RY1S76WDA6QD/hi-goldman-sachs-and-bitcoin-etf.png" medium="image"/>
+</item>
+<item>
+<title>Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks</title>
+<link>https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks</link>
+<guid isPermaLink="false">09d78f13decf52e544156d8f341af2e7129e4684cac5e6f587a9a99f52e5bc8c</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 27 Oct 2026 21:26:41 +0000</pubDate>
+<description>More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZFFAG88SZ35M2BYEF2RBQK/hi-japan-stocks-explained.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZFFAG88SZ35M2BYEF2RBQK/hi-japan-stocks-explained.jpg" medium="image"/>
+</item>
+<item>
+<title>China's Stock Market Has Lost $2.4 Trillion as Investors Doubt Its AI Boom Will Ever Pay Off</title>
+<link>https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom</link>
+<guid isPermaLink="false">003f22b880245dc6877362bd37c0f767a2c5bbd5007a4529a7a6bab23b8b5311</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 27 Oct 2026 21:16:02 +0000</pubDate>
+<description>Stocks on China's mainland have shed about $2.4 trillion since May as investors doubt AI companies can turn a profit, while U.S. restrictions and high U.S. interest rates add pressure.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow</title>
 <link>https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets</link>
 <guid isPermaLink="false">674abc5d6b9b1ba782db72ef648e642f7a196def5b214ad894d227c85e40cc04</guid>
@@ -1093,17 +1126,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger</title>
-<link>https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger</link>
-<guid isPermaLink="false">680d299139f61a569ff2345201b814f74ed5c7ad2b7e745e6938b4efdcfb1879</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 11:39:27 +0000</pubDate>
-<description>The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VZBVYQC99NJGVW2H5K874Z/hi-why-tokenization-is-still-a-chimera.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VZBVYQC99NJGVW2H5K874Z/hi-why-tokenization-is-still-a-chimera.jpg" medium="image"/>
-</item>
-<item>
 <title>Israel's Central Bank Rebukes Netanyahu Plan to Use Crypto to Dodge Sanctions</title>
 <link>https://decrypt.co/381789/israels-central-bank-rebukes-netanyahu-plan-to-use-crypto-to-dodge-sanctions</link>
 <guid isPermaLink="false">8f5f180306897b98710742581dfe8ec5f2550aa1a254ddbc130738e0a88cb131</guid>
@@ -1124,28 +1146,6 @@
 <description>The bank flipped the script on how it approached data to enable artificial intelligence, said Hina Shamsi, CIO of wealth management technology.</description>
 <enclosure url="https://imgproxy.divecdn.com/KgpS1Zf7c1L5PInPWg5ZJFOpV0tiR2i4ndFDA7lKIac/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDY0MjgzMTk2LmpwZw==.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/KgpS1Zf7c1L5PInPWg5ZJFOpV0tiR2i4ndFDA7lKIac/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDY0MjgzMTk2LmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week</title>
-<link>https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week</link>
-<guid isPermaLink="false">085c794dcfe3684411c9969b9b72492736b5e7cb0d537ba8d82d1a236d91012f</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 10:49:55 +0000</pubDate>
-<description>Bitcoin bulls fought for $80,000 support over the weekend ahead of a heavy week of US tech earnings and inflation data.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VWYCQ5ATPVXMVHFJSGW9JY/coin-bitcoin-scream-price.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5VWYCQ5ATPVXMVHFJSGW9JY/coin-bitcoin-scream-price.jpg" medium="image"/>
-</item>
-<item>
-<title>Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks</title>
-<link>https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks</link>
-<guid isPermaLink="false">5163ce18942b895f4e4b097d7595eb2c4b40eccba1b2953b30ce4795c2fbca01</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Sun, 25 Oct 2026 16:01:03 +0000</pubDate>
-<description>Twenty-two companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, after Wells Fargo, Cisco, Marvell, Arm, Moderna. and Intuit joined the list.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-wells-fargo-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-wells-fargo-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Wells Fargo consolidates leadership of consumer bank</title>
