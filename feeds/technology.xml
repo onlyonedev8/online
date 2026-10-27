@@ -4,6 +4,116 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How</title>
+<link>https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades</link>
+<guid isPermaLink="false">60e1c423a25136d098ac5b72a1f20dbc9f4a7c0fd34856e40c8be41ed3be5f3c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:45:00 +0000</pubDate>
+<description>Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.</description>
+<enclosure url="https://media.wired.com/photos/6adf16c7cec2deb872010799/master/pass/PIA04816~large.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adf16c7cec2deb872010799/master/pass/PIA04816~large.jpg" medium="image"/>
+</item>
+<item>
+<title>Instagram Is a Streaming Service Now</title>
+<link>https://www.wired.com/story/instagram-is-a-streaming-service-now</link>
+<guid isPermaLink="false">15325ab3405e200bd0e0ea3ddeaaa56599191844582b95713b57cc33e00ab924</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:30:00 +0000</pubDate>
+<description>Instagram’s long-form video update is more than a swipe at YouTube. It’s an attempt to capture the clip economy.</description>
+<enclosure url="https://media.wired.com/photos/6ae06babed02f1088a5b33a4/master/pass/GettyImages-2239130168.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae06babed02f1088a5b33a4/master/pass/GettyImages-2239130168.jpg" medium="image"/>
+</item>
+<item>
+<title>Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls</title>
+<link>https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls</link>
+<guid isPermaLink="false">53aa6354733c66c450d38800fb2085138b519e1a8cb0ee641a590728e64b5884</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:15:00 +0000</pubDate>
+<description>From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents show up on Election Day.</description>
+<enclosure url="https://media.wired.com/photos/6adf98357bc34babe586eb7f/master/pass/GettyImages-2300207719.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adf98357bc34babe586eb7f/master/pass/GettyImages-2300207719.jpg" medium="image"/>
+</item>
+<item>
+<title>FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases</title>
+<link>https://www.theregister.com/os-platforms/2026/10/27/freebsd-founder-ports-omarchy-to-freebsd-in-ten-days-ten-releases/5305446</link>
+<guid isPermaLink="false">e53bf814c7a883d61d3692d2dde1b415afec1b0c1da93889658bffb15ff91987</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:15:00 +0000</pubDate>
+<description>Omarchy has already taken up plenty of our column inches, but a new tentacle is reaching into the hitherto untouched FreeBSD. Daemonarchy brings Omarchy's Wayland-based desktop to the BSD world. It's an independent effort by Jordan Hubbard, one of the original founders of the FreeBSD project, and it's unaffiliated with the original Linux-based Omarchy. We looked at Omarchy in August and didn’t like it much. It isn't exactly a Linux distribution. That implies it's a coherent set of packages managed as a whole by uniform tools. Omarchy is a collection of apps and preconfigured settings, packaged up with the help of LLM bots and put up for download. You have to update it using its own special script, rather than the standard tools of the underlying Arch Linux – and in our testing, that update script fell over with error messages when running in a VM. However, there's no such thing as a bad press, and Omarchy is popular and growing. It keeps on attracting sponsorship as well as new users migrating from Windows and macOS, who seem to relish its bizarre, inconsistent, and ad hoc UI as a challenge: trying to close a window in Hyprland, the tiling compositor that forms the core of Omarchy's UI. In Omarchy, windows don't have title bars, let alone anything as old-fashioned as window control buttons you can click. To close a window, you must use a keystroke. In most Linux windowing environments, that's the standard Alt-F4 . Not here. Next, we tried Super+W – on a Mac, that's Command+W , which has meant "close the window" since 1984 or so. Still no. We found an answer on Reddit – it's Super + C. Daemonarchy is not directly related. It's a collection of FreeBSD ports of the various tools and components that went into Omarchy, individually adapted to run on FreeBSD, and collected together into an installable ISO image. The current release is version 1.3.1 . Remarkably, in approximately 10 days, Daemonarchy has gone through 10 releases . Multiple packages are recent ports by jkh@freebsd.org – the email address of Jordan Hubbard. If the name rings a bell, he was one of the original founders of the FreeBSD project, and has had an interesting career in which he’s worked at various companies. The Register first mentioned him by name 25 years ago, when Wind River bought BSD/OS vendors BSDi . By the following year, Hubbard was at Apple , where he helped freshen up the BSD-based Unix layer underneath the new Mac OS X. In 2015, he helped launch the NextBSD project to modernize FreeBSD with Apple Darwin components, which as we reported in July was recently restarted. The new NextBSD effort is being built with the help of LLM coding assistants. As you might surmise from 18 new FreeBSD ports of Linux tools in a month, as well as from ten releases of the new OS bundle in as many days, Hubbard too is using LLMs to assist in this rapid development process: Daemonarchy’s GitHub repository contains both AGENTS.md and SKILL.md files, which point to Hubbard's own Literate AI pr</description>
+<enclosure url="https://image.theregister.com/?imageId=5305452&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5305452&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Eight great new indie horror games for Halloween</title>
+<link>https://www.theguardian.com/games/2026/oct/27/new-indie-horror-games-halloween</link>
+<guid isPermaLink="false">11f9ec36be3515226fa817a9a569ba33d943c9e1c8c56c0c116e2e0f2a8c8d7b</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:00:09 +0000</pubDate>
+<description>Whether you favour spooky fairtales, satanic card games or infernal hijinks at the chip shop there are all manner of fresh top scarers at large this witching season Tis almost All Hallows’ Eve and naturally, the thoughts of all good video game players are turning to horror. 2026 has already been a bloody good year for the genre with Resident Evil Requiem and Silent Hill: Townfall leading the rabble. But this autumn sees a festering surge of indie horror releases, featuring everything from cursed card games to Nazi-hunting penguins. Here are eight terrifying titles we think you should sample while jack-o-lanterns burn and spirits walk the moonlit streets. Allogloom (PC) Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/5c7f05da40cd83d5eeb4462753f4b75e00b57b1d/349_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab28c6ee210d78a0f7c89e0a0bcb020c" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/5c7f05da40cd83d5eeb4462753f4b75e00b57b1d/349_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab28c6ee210d78a0f7c89e0a0bcb020c" medium="image"/>
+</item>
+<item>
+<title>‘My social life completely plummeted’: gen Z is fighting back against big tech</title>
+<link>https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps</link>
+<guid isPermaLink="false">acf004f966ed977790ab3ed9515e076a408401ca6ce76bf83139416eb12888b1</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:00:08 +0000</pubDate>
+<description>From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Nelissa Moukoudi, 19, a university student in Canada, noticed a shift once she joined Instagram and TikTok. “My social life completely plummeted and it felt like my life was only [using] social media and school,” she said. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e19906e9d5ab9ed0fc84eecf015ce14" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e19906e9d5ab9ed0fc84eecf015ce14" medium="image"/>
+</item>
+<item>
+<title>CurrentBody Series 3 review: a fully customisable LED mask that helps exactly where you need it</title>
+<link>https://www.theguardian.com/thefilter/2026/oct/27/currentbody-series-3-review-tested-uk</link>
+<guid isPermaLink="false">fdf52da94413c041bd71948dcfe4b2b84df111ead7b62dcc0b3ce8fd9aa73926</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:00:07 +0000</pubDate>
+<description>With six light wavelengths and almost endless ways to combine them, CurrentBody’s latest sets a new standard for red light therapy devices • The best LED face masks CurrentBody’s LED masks have long been my favourite. They’re comfortable, simple to use and effective. My previous favourite, the now-discontinued CurrentBody Multi Light Therapy LED mask , offered five treatments that used different light wavelengths to address multiple skin concerns. The company’s latest mask, the new Series 3, has the most detailed customisable treatments I’ve ever seen. This isn’t the first LED mask I’ve tried that allows its user to select different treatments for different areas of the face. The Lustre Renew Pro Facewear allows you to choose from two treatments across four different zones, with 16 possible combinations. The Series 3 takes this much further, allowing you to choose between six light wavelengths across 125 light points on the mask. If you stick to one wavelength per light point, that’s 6 12 5 combinations available. That number is longer than I can reasonably comprehend, so allow me to call its level of customisation endless. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/295a125bf2c6e321ab1c8a534eb3515172a6d731/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8aad12e0e62bee95fa4a729b9a712b3" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/295a125bf2c6e321ab1c8a534eb3515172a6d731/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8aad12e0e62bee95fa4a729b9a712b3" medium="image"/>
+</item>
+<item>
+<title>Data center backlash is uniting America</title>
+<link>https://www.theverge.com/policy/1019152/data-centers-midterm-elections</link>
+<guid isPermaLink="false">10515f024c670e282247cef8d4c70ac78c63322329e7811bdf1294f1aa1eb21a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate>
+<description>If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional and gubernatorial campaigns. At the same time, tech money has been pouring into many of these races. Leading the Future, a super PAC backed by venture capitalist Marc Andreessen and OpenAI President Greg Brockman, has already spent $45 million in a year. And Public First Action, an Anthropic-backed group that … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>How to Hide Your Baby From the Government</title>
+<link>https://www.wired.com/story/the-rise-of-sovereign-babies</link>
+<guid isPermaLink="false">c5628589cc44309c11f42b3cf06587d4e9b08c42d468858e459eb8a0c37d09de</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate>
+<description>“Sovereign citizens” think they can live beyond the reach of the state. Now the movement has influencers—and they’re selling all sorts of anarchist courses to expectant families.</description>
+<enclosure url="https://media.wired.com/photos/6adf82fd71d0e77d563766d7/master/pass/WIRED-Ghost-Stories-sovereign-babies.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adf82fd71d0e77d563766d7/master/pass/WIRED-Ghost-Stories-sovereign-babies.jpg" medium="image"/>
+</item>
+<item>
+<title>Acer is bringing a Predator gaming handheld to the US for the first time</title>
+<link>https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price</link>
+<guid isPermaLink="false">73c8e33bd17b359e4cd260b514304019fd901e5d4e290cba7036a6c523849cab</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 09:54:22 +0000</pubDate>
+<description>It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld , but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively at Best Buy on November 1st, priced at $1,299.99. For that, the Atlas 8 provides Arc B390 graphics with 12 Xe3 GPU cores, paired with 24GB of LPDDR5x RAM. The 8-inch display runs at 120Hz, and the device comes equipped with dual-mode triggers, TMR joysticks, and the ability to be used for both handheld or docked setups. It runs Windows 11 and can be used with Xbox G … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks</title>
 <link>https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it</link>
 <guid isPermaLink="false">9a8915e4522d378bba15d4929844a006813e5576aa17d535602b0e5f925b1866</guid>
@@ -631,17 +741,6 @@
 <media:content url="https://www.engadget.com/img/gallery/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/l-intro-1793034748.jpg" medium="image"/>
 </item>
 <item>
-<title>Five weird details from Anthropic’s IPO filing</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</link>
-<guid isPermaLink="false">fe6583a778a0b30ba7d2d12bed072e66b2ae845103173ef85db34033dbd3341f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:10:23 +0000</pubDate>
-<description>Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to unpack, and some of the disclosures have not previously been reported. Here are some of the biggest things that jumped out to us from our first pass: It pays to be an Amodei Sibling co-founders Dario Amodei and Daniela Amodei are the two most highly-paid executives at Anthropic, according to the filing. Last year, CEO Dario's compensation … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs</title>
 <link>https://www.engadget.com/2297175/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees</link>
 <guid isPermaLink="false">8cbf7f620167268161c0b5d875f7fe198d04e78ea09e3602d8ce99f60a82a396</guid>
@@ -662,17 +761,6 @@
 <description>Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/trails-2.png" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/trails-2.png" medium="image"/>
-</item>
-<item>
-<title>Everything old is new again with the Fitbit Edge</title>
-<link>https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health</link>
-<guid isPermaLink="false">a605cb89972c49e43eb8a716a092300f70503f20244e2263085748a25889cbad</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:00:00 +0000</pubDate>
-<description>The bezels aren’t that noticeable with other watchfaces, but some things don’t change. Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective . "You know, someone once told me time is a flat circle. Everything we've done, or will do, we're gonna do over and over and over again." I assume most people aren't thinking about fitness trackers or gadgets while watching that scene. But in that moment, I couldn't help but think about the Fitbit Edge on my wrist. The $179.99 Edge is a modernized version of the 2014-to-2020 era of fitness bands - your Charges, your Altas, your Inspires. If you've ever owned one, you already know the va … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268783_Fitbit_edge_AKrales_0057.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268783_Fitbit_edge_AKrales_0057.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Fitbit Edge review: Google strikes the right balance</title>
@@ -917,6 +1005,17 @@
 <media:content url="https://image.theregister.com/?imageId=5295365&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism</title>
+<link>https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites</link>
+<guid isPermaLink="false">c07eb56e557593adc41a833cbd54f45af67eba0307f835f9e685b29d091827d0</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 12:00:41 +0000</pubDate>
+<description>Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California locals Locals in a rural area of California were recently startled to see dazzlingly bright light shining down from nearby mountains at night, illuminating a swathe of the desert below. Unbeknown to them, the strange nocturnal illumination was the latest step in a company’s plan to erect thousands of giant mirrors in space to reflect sunlight on to the Earth during night-time. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/7c7f30c6c0261f04d891e2564b27d085a9617055/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74613f5bc273cc8aa0ad4ebdf3efbb10" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/7c7f30c6c0261f04d891e2564b27d085a9617055/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74613f5bc273cc8aa0ad4ebdf3efbb10" medium="image"/>
+</item>
+<item>
 <title>Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall</title>
 <link>https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181</link>
 <guid isPermaLink="false">1f15e7373b2ef956b4197004acc9c06ae13f6818f0fea9767b3ebb1e29c289ab</guid>
@@ -1016,17 +1115,6 @@
 <media:content url="https://image.theregister.com/?imageId=5242717&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
-<link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
-<guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
-<description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
-<enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
-</item>
-<item>
 <title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
 <link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
 <guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
@@ -1036,6 +1124,17 @@
 <description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
 <enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
+</item>
+<item>
+<title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
+<link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
+<guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
+<enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
 </item>
 <item>
 <title>PHP2Shell is a warning shot for vulnerability disclosure</title>
@@ -1146,17 +1245,6 @@
 <description>Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in Love The owners of Elvis Presley ’s music catalogue are suing the artificial intelligence ( AI ) company Anthropic for allegedly using Presley’s songs to train their models without permission. Authentic Brands Group, the licensing organization that has ownership of both Presley’s music and likeness, is accusing Anthropic of infringing on the rights of 274 songs by Presley. The lawsuit, first reported by Billboard , was filed on Friday. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/84aa6ec87e3e6db19123ab53bff1786594581607/0_358_2832_2265/master/2832.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48225d94ea32369e7654e96ea05660a5" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/84aa6ec87e3e6db19123ab53bff1786594581607/0_358_2832_2265/master/2832.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48225d94ea32369e7654e96ea05660a5" medium="image"/>
-</item>
-<item>
-<title>‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report</title>
-<link>https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai</link>
-<guid isPermaLink="false">19ec18c1f5a85a7e1c66435e4801b6aa27052819a4174d1bdd05b2e7385d3295</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 14:00:06 +0000</pubDate>
-<description>State paid consultancy firm $166,000 for feasibility study on merging the three tertiary institutions Get our breaking news email , free app or daily news podcast The Western Australian government has said it is “extremely disappointed” and is seeking an “expedited” cost recovery from Deloitte after errors were discovered in a report about a potential university merger, including AI-hallucinated references and hundreds of millions of dollars in cost discrepancies. The government paid Deloitte $166,000 for a feasibility study on merging the University of Western Australia, Curtin University and Murdoch University. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/515a0bf6dc96a2183fa9f4bc90a2fbeac2d91271/391_144_3112_2491/master/3112.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ec7707ec80bedb5a77870efc9a048a8" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/515a0bf6dc96a2183fa9f4bc90a2fbeac2d91271/391_144_3112_2491/master/3112.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ec7707ec80bedb5a77870efc9a048a8" medium="image"/>
 </item>
 <item>
 <title>Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy</title>
@@ -1313,17 +1401,6 @@
 <media:content url="https://i.guim.co.uk/img/media/d704090ec1423450c012cae431933c0b4d4b1437/1425_927_4926_3943/master/4926.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9255eae8c64826adb1fc8ee8f14839bd" medium="image"/>
 </item>
 <item>
-<title>‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone</title>
-<link>https://www.theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone</link>
-<guid isPermaLink="false">3afeda9c4cad14f2594eee767c806390a52ee05e86f817b0e6c55e6e60cbf7ca</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 19:00:40 +0000</pubDate>
-<description>Athletes’ scramble to control – and monetise – their digital identities at the cutting edge of AI rights deals Get our new political email , free app or daily news podcast The Socceroos star stares at the camera as he strides through an enormous atrium, the sound of his football boots on polished concrete echoing around him. Suddenly, he spawns four digital clones that peel off out of view to re-emerge in different settings around the world. This scene from a social media video is fake and generated by artificial intelligence. But it has been authorised by the very real 22-year-old footballer, Cristian Volpato, the latest professional athlete to licence and monetise his AI likeness. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/15cf4bbae81d34c1e12101107eb8ac8c8eaadef2/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36f808928fceb138ef51c023382ec1f6" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/15cf4bbae81d34c1e12101107eb8ac8c8eaadef2/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36f808928fceb138ef51c023382ec1f6" medium="image"/>
-</item>
-<item>
 <title>Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds</title>
 <link>https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215</link>
 <guid isPermaLink="false">9b482db4e387a34d778765706bf715ab99ec17fdf37076a5df08ac6090fad79d</guid>
@@ -1388,17 +1465,6 @@
 <description>Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.</description>
 <enclosure url="https://media.wired.com/photos/6adb915b98f760e7b008b9de/master/pass/Pet%20Cameras%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adb915b98f760e7b008b9de/master/pass/Pet%20Cameras%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
-<title>The datacentre next door: on the frontline of tech’s latest David v Goliath battle</title>
-<link>https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle</link>
-<guid isPermaLink="false">3e8922c315573e9a1fd91b6dab42e360cafc46241961fb4ab57b46d7a1790a8e</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 11:00:32 +0000</pubDate>
-<description>The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfect autumnal sky – but almost his entire view is blotted out by a vast expanse of prefabricated panels. The 23 metre-high grey hulk looming over him and his neighbours is a hyperscale datacentre. It is heralded by the area’s Labour politicians as a job creator, yet all Johnston can think about is what he has lost: “Before, the sun used to come around here and it was lovely.” The way residents have been treated is “disgusting”. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/0373ee73af80c68fd75a9ab321de66de4801ad27/865_0_5902_4724/master/5902.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ada1a3c07b58c58f0534893c81f26bd0" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/0373ee73af80c68fd75a9ab321de66de4801ad27/865_0_5902_4724/master/5902.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ada1a3c07b58c58f0534893c81f26bd0" medium="image"/>
 </item>
 <item>
 <title>Ice sheet expansion may have started 2,000 years ago, but we canceled that</title>
@@ -1764,28 +1830,6 @@
 <media:content url="https://media.wired.com/photos/6ad8c933572fecfc421778e0/master/pass/102126-Split%20Tunneling.jpg" medium="image"/>
 </item>
 <item>
-<title>Turtle Beach Vulcan II XP Review: Clicky Compromise</title>
-<link>https://www.wired.com/review/turtle-beach-vulcan-xp-ii</link>
-<guid isPermaLink="false">746783690059bf29d8ca376173a76a28682992e72b6fb70aee4dcc01e3e3465d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 10:45:00 +0000</pubDate>
-<description>Great for typing and fine for gaming, but too many compromises keep this mechanical keyboard from leveling up your play.</description>
-<enclosure url="https://media.wired.com/photos/6ada67244d7b986a1aaead4e/master/pass/Turtle%20Beach%20Vulcan%20XP%20II%20SOURCE%20Matt%20Kamen.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada67244d7b986a1aaead4e/master/pass/Turtle%20Beach%20Vulcan%20XP%20II%20SOURCE%20Matt%20Kamen.jpg" medium="image"/>
-</item>
-<item>
-<title>TDM Neo Hybrid Headphones Review: Two-in-One Woes</title>
-<link>https://www.wired.com/review/tdm-neo-hybrid-headphones</link>
-<guid isPermaLink="false">49830758169292e400f32d098458dfbe0db77c71d8eb23649c52cdc5b10fb97f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 10:30:00 +0000</pubDate>
-<description>CES 2026 loved these innovative headphones that transform into a Bluetooth speaker. After living with them, I’m impressed by the engineering, but less impressed by the sound.</description>
-<enclosure url="https://media.wired.com/photos/6ada7a9b8628ec861188a3e4/master/pass/TDM%20Neo%20review%20102026%20top%20art%20(3)%20SOURCE%20TDM.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada7a9b8628ec861188a3e4/master/pass/TDM%20Neo%20review%20102026%20top%20art%20(3)%20SOURCE%20TDM.jpg" medium="image"/>
-</item>
-<item>
 <title>BOFH: I talked to Claude and he says you're an idiot</title>
 <link>https://www.theregister.com/bofh/2026/10/23/bofh-i-talked-to-claude-and-he-says-youre-an-idiot/5304921</link>
 <guid isPermaLink="false">82a9a9da2722a5884318d6e5860baf6fc90739c40d15c00b06c11a129be2e043</guid>
@@ -1795,28 +1839,6 @@
 <description>Working in the same place for what feels like millennia can have its benefits, however working for the same place for what seems like millennia carrying over all the benefits of your original contract can be even better than that. Some of those benefits are, admittedly, useless to me. I'm unlikely to avail myself of the Company-reimbursed landline (that all on-call personnel are entitled to), and I won't be needing the 2400bps modem or the VT100 for after hours support. The one month pregnancy leave is also off the cards. What is in play, however, as the PFY has recently discovered, is accumulated sick leave. It appears that we've been racking up two weeks a year to a point that I now have sufficient sick leave to safely get leprosy. Obviously, I'm not going to exercise that particular option, but both the PFY and I have been considering roads not taken in recent times... ... "Ahh... Just, um, following up on your recent, uh, illnesses." The Boss asks uneasily. "Oh yes?" I ask. "This, uh, acute bronchitis a few Fridays back." "Oh yeah, it was terrible," I lie. "Hacking cough, not pleasant at all. I was wheezing like a coal-fired Trabant." "And that particular illness lasted... a single day?" "Apparently," I say. "All good now though." "And Stephen. He had acute... otitis media around the same time." "The ear thing?" I respond. "Yes, apparently it really affected his balance." "Okay, fair enough. But then you had acute sinusitis on the Monday? And Stephen had asthma on the Tuesday?" "Yes, that sounds about right." I nod. "Then.. Back spasms for you last Friday and campylobacter for Stephen on Monday?" "I blame myself. I carried a large Vindaloo banquet for six back to work on the Wednesday night. The PFY took the leftovers back home for dinner following day. He's never been great with food hygiene." "And then I see fibromyalgia for you and food poisoning for Stephen?" "Yeah, like I said, he's not that great with food hygiene. He tends to follow the five minute rule." "Hmm. And is there any reason why you seem to be getting sick in... uh... alphabetical order?" the Boss asks. "It's as much a mystery to you as to me," I admit, making a mental note to vary things a bit. "Illness seems to be attracted to us like a hippy to a salt lamp." "And, uh, no medical certificate for any of these illnesses?" the Boss enquires. "I checked with Claude, and he told me that according to my contract I'd only need a med cert for a three-or-more-days illness." "You have been ill for more than three days. Just yesterday you had conjunctivitis." "Firstly, I believe it's contiguous sick days, and secondly, the conjunctivitis was so bad it would have been irresponsible to drive to the doctor..." "And yet your eyesight was sufficient for you to type in questions to Claude?" the Boss asks, astutely. "Oh no, I spoke to Claude." It's a bit early to be calling check-mate at this stage, but I have to admit to feeling smug. "The actual wording of your contract indicates that the</description>
 <enclosure url="https://image.theregister.com/?imageId=5304926&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5304926&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married</title>
-<link>https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married</link>
-<guid isPermaLink="false">e1d96a8a5344c140803efc20d542fc91e51b2d9f19ba317b6ef6ff9dda558743</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 10:15:00 +0000</pubDate>
-<description>Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.</description>
-<enclosure url="https://media.wired.com/photos/6ad9497f7fa1a6118ccee279/master/pass/Culture_Despite%20Being%20Bad%20at%20Dating,%20A%20Lot%20of%20Gen%20Z%20Really%20Wants%20to%20Get%20Married_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad9497f7fa1a6118ccee279/master/pass/Culture_Despite%20Being%20Bad%20at%20Dating,%20A%20Lot%20of%20Gen%20Z%20Really%20Wants%20to%20Get%20Married_v1.jpg" medium="image"/>
-</item>
-<item>
-<title>What Type of Mattress Is Right for You? (2026)</title>
-<link>https://www.wired.com/story/mattress-types-explained-2026</link>
-<guid isPermaLink="false">1e3c3d5fa7864982dc8a16f23ad2db6a290bd5cffaa12d71e646a26407e91217</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 10:08:00 +0000</pubDate>
-<description>Here’s how to pick the best mattress for your sleep needs, straight from a professional mattress tester.</description>
-<enclosure url="https://media.wired.com/photos/6ada561615aedf0df959752a/master/pass/What%20Type%20of%20Mattress%20Is%20Right%20for%20You%20102026.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada561615aedf0df959752a/master/pass/What%20Type%20of%20Mattress%20Is%20Right%20for%20You%20102026.jpg" medium="image"/>
 </item>
 <item>
 <title>Is a job guarantee the solution to mass AI unemployment?</title>
@@ -1872,17 +1894,6 @@
 <description>Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AI As the Ultra enters its fourth year as Apple’s biggest and beefiest smartwatch it gets the best kind of spec upgrade – longer battery life – while waiting for something potentially more transformative. That’s because several of the key features announced as part of Apple’s new smartwatch lineup for 2026 have yet to be enabled, awaiting updates towards the end of this year. That leaves the £749 (€899/$799/A$1,349) Apple Watch Ultra 4 the top dog, but basically the same as last year’s model . Case size: 49 x 44mm Case thickness: 12mm Weight: 63g Processor: S11 Storage: 64GB Operating system: watchOS 27 Water resistance: 100 metres (10ATM) Connectivity: Bluetooth 5.3, wifi 4, 5G RedCap/4G, UWB Sensors: HR, ECG, spO2, temp, depth, dual-band GPS, compass, altimeter Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/4f1356823052f403fc9b5a13c8f45e5e5aa596d6/1367_680_4321_3456/master/4321.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8aac3a9548af9cd855e43b87385cd12a" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/4f1356823052f403fc9b5a13c8f45e5e5aa596d6/1367_680_4321_3456/master/4321.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8aac3a9548af9cd855e43b87385cd12a" medium="image"/>
-</item>
-<item>
-<title>Windows said modem worked fine. That unmistakable scorched electronics smell suggested otherwise</title>
-<link>https://www.theregister.com/personal-tech/2026/10/23/windows-said-modem-worked-fine-that-unmistakable-scorched-electronics-smell-suggested-otherwise/5304375</link>
-<guid isPermaLink="false">7c54bca2debc2d8b96fea13846cd2915110f20b38e6ae1e945b6c00f893a39c5</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 05:26:00 +0000</pubDate>
-<description>Energy can be hard to find on Friday mornings, which is why The Register uses them to offer a fresh instalment of On Call – the reader-contributed column that shares your hopefully empowering tech support stories. This week, meet a reader we’ll Regomize as “Lachlan,” who told us he once did tech support for a senior exec who had a side hustle writing essays for Japanese university students attending UK universities. The exec asked Lachlan for help diagnosing a sudden inability to send or receive email, an obvious hindrance to the side hustle. This story took place in the dialup age, so Lachlan sensibly assumed that the exec’s modem was misbehaving. “I checked the network settings, nothing wrong there,” he told On Call. Next, he checked the cables, and if the line the modem used had a dial tone. Again, all was well. “At this point I decided to make sure the device was correctly installed in Windows Device Manager,” Lachlan wrote. “I had a lot of experience in the dark arts of serial communications and there was an option in the advanced settings in Device Manager to send a series of low level AT commands to the modem, which would return responses.” He ran the tests, and Windows reported that the modem was in the pink of health. With all that done, Lachlan decided the time had come to replace the modem. “When I opened the PC, I got a faint whiff of that unmistakable scorched PCB smell,” he wrote. “By looking at the modem you couldn’t normally see if any of the chips were faulty. In this case there was a black soot mark in the shape of the voltage regulator chip which sits between the phone line and the sensitive chips on the modem.” “This was to protect the device from the 70V line voltage BT used to create a phone connection,” he explained. “However, in this instance the chip had been vaporized. That wasn’t just a slight over voltage – this was way higher.” Lachlan asked the exec when his email had stopped working, and if he could recall any recent electrical storms. He replied by saying his email stopped working while he watched a really impressive display of lightning. “That voltage regulator chip sacrificed itself for the greater good,” Lachlan wrote. Has Windows failed to find an obvious fault? Or has lightning lightened your load? In either case, click here to send your story to On Call so we can electrify your fellow readers on a future Friday. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=263048&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=263048&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game</title>
@@ -1982,17 +1993,6 @@
 <description>Five new Blink cameras are coming to the market, and the extended-range model has all my attention.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Blink-Frontier-XR_BLK_1600x900-copy.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Blink-Frontier-XR_BLK_1600x900-copy.jpg" medium="image"/>
-</item>
-<item>
-<title>‘The audience gets to be in on it’: How narrative-led gameplay is Call of Duty’s greatest weapon</title>
-<link>https://www.theguardian.com/games/2026/oct/21/pushing-buttons-call-of-duty-modern-warfare-4</link>
-<guid isPermaLink="false">f57d2f2209a5f3491b744eceb761d6bd3a8b60bbdaacf797d5f986f4c1f0c7b6</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 14:00:21 +0000</pubDate>
-<description>As video games chase spectacle, Modern Warfare 4 makes a case for putting character and consequence at the heart of its biggest battles • Don’t get Pushing Buttons delivered to your inbox? Sign up here In these strange, subdued weeks before the much-anticipated release of Grand Theft Auto VI, there have still been some welcome surprises. Onimusha: Way of the Sword revived a half-forgotten samurai action series with much aplomb, while Silent Hill: Townfall transported all of the franchise’s bloody, dread-filled psychological horror to … the picturesque Scottish coast. Even more shocking to games writers , though, is the fact that the forthcoming Modern Warfare 4 has one of the best Call of Duty campaign modes for at least six years – and might even be up there with the original Modern Warfare trilogy. The setting is an invasion of South Korea by its northern neighbour – a setup that could have fuelled a hundred instantly forgettable Netflix films, but has proved controversial in a video game. The authoritarian regime has a new (fictitious) ruler and a powerful experimental weapon, which it’s not afraid to use as the opening gambit in an explosive attack. You take on the role of Park Hyun Jun, a conscripted South Korean soldier who, along with his small unit of similarly inexperienced grunts, gets caught in the firestorm as cities burn and enemy paratroopers fill the skies. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/aadca8b8e8a16323ad37c7be1f9c2e7e409cc7c9/493_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c68ec510b9385261e792a2b43566baf1" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/aadca8b8e8a16323ad37c7be1f9c2e7e409cc7c9/493_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c68ec510b9385261e792a2b43566baf1" medium="image"/>
 </item>
 <item>
 <title>ServiceNow and Nvidia launch Arc, a new AI agent for enterprise</title>
