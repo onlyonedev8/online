@@ -4,6 +4,94 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>4 drawbacks you should know before buying an Xbox Series X</title>
+<link>https://www.engadget.com/2295682/drawbacks-you-should-know-before-buying-xbox-series-x</link>
+<guid isPermaLink="false">d4ff7947e0028411c8c5c2cb16ae0f25a9e66d17540152e3f14fa44f7f5bd624</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 12:45:00 +0000</pubDate>
+<description>The Xbox Series X has had some stumbles, so you should be aware of its faults before picking one up.</description>
+<enclosure url="https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-an-xbox-series-x/l-intro-1792781267.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-an-xbox-series-x/l-intro-1792781267.jpg" medium="image"/>
+</item>
+<item>
+<title>Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording</title>
+<link>https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability</link>
+<guid isPermaLink="false">b4bbcfafe3cabce9514a7f068ae8cc70d7bd6e2b3d8a7fa281dd87ba0345b26b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 12:31:33 +0000</pubDate>
+<description>Look at that big, beautiful touchscreen. | Image: Fujifilm Fujifilm is trying to find the right balance of fun and photography with its latest hybrid instant camera. Like its predecessor, the Instax Mini Evo 2 feels less like a retro gimmick, and more like a basic digital camera that just happens to have a built-in printer. It also enjoys some key upgrades: a larger 1/2.77-inch sensor compared to the 1/5-inch sensor on the first Mini Evo , a bigger 4.5-inch rear display with touchscreen controls, and basic video recording too - though only the few seconds leading up to a photo. Video is limited in other ways compared to modern standards - the MP4 clips can only be saved to a microSD card (though the … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Fujifilm-Instax-Mini-Evo-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Fujifilm-Instax-Mini-Evo-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft releases out-of-band Windows fixes with certificate updates</title>
+<link>https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637</link>
+<guid isPermaLink="false">82768a208e5cbea148460475ca41870fb19e78dc4999e7d658b68110c7b817a9</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 12:30:00 +0000</pubDate>
+<description>Microsoft has released another out-of-band update for Windows, but this one isn't an emergency fix for the latest breakages. This time, it's all about certificates. The non-security out-of-band release applies to supported OSes ranging from Windows 11 and Windows Server 2025, to Windows 10. It's all about updating the current certificate trust list (CTL) of devices that cannot access Microsoft's certificate-update service, or where automatic CTL updates are disabled. It also contains everything in the October 13 update, including the ongoing VPN issues and the change that could break on-premises Exchange Servers . There might also be oddities with Smart App Control, audio, and Remote Desktop connections for non-admin users, all of which are known issues in the October 13 update. These problems are not resolved in this patch, so be aware of this when installing it. It is also worth remembering that many devices will not need this version since the current certificate list updates usually come down through the update service. However, if that service isn't available or being used, it might be a good idea to get this out-of-band fix (while keeping the known issues in mind), since problems can occur when verifying certificates used by applications or websites. The OOB update came after Microsoft laid out its response to the compromised eMudhra certificate keys. The Indian certification authority's private keys were compromised earlier this month, requiring a massive cleanup effort. According to Microsoft, "they could potentially be used to create certificates or sign content that appeared to come from a trusted CA [certificate authority]." Like many other organizations, Microsoft moved swiftly to block the affected certificate authorities. It did so by updating its Windows Disallowed Certificate Trust List to block the affected certificates. There was also a separate CRLSet release for Edge and WebView2. According to the Windows behemoth, "On October 26, Microsoft released an out-of-band Windows update that removes seven certificates associated with the affected hierarchies: six eMudhra G3 roots and an AAA Certificate Services cross-sign, from the Windows trust list." Microsoft's out-of-band patches are usually released after the company breaks a product and needs to issue an emergency fix. This time, the revision is due to Somebody Else's Problem and a need to get a CTL update out to devices that are disconnected from CTL updates. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5302230&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5302230&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>I tried Windows 11’s customizable right-click menu – and it’s a much-needed change</title>
+<link>https://www.zdnet.com/tech/windows-11-customizable-right-click-menu</link>
+<guid isPermaLink="false">147c9e37689ea89b7604c160640bb3e1574baa032a07e570db5c9e3067910b9b</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 12:17:55 +0000</pubDate>
+<description>The latest Windows Insider build lets you add, remove, and manage commands in the right-click menu so it’s less crowded and confusing.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-right-click-menu.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-right-click-menu.jpg" medium="image"/>
+</item>
+<item>
+<title>Here's how much your older Samsung phones are actually worth</title>
+<link>https://www.engadget.com/2295544/older-samsung-phones-how-much-actually-worth</link>
+<guid isPermaLink="false">25a6f6948c3c329d57c546884dab21d334d7ec3b0b6334842c9f74cc5a698780</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 12:15:00 +0000</pubDate>
+<description>You have options for selling your old Samsung phone, depending on how much hassle you'll tolerate for more cash.</description>
+<enclosure url="https://www.engadget.com/img/gallery/heres-how-much-your-older-samsung-phones-are-actually-worth/l-intro-1792776180.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/heres-how-much-your-older-samsung-phones-are-actually-worth/l-intro-1792776180.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA plans to launch three massive rockets for the Artemis 3 crewed lunar test mission</title>
+<link>https://www.engadget.com/2298015/nasa-plans-to-launch-three-massive-rockets-for-the-artemis-3-crewed-lunar-test-mission</link>
+<guid isPermaLink="false">32734e3c3a00125ade8abb7e540dff2a0075390bc1219f4bbf3a943c3d3b6300</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 11:58:00 +0000</pubDate>
+<description>NASA has detailed how the next Artemis 3 test will happen, but it doesn't have a concrete date for it yet.</description>
+<enclosure url="https://www.engadget.com/img/gallery/nasa-plans-to-launch-three-massive-rockets-for-the-artemis-3-crewed-lunar-test-mission/l-intro-1793101991.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nasa-plans-to-launch-three-massive-rockets-for-the-artemis-3-crewed-lunar-test-mission/l-intro-1793101991.jpg" medium="image"/>
+</item>
+<item>
+<title>Acer's Predator Atlas 8 gaming handheld finally launches at Best Buy on November 1 for $1,300</title>
+<link>https://www.engadget.com/2298013/acer-predator-atlas-8-gaming-handheld-comes-to-best-buy-on-november-1-for-1300</link>
+<guid isPermaLink="false">2f2272bed38fb447de7c3197dacbfcdb3af5b91dda0fb65a4bfcdceac5f3d7fb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 11:50:55 +0000</pubDate>
+<description>The Predator Atlas 8 gaming handheld PC is coming to the US after all on November 1st for $1,300.</description>
+<enclosure url="https://www.engadget.com/img/gallery/acers-predator-atlas-8-gaming-handheld-finally-launches-at-best-buy-on-november-1-for-1300/l-intro-1793101845.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/acers-predator-atlas-8-gaming-handheld-finally-launches-at-best-buy-on-november-1-for-1300/l-intro-1793101845.jpg" medium="image"/>
+</item>
+<item>
+<title>Attack on email hosting provider for German far right party AfD exposed 345k accounts</title>
+<link>https://www.theregister.com/cyber-crime/2026/10/27/attack-on-email-hosting-provider-for-german-far-right-party-afd-exposed-345k-accounts/5305660</link>
+<guid isPermaLink="false">58024c0a0ed34238d1cd066ab4d1e93dfe540799f8c7b4ac6cd77746ddba31d6</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 11:49:30 +0000</pubDate>
+<description>The cyberattack on Alternative for Germany (AfD), the country’s most prominent far-right political party, exposed hundreds of thousands of confidential emails and attachments, as well as more than 345,000 unique email addresses. Have I Been Pwned confirmed the scale of the breach for the first time today, after AfD officially disclosed the September attack on its hosting provider last week. AfD said in its statement that “only a few email accounts were illegally copied,” but admitted a large amount of the data was taken from them, resulting in an extensive data breach. The emails were added to what the party described as “an activist website,” which summarised the email chains into searchable topics and has led to the publication of various revelations, such as a party co-leader’s opinions on colleagues’ “deeply problematic” racial discourse . Per a report from investigative journalist Lilith Wittmann, citing conversations with the cybercriminals responsible for the hack-and-leak job and party sources, the attack was first spotted on September 9 and started with a compromise of a poorly protected WordPress site. The same report claimed the criminals gained persistent access to the servers operated by the hosting provider, identified as AfD-owned Alternita Dienstleistungs GmbH, and exfiltrated more than a terabyte of data. No official sources have verified the hackers’ claims about how the attack unfolded. The Register contacted Alternita Dienstleistungs for its take. AfD said the owners of the affected email accounts have been notified, and that it reported the attack to security authorities. “We are deeply concerned by what has happened,” the party said in an October 20 statement. “Such a digital attack is illegal and a criminal offense. Furthermore, it is an attack on the German party system and thus on democracy. “We are extremely worried that, apparently, the content of the stolen documents was analyzed using a very rudimentary AI. This analysis focused on keywords, not the context. The alleged scandals published so far do not stand up to scrutiny – a fact that, thankfully, is being confirmed by a growing number of commentators on social media.” Among the AI-generated summaries compiled by the “activist site” are chains supposedly expressing views related to Holocaust denial, racist and antisemitic rants, the 9/11 disaster, forged documents, and more. Der Spiegel sifted through the raw files and reported that party leader Alice Weidel seemingly knew about illegal donations related to the 2017 federal elections weeks before she previously said she did. The AfD's position is that the AI summaries of the emails are not to be trusted, but it has not specifically commented on the veracity of the raw email files available for download via torrent. It did not immediately respond to our request for input, but has told reporters previously that it will not comment on whether the emails, or the stories that have been written based on them, are to be tr</description>
+<enclosure url="https://image.theregister.com/?imageId=261340&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=261340&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Sterling Anderson doesn’t think humanoid robots should be building cars</title>
 <link>https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy</link>
 <guid isPermaLink="false">39655e31353f84b6eb7952c336cb059bfa208bdeac5e9192193c25cd77bb31ee</guid>
@@ -15,15 +103,15 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300740947.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Slate teams up with Smarties to add candy colors to its EV trucks</title>
-<link>https://www.engadget.com/2295050/slate-ev-smarties-candy-color-wraps</link>
-<guid isPermaLink="false">70493dfc746180ca32ccc6699713821f87b17c32401c62b9c78ac2e2835f4ec1</guid>
-<source>Engadget</source>
+<title>AI Agents Are Media’s New Favorite Audience</title>
+<link>https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience</link>
+<guid isPermaLink="false">4d7746a3bca6ecc8e96bad0512108e7424ea31866950e7810c1d05590600d49b</guid>
+<source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
-<description>Fancy making your Slate EV look like halloween candy? Now you can.</description>
-<enclosure url="https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg" medium="image"/>
+<description>As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.</description>
+<enclosure url="https://media.wired.com/photos/6adfd6269b54dbfcc0225ffd/master/pass/business_ai_agents_media_audience.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adfd6269b54dbfcc0225ffd/master/pass/business_ai_agents_media_audience.jpg" medium="image"/>
 </item>
 <item>
 <title>20 Years of MacBook: How Apple shaped the laptops we use today</title>
@@ -35,6 +123,17 @@
 <description>Apple has influenced everything from unibody laptop cases to high-res screens.</description>
 <enclosure url="https://www.engadget.com/img/gallery/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/l-intro-1793042760.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/l-intro-1793042760.jpg" medium="image"/>
+</item>
+<item>
+<title>Slate teams up with Smarties to add candy colors to its EV trucks</title>
+<link>https://www.engadget.com/2295050/slate-ev-smarties-candy-color-wraps</link>
+<guid isPermaLink="false">70493dfc746180ca32ccc6699713821f87b17c32401c62b9c78ac2e2835f4ec1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
+<description>Fancy making your Slate EV look like halloween candy? Now you can.</description>
+<enclosure url="https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg" medium="image"/>
 </item>
 <item>
 <title>UK ministers had plenty of time for AI datacenter bosses, but none for environmental groups</title>
@@ -241,7 +340,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 05:00:04 +0000</pubDate>
-<description>The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively impact its business. The company’s investor prospectus, released Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential risks of the technology to the reality of its current business: explosive but incredibly expensive growth. The filing to US financial regulators, known as an S-1, provides the public’s first look at an audited version of Anthropic’s finances. Continue reading...</description>
+<description>The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively affect its business. The company’s investor prospectus, released on Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential risks of the technology to the reality of its current business: explosive but incredibly expensive growth. The filing to US financial regulators, known as an S-1, provides the public’s first look at an audited version of Anthropic’s finances. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da1c47be63305de9e2c1558a4f679961" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da1c47be63305de9e2c1558a4f679961" medium="image"/>
 </item>
@@ -395,7 +494,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Mon, 26 Oct 2026 22:36:06 +0000</pubDate>
-<description>On Monday, Microsoft said it will offer voluntary buyouts to eligible employees in select parts of the company. CNBC reports that the buyouts will be offered to roughly 60,000 employees , or about a quarter of its global workforce. The company describes the offer as an opportunity for employees who may have already been considering career moves outside Microsoft. While Microsoft did not give a direct reason for the buyout package, it comes as the company has spent the last several years managing costs amid investment in AI infrastructure and data-center buildout. Microsoft will extend the voluntary exit offer (VEO) to qualifying employees in the United States, India, Canada, and the United Kingdom. Microsoft employees at level 70 or below will be eligible for the buyout program. The company's employee rankings are internal, but according to the salary and career database Levels.fyi , levels 65–67 correspond to principal positions, and 68–70 are at the partner/distinguished level. According to Chief People Officer Amy Coleman, eligible organizations were selected "based on each business’s priorities, customer commitments and workforce needs." The effort is the second time Microsoft has run a voluntary workforce reduction in 2026. In April, the company offered its first voluntary retirement package to 8,750 US employees. In July, the Xbox division laid off 3,200 employees , or about 20 percent of its entire gaming division. As reported by CNBC , about 30 percent of eligible employees accepted the retirement offer, lessening the impact of the planned layoffs, according to Coleman. While the offer in April went out to long-tenured employees who might be nearing the end of their career, the VEO expands the effort to a much larger potential pool. Read full article Comments</description>
+<description>On Monday, Microsoft said it is offering voluntary buyouts to eligible employees in select parts of the company. CNBC reports that the buyouts will be offered to roughly 60,000 employees , or about a quarter of its global workforce. The company describes the offer as an opportunity for employees who may have already been considering career moves outside Microsoft. While Microsoft did not give a direct reason for the buyout package, it comes as the company has spent the last several years managing costs amid investment in AI infrastructure and data-center buildout. Microsoft will extend the voluntary exit offer (VEO) to qualifying employees in the United States, India, Canada, and the United Kingdom. Microsoft employees at level 70 or below will be eligible for the buyout program. The company's employee rankings are internal, but according to the salary and career database Levels.fyi , levels 65–67 correspond to principal positions, and 68–70 are at the partner/distinguished level. According to Chief People Officer Amy Coleman, eligible organizations were selected "based on each business’s priorities, customer commitments and workforce needs." The effort is the second time Microsoft has run a voluntary workforce reduction in 2026. In April, the company offered its first voluntary retirement package to 8,750 US employees. In July, the Xbox division laid off 3,200 employees , or about 20 percent of its entire gaming division. As reported by CNBC , about 30 percent of eligible employees accepted the retirement offer, lessening the impact of the planned layoffs, according to Coleman. While the offer in April went out to long-tenured employees who might be nearing the end of their career, the VEO expands the effort to a much larger potential pool. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg" medium="image"/>
 </item>
@@ -730,17 +829,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Apple acknowledges iPhone Duo display &amp;#8216;issue&amp;#8217; after reports of cracked screens</title>
-<link>https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack</link>
-<guid isPermaLink="false">c5d956352473047a2026f854ad3a71c9477c62aea8b54be1e9aaccb39df40396</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:28:07 +0000</pubDate>
-<description>Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of "an issue impacting the inner display" on a "small number of iPhone Duo units." If your iPhone Duo is affected, Apple says to contact AppleCare for a replacement. Here is the full statement, which Apple's Alex Kirschner shared with The Verge : The response to iPhone Duo from early users has been incredibly positive, and we are seeing exciting things from developers who are rapidly updating their apps to take advantage of its uniq … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Highway thieves are spoofing GPS to steal millions in data center-bound cargo</title>
 <link>https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo</link>
 <guid isPermaLink="false">f64be88c708343055ae6de40370615314ed5b816e214b30fb5e01653ccb14e6e</guid>
@@ -774,17 +862,6 @@
 <media:content url="https://www.engadget.com/img/gallery/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/l-intro-1793034748.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs</title>
-<link>https://www.engadget.com/2297175/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees</link>
-<guid isPermaLink="false">8cbf7f620167268161c0b5d875f7fe198d04e78ea09e3602d8ce99f60a82a396</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:10:23 +0000</pubDate>
-<description>That's over a quarter of the company's global workforce.</description>
-<enclosure url="https://www.engadget.com/img/gallery/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees-as-an-attempt-to-trim-costs/l-intro-1793034359.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees-as-an-attempt-to-trim-costs/l-intro-1793034359.jpg" medium="image"/>
-</item>
-<item>
 <title>Github competitor Entire is live now – how the agent-first platform works</title>
 <link>https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge</link>
 <guid isPermaLink="false">2af20c824aa95b467a5d94694d2e4960f97a65d0685b280da95d9e4ed581251d</guid>
@@ -794,17 +871,6 @@
 <description>Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/trails-2.png" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/trails-2.png" medium="image"/>
-</item>
-<item>
-<title>Fitbit Edge review: Google strikes the right balance</title>
-<link>https://www.engadget.com/2296678/fitbit-edge-review</link>
-<guid isPermaLink="false">dc557e27bad4d07e912c0ebcb65b4f579c8a7a5a932d2f33a2647cc5151374e1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:00:00 +0000</pubDate>
-<description>Want a beautiful tracker with a screen but don't want AI on your wrist? The Fitbit Edge is perfect for you.</description>
-<enclosure url="https://www.engadget.com/img/gallery/fitbit-edge-review-google-strikes-the-right-balance/l-intro-1793021088.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fitbit-edge-review-google-strikes-the-right-balance/l-intro-1793021088.jpg" medium="image"/>
 </item>
 <item>
 <title>Reddit's r/opensource bans AI slop, and quite a few humans for good measure</title>
@@ -829,17 +895,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Here's how much it would cost to build a PC similar to the Xbox Series X</title>
-<link>https://www.engadget.com/2294342/how-much-build-pc-similar-xbox-series-x</link>
-<guid isPermaLink="false">714888c045e7c9b27b347dca522f470c53a4c9a8b674a276d84e44499ec94ffd</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 16:45:00 +0000</pubDate>
-<description>An Xbox Series X isn't cutting-edge tech anymore, but it's still costly to build a similar PC due to high part prices.</description>
-<enclosure url="https://www.engadget.com/img/gallery/heres-how-much-it-would-cost-to-build-a-pc-similar-to-the-xbox-series-x/l-intro-1792687287.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-how-much-it-would-cost-to-build-a-pc-similar-to-the-xbox-series-x/l-intro-1792687287.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple’s new OLED iPad Mini is the upgrade I’ve been waiting for – here’s why</title>
 <link>https://www.zdnet.com/tech/apple-launches-new-ipad-mini-with-oled-screen-why-im-getting-one</link>
 <guid isPermaLink="false">1905e56af83a93a321858f3bb66ff8f898a6257707d374299e54da77fcba09b4</guid>
@@ -860,17 +915,6 @@
 <description>Market debut of firm behind Claude chatbot will be one of largest in US history, a test of AI boom’s financial viability Anthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history. The company’s float on the US market will serve as a test of the financial viability of the multitrillion-dollar AI boom. Analysts and investors have valued the San Francisco-based company, founded in 2021, at more than $1.5tn. The company, which will will list under the symbol ANT, confidentially filed with US financial regulators for an initial public offering in June. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/315_0_4582_3666/master/4582.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9914fec0bb36a1b6ae6255ecf735efa" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/315_0_4582_3666/master/4582.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9914fec0bb36a1b6ae6255ecf735efa" medium="image"/>
-</item>
-<item>
-<title>How do apps on the HomeView work, and what does CarPlay have to do with it?</title>
-<link>https://www.engadget.com/2294307/how-homeview-apps-work-what-carplay-have-to-do-with-it</link>
-<guid isPermaLink="false">0009967f86f2203f27e0cc7a753892dc9cfb184b136d691bfbd418f185bd38bf</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 16:15:00 +0000</pubDate>
-<description>The HomeView won't have its own App Store, but there's another method for using compatible third-party apps on the display.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-do-apps-on-the-homeview-work-and-what-does-carplay-have-to-do-with-it/l-intro-1792422085.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-do-apps-on-the-homeview-work-and-what-does-carplay-have-to-do-with-it/l-intro-1792422085.jpg" medium="image"/>
 </item>
 <item>
 <title>UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest</title>
@@ -1850,28 +1894,6 @@
 <description>An old idea springs anew as a chorus of influential voices predicts that AI may trigger crises of vast magnitude In a preface to his book Capitalism and Freedom, the American economist Milton Friedman famously observed that a crisis can propel once-fringe ideas into the political mainstream. “Only a crisis – actual or perceived – produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around,” he wrote. The job of intellectuals, thinktanks and economists, he argued, is to refine the quality of these ambient ideas, so that good ones are ready when disaster strikes. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/5d838343b80e3163461a99b84753451e52e54078/724_0_7211_5773/master/7211.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62ea69ec368ae2b57aa377a6071ec4fb" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/5d838343b80e3163461a99b84753451e52e54078/724_0_7211_5773/master/7211.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62ea69ec368ae2b57aa377a6071ec4fb" medium="image"/>
-</item>
-<item>
-<title>UK threatens subsea cable saboteurs with 14 years behind bars</title>
-<link>https://www.theregister.com/networks/2026/10/23/uk-threatens-subsea-cable-saboteurs-with-14-years-behind-bars/5304794</link>
-<guid isPermaLink="false">fb71f91baa20acf044f454305d76458534e8c8c00f0944374354744f9b67ac07</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 09:29:00 +0000</pubDate>
-<description>Britain is threatening subsea cable saboteurs with up to 14 years in prison and unlimited fines, having apparently decided that Victorian-era laws aren't quite up to the job of keeping Russian submarines away from critical infrastructure. The government on Thursday set out plans to overhaul legislation dating back to 1885 and introduce tougher penalties for damaging the underwater cables and pipelines that keep Britain's internet and energy supplies running. According to Whitehall, subsea cables carry around 99 percent of the UK's international data traffic, while underwater pipelines account for 74 percent of its gas supply. Yet much of this infrastructure is protected by laws written when the telegraph was cutting-edge technology. The Submarine Telegraph Act 1885 originally imposed a £100 maximum fine for damaging a cable through culpable negligence. That might have been a reasonable deterrent back then, but it's unlikely to give today's would-be saboteurs much pause. Under the proposals, those who intentionally damage critical subsea energy or telecoms infrastructure could face up to 14 years behind bars. The proposals also set tougher penalties, including unlimited fines, for reckless or negligent damage. Subsea telecoms operators would face new legal duties to identify and manage security risks, while ministers would gain powers to direct companies and cable repair providers to take action where necessary and proportionate to protect national security. The government also wants to regulate fiber-optic sensing technology, which uses subsea cables to detect activity at sea but could pose a security risk if sensitive data falls into hostile hands. Unsurprisingly, Russia features prominently in Whitehall's thinking. In April, British forces exposed a covert Russian submarine operation near critical undersea infrastructure. The operation reportedly involved an attack submarine acting as a decoy while two specialist vessels surveyed Britain's cable routes. "The threats we face have changed dramatically, with suspicious Russian activity around critical undersea infrastructure, yet some of the laws protecting these vital connections date back more than a century," said telecoms minister Ian Murray. The plans aren't entirely new. In May, the government announced its intention to toughen penalties and introduce security obligations for cable operators. Thursday's White Paper spells out the proposed penalties and how far ministers could go in directing operators to act. It also follows warnings from Parliament's Joint Committee on the National Security Strategy, which concluded last year that Britain was insufficiently prepared for a coordinated attack on its subsea infrastructure. MPs and peers warned that government assessments focused too heavily on individual cable failures, rather than what might happen if attackers simultaneously targeted connections to Europe and across the Atlantic. Russian submarines aren't responsible for every severed cable.</description>
-<enclosure url="https://image.theregister.com/?imageId=243380&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=243380&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Beware the claw: Do you want to win the bunny or reboot Android?</title>
-<link>https://www.theregister.com/offbeat/2026/10/23/beware-the-claw-do-you-want-to-win-the-bunny-or-reboot-android/5304172</link>
-<guid isPermaLink="false">556eb3dcb03dadd2c159f7ed942b9ae1f7ddff939e7e2d9c6571fdc8b606bbfb</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 08:30:00 +0000</pubDate>
-<description>Today's victim of the bork fairy is a claw machine that even Android seems to have rejected for its alleged unfairness. And Google, as we all know, is all about fairness. Eagle-eyed Register reader Scott spotted the stricken machine in an arcade adjacent to a roller rink, a place our reader visited with a friend and described as "something my currently bruised body reminds me I hadn't done for about 20 years." We assume they were talking about roller-skating, and not the exertions of accompanying their pal. The machine itself is a recent iteration of the infamous claw machine, which has spent a century emptying players' pockets in exchange for frustration and the very occasional reward of tat. Infamously, the devices are sometimes rigged so the claw's strength varies between turns, and in several parts of the world, gambling laws cover the machines. However, the only gambling to be done here is on whether or not Android will boot. Like so many players in the past, the machine has lost this bet, and an Android Recovery Console is on show. We're not sure who lennie022 is – perhaps a user or perhaps some corporate account – but the words "release-keys" probably don't belong on top of the device. They're unlikely to entice any everyday players to part with cash. The usual recovery menu is hidden thanks to the dimensions of the screen. If something like this comes up on a mobile device, the volume up and down buttons tend to be used for navigation. In this case, the joystick is presumably the only I/O method, and the selected option would be pot-luck. Which, we guess, is the whole point. More discreet is the screen below the machine which, rather than encourage a player to grip the sweaty handle, is now plaintively asking for some removable storage (we've seen enough electronic gizmos to know what those pictograms mean) on a blue background that would bring a tear to the eye of many a Microsoft engineer. In fact, something that looks a bit like a blue screen of death and a borked Android? Perhaps this combination would lure an engineer to the controls… Sure, there's no obvious place to stick removable storage or attach a keyboard. But a waggle of the joystick couldn't hurt, could it? Perhaps one more? Dammit. Now we're restarting Android, when all we wanted was that pink bunny. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5304176&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5304176&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Apple Watch Ultra 4 review: longer battery life but still awaiting new features</title>
