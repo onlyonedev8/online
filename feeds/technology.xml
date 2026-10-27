@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why some iPhone apps don't appear in Apple CarPlay</title>
+<link>https://www.engadget.com/2295883/why-some-iphone-apps-dont-appear-carplay</link>
+<guid isPermaLink="false">894e7f72b83740373b614ba971c650f44cb43663052a6e46ed9fdd47ef7a3fcd</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 14:45:00 +0000</pubDate>
+<description>The CarPlay experience comes down to the apps, but most of what's on your phone aren't compatible for various reasons.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-some-iphone-apps-dont-appear-in-apple-carplay/l-intro-1792786994.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-some-iphone-apps-dont-appear-in-apple-carplay/l-intro-1792786994.jpg" medium="image"/>
+</item>
+<item>
+<title>CISA confirms PHP2Shell under attack as researchers clock successful exploits</title>
+<link>https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681</link>
+<guid isPermaLink="false">091b6fd3c9263560f459c929be934cd866e6341a66dbd6c74d0cdd4eb70b29f6</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 14:45:00 +0000</pubDate>
+<description>The US government's cybersecurity watchdog has confirmed attackers are exploiting both critical PHP2Shell vulnerabilities, giving federal agencies three days to patch the bugs that have wreaked havoc across the web over the past week. CISA added CVE-2026-109618 and CVE-2026-109619 to i ts Known Exploited Vulnerabilities (KEV) catalog on Monday , setting an October 29 deadline for federal civilian agencies to address the flaws. The move marks a shift from last week, when the agency warned of the danger posed by PHP2Shell but said it had not yet observed successful exploitation in the wild. Both bugs are rated 9.2 on the CVSS scale and can be exploited without authentication to run code on vulnerable PHP servers. That's bad news given how much of the web still relies on PHP, and just how many sites could be left exposed. Patches landed on October 21, but attackers had already beaten the maintainers to it. AWS spotted attempts to exploit the flaws as early as October 17 , four days before the bugs were publicly disclosed. CISA's confirmation comes amid growing evidence that attackers are doing more than simply knocking on the door. On October 24, Perplexity security researcher Adel Karimi recorded 35 successful shell executions across three honeypots running PHP 8.4.26 under Apache mod_php. The attacks came from two IP addresses and used memory exhaustion and disclosure to achieve remote code execution. The attackers then tried to contact external servers using PHP, curl, and wget, although no additional malware was successfully downloaded. Karimi's findings were consistent with exploitation of CVE-2026-109618, but he found no evidence that the second PHP2Shell flaw was involved. He also warned that the honeypots used a favorable single-worker configuration, so the results don't necessarily reflect how reliably the exploit works against production servers. Still, attackers appear to be giving it a good go. Delft University's Threat Intelligence Lab has tracked more than 50,000 PHP2Shell exploitation requests from over 600 IP addresses across 70 countries. Of those, 171 addresses went beyond probing for vulnerable servers and started sending exploit code or malware droppers. CISA's confirmation also comes after some of the earlier reports of successful PHP2Shell attacks turned out to be rather premature. Sophos walked back its initial assessment after determining that the activity it observed amounted to scanning and failed attempts, while Palo Alto Networks withdrew claims linking the vulnerabilities to an intrusion at a European government agency. CISA has not disclosed which organizations have been compromised or provided details of the attacks behind its decision to add the flaws to KEV. The listing confirms that the agency considers both vulnerabilities actively exploited, but it does not confirm how many production systems have been successfully breached. For federal agencies, the clock is now ticking. CISA is also urging organizations outside</description>
+<enclosure url="https://image.theregister.com/?imageId=5305685&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5305685&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Everything Apple announced this week so far: New iPad and MacBooks</title>
+<link>https://www.engadget.com/2298220/everything-apple-announced-ipad-macbook-pro-and-tell-event</link>
+<guid isPermaLink="false">358a1c1d0d4d344d76838bbef5a3385fe51d193bd4becf6c68b0919c89a3e54e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 14:23:09 +0000</pubDate>
+<description>Ahead of its 'Pro and Tell' event, the company has already launched a few new devices.</description>
+<enclosure url="https://www.engadget.com/img/gallery/everything-apple-announced-this-week/l-intro-1793108609.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/everything-apple-announced-this-week/l-intro-1793108609.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic's political problem will get worse before it gets better</title>
+<link>https://www.engadget.com/2298214/anthropics-political-problem-will-get-worse-before-it-gets-better</link>
+<guid isPermaLink="false">4f42f30f0110d65fcfbcab24e00f55d16f479d4db209ecd1316c1db0625429ec</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 14:16:27 +0000</pubDate>
+<description>With the midterms closing in, its IPO paperwork reveal a company rightly worried about its regulatory future.</description>
+<enclosure url="https://www.engadget.com/img/gallery/anthropics-political-problem-will-get-worse-before-it-gets-better/l-intro-1793110492.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/anthropics-political-problem-will-get-worse-before-it-gets-better/l-intro-1793110492.jpg" medium="image"/>
+</item>
+<item>
+<title>‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film</title>
+<link>https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan</link>
+<guid isPermaLink="false">683f624d4c614a2ed3a5dafacebe9be700973cc2b5c632cfb0a9e4bf214d3144</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 14:08:41 +0000</pubDate>
+<description>Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbuster Elon Musk has released an AI-generated rival to Christopher Nolan’s The Odyssey after pledging to make a version “true to the art of Homer”. Having criticised the hit movie in the summer, the tycoon said he would use Grok Imagine to make a “historically accurate” adaptation. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/f5bb844cbf76398948b5d3efa0fb0e79205a0c23/408_0_1983_1586/master/1983.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10eb8ba141933821012eaff5dbbcdf4e" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/f5bb844cbf76398948b5d3efa0fb0e79205a0c23/408_0_1983_1586/master/1983.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10eb8ba141933821012eaff5dbbcdf4e" medium="image"/>
+</item>
+<item>
+<title>We&amp;#8217;ve had touchscreen laptops for years. Can Apple make them better?</title>
+<link>https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions</link>
+<guid isPermaLink="false">8eaafdb81b28b5ac99e5f2e51d9d92694aacf9325be26b071af7ea09211e8da7</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
+<description>Seeing the light on touchscreen laptops. | Photo by Amelia Holowaty Krales / The Verge A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its "Pro and Tell" event . A laptop with a touchscreen should be no big deal - we've had them for ages. But Apple took a hardline stance against them. In addition to Tim Cook's infamous 2012 quote equating it to combining kitchen appliances , Steve Jobs emphatically dismissed touchscreen laptops as "ergonomically terrible" back in 2010 , saying, "Touch surfaces don't want to be vertical." The closest Apple got was the MacBook Pro Touch Bar, from 2016 t … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24371430/236492_MacBook_Pro_16__2023__AKrales_0090.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24371430/236492_MacBook_Pro_16__2023__AKrales_0090.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>A whopping 3% of boardroom execs spy productivity and costs savings from AI</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/27/a-whopping-3-of-boardroom-execs-spy-productivity-and-costs-savings-from-ai/5305675</link>
+<guid isPermaLink="false">af1edd224c02ed9324a7b8fd5ed6b4ffc69492fd1e59febe1a9b9071e091bfd7</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
+<description>Three-quarters of corporate board members expect AI to deliver productivity gains and cut costs, yet only three percent of organizations have hit their targets, according to researchers at Gartner. The figures came out of the analyst’s HR Symposium, where it also reported that 38 percent of companies are over budget on AI spending, and 85 percent still plan to spend even more next year. "Ultimately, organizations will not generate cost savings from AI at this point," said CV Viverito, senior director analyst for Gartner's HR practice. "The greater opportunity is to use AI to do things that weren't possible before, such as shifting employee time into new capabilities, outcomes, and sources of growth." Gartner claims that at least 75 percent of biz leaders are out of step with the broader organization on where AI creates value, which stalls transformation efforts and muddies how to position the workforce and bag those returns. Organizations should concentrate AI on the work that matters most to the business, with HR helping execs to agree on the top bets based on strategy, Gartner advises. Companies should also spread existing AI expertise across the business rather than wait to hire scarce specialists, and give managers room to redesign the work around the technology, it adds. Only about one in five employees' time is freed-up by AI, letting them redirect toward more innovative work, the HR Symposium heard. “There isn’t a struggle to create capacity, that’s happening already as organizations redesign work,” claimed Viverito. “What organizations are struggling with is how to make that capacity usable and redirecting it to what is valuable.” That starts - or so we're told - by giving employees the skills to take on higher-value, AI-enabled work, which, of course, means spending more on training. The takeaway is that getting a return on AI projects is harder than expected, and companies are going to have to stick with it and be prepared to institute changes in the way they and their staff work before they see any tangible benefits. A recent Forrester report concluded that AI will likely account for 20 percent of all business technology spend next year , yet more than half of CIOs are likely to miss their ROI targets for the technology Another piece of research from KPMG earlier this year found that most UK business leaders aim to keep AI at the top of their spending priorities even if it isn’t working , with 65 percent planning to maintain investment whether they see immediate measurable returns or not. How long that resolve lasts is an open question. Private equity giant Apollo Global Management is the latest to raise doubts, noting this week that the "Magnificent Seven" tech giants are reaping the rewards of all that AI spending, while the rest of the S&amp;P 500 has seen no sign of AI boosting productivity growth. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5305717&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5305717&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Apple is adding an AI chatbot to Pages, Keynote, and Numbers</title>
 <link>https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</link>
 <guid isPermaLink="false">77387043f69a853ed6d450642ef16a5b4f3c276f36c99523416a225602ef41d0</guid>
@@ -44,8 +121,8 @@
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 13:25:44 +0000</pubDate>
 <description>It offers more cores and more performance per core than the iMac M5.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/l-intro-1793109446.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/l-intro-1793109446.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/l-intro-1793110400.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/l-intro-1793110400.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple has updated the 14-inch MacBook Pro with an M6 chip</title>
@@ -55,8 +132,8 @@
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 13:23:27 +0000</pubDate>
 <description>Sadly, the 16-inch MBP is still stuck with older M5 silicon.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/l-intro-1793109285.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/l-intro-1793109285.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/l-intro-1793109958.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/l-intro-1793109958.jpg" medium="image"/>
 </item>
 <item>
 <title>A jailbroken PlayStation 5 can play PS2 discs, but Sony is giving users a tough choice</title>
@@ -87,7 +164,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 13:05:26 +0000</pubDate>
-<description>Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, ahead of Apple's "Pro and Tell" event that's scheduled to take place on Wednesday, giving Apple's all-in-one desktop computer a performance boost via the same chipset it launched with the Mac Mini in August . Prices start from $1,499, and the design otherwise appears largely unchanged. This refresh comes two years after Apple gave the iMac a colorful M4 overhaul , meaning we're skipping the M5 series entirely on this hardware. That should make this upgrade more meaningful. The M6 is Apple's first 2nm chip and includes a dual 16-core Neural Engine that can … Read the full story at The Verge.</description>
+<description>This is the same marketing image Apple used for the M4 iMac, only the display on the far left now shows a different game. | Image: Apple Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, giving Apple's all-in-one desktop computer a performance boost via the same chipset Apple launched with the Mac Mini in August . Prices start from $1,499, and the design otherwise appears largely unchanged. The update was announced ahead of Apple's "Pro and Tell" event that's scheduled to take place on Wednesday. This refresh comes two years after Apple gave the iMac an overhaul with M4 chips , meaning we're skipping the M5 series entirely on this hardware. That should make this upgrade more meaningful. The M6 is Apple's first 2nm chip and includes a dual … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-iMac-with-M6-hero-261027.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-iMac-with-M6-hero-261027.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -112,6 +189,17 @@
 <description>Twelve South has announced a new version of its Airfly dongle that simplifies the pairing process when connecting wireless headphones to devices that don't natively support Bluetooth. Instead of having to decode flashing or color-changing LEDs, the new Airfly View adds a built-in screen that displays instructions for each step of the pairing process in one of 24 different languages including Japanese, Arabic, Portuguese, and Polish. The Airfly View is available starting today for $79.99 and includes a carrying case and an adapter for connecting the dongle's short 3.5mm headphone cable to an airplane's split headphone jack. That makes it one … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/airfly1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/airfly1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Ford’s sub-$30K electric truck puts the home backup inverter right inside the vehicle</title>
+<link>https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost</link>
+<guid isPermaLink="false">d85d86f01176ebdc158664e92f9386edff7ac3b2345d69e8c74a67341ef4917b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
+<description>We're still a few months away from the official reveal of the Ford Fathom , the automaker's first next-generation electric vehicle. While we wait, Ford has been whetting our appetite with news about the sub-$30,000 pickup - including today's announcement about the Fathom's bidirectional charging capabilities. With an increasing number of EVs coming out with bidirectional vehicle-to-home (V2H) or vehicle-to-load (V2L) charging capabilities, Ford is trying to position the Fathom as a key entrant - and one that simplifies the system by making it an everyday reality rather than a $10,000 luxury perk. Unlike the discontinued F-150 Lightning, wh … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ford-Fathom-Camo.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ford-Fathom-Camo.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Palmer Luckey’s Anduril is getting into laptops — and claims they&amp;#8217;ll be American-made</title>
@@ -351,7 +439,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 10:00:08 +0000</pubDate>
-<description>From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Nelissa Moukoudi, 19, a university student in Canada, noticed a shift once she joined Instagram and TikTok. “My social life completely plummeted and it felt like my life was only [using] social media and school,” she said. Continue reading...</description>
+<description>From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Gen Z voters: tell us what is guiding your vote in the US midterm elections? Nelissa Moukoudi, 19, a university student in Canada, noticed a shift once she joined Instagram and TikTok. “My social life completely plummeted and it felt like my life was only [using] social media and school,” she said. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e19906e9d5ab9ed0fc84eecf015ce14" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e19906e9d5ab9ed0fc84eecf015ce14" medium="image"/>
 </item>
@@ -387,17 +475,6 @@
 <description>“Sovereign citizens” think they can live beyond the reach of the state. Now the movement has influencers—and they’re selling all sorts of anarchist courses to expectant families.</description>
 <enclosure url="https://media.wired.com/photos/6adf82fd71d0e77d563766d7/master/pass/WIRED-Ghost-Stories-sovereign-babies.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adf82fd71d0e77d563766d7/master/pass/WIRED-Ghost-Stories-sovereign-babies.jpg" medium="image"/>
-</item>
-<item>
-<title>Acer is bringing a Predator gaming handheld to the US for the first time</title>
-<link>https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price</link>
-<guid isPermaLink="false">73c8e33bd17b359e4cd260b514304019fd901e5d4e290cba7036a6c523849cab</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 09:54:22 +0000</pubDate>
-<description>It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld , but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively at Best Buy on November 1st, priced at $1,299.99. For that, the Atlas 8 provides Arc B390 graphics with 12 Xe3 GPU cores, paired with 24GB of LPDDR5x RAM. The 8-inch display runs at 120Hz, and the device comes equipped with dual-mode triggers, TMR joysticks, and the ability to be used for both handheld or docked setups. It runs Windows 11 and can be used with Xbox G … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks</title>
@@ -752,17 +829,6 @@
 <media:content url="https://image.theregister.com/?imageId=236947&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Apple adds more Siri AI tools in its 27.2 system updates, out today</title>
-<link>https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today</link>
-<guid isPermaLink="false">b9c97f7498a88e839e15ba740cf8a280c4615c1d9127369a75c2f08e3115a211</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 19:47:56 +0000</pubDate>
-<description>Apple has rolled out software updates for all its platforms today.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-adds-more-siri-ai-tools-in-its-27-2-system-updates-out-today/l-intro-1793044016.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-adds-more-siri-ai-tools-in-its-27-2-system-updates-out-today/l-intro-1793044016.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now</title>
 <link>https://www.wired.com/story/apple-airtag-deal-october-2026</link>
 <guid isPermaLink="false">4a2f12f0a631b28b2225aec6c4494e175a90030b1652b7f18a1442e3dc23d649</guid>
@@ -785,17 +851,6 @@
 <media:content url="https://i.guim.co.uk/img/media/c698617819e1a690d07c1616d74825b6af7e7a69/179_0_5355_4284/master/5355.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3eb258b3a8650db0c21fc7c52a415081" medium="image"/>
 </item>
 <item>
-<title>Ghost of Yōtei studio Sucker Punch reportedly lays off 24 workers</title>
-<link>https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers</link>
-<guid isPermaLink="false">eaf2974d4416667b91a26b758d90cc4df39334cdd2d7bfbc59e3b3c41bab02ef</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 19:15:34 +0000</pubDate>
-<description>Developer Sucker Punch just released a well-received expansion for Ghost of Yōtei a few weeks ago.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ghost-of-ytei-studio-sucker-punch-lays-off-24-workers/l-intro-1793042059.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ghost-of-ytei-studio-sucker-punch-lays-off-24-workers/l-intro-1793042059.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple reveals updated iPad mini with a bigger OLED screen for $700</title>
 <link>https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700</link>
 <guid isPermaLink="false">5eac376f852d690ad4cc2faeaa6e3e73ceeacda011c37dc103ae93d2f339e202</guid>
@@ -805,17 +860,6 @@
 <description>The iPhone Duo may be a bit of a risk right now , but there's a new mid-size Apple touchscreen device that might do the job. Starting at $699, the 8th-gen iPad mini price has gone up, but there are some big changes. Apple says the refreshed 8th-gen iPad mini marks the most significant update ever for its petite tablet, featuring an OLED screen and the A20 Pro chip that we first saw in the iPhone 18 Pro and iPhone Duo. The new iPad mini has roughly the same footprint as the 2024 release, but the display is slightly larger thanks to a 24 percent reduction in bezel thickness. The device is almost a full millimeter thinner than the last iPad, coming in at just 5.4 mm. The chassis is also IP67 rated for water and dust protection. The 7th-Gen iPad mini didn't have any official IP rating. The 8.5-inch Super Retina XDR display (up from 8.3 inches) moves on from the IPS technology of the last-gen device to adopt OLED. That means dapper blacks and a much higher peak brightness—1,200 nits versus just 500 nits for the previous mini. It can also manage 1-nit minimum brightness so as not to sear your retinas in a dark room. There will also be a nano-textured matte display option. The display experience on the new mini should be much more in line with what we've come to expect from Apple's Pro-level devices. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-iPad-mini-hero-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-iPad-mini-hero-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple responds to reports of the iPhone Duo's inner display cracking</title>
-<link>https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking</link>
-<guid isPermaLink="false">013986e52bdec216bf6b4870652a01eb8f62e2daa75a03c2bcaf3680e5f6664a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 18:52:02 +0000</pubDate>
-<description>Impacted users can contact AppleCare for a replacement.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/l-intro-1793044721.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/l-intro-1793044721.jpg" medium="image"/>
 </item>
 <item>
 <title>ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees</title>
@@ -838,17 +882,6 @@
 <description>The Edge is a welcome upgrade for longtime Fitbit users, but the missing NFC technology is a puzzling regression.</description>
 <enclosure url="https://media.wired.com/photos/6adf55bb4342ac0de5548459/master/pass/Google%20Fitbit%20Edge%20Review%20102026%20top%20art%20SOURCE%20Google.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adf55bb4342ac0de5548459/master/pass/Google%20Fitbit%20Edge%20Review%20102026%20top%20art%20SOURCE%20Google.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts</title>
-<link>https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts</link>
-<guid isPermaLink="false">f805951fdf8d14c66cb7570c7a8b389ff1b0021def0c8480f33f25807d18270b</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 18:44:31 +0000</pubDate>
-<description>Tech company offers buyouts in an effort to reduce costs amid the rising use of AI, according to reports Microsoft announced that it would offer buyouts to 60,000 employees in an effort to reduce costs amid the rising use of artificial intelligence, according to reports, the latest example of how AI is reshaping tech companies and the greater workforce. This is the latest of several trimmings Microsoft has made to its workforce this year. The company announced in April that it was offering voluntary retirement to about 7% of its US workforce, which consisted of about 125,000 employees at the time. Its global workforce is made up of about 223,000 workers globally. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/f36458784b93fd8a4087d457a37e08ed2b9790d0/665_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f752505af59a3145919f7a7230c0344" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/f36458784b93fd8a4087d457a37e08ed2b9790d0/665_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f752505af59a3145919f7a7230c0344" medium="image"/>
 </item>
 <item>
 <title>Musk accuses Ukraine of violating Starlink terms with deadly drone strikes</title>
@@ -1850,28 +1883,6 @@
 <description>SparkyOS is a novel distro from the folks behind SparkyLinux: it's a version of Arch that can you can use without installing it at all. SparkyOS is a new distro from the team behind the Debian-based SparkyLinux, but it's quite different. SparkyOS is based on Arch, and it runs entirely from USB. It's not a conventional live medium – this is a full local install, but shipped as an image of a USB key that you can boot and run. It comes with the Xfce desktop and an array of apps. The idea is that you can boot and run it on any x86-64 UEFI computer, entirely from a USB key, without touching the hard disk at all. This is quite different from its forerunner, which is a relatively conventional Debian-based distro, one which The Register has mentioned a few times over the years: first back in 2015 in a lightweight distro roundup , and more recently in 2024 when we praised its array of desktop environments . Earlier this year, we noted that the latest SparkyLinux featured a complete 32-bit edition , even though its parent distro has dropped its 32-bit x86 kernel . This is also not your typical live distro. Unless you're running on some Arm computer with nonstandard firmware, most Linux distros install from an image written to a USB pendrive, the same way that they did decades ago: in the noughties when they installed from a DVD, and back in the 20th century, when it was a CD instead. Most optical media use some form of the ISO standard 9660 filesystem , which is quite limited – despite multiple extensions, the core is a basic structure comparable to the ancient MS-DOS FAT. That's not much use for Linux, which needs long filenames, permissions, and metadata, plus things like symbolic links. So, to this day, most live Linux media have a few boot files and the OS itself is kept inside a big compressed file called a SquashFS , inside which is a real Linux filesystem. However, because it's inside something akin to a Zip file, it's read-only. You can't update the OS or add new software. Some live media optionally offer persistence , which stores changes in another separate file. That works, but if you update the OS, all the original pre-update files remain untouched, and new ones are stored in the persistence structure in addition to the space still consumed by the originals. So, it's slow, and it's very inefficient; it takes substantially more space than a conventional disk install. So, although there are dozens, maybe hundreds, of live Linux media images out there, most fall into one of two types of single-purpose product: either stripped-out special-purpose distros, such as SystemRescue, GParted Live, and Grml , or Rescuezilla , or Clonezilla . Alternatively, it's a full OS, but only meant as a sampler, not for daily use, with limited and inefficient tools for updates and changes. We're not sure if twice counts as a FAQ, but there are questions on StackExchange on how to install Ubuntu to USB as well as how to install Debian to USB . SparkyOS is an answer to</description>
 <enclosure url="https://image.theregister.com/?imageId=5305105&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5305105&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>PubKeep picks up where Microsoft Publisher signs off</title>
-<link>https://www.theregister.com/applications/2026/10/23/pubkeep-picks-up-where-microsoft-publisher-signs-off/5304978</link>
-<guid isPermaLink="false">3824ba177da79fbd1fbf6c20ea90133da175e314c09a7174701523b895d84416</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 13:34:00 +0000</pubDate>
-<description>Microsoft ended support for Publisher this month, but users with orphaned documents still have options. Support for perpetual versions ended on October 13, but those copies will keep working without further security updates, bug fixes, or technical support. Publisher left Microsoft 365 subscriptions on October 1, although existing installations may remain accessible until removal updates arrive. Those start reaching Current Channel devices in mid-November and Monthly Enterprise Channel devices in early December. Microsoft first let users know in 2024 that the venerable application would be scrapped, and the Windows behemoth offered little comfort to those who needed it. Microsoft suggested Word and PowerPoint as alternatives, but neither directly opens Publisher's .pub files. The Document Foundation, the organization behind LibreOffice, was quick to point users toward LibreOffice Draw , which uses the libmspub library to import Publisher files and can save them in OpenDocument Format (ODF). Other alternatives aim to recreate more of the Publisher experience. Adam Anderly, founder of Texas-based Saint Systems, created PubKeep to replace Microsoft's application. PubKeep is proprietary, with no plans to open source the code. But it doesn't require a subscription: a one-time payment of $99 buys the application. The application runs on Windows or macOS, and a lightweight browser version is available. It looks a lot like Publisher, and can handle files from Publisher 2000 through 2021. Publisher 97 and 98 are also supported, but the files are sent to a conversion service (with the user's approval) to be converted to a newer format, so anybody worried about data leaving their local device should think carefully before opening those older files. Anderly told The Register that the project began after users expressed alarm about losing access to decades of files because of Microsoft's plans. The first challenge was the file format itself. He said: "Microsoft never published a spec for the .pub format. It did document some of the pieces Publisher is built on: the OLE compound file container, the document properties, and the Office Drawing records used for shapes and pictures. For everything else, we used libmspub, the Document Liberation Project's open source parser behind LibreOffice's Publisher import, as a reference. "Our testing showed it had gaps, so we wrote our own engine in TypeScript. The same engine runs in the desktop app and in the browser. From there we built a test harness around Publisher itself. We assembled a corpus of real-world .pub files. An evaluation engine renders each file two ways, through Publisher's own PDF export and through our engine, and compares the output page by page, so every change we make is scored against Publisher." He added: "For the parts no one had documented, we made small, controlled changes to documents in Publisher and studied how the saved files changed. A licensed perpetual copy of Publisher on a Windows machi</description>
-<enclosure url="https://image.theregister.com/?imageId=5242280&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5242280&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Musk disputes NASA safety panel's lunar launch estimates</title>
-<link>https://www.theregister.com/science/2026/10/23/musk-disputes-nasa-safety-panels-lunar-launch-estimates/5304961</link>
-<guid isPermaLink="false">e2d6fe758d1eb57c896cccbce0e47b802bd4950cb5a65eff4cfed6fac3baea13</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 12:29:00 +0000</pubDate>
-<description>NASA's safety watchdog, the Aerospace Safety Advisory Panel (ASAP), had good news and bad news for the space agency, and SpaceX boss Elon Musk quickly disagreed with some of it. Musk disputed the reported suggestion that approximately 22 launches might be needed to support a landing by the Human Landing System (HLS) variant of Starship on the Moon. "That's way too high," Musk responded on X. "Actual number will be more like 6 to 8." The US lunar landers being developed for Artemis require refueling in space, meaning additional launches to deliver propellant before astronauts can head to the surface. During Apollo, a single Saturn V launch was enough to send a fully fueled Lunar Module to the Moon. The problem is demonstrating reliable transfers of cryogenic propellant between spacecraft at the scale these heavier, more complex landers require. Apollo's Lunar Module used hypergolic propellants instead. To date, SpaceX has managed one Starship test flight to orbit. Many more will undoubtedly follow, but if the launch figure cited by the panel is accurate, Musk's rocketeers face a challenging road ahead. Even with the rescoping that made Artemis III a low Earth orbit demonstration of lunar technologies from Blue Origin and SpaceX in 2027, the Artemis program remains ambitious, particularly considering the desire to get humans on the lunar surface before President Trump leaves office. ASAP praised Artemis II and NASA's new administrator, Jared Isaacman, but raised concerns about future access to low Earth orbit. SpaceX's plans to phase out Falcon rockets and Dragon spacecraft could complicate any extension of International Space Station (ISS) operations and the launch of its deorbit vehicle. Then there is Boeing's Calamity Capsule, Starliner. Last month, a possible uncrewed launch date around December 2026 was mooted , but the panel now puts the earliest possible launch in mid-January 2027, with the schedule still under review. An end to Dragon operations could leave Starliner as the only commercial option for getting astronauts to and from the ISS, not quite the redundancy NASA hoped for, and a stark reminder that commercial businesses aren't required to provide services indefinitely and can change direction when their contracts end. There is also only one US alternative to the cargo variant of Dragon: Northrop Grumman's Cygnus. An international cargo alternative is JAXA's HTV-X. Russia continues to carry crews on Soyuz spacecraft and cargo on Progress freighters, but NASA has long sought US alternatives. A written report is due early next year, doubtless with plenty of observations and recommendations. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=1684260&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1684260&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Is a job guarantee the solution to mass AI unemployment?</title>
