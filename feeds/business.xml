@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Zcash co-founder proposes ending grants funding, citing $125 million treasury</title>
+<link>https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury</link>
+<guid isPermaLink="false">1ad5d1960076023a9c19aaf441c9a181d6ca59c838e0633b225b5e3aa0ab4491</guid>
+<source>CoinDesk</source>
+<category>business</category>
+<pubDate>Tue, 27 Oct 2026 06:14:41 +0000</pubDate>
+<description></description>
+<enclosure url="https://cdn.sanity.io/images/s3y3vcno/production/4e33a65266ff8a49959c99fa67ba3d2651a409fd-3648x2052.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/jpeg"/>
+<media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4e33a65266ff8a49959c99fa67ba3d2651a409fd-3648x2052.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 27 Oct 2026 06:08:28 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
 <title>Ripple gets a final go-ahead to launch its own U.S. national trust bank</title>
 <link>https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank</link>
 <guid isPermaLink="false">1de552c94250b6f07da93049741925166b8c8d47848d7e16c4e92e25f34616ad</guid>
@@ -477,17 +499,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W4P12K292NZBRSP8W9DG6M/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price3-1.jpg" medium="image"/>
 </item>
 <item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 13:26:47 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
-</item>
-<item>
 <title>Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC</title>
 <link>https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc</link>
 <guid isPermaLink="false">a818d7c9ddeab1761aeab991be62563f754ca86f45fcf03361b8cf8a9228b18e</guid>
@@ -917,17 +928,6 @@
 <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d5be50574b7c98b10befa8ee5f9704bd3fba1aa4-960x640.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" medium="image"/>
 </item>
 <item>
-<title>Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan</title>
-<link>https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan</link>
-<guid isPermaLink="false">eff577e8666b0e380aa2689f9bf00208463f48ded1ffad267c5d5ad49a850cf6</guid>
-<source>CoinDesk</source>
-<category>business</category>
-<pubDate>Sat, 24 Oct 2026 14:06:24 +0000</pubDate>
-<description></description>
-<enclosure url="https://cdn.sanity.io/images/s3y3vcno/production/e73f268e229858cf3a57675d0f3f6ee3ae61a1ab-6000x4000.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/jpeg"/>
-<media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e73f268e229858cf3a57675d0f3f6ee3ae61a1ab-6000x4000.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" medium="image"/>
-</item>
-<item>
 <title>Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets</title>
 <link>https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets</link>
 <guid isPermaLink="false">6ffaac32a999bf053a55cbfc6839fe218788c6f30c22d1554bcaba096ee44890</guid>
@@ -1115,7 +1115,7 @@
 <media:content url="https://imgproxy.divecdn.com/9ryh19I-u4ETwEXDc-oYNo1q-GLrv0NI_VUGsz5D0Xg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTI3Nzk0ODQ0LmpwZw==.webp" medium="image"/>
 </item>
 <item>
-<title>Sezzle applies for national trust bank charter from OCC</title>
+<title>Sezzle applies for national bank charter from OCC</title>
 <link>https://www.bankingdive.com/news/sezzle-applies-occ-national-trust-bank-charter/833860</link>
 <guid isPermaLink="false">a760e954b0f56c866064c8d763817b921217c2407d1a4d686af56d66dbace952</guid>
 <source>Banking Dive</source>
