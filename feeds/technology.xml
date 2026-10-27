@@ -81,6 +81,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>Meta plans $95bn stock offering to help cover AI expansion</title>
+<link>https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion</link>
+<guid isPermaLink="false">4078d5f4a79024d9efe8ca9aba5644682fb357a9ede09a57746b8bb811d5e84b</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 23:33:19 +0000</pubDate>
+<description>Tech firm announces two-part fundraising after Elon Musk warns hundreds of AI startups face collapse Mark Zuckerberg’s Meta has announced plans for $95bn (£71bn) of fundraising to cover its AI expenditure, even as Elon Musk warned that funding for smaller players in the sector was drying up. The owner of Facebook, Instagram and WhatsApp is a leading investor in AI and is ploughing multibillion-dollar sums into datacentres, the central nervous systems of the technology. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/394e1b524aec75d1c94ccec789f158228ed79c10/364_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15606505d6e5f6c6e6b94dca7c05eaea" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/394e1b524aec75d1c94ccec789f158228ed79c10/364_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15606505d6e5f6c6e6b94dca7c05eaea" medium="image"/>
+</item>
+<item>
 <title>The most popular streaming platforms in the US might not be what you think</title>
 <link>https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think</link>
 <guid isPermaLink="false">43ed7aaaed4d00e1a68c2d358bcd3c55d1874c8081ecebaf944164014e61034d</guid>
@@ -939,17 +950,6 @@
 <media:content url="https://image.theregister.com/?imageId=5242717&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
-<link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
-<guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
-<description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
-<enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
-</item>
-<item>
 <title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
 <link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
 <guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
@@ -959,6 +959,17 @@
 <description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
 <enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
+</item>
+<item>
+<title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
+<link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
+<guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
+<enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
 </item>
 <item>
 <title>PHP2Shell is a warning shot for vulnerability disclosure</title>
@@ -1641,17 +1652,6 @@
 <description>SparkyOS is a novel distro from the folks behind SparkyLinux: it's a version of Arch that can you can use without installing it at all. SparkyOS is a new distro from the team behind the Debian-based SparkyLinux, but it's quite different. SparkyOS is based on Arch, and it runs entirely from USB. It's not a conventional live medium – this is a full local install, but shipped as an image of a USB key that you can boot and run. It comes with the Xfce desktop and an array of apps. The idea is that you can boot and run it on any x86-64 UEFI computer, entirely from a USB key, without touching the hard disk at all. This is quite different from its forerunner, which is a relatively conventional Debian-based distro, one which The Register has mentioned a few times over the years: first back in 2015 in a lightweight distro roundup , and more recently in 2024 when we praised its array of desktop environments . Earlier this year, we noted that the latest SparkyLinux featured a complete 32-bit edition , even though its parent distro has dropped its 32-bit x86 kernel . This is also not your typical live distro. Unless you're running on some Arm computer with nonstandard firmware, most Linux distros install from an image written to a USB pendrive, the same way that they did decades ago: in the noughties when they installed from a DVD, and back in the 20th century, when it was a CD instead. Most optical media use some form of the ISO standard 9660 filesystem , which is quite limited – despite multiple extensions, the core is a basic structure comparable to the ancient MS-DOS FAT. That's not much use for Linux, which needs long filenames, permissions, and metadata, plus things like symbolic links. So, to this day, most live Linux media have a few boot files and the OS itself is kept inside a big compressed file called a SquashFS , inside which is a real Linux filesystem. However, because it's inside something akin to a Zip file, it's read-only. You can't update the OS or add new software. Some live media optionally offer persistence , which stores changes in another separate file. That works, but if you update the OS, all the original pre-update files remain untouched, and new ones are stored in the persistence structure in addition to the space still consumed by the originals. So, it's slow, and it's very inefficient; it takes substantially more space than a conventional disk install. So, although there are dozens, maybe hundreds, of live Linux media images out there, most fall into one of two types of single-purpose product: either stripped-out special-purpose distros, such as SystemRescue, GParted Live, and Grml , or Rescuezilla , or Clonezilla . Alternatively, it's a full OS, but only meant as a sampler, not for daily use, with limited and inefficient tools for updates and changes. We're not sure if twice counts as a FAQ, but there are questions on StackExchange on how to install Ubuntu to USB as well as how to install Debian to USB . SparkyOS is an answer to</description>
 <enclosure url="https://image.theregister.com/?imageId=5305105&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5305105&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Experts cast doubt on Anthropic report detailing how AI has altered work at the company</title>
-<link>https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts</link>
-<guid isPermaLink="false">f2d8023b87443249cbc4e39833242c9c151ddb1e708fc09232b514005d1ce323</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 14:00:28 +0000</pubDate>
-<description>Anthropic claims AI will shift how work gets done and labor demand – but some experts are skeptical of the vision Last year, the Anthropic CEO, Dario Amodei, warned that artificial intelligence could eliminate half of entry-level white-collar jobs and that in six months it would be writing 90% of code . Neither of those predictions came to pass. Now, in a report Anthropic published on Thursday, the company said it was hiring fewer junior technical workers and that human attention has become the new “bottleneck” as it increasingly relies on its Claude AI agents. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/7f1d891b55886b1bfb45b0cdd3e7df3e842cbdce/0_31_3364_2691/master/3364.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38c8ce15c5e2970094652a1c3132b9bd" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/7f1d891b55886b1bfb45b0cdd3e7df3e842cbdce/0_31_3364_2691/master/3364.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38c8ce15c5e2970094652a1c3132b9bd" medium="image"/>
 </item>
 <item>
 <title>PubKeep picks up where Microsoft Publisher signs off</title>
