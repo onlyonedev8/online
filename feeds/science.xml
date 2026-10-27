@@ -4,15 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>AI refutes 30-year-old mathematical assumption in computer science</title>
+<link>https://www.newscientist.com/article/2596045-ai-refutes-30-year-old-mathematical-assumption-in-computer-science</link>
+<guid isPermaLink="false">17db580458d3c1f750842bd83c36221cb99f11174fa159ad1219fca7b581a412</guid>
+<source>New Scientist</source>
+<category>science</category>
+<pubDate>Tue, 27 Oct 2026 15:28:44 +0000</pubDate>
+<description>OpenAI announced three new discoveries in mathematics, computer science and physics Samuel Boivin/NurPhoto via Getty Images OpenAI, the maker of ChatGPT, claims its AI models have disproven the exponential time hypothesis – a fundamental assumption that underpins computer science. “This came as a complete surprise, a shock,” says Fedor Fomin at the University of Bergen in Norway. “Nobody I know expected it.” Read more A golden age of maths is dawning and mathematicians are freaking out Proposed nearly 30 years ago, the exponential time hypothesis (ETH) tries to put a limit on how quickly computers can solve certain logical puzzles. Advertisement The simplest way would be to try every possible combination of true or false for each part of the puzzle. ETH proposes that, although it may be possible to do this quicker with shortcuts, the amount of work needed has to grow exponentially as the puzzle gets bigger. OpenAI, however, says its models have devised an algorithm that can beat the previously assumed speed limit for solving logical puzzles, apparently proving ETH false. “Assuming that it is confirmed, this is an enormous breakthrough,” says Leslie Goldberg at the University of Oxford. Free newsletter Sign up to The Daily Sign up to newsletter Many computer science findings assume ETH is true. If it isn’t, the conclusions they establish about computational limits become useless. “It would require a complete revision of several areas of algorithms and complexity,” says Fomin, who says a textbook he wrote on the subject would become obsolete if the finding holds. ETH is linked to a long-standing maths problem known as P versus NP, which concerns whether a problem whose answer is easy to check is also easy to solve. If ETH were true, it would have implied that the answer was no. But disproving ETH doesn’t mean the answer is yes. “This doesn’t have a direct impact on P versus NP, so we should not view it as progress towards P versus NP,” says Goldberg. The result was announced alongside other breakthroughs in maths and physics in a blog post on 26 October. In mathematics, OpenAI says its AI has proved a 1991 conjecture that waves cannot remain intensely focused for long. If confirmed, this would also answer long-standing questions about how thin a shape can be while also containing line segments that point in every direction, as well as how waves spread. In theoretical physics, OpenAI claims to have proven that quantum field theories , including quantum chromodynamics, which describes the strong force holding quarks together, make sense mathematically, rather than just producing predictions that match experiments. The findings also touch on the existence of pure Yang–Mills theory, part of a famous million-dollar mathematics problem, but don’t resolve the entire challenge. That work hasn’t been released publicly while an external group led by Nobel laureate David Gross examines it. Hannah Fry: How OpenAI has caused an existential crisis in mathematics</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318369568.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318369568.jpg" medium="image"/>
+</item>
+<item>
+<title>Clues from the Dead Sea could explain ancient drying of the Mediterranean</title>
+<link>https://www.newscientist.com/article/2596000-clues-from-the-dead-sea-could-explain-ancient-drying-of-the-mediterranean</link>
+<guid isPermaLink="false">b3d371995b163bf9e55adb0da059ea9328c9ae320b9304052bc464e2c5c538d5</guid>
+<source>New Scientist</source>
+<category>science</category>
+<pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+<description>The high salt concentration in the Dead Sea drives the warming and shrinking of the lake, and something similar may have happened in the Mediterranean 5.5 million years ago</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318294861.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318294861.jpg" medium="image"/>
+</item>
+<item>
 <title>Skeleton of Nanotyrannus ‘Jodi,’ T. Rex’s Cousin, Is Auctioned for $47.3 Million</title>
 <link>https://www.nytimes.com/2026/10/27/us/jodi-dinosaur-skeleton-auction-sothebys.html</link>
 <guid isPermaLink="false">b3502f52e1005fd0f55ddb7f1116e2b22b8afabe21cd495c2f2cf0e1d6def6a6</guid>
 <source>New York Times Science</source>
 <category>science</category>
-<pubDate>Tue, 27 Oct 2026 14:41:52 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 14:41:53 +0000</pubDate>
 <description>Scientists long debated whether Nanotyrannus was from a separate group of Tyrannosaur species, or if they were teen specimens of T. rex. The separate group hypothesis has recently prevailed.</description>
-<enclosure url="https://static01.nyt.com/images/2026/10/27/multimedia/27xp-jodi/27xp-jodi-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/10/27/multimedia/27xp-jodi/27xp-jodi-mediumSquareAt3X.jpg" medium="image"/>
+<enclosure url="https://static01.nyt.com/images/2026/10/27/multimedia/27xp-jodi/27xp-jodi-mediumSquareAt3X-v2.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/10/27/multimedia/27xp-jodi/27xp-jodi-mediumSquareAt3X-v2.jpg" medium="image"/>
 </item>
 <item>
 <title>On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket</title>
@@ -444,17 +466,6 @@
 <media:content url="https://static01.nyt.com/images/2026/10/26/science/26SCI-UNKNOWNS-NEANDERTHALS/26SCI-UNKNOWNS-NEANDERTHALS-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
-<title>What are microchimeric cells doing to our brain?</title>
-<link>https://www.newscientist.com/article/2595503-what-are-microchimeric-cells-doing-to-our-brain</link>
-<guid isPermaLink="false">44b4b68ef708a59cc7e7e827ec166b6f467b48081a3840c86807345a363bf0bd</guid>
-<source>New Scientist</source>
-<category>science</category>
-<pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
-<description>We now know that cells exchanged during pregnancy can take up residency in our brain. Could they influence our development, health or even behaviour? Columnist Helen Thomson explores this mysterious cellular legacy</description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317552955_d0a60a.jpg" type="image/jpeg"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317552955_d0a60a.jpg" medium="image"/>
-</item>
-<item>
 <title>On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon</title>
 <link>https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon</link>
 <guid isPermaLink="false">93487d3d62364e74816127eb96c979d7fae9a10f4f8adb147a83e2b23eaddad8</guid>
@@ -651,17 +662,6 @@
 <description>In medieval Italy, it was accepted wisdom that anyone walking near a swamp risked falling ill from “bad air” — mala aria. Victims were struck with fever, headache, nausea, and chills, and occasionally the illness escalated to vomiting, jaundice, and death. Today, we still call this affliction malaria. For much of human history, it has ravaged populations in humid tropical and subtropical regions… Source</description>
 <enclosure url="https://www.quantamagazine.org/wp-content/uploads/2026/10/MalariaPortal-cr-Ada-Zejun-Shen-Default.webp" type="image/jpeg"/>
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/10/MalariaPortal-cr-Ada-Zejun-Shen-Default.webp" medium="image"/>
-</item>
-<item>
-<title>Personalised cancer vaccine expected to be approved next year</title>
-<link>https://www.newscientist.com/article/2595599-personalised-cancer-vaccine-expected-to-be-approved-next-year</link>
-<guid isPermaLink="false">734e69e834a2748ecb3d8f58e27e5e47e08a85ece42e968396e72f3b0748c4a6</guid>
-<source>New Scientist</source>
-<category>science</category>
-<pubDate>Fri, 23 Oct 2026 14:42:27 +0000</pubDate>
-<description>A scanning electron micrograph of a melanoma cell Science Photo Library/Alamy A personalised mRNA vaccine for melanoma, the deadliest form of skin cancer , is expected to be approved for use in the US, Europe and the UK next year. The vaccine is designed to stimulate immune responses against genetic mutations that are unique to an individual’s cancer. When used alongside standard treatment in a late-stage trial, it substantially cut the risk of cancer recurrence or death within the next two years. “I think approval could be quick, and next year sounds reasonable,” says Alan Melcher at the Institute of Cancer Research in London, who wasn’t involved in the trial. Read more Rare cancer spread between twins in utero “It is a huge deal,” says Rebecca Lee at the University of Manchester, UK, who also wasn’t involved. Thousands of people in the UK alone could benefit from this, based on the trial’s patient population, she says. “It’s highly likely the US and Europe [including the UK] will approve it next year.” However, producing the vaccine is very expensive, and it may not be deemed cost-effective for use on the UK’s National Health Services (NHS), she says. Advertisement In August, drug-maker Moderna announced that the vaccine had positive results in a late-stage trial . More specific findings have now been released. The trial recruited more than 1100 adults who had surgery to remove high-risk melanomas that were likely to recur or spread to distant sites. In the UK, 19,400 melanoma cases are diagnosed annually, of which about 25 per cent are deemed high risk. Two-thirds of the participants were randomly assigned to receive a bespoke vaccine on top of standard immunotherapy, called pembrolizumab, which helps the immune system find and destroy cancer. Both were delivered every three weeks for up to a year. The remaining participants received placebo injections plus pembrolizumab. The vaccine is made by genetically sequencing a small sample of a person’s cancer and comparing that sequence with the DNA in the individual’s healthy blood cells. This enables researchers to pinpoint mutations specific to the cancer. Free newsletter Sign up to Health Check Sign up to newsletter Based on the same technology used in covid-19 vaccines, the cancer vaccine contains mRNA molecules that encode for proteins with up to 34 of those mutations. “The jab contains a fingerprint of proteins specifically associated with the cancer,” says Lee. “This helps [immune] T-cells recognise the cancer better, and then pembrolizumab prevents those T-cells from becoming exhausted once they’ve started attacking the cancer cells.” About two years after the start of treatment, 82 per cent of the participants who received the vaccine plus pembrolizumab were alive without their cancer recurring, on average, compared with 70 per cent among those on pembrolizumab alone. “It’s a really exciting result,” says Lee. Side effects were similar between the two groups. The results combine cancer recu</description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317849720.jpg" type="image/jpeg"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_317849720.jpg" medium="image"/>
 </item>
 <item>
 <title>Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026</title>
