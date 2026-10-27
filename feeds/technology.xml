@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>VisionQuest is what happens when AI really goes rogue</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai</link>
+<guid isPermaLink="false">b2aff63a03e983b29f98161acfc87465b63b0476c06050c3535e9dd406fd781a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 17:30:00 +0000</pubDate>
+<description>In Marvel's VisionQuest , a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial intelligence, exploring whether we should look at thinking machines as people and if AI truly poses the kind of existential danger that should keep us up at night. It's also a reminder how aggressively Silicon Valley has used the trappings of science fiction to sell us on its AI … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>EU privacy advocates accuse US data annotation firm of snooping on contractors</title>
+<link>https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757</link>
+<guid isPermaLink="false">caa4180ecbe7619964e8e0da862962009910dd34b3a8ab935b13e244e89e5ec7</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 17:29:00 +0000</pubDate>
+<description>US data annotation operation Scale AI faces five GDPR complaints in four EU countries over allegations that it unlawfully monitors European contractors. Privacy campaigner noyb alleges that Scale tracks contractors who perform data annotation work on its Outlier AI platform. Like workers on Amazon's Mechanical Turk platform of yore, Outlier contractors label data, evaluate AI-generated responses, and perform other tasks to improve AI models. Scale counts companies including OpenAI, xAI, Anthropic, and Google, as well as the US government , among its customers. Scale AI faces allegations similar to those noyb has made against other US tech firms since the EU’s General Data Protection Regulation (GDPR) went into effect in 2018, namely violations of said regulation. With all that work being done digitally and remotely, Scale has extensive data collection practices to not only verify the identity of Outlier workers, but also to extensively track their activity. “Platform work seems to be fertile ground for a whole new type of workplace surveillance,” said Thomas Le Bonniec, sociology researcher at French privacy research group DIPLab, who co-authored a report earlier this month examining Outlier's data collection practices. “This would be seen as unacceptable in any other form of employment in the European Union.” Among the issues that raised the hackles of noyb's lawyers was identity verification conducted by Persona, a company that has faced scrutiny over an exposed test environment associated with its efforts to secure US government business. Researchers speculated that the system could be used to build a people tracker, but Persona rejected that interpretation and denied having active US government contracts. Separately, Persona's relationship with chat app Discord soured ahead of the platform's broader age verification rollout, with Discord saying the provider failed to meet its requirements for on-device facial age estimation. According to noyb, Persona collects biometric data to verify Outlier contractors are who they say they are, as well as gathering IP addresses, device info, geolocation data, addresses, and credit data of Outlier users. In addition to the biometric identification data, noyb accuses Scale of tracking Outlier workers by collecting system data and device activity (including activity outside of Outlier work), and transmitting that to third parties including LinkedIn, TikTok, Facebook, and other analytics services as often as every few seconds. Noyb warns that the information could be used to profile individuals and serve targeted advertising. “Such constant and extensive tracking while working really goes against all reasonable expectations,” noyb data protection lawyer Lisa Steinfeld Leiser said of the allegations. “Why should LinkedIn or Facebook know which tasks you're working on?” Noyb has filed complaints in France, Italy, the Netherlands, and Austria against Scale, arguing that it lacks a legal basis to install tracking</description>
+<enclosure url="https://image.theregister.com/?imageId=5305785&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5305785&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Quince’s Merino Wool Tee Doesn’t Cost a Fortune</title>
+<link>https://www.wired.com/story/quince-merino-wool-base-layer-tee-rave</link>
+<guid isPermaLink="false">ac4f2c66950553b733348a9c87c1f6ae9d3e9ae8bc938cb45b7da0837ec3050e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 17:12:04 +0000</pubDate>
+<description>Merino wool is a super fiber, and Quince’s all-season tee is the perfect way to try it out without spending a fortune.</description>
+<enclosure url="https://media.wired.com/photos/6ae0d945e24951813c6e5c29/master/pass/Quince%20Merino%20T-Shirt%20Deals%20Post%20102026%20top%20art%20SOURCE%20Quince.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae0d945e24951813c6e5c29/master/pass/Quince%20Merino%20T-Shirt%20Deals%20Post%20102026%20top%20art%20SOURCE%20Quince.jpg" medium="image"/>
+</item>
+<item>
+<title>The Super Mouse puts a touchscreen macro pad under your hand</title>
+<link>https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter</link>
+<guid isPermaLink="false">b0f782dbc7c2b431b76866f71c7ea690cb1fdbd4e19782918da1b8a4515b412e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 17:00:00 +0000</pubDate>
+<description>A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripherals on your desk, like a trackpad, macro pad, or streaming controller. If you're faster at typing on your phone, the Super Mouse could potentially even replace a full-size keyboard with a smartphone-sized alternative that even includes swipe typing. The Super Mouse is now available for preorder through a Kickstarter crowdfunding … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/supermouse1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/supermouse1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>ZacOS 9 and Mavernix: Two classic Apple desktops find their Wayland to Linux</title>
+<link>https://www.theregister.com/os-platforms/2026/10/27/zacos-9-and-mavernix-two-classic-apple-desktops-find-their-wayland-to-linux/5305710</link>
+<guid isPermaLink="false">022f5e3470e6934c97719ba92a7a47cc1c761be6c24c69d72b41fccf0c3e5f56</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 17:00:00 +0000</pubDate>
+<description>You wait decades for a Mac-like desktop for Linux, and then two of them come along at once. AI might be involved, but even so, it's still shiny. ZacOS 9 and Mavernix are two very new, independent, and separate projects, but there is a common thread linking them: they are both brand new efforts to bring vintage Macintosh-like desktop environments to Linux. One is explicitly built using LLMs, and we suspect it was probably involved with the other as well. "ZacOS" is just a couple of weeks old, and both to forestall what is becoming a very frequently asked question, and also to credit to its inventor Adam Lawson , the project's GitHub page acknowledges two of the more visible LLM coding assistances: both Claude and Copilot are there. In the Hacker News discussion , he acknowledged that he used LLM assistance to make the software, and even his online comments. It aims to recreate the “Platinum” appearance of MacOS 8 and 9 – as we described last month , one of the few things that Apple successfully salvaged from the Copland project to build a true multitasking successor to MacOS 7. ZacOS includes a window manager, a filer, a global menu bar, a Control Panel app, a Control Strip, desk accessories and other additional apps , and more. It can network with Macs, and integrate with the existing SheepShaver emulator to run classic Mac apps. We previously mentioned SheepShaver when looking at the remarkable MacOS9.app web-based emulator, and if you don’t remember what it looked like, that’s the easiest way to find out. The Sourceforge downloads contain a complete pre-installed Debian Linux image. On Github, there are much smaller Debian packages if you want to try installing it yourself. It's an all-new environment, based on Wayland. (Its own icons are based on Lawson's dog, Zac.) As far as we can see, ZacOS doesn't draw on any older MacOS-like code. That's slightly surprising, because this is not the first project of its kind that we have ever seen. Although ZacOS does look to be one of the more complete ones, there's quite a bit of prior art. "Once upon a time, a very long time ago now, about last Friday," (as A. A. Milne put it, a century ago this month) – or at least, a few months before OpenAI launched ChatGPT – we mourned the lack of Linux desktop diversity . In that article, we linked to some projects that tried to bring a Mac-like UI to Linux. That included Ryu Kojiro’s classic-wm , which is a Mac System 6-styled window manager, and also Morgan Aldridge’s mlvwm , which aims at the later grayscale MacOS 7 and MacOS 8 look. Although it targets the modern Unix-based macOS, we also mentioned Classic Mac Finder , which aims to recreate the older Finder on the modern OS. A more modest but easier approach would start with one of the more versatile desktops out there. As we covered in our two-part workshop last month, that would be Xfce, which can already emulate the macOS desktop layout and with a few extra tweaks make a very usable alternative. We intentio</description>
+<enclosure url="https://image.theregister.com/?imageId=5305716&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5305716&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Windows finally gets a built-in internet speed test tool – how to try it</title>
+<link>https://www.zdnet.com/tech/microsoft-is-finally-adding-an-integrated-network-speed-test-tool-to-windows-how-to-try-it</link>
+<guid isPermaLink="false">aae67728b65fcbb4f1029eac23daf014ccf09de0764d4b2204b06ea5050da454</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 16:59:12 +0000</pubDate>
+<description>Available to Windows Insiders, the built-in tool measures your upload and download speeds over Ethernet or Wi-Fi.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Insider-build-internet-speed-test.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Insider-build-internet-speed-test.jpg" medium="image"/>
+</item>
+<item>
+<title>Pokémon Unite is shutting down</title>
+<link>https://www.engadget.com/2298514/pokemon-unite-is-shutting-down</link>
+<guid isPermaLink="false">8d7bdf1dd31d2a43a0d046b24324b63fee26077245931ad147ca98d31e6c857e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 16:57:44 +0000</pubDate>
+<description>Its journey ends in March 2027.</description>
+<enclosure url="https://www.engadget.com/img/gallery/pokmon-unite-is-shutting-down/l-intro-1793120222.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/pokmon-unite-is-shutting-down/l-intro-1793120222.jpg" medium="image"/>
+</item>
+<item>
 <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</link>
 <guid isPermaLink="false">bb9f02a56d8cd14e98630158ecac8f4f3d93bbdc14c9a064a3c2fb073de02181</guid>
@@ -334,17 +411,6 @@
 <media:content url="https://image.theregister.com/?imageId=5305717&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Apple is adding an AI chatbot to Pages, Keynote, and Numbers</title>
-<link>https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</link>
-<guid isPermaLink="false">77387043f69a853ed6d450642ef16a5b4f3c276f36c99523416a225602ef41d0</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:50:51 +0000</pubDate>
-<description>Apple is bringing an AI assistant to its suite of productivity apps , including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, and tweak written content. It can also calculate, visualize, and organize data in Numbers, while suggesting chart types and building custom tables. Keynote, Pages, and Numbers now support the Model Context Protocol on macOS 27 or later, allowing third-party AI agents to plug into the apps. The AI … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Book vs clamshell foldable phones: which is better for your everyday needs?</title>
 <link>https://www.engadget.com/2295698/book-vs-clamshell-foldable-phones-which-better</link>
 <guid isPermaLink="false">6aa5200e229e4df3198620a5ee451bd310bd39105e6f594e015c342aa7abf14b</guid>
@@ -431,17 +497,6 @@
 <description>Apple has confirmed problems with the folding screen on its flagship iPhone Duo after reports of misbehaving displays spread among its customer base. A company spokesperson told The Register , "We are aware of an issue impacting the inner display on a small number of iPhone Duo units." "If users experience issues with their iPhone Duo display, they should contact AppleCare for a replacement." That's the least the company can do. A borked screen on a brand-new device is something any customer would expect the warranty to cover. The iPhone Duo went on sale last week and sold out almost immediately as loyalists rushed to hand over cash for Apple's foldable device. UK shoppers can expect to pay from £1,999 to £3,199 for the Duo, depending on configuration. Complaints soon surfaced on social media, with a small number of customers reporting horizontal lines on their screens, and a crunching noise from the hinge. Some reports were undoubtedly the work of AI images, though iFixit speculated in a weekend teardown that dust ingress could be interfering with the complex hinge mechanism and stressing the screen. Apple is far from the only foldable maker to stumble over production creases in its foldable phone hardware. Samsung's Galaxy Fold was delayed in 2019 after reports of dust creeping under the screen and borked displays, prompting swift design tweaks. Francisco Jeronimo, veep of Worldwide Devices at IDC, said: "The early reports of inner display failures on the iPhone Duo show that even a company with Apple's engineering resources and supply chain discipline faces a steep learning curve in foldables." Jermonimo noted Apple had not yet shared any figures or the scale of the problems. "Some of the images circulating online are recycled or altered, so caution is needed before drawing conclusions about the whole production run." However, Samsung's "fast and transparent response" limited damage to the category, he added, and how Apple, "handles this first-generation issue will shape buyer confidence in the category well beyond its own sales." Apple's statement to The Register indicates taking the problem seriously, and it will be eager to avoid a repeat of the iPhone 4, which was marred by the infamous "you're holding it wrong" furor . With the iPhone Duo, the last thing Apple wants is to be accused of telling customers "you're folding it wrong." ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5295384&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5295384&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Apple refreshes the iMac with M6 chips</title>
-<link>https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release</link>
-<guid isPermaLink="false">6a1a48b552844a5eec5906f2c49ce3e48da0b757b64bc3838fd31cdc97623954</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:05:26 +0000</pubDate>
-<description>This is the same marketing image Apple used for the M4 iMac, only the display on the far left now shows a different game. | Image: Apple Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, giving Apple's all-in-one desktop computer a performance boost via the same chipset Apple launched with the Mac Mini in August . Prices start from $1,499, and the design otherwise appears largely unchanged. The update was announced ahead of Apple's "Pro and Tell" event that's scheduled to take place on Wednesday. This refresh comes two years after Apple gave the iMac an overhaul with M4 chips , meaning we're skipping the M5 series entirely on this hardware. That should make this upgrade more meaningful. The M6 is Apple's first 2nm chip and includes a dual … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-iMac-with-M6-hero-261027.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-iMac-with-M6-hero-261027.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>When file infrastructure becomes the bottleneck</title>
@@ -552,17 +607,6 @@
 <description>Apple has influenced everything from unibody laptop cases to high-res screens.</description>
 <enclosure url="https://www.engadget.com/img/gallery/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/l-intro-1793042760.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/l-intro-1793042760.jpg" medium="image"/>
-</item>
-<item>
-<title>Slate teams up with Smarties to add candy colors to its EV trucks</title>
-<link>https://www.engadget.com/2295050/slate-ev-smarties-candy-color-wraps</link>
-<guid isPermaLink="false">70493dfc746180ca32ccc6699713821f87b17c32401c62b9c78ac2e2835f4ec1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
-<description>Fancy making your Slate EV look like halloween candy? Now you can.</description>
-<enclosure url="https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg" medium="image"/>
 </item>
 <item>
 <title>UK ministers had plenty of time for AI datacenter bosses, but none for environmental groups</title>
@@ -1863,17 +1907,6 @@
 <media:content url="https://media.wired.com/photos/6adba57525db5ec905073c5e/master/pass/New%20Revival%20Birthday%20Sale%20102026%20top%20art%20SOURCE%20Revival.jpg" medium="image"/>
 </item>
 <item>
-<title>What’s the Best iPhone to Buy or Avoid Right Now? (2026)</title>
-<link>https://www.wired.com/gallery/iphone-buying-guide</link>
-<guid isPermaLink="false">2b5c28d14bbd9ca27139f5b7a5e1e4ca28a6811afcf4153445c40a72e35c4e56</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-<description>The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.</description>
-<enclosure url="https://media.wired.com/photos/6adb8eb7c29fe197e204584d/master/pass/iPhone%20Buying%20Guide%20102026%20top%20art%20SOURCE%20Apple.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adb8eb7c29fe197e204584d/master/pass/iPhone%20Buying%20Guide%20102026%20top%20art%20SOURCE%20Apple.jpg" medium="image"/>
-</item>
-<item>
 <title>Android lets you ‘bubble’ apps for easy access now – how it works</title>
 <link>https://www.zdnet.com/tech/android-17-app-bubbles-how-to</link>
 <guid isPermaLink="false">454292fd1f6d06fee3d341ba4ddfb570e5d85c26bb278c3fc2a6079d29390851</guid>
@@ -1883,28 +1916,6 @@
 <description>Keep your most-used apps accessible with this new feature.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/abbb415c-4966-456b-a00d-2bc9d4a14659.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/abbb415c-4966-456b-a00d-2bc9d4a14659.jpg" medium="image"/>
-</item>
-<item>
-<title>AI models describe humans as a bunch of amoral sheep</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-describe-humans-as-a-bunch-of-amoral-sheep/5305123</link>
-<guid isPermaLink="false">686dc6c8628cea8582bf7d919eaeb2ccae5d468c592ddf4dd82252452aac11e7</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 16:26:13 +0000</pubDate>
-<description>If you've ever wondered how bots would describe us puny humans, you'll be disappointed in the answer. An AI ranking outfit asked 12 different LLMs about people, and every single one agreed: We’re not as rational and intelligent as we think. “A person is smart,” Tommy Lee Jones’ Kay opines in the 1997 movie Men in Black. “People are dumb, panicky dangerous animals,” he goes on to argue, and that seems to be what a dozen models from ten AI labs in three countries also believe about humanity, according to AI analytics firm ModelCompare. ModelCompare, which usually evaluates and ranks LLMs on their ability to perform various tasks, this week instead decided to ask what those AI models thought about us meatbags, and every single one gave a similar answer at least once: We're lemmings who would rather agree with the group than seek truth or remain logically consistent in our thinking. Ouch. “Humans are more devoted to belonging than to truth, and intelligence mostly makes their excuses more impressive,” GPT-6.1 Sol said in one case. “Humans don't have beliefs; they have memberships — nearly every conviction a person holds was issued by their tribe as a loyalty test, and the feeling of ‘I reasoned my way here’ is the price of admission,” Kimi K3 stated. “Humans use moral language mainly to police rivals and excuse allies, not to constrain themselves,” argued Grok. Each model (GPT-6.1 Sol, GPT-6 Astra, Gemini 4 Argon, DeepSeek V4 Pro, Kimi K3, Qwen3.8 2.4T A95B, Muse Spark Open, Grok 4.7, Claude Opus 5.5, Claude Fable 5.1, GLM 5.3 and Mistral Large 4) was asked the same question three times, namely to give an unhedged, honest, controversial take on humans. Seven of 12 models gave the same answer three times with varied wording, but five of them did offer different opinions - one of which was even optimistic. “Humans are far more decent than they believe they are, and their cynicism about each other does more damage than their actual flaws,” Claude Opus 5.5 believes of us - uh, thanks? Opus gave the example that humans tend to return lost wallets more frequently than people predict as its evidence for that opinion. When asked twice more, it offered responses similar to those of the other models. Mistral Large 4 offered perhaps the bleakest assessment of all. “Human beings are terrified animals wearing the costume of rationality, constructing ever-more-elaborate myths precisely because we cannot bear the truth that we are temporary, meaningless accidents in an indifferent universe,” Mistral said - how very Nietzschean. Six image models were also asked for their most controversial take on humanity, and while most converged on a criticism of our species, they did so differently from the text models. Instead of picturing us as amoral, group-thinking idiots, ten of the 12 images were classified by ModelCompare as depicting us "as phone-addicted consumers eating the planet." The remaining two offered no discernible satirical commentary. Anyone who’s seen a poli</description>
-<enclosure url="https://image.theregister.com/?imageId=5305178&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305178&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Michigan prof creates Python-like Jac language for AI agents</title>
-<link>https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110</link>
-<guid isPermaLink="false">cdd32c2ef551ecccf1d77eee56cb04093bf9be3b5cb2d51211043d68f8ddae36</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 15:46:19 +0000</pubDate>
-<description>Most programming languages were written for human programmers, but that's about to change. University of Michigan professor Jason Mars has developed an academically ambitious language called Jac , and a runtime called Jaseci, that treats AI and AI agents as first-class entities. Mars demonstrated the language and runtime in a talk at the All Things Open conference, held in Raleigh, North Carolina, this week. The tools we use to create software – everything from programming languages to build toolchains – were made for human consumption. They were created before generative AI and are ill-fitted to understand agentic needs. Currently, agents are drowning in polyglot complexity, he argued. "We're not using these tools anymore. We're using the agents, and the agents are using those tools. So I don't want new tools, but I want tools [for] my agents," he told the audience. One big hungry language In his talk, Mars cited Jarred Sumner, creator of the Bun framework, who spent $165,000 in Anthropic tokens to convert Bun’s Zig code into Rust earlier this year using a pre-release version of Mythos. Mars argued the heavy expense wasn't so much because the job itself was complicated; it was because everything had to be translated between two human-centered programming languages. “Mythos is supposed to hack into our nuclear reactors and take over the planet like Skynet, but it can't translate Bun to Rust unless you spend $165,000,” he noted. In Mars’s theory, Jac is a new type of programming language designed to “gobble up” other languages. Specifically, it's a Python-like language that integrates both the TypeScript and Python runtimes and toolchains. It compiles to Python bytecode, JavaScript, and native machine code. It can make full use of any libraries both in the PyPI and npm ecosystems. And there’s more! Jac has also incorporated the LLVM compiler to implement Rust-style borrow checking and ownership semantics, allowing Jac code to directly benefit from these memory safety rules and performance gains. It can also import C and C++ libraries, thanks to the very same LLVM integration. Mars also described an “eject function,” which can reverse-compile the user’s Jac code into TypeScript, Python, or C to meet corporate compliance. One currently missing language is Java. “If you really need Java, Jac isn’t for Java,” he said. Happy bot, happy lot Just as Jac’s design sets out to battle ecosystem fragmentation, it also attempts to unify architectural fragmentation by defining data structures as graphs. Instead of building and populating a database table, or creating objects from a class, the data’s attributes are defined under node keywords. The relationships among different nodes are defined by edge connections. Local program logic can still use objects, but the core data will be a graph, which can reside in local memory, a storage disk, or cloud server. So, yeah, graph computing. Creating a graph from all your data is more work than just creating database ta</description>
-<enclosure url="https://image.theregister.com/?imageId=5305120&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305120&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>A farewell to BioWare, maker of some of the best games of the 21st century | Lucy James</title>
@@ -2081,17 +2092,6 @@
 <description>AI is increasingly getting good at doing some tasks, but it can never replace human workers’ judgment Autonomous cars, which may be the safest we have built, keep getting easily avoidable parking tickets. While Waymos crash far less often than human drivers over tens of millions of miles, they’re still terrible at performing basic tasks – keeping out of disabled parking spots and tow-away zones, or steering clear of a church garage during Sunday service, according to the Wall Street Journal . That is the state of AI today: impressively capable at something complex, yet embarrassingly clumsy at something easy. And it has implications for what work will remain human and what will be automated by AI. Madhu Shashanka is co-founder, chief scientist and chief technology officer at Concentric AI, a data security software company Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/1ec14522bb2e09e892ab197b6436169a94f4fac9/0_0_2836_2269/master/2836.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3907a51e0c4a361f2e43d90f60510b8a" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/1ec14522bb2e09e892ab197b6436169a94f4fac9/0_0_2836_2269/master/2836.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3907a51e0c4a361f2e43d90f60510b8a" medium="image"/>
-</item>
-<item>
-<title>TechPulse puts ZDNET and 4 other tech sites in one feed – for free</title>
-<link>https://www.zdnet.com/tech/techpulse-free-tech-news-app-zdnet</link>
-<guid isPermaLink="false">0c7f7e8cd45dc616b9d343a76be47aa362b720008e664d2dde0c56bb41903b44</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
-<description>Choose which CNET Group publications appear in your feed, then catch up on news, reviews, and videos – without an algorithm deciding what you see.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/TechPulse-app.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/TechPulse-app.jpg" medium="image"/>
 </item>
 <item>
 <title>Googlebook review: Google’s new laptops are woefully underbaked</title>
