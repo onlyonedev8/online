@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Coinbase says user funds are safe after third-party vendor exposes customer contact info</title>
+<link>https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info</link>
+<guid isPermaLink="false">a16e3e891ea482ce5d7135bbd088d8af0653b82c9f4762f2914ebeb13e130434</guid>
+<source>CoinDesk</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 03:11:14 +0000</pubDate>
+<description></description>
+<enclosure url="https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/jpeg"/>
+<media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" medium="image"/>
+</item>
+<item>
 <title>Bithumb discloses data leak after internal system breach: Report</title>
 <link>https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report</link>
 <guid isPermaLink="false">3b24279e730053bb31ec2fc2b6485f18d64fcbda32b8d3165eee974d807208e7</guid>
@@ -1047,17 +1058,6 @@
 <description>AI-powered reverse engineering could make it "easier and faster" for researchers to uncover and explain how devices collect and share data.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/samsung-smart-tv-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/samsung-smart-tv-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029</title>
-<link>https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029</link>
-<guid isPermaLink="false">ad8b036e4cd5761701e09a23f6530519816df468770a91e4185f5584089b3fdd</guid>
-<source>CoinDesk</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 14:51:07 +0000</pubDate>
-<description></description>
-<enclosure url="https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/jpeg"/>
-<media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d02365f898383e63bd7d71439d04e193ccd52d12-1920x1281.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" medium="image"/>
 </item>
 <item>
 <title>PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO</title>
