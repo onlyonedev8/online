@@ -10,7 +10,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 05:31:55 +0000</pubDate>
-<description>Labor government under pressure to create social media watchdog as new online safety standards bill passes lower house The federal government wants to ban AI chatbots which seek to create “emotional intimacy” after prime minister Anthony Albanese raised the alarm in a heartfelt speech about children treating these agents as their “best friend”. But Labor is coming under increasing pressure to empower the telecommunications ombudsman to become a watchdog for social media and AI to give Australians an external complaints mechanism and allow the “naming and shaming” of big tech. Continue reading...</description>
+<description>Labor government under pressure to create social media watchdog as new online safety standards bill passes lower house Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast The federal government wants to ban AI chatbots which seek to create “emotional intimacy” after prime minister Anthony Albanese raised the alarm in a heartfelt speech about children treating these agents as their “best friend”. But Labor is coming under increasing pressure to empower the telecommunications ombudsman to become a watchdog for social media and AI to give Australians an external complaints mechanism and allow the “naming and shaming” of big tech. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06d08423d6d026bb6ae8371bbaee1e67" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06d08423d6d026bb6ae8371bbaee1e67" medium="image"/>
 </item>
@@ -1720,17 +1720,6 @@
 <media:content url="https://image.theregister.com/?imageId=5242717&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
-<link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
-<guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
-<description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
-<enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
-</item>
-<item>
 <title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
 <link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
 <guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
@@ -1740,6 +1729,17 @@
 <description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
 <enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
+</item>
+<item>
+<title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
+<link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
+<guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
+<enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
 </item>
 <item>
 <title>PHP2Shell is a warning shot for vulnerability disclosure</title>
@@ -1905,17 +1905,6 @@
 <description>Building a UK datacenter spans three government departments: one handles datacenter policy, another telecoms, and a third energy. MPs this week explored what Prime Minister Andy Burnham's summer reshuffle means for businesses navigating Whitehall. Liz Lloyd, parliamentary under-secretary of state, sits across two departments with a portfolio of responsibilities as long as a weekly shopping list. She explained to MPs this week that, following the decision to get rid of the Department for Science, Innovation and Technology (DSIT), liaison with the tech industry on datacenter construction fell to the Department for Business, Innovation, Science and Trade (BIST). Lloyd, who works across BIST and the Department for Digital, Culture, Media and Sport (DCMS), went on to explain that digital infrastructure sits within DCMS. Speaking to the House of Commons Science and Technology Committee, Lloyd acknowledged that some departmental responsibilities overlapped. "In terms of sector responsibilities, that is clear that technology, sorry, that telecom sits with DCMS and datacenters with BIST. When you're actually in an industry or you're trying to run a business, that that that is clear," the junior minister said. Any business trying to build a datacenter might also want to know how to get power to it. As far as The Register can figure out, that would be the Department for Energy and Net Zero. Planning permission rests with local government, although the overall policy lies with the Ministry of Housing, Communities and Local Government. It may be clear, but it is hardly simple. The problem is real, though. Earlier this month, Microsoft pulled out of plans for Britain's largest AI supercomputer because of difficulties securing power for the facility. Elsewhere in the hearing, Lloyd was asked about the government's early 2025 claim that modernizing aging technology and digitizing processes could deliver £45 billion in productivity savings. Asked if the government stood by the figure, the junior minister said: "The £45 billion figure was an estimate of long-term productivity gains. It wasn't a kind of one-off figure for savings… it was never a figure that was a target or a cashable savings figure." When the figure was publicized under the Starmer government in January 2025, the press release was headed "Archaic tech sees public sector miss £45 billion annual savings." It continued: "Taxpayer funded services from the NHS to local councils are missing out on £45 billion in productivity savings because they are too often dependent on old and outdated technology." It claimed the government would "tackle these issues" using "digital tools, AI and common sense to overhaul public sector technology." ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5277385&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5277385&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later</title>
-<link>https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later</link>
-<guid isPermaLink="false">6ee7020311af787a873a283fa1fc4166412e1b8327325528954bd3a312c34a80</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 10:30:00 +0000</pubDate>
-<description>While oil is known to float, new research finds that over time it can permeate even extremely deep marine habitats, with animal populations declining by as much as 80 percent.</description>
-<enclosure url="https://media.wired.com/photos/6ad9cf0216c3bcd306bcde9c/master/pass/GettyImages-99306371.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad9cf0216c3bcd306bcde9c/master/pass/GettyImages-99306371.jpg" medium="image"/>
 </item>
 <item>
 <title>Lara Croft is 30! We look at the video game icon’s biggest blunders</title>
