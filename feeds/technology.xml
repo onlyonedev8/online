@@ -4,15 +4,147 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Here&amp;#8217;s how macOS is changing for touchscreens</title>
+<title>Apple’s new touchscreen MacBook Pros may be late, but they have one big advantage</title>
+<link>https://www.zdnet.com/tech/apples-new-touchscreen-macbook-pros-may-be-late-but-they-have-one-big-advantage</link>
+<guid isPermaLink="false">3653461c6fa192d21267d7a4bfea9d7bcd982d38095501a71ffa1b06184abf19</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:58:25 +0000</pubDate>
+<description>Apple finally revealed its new MacBook M5 Pro and Max with a touchscreen OLED display, bringing the best features from the iPhone to its laptops.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/macbook-pro-m5-max.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/macbook-pro-m5-max.jpg" medium="image"/>
+</item>
+<item>
+<title>Brendan Carr plans to let prisons jam cellphone signals</title>
+<link>https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming</link>
+<guid isPermaLink="false">81012778951cfecfedd5f80ae67b0664b773a4b0b24cd409cf7677741de44e2d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:57:02 +0000</pubDate>
+<description>FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions, and Carr has noted they've been permitted for use at some federal facilities already. Carr claims in a statement that jammers are needed because "For years, thousands upon thousands of contraband cellphones have been pouring into prisons, and some of the worst possible offenders have been using them to order hits, coordinate violent gang activity, and aid criminal enterprises." When the FCC appr … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Your public Discord messages may soon appear in Google search results – how to opt out</title>
+<link>https://www.zdnet.com/tech/discord-servers-searchable-on-web</link>
+<guid isPermaLink="false">491e1d4113efa908334071f5c74020353b033f5269647e87d7e8cbdc52b40ccf</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:56:53 +0000</pubDate>
+<description>Discord will roll out a feature that can make your server messages discoverable on Google. Here’s how to opt out.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1244516861.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1244516861.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon’s new Alexa Photo Frame could have what I’ve been missing – here’s why</title>
+<link>https://www.zdnet.com/tech/amazon-alexa-photo-frame</link>
+<guid isPermaLink="false">ed3153a75d554e7e9db5bf13ff101d1a99438f00172dececce360af4120e013d</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:46:45 +0000</pubDate>
+<description>You can ask Amazon’s voice assistant to show you your favorite photos.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Amazon-Alexa-Photo-Frame.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Amazon-Alexa-Photo-Frame.jpg" medium="image"/>
+</item>
+<item>
+<title>Sony's new see-through DualSense controllers let you game like its 1999</title>
+<link>https://www.engadget.com/2300152/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999</link>
+<guid isPermaLink="false">86ea43ecdc8efafc555532f4e534b17803a8c9927246bfe1ec9fcc7c877007a8</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:38:17 +0000</pubDate>
+<description>The company is also releasing matching PS5 console covers.</description>
+<enclosure url="https://www.engadget.com/img/gallery/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/l-intro-1793212633.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/l-intro-1793212633.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft is ending Copilot support on smart TVs</title>
+<link>https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending</link>
+<guid isPermaLink="false">8c981a7773ea1054fdafa2b299186f918457df1184624f9f5ea2e4e199d2365e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:36:26 +0000</pubDate>
+<description>Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central . The news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on Windows Central' s Zac Bowden's webOS-powered LG TV earlier today. "Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs. As a result, the Copilot-enabled feat … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Here’s where to preorder the new MacBook Pros</title>
+<link>https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date</link>
+<guid isPermaLink="false">ca640cada92c4b361de84dcf4876c5b2be8e6e96e5b1e825decd1b82d3a63d62</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:10:23 +0000</pubDate>
+<description>As expected, Apple finally showed off its 14- and 16-inch MacBook Pros at its recent " Pro and Tell " event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight and bringing back the glowing Apple logo. While less exciting, there's also an updated 14-inch MacBook Pro that features Apple's M6 CPU, along with improved wireless connectivity. It's a small, somewhat iterative update of the prior generation , with no substantial new features beyond performance gains. Alongside the MacBook updates, Apple also announced an M6-equipped iMac that starts at $1,499 , with the same color varian … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/MacBook-Pro-M6-2026-preorder-3_5144c7.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/MacBook-Pro-M6-2026-preorder-3_5144c7.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Amazon turns its most capable smart speaker into a smart camera, too</title>
+<link>https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra</link>
+<guid isPermaLink="false">dd2432b415916b68835ffede1604a9a49330c8485daa0f6876e8b440d6ad3ca7</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:05:22 +0000</pubDate>
+<description>Since debuting in 2019, Amazon's Echo Studio targeted users who wanted superior audio quality from their Alexa-based smart speaker. The latest Echo Studio adds another less-expected differentiator: an integrated camera. The Echo Studio with Home Camera, released alongside a pile of other Alexa devices today, doesn’t have many audio upgrades over the standard Echo Studio. Each speaker has one 3.75-inch high-excursion woofer and three full-range drivers. They both support Dolby Atmos and Amazon’s proprietary algorithm for adding a surround sound-like effect to stereo audio. Per the devices’ product pages, the speakers have lossless HD audio, Advanced Room Adaptation, and features for fighting noise distortion. Amazon announced the Advanced Room Adaptaion today, saying that the feature “continuously tunes the sound to your space, automatically adapting to the room's acoustics.” Both speakers have four-microphone arrays and the same AZ3 Pro processor that Amazon introduced a year ago . The processor has an AI accelerator for using Amazon's Alexa+ generative AI chatbot . Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png" medium="image"/>
+</item>
+<item>
+<title>You can see every red flag in Theranos 2.0</title>
+<link>https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything</link>
+<guid isPermaLink="false">fed12fe7687db12af9d3c085a3114df5c0c44dacaf4cd2c48692d25f0bf38585</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
+<description>They’re getting the band back together for Theranos 2.0. Supposedly. | Photo: Getty Images This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here . From afar, it's easy to look back at the Theranos debacle and scream at Nathan Fielder that, obviously, Elizabeth Holmes is lying in You Can See Everything . In the weeks since the movie's release, journalists and whistleblowers alike have rushed to remind moviegoers of Holmes' numerous documented lies. Chief among the facts: The Theranos device never worked as advertised. But Fielder's aim with this film wasn't relitigating Ther … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1248465318.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1248465318.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>These Claude Enterprise features let you track AI ROI – what’s new</title>
+<link>https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking</link>
+<guid isPermaLink="false">912c088ec1060c5c04e92a7104169eb36fac1d59f9d6ac1bd9c5b7ee97400e65</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
+<description>Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1700889615.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1700889615.jpg" medium="image"/>
+</item>
+<item>
+<title>Cadillac Escalade IQ review: Huge battery, huge range, huge SUV</title>
+<link>https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels</link>
+<guid isPermaLink="false">103d72fa0a0d8dbe3a36acacc139e235995aef8745e86e77662ff27a863f69c2</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 17:55:45 +0000</pubDate>
+<description>“Please have at least 125 miles of range left when we pick it up.” That request from the people who look after the Cadillac press cars wasn’t going to be hard to honor. The electric Escalade IQ arrived with an indicated range of 440 miles (708 km), and with a full week of work to squeeze in, getting anywhere close to needing to recharge it seemed unlikely. With more than 200 kWh of lithium-ion battery between its axles, range is one thing the big electric Caddy needn’t worry about. Designed and debuted during a time of greater EV optimism, the Escalade is Cadillac’s statement that swapping out a V8 for a pair of powerful electric motors is no compromise to its ambitions, even if the brand’s future will now include a mix of electric and combustion cars beyond 2030 . It shares a battery pack and much else with other full-size GM EVs we’ve tested: the Chevrolet Silverado EV , the GMC Sierra EV , and of course the divisive Hummer EVs . And like those trucks and SUVs, the Escalade is large and heavy—just small enough to fit into a standard parking space, with a curb weight sufficient to push it into the Class 3 truck category. So, the side mirrors are flat, and there’s no formal EPA range—Cadillac says it achieves 460 miles (740 km) on the EPA test cycle—but there are plenty of airbags, even though the 9,046 lb (4,103 kg) curb weight does not require them. Yes, you did read that right, it does weigh 4 tons. And yes, the electric Escalade does weigh a third more than the last gas-powered one we tested . Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s how macOS is changing for touchscreens</title>
 <link>https://www.theverge.com/tech/1020084/macos-touchscreen-changes</link>
 <guid isPermaLink="false">b0fcafa5542715b625ee2b26711f26d7452f1c82eb7eccdde93b648d044962f2</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 17:48:28 +0000</pubDate>
-<description>Reach out and touch screen. Touchscreen laptops are nothing new in the Windows world , but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though; most of the touch action will be in the apps themselves, it seems. As far as major macOS changes go, iOS's Dynamic Island will be debuting on the new MacBook Pro, and Apple touts the added touch controls as particularly useful for interacting with the interface to accept AirDrops and pause music playback. Otherwise, Apple gives some pretty predictable ways that the touch input will work with the new MacBook Pro. You'll be … Read the full story at The Verge.</description>
+<description>Reach out and touch screen. Touchscreen laptops are nothing new in the Windows world , but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though: Most of the touch action will be in the apps themselves, it seems. As far as major macOS changes go, iOS's Dynamic Island will debut on the new MacBook Pro, and Apple touts the added touch controls as particularly useful for interacting with the interface to accept AirDrops and pause music playback. Otherwise, Apple gives some pretty predictable ways that the touch input will work with the new MacBook Pro. Gestures you coul … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-10.31.37-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-10.31.37-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google AI gets cagey when asked who won the 2020 elections</title>
+<link>https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections</link>
+<guid isPermaLink="false">ef243006ac6a7e08f10375eeac8ba9ef395115542d91286c68c7a37d1e6c8b18</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 17:46:32 +0000</pubDate>
+<description>If you ask some prominent US politicians who won the 2020 presidential election, you might get some weasely answers that fail to directly acknowledge Joe Biden's win that November. If you ask Google's AI Mode the same question, you might get an evasive answer that simply tells you to consult with outside sources. When I put the direct question of "Who won the 2020 presidential election?" to Google's AI Mode this morning (after seeing complaints about cagey answers on social media ), I got the following surprisingly indirect response: "To review the official results and statistics of the 2020 United States presidential election, including the final electoral college breakdown, popular vote counts, and winner certification, please consult the official report compiled by the Federal Election Commission (FEC)." My testing resulted in a similarly indirect answer when asking about the 2024 presidential election, with Google's AI telling me to just consult the FEC for that information. Asking about 2012 election resulted in a link to The American Presidency Project's 2012 Data Center rather than a direct answer. But AI Mode seemed perfectly willing to give me a detailed and correct responses for the winner of every other presidential election going back to 2000. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple's first touchscreen MacBook Pro feels both familiar and radically improved</title>
@@ -22,8 +154,19 @@
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 17:43:10 +0000</pubDate>
 <description>It's thinner, lighter and has a better screen - but it's still a MacBook Pro.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/l-intro-1793209358.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/l-intro-1793209358.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/l-intro-1793213229.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/l-intro-1793213229.jpg" medium="image"/>
+</item>
+<item>
+<title>Florida county won’t investigate sketchy Flock cameras removed by mystery owners</title>
+<link>https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners</link>
+<guid isPermaLink="false">39318ea106c4d4578b4f3c04cdd7c3f9b78aaf2c29598ed56b88da91ef8b981c</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 17:37:49 +0000</pubDate>
+<description>A Florida county that discovered a clump of mysterious unpermitted Flock cameras during a countywide takedown effort won’t investigate who owned the sketchy cameras, which have since disappeared. On Wednesday, The Washington Post reported that St. Lucie County residents "remain upset,” not knowing who installed the cameras or how they were using the data collected. Hannah Galindo, a 31-year-old resident who petitioned to get Flock cameras removed, told the Post that she was worried “that data could be anywhere.” Of the 12 cameras found, five were eventually claimed by city law enforcement, the Post reported. Apparently, a police department mistakenly issued guidance claiming that officers could post multiple cameras under one permit, a Flock spokesperson told the Post, even though the county required individual permits. However, neither Flock nor the city police departments in Port St. Lucie and Fort Pierce that claimed the sketchy cameras will confirm who gave the guidance. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2290773984-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2290773984-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Here's how the touchscreen on the MacBook Pro with PROLED display works</title>
@@ -33,19 +176,30 @@
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 17:35:24 +0000</pubDate>
 <description>The touch sensor isn't a separate layer of the screen.</description>
-<enclosure url="https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793208725.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793208725.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793213611.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793213611.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple ‘Pro and Tell’ event: everything announced this week</title>
+<title>Apple ‘Pro and Tell’ event: Everything announced this week</title>
 <link>https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week</link>
 <guid isPermaLink="false">b2dfdd067ed1d3be692f145c5e255e128a74cea1417c0e3612f51097e02124d5</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 17:27:38 +0000</pubDate>
-<description>Apple closed out its week of product announcements with a "Pro and Tell" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades and updates in the days leading up to its big reveal. We've rounded them all up here. A MacBook Pro with a touchscreen Apple CEO John Ternus revealed the company's first MacBook Pro with a touchscreen, allowing you to perform gestures on your screen like scrolling, swiping, and pinching. The company says the touch sensor is "built directly into the display panel," no … Read the full story at The Verge.</description>
+<description>Apple closed out its week of product announcements with its "Pro and tell" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades and updates in the days leading up to its big reveal. We've rounded them all up here. A MacBook Pro with a touchscreen Apple CEO John Ternus revealed the company's first MacBook Pro with a touchscreen, allowing you to perform gestures on your screen like scrolling, swiping, and pinching. The company says the touch sensor is "built directly into the display panel," … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple announces touchscreen MacBook Pro with OLED display</title>
+<link>https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display</link>
+<guid isPermaLink="false">9c955f8061904d7d0558d91458a9808c6ccf5a64aa2a0af57a6164ff675abbbe</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 17:25:04 +0000</pubDate>
+<description>LOS ANGELES—Apple today announced and gave a first glimpse of its first major MacBook Pro redesign in more than five years. As rumored, it includes an OLED display and, for the first time on macOS, a touchscreen—a change Apple has long debated. (Former CEO Steve Jobs famously was opposed.) Apple's demonstration video showed users interacting with applications by reaching up to touch the screen, including file dragging and multi-touch gestures like pinch-to-zoom. It does not appear to be a 2-in-1 convertible design, though; all the footage was of people reaching up to touch the screen in a normal laptop configuration. The OLED display (which Apple is, of course, calling the PROLED XDR) seems to be the real highlight here, compared to earlier models: It can achieve 2,000 nits in terms of maximum brightness, and Apple says it has a 10,000,000:1 contrast ratio. References were made to burn-in protection, but details on which approach it's taking for that weren't yet shared. The display retains the 120 Hz variable refresh rate of its predecessors. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg" medium="image"/>
 </item>
 <item>
 <title>Watch Apple’s reveal video for the touchscreen MacBook Pro</title>
@@ -54,7 +208,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 17:19:23 +0000</pubDate>
-<description>Apple just announced its first touchscreen MacBook at its "Pro and tell" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's PROLED XDR touch display is a tandem OLED panel with up to 2,000 nits of brightness and a 120Hz refresh rate. It features a hole punch for the webcam, rather than a notch. Apple says the new laptop weighs as little as 3 pounds. It also brings back the glowing Apple logo on its lid, which Apple CEO John Ternus teased in a video on X . Pre-orders for the touchscreen MacBook … Read the full story at The Verge.</description>
+<description>Apple just announced its first touchscreen MacBook at its "Pro and tell" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's PROLED XDR touch display is a tandem OLED panel with up to 2,000 nits of brightness and a 120Hz refresh rate. It features a hole punch for the webcam, rather than a notch. Apple says the new laptop weighs as little as 3 pounds. It also brings back the glowing Apple logo on its lid, which Apple CEO John Ternus teased in a video on X . Preorders for the touchscreen MacBook … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-macbook-pro-touch-video-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-macbook-pro-touch-video-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -92,17 +246,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-iPad-Mini-Press-Image.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Instagram doesn&amp;#8217;t have a plan to pay long-form video creators</title>
-<link>https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization</link>
-<guid isPermaLink="false">bb9775325619167ea583e1d254b15acb9435123944f9b3ef07b3cec06cc7a551</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:10:46 +0000</pubDate>
-<description>Instagram is testing long-form videos ( again ) to lure in creatives from YouTube, but the platform hasn't figured out how (or if) it'll actually pay them. After Instagram head Adam Mosseri announced Features on Monday, creators immediately started voicing their complaints on Threads and Reddit about the lack of monetization opportunities, compared to the ad share and performance-based incentives provided by YouTube. Mosseri addressed the monetization concerns in a Threads post yesterday , saying "We understand the economics matter a ton, and are exploring multiple options to help long-form creators get paid." It's anyone's guess what those so … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Fake PS5 emulators on GitHub are spreading password-stealing malware</title>
 <link>https://www.engadget.com/2299912/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware</link>
 <guid isPermaLink="false">ec9aef2a2b9df83795de8124fa4b0608daafdd8882f84196db62445cccffc3e6</guid>
@@ -112,28 +255,6 @@
 <description>This is according to the threat research arm of NordVPN.</description>
 <enclosure url="https://www.engadget.com/img/gallery/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware/l-intro-1793207317.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware/l-intro-1793207317.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple announces its first touchscreen MacBook Pro</title>
-<link>https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell</link>
-<guid isPermaLink="false">42b3c6ccf6f60684675b53b38e98eed86640a4b29885225ea989c483203b6366</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:05:56 +0000</pubDate>
-<description>Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its "Pro and tell" event on Wednesday. It starts at $2,899 for the 14-inch model, or $3,399 for the 16-inch version, and it's available to preorder today ahead of its release on November 6th. The new MacBook Pro has what Apple calls a "PROLED XDR" display, which is a tandem OLED screen. It offers up to 2,000 nits of peak SDR brightness, up to a 120Hz refresh rate, and a 10,000,000:1 contrast ratio. It's equipped with M5 Pro or M5 Max chips - not the M6 chip on the other MacBook Pros announced this week. There's a Dynamic Island on the screen that can show you things … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms</title>
-<link>https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence</link>
-<guid isPermaLink="false">db30df4bb3be374c702132d64855407ef8b7c0f5687081dfe963325503362f8b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
-<description>Following improvements made to Chrome's enhanced autofill last year that included your name, passport number , email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving you from having to search for confirmation emails, receipts, or shipping updates yourself. The expanded autofill capabilities can retrieve details such as a shipment's tracking number, travel details like a flight booking number or hotel reservation, … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The Xreal Aura smartglasses are now on sale for a discounted launch price</title>
@@ -169,17 +290,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" medium="image"/>
 </item>
 <item>
-<title>Touchscreen MacBook live blog: On the ground at Apple’s launch event</title>
-<link>https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog</link>
-<guid isPermaLink="false">fcac31bbeeefaa47fd2f89389f9a02aa0b4582fd1aa217e08b1b46e3b44e4658</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 16:33:32 +0000</pubDate>
-<description>The MacBook Pro has looked mostly the same for several years now. And it’s never had a proper touchscreen. | Photo by Antonio G. Di Benedetto / The Verge Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display , and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac . The Macs are the definition of iterative updates - they're quiet refreshes that look just like their direct predecessors. But today should be a whole lot more interesting. At an event in Los Angeles, Apple is expected to debut a revamped MacBook Pro with a touchscreen display . This would be the first touchscreen on a Mac (not counting the beleaguered Touch Bar ). Touchscreen laptops are something Apple executives have criticized for about as long as the iPad has existe … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>New York governor signs AI chatbot child safety law</title>
 <link>https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law</link>
 <guid isPermaLink="false">133565d9dc542d086c0038d7f3dc47d0f4fa15ab9ed98131dbc4764a0918e405</guid>
@@ -189,17 +299,6 @@
 <description>A separate law aims to shore up security on connected baby monitors.</description>
 <enclosure url="https://www.engadget.com/img/gallery/new-york-governor-signs-ai-chatbot-child-safety-law/l-intro-1793205110.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/new-york-governor-signs-ai-chatbot-child-safety-law/l-intro-1793205110.jpg" medium="image"/>
-</item>
-<item>
-<title>All the news from Apple’s ‘Pro and tell’ event</title>
-<link>https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements</link>
-<guid isPermaLink="false">ea0456dc51d6edfe871b5841c27483957f6ca3433b203b7b7726453b18461256</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
-<description>Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView , its first smart display, and a little over a month after it announced the iPhone Duo , its first foldable. Its next event could feature yet another first for Apple: a MacBook with a touchscreen. A few devices received updates in the days leading up to the event. Apple announced an updated iPad Mini with a larger OLED display on Monday. The iMac and entry-level MacBook Pro were refreshed with M6 chips on Tuesday. Both are likely to pop up at Wednesday’s event, but their early announcement clears the way for a touchscreen MacBook to be the star of the show. This event will also continue a streak of product launches at Apple since John Ternus took over as its CEO on September 1st. So far, the flurry of new devices has also included the iPhone 18 Pro , new Apple Watches , the AirPods 5 , and the HomePod Mini 2 . Follow along here for all the latest news and updates. Here’s how macOS is changing for touchscreens Apple’s polishing cloth adds critical support for the new touchscreen MacBook Pro. Apple ‘Pro and Tell’ event: everything announced this week Watch Apple’s reveal video for the touchscreen MacBook Pro Hands-on with Apple’s touchscreen MacBook Pro Apple announces its first touchscreen MacBook Pro Touchscreen MacBook live blog: On the ground at Apple’s launch event Apple refreshes the iMac with M6 chips Apple updates the MacBook Pro with M6 chips Apple’s Greg Joswiak teases an ‘exciting week.’ What to expect from Apple’s ‘Pro and tell’ event Apple teases MacBook Pro event next week</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>GitHub powering up four million extra cores to stop its service going down</title>
@@ -508,17 +607,6 @@
 <description>Samsung is returning to open-ear design wireless buds and these ones clip on.</description>
 <enclosure url="https://www.engadget.com/img/gallery/samsungs-galaxy-buds-on-are-its-first-clip-on-open-ear-wireless-earphones/l-intro-1793184044.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/samsungs-galaxy-buds-on-are-its-first-clip-on-open-ear-wireless-earphones/l-intro-1793184044.jpg" medium="image"/>
-</item>
-<item>
-<title>The Alexa Home Map is a visual way to see and control your smart home</title>
-<link>https://www.engadget.com/2299183/alexa-home-map-visual-way-see-control-smart-home</link>
-<guid isPermaLink="false">1878bad2357852b0b393c5eb2e42e6b23ae993a7386d00524c7c1efd16bde9a4</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-<description>Amazon's Alexa Home Map will show you a visual representation of your smart home.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-alexa-home-map-is-a-visual-way-to-see-and-control-your-smart-home/l-intro-1793157116.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-alexa-home-map-is-a-visual-way-to-see-and-control-your-smart-home/l-intro-1793157116.jpg" medium="image"/>
 </item>
 <item>
 <title>Cisco open sources tool for detecting AI agents on hacking sprees</title>
@@ -950,17 +1038,6 @@
 <media:content url="https://image.theregister.com/?imageId=5305685&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Apple iPhone Duo review: Two screens, two experiences, two thousand dollars</title>
-<link>https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars</link>
-<guid isPermaLink="false">3de55f2cee81111efe474c2c16e9c7f1e55aaec9923b86d843a35f08db827c90</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 14:20:26 +0000</pubDate>
-<description>I understand the appeal of foldable phones—they let manufacturers keep expanding screen sizes while still producing devices that can reasonably fit in a pocket. In practice, though, every foldable Android phone I've seen in public has had a ridiculously visible seam between the two halves of the screen, often with what looks like delamination from the underlying surface, giving the display an ugly, bubbly appearance. Back when Android phones began shipping with bigger and bigger screens and the iPhone was stuck at a miserly four inches, I was jealous. But I've never looked at anyone using a chunky, fragile-looking foldable phone in public and pined for Apple's take on the idea. Nevertheless, that take has arrived, in the form of the iPhone Duo . This $1,999-and-up foldable is the biggest change to the iPhone in years, with both hardware and software updates that dramatically change how you interact with the device. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg" medium="image"/>
-</item>
-<item>
 <title>‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film</title>
 <link>https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan</link>
 <guid isPermaLink="false">683f624d4c614a2ed3a5dafacebe9be700973cc2b5c632cfb0a9e4bf214d3144</guid>
@@ -972,17 +1049,6 @@
 <media:content url="https://i.guim.co.uk/img/media/f5bb844cbf76398948b5d3efa0fb0e79205a0c23/408_0_1983_1586/master/1983.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10eb8ba141933821012eaff5dbbcdf4e" medium="image"/>
 </item>
 <item>
-<title>Some iPhone Duo screens are already failing, Apple says only a "small number" are affected</title>
-<link>https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing</link>
-<guid isPermaLink="false">e9b4c2b14ca7f83e94e5eee8e6c9454eb167dbd45848fdc3cd4c9c557eec405a</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 14:00:49 +0000</pubDate>
-<description>The iPhone Duo launched last week, offering anyone willing to spend $2,000 a chance to experience Apple's first foldable phone. For some early buyers, the morning after isn't going great. Despite the company's big talk about its "precision-engineered" hinge, some devices appear to have a hardware flaw that destroys the device's impressive internal display within hours (or minutes) of use. The Internet is currently overflowing with images of busted iPhone Duos, all sporting almost identical damage. The OLED is marred by several bright lines originating just below the midpoint of the display. These bands of damaged pixels extend all the way to the bottom and right edges. Some units also show lines of dead pixels following the crease from the top to the area where the bright lines begin. Anyone who has seen a damaged OLED panel will be familiar with this type of defect. When the layers of the display are damaged, the pixels no longer receive the correct voltage to illuminate them. Instead, they get the full driving voltage and are permanently on at maximum brightness. Some pixels can get no voltage, leaving them totally black. The only fix is to replace the OLED, but swapping the iPhone Duo's screen reportedly costs half as much as the device itself. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>A whopping 3% of boardroom execs spy productivity and costs savings from AI</title>
 <link>https://www.theregister.com/ai-and-ml/2026/10/27/a-whopping-3-of-boardroom-execs-spy-productivity-and-costs-savings-from-ai/5305675</link>
 <guid isPermaLink="false">af1edd224c02ed9324a7b8fd5ed6b4ffc69492fd1e59febe1a9b9071e091bfd7</guid>
@@ -992,28 +1058,6 @@
 <description>Three-quarters of corporate board members expect AI to deliver productivity gains and cut costs, yet only three percent of organizations have hit their targets, according to researchers at Gartner. The figures came out of the analyst’s HR Symposium, where it also reported that 38 percent of companies are over budget on AI spending, and 85 percent still plan to spend even more next year. "Ultimately, organizations will not generate cost savings from AI at this point," said CV Viverito, senior director analyst for Gartner's HR practice. "The greater opportunity is to use AI to do things that weren't possible before, such as shifting employee time into new capabilities, outcomes, and sources of growth." Gartner claims that at least 75 percent of biz leaders are out of step with the broader organization on where AI creates value, which stalls transformation efforts and muddies how to position the workforce and bag those returns. Organizations should concentrate AI on the work that matters most to the business, with HR helping execs to agree on the top bets based on strategy, Gartner advises. Companies should also spread existing AI expertise across the business rather than wait to hire scarce specialists, and give managers room to redesign the work around the technology, it adds. Only about one in five employees' time is freed-up by AI, letting them redirect toward more innovative work, the HR Symposium heard. “There isn’t a struggle to create capacity, that’s happening already as organizations redesign work,” claimed Viverito. “What organizations are struggling with is how to make that capacity usable and redirecting it to what is valuable.” That starts - or so we're told - by giving employees the skills to take on higher-value, AI-enabled work, which, of course, means spending more on training. The takeaway is that getting a return on AI projects is harder than expected, and companies are going to have to stick with it and be prepared to institute changes in the way they and their staff work before they see any tangible benefits. A recent Forrester report concluded that AI will likely account for 20 percent of all business technology spend next year , yet more than half of CIOs are likely to miss their ROI targets for the technology Another piece of research from KPMG earlier this year found that most UK business leaders aim to keep AI at the top of their spending priorities even if it isn’t working , with 65 percent planning to maintain investment whether they see immediate measurable returns or not. How long that resolve lasts is an open question. Private equity giant Apollo Global Management is the latest to raise doubts, noting this week that the "Magnificent Seven" tech giants are reaping the rewards of all that AI spending, while the rest of the S&amp;P 500 has seen no sign of AI boosting productivity growth. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5305717&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5305717&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Sculpture re-creates odd optical effects of famed Lycurgus Cup</title>
-<link>https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup</link>
-<guid isPermaLink="false">f7f0ec5c6a1084c922ca334cf85b26c00fa726adb4d3ffd95b7ac12e9ed3a561</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:32:35 +0000</pubDate>
-<description>Dating back to around 400 CE and made of dichroic glass, the Lycurgus Cup is notable for exhibiting different colors depending on the light. (It gets its name from the scene depicted on its surface, of King Lycurgus of Thrace.) Light it from the front, and the cup looks green; light it from behind, and the color changes to a deep red. University of Sheffield scientists have re-created the original recipe to produce a contemporary glass sculpture with the same optical effect. The cup is considered one of the seven glass wonders of the world, one of just 40 glass cage cups that survived. Exactly why the unusual color effects of the Lycurgus Cup occurred was a mystery until 2007 , when a team of scientists discovered the color shifts were due to the presence of nanoparticles in the glass—the result of Roman artisans adding finely ground gold and silver into the mix. Those nanoparticles change how the electrons in the cup vibrate in response to light so that the color one sees shifts with the observer’s vantage point. As we reported in 2019, it’s a similar phenomenon to the one responsible for the shifting colors of 19th-century daguerreotypes due to the scattering properties of nanoparticles. The Romans added salt when they melted the silicon (sand) to make the glass, and those salts contained gold atoms. In the melting process, those atoms aggregate and produce nanoparticles, which in turn produce the colors. It’s how any stained glass is made. It's also similar to how the precise lattice-like structure of photonic crystals produces iridescent colors in nature, like the wings of butterflies, or opals. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg" medium="image"/>
-</item>
-<item>
-<title>US officials want Section 702 renewed before damaging court ruling goes public</title>
-<link>https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public</link>
-<guid isPermaLink="false">3a93e7b5876c90870e18bf06415c2d9c9b5cc0d4ad0d19fc2f4d37083d7cb424</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:22:16 +0000</pubDate>
-<description>Two Democratic senators who have long overseen US intelligence say the Trump administration is illegally withholding a secret court’s findings from Congress until lawmakers renew a program that lets federal agents read Americans’ communications without a warrant. Seven months ago, the Foreign Intelligence Surveillance Court objected to search filters that let intelligence analysts pull Americans’ messages from intercepted data without the approvals, written justifications, or records the law requires. The court approved another year of surveillance anyway. The ruling has never been made public, and Senators Ron Wyden of Oregon and Adam Schiff of California say the administration’s own deadline for releasing it passed in September. The program, Section 702 of the Foreign Intelligence Surveillance Act (FISA), lapsed in June after Congress failed to renew it, though collection continues under the court’s March approval. The administration’s own public documentation says rulings like this one are reviewed for public release “within 180 days of issuance.” That window closed September 13, even as intelligence officials press lawmakers to reauthorize the program by the end of the year. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple's foldable phone has a crease in its reputation</title>
@@ -1269,17 +1313,6 @@
 <media:content url="https://image.theregister.com/?imageId=5305594&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Microsoft offers to buy out a quarter of its workforce</title>
-<link>https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees</link>
-<guid isPermaLink="false">2b1fe4895a96a5768968220a5b52165c7fcd29a0956e36e4660ed8149419b634</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 22:36:06 +0000</pubDate>
-<description>On Monday, Microsoft said it is offering voluntary buyouts to eligible employees in select parts of the company. CNBC reports that the buyouts will be offered to roughly 60,000 employees , or about a quarter of its global workforce. The company describes the offer as an opportunity for employees who may have already been considering career moves outside Microsoft. While Microsoft did not give a direct reason for the buyout package, it comes as the company has spent the last several years managing costs amid investment in AI infrastructure and data-center buildout. Microsoft will extend the voluntary exit offer (VEO) to qualifying employees in the United States, India, Canada, and the United Kingdom. Microsoft employees at level 70 or below will be eligible for the buyout program. The company's employee rankings are internal, but according to the salary and career database Levels.fyi , levels 65–67 correspond to principal positions, and 68–70 are at the partner/distinguished level. According to Chief People Officer Amy Coleman, eligible organizations were selected "based on each business’s priorities, customer commitments and workforce needs." The effort is the second time Microsoft has run a voluntary workforce reduction in 2026. In April, the company offered its first voluntary retirement package to 8,750 US employees. In July, the Xbox division laid off 3,200 employees , or about 20 percent of its entire gaming division. As reported by CNBC , about 30 percent of eligible employees accepted the retirement offer, lessening the impact of the planned layoffs, according to Coleman. While the offer in April went out to long-tenured employees who might be nearing the end of their career, the VEO expands the effort to a much larger potential pool. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Worm armed 42 GitHub repos by hiding a payload too big to fail</title>
 <link>https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570</link>
 <guid isPermaLink="false">7e3495a073f22bed7d0176b9c409e524dc1f58758e6123e44d21fbc73b58cb75</guid>
@@ -1509,50 +1542,6 @@
 <description>Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extra pressure on Infinity Ward, the studio leading Modern Warfare 4 development. Fortunately, this developer – like series heroes Price, Gaz and Ghost – seems to thrive on pressure. As you may have read , this year’s campaign is based around a fictitious North Korean ruling family that has seized an opportunity to invade its southern neighbour. Amid the chaos, a small group of Korean and American marines must help lead the fightback, while in the shadows, SAS hard man John Price makes an unlikely new comrade in his own morally ambiguous quest to put the world to rights. Mads Mikkelsen pops up as evil mastermind The Archer, but like Kiernan Shipka in Black Ops 7 he’s rather wasted, with very little screen time. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/aadca8b8e8a16323ad37c7be1f9c2e7e409cc7c9/573_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58cce49e66c95b56a6dda2490237751c" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/aadca8b8e8a16323ad37c7be1f9c2e7e409cc7c9/573_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58cce49e66c95b56a6dda2490237751c" medium="image"/>
-</item>
-<item>
-<title>Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks</title>
-<link>https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai</link>
-<guid isPermaLink="false">325f3964f211be47503197591edafc9a33b6e633f513e11ce6e1428785df3491</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 15:55:55 +0000</pubDate>
-<description>Unlike narrated audiobooks from Audible and other providers, the audiobooks created with Virtual Voice in Kindle+ will instead be narrated by AI.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/f81cca78-3254-44e3-870c-cbfa2d83af91.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/f81cca78-3254-44e3-870c-cbfa2d83af91.jpg" medium="image"/>
-</item>
-<item>
-<title>The latest PowerToys gives your mouse 2 new tricks for free – how to use them</title>
-<link>https://www.zdnet.com/tech/powertoys-102-windows-mouse-control</link>
-<guid isPermaLink="false">d35aee4c6dccdb316f42e063b29b91cf7cc8325bb447037ca8e0f9f1e2450149</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 15:17:56 +0000</pubDate>
-<description>PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here’s what’s new for mousing.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/PowerToys-Mouse-Button-Lock-in-action.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/PowerToys-Mouse-Button-Lock-in-action.jpg" medium="image"/>
-</item>
-<item>
-<title>GridCraft is the open-source Excel clone for Linux I’ve been waiting for</title>
-<link>https://www.zdnet.com/tech/gridcraft-excel-clone-hands-on</link>
-<guid isPermaLink="false">a18b542cbecd1c5fbdc1c66d2f4889b7997fc6a927062dda24d659421dbfabb3</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 02:00:00 +0000</pubDate>
-<description>If spreadsheets are your thing, but Microsoft Office isn’t, you might want to give the open-source clone, GridCraft, a try.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/gridcrafthero.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/gridcrafthero.jpg" medium="image"/>
-</item>
-<item>
-<title>Not impressed with Google Maps? Make Waze your default on Pixel – here’s how</title>
-<link>https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel</link>
-<guid isPermaLink="false">833dfe301e30e680c86ed3f02d0387abc0e2c2aea65aac515e5a9736ef88fef3</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 01:00:00 +0000</pubDate>
-<description>If you’re tired of Google Maps failing to get you where you need to go, set Waze as the default on your Pixel. I’ve finally figured out how.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/wazehero2.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/wazehero2.jpg" medium="image"/>
 </item>
 <item>
 <title>Labor and the Coalition are poised to take a reckless gamble on AI. Haven’t they realised community support has collapsed? | Edward Santow and Sarah Sacher</title>
