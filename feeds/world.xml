@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>WATCH: Tampa Bay Rays keep World Series dreams alive</title>
+<link>https://abcnews.com/video/137634949</link>
+<guid isPermaLink="false">1e17bcb541c5c63201ee963f57b6916259eb43229465e5c198a137eb9232b535</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 28 Oct 2026 13:50:14 +0000</pubDate>
+<description>ABC News’ Will Reeve has the big moments from the extra-inning thriller in Game 4, where the Rays avoided the sweep.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261028_gma_reeve_worldseries_716_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261028_gma_reeve_worldseries_716_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Rays stun Brewers with rally in 12th inning and force World Series Game 5</title>
 <link>https://abcnews.com/Sports/wireStory/rays-stun-brewers-2-run-rally-12th-inning-137629987</link>
 <guid isPermaLink="false">052c36342b6733e097e0a591fa66831dc8758755c525921f5934c25ffa7489ef</guid>
@@ -68,17 +79,6 @@
 <description>With Halloween this weekend, many families are already planning for Thanksgiving, and Rebecca Jarvis is at a turkey farm in New Jersey with ways to save on your Thanksgiving meal.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261028_gma_jarvis_thanksgiving2_739_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261028_gma_jarvis_thanksgiving2_739_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Tampa Bay Rays keep World Series dreams alive</title>
-<link>https://abcnews.com/video/137634949</link>
-<guid isPermaLink="false">1e17bcb541c5c63201ee963f57b6916259eb43229465e5c198a137eb9232b535</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 28 Oct 2026 13:10:39 +0000</pubDate>
-<description>ABC News’ Will Reeve has the big moments from the extra-inning thriller in Game 4, where the Rays avoided the sweep.</description>
-<enclosure url="https://s.abcnews.com/images/GMA/261028_gma_reeve_worldseries_716_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/261028_gma_reeve_worldseries_716_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: All eyes on rising prices</title>
@@ -334,15 +334,15 @@
 <media:content url="https://s.france24.com/media/display/f5208860-d2b3-11f1-9e26-75c7729144f1/w:1024/p:16x9/EN-20261028-101223-101424-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>At least 30 dead in crash between two trains in central Spain, media say</title>
+<title>Dozens are dead in a high-speed train crash in Spain</title>
 <link>https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster</link>
 <guid isPermaLink="false">aeecd09938a56dc1753ad789201f411b8fa7186194c2f599240c273b93cbd3ac</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Wed, 28 Oct 2026 10:09:46 +0000</pubDate>
-<description>A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 30 people on Wednesday in central Spain, according to local media. (Image credit: Juanma Jiménez)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5040x3360+0+0/resize/5040x3360!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2Fae%2F21c98d8f464684fa3f1424c9ba8c%2Fap26301350180722.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5040x3360+0+0/resize/5040x3360!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2Fae%2F21c98d8f464684fa3f1424c9ba8c%2Fap26301350180722.jpg" medium="image"/>
+<description>The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year. (Image credit: Juanma Jiménez)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1241+0+0/resize/2000x1241!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F8a%2F417aad664031913c1335e9797e08%2Fap26301360905635.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1241+0+0/resize/2000x1241!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F8a%2F417aad664031913c1335e9797e08%2Fap26301360905635.jpg" medium="image"/>
 </item>
 <item>
 <title>Cruise ship left stranded in Cambodia after 'soaring fuel costs'</title>
@@ -433,17 +433,6 @@
 <media:content url="https://s.france24.com/media/display/b95a0fb6-d2c9-11f1-93fc-47de50b3c1e4/w:1024/p:16x9/AP26301441408849.jpg" medium="image"/>
 </item>
 <item>
-<title>Senate candidates built up massive campaign war chests with out-of-state donations</title>
-<link>https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff</link>
-<guid isPermaLink="false">9731125c31d0cbaa0f57887f56b7722e256efcd837ada6743232fa269e256946</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
-<description>In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home. (Image credit: Elijah Nouvelage)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2Fc9%2F7f0bc5a146378a9fb8b82095ae20%2Fgettyimages-2300238086-1.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2Fc9%2F7f0bc5a146378a9fb8b82095ae20%2Fgettyimages-2300238086-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Why many student voters have a right to choose where to register to vote</title>
 <link>https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting</link>
 <guid isPermaLink="false">678bd4db663f29a78f6020ef51f730c773b8e0570cc745eb336c3c6d41b6642a</guid>
@@ -477,6 +466,17 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F30%2F9d8b0a5f46fca54af1dd6e3a4c0d%2Fgettyimages-2301268276.jpg" medium="image"/>
 </item>
 <item>
+<title>Senate candidates built up massive campaign war chests with out-of-state donations</title>
+<link>https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff</link>
+<guid isPermaLink="false">9731125c31d0cbaa0f57887f56b7722e256efcd837ada6743232fa269e256946</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
+<description>In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home. (Image credit: Elijah Nouvelage)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2Fc9%2F7f0bc5a146378a9fb8b82095ae20%2Fgettyimages-2300238086-1.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2Fc9%2F7f0bc5a146378a9fb8b82095ae20%2Fgettyimages-2300238086-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Are you an organ donor? Here are some rule changes you may want to know</title>
 <link>https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk</link>
 <guid isPermaLink="false">e6bc56689e7d47b3a018eb664065e8df04b7b02588a59a135a3a7fdd9ada0505</guid>
@@ -488,17 +488,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2800x2000+0+0/resize/2800x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2Fcd%2F4a241f91409c8b5294b9a8946af0%2Fgettyimages-2204900491.png" medium="image"/>
 </item>
 <item>
-<title>New teachers union president wants to steer educators away from partisan politics</title>
-<link>https://www.npr.org/2026/10/28/nx-s1-5953069/national-education-association-nea-president-princess-moss-politics</link>
-<guid isPermaLink="false">1a88758687ea2538ec42f3c54c8ef4722f287cb24648cb11e8f52441a45842bd</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
-<description>NEA President Princess Moss wants to move her organization, the nation's largest labor union, toward issue-based advocacy — and away from party politics. (Image credit: The National Education Association)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1500x2000+760+0/resize/1500x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F99%2F17%2Fc43cf2584e12ab2bd77be1161609%2Fnpr-princess-moss-wide.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1500x2000+760+0/resize/1500x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F99%2F17%2Fc43cf2584e12ab2bd77be1161609%2Fnpr-princess-moss-wide.jpg" medium="image"/>
-</item>
-<item>
 <title>How a lifelong Republican came to lead the data center battle in Ohio</title>
 <link>https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio</link>
 <guid isPermaLink="false">5f020f87a8c302a54d60218aef6715af328036d0c33b29243ecb798160263732</guid>
@@ -508,6 +497,17 @@
 <description>In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns. (Image credit: Andrea Hsu)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x4284+0+0/resize/5712x4284!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2Ffc%2F8b4adba04f2f96cf4d50b206335d%2Fimg-7165.JPG" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x4284+0+0/resize/5712x4284!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2Ffc%2F8b4adba04f2f96cf4d50b206335d%2Fimg-7165.JPG" medium="image"/>
+</item>
+<item>
+<title>New teachers union president wants to steer educators away from partisan politics</title>
+<link>https://www.npr.org/2026/10/28/nx-s1-5953069/national-education-association-nea-president-princess-moss-politics</link>
+<guid isPermaLink="false">1a88758687ea2538ec42f3c54c8ef4722f287cb24648cb11e8f52441a45842bd</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
+<description>NEA President Princess Moss wants to move her organization, the nation's largest labor union, toward issue-based advocacy — and away from party politics. (Image credit: The National Education Association)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1500x2000+760+0/resize/1500x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F99%2F17%2Fc43cf2584e12ab2bd77be1161609%2Fnpr-princess-moss-wide.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1500x2000+760+0/resize/1500x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F99%2F17%2Fc43cf2584e12ab2bd77be1161609%2Fnpr-princess-moss-wide.jpg" medium="image"/>
 </item>
 <item>
 <title>Zookeeper dies after leopard attack</title>
@@ -565,13 +565,13 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-us-embassy-london_7389296.jpg?20261028041543" medium="image"/>
 </item>
 <item>
-<title>Flavio Bolsonaro flies from Argentina after Brazil election defeat</title>
+<title>Flavio Bolsonaro lands in US after fleeing Brazil following election defeat</title>
 <link>https://news.sky.com/story/flavio-bolsonaro-flies-from-us-after-brazil-election-defeat-reports-he-fled-to-miami-13604558</link>
 <guid isPermaLink="false">d8f83f5b88f9108dcab7b1c4bacff177af1d974eff90c8e10d6b9c9a191d8f38</guid>
 <source>Sky News World</source>
 <category>world</category>
 <pubDate>Tue, 27 Oct 2026 21:35:00 +0000</pubDate>
-<description>Argentina has said Flavio Bolsonaro entered the country before boarding a private flight to Ecuador on Tuesday after losing Brazil's presidential election.</description>
+<description>Flavio Bolsonaro and his family have arrived in the US after fleeing Brazil following Sunday's presidential election runoff defeat.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-bolsonaro-flavio-brazil_7389166.jpg?20261027220745" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-bolsonaro-flavio-brazil_7389166.jpg?20261027220745" medium="image"/>
 </item>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Google Cloud outlines MPC service for institutional Bitcoin custody</title>
+<link>https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody</link>
+<guid isPermaLink="false">6a4f4e226db0bda92d2064787b0adf4b2f2cab6a03ca6534a2e94e16133e8bac</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 13:47:51 +0000</pubDate>
+<description>Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg" medium="image"/>
+</item>
+<item>
 <title>Brazilian Banking Giant Itaú Formalizes Crypto Role as Brazil Closes Its Licensing Window</title>
 <link>https://bitcoinmagazine.com/news/brazilian-banking-giant-itau-crypto</link>
 <guid isPermaLink="false">407c808cd579f23d7f96bbf178759b7c7d2a65b3488954f9733296524b198888</guid>
@@ -805,17 +816,6 @@
 <description>Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XH194AWQZA2BD0554BJQHS/hi-hardware-vs-software-wallets-key-differences-to-know.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XH194AWQZA2BD0554BJQHS/hi-hardware-vs-software-wallets-key-differences-to-know.jpg" medium="image"/>
-</item>
-<item>
-<title>Ripple wins final US approval for national trust bank</title>
-<link>https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank</link>
-<guid isPermaLink="false">14571e20d836f2af68fc9ba818bf50d5745c8a94fd4fb285f9bdd005c6aa66eb</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 27 Oct 2026 00:06:41 +0000</pubDate>
-<description>The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XAPPMS0KPKFXTRBD88QJZH/hi-pnc-uses-ripplenet.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5XAPPMS0KPKFXTRBD88QJZH/hi-pnc-uses-ripplenet.jpg" medium="image"/>
 </item>
 <item>
 <title>Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield</title>
