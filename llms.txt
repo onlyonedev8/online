@@ -1,0 +1,20 @@
+# DailyPulse
+
+> DailyPulse is a public news website hosted on GitHub Pages. It presents news through category-based feeds, including science, sports, business, cryptocurrency, and banking.
+
+## Website
+
+- Homepage: https://onlyonedev8.github.io/online/
+- Sitemap: https://onlyonedev8.github.io/online/sitemap.xml
+
+## Content and access notes
+
+- The homepage is the primary public page currently listed in the sitemap.
+- News categories may be loaded dynamically from feed files.
+- Prefer original publisher links and publication dates when referencing news.
+- Attribute reporting to the original publisher.
+- Do not assume that every feed item is a separate DailyPulse article page.
+
+## For automated systems
+
+Use the public homepage and sitemap to discover the site. Respect robots.txt and applicable source-site terms. Access to these files does not guarantee indexing, crawling, or inclusion in AI answers.
