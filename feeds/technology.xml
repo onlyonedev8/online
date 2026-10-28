@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>A hacker stole more than 40,000 DHS employee records</title>
+<link>https://www.theverge.com/tech/1021528/ice-cbp-data-leak</link>
+<guid isPermaLink="false">b6ad05727112179f3446b0884e3293eee8ce84963c6546820f3d72be0659cb43</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 21:57:45 +0000</pubDate>
+<description>A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired . The data also linked the agencies to specific surveillance tools. As reported by TechCrunch , a hacker known as "Department of Peace" gained access to the data through Okta, an identity and access management service used by the DHS. Around 21,000 records pertain to CBP employees, and ne … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Akai is embracing vibe-coded mods with an open-source MPC</title>
 <link>https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key</link>
 <guid isPermaLink="false">cf0b445a13fca74cd4d1dfb73fd207cd95d4bfcd10773851d44d3596b9fa6b3e</guid>
@@ -288,17 +299,6 @@
 <description>The company is also releasing matching PS5 console covers.</description>
 <enclosure url="https://www.engadget.com/img/gallery/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/l-intro-1793212633.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/l-intro-1793212633.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft is ending Copilot support on smart TVs</title>
-<link>https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending</link>
-<guid isPermaLink="false">8c981a7773ea1054fdafa2b299186f918457df1184624f9f5ea2e4e199d2365e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:36:26 +0000</pubDate>
-<description>Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central . The news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on Windows Central' s Zac Bowden's webOS-powered LG TV earlier today. "Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs. As a result, the Copilot-enabled feat … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Amazon turns its most capable smart speaker into a smart camera, too</title>
@@ -682,8 +682,8 @@
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 12:30:00 +0000</pubDate>
 <description>Reports indicate that a "MacBook Ultra" with a touch-sensitive display is likely on the agenda today.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793207087.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793207087.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793227331.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793227331.jpg" medium="image"/>
 </item>
 <item>
 <title>All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more</title>
@@ -752,9 +752,9 @@
 <media:content url="https://image.theregister.com/?imageId=5305491&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Man spends 35 years collecting corporate waffle, turns it into an app</title>
-<link>https://www.theregister.com/offbeat/2026/10/28/man-spends-35-years-collecting-corporate-waffle-turns-it-into-an-app/5305765</link>
-<guid isPermaLink="false">591a2c729983f843d8649200e932a4a1389fd4060e1c7526f2aa530fcf27c7ad</guid>
+<title>Man spends 35 years collecting corporatespeak, turns it into an app</title>
+<link>https://www.theregister.com/offbeat/2026/10/28/man-spends-35-years-collecting-corporatespeak-turns-it-into-an-app/5305765</link>
+<guid isPermaLink="false">dfa87bb64516423bc21ebe3cd58f98769a0e8df19a3a06229a50ff1f4a6f9013</guid>
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 10:15:00 +0000</pubDate>
