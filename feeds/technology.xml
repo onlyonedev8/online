@@ -4,6 +4,105 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms</title>
+<link>https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence</link>
+<guid isPermaLink="false">db30df4bb3be374c702132d64855407ef8b7c0f5687081dfe963325503362f8b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
+<description>Following improvements made to Chrome's enhanced autofill last year that included your name, passport number , email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving you from having to search for confirmation emails, receipts, or shipping updates yourself. The expanded autofill capabilities can retrieve details such as a shipment's tracking number, travel details like a flight booking number or hotel reservation, … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The Xreal Aura smartglasses are now on sale for a discounted launch price</title>
+<link>https://www.engadget.com/2299633/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price</link>
+<guid isPermaLink="false">96487388c5819fe5cf42a5c72e18a60334d6cc9a425816ce83073cc6954e3f15</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
+<description>The new wearable is the first of its kind to run on the Android XR platform.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/l-intro-1793202369.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/l-intro-1793202369.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon tells tokenmaxxing devs to slow their AI roll</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090</link>
+<guid isPermaLink="false">780163c74e298a36cbc4ecd1a890530c49d9b70bfd8a102227e68f55b6c8becd</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:49:14 +0000</pubDate>
+<description>Maximize value, not token usage, Amazon has told its engineers, citing concerns about rising AI costs and complexity. Amazon made the strategy shift public on Tuesday in a note to engineering teams outlining the changing role of its software development engineers in the age of AI. “Our most prolific engineers have demonstrated that neither the developer role nor their output is defined by the use of AI,” Amazon VP and distinguished engineer Terk Terkowitz wrote in the note. “We're now in the era of the Renaissance Developer, blending AI tools with human judgment and domain expertise to build entirely new things.” In other words, Amazon wants its developers using AI, but burning through tokens isn't the same thing as getting useful work done. Rather than define the developer role by how AI is used, the memo focuses on what isn't changing so fast: the need to deliver useful software and results for customers and the business. “It is difficult to define, in a way that will stand the test of time, what good AI powered engineering practices look like,” the memo continues. “We have decided to focus on what is not changing as we evolved the SDE roles … the outcomes that matter aren’t changing, even if the inputs, tools, and techniques are changing faster than ever.” What that means for software developers in the present moment is that AI input metrics, even if Amazon has seen some correlation with increased productivity and delivery on tokenmaxxing teams, aren’t what Amazon sees as a measurement of good use of developer time and resources. “We are all aware of how deeply flawed these metrics are, primarily because they are disconnected from what matters,” the memo argues. “[U]sing these metrics could, if used as a target instead of a measure, drive negative outcomes, increasing costs, and increasing complexity,” the memo continues, referring to tokenmaxxing costs and overly complex code that’s at odds with Amazon’s mission to “invent and simplify.” An Amazon spokesperson confirmed that the memo’s intent was to discourage tokenmaxxing, pointing us to comments from AWS CEO Matt Garman from June in which he encouraged developers to measure outcomes, not token consumption, in making proper use of AI tools for software development. Amazon also wants its developers thinking more about how AI can help “improve delivery for customers” and business units, not just trying to find a place to stick it to prove it's working for them. The memo calls out some engineering teams who’ve “become less connected to their customers and business,” and says teams that are more engaged with their products and business roles “are able to take the most advantage of AI and agentic software development,” in essence calling for more teams to take a similar approach. “If your work does not benefit from current AI tooling, that is a finding, not a failing,” the memo said. “An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking fo</description>
+<enclosure url="https://image.theregister.com/?imageId=5251931&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5251931&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Touchscreen MacBook live blog: On the ground at Apple’s launch event</title>
+<link>https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog</link>
+<guid isPermaLink="false">fcac31bbeeefaa47fd2f89389f9a02aa0b4582fd1aa217e08b1b46e3b44e4658</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:33:32 +0000</pubDate>
+<description>The MacBook Pro has looked mostly the same for several years now. And it’s never had a proper touchscreen. | Photo by Antonio G. Di Benedetto / The Verge Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display , and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac . The Macs are the definition of iterative updates - they're quiet refreshes that look just like their direct predecessors. But today should be a whole lot more interesting. At an event in Los Angeles, Apple is expected to debut a revamped MacBook Pro with a touchscreen display . This would be the first touchscreen on a Mac (not counting the beleaguered Touch Bar ). Touchscreen laptops are something Apple executives have criticized for about as long as the iPad has existe … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>New York governor signs AI chatbot child safety law</title>
+<link>https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law</link>
+<guid isPermaLink="false">133565d9dc542d086c0038d7f3dc47d0f4fa15ab9ed98131dbc4764a0918e405</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:33:01 +0000</pubDate>
+<description>A separate law aims to shore up security on connected baby monitors.</description>
+<enclosure url="https://www.engadget.com/img/gallery/new-york-governor-signs-ai-chatbot-child-safety-law/l-intro-1793205110.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/new-york-governor-signs-ai-chatbot-child-safety-law/l-intro-1793205110.jpg" medium="image"/>
+</item>
+<item>
+<title>All the news from Apple’s ‘Pro and tell’ event</title>
+<link>https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements</link>
+<guid isPermaLink="false">ea0456dc51d6edfe871b5841c27483957f6ca3433b203b7b7726453b18461256</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
+<description>Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView , its first smart display, and a little over a month after it announced the iPhone Duo , its first foldable. Its next event could feature yet another first for Apple: a MacBook with a touchscreen. A few devices received updates in the days leading up to the event. Apple announced an updated iPad Mini with a larger OLED display on Monday. The iMac and entry-level MacBook Pro were refreshed with M6 chips on Tuesday. Both are likely to pop up at Wednesday’s event, but their early announcement clears the way for a touchscreen MacBook to be the star of the show. This event will also continue a streak of product launches at Apple since John Ternus took over as its CEO on September 1st. So far, the flurry of new devices has also included the iPhone 18 Pro , new Apple Watches , the AirPods 5 , and the HomePod Mini 2 . Follow along here for all the latest news and updates. Touchscreen MacBook live blog: On the ground at Apple’s launch event Apple refreshes the iMac with M6 chips Apple updates the MacBook Pro with M6 chips Apple’s Greg Joswiak teases an ‘exciting week.’ What to expect from Apple’s ‘Pro and tell’ event Apple teases MacBook Pro event next week</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>GitHub powering up four million extra cores to stop its service going down</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863</link>
+<guid isPermaLink="false">20b55e51f677f9a7f4d2ca0a16b8eb1f7ddfb3355f7eb4795bdfb4beacaf60b3</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
+<description>GitHub's Universe conference kicked off in San Francisco on Wednesday with news that its infrastructural universe is expanding to address staggering demand from AI agents. GitHub recorded 7.4 billion code commits in September 2026, five times more than hit its servers a year earlier. This surge in traffic over the past year, the result of developers running AI agents and generating increased amounts of programming code, caught the company unprepared and led to a series of outages and service availability woes. AI-driven code commits started becoming a problem last December, and led to problems in February , April , August , not to mention the months in between. On May 7, the site's 90-day availability hit a low of about 84 percent , according to reconstructed data from GitHub's status page. GitHub execs apologized and promised to do better. Those commitments have put four million CPU cores and 160 petabytes of high-speed storage on its infrastructure roadmap, alongside extra compute capacity for GitHub Actions, the company's beleaguered continuous integration and continuous delivery (CI/CD) platform. The Microsoft-owned code hosting biz also says it is redesigning its technical architecture (an effort discussed previously ) to separate compute and storage, with the expectation that will enable 35x more throughput. "We’re also migrating to a multi-region deployment in Azure , while continuing to serve incredible levels of traffic from developers around the world," said Jay Parikh, EVP of CoreAI, Microsoft, in a blog post provided to The Register . "We expect to complete the migration early next year. Those investments give us more room to grow. The next step is building the systems that handle the work." Also at the its Universe event , GitHub announced general availability of Copilot Fusion, the company's model routing service that was previewed under the name HydraFusion . The idea is that allowing GitHub to route requests to different models can improve task-completion rates while reducing token consumption costs. "Different tasks need different models," said Parikh. "Developers shouldn’t have to manage every model choice to get the right result at the right price. Copilot Fusion evaluates what a task needs across reasoning, code generation, debugging, and tool use, then chooses how to execute across one or more models. In the Artificial Analysis Coding Agent Index, Fusion Max scored within two points of Opus 5.5 Max at half the cost and 40% less time per task." GitHub is making more bells and whistles available through its Copilot app, including Copilot Projects, for coordinating parallel work; Copilot Connectors, for simplifying how Copilot connects to MCP servers; and Copilot Automations, which are reusable agent tasks. And in what appears to be an effort to boost Copilot usage in the workplace, GitHub is extending Copilot access to all GitHub Enterprise users without requiring any additional per-seat purchases. Customer still get billed for</description>
+<enclosure url="https://image.theregister.com/?imageId=1618985&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=1618985&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Meta says it&amp;#8217;ll probably delay its controversial new business terms again</title>
+<link>https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely</link>
+<guid isPermaLink="false">1583c560106073a3e7c93605138f11771757e721d13ae19a42a449db892a0365</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:15:30 +0000</pubDate>
+<description>Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X , Meta communications head Andy Stone said the company does "not plan to make policy changes without a full consultation with industry groups and leaders." The new business terms, which were supposed to take effect on October 30th, initially appeared to give Meta permission to train its AI models on the news sites that use Facebook and Instagram. Meta later changed its policies to remove language indicating that it could "train" its products on content scraped from these si … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it</title>
+<link>https://www.zdnet.com/innovation/opera-webai-local-ai-browser</link>
+<guid isPermaLink="false">0df14776eac16c77790b35959287d9f59e3235adc1ed206145e53e610db2d595</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:10:39 +0000</pubDate>
+<description>Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/operaaihero.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/operaaihero.jpg" medium="image"/>
+</item>
+<item>
 <title>Reddit is getting a For You feed</title>
 <link>https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds</link>
 <guid isPermaLink="false">a172d1c86ed9538df8ed8ddfe29a771e3678d678104af932ad0dbfcf443218fe</guid>
@@ -24,6 +123,17 @@
 <description>The app will have a "following" tab to surface content from subreddits you've joined.</description>
 <enclosure url="https://www.engadget.com/img/gallery/reddit-is-adding-a-for-you-feed-for-recommendations/l-intro-1793201967.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/reddit-is-adding-a-for-you-feed-for-recommendations/l-intro-1793201967.jpg" medium="image"/>
+</item>
+<item>
+<title>Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles</title>
+<link>https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050</link>
+<guid isPermaLink="false">6b93050976c776eae097886f92071f20769a8ac4504c46e56b55ff3380a3a6f1</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 15:52:17 +0000</pubDate>
+<description>Ukrainian ransomware crook Artem Stryzhak has been sentenced to 70 months in the slammer by a New York federal court for his role as an affiliate of the Nefilim and Hive ransomware gangs. Prosecutors believe the cybercriminal began working with Nefilim in or around June 2021, while living in Barcelona, Spain. The Nefilim ransomware-as-a-service (RaaS) operation was known for targeting wealthy companies, with its operators encouraging affiliates to pursue businesses capable of paying substantial ransom demands. One of Nefilim's most high-profile attacks was on Australian logistics giant Toll Group in 2020, encrypting its files roughly three months after it suffered a separate Mailto ransomware attack. Court documents [PDF] state that Stryzhak agreed with alleged Nefilim boss Volodymyr Tymoshchuk , who remains at large, to pay the ransomware crew a 20 percent cut of the ransom proceeds he collected. Tymoshchuk told Stryzhak that his preference was for attacks to target companies based in the US, Canada, and Australia that turn over more than $100 million annually. This guidance was soon tweaked to encourage targeting companies in the same regions with more than $200 million in annual revenue. Prosecutors claim that around the time Stryzhak joined forces with Nefilim, he also signed up to the Hive ransomware operation as "one of its earliest affiliates," and used its platform to attack approximately seven victims. Hive's operators claimed they targeted circa 1,500 victims worldwide between June 2021 and January 2023. According to separate court documents [PDF], Hive's victims included a law firm and an Ohio hospital, which paid approximately $1.7 million in Bitcoin after the gang initially demanded $2 million during the COVID-19 pandemic. Before its infrastructure was seized in an international law enforcement operation in January 2023, Hive was known for attacking healthcare facilities during the COVID-19 pandemic, as well as being one of the ransomware groups that battered Costa Rica in 2022 . Brett Leatherman, assistant director at the FBI’s cyber branch, described Stryzhak as a “prolific cybercriminal” who played a role in groups that were responsible for more than $100 million in victim damages. “Today’s sentence reflects the seriousness of Stryzhak’s crimes and demonstrates the FBI’s global reach and extensive network of international partners,” he said. “Multiple field offices contributed to this investigation, and our work does not end here. We will continue to leverage every tool at our disposal to track down Stryzhak’s co-conspirators and hold them accountable, including Volodymyr Viktorovych Tymoshchuk.” Stryzhak was arrested by Spanish police in June 2024 before being extradited to the US in April 2025. In announcing Stryzhak's sentencing, the Justice Department took the opportunity to remind the public that rewards totaling up to $11 million are available for qualifying information about alleged Nefilim operator Volodymyr Tymoshchuk and</description>
+<enclosure url="https://image.theregister.com/?imageId=226050&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=226050&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Govee’s colorful smart string lights are down to their best price of the year</title>
@@ -169,17 +279,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Dot-Lifestyle-2000x1126-1.png" medium="image"/>
 </item>
 <item>
-<title>Here&amp;#8217;s Virgin Galactic&amp;#8217;s new Apeiron spaceship</title>
-<link>https://www.theverge.com/science/1020607/virgin-galactic-apeiron-2027-commercial-spaceflight</link>
-<guid isPermaLink="false">4b56a0dfa959db9196f3ec2739dcdd66e37c5c7a374904a3bb02fb3ba873d48c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 14:17:43 +0000</pubDate>
-<description>Virgin Galactic's new spaceship is here, dubbed "Apeiron" by popular vote from a public poll . Apeiron is the first of the company's new Delta-class spacecraft, but it isn't slated to launch for nearly another year. Earlier this week, Virgin Galactic announced another delay in its launch timeline: The lead Spaceship's first commercial spaceflight is now expected in early Q2 2027, and the second Spaceship is expected to begin commercial spaceflight operations in late Q2/early Q3 2027. The updated timeline reflects additional time for completing avionics software integration and validation, which uses an exhaustive testing process. That testi … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/virgin-galactic-apeiron-2.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/virgin-galactic-apeiron-2.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Microsoft faces potential vote: Shareholders curious about its plans to tackle emissions</title>
 <link>https://www.theregister.com/on-prem/2026/10/28/microsoft-faces-potential-vote-shareholders-curious-about-its-plans-to-tackle-emissions/5305953</link>
 <guid isPermaLink="false">568cfa88a774a1b898aefd11c13c34ed8bdd075bae3d001b34000d23217bc190</guid>
@@ -200,17 +299,6 @@
 <description>The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say. In a paper published Wednesday, researchers documented a sharp salinity increase in a vast layer of the Southern Ocean, extending from 2,300 to 4,000 feet deep and encircling Antarctica. The shift reverses decades of freshening and echoes ocean changes usually associated with major global climate shifts over millennia but is now happening in just a few years. The switch from a decades-long trend of freshening water to increasing salinity has implications that could extend beyond Antarctica. The layer, known as Antarctic Intermediate Water, spreads northward into the Indian, Pacific, and Atlantic oceans, transporting heat, carbon, oxygen, and nutrients toward the tropics, and even across the equator, said co-author Bishakhdatta Gayen , a researcher and professor at the University of Melbourne and at the Centre for Atmospheric and Oceanic Sciences in Bengaluru, India. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>This is how badly X wants you to pay to promote your posts</title>
-<link>https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts</link>
-<guid isPermaLink="false">dd656fc4b1b64ac6cb9111723a5188110b47d6dc0159cdf71f5b6232b3588799</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:26:39 +0000</pubDate>
-<description>After Elon Musk warned that "advertisers who post ads that are ugly, shrill, strident or overstate claims about their product will be barred from advertising" on X earlier this month, the platform now appears to be using a jarring animated arm that reaches across the screen to draw attention to the "promote" button while users are composing a post. Many X users have seen and shared images of the unsettling promotional tool, including The Verge's Tom Warren , but it doesn't appear for everyone on the platform. The arm seems limited to verified users, or those with a paid subscription to X Premium. Reactions, unsurprisingly, have been less tha … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xarm.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xarm.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>China's spaceplane bears striking resemblance to America's X-37B</title>
@@ -235,15 +323,15 @@
 <media:content url="https://www.engadget.com/img/gallery/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/l-intro-1793193078.jpg" medium="image"/>
 </item>
 <item>
-<title>TikTok is going after Yelp and Google Maps with an in-app restaurant guide</title>
-<link>https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp</link>
-<guid isPermaLink="false">0da41f6543d00a5603c50af9b8612cf0a6267e9ba526c786da55d89d36915058</guid>
-<source>The Verge</source>
+<title>Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places</title>
+<link>https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review</link>
+<guid isPermaLink="false">37918bc06b0a1f655dcb95a257a9ba1f59f348d693a8ebf3ada1cb84739e0914</guid>
+<source>Engadget</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
-<description>TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 million posts, reviews, and comments about dining on the platform. The new feature uses videos and discussions of buzzy local businesses to create restaurant recommendation guides. Users can leave reviews of restaurants, call and make reservations, and search for nearby businesses on a map. At a launch event this week, TikTok US CEO Adam Presser called Must Eat "the compilation of all of the conversation that's happening on the … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+<description>Amazon's updates to the Paperwhite Signature Edition make it feel even more premium, but the regular version remains a great choice for less money.</description>
+<enclosure url="https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg" medium="image"/>
 </item>
 <item>
 <title>Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price</title>
@@ -257,28 +345,6 @@
 <media:content url="https://www.engadget.com/img/gallery/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price/l-intro-1793191346.jpg" medium="image"/>
 </item>
 <item>
-<title>Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places</title>
-<link>https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review</link>
-<guid isPermaLink="false">37918bc06b0a1f655dcb95a257a9ba1f59f348d693a8ebf3ada1cb84739e0914</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
-<description>Amazon's updates to the Paperwhite Signature Edition make it feel even more premium, but the regular version remains a great choice for less money.</description>
-<enclosure url="https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg" medium="image"/>
-</item>
-<item>
-<title>Inside Amazon’s Echo hardware event</title>
-<link>https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event</link>
-<guid isPermaLink="false">699df48053edab04837a44a0171afe613a4991eb9b34bbf2d4a9a2e58b1b2479</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 12:46:42 +0000</pubDate>
-<description>Amazon’s head of devices and Alexa, Panos Panay, sitting next to the newest generation of Echo Dot smart speaker. | Photo: Owen Grove / The Verge Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12 , Ring's first smart lock , new hardware from AI-wearable startup Bee , and new Blink 4K cameras . Then this week, it hosted journalists at a small event in New York City's financial district to showcase its new Echo hardware. Panos Panay, senior vice president of devices, Alexa, and Leo at Amazon, kicked off proceedings by explaining the company's approach this year. "We have so many products we're launching that are meaningful," he sa … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0045.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0045.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Intel gets tax breaks while local authorities lose revenue, claims policy org</title>
 <link>https://www.theregister.com/systems/2026/10/28/intel-gets-tax-breaks-while-local-authorities-lose-revenue-claims-policy-org/5305902</link>
 <guid isPermaLink="false">bd16466dc003c90136dc88b9e17a1375b4367519a27594be61f1e97ca933646c</guid>
@@ -290,15 +356,15 @@
 <media:content url="https://image.theregister.com/?imageId=262320&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Apple's Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen</title>
+<title>Apple Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen</title>
 <link>https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog</link>
 <guid isPermaLink="false">934ec8850cbd526fc43ee0ebb2d6704ea26d21298ccc59e70ed51a2a6ad85795</guid>
 <source>Engadget</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 12:30:00 +0000</pubDate>
 <description>Reports indicate that a "MacBook Ultra" with a touch-sensitive display is likely on the agenda today.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apples-pro-and-tell-event-live-updates-as-we-wait-to-see-a-macbook-pro-with-touch-screen/l-intro-1793153611.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apples-pro-and-tell-event-live-updates-as-we-wait-to-see-a-macbook-pro-with-touch-screen/l-intro-1793153611.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793203504.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793203504.jpg" medium="image"/>
 </item>
 <item>
 <title>All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more</title>
@@ -541,28 +607,6 @@
 <description>The Slate Truck is known for offering hundreds of customization options, but one common truck option isn't available (yet.)</description>
 <enclosure url="https://www.engadget.com/img/gallery/this-one-missing-feature-from-the-slate-truck-might-be-a-dealbreaker-for-truck-enthusiasts/l-intro-1792419663.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/this-one-missing-feature-from-the-slate-truck-might-be-a-dealbreaker-for-truck-enthusiasts/l-intro-1792419663.jpg" medium="image"/>
-</item>
-<item>
-<title>Discord public server messages may be soon searchable on Google, but you can opt out</title>
-<link>https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out</link>
-<guid isPermaLink="false">a17260832688704e9ff35d5444d91e4845191c5287a518c4d6bb3eb5fc78827c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 23:04:49 +0000</pubDate>
-<description>The platform's Discoverable Servers are about to get a lot more discoverable.</description>
-<enclosure url="https://www.engadget.com/img/gallery/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out/l-intro-1793141144.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out/l-intro-1793141144.jpg" medium="image"/>
-</item>
-<item>
-<title>How to change and customize your Android Auto display</title>
-<link>https://www.engadget.com/2296047/how-to-change-customize-android-auto-display</link>
-<guid isPermaLink="false">780c99c6fe881614061ace45a006f2a53547760ba7de317628d45d57c54f2bf1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 23:00:00 +0000</pubDate>
-<description>Tailor your tech to fit your daily drive seamlessly.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-change-and-customize-your-android-auto-display/l-intro-1792678996.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-change-and-customize-your-android-auto-display/l-intro-1792678996.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip</title>
@@ -1379,28 +1423,6 @@
 <media:content url="https://image.theregister.com/?imageId=263134&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue</title>
-<link>https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186</link>
-<guid isPermaLink="false">e6165d538575bf121331906957e897e2c54fe1d72983645928404d116c15136c</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 13:14:00 +0000</pubDate>
-<description>We've spent the past several decades using duct tape, string, and chewing gum to chain the world's computers together into this thing we call the internet, so there's really no good reason to be surprised that most of it is full of software containing vulnerabilities that are practically just as old. You can listen to the latest episode of The Kettle right here on this page, as well as on Spotify , Apple Music, or YouTube . Those platforms also let you subscribe to Kettle, so you are always notified when the latest episode goes live. The world is still reeling from the PHP2Shell revelations that hit the news cycle this week, and on The Kettle there's no better topic for host Brandon Vigliarolo , cybersecurity editor Jessica Lyons , and FOSS reporter Liam Proven to tease apart. Join us to discuss what exactly is going on, how AI was key to finding another issue no human likely ever would have discovered on their own, and why exposing more bad code in the backbone of the world's computers might be just what we need to rethink the whole thing for the better. A lightly edited transcript follows: Brandon (00:01) Hi everyone, and welcome to the latest episode of The Register 's Kettle podcast. I'm your host, Reg reporter Brandon Vigliarolo. And hey, there's only one thing we could focus on for this week's episode, given all the hubbub around it, and that's the PHP apocalypse. It turns out most of the internet is running software that could allow remote code execution on host systems via a pair, or as of today apparently three, vulnerabilities that have come to collectively be known as PHP2Shell . So that's not great. With me to talk about this is our security editor Jessica Lyons and open source reporter Liam Proven, who has a few things to say about PHP itself and why it's probably not surprising we're finding ourselves in this mess. Thanks to you both for coming on. Liam Proven (00:43) Absolute pleasure. Jessica Lyons (00:43) Nice to be here. Brandon (00:44) So Jess, let's start with the basics. What is this? How big of a problem is it? And where do we stand on getting things fixed? Jessica Lyons (00:51) Great. The short answer is it's a very big problem. So we have these two related memory safety vulnerabilities, and they are in the PHP core. Collectively they're called PHP2Shell, and they affect every version that's been released in the last decade affected by one or both of these, going back to about version 5.4. So the general consensus is this is about 70 percent of all of the websites on the internet are running this code. So it basically affects everyone at this point. What happened here is that this dates actually back to August. An independent researcher first spotted this, and then we can talk a little bit more later about who found more of the exploits and what the (PHP) Foundation did with that. But so he found this vulnerability. There was a coordinated disclosure process with the PHP Foundation, and then that broke a little bit starting</description>
-<enclosure url="https://image.theregister.com/?imageId=5305338&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305338&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba</title>
-<link>https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363</link>
-<guid isPermaLink="false">66c08831554eb988058128230ed1c2213163b02ed45c4475e6bb304d582af587</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 12:38:00 +0000</pubDate>
-<description>UK Biobank (UKB) says its platform is now "secure" and that academics will soon regain access, months after a major data leak of volunteer health data. The charity, which runs the eponymous research project and describes itself as the custodian of the world's most comprehensive biomedical dataset, said it is waiting for approval from health data controllers and central government before it relaunches the platform. UK Biobank's Research Analysis Platform (UKB-RAP) has locked out all medical researchers trying to access its dataset since the April attack , which led to all 500,000 volunteers’ data being listed for sale on Chinese ecommerce website Alibaba. More than 20,000 researchers use the dataset provided by the cloud-based platform. They upload research projects and run experiments informed by the genomic data UKB collected from 40-to-69-year-olds between 2006 and 2010. The org makes around 30 petabytes worth of the stuff available to researchers, who investigate conditions including cancer, dementia, Parkinson’s disease, and COVID-19 immunity. Professor Sir Rory Collins, CEO at UKB, said on Friday that the organization has "completed the work to ensure that the UKB-RAP is secure," and that the progress was checked by an independent cybersecurity company, whose report recommends reopening the platform. The charity will begin a phased re-introduction of researchers to its platform after it receives the necessary approvals, although boffins will not be able to download any results files at first. The platform will pilot a "manual output checking system," where human reviewers will inspect files researchers wish to download before allowing them to do so, ahead of an automated process expected to roll out next year. According to the guide UKB compiled for researchers outlining the changes to the platform, researchers will also be restricted from building public apps and sharing tools with external colleagues until that manual checking system is fully up and running. Researchers were also warned that they will not be able to refresh or dispense data, only work with pre-existing data. They were also told to expect automatic logout out after 15 minutes of inactivity, with 2FA required upon re-authentication. Other technical changes include no longer being able to SSH into jobs, interactive tools being run via "isolated browsing" which restricts data transfer between web apps and the user's local system, and some restrictions on CLI use. UKB is working toward a day when the researchers using its platform store no data on their own computers, working only with that which is uploaded to the repos it hosts. However, in uploading this data to online repos, de-identified data is accidentally included in the code. UKB says it runs daily automated scans of these repos to catch errors, and provides training to researchers to help prevent these occurrences. Collins said that since the attack, most researchers have confirmed the deletion of de-identified data f</description>
-<enclosure url="https://image.theregister.com/?imageId=5295365&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5295365&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism</title>
 <link>https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites</link>
 <guid isPermaLink="false">c07eb56e557593adc41a833cbd54f45af67eba0307f835f9e685b29d091827d0</guid>
@@ -1410,17 +1432,6 @@
 <description>Company imitates reflection of sun from mirrors, prompting pushback from some scientists, environmentalists and California locals Locals in a rural area of California were recently startled to see dazzlingly bright light shining down from nearby mountains at night, illuminating a swathe of the desert below. Unbeknown to them, the strange nocturnal illumination was the latest step in a company’s plan to erect thousands of giant mirrors in space to reflect sunlight on to the Earth during night-time. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/7c7f30c6c0261f04d891e2564b27d085a9617055/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74613f5bc273cc8aa0ad4ebdf3efbb10" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/7c7f30c6c0261f04d891e2564b27d085a9617055/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74613f5bc273cc8aa0ad4ebdf3efbb10" medium="image"/>
-</item>
-<item>
-<title>Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall</title>
-<link>https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181</link>
-<guid isPermaLink="false">1f15e7373b2ef956b4197004acc9c06ae13f6818f0fea9767b3ebb1e29c289ab</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-<description>History is littered with the ruins of failed memory technologies. But former Intel CEO Pat Gelsinger believes an emerging memory tech developed by researchers at Georgia Tech using oxide semiconductors may be the exception to the rule. "Essentially, we’ve had no major forms of innovation in memory for three decades – SRAM, DRAM, and Flash as the only memory types in broad deployment," Gelsinger told El Reg . Nagare Labs' Z2RAM aims to change that by delivering a memory tech that's nearly as fast as SRAM at a density much closer to that of DRAM, while also being easier to manufacture than HBM or LPDDR. "Fundamentally, they are combining the best characteristics of DRAM, SRAM, and flash into a new device that is both dense like DRAM, fast like SRAM, and scalable like flash," Gelsinger said. "While HBM has many limitations (power, density, shoreline bandwidth) the combination of its density and performance is the best available today. This is exactly the value that Z2RAM brings, giving better density, speed and power." This explains why investor Playground Global, where Gelsinger became a partner last year, is helping to bankroll Nagare's development efforts. SRAM-like speed, DRAM-like density Founded by Georgia Institute of Technology professors and researchers Suman Datta and Shimeng Yu, Nagare Labs is the culmination of years of research into next-generation memory technologies like ferroelectrics and resistive RAM. The technology is being built on oxide semiconductors and is designed to be integrated directly onto compute logic using 3D hybrid bonding technologies. In this respect, Z2RAM will fill a similar role to AMD's 3D V-Cache SRAM stacking tech. If you're familiar with CPUs requiring additional L3 cache, AMD uses advanced packaging to bond a 64MB SRAM tile either above or below its CPU chiplets, effectively tripling their SRAM capacity. Z2RAM is similar in concept, but promises bit density upwards of 5x that of SRAM in its first incarnation. So if you were to look at a 64MB SRAM tile, Nagare's Z2RAM tiles would offer 320 MB of capacity in the same space, at bandwidth comparable to SRAM. While that may not sound like a lot of capacity compared to HBM-heavy accelerators like Nvidia's Rubin with its 288 GB capacity, or AMD's MI455X with its 432 GB, Z2RAM presents a major improvement over SRAM-based accelerators like Nvidia's Groq LPUs. Today, Nvidia's Groq 3 LPUs feature about 500 MB of SRAM per chip, necessitating thousands of accelerators in order to serve frontier LLMs at scale. Z2RAM could cut the number of chips required by 5x or more. "With the explosion of AI demand, we’ve seen an extraordinary demand in memory as AI is a memory-limited workload. With that backdrop, there is extraordinary interest and now capital available for a breakthrough that solves the bandwidth and capacity challenges that AI is creating," Gelsinger told us. Look Ma, no capacitors Nagare achieves this density and bandwidth feat using memory cells based on transis</description>
-<enclosure url="https://image.theregister.com/?imageId=225048&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=225048&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Lara Croft is 30! We look at the video game icon’s biggest blunders</title>
