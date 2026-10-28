@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The Men Spending $50,000 Just to Reserve a Tesla Roadster</title>
+<link>https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster</link>
+<guid isPermaLink="false">8fe9a78320adfdf66957595049935634b7717f377cd394032cf5dc94bca02e3f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 09:45:00 +0000</pubDate>
+<description>The base model—without thrusters or the flight system—will likely cost several times that amount to buy. “I’m going to do everything in my power to get the flying one,” says one customer.</description>
+<enclosure url="https://media.wired.com/photos/6ae10eb0f7e0fe592a7ec4f3/master/pass/Roadster_78.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae10eb0f7e0fe592a7ec4f3/master/pass/Roadster_78.jpg" medium="image"/>
+</item>
+<item>
+<title>ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History</title>
+<link>https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history</link>
+<guid isPermaLink="false">5ee712c4f2850e3e2d3b01586b6a1176a0eaa2d9a4a79acfba8c0b1b34eac278</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
+<description>ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements.</description>
+<enclosure url="https://media.wired.com/photos/6adf8486990ea20354efad62/master/pass/Security_ICE%20Is%20Carrying%20Out%20%E2%80%98Cointelpro%202.0%E2%80%99_v2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adf8486990ea20354efad62/master/pass/Security_ICE%20Is%20Carrying%20Out%20%E2%80%98Cointelpro%202.0%E2%80%99_v2.jpg" medium="image"/>
+</item>
+<item>
+<title>Neocloud thinks AI agents - not meatbags - will be its main customers</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496</link>
+<guid isPermaLink="false">92b7783b3b632831e24a609913abf9e467ba3565db41fd1fe6a5149056edb5a4</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
+<description>Newly formed Quake AI is a cloud provider that expects its users will be mostly agents rather than humans. It was created after US-based Rumble Inc acquired German datacenter operator Northern Data in June. The parent then rebranded as RUM Group, a holding company for Quake AI (formerly Northern Data) and the Rumble video platform. Quake AI is an Nvidia Cloud Partner (NCP) operating a 22,000 GPUs estate, making it a neocloud: a specialized infrastructure provider dedicated to AI workloads. Yet where other neoclouds are building a full stack of services around their GPU farms, Quake AI wants to make its infrastructure discoverable to AI agents, which may soon be traversing the internet in hordes on behalf of their owners. RUM Group's chief financial officer Mike Massey told The Register that "Cloud 1.0 - let's call it applications - is like a user interface of how you interact with a machine of some kind." He added: "Now, if you think about agents, they don't use vision. That's not how they interact with systems. They interact with APIs and with information effectively, and that means they want highly discoverable, highly data-driven platforms.. “So, to us, the things that make GPUs and AI compute easier to consume for humans, things like model-as-a-service, dashboards and one-click settings, are actually orthogonal to, if not detrimental to what agents are going to want, agents are going to want homogeneous compute… to understand and know what your data and your expectations are in terms of performance and uptimes, and then they're going to want to consume that compute as a utility,” he claimed. In other words, Quake AI believes that, at some point, the customers for its compute services are going to be AI agents rather than people, but carrying out tasks on their behalf. “I think that is the case, and it's the vision that we are driving towards, and you know ultimately agents are in service of people, right?” Massey said. In its view of things, agents won't go through an intermediary, they'll go to the compute to retrieve the answers they need. "So all of these tool frameworks and all of these things that we have set up, I think, are a hindrance or an encumbrance to what the agents are going to want to consume, which is a utility," he explained. "Yes, we're a little crazy in this regard," Massey added. "It's different. But I think our worldview is very grounded in the data and the realities. Like, we're a technical team. We understand the engineering, and at the end of the day, I think that most would validate our hypothesis," he continued. John Hoffman, CEO of Northern Data and acting CEO of Quake AI, compared this with a solution he had been shown of an AI that was developed to navigate the internet by itself. "I told it I wanted pizza. It went on to DoorDash's website. Typed pizza in the search box, clicked on the pizza with the highest ranking, went to add to order, knows I like pepperoni, and it clicked through all of this," he said. "Don't</description>
+<enclosure url="https://image.theregister.com/?imageId=5239850&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5239850&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Why roaming packages have become an anachronism in the age of app-first travel</title>
 <link>https://www.theregister.com/personal-tech/2026/10/28/partner-content-why-roaming-packages-have-become-an-anachronism-in-the-age-of-app-first-travel/5303347</link>
 <guid isPermaLink="false">306ea943b57812bbdf747c8524581ac37d9a96f914322472c9674b70720d1fcd</guid>
@@ -1852,17 +1885,6 @@
 <media:content url="https://image.theregister.com/?imageId=238312&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>After threatening AI export bans, China allows DeepSeek to keep selling</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267</link>
-<guid isPermaLink="false">43a8098492919a9dab21119aec971d71cbbd1ef5960c8b81cc39b3337a6db1a1</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 00:39:57 +0000</pubDate>
-<description>China has proposed to restrict export of some AI technologies but quickly moved to allow some of its champion companies to continue shipping their wares abroad. Beijing’s Ministry of Commerce announced the restrictions in mid-October by revising its Catalogue of Technologies Prohibited and Restricted from Export in China. The restrictions mean that Chinese companies must apply for a license to export their tech. New entrants on the list included “23 technologies related to large-scale models, intelligent agents, computing clusters, and information processing.” Tech issued under open source licenses is exempt from the restrictions. Last Friday, Chinese state media reported that two companies – named elsewhere as DeepSeek and MiniMax – received authorization to continue exports. Both companies are credible challengers to American AI vendors, so letting them sell their wares abroad meets China’s goals of creating export industries and enhancing its tech sector. The expanded Catalogue also gives Beijing the ability to stop exports of any AI it feels represents important sovereign capacity, such as tools that are potent bug-finders or have military uses. China is not alone in restricting exports of AI technology: the USA has imposed on-again, off-again, bans on sales of advanced GPUs to China. AI datacenter bubble wobbles in Australia If the AI datacenter building bubble bursts, two recent Australian incidents may prove instructive. The first took place on October 9, when a company called Firmus called off its initial public offering. Firmus already operates four datacenters, two in Australia and a pair in Singapore. It plans several more, plus expansions of its existing bit barns. Meta has committed to spend over $700 million with the company. Private investors had already ploughed over $2 billion into the company. The float would have been Australia’s largest for 20 years and aimed to raise around $5 billion, giving Firmus a valuation over $40 billion. In the days before the float, investor sentiment suddenly soured. Would-be buyers reportedly asked Firmus to lower its share price and therefore valuation by perhaps a quarter, as they feared the company’s prospectus made very optimistic revenue predictions. Not helping matters was that one of Firmus’ founders did time after being convicted of insider trading. The company eventually cancelled its IPO. The other incident took place on Wednesday, when established datacenter operator NEXTDC announced [PDF] reduced revenue forecasts because its chosen power supplier suspended work “because of community and stakeholder opposition.” That opposition related to installation of poles and wires needed to bring juice to an existing datacenter NEXTDC intends to expand. Protestors have blocked access to the site, and the local council has decided not to allow the power company to use relevant roads while community consultation continues. NEXTDC, which readers may recall designed one of its datacenters to resemble</description>
-<enclosure url="https://image.theregister.com/?imageId=260439&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=260439&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy</title>
 <link>https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie</link>
 <guid isPermaLink="false">b0030ce12cb40b84791dc513cfbced306a500a09c6ab9c1066ffa2d9feec6af4</guid>
@@ -1883,28 +1905,6 @@
 <description>With a tactile dongle for on-the-fly customization and a metal chassis, the Wallhack M-001 is the most fun I've had reviewing a gaming mouse in a long time.</description>
 <enclosure url="https://media.wired.com/photos/6adbbc51f337c510e207c213/master/pass/Review%20Wallhack%20M-001%20Gaming%20Mouse%20102026%20top%20art%20SOURCE%20Wallhack.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adbbc51f337c510e207c213/master/pass/Review%20Wallhack%20M-001%20Gaming%20Mouse%20102026%20top%20art%20SOURCE%20Wallhack.jpg" medium="image"/>
-</item>
-<item>
-<title>Scientists Trapped an Antimatter Particle for Months to Study Its Secrets</title>
-<link>https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets</link>
-<guid isPermaLink="false">f863c0b0a6939335f3946bac9d8128b6424c275c8c811c4001563dec023b71c7</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-<description>These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter.</description>
-<enclosure url="https://media.wired.com/photos/6adaaa0519e924cf3288639a/master/pass/1344013114" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adaaa0519e924cf3288639a/master/pass/1344013114" medium="image"/>
-</item>
-<item>
-<title>6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola</title>
-<link>https://www.wired.com/gallery/best-folding-phones</link>
-<guid isPermaLink="false">e05e5527400dde2e0efe7d69902779da1dfce97795ffd4301ebe1e178ddcdb84</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 11:30:00 +0000</pubDate>
-<description>Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones.</description>
-<enclosure url="https://media.wired.com/photos/6adb855058fe17d926e68364/master/pass/Best%20Folding%20Phones%20iPhone%20Duo%20102026%20top%20art%20SOURCE%20Samsung-Apple.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adb855058fe17d926e68364/master/pass/Best%20Folding%20Phones%20iPhone%20Duo%20102026%20top%20art%20SOURCE%20Samsung-Apple.jpg" medium="image"/>
 </item>
 <item>
 <title>Lara Croft is 30! We look at the video game icon’s biggest blunders</title>
