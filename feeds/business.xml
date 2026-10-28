@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 19:46:45 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>More Americans Have Tried Crypto, But Few Are Sticking With It: Survey</title>
+<link>https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey</link>
+<guid isPermaLink="false">18d8d35b7d2e471af7876e35aed005fdcbd47796ef8abc74245bc111c97ab01b</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 19:46:03 +0000</pubDate>
+<description>A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-16-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-16-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report</title>
+<link>https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia</link>
+<guid isPermaLink="false">c15ed998a34d4a42b434ecf78cc00484f29eb7cef2bfd56dc2722ccfa4671f28</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 19:16:02 +0000</pubDate>
+<description>OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Sam Bankman-Fried wrote to actor portraying him in Netflix series</title>
+<link>https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix</link>
+<guid isPermaLink="false">3e152fef8993ba34713fa07335b3c5a36b782474ec5503786ea4abfdba9623d8</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 19:10:40 +0000</pubDate>
+<description>The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relationship with Caroline Ellison.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61TQHACVDH0XJQJK1P5B22V/crypto-news-neutral-sbf-movie.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61TQHACVDH0XJQJK1P5B22V/crypto-news-neutral-sbf-movie.jpg" medium="image"/>
+</item>
+<item>
 <title>Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play</title>
 <link>https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike</link>
 <guid isPermaLink="false">fecf12aebd8babea15dd14503334573486b034ac8a0b5b3966396af2d113a66b</guid>
@@ -332,17 +376,6 @@
 <description>James Comer warned the proposed "AIC" could shield AI firms from liability, and asked Delaware's governor for documents by November 9.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-17-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-17-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 28 Oct 2026 13:35:44 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>Galaxy Asset Management: “Now Is The Time” to Buy Bitcoin</title>
@@ -906,17 +939,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YAV7RDWSCT55YSE6J17RKG/hi-update-overview-of-software-wallets-the-easy-way-to-store-crypto-zcash-1.jpg" medium="image"/>
 </item>
 <item>
-<title>Bloom bot hackers loot $953K faster than you can microwave popcorn</title>
-<link>https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn</link>
-<guid isPermaLink="false">47cac5ceb3e066c7cd74a21a2e645d1bcaa19e786c620512eb7abd25a85b81f3</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 27 Oct 2026 09:07:37 +0000</pubDate>
-<description>Bloom pledged to reimburse nine traders after $953,000 was drained from 48 wallets, saying no private keys were accessed or compromised.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y4YQQX7S38EGJV0MZQV4M3/b-as-seen-on-tv.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y4YQQX7S38EGJV0MZQV4M3/b-as-seen-on-tv.jpg" medium="image"/>
-</item>
-<item>
 <title>Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield</title>
 <link>https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield</link>
 <guid isPermaLink="false">a05fd4dfd93b138aab6b80141d31e7673d536440e9c6b0c014b1161681fcead5</guid>
@@ -950,28 +972,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court</title>
-<link>https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court</link>
-<guid isPermaLink="false">c434c94b3c19d16ae6121047adfb1663bb25cc52969c1b5587cd4fccd325bb96</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 20:36:03 +0000</pubDate>
-<description>The agreement, which follows similar deals with MLB and NHL, establishes information-sharing to guard against insider trading as sports betting migrates to CFTC-regulated venues.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/nba-basketball-sports-betting-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/nba-basketball-sports-betting-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>South Korea Arrests Seven in First Big AI-Assisted Hacking Case</title>
-<link>https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case</link>
-<guid isPermaLink="false">b29e559ff5fe6cc6aa35c5c796de4e2fb0790a7a7440c4493e7397e60423cfae</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 20:06:02 +0000</pubDate>
-<description>Police in Seoul say a 32-year-old with no IT background used AI tools to break into about 90 hospitals, schools and companies, then pressed victims for roughly $270,000 combined.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Handcuffs-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Handcuffs-gID_7.png" medium="image"/>
-</item>
-<item>
 <title>Warren urges Fed, OCC, FDIC to restore bank examiner powers</title>
 <link>https://www.bankingdive.com/news/warren-occ-fdic-fed-bank-examiners-ai-cybersecurity-matters-requiring-attention/872767</link>
 <guid isPermaLink="false">94102236650d54c91720b4508e30f1be884b8a6671ea5d2a3e205b01b54a003e</guid>
@@ -992,16 +992,5 @@
 <description>“We’re trying to reward behavior clients are already doing – investing or banking – but not always with us,” Kate Luft, Citi’s head of retail banking, said in an interview.</description>
 <enclosure url="https://imgproxy.divecdn.com/WhB8UCfgn6gUDCCHkk8uzphR0XTL-8jfituUYirJY5Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1OTIyOTU1LmpwZw==.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/WhB8UCfgn6gUDCCHkk8uzphR0XTL-8jfituUYirJY5Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1OTIyOTU1LmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>A look inside the AI playbook at Morgan Stanley’s wealth division</title>
-<link>https://www.bankingdive.com/news/morgan-stanley-wealth-division-ai-playbook/872746</link>
-<guid isPermaLink="false">ab5ea6dc528c1c7b99206e32b00582eb05e0ac1fc39f4258450d6a26a00f91c0</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 11:00:00 +0000</pubDate>
-<description>The bank flipped the script on how it approached data to enable artificial intelligence, said Hina Shamsi, CIO of wealth management technology.</description>
-<enclosure url="https://imgproxy.divecdn.com/KgpS1Zf7c1L5PInPWg5ZJFOpV0tiR2i4ndFDA7lKIac/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDY0MjgzMTk2LmpwZw==.webp" type="image/jpeg"/>
-<media:content url="https://imgproxy.divecdn.com/KgpS1Zf7c1L5PInPWg5ZJFOpV0tiR2i4ndFDA7lKIac/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDY0MjgzMTk2LmpwZw==.webp" medium="image"/>
 </item>
 </channel></rss>
