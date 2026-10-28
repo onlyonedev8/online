@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bitcoin ETF inflows climb to $176M as sentiment edges higher</title>
+<link>https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds</link>
+<guid isPermaLink="false">4d667ebd7ee7984dd227f62aec47d0d521c8c01eb12a5c9901f6eadddf86832a</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 07:57:18 +0000</pubDate>
+<description>US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear &amp; Greed Index remained neutral.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60NEYRT27HS3BACTE6CCD20/futures-bitcoin-options-top-5.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60NEYRT27HS3BACTE6CCD20/futures-bitcoin-options-top-5.jpg" medium="image"/>
+</item>
+<item>
+<title>Coinbase denies systems breach, says vendor exposed customer data</title>
+<link>https://cointelegraph.com/news/coinbase-analytics-provider-customer-data</link>
+<guid isPermaLink="false">fe776a26264577ee32dfa6a62d9bffae659cfd49b3c44b48ebab9e940e8316b7</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 07:42:55 +0000</pubDate>
+<description>Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, but it found no evidence of unauthorized access to its own systems.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60N3ET67QN71X4TK3YBZTNR/hi-how-cryptocurrency-prices-work-explained3.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60N3ET67QN71X4TK3YBZTNR/hi-how-cryptocurrency-prices-work-explained3.jpg" medium="image"/>
+</item>
+<item>
 <title>Here’s what happened in crypto today</title>
 <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
 <guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
@@ -994,17 +1016,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/coindcx-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>South Korea lawmakers mull pushing crypto tax implementation to 2029</title>
-<link>https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029</link>
-<guid isPermaLink="false">0ed0fd952951c4f7f04c8c24892dc19ccf84951b200a2e390513e99bfe0c954c</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 16:18:09 +0000</pubDate>
-<description>The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WCFCMYFBV1HM5DA9T73R6P/hi-south-korea-virtual-currency-taxes-explained-basic-knowledge-for-beginners-including-calculation-methods-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WCFCMYFBV1HM5DA9T73R6P/hi-south-korea-virtual-currency-taxes-explained-basic-knowledge-for-beginners-including-calculation-methods-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Warren urges Fed, OCC, FDIC to restore bank examiner powers</title>
 <link>https://www.bankingdive.com/news/warren-occ-fdic-fed-bank-examiners-ai-cybersecurity-matters-requiring-attention/872767</link>
 <guid isPermaLink="false">94102236650d54c91720b4508e30f1be884b8a6671ea5d2a3e205b01b54a003e</guid>
@@ -1025,17 +1036,6 @@
 <description>The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Flávio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2023/07/brazil-technology-shutterstock_1201705168-16x9-1-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2023/07/brazil-technology-shutterstock_1201705168-16x9-1-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Kalshi strikes deal with S&amp;P Dow Jones Indices to expand financial event contracts</title>
-<link>https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets</link>
-<guid isPermaLink="false">4b504ef282fe472f22f0c530fd014312f848ebc5f92889677061585e1309a6e8</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 15:54:15 +0000</pubDate>
-<description>The agreement adds S&amp;P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg" medium="image"/>
 </item>
 <item>
 <title>Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks</title>
