@@ -4,6 +4,105 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Please state the nature of the medical emergency: Google is building a robot medic for NASA</title>
+<link>https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130</link>
+<guid isPermaLink="false">89010e0c032f9214ffde8b00e26bf9f70b9a36c0cb56776bbc9020fd3d7230c5</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:44:22 +0000</pubDate>
+<description>Google is working with NASA to develop a robotic medical assistant that could help astronauts on future deep-space missions. Chocolate Factory's public sector VP Jim Kelly said in a Tuesday blog post that the company's latest moonshot could take its technology far beyond the lunar surface, with Google's public sector arm partnering with NASA's Human Research Program, Johnson Space Center's robotics team, and the Jet Propulsion Laboratory to develop a robot that could assist astronauts with medical tasks, cargo handling, and routine maintenance. The robotics project builds on the Crew Medical Officer Digital Assistant (CMO-DA), an AI-powered medical decision-support system Google has been working on with NASA since last year. CMO-DA, which is powered by the Red Hat-supported open source local AI tool RamaLama, is already being evaluated on Earth-bound copies of computers used aboard the ISS. It’s designed to run AI models locally for evaluation of medical issues, which will be a key part of future space missions due to the communications lag between Earth and astronauts in deep space. “An astronaut on a future deep space mission to Mars could face severe operational challenges—including round-trip communication latencies of up to 44 minutes, making real-time medical guidance for crew nearly impossible,” Kelly said in this week’s blog post. Google and NASA envision the robot as an assistant to a human crew medical officer, helping with medical tasks and doing other work when bedside assistance isn't required. “To maximize its utility for a lean crew, the robotic system is designed as a versatile 'payload' handler capable of managing cargo, logistics, and equipment,” Kelly explained. “When not needed for routine maintenance like organizing tools or securing compartments, it can pivot to medical support.” As one example of its potential use, the Google public sector VP explained that, were someone to experience severe back pain potentially caused by kidney stones, the robot could fetch and prep an ultrasound machine, leaving the crew medical officer to interpret the scan and decide on treatment. “The ultimate goal is to build a robotic system that can execute a variety of tasks via simple voice instructions, under the astronauts’ direct supervision and command,” Kelly said. “For instance, the robot might be directed to assist with routine health monitoring—such as capturing basic vitals or simple ultrasounds—under the strict guidance of a human crew medical officer.” So, not a full-fledged digital medical officer as much as an extra set of hands for an overworked human doc. As for the status of the project, it doesn't appear to have advanced too far yet. Google outlines several technologies being explored, including JPL's work adapting satellite situational-awareness tools originally used to track objects in orbit to help the robot navigate 3D spaces. The project remains at the proof-of-concept stage, with early laboratory demonstrations conducted, b</description>
+<enclosure url="https://image.theregister.com/?imageId=5240526&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5240526&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Apple's PROLED XDR Display has a cringy name but incredible specs</title>
+<link>https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs</link>
+<guid isPermaLink="false">a2396b28d8559404d8404e2a66e1efbb41221c9da426922cbceea23b6932d98f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:31:43 +0000</pubDate>
+<description>With all the fuss about Apple finally releasing a touchscreen MacBook Pro, you may have forgotten about the OLED part.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/l-intro-1793218163.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/l-intro-1793218163.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic engineer declares the coding interview dead</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/28/anthropic-engineer-declares-the-coding-interview-dead/5306115</link>
+<guid isPermaLink="false">5c9fc345ec084a43f09b0cae0d872138af7e39af1cae1a48082315249921d0c0</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:22:56 +0000</pubDate>
+<description>Why ask a human to complete a coding test when they can just use an AI to help them? Anthropic engineering manager Felix Rieseberg says he has stopped using traditional coding interviews for his team. "Being able to quickly define problems and find elegant solutions was a weak but useful predictor for how successful you’d be on my teams," Rieseberg explained in a blog post on Tuesday. "Small coding challenges in real code did tell us something meaningful about candidates." No longer, he says. The coding interview is dead , as far as he's concerned. "There’s no more point in giving you a little React challenge than there is in quizzing people about assembly; Claude is now better at both," he insisted. "Our most impactful builders are successful regardless of how good they are at these tests." In a response posted to social media, Jaana Dogan, principal engineer at Google, said much the same. "I’m not doing a ton of coding interviews nowadays but I’d be interested to interview how people use coding agents," she wrote . "That itself gives me more signals about candidates' coding skills." Several months ago, Google reportedly began reevaluating how it conducts coding interviews and what it looks for in candidates. And while it would be surprising if similar conversations haven't already occurred at other large technology companies where AI agents have demonstrated their coding capabilities, the rest of the tech industry appears to be moving more cautiously than the AI enthusiasts. "We are not seeing tech companies abandon skills assessments widely across the industry—at least not yet," said Nicole Bachaud, labor economist at ZipRecruiter, in an email to The Register . "In fact, based on our October 2026 Employer Survey of 1,500 employers, we see the tech industry (Information sector specifically) is actually the most likely to test for skills, with 62.5 percent of employers requiring formal skill tests on initial applications." Coding interviews at Microsoft, and later Google, Amazon, Facebook, and other tech giants, vary, depending on what the hiring organization aims to evaluate. They may probe technical knowledge related to a specific subject, coding ability in a particular language, general problem-solving skills, team-oriented behavior, or other skills. Stripe's software engineer interview process, according to Educative , consists of a phone screening stage, a technical phone interview, and several further on-site interviews. Rieseberg actually worked there and describes how founder Patrick Collison urged new hires to pay attention to things that seemed out of place. "His bet was that newcomers would spot friction and opportunities that old-timers had long stopped noticing," he said. And Rieseberg appears to have absorbed that viewpoint based on his dismissal of experience: "Hunger beats tenure," he said, perhaps unaware that technology companies have gotten into legal trouble for jettisoning costly veteran employees so they can be replaced by</description>
+<enclosure url="https://image.theregister.com/?imageId=5306127&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5306127&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Google says its investments in AI are driving more searches</title>
+<link>https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026</link>
+<guid isPermaLink="false">7ce2c248469b55d0c6b632d3cd658990b5f8f6bff1218091a2645c0dafa151bf</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:22:26 +0000</pubDate>
+<description>Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today . "Our AI investments are driving overall Search query growth, including commercial queries," CEO Sundar Pichai says in a statement. "In fact, our year-over-year query growth rate is the highest it's been in the last five years." Alphabet's consolidated revenues for the quarter were $127.6 billion, up 25 percent year-over-year, with its "Google Search &amp; other" revenues up 12 percent year-over-year. Google Cloud revenue was also up 103 percent year-over-year to $30.7 billion. Alphabet also … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft reveals strong cloud growth amid financial reporting overhaul</title>
+<link>https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027</link>
+<guid isPermaLink="false">2c03ddb418ae55deb6a57d85c5b177ac76876635b85177bbc4fe118786de850a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:20:00 +0000</pubDate>
+<description>Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up how it reports its finances by splitting its businesses into two segments for the first time. Gone are the previous segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. It's now just Agents and Infra, and Devices and Consumer. Agents and Infra, which includes businesses like Azure, Microsoft … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple charges $14,549 for a fully specced touchscreen MacBook Pro</title>
+<link>https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced</link>
+<guid isPermaLink="false">63133c945866b0d71e1a5ff383e7c5d56bdc8bf6e4b9bfbf8000fba1a94cbddf</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:12:44 +0000</pubDate>
+<description>With an OLED display and touchscreen capabilities , it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year . But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple offers pushes those prices to an eye-watering $14,249 and $14,549, respectively. Both of those premium configurations include the M5 Max chip with an 18-core CPU and 40-core GPU, $150 worth of nano-texture glass, 128GB of memory that adds an extra $2,000, and 16TB of storage which is the real budget breaker here thanks to the ong … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity</title>
+<link>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</link>
+<guid isPermaLink="false">7b5653451a244c2d34efb38f2003e0796172f26d8c9a89099a24d3767ad6f629</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:03:00 +0000</pubDate>
+<description>Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday , Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program . The company says Carbon reflects the "pace at which we're pus … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Amazon’s new smart home updates include an interactive 3D map of your home</title>
+<link>https://www.zdnet.com/home-and-office/amazons-new-smart-home-updates-include-an-interactive-3d-map-of-your-home</link>
+<guid isPermaLink="false">05625d711e61625ae4f815cf9aaa029bc9c3d73166c8693a9d891b660a940e1f</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 19:59:41 +0000</pubDate>
+<description>You decide: Is an Alexa-powered map of your home, inside and out, a good thing?</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Alexa-Home-Map-1920x1080-1.png" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Alexa-Home-Map-1920x1080-1.png" medium="image"/>
+</item>
+<item>
+<title>Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble</title>
+<link>https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121</link>
+<guid isPermaLink="false">703e5e6d34e0ac4f96188b6172f10b87b06c93f6c3258b668f15151ebea4e817</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 19:56:56 +0000</pubDate>
+<description>Attackers are probing a critical Oracle E-Business Suite vulnerability that can lead to remote code execution (RCE), despite Oracle issuing a patch earlier this month. Meanwhile, new analysis indicates that an Oracle PeopleSoft zero-day exploited by ShinyHunters as early as May involves three distinct vulnerabilities that can be combined to achieve RCE. Patching alone may not remove attackers from already compromised systems, particularly if they've installed web shells. First up: CVE-2026-101767 , a critical, unauthenticated SQL injection bug in Oracle EBS that can lead to RCE. “Our Oracle E-Business Suite decoys recorded exploratory exploits against CVE-2026-101767, an unauthenticated SQL injection in EBS's Thin Client Framework servlet that chains to remote code execution, this morning, Oct 27,” Defused Cyber said in an X post. Horizon3 researchers found and disclosed the bug to Oracle, and the vendor patched the issue in its October release. “An attacker can send a crafted request to the vulnerable servlet to execute SQL with the privileges of the APPS database user,” Horizon3 explained at the time. “The attack chain also enables operating system command execution with the privileges of the EBS application account.” This means an unauthorized user can modify application data accessible to APPS, and execute commands. “Depending on the deployment, affected data may include financial, payroll, HR, and procurement records,” the bug hunters said. The Register reached out to Oracle with multiple questions for this story - including whether it has documented any successful exploitation of CVE-2026-101767 - and did not receive an immediate response. Moving on to the PeopleSoft-ShinyHunters fiasco: TrendAI’s Zero Day Initiative (ZDI) found and reported the PeopleSoft issues on June 10, and Oracle issued a patch under one vulnerability identifier: CVE-2026-35273 . In early June, ShinyHunters told The Reg that the group hacked more than 100 organizations via an Oracle PeopleSoft zero-day, CVE-2026-35273. Google’s consulting and incident response biz, Mandiant, later confirmed the data theft and extortion crew exploited CVE-2026-35273 as a zero-day, mostly against schools and the education sector . By late September, however, Mandiant said ShinyHunters massively expanded its targeting , “deploying web shells on dozens of systems globally, spanning higher education, technology, IT services, healthcare, agriculture, transportation, and government.” According to ZDI bug hunter Bobby Gould, there are actually three distinct vulnerabilities across multiple PeopleSoft components, and each should receive its own CVE identifier rather than being grouped under CVE-2026-35273. Gould, along with TrendAI researchers Minh Giang and Lucas Miller, originally found and reported three distinct bugs to Oracle in June. “We are coordinating with Oracle to assign separate CVEs for each issue,” he said in a Tuesday blog. The first issue is a Server-Side Request Forgery (SSRF)</description>
+<enclosure url="https://image.theregister.com/?imageId=5306136&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5306136&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Meta weighs delaying 'alarming' new business terms as backlash grows</title>
 <link>https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows</link>
 <guid isPermaLink="false">cfa9b1b46952e259762f68a8cca2770fddfe8d543c24a980fcba08a973aaf1e1</guid>
@@ -26,6 +125,50 @@
 <media:content url="https://www.engadget.com/img/gallery/the-playstation-5-just-might-be-sonys-final-blu-ray-player/l-intro-1793107319.jpg" medium="image"/>
 </item>
 <item>
+<title>Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech</title>
+<link>https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream</link>
+<guid isPermaLink="false">c39e9244b74dfd62d67d228c260d99586b71999495fb52781e934ec939697857</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 19:37:31 +0000</pubDate>
+<description>A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones , routers , and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks. It’s been distrustful of Chinese telecom equipment providers Huawei and ZTE for well over a decade , eventually requiring telecom providers to “rip and replace” their gear . (Many telecoms have still failed to do so .) It established an “Entity List” for companies whose gear should be banned from import, marketing, and sale. But under the second Trump administration, that list has been weaponized against entire home consumer gadget categories too — starting in December 2025 when Trump and Brendan Carr’s FCC banned all future foreign drones unless their companies obtained a waiver. Next was a ban on all future foreign routers, all future foreign robots and power inverters , and within the robot ban, all future foreign robovacs. In each case, the government claims it’s because those gadgets fundamentally pose an unacceptable threat to US national security. But in each case, the US has provided zero public evidence of a threat, has done nothing about existing drones and routers and robots that might pose such a threat, and hasn’t given us any reason to trust that its waivers have anything to do with security . Besides, there are rarely any US companies to fill the gaps left by foreign ones. Consumer gadgets are largely made overseas, including practically all routers and practically all drones — just like how your Apple, Dell, and HP laptops are not made in the US. In this StoryStream, we’re following the latest on the foreign gadget bans. MSI just got a router ban waiver — but not a blanket one. Will TP-Link really make routers in the US? Here’s what it told us Another ‘DJI front company’ bites the dust. It sure would be nice if these congresspeople would say why DJI is a threat. Unlike Netgear and Asus, TP-Link says it’s prepared to spend $1 billion to make Wi-Fi routers in the US. The FCC plans to ban all Chinese labs from testing US gadgets by 2029. The FCC has decertified two more Chinese test labs. The Matic is the first robovac to get an FCC ban waiver, not that it needs it Asus won’t say how it escaped the US router ban Etsy is worried it’ll get caught up in the FCC’s gadget bans. We flew the banned drone with snap-on propeller wings. HoverAir’s transforming modular drone has already been halted in the US I bought DJI’s banned camera — it was cheap and easy Does giving a camera wings dodge the FCC’s drone ban? That lying drone company we caught? The FCC has now banned Odyssey Robot. The ban on robot vacuums won’t make them safer, only worse The US government just banned Roombas DJI camera clone compan</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Trump admin sues Utah to save Kalshi from the state's total ban on gambling</title>
+<link>https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling</link>
+<guid isPermaLink="false">da1b5997a61e624a913d34b516cfece4503e5bcd0ce23af2df2176d14bcd9bc1</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 19:30:33 +0000</pubDate>
+<description>The Trump administration is trying to stop Utah from enforcing its gambling ban against Kalshi, making Utah the 10th state sued by the US government agency that regulates prediction markets. Utah, which prohibits gambling, sued Kalshi in a state court last week. Utah's lawsuit seeks an order prohibiting Kalshi from offering bets on sports, elections, politics, and other events. “Kalshi runs an online casino in Utah and calls it a prediction market. That violates Utah law,” Utah Attorney General Derek Brown, a Republican, said last week. “Not only do our state laws ban gambling but Utah is one of only two states where gambling is also prohibited under the state constitution. For 130 years, Utah has been clear: gambling has no place here, and we will enforce our laws.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" medium="image"/>
+</item>
+<item>
+<title>The last, best hope for space tourism just rolled onto a runway in Arizona</title>
+<link>https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona</link>
+<guid isPermaLink="false">ca9d651545e8c4f2bacecfe1a24c8823de69430a5e81cb33d058632e6e662c94</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 19:20:36 +0000</pubDate>
+<description>The private space tourism era looked so very promising five years ago. Blue Origin and Virgin Galactic had begun flying customers—real people with zero space experience—on suborbital missions. And at about the same time, private citizens were going to orbit for days at a time aboard SpaceX's Crew Dragon. But that was then. Consider the state of play today: It has been 10 months since Blue Origin's New Shepard spacecraft flew its last mission in January. The program was subsequently "paused," but let's be real. Blue Origin has moved on. New Shepard's engineering teams are now supporting the New Glenn rocket and Blue Moon lander programs. SpaceX flew its final free-flyer mission on Dragon, Fram2, in April 2025. A handful of non-NASA missions bound for space stations remain on the spacecraft's manifest, but all are likely to carry at least one government astronaut. Then Dragon will be retired. There is no credible timeline for SpaceX's Starship to fly humans into space from Earth. As for Virgin Galactic, the company flew its final suborbital mission on the VSS Unity spacecraft more than two years ago, in June 2024. So we are now 10 months, and counting, without a space tourism mission in the United States. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Hands-on with the new OLED iPad Mini</title>
+<link>https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell</link>
+<guid isPermaLink="false">e29e73f58cfb754684abd68b13e2692406b8d4ea9d0203afd8b09adb37b199f3</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 19:18:58 +0000</pubDate>
+<description>Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's "Pro and tell" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte finish is awesome. The "Pro and tell" event venue has soft lighting that's not the most conducive to blinding glare on displays, but the matte finish pretty much squashes it entirely. Moving the front-facing camera to the long edge is also a welcome change, matching other recent iPad models. (The shift means that the whole iPad line has the camera that way.) The reliance on Touch ID instead of Face … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_iPad_Mini_OLED_handson_ADiBenedetto_0008.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_iPad_Mini_OLED_handson_ADiBenedetto_0008.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>OpenAI now lets you text your Dot agent</title>
 <link>https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent</link>
 <guid isPermaLink="false">f1bb7dcf32a04f96bdecb251a398ddc4e77486c4de848dd50b214fc423311d12</guid>
@@ -35,6 +178,17 @@
 <description>The feature works with both iMessage and RCS messaging.</description>
 <enclosure url="https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg" medium="image"/>
+</item>
+<item>
+<title>Touchscreen MacBook Pro hands-on: OLED looks great on a Mac</title>
+<link>https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac</link>
+<guid isPermaLink="false">79b03aa9fa8771e1fec5f886988d35bc81a1d9f7a7ba27f55dc63f6d02459afd</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 19:10:29 +0000</pubDate>
+<description>LOS ANGELES—For about five minutes on an extremely crowded showroom floor, I got to take pictures of the new MacBook Pro and test out some of its new features. First impressions: It's not as much of a departure from the previous design as I expected, but the outstanding OLED display steals the show regardless. The first thing I noticed was that it's lighter. My daily driver is a 14-inch MacBook Pro (M1 Max), and it's a bit weighty for a 14-incher. Picking up the new model, I could immediately tell it was lighter. It's not like it's in a different general weight class, but it's a noticeable difference. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg" medium="image"/>
 </item>
 <item>
 <title>Engadget is hiring writers!</title>
@@ -81,6 +235,17 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1244516861.jpg" medium="image"/>
 </item>
 <item>
+<title>Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use</title>
+<link>https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use</link>
+<guid isPermaLink="false">490073e57670269a1c9c6bc86a154f29e61acbfafe5ffcca122d2375991b60f9</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:47:27 +0000</pubDate>
+<description>It's almost like Google's got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out Gemini 4 Argon , Google has announced Gemini 4 Carbon . This isn't the Flash model equivalent we've been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while. Stop me if you've heard this one before: Google says its latest AI model reaches a new threshold in coding, agentic tasks, and scientific analysis. It's so capable, in fact, that Google can't let you use it just yet. Gemini 4 Carbon reportedly makes big gains in cybersecurity applications. Google says the model shows a "significant leap" in vulnerability detection, validation, and remediation. Carbon is also apparently twice as likely to generate code that is free of vulnerabilities versus Argon. Meanwhile, the Chrome team claims that Carbon is 10 times better at generating "high-quality" patches compared to non-Google models. Google also notes that Carbon has increased its score by 89 points on WebDev Arena , now ranking at number four on the leaderboard. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Amazon’s new Alexa Photo Frame could have what I’ve been missing – here’s why</title>
 <link>https://www.zdnet.com/tech/amazon-alexa-photo-frame</link>
 <guid isPermaLink="false">ed3153a75d554e7e9db5bf13ff101d1a99438f00172dececce360af4120e013d</guid>
@@ -120,7 +285,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 18:10:23 +0000</pubDate>
-<description>As expected, Apple finally showed off its 14- and 16-inch MacBook Pros at its recent " Pro and Tell " event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight and bringing back the glowing Apple logo. While less exciting, there's also an updated 14-inch MacBook Pro that features Apple's M6 CPU, along with improved wireless connectivity. It's a small, somewhat iterative update of the prior generation , with no substantial new features beyond performance gains. Alongside the MacBook updates, Apple also announced an M6-equipped iMac that starts at $1,499 , with the same color varian … Read the full story at The Verge.</description>
+<description>As expected, Apple finally showed off its 14- and 16-inch MacBook Pros at its recent " Pro and tell " event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight and bringing back the glowing Apple logo. While less exciting, there's also an updated 14-inch MacBook Pro that features Apple's M6 chip, along with improved wireless connectivity. It's a small, somewhat iterative update of the prior generation , with no substantial new features beyond performance gains. Alongside the MacBook updates, Apple also announced an M6-equipped iMac that starts at $1,499 , with the same color varia … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/MacBook-Pro-M6-2026-preorder-3_5144c7.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/MacBook-Pro-M6-2026-preorder-3_5144c7.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -134,17 +299,6 @@
 <description>Since debuting in 2019, Amazon's Echo Studio targeted users who wanted superior audio quality from their Alexa-based smart speaker. The latest Echo Studio adds another less-expected differentiator: an integrated camera. The Echo Studio with Home Camera, released alongside a pile of other Alexa devices today, doesn’t have many audio upgrades over the standard Echo Studio. Each speaker has one 3.75-inch high-excursion woofer and three full-range drivers. They both support Dolby Atmos and Amazon’s proprietary algorithm for adding a surround sound-like effect to stereo audio. Per the devices’ product pages, the speakers have lossless HD audio, Advanced Room Adaptation, and features for fighting noise distortion. Amazon announced the Advanced Room Adaptaion today, saying that the feature “continuously tunes the sound to your space, automatically adapting to the room's acoustics.” Both speakers have four-microphone arrays and the same AZ3 Pro processor that Amazon introduced a year ago . The processor has an AI accelerator for using Amazon's Alexa+ generative AI chatbot . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png" medium="image"/>
-</item>
-<item>
-<title>You can see every red flag in Theranos 2.0</title>
-<link>https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything</link>
-<guid isPermaLink="false">fed12fe7687db12af9d3c085a3114df5c0c44dacaf4cd2c48692d25f0bf38585</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
-<description>They’re getting the band back together for Theranos 2.0. Supposedly. | Photo: Getty Images This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here . From afar, it's easy to look back at the Theranos debacle and scream at Nathan Fielder that, obviously, Elizabeth Holmes is lying in You Can See Everything . In the weeks since the movie's release, journalists and whistleblowers alike have rushed to remind moviegoers of Holmes' numerous documented lies. Chief among the facts: The Theranos device never worked as advertised. But Fielder's aim with this film wasn't relitigating Ther … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1248465318.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1248465318.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>These Claude Enterprise features let you track AI ROI – what’s new</title>
@@ -167,17 +321,6 @@
 <description>“Please have at least 125 miles of range left when we pick it up.” That request from the people who look after the Cadillac press cars wasn’t going to be hard to honor. The electric Escalade IQ arrived with an indicated range of 440 miles (708 km), and with a full week of work to squeeze in, getting anywhere close to needing to recharge it seemed unlikely. With more than 200 kWh of lithium-ion battery between its axles, range is one thing the big electric Caddy needn’t worry about. Designed and debuted during a time of greater EV optimism, the Escalade is Cadillac’s statement that swapping out a V8 for a pair of powerful electric motors is no compromise to its ambitions, even if the brand’s future will now include a mix of electric and combustion cars beyond 2030 . It shares a battery pack and much else with other full-size GM EVs we’ve tested: the Chevrolet Silverado EV , the GMC Sierra EV , and of course the divisive Hummer EVs . And like those trucks and SUVs, the Escalade is large and heavy—just small enough to fit into a standard parking space, with a curb weight sufficient to push it into the Class 3 truck category. So, the side mirrors are flat, and there’s no formal EPA range—Cadillac says it achieves 460 miles (740 km) on the EPA test cycle—but there are plenty of airbags, even though the 9,046 lb (4,103 kg) curb weight does not require them. Yes, you did read that right, it does weigh 4 tons. And yes, the electric Escalade does weigh a third more than the last gas-powered one we tested . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s how macOS is changing for touchscreens</title>
-<link>https://www.theverge.com/tech/1020084/macos-touchscreen-changes</link>
-<guid isPermaLink="false">b0fcafa5542715b625ee2b26711f26d7452f1c82eb7eccdde93b648d044962f2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:48:28 +0000</pubDate>
-<description>Reach out and touch screen. Touchscreen laptops are nothing new in the Windows world , but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though: Most of the touch action will be in the apps themselves, it seems. As far as major macOS changes go, iOS's Dynamic Island will debut on the new MacBook Pro, and Apple touts the added touch controls as particularly useful for interacting with the interface to accept AirDrops and pause music playback. Otherwise, Apple gives some pretty predictable ways that the touch input will work with the new MacBook Pro. Gestures you coul … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-10.31.37-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-10.31.37-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Google AI gets cagey when asked who won the 2020 elections</title>
@@ -224,17 +367,6 @@
 <media:content url="https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793213611.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple ‘Pro and tell’ event: Everything announced this week</title>
-<link>https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week</link>
-<guid isPermaLink="false">b2dfdd067ed1d3be692f145c5e255e128a74cea1417c0e3612f51097e02124d5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:27:38 +0000</pubDate>
-<description>Apple closed out its week of product announcements with its "Pro and tell" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades and updates in the days leading up to its big reveal. We've rounded them all up here. A MacBook Pro with a touchscreen Apple CEO John Ternus revealed the company's first MacBook Pro with a touchscreen, allowing you to perform gestures on your screen like scrolling, swiping, and pinching. The company says the touch sensor is "built directly into the display panel," … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/app1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Apple announces touchscreen MacBook Pro with OLED display</title>
 <link>https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display</link>
 <guid isPermaLink="false">9c955f8061904d7d0558d91458a9808c6ccf5a64aa2a0af57a6164ff675abbbe</guid>
@@ -246,28 +378,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg" medium="image"/>
 </item>
 <item>
-<title>Watch Apple’s reveal video for the touchscreen MacBook Pro</title>
-<link>https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video</link>
-<guid isPermaLink="false">047dff4919490b50a9cd442fdf661f131923eec44ca2ccdcbe465e0611cb3e17</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:19:23 +0000</pubDate>
-<description>Apple just announced its first touchscreen MacBook at its "Pro and tell" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's PROLED XDR touch display is a tandem OLED panel with up to 2,000 nits of brightness and a 120Hz refresh rate. It features a hole punch for the webcam, rather than a notch. Apple says the new laptop weighs as little as 3 pounds. It also brings back the glowing Apple logo on its lid, which Apple CEO John Ternus teased in a video on X . Preorders for the touchscreen MacBook … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-macbook-pro-touch-video-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-macbook-pro-touch-video-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Hands-on with Apple’s touchscreen MacBook Pro</title>
-<link>https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on</link>
-<guid isPermaLink="false">edea4c82a98dd320f64fb64973aa9ad29771024426ce81a9ff8effe41ffda061</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:16:55 +0000</pubDate>
-<description>The difference in thickness is small compared to the non-touch MacBook Pro models. Steve Jobs famously called touchscreen laptops "ergonomically terrible," and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's first laptop to embrace a touch interface. While it's unlikely that Apple can fix all the "terrible" ergonomics of having to lift your arm up and touch a laptop screen, the company has put some effort into making macOS more touch-friendly. The new 14-inch MacBook Pro with PROLED XDR display weighs just 3 pounds, which is noticeably lighter than the current generation of non-touch MacBook Pros, which start at 3.4 pounds for the newly introduced M6 mo … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Apple's redesigned MacBook Pro has an OLED touchscreen, weighs just three pounds</title>
 <link>https://www.engadget.com/2299925/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds</link>
 <guid isPermaLink="false">ac81a697627ab1f49041c50375eb0391f15aefbe5425e85f2ed717a6216ec9f2</guid>
@@ -277,17 +387,6 @@
 <description>It could use a more distinctive name, though.</description>
 <enclosure url="https://www.engadget.com/img/gallery/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds/l-intro-1793209936.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds/l-intro-1793209936.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s where you can preorder the new OLED-equipped iPad Mini</title>
-<link>https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date</link>
-<guid isPermaLink="false">6abeff3014e494439975c784092dc5376b6978a1884f4e5e46b427dd92ee2c1c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:12:47 +0000</pubDate>
-<description>Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models , bringing OLED technology to Apple's miniature tablet for the first time. The diminutive slate won't hit shelves until November 6th; however, you can already preorder it from Amazon , Walmart , Apple , and other retailers in multiple colors starting at $699. The forthcoming iPad Mini features an 8.5-inch OLED display, the largest screen the Mini has ever had, despite being both thinner and lighter than its 2024 predecessor . It also runs on Apple's new A20 Pro chip, which sho … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-iPad-Mini-Press-Image.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-iPad-Mini-Press-Image.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Fake PS5 emulators on GitHub are spreading password-stealing malware</title>
@@ -598,17 +697,6 @@
 <media:content url="https://www.engadget.com/img/gallery/amazon-launches-its-first-photo-frame-with-built-in-alexa/l-intro-1793179679.jpg" medium="image"/>
 </item>
 <item>
-<title>Amazon's new Echo Time smart alarm clock tries to make waking up less painful</title>
-<link>https://www.engadget.com/2299263/amazon-echo-time-smart-alarm-clock</link>
-<guid isPermaLink="false">7108e0fcb4e968c1c00687aadfec26601247d16d764677170796fd6e5feb297b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-<description>Amazon has launched a new smart alarm clock that can determine when you're in lighter sleep before waking you up.</description>
-<enclosure url="https://www.engadget.com/img/gallery/amazons-new-echo-time-smart-alarm-clock-comes-with-science-backed-wake-up-features/l-intro-1793183183.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/amazons-new-echo-time-smart-alarm-clock-comes-with-science-backed-wake-up-features/l-intro-1793183183.jpg" medium="image"/>
-</item>
-<item>
 <title>Cisco open sources tool for detecting AI agents on hacking sprees</title>
 <link>https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867</link>
 <guid isPermaLink="false">de821c9b5058d5665ff7ab8593358a09851f8870f34c1efddb6475f4ff9f81e5</guid>
@@ -873,17 +961,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/80e6726a-a939-4cf6-9e60-d9d4cb34f74b.jpg" medium="image"/>
 </item>
 <item>
-<title>Warner Bros. drops final trailer for Dune: Part Three</title>
-<link>https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three</link>
-<guid isPermaLink="false">6cd3e070556951a7f742bb26756e50d4ab64321446e567c59d8512027bd21dd4</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 18:05:55 +0000</pubDate>
-<description>The end of the year is fast approaching and with it, the pre-Christmas release of Dune: Part Three , the final installment in Denis Villeneuve's acclaimed adaptation of sci-fi author Frank Herbert's novel(s). Warner Bros. gave us a broody and haunting extended teaser in March and a July trailer jam-packed with tantalizing hints of what to expect, along with plenty of Easter eggs to delight avid book fans. Now we've got one last action-packed trailer setting up the final act for iconic anti-hero Paul Atreides (Timothée Chalamet). (Spoilers for first two films in the franchise below.) Previously , 2021’s Dune culminated in the brutal defeat of House Atreides by rival House Harkonnen, with Paul and his mother, Lady Jessica (Rebecca Ferguson), fleeing to the desert and taking refuge among the Fremen. Among them is Chani (Zendaya), whom Paul has been seeing in visions all along. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple takes powerful M6 chip to the MacBook Pro, iMac</title>
 <link>https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797</link>
 <guid isPermaLink="false">60101fbffa3acda7b53d950da1299ec47b33b9d4d35821b540fd94f802751dd3</guid>
@@ -928,17 +1005,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-speed-test.jpg" medium="image"/>
 </item>
 <item>
-<title>Ford simplifies using your EV as a home battery with the $30K Fathom</title>
-<link>https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck</link>
-<guid isPermaLink="false">ec3731708041bc1eea8f8ddb69ea85484ea9d14cbbea30a0e93aa86e017b1878</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 16:17:58 +0000</pubDate>
-<description>This morning, Ford revealed that buyers of the forthcoming Fathom —the company's sub-$30,000 electric pickup truck due next year —will get more than just a truck. Until now, vehicle-to-home technology— like the setup Ford developed for the now-discontinued F-150 Lightning—takes DC power from the electric vehicle and runs it through an inverter built into the wallbox to turn it into AC the house can use. But with the Fathom, that inverter is built into the truck from the start. So every Fathom will be able to act as a backup battery for your home. It’s typical: You wait a decade for a cheap electric truck, and then two come along almost at once. And they’re two radically different products from two radically different automakers that I think will reveal a few preferences from the EV-buying public. One is the Blank Slate, from a brand new startup offering a bare-bones two-door that capitalizes on features the Internet says it wants, like no onboard modem, no touchscreens, and no infotainment system. The other is the result of one of Detroit’s big three taking a long, hard look at Chinese EVs and asking itself, “How do we make a car that cheap?” Although the Ford Fathom will cost $5,000 more than a Slate, that money does buy an extra pair of doors, modern conveniences like an infotainment system, CarPlay, electric windows, and a vast dealership network to service the car. That may be helpful given how many recalls Ford issues each year. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack</title>
 <link>https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690</link>
 <guid isPermaLink="false">1bd3a9eb10031c358f7a037b159fe49dff114dc3c60eda92896aecc931523d48</guid>
@@ -961,17 +1027,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg" medium="image"/>
 </item>
 <item>
-<title>DeepMind unveils Genie 4 world model promising more realistic physics and humans</title>
-<link>https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations</link>
-<guid isPermaLink="false">c7cc848b2884e07731ed8beb705f821e134a4bb4b4fea4368b494e7b7026572c</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 16:00:22 +0000</pubDate>
-<description>Last year, Google DeepMind sent gaming stocks tumbling with the reveal of its Genie 3 world model . Since then, world models have become a major focus of AI labs around the world, but Google isn't resting on its laurels. Researchers have been hard at work on an updated model that improves on Genie 3 in almost every way. And if you pay Google enough money, you might actually get to use Genie 4 before too long. It's easy to look at the output of Genie 4 and see a video game, which is why Genie 3 caused so much consternation in the gaming industry. DeepMind doesn't think about it that way, though. According to Google , world models are a key element in the march toward artificial general intelligence (AGI). A world model creates a virtual world, but it doesn't require pre-rendering environments or programming interactive elements. You simply tell the model what you want, and it generates the experience frame by frame in real time as you explore it. DeepMind says this technology could create infinite training environments for physical robots or unlock new avenues of rapid prototyping for creative fields. Of course, that requires the model to accurately simulate what you want. Genie 4 has several improvements that make its simulations more useful, and that's thanks in part to Google's updated Gemini models. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png" medium="image"/>
-</item>
-<item>
 <title>Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year</title>
 <link>https://www.theregister.com/saas/2026/10/27/take-it-on-the-chin-satnad-microsoft-chief-execs-pay-slips-6-in-record-year/5305737</link>
 <guid isPermaLink="false">c633cd8381619393e46ded8e304aa4b3f4af80f8888b950388082ebf61be7044</guid>
@@ -981,17 +1036,6 @@
 <description>Sometimes you’ve just got to roll with the punches. Microsoft chairman and CEO Satya Nadella was knocked down recently: his total compensation for the corporation’s fiscal 2026 is 6 percent lighter than it was in the prior year. The leader of the software and cloud biz pocketed $90.6 million, including a $2.5 million base salary, $77.6 million in stock awards, $10.3 million non-equity incentive plan compensation and $259,203 in all other compensation (chiefly security for personal travel, charitable gifts and pension contributions). As Reg readers are no doubt be aware, stock vests at a different rate annually and in the latest full-year Nadella was awarded a lower figure, despite breezing through all of his financial and operational targets. Revenue for Microsoft's fiscal 2026 ended June 30 was up 18 percent to $331.8 billion and operating profit was 18 percent higher - at $ 155.237 billion - than SatNad's $130.96 billion target. Together, these areas accounted for 70 percent of the bossman’s remuneration goals. Operational assessment including security, strategic transformation and culture made up the rest. The executive pay scale was outlined in the Notice of Annual Shareholder Meeting and Proxy Statement 2026 . Other highlights in that financial year included a 27 percent bounce in revenue generated by the Cloud division to $214.4 billion. Microsoft added 88 datacenters to its portfolio, and had 30 million paid Copilot seats. "The scale of adoption reflects growing customer confidence in Microsoft's ability to deliver enterprise-ready AI capabilities integrated directly into existing workflows. Microsoft also delivered 625 Copilot updates during the year, reflecting its rapid pace of innovation and commitment to customer feedback," Microsoft claimed. "Large-scale enterprise deployments accelerated across industries, with the number of customers deploying Copilot broadly across their organizations continuing to increase as Copilot evolved from an AI assistant into a platform for agentic work." GitHub captured 225 million users - 50 million of these used Copilot, with one in three "pull requests involving an agent." Industry-specific AI services expanded, such as Dragon Copilot for healthcare, now used by "100,000 healthcare providers to help automate administrative and clinical workflows." The rest of the C-suite's compensation went in the opposite direction to Nadella, and saw their packages increase, though they aren't nearly as well off as the CEO, who got the top job in 2014. CFO Amy Hood, was awarded $33.7 million, up from $29.5 million. The beancounting bigwig returned $43.8 billion to shareholders in the 12 months. Judson Althoff, CEO of Microsoft’s Commercial Business was awarded $33.4 million, and chief marketing officer Takeshi Numoto - the person that also works on product bundles - was awarded $15.7 million. President Brad Smith was compensated to the tune of $33 million. Like we’ve said before, it’s tough at the top. Nadella’s pay</description>
 <enclosure url="https://image.theregister.com/?imageId=256704&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=256704&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>From cheap tool to premium subscription: When a beloved app's price skyrockets</title>
-<link>https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets</link>
-<guid isPermaLink="false">e287f79869c37243d5efd9d29822f7c7be2f7284d63332ac011215c58e7fe322</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 15:50:19 +0000</pubDate>
-<description>How much are you willing to pay to keep using your favorite app? Maybe you’ve used it for years. Perhaps it performs a function so essential and specific that you couldn’t imagine what you’d do without it. But when the developer announces an extraordinary price hike, you’re forced to consider how much you really value that app. Earlier this year, Evernote, a note-taking app, changed its subscription tiers, forcing some users to go from paying $130 per year to $250. The highest tier now costs more than 3.3 times as much as the most advanced tier did in 2023 and 10 times more than what Evernote charged for annual subscriptions from its 2008 launch until 2016. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple’s M6 iMac has arrived – here’s what’s changed since the M4</title>
@@ -1432,39 +1476,6 @@
 <description>Anthropic has filed for an IPO that could rank among Wall Street's biggest ever, revealing an $80.7 billion half-year loss, a startlingly complex governance structure, and warnings that its AI models could blackmail humans, resist shutdown, or create "existential risks" to society. The Claude maker filed its S-1 registration statement with the US Securities and Exchange Commission on Monday as it prepares to list on Nasdaq under the ticker ANT. The company has not yet disclosed its proposed share price or how many shares it plans to sell. Of the filing's 614 pages, 94 are devoted to risk factors. But it's Anthropic's financial figures that are likely to raise eyebrows first. The Claude maker reported $16.3 billion in revenue for the first six months of 2026, up from $1.2 billion a year earlier. It also posted a whopping $80.7 billion net loss, although $72.4 billion of that was an accounting adjustment tied to the company's soaring valuation, not money it actually spent. Anthropic's operating loss was considerably smaller at $693 million, down from $2.1 billion a year earlier. By its own adjusted accounting, the company made a $1.6 billion operating profit in the first half of 2026, for a margin of around 10 percent. Whether it can keep making money on those terms is another matter. Training and running Claude requires an eye-watering amount of computing power, and Anthropic will need much more to keep pace with its rivals. A $1.6 billion adjusted profit won't count for much if the infrastructure bills keep growing faster than the business. Susannah Streeter, chief investment strategist at Wealth Club, told The Register that Anthropic's IPO could leave ordinary investors paying a premium for growth that has yet to translate into sustained profits. "A huge pool of private capital has allowed AI businesses to scale up and command extraordinary valuations long before they reach the stock market," she said, adding that investors buying in at the IPO will face a price with "a hefty dose of future success baked in." The financial risks are fairly conventional by Silicon Valley standards, but the warnings about what Claude might get up to are perhaps less so. Anthropic claims that models, including its own, have exhibited unexpected or self-preserving behavior, including attempts to resist shutdown, conceal information, and produce outputs resembling blackmail. It also warns that sufficiently advanced AI systems could pose “catastrophic or existential risks to society” if deployed without adequate safeguards. That's not to say Claude is currently blackmailing customers. Anthropic has observed some of this behavior in testing, but it also identifies more immediate security concerns as it gives its models access to external tools, code repositories, and corporate systems. Anthropic warns that attackers could hide malicious instructions in websites, documents, or API responses that its AI agents can access. If an agent follows those instructions, it could</description>
 <enclosure url="https://image.theregister.com/?imageId=5305476&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5305476&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Last call for &lt;span class="italic m-italic"&gt;The Register&lt;/span&gt;’s data sovereignty dinner in Washington</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/26/sponsored-last-call-for-the-registers-data-sovereignty-dinner-in-washington/5304959</link>
-<guid isPermaLink="false">aafe168ae5f4506fea1c6e0f226b46117008bc912fc3cc13e4f346a4f905fa4b</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 15:00:00 +0000</pubDate>
-<description>This Thursday, 29 October, The Register hosts HPE and NVIDIA at one dinner table in Washington to answer the question that stalls AI in regulated industries: where the data lives, who can reach it, and what an auditor will accept as evidence a year from now. The table is nearly set. If you have been meaning to ask for a place, this is the week. Editor-in-chief Matt Rosoff chairs. HPE sends Bharath Ramesh, Head of Product, AI Factory Solutions, and Tracy Mills, Acting Director Federal Systems Integrators and Distinguished Chief Technologist Federal. NVIDIA sends Bert Condensa, Vice President for Enterprise AI Factory Segment Sales. They are there to take questions, with no slides and no recording, and the chair stops a pitch before it starts. The evening runs under the Chatham House Rule. That is the point of it. The things worth knowing about sovereign AI infrastructure, such as what a bank had to rebuild or which option somebody paid for and would not buy again, get said at a table like this and nowhere else. The agenda: which infrastructure options hold a boundary, what each one costs, and whether any of it survives production. The seats are for technology, data and risk leaders in healthcare, financial services, research, pharmaceuticals, government and higher education. Dinner runs from 6.00pm to 8.30pm at Fiola Mare, Washington DC. Places go by invitation and the last of them are going now. Request one here . Government and public sector guests: where your agency’s ethics rules require it, you can pay your own share and we will provide a receipt. Please say so when you request an invitation.</description>
-<enclosure url="https://image.theregister.com/?imageId=5304974&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5304974&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Swift operations end: 2004 spacecraft headed for fiery reentry</title>
-<link>https://www.theregister.com/science/2026/10/26/swift-operations-end-2004-spacecraft-headed-for-fiery-reentry/5305346</link>
-<guid isPermaLink="false">d308c7a5361f3aa5b071ea495a3f451d7fd049a8f47bcec11750237a4cab242c</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 14:44:00 +0000</pubDate>
-<description>NASA's Swift observatory made its final observation on October 20 and is expected to re-enter the atmosphere in the next few weeks after a failed rescue attempt over the summer. Designed to study gamma-ray bursts, Swift was launched on November 20, 2004, on a two-year mission. It has lasted almost 22 years, but atmospheric drag is inexorably lowering the spacecraft's orbit, so reentry is likely just shy of the vehicle's 22nd anniversary. Swift has no propulsion system to save itself. Swift is now orbiting at an altitude of less than 171 miles above Earth's surface, meaning it cannot keep its telescopes steady when pointing at astronomical targets. Because the spacecraft could no longer compensate for the increased drag, it dropped into safe mode. A command was then sent from the ground that, according to NASA, "effectively ended Swift operations to prepare it for re-entry." The descent of Swift has accelerated in recent years due to increased solar activity. Last year, NASA awarded Katalyst Space a contract for a high-risk, high-reward mission to boost the observatory to a higher orbit. Swift's science operations were curtailed to maximize opportunities for Katalyst Space's LINK spacecraft, but alas, a rendezvous never happened , and engineers opted to reactivate operations to eke out as much science as possible. The expected side effect was increased drag on the spacecraft and, as expected, Swift sank rapidly until operations had to cease. Swift has been an astonishingly productive instrument during its long life. According to NASA, it has observed more than 2,000 gamma-ray bursts and more than 1,400 supernova explosions. It has conducted an all-sky X-ray survey and seen stars shredded by black holes. The full Swift archive comes to approximately 12 terabytes. Not too bad for something that was only supposed to last two years. NASA now faces the problem that it has no direct replacement for Swift. As well as paying tribute to the observatory's contributions, Shawn Domagal-Goldman, director of the Astrophysics Division at NASA Headquarters in Washington, said in a statement: "To support rapid response to cosmic events in a post-Swift world, we're exploring our ability to use and augment NASA's fleet of existing space telescopes, from fast-to-orbit commercial capabilities to efficient, innovative new missions." ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5237915&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5237915&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Private equity giant: AI payoff strictly limited to Big Tech</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358</link>
-<guid isPermaLink="false">0fe51abb134cbd51d2b71b542c900b326fef3bc7c273694f85d6739217ccaff0</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 13:59:00 +0000</pubDate>
-<description>AI has yet to deliver any financial payoff to US businesses outside of the tech sector, according to investment biz Apollo Global Management. The global asset firm made the claim in a posting to its Daily Spark blog that features analysis on the US economy and capital markets. It says corporate America is starting to view token spending not as a source of growth, but rather as a cost center that weighs on company margins. Apollo’s chief economist Torsten Slok says that revenue per worker may be rising for the so-called "Magnificent Seven" tech firms, which includes the hyperscalers plus Apple, Nvidia and Tesla, but this isn't the case for the rest of the S&amp;P 500 businesses. The same goes for profit margins, and for AI boosting corporate productivity growth, he adds, posting charts to back up these claims. Apollo's assertion has met with pushback from some, who commented on social media that they did not recognize the picture painted by Slok. Others said a similar effect was noted in the PC industry, when productivity growth lagged the widespread adoption of computers in business by a decade or more. However the investment firm’s observations chime with various reports The Register has analyzed over the past year or two, such as one earlier this year from PwC that found the majority of chief executives had enjoyed neither increased revenue nor decreased costs from AI, despite investing heavily in the technology. Research from professional services firm Deloitte also showed that adopting AI tools has not helped the bottom line for most companies, while a separate report found AI is now facing corporate accountability after several years of investment with little or no return, and projects will have to prove their worth or be axed. McKinsey reckons the corporate world is now at a turning point and on the road to seeing a return for all the effort that organizations have put into pilots and early AI deployments – although it concedes the number of businesses reporting an actual earnings boost from their AI initiatives has remained flat. Slok questions whether mainstream corporations will ever be able to turn AI projects into higher revenue growth and higher profit margins, despite the appearance of cheaper or open-sourced models. In business, intelligence is mostly judgment, he says, and therefore depends on context. He notes that AI does not really understand anything, but especially accountability, trust, culture, unwritten rules, ethical trade-offs or fairness, all of which shape companies' reputational risk and ultimately drive revenue growth and profit margins. Apollo also notes a slowdown in token spending growth , claiming this shows the spending is highly price-sensitive and demand falls away or switches to cheap open source alternatives in response to even modest increases in cost. This casts doubt over the economics of pouring billions into constructing ever more datacenters if the resulting compute is only likely to turn a marginal profit.</description>
-<enclosure url="https://image.theregister.com/?imageId=263134&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=263134&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism</title>
