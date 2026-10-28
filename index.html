@@ -193,11 +193,10 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.hero{position:relati
         statusEl.textContent = `${count} headlines · Updated ${new Date().toLocaleTimeString()}`;
       } catch (error) {
         console.error("RSS loading failed:", error);
-        statusEl.textContent = "News could not be loaded. (v4)";
+        statusEl.textContent = "News could not be loaded. Please refresh or check your Internet connection.";
         const message = document.createElement("div");
         message.className = "error";
-        message.textContent =
-          "v4 error: " + error.message + " | Tried: " + new URL("feeds/" + selectedCategory + ".xml", location.href).href;
+        message.textContent = "Please refresh or check your Internet connection.";
         newsEl.replaceChildren(message);
       } finally {
         loading = false;
