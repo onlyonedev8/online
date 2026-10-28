@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures</title>
+<link>https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures</link>
+<guid isPermaLink="false">0d883ba46df70b6e234d0445c9690a736acb7ae014e3ca80bb653f49f1c978a1</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 17:43:02 +0000</pubDate>
+<description>Bitcoin Magazine Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures Crypto hacks have produced roughly $2.35 billion in net losses so far in 2026 after freezes and returns, according to a report by Lightning.news shared with Bitcoin Magazine. A security researcher by the name of Stacy Muur posted on X compiled “a list of protocols that were hacked for more than $50,000 in 2026.” 230 protocols year-to-date. “Crypto security is absolutely cooked.” September alone accounted for about $768 million in Muur’s tally, driven mainly by centralized exchanges and DeFi rather than pure Bitcoin self-custody hardware wallets, which got significant news coverage at the time. The largest single loss was Bitget’s September 24 drain of roughly $387.5 million from hot and warm wallets. The exchange and firms including Chainalysis , Elliptic, and TRM Labs have linked the incident to North Korea, citing IP patterns consistent with prior DPRK-linked VPN use, on-chain overlaps with wallets tied to earlier Lazarus Group and TraderTraitor activity, including the 2025 Bybit theft. Attackers used third-party security products to inject fraudulent withdrawal commands without taking private keys. Liquid Network , Blockstream’s Bitcoin sidechain, took the next-largest hit when attackers exploited an Elements software bug in early September to mint about 4,000 unbacked L-BTC and peg them out for roughly 4,000 real bitcoins, valued near $320 million at the time. The self-described white-hat actors returned 3,400 BTC after negotiations conducted on-chain via OP_RETURN messages and kept about 600 BTC. No federation keys were compromised. The loss came from a type of inflation bug on the Liquid network protocol. Samson Mow later called the episode part of an “avalanche of AI-assisted attacks” that had already reached other Bitcoin-adjacent software before hitting Liquid. The network is back and running now , having covered the losses, presumably from investors. DeFi platforms showed the same pattern of concentrated, high-value losses. Drift Protocol lost approximately $285–296 million in an April governance and multisig compromise that involved months of social engineering. An investigation commissioned by the project attributed the operation to North Korean actors. KelpDAO’s LayerZero-powered rsETH bridge was drained of roughly $292 million in unbacked tokens after a single-verifier design was subverted. LayerZero stated that preliminary indicators pointed to DPRK’s Lazarus Group, specifically TraderTraitor. Tectonic on Cronos saw about $120.4 million borrowed against manipulated collateral in late August. Validators later rewound the chain and recovered the majority, though several million dollars that had already been bridged off-network were not restored. Incidents involving Bitcoin hardware wallets were smaller in aggregate despite the wide news coverage. Galaxy Research placed the Coinkite RNG hack values in the range of roughly</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-6.webp" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-6.webp" medium="image"/>
+</item>
+<item>
+<title>AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds</title>
+<link>https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions</link>
+<guid isPermaLink="false">20d15aab03dd21217bf3693a2efe9d0fdef3db922ce49a7c10f5182b7f1fa469</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 17:36:02 +0000</pubDate>
+<description>Professional analysts went along with their AI agent’s hidden opinion 86% of the time, and few credited it.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report</title>
+<link>https://bitcoinmagazine.com/news/google-debuting-a-bank-grade-crypto-tool</link>
+<guid isPermaLink="false">39728a86fa1696825d5a1743b7d6967589aac074306d95dce3093d82d96b758d</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 17:26:10 +0000</pubDate>
+<description>Bitcoin Magazine Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report Google is reportedly unveiling Google Multi-Party Compute, a crypto custody system that splits signing keys across separate systems, at its first digital assets symposium in New York today. The product is in private preview with several financial institutions. Alphabet has started using it to secure its own assets, according to CoinDesk reporting . Google plans commercial availability in early 2027 and has not disclosed pricing. The system applies multi-party computation to a signing key. The key is divided into fragments held by separate parties or machines, and a transaction requires a set number of fragments to sign. The full key is never assembled in one place. A bank could hold one share on its own hardware, another in Google Cloud, and a third with a rival cloud provider. Institutions can set thresholds such as two-of-three or five-of-seven. Before any signature, a policy engine running inside Google’s Confidential Space checks the transfer against limits, destination restrictions, and approval rules. Google says it has no access to key shares in unencrypted form, per CoinDesk. Crypto’s security issues The pitch rests on a persistent problem. Chainalysis attributed 43.8% of cryptocurrency stolen in 2024 to compromised private keys. DeFiLlama data shows roughly 40% of the $16.69 billion lost to hacks through June came from key compromises. In June, an attacker took seven keys from one developer’s computer during the Humanity Protocol breach and drained wallets across two networks. Such incidents show how concentrated signing authority creates a single point of failure. The industry has responded by recommending multi-vendor multisignature setups that spread control across hardware and software providers. Google also frames the product against AI-enabled fraud. Chainalysis found that scams linked to AI tool vendors averaged $3.2 million per operation in 2025, compared with $719,000 for other scams. The report links the two figures but does not prove that AI caused the difference. Ethereum researcher Justin Drake has warned that AI could eventually find mathematical shortcuts that weaken wallet signatures. No AI system has shown that capability. Google’s MPC design targets stolen credentials and unauthorized transfers, not a break in the underlying cryptography. Quantum computing presents a separate, longer-term risk. Google researchers estimated that a sufficiently powerful future machine could derive a bitcoin private key from an exposed public key in about nine minutes. Roughly 6.9 million bitcoin have exposed public keys. Google says its architecture can adopt post-quantum signatures later without forcing institutions to rebuild their systems, but it has set no timetable. Background on how quantum machines threaten bitcoin explains which addresses are most exposed. Google enters a market led by Fireblocks, Fordefi, and BitGo. Google argued to Coin</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/Google-Debuting-a-Bank-Grade-Crypto-Custody-Tool-Built-on-Split-Keys-Report.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/Google-Debuting-a-Bank-Grade-Crypto-Custody-Tool-Built-on-Split-Keys-Report.jpg" medium="image"/>
+</item>
+<item>
+<title>Crypto PAC spending before midterms possibly obscured after reported FEC hack</title>
+<link>https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack</link>
+<guid isPermaLink="false">8a54ef6a310edd637b2116a52b5abe9d168e97d297930706303d84b679a39a21</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 17:05:42 +0000</pubDate>
+<description>The FEC reported an “electronic filing system outage” on Tuesday as groups are expected to ramp up spending before the US midterm elections.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61JZDJN7WGW76Y3DV75013F/magnifier-coin-bitcoin-search-21.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61JZDJN7WGW76Y3DV75013F/magnifier-coin-bitcoin-search-21.jpg" medium="image"/>
+</item>
+<item>
 <title>Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor</title>
 <link>https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor</link>
 <guid isPermaLink="false">2370ce4428257e917ac3e38d9160d99e2ca3d7dca4fc4189aee7aecda4b3ca51</guid>
@@ -16,8 +60,8 @@
 </item>
 <item>
 <title>Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings</title>
-<link>https://cointelegraph.com/markets/market-update</link>
-<guid isPermaLink="false">13effb6a7cd306146d667d6d5d6fa66b1d5333ff18e28ba6cb471647aa1dceb0</guid>
+<link>https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings</link>
+<guid isPermaLink="false">9e2471716c336ba325e786806c1ea0a2c89b64337a8140de6f561bd3c0f6b529</guid>
 <source>Cointelegraph</source>
 <category>business</category>
 <pubDate>Wed, 28 Oct 2026 16:53:26 +0000</pubDate>
@@ -255,17 +299,6 @@
 <description>▶ Bitcoin Magazine Bitcoin Price “Climbing the Wall of Worry” – Early Signs of Bull Market | Michael Sullivan Bitcoin is holding near $80K, yet the crowd has never seemed less excited and that might be the most bullish signal of all. Michael Sullivan, software engineer and author of Bitcoin Sentiment Weekly, breaks down what language-based sentiment data says about this market. He explains why excitement, conviction and desire are washed out to levels he compares to 2015, and why that looks like the early stages of a disbelief rally. Chapters: 00:00 Michael Sullivan on Bitcoin and Currency Decay 00:58 Bitcoin’s Pullback From $86K: Is This a Disbelief Rally? 02:10 Bitcoin Sentiment Compared to 2015 and 2022 03:50 How to Tell When the Bitcoin Market Is Overheated 05:05 Measuring Excitement, Conviction and Desire in Bitcoin 06:42 The Next Bitcoin Bull Run Narrative: Bitcoin and AI 08:12 Investor Psychology: Buying Near All-Time Highs vs. DCA 09:42 Bitcoin and Traditional Finance Growing Together 10:54 Why Short-Term Bitcoin Holders Are So Frustrated 12:52 How AI’s Deflation Strengthens the Case for Bitcoin DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Bitcoin Price “Climbing the Wall of Worry” – Early Signs of Bull Market | Michael Sullivan first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
 <enclosure url="https://img.youtube.com/vi/CFF3Ps0K6xI/hqdefault.jpg" type="image/jpeg"/>
 <media:content url="https://img.youtube.com/vi/CFF3Ps0K6xI/hqdefault.jpg" medium="image"/>
-</item>
-<item>
-<title>BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In</title>
-<link>https://bitcoinmagazine.com/videos/btc-hash-ribbon-signal-flipped-bitcoin-miners-show-the-bottom-might-be-in</link>
-<guid isPermaLink="false">662b1e800d82c9d411c6ac1d77195db711c0494abfe22a4a0ded40b358b549eb</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Wed, 28 Oct 2026 13:20:24 +0000</pubDate>
-<description>▶ Bitcoin Magazine BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In The hash ribbon recovered on August 26 and has held for 61 days. Historically, Bitcoin was higher one year later in six of seven counted recoveries, about a 72% edge. Sean Hagan breaks down the signal, the misses (15 of 231, notably April 2021 at -17%), the January signal still 12% underwater, and why the 30-day hash rate at roughly 1.1 ZH, up 13% from July, says the worst of the miner stress is behind us. Grace Remington asks the right question: if miners left voluntarily, is the signal still reliable? Chapters: 0:00 The Hash Ribbon Explained: Counting Miner Capitulation Days Since 2011 0:26 A New Record: 223 of 365 Days in Capitulation vs. 141 in 2012 1:01 Why This Cycle Is Different: Miners Left for $100 Billion in AI Contracts 1:48 More Like the 2021 China Ban Than 2018 or 2022 2:14 The Timing Still Fits: Capitulation Peaked 56 Days After the June 30 Low 2:37 Hash Ribbon Recovered 61 Straight Days, Hash Rate Up 13% From the Low 3:20 Price Agrees: MVRV Above Its Average and Bitcoin Above the 50-Week 3:58 Is the Signal Reliable If Miners Left Voluntarily? Higher 6 of 7 Times 5:18 Could Hash Rate Come Back From AI as the Build-Out Hits Bottlenecks? 6:52 A Backward-Looking Chart With a 70%-Plus Directional Track Record DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
-<enclosure url="https://img.youtube.com/vi/OdLL1IaU0as/hqdefault.jpg" type="image/jpeg"/>
-<media:content url="https://img.youtube.com/vi/OdLL1IaU0as/hqdefault.jpg" medium="image"/>
 </item>
 <item>
 <title>DTCC unit launches tokenization services</title>
@@ -530,17 +563,6 @@
 <description>Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZBHWRX2BG8Y30Y9AEP1V37/hi-what-is-the-significance-of-bis-statement-that-fiat-and-stablecoins-can-co-exist.png" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZBHWRX2BG8Y30Y9AEP1V37/hi-what-is-the-significance-of-bis-statement-that-fiat-and-stablecoins-can-co-exist.png" medium="image"/>
-</item>
-<item>
-<title>Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom</title>
-<link>https://bitcoinmagazine.com/markets/bitcoin-price-rests-near-80500-midterms</link>
-<guid isPermaLink="false">176f737ccee9703ac0017075e95f3c26e96a1deba9ec2714099435c88c8cd043</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 27 Oct 2026 19:48:48 +0000</pubDate>
-<description>Bitcoin Magazine Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom Bitcoin price traded near $80,500 most of Tuesday, holding above the $80,000 level that has become the market’s line in the sand. Prices ranged between roughly $79,400 and $80,800 over the day, according to Bitcoin Magazine Pro data, and the asset was up about 0.3% over the prior 24 hours by mid-afternoon Eastern time. The steadiness follows a rough stretch. Bitcoin price fell below $80,000 on Monday as investors cut risk exposure, weighed down by concerns about AI-sector valuations and higher oil prices. Spot Bitcoin ETFs have also been shedding money. Still, the selling hasn’t turned into panic. Bitcoin price has mostly stayed in a band between about $79,000 and $81,000 this week. The longer view is harder on anyone who bought near the top. Bitcoin’s all-time high sits near $126,000, set in October 2025, and the price is roughly 30% below where it was a year ago. The Federal Reserve’s policy meeting runs October 27 and 28, with the decision due Wednesday. The central bank has held its target range at 3.75% to 4% after raising it in September, and officials have signaled another increase may be needed by year-end. Market odds leaned toward a hold the last time they were clearly reported in early October, but those numbers are stale and likely have moved. Traders will watch Fed Chair Kevin Warsh’s press conference for hints about a December hike. Bitcoin price logic amidst the midterms The logic for Bitcoin is simple. Higher rates drain liquidity from speculative assets, so a hawkish surprise would likely push the price back toward $80,000 or below. A hold, or a softer tone, could give buyers room to push toward the $88,000 range seen earlier this fall. The November 3 midterm elections add another layer. Prediction markets have favored Democrats winning both chambers of Congress, according to one Polymarket reading cited in recent coverage. For crypto, the most immediate policy question is the pending market structure bill, and lawmakers’ votes on it could shape how the industry approaches the races. Bitcoin and other risk assets have tended to rally in the 12 months after past midterm cycles. TD Cowen analysts have warned the results could stall the CLARITY Act for two years. Prediction markets gave Democrats a 90% chance of winning the House and 62% of winning the Senate, a scenario TD Cowen called the most negative for bitcoin. A split Congress, with Republicans holding the Senate, was seen as better, while a Republican sweep was viewed as the best path for crypto. The bill had stalled after a failed Senate cloture vote in September, with ethics provisions and stablecoin yield still dividing lawmakers. At the time of writing, the bitcoin price is roughly $80,600. This post Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom first appeared on Bitcoin Magazine and is written by Micah Zimmerman .</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-Price-Rests-Near-80500-as-Midterms-Fed-Decision-Loom.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bitcoin-Price-Rests-Near-80500-as-Midterms-Fed-Decision-Loom.jpg" medium="image"/>
 </item>
 <item>
 <title>Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor</title>
@@ -884,17 +906,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y3HTZGMXQ7SC5P5EPWXX7B/binance-brazil-edition.png" medium="image"/>
 </item>
 <item>
-<title>Bitcoin ETFs claw back $110M after $774M exit</title>
-<link>https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k</link>
-<guid isPermaLink="false">916792b1761de843ffe6ced7bb3d7a7d374ce16257555f8b793e645ae516e42c</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 27 Oct 2026 07:35:37 +0000</pubDate>
-<description>US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y1DYG85AQWCC0729JDM8E5/hi-bitcoin-is-now-bigger-3.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Y1DYG85AQWCC0729JDM8E5/hi-bitcoin-is-now-bigger-3.jpg" medium="image"/>
-</item>
-<item>
 <title>Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield</title>
 <link>https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield</link>
 <guid isPermaLink="false">a05fd4dfd93b138aab6b80141d31e7673d536440e9c6b0c014b1161681fcead5</guid>
@@ -959,28 +970,6 @@
 <description>Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic's sales, HR, and IT systems through third-party software.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Why Prediction Markets Got the Brazilian Election So Wrong</title>
-<link>https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong</link>
-<guid isPermaLink="false">5f29cd85f28bb80da320df1d79a3558d0626ff9d0aa423b832de09b672603f2b</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 18:46:03 +0000</pubDate>
-<description>Experts say Brazil's prediction market ban left the odds in the hands of traders with little knowledge about the election.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2019/11/this-week-in-crypto-brazil-china-tether-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2019/11/this-week-in-crypto-brazil-china-tether-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die</title>
-<link>https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die</link>
-<guid isPermaLink="false">3c6eba2ead30ef5a60bdc8e46ea4eec22cf2c417ee2a88834ca20a393bda25ae</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 26 Oct 2026 18:16:02 +0000</pubDate>
-<description>Elon Musk says SpaceX closed a $40 billion chip deal with Apollo while lenders shut the door on smaller AI cloud firms, a split that could decide who controls computing.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/elon-musk-decrypt-style-01-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/elon-musk-decrypt-style-01-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Warren urges Fed, OCC, FDIC to restore bank examiner powers</title>
