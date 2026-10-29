@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Admin dropped the F-bomb in a password to show hackers who was really 1337</title>
+<link>https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139</link>
+<guid isPermaLink="false">c7a6421daf094b9d020f9988b7f23becc011a960cf5ae739d1d5cba73e5e4b41</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+<description>Welcome back to PWNED, in which The Reg offers cautionary tales from folks who’ve left their doors wide open to attackers and lived to tell the tale. This week’s misadventure involves unpatched older machines and a password that was supposed to send a message to crims. Our story comes courtesy once again of leading red teamer and pen tester Dahvid Schloss of Suzu Labs . A client asked Schloss to visit a factory and check the servers there for security holes. The company had been hacked six months prior, made some adjustments, and wanted to make sure that they were bulletproof now. Schloss' mission, which he chose to accept, was to get domain admin rights. Schloss drove over to the factory where he noticed a number of Windows 7 servers were connected to the CNC milling machines, even though Windows 10 was by then Microsoft's supported desktop OS. This was to be expected, as companies with proprietary software often use legacy OSes for fear of breaking apps. At first, Schloss had a hard time breaking in because most of the servers were not connected to the domain. So there was no point in his running the EternalBlue zero-day that would have let him in. “So I've been looking through these and most of them had been disconnected from the domain, so it's the right move,” he said. “Like, yeah, you could run EternalBlue on the network, but you really weren't going to be able to get anywhere with it, cuz you get on the device and what you find: you dump LSASS [the Windows Local Security Authority Subsystem Service], you’re like ‘All right, there’s local admin creds, but the local admin creds on those devices were different from the local admin creds on the majority of workstations.” Finally, Schloss went onto one of the servers that was connected to milling machines and found that it was connected to the network and on the domain. It was vulnerable to EternalBlue and he went and dumped LSASS and found a pair of creds from WDigest, one of which looked like an admin account. But Schloss thought that it must not be a legitimate admin account when he read the password : “heyhackergof***yourself,” but written in leet speak [ l337 5p34k ]. The resulting string was a strong password, but Schloss assumed that the admins were playing a game with him and left this credential there for him to find. Schloss assumed it wouldn't work and sat on it for a week. During a briefing he had with the IT crew, he presented his findings and then asked who set up the admin account with this funny password. “You could see everyone kind of looking at the senior manager of IT like ‘that was you, wasn’t it,’” Schloss explained. “He’s kind of got this face. I’m like ‘oh shit, like what?’ Turns out that ‘heyhackergof***yourself’ was the actual password for his admin account." On Monday, Schloss tried the username and password combo and, lo and behold, it gave him complete control of the entire network. He was then able to get access to other passwords and many of them were also insults</description>
+<enclosure url="https://image.theregister.com/?imageId=5280606&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5280606&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>HPE puts storage to work on AI’s expensive memory problem</title>
+<link>https://www.theregister.com/storage/2026/10/29/partner-content-hpe-puts-storage-to-work-on-ais-expensive-memory-problem/5305793</link>
+<guid isPermaLink="false">57aac2271e2be868ff4613da31d8b8d25d678338608ff021e3884ed21af7bc13</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+<description>HPE is giving its Alletra Storage MP X10000 another job: holding inference state that would otherwise be evicted from expensive GPU memory and recalculated later. In testing validated by Kamiwaza using NVIDIA H200 GPUs, the Kamiwaza AI platform, and HPE Alletra MP X10000, the solution achieved up to 20× faster time to first token and 17× higher effective inference throughput versus running without KV cache offload. The GPUs did not become cleverer. They had less repeat work to do. The results move a storage decision directly into the discussion about AI economics. Model pricing gets plenty of attention. Paying expensive accelerators to process the same context repeatedly deserves some too. Especially as enterprises move from chatbots answering individual questions to agents that can turn one request into a small committee’s worth of activity. Your agents have a repetition problem Agentic workflows repeatedly process documents, system instructions and conversation histories. One agent retrieves information, another evaluates it, a third checks the result, and subsequent steps revisit material the system has already processed. Some repetition is necessary. Recalculating everything is not. KV cache retains intermediate attention state, allowing compatible requests to reuse earlier computation. Keeping that cache available can reduce the work required before a model starts producing its next answer. GPU memory, unfortunately, is neither infinite nor priced as though it were. Long contexts and concurrent sessions compete for that memory. When reusable cache is evicted and later needed, the inference engine may have to rebuild it. More GPU work, more waiting, and no additional insight to show for either. HPE Alletra MP X10000 provides a shared tier for offloaded cache, while RDMA for S3 accelerates the storage data path. The proposition: retrieve reusable context rather than make the GPU calculate it again. Compute once. Reuse often. An unremarkable principle, until the alternative appears on the infrastructure bill. Twenty times faster, with the denominator attached The Kamiwaza-validated testing used NVIDIA Nemotron 70B and more than 30 concurrent agents under large-context, multi-agent inference. That matters because this is precisely the sort of real-world workload where repeated context and memory pressure can make cache reuse valuable. Several agents consulting overlapping material create a different opportunity from unrelated, short prompts with little context in common. Those headline gains are workload-specific. Context length, concurrency, cache hit rates and transfer overhead determine the return. Twenty times faster is a test result, not a universal entitlement. Buyers should examine the comparison as carefully as the multiplier: the same workload, with and without KV cache offload, and enough concurrency to represent production conditions. The useful question is how much repeated computation their applications can avoid, and whether retrie</description>
+<enclosure url="https://image.theregister.com/?imageId=5305790&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5305790&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Hackers leaked details of more than 41,000 Homeland Security personnel</title>
+<link>https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel</link>
+<guid isPermaLink="false">7cff8483ad185db280394b9cc5ebcfb8b217f56aa46a976b024bf2c20a01b12c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 08:33:46 +0000</pubDate>
+<description>A hacktivist group stole the information of ICE agents and border police from Homeland Security.</description>
+<enclosure url="https://www.engadget.com/img/gallery/hackers-leaked-details-of-more-than-41000-homeland-security-personnel/l-intro-1793262738.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/hackers-leaked-details-of-more-than-41000-homeland-security-personnel/l-intro-1793262738.jpg" medium="image"/>
+</item>
+<item>
 <title>Google's Gemini 4 Carbon looks like a diamond in the rough</title>
 <link>https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149</link>
 <guid isPermaLink="false">f3cb79a8a9e54ccc5724c9df987e9ed6a54a47f4125eefe5709102793c3df2c6</guid>
@@ -59,6 +92,17 @@
 <media:content url="https://image.theregister.com/?imageId=5306186&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>Investors turn on Google owner Alphabet after profit miss, ad slowdown and high spending</title>
+<link>https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report</link>
+<guid isPermaLink="false">fbba797496c9beb471ff6b095c9a65f13faaa70cb52ccfb3ab5f4b4649895a54</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 23:39:12 +0000</pubDate>
+<description>Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bn Shares in Google parent Alphabet fell more than 10% in after-hours trading Wednesday, erasing tens of billions of dollars in stock market value from the $4tn tech giant. The company had reported lower-than-expected profit and a slowdown in its advertising business while it maintained big spending on AI. Net profit slid 25% from a year earlier to $26.2bn in the July-to-September period, or $2.12 a share, well short of expectations by analysts surveyed by FactSet. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acbce01cd0d74b440d256eeab822a646" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acbce01cd0d74b440d256eeab822a646" medium="image"/>
+</item>
+<item>
 <title>FCC chair wants to let prisons jam illegal cellphones</title>
 <link>https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones</link>
 <guid isPermaLink="false">adde31576ce33f9ba68c38e1dddf45ac0bb08a6630287d297db23f7a9039ed9b</guid>
@@ -90,6 +134,17 @@
 <description>United Launch Alliance announced Wednesday it plans to return its Vulcan rocket to service on November 13, nine months after a solid rocket booster anomaly threw the company's 2026 launch schedule into oblivion. The return-to-flight mission will launch 40 satellites for the Amazon Leo broadband constellation, the first of 38 Vulcan flights Amazon has booked to deploy the bulk of its network. The mission will lift off from Cape Canaveral Space Force Station, Florida, and ULA said the launch date is pending range approval. The launch is critical for ULA after its new flagship rocket suffered nozzle failures on its solid rocket boosters on two of its first four missions, most recently during a flight in February. In both cases, the rocket overcame the nozzle failure and completed its mission, but officials at the US Space Force, ULA's primary customer, lost confidence in Vulcan. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft posts $92.3bn quarterly revenue after offering buyouts to 60,000 employees</title>
+<link>https://www.theguardian.com/technology/2026/oct/28/microsoft-earnings</link>
+<guid isPermaLink="false">5c4fb9e0ca760dd3ae50ea5ca43a1588ad8dea9ef69eeecc5cbb35f133b5679b</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 22:44:58 +0000</pubDate>
+<description>Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48% Microsoft gained billions of dollars in stock market value Wednesday afternoon after it reported better than expected revenue and profit, just days after it offered voluntary buyouts to some 60,000 employees. The office software giant’s growth was fueled by its Azure cloud computing division, which grew by 48% in the September quarter. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/36447ca68a44687ae5f40f5d254f97c4546afd43/450_0_4500_3600/master/4500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2234abf4953812118ba16b62f6459253" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/36447ca68a44687ae5f40f5d254f97c4546afd43/450_0_4500_3600/master/4500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2234abf4953812118ba16b62f6459253" medium="image"/>
 </item>
 <item>
 <title>As US ties fray, Europe plans first undersea cable link to Greenland</title>
@@ -774,17 +829,6 @@
 <media:content url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793227331.jpg" medium="image"/>
 </item>
 <item>
-<title>All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more</title>
-<link>https://www.engadget.com/2299032/all-amazon-echo-news-october-2026</link>
-<guid isPermaLink="false">098fb37fc1461ee6adf5c2c113264fd61619431a581e3cc4af94632f6a5b387e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-<description>Along with speaker and Echo Show upgrades, Amazon unveiled a smart alarm clock and photo frame.</description>
-<enclosure url="https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793195731.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793195731.jpg" medium="image"/>
-</item>
-<item>
 <title>Cisco open sources tool for detecting AI agents on hacking sprees</title>
 <link>https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867</link>
 <guid isPermaLink="false">de821c9b5058d5665ff7ab8593358a09851f8870f34c1efddb6475f4ff9f81e5</guid>
@@ -1335,28 +1379,6 @@
 <media:content url="https://image.theregister.com/?imageId=232704&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Four takeaways from Anthropic’s potentially record-breaking stock market filing</title>
-<link>https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways</link>
-<guid isPermaLink="false">07f0459b0a7bc14a84c29a19c03fd52c7a00acb24f53e405ed693e59a362ac29</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 05:00:04 +0000</pubDate>
-<description>The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively affect its business. The company’s investor prospectus, released on Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential risks of the technology to the reality of its current business: explosive but incredibly expensive growth. The filing to US financial regulators, known as an S-1, provides the public’s first look at an audited version of Anthropic’s finances. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da1c47be63305de9e2c1558a4f679961" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da1c47be63305de9e2c1558a4f679961" medium="image"/>
-</item>
-<item>
-<title>Chinese markets lose trillions as race for AI supremacy with US takes its toll</title>
-<link>https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing</link>
-<guid isPermaLink="false">e6d594ea2a28ff43dd71002346f8549f72120a0891851f70fa830d18f1b6990a</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 04:42:50 +0000</pubDate>
-<description>Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boom Trillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovation companies on the Shanghai stock exchange, has plunged 40% since June. Other indexes of major companies dropped by about 20% over the same time period. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79d3fb689ee56217a92222d27db1cd37" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79d3fb689ee56217a92222d27db1cd37" medium="image"/>
-</item>
-<item>
 <title>IBM admits mainframes need to be modernized and will use AI to do the job</title>
 <link>https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618</link>
 <guid isPermaLink="false">fa2a93391279685ec9aa900a81190982bcde9db4c69a99446aa53365b218b862</guid>
@@ -1443,28 +1465,6 @@
 <description>LiteLLM has traced last week’s supply chain attack to a master key it accidentally committed to a public GitHub repository in May. The cloud and AI model secret-stealing part of the incident began when someone uploaded a poisoned version (1.107.0) of the popular open source AI gateway to PyPI and its container registries last Wednesday. This compromised version contained an infostealer and a remote access trojan capable of executing arbitrary code on infected machines. While the trojanized package was available on PyPI for less than two hours before being quarantined, it received about 49,000 downloads during that time, according to Wiz. On Friday, LiteLLM detailed the attack chain behind the compromised release and traced it back to May 27, when a configuration file containing a master key was committed to the public LiteLLM-Labs/lite-harness repository. The key belonged to an open source tool used internally by LiteLLM to orchestrate AI agents. The project's developers quickly spotted the error and removed the exposed commit, but failed to revoke the master key. “On October 10th, the threat actor used this key to gain access to our LiteLLM Agent Platform and extracted this GitHub CLI OAuth token,” according to Friday’s postmortem . “From this point onwards, the threat actor had owner-level access to all repositories in our GitHub.” This is especially serious because GitHub CLI tokens are “post-2fa,” meaning that they don’t trigger GitHub's sudo mode authentication flows typically required to perform high-impact repository actions. The token allowed the attacker to author malicious commits into branches on other internal repos - including workflows designed to steal any tokens and secrets configured to be available during the continuous integration development process. And this allowed them to steal other GitHub CLI OAuth tokens linked to two engineers with maintainer privileges. Plus, they acquired tokens for several other internal systems, we’re told. “Reviewing the actor's activity on these other systems shows attempts to identify and exfiltrate additional keys and tokens, with a primary focus on upstream inference API tokens,” LiteLLM noted. Having now stolen several privileged identities, the miscreant could make changes to GitHub repositories without raising any suspicion because the actions and approvals all appeared to come from legitimate, credentialed engineers. In response, LiteLLM’s developers are revoking every token associated with every internal system and vendor platform. “This incident has provided a strong illustration of the risks associated with failing to rotate a potentially exposed key,” they wrote. The infostealers hidden inside the compromised package were designed to hoover up a ton of sensitive information, including browser credentials and cookies from Chrome, Firefox, Edge, and Safari, along with AWS credentials, Google Cloud Platform service account keys and application default credentials, and Microsoft Azure token</description>
 <enclosure url="https://image.theregister.com/?imageId=5263597&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5263597&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Microsoft offers parachutes to 60k employees if they jump by the end of the year</title>
-<link>https://www.theregister.com/cxo/2026/10/26/microsoft-offers-parachutes-to-60k-employees-if-they-jump-by-the-end-of-the-year/5305538</link>
-<guid isPermaLink="false">8165716520d34bb3a265f440aac11e9e200d095e3d9cd3f6090dc40be53971bb</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 19:55:44 +0000</pubDate>
-<description>Microsoft, on Monday, announced a voluntary exit offer open to about one quarter of its employees. The company’s HR chief, Amy Coleman, explained the deal in a letter later posted to Redmond's corporate blog. While scant on specifics, Coleman’s note dangles an opportunity for anyone considering a move to get out while the getting’s good. Eligible employees in participating organizations “who may be considering a future outside the company,” Coleman wrote, can seize “the opportunity to leave Microsoft with financial support and career planning resources." Microsoft tells us that 60,000 of its employees in the UK, US, Canada, and India are being given the opportunity to take the VEO. Microsoft told us it isn't classifying the deal as a buyout since no one is being incentivized to leave. We’re told that the offer is akin to a standard severance deal in terms of monetary and career assistance bonuses. Some employees will also be given the option for extended healthcare and stock shares. The company declined to get specific on which roles or teams are up for the exit offer, but Coleman’s note does state that employees in those four markets up to employment level 70 will be eligible, which translates to everyone at or below the VP level. “Some organizations are providing the Voluntary Exit Offer, and some are not,” Coleman’s note stated. “Participation varies based on each business’s priorities, customer commitments and workforce needs.” Microsoft employed around 223,000 people as of June, 2026 when it issued its last annual report, and since then has eliminated around 4,800 roles . By that count, the VEO is being offered to around a quarter of Microsoft’s remaining employees, though Microsoft tells us it doesn’t expect everyone to take the offer. Microsoft said it doesn't have a target number for the VEO. Google, which made a similar offer to employees in 2025, saw between three and five percent of those eligible take the offer. If that holds in Microsoft's case, anywhere between 1,800 and 3,000 employees could accept the deal before the window closes on December 31. It would be easy to blame increasing automation for the plans to reduce staff, but Microsoft insisted otherwise in our conversation. The verbiage about "changing needs" isn’t a euphemism for AI, in other words. Rather, we're told, the deal reflects the success of a previous early retirement offer from April, which saw Microsoft extend a voluntary buyout to employees whose age plus years of employment at Microsoft exceeded 70. The April offer only applied to around 9,000 employees, and Microsoft said it received feedback from others who would've taken it if it had been available to them. What could Redmond do but acquiesce? Especially given those recent earnings that saw Microsoft make serious bank across its portfolio. As we well know from watching the tech industry over the years, big earnings is the perfect time to shave off some headcount to keep the line going up. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=236947&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=236947&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Microsoft releases emergency .NET security fixes for Google Brotli bug</title>
-<link>https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515</link>
-<guid isPermaLink="false">26f45420b3a69ad621a4b0961e55cd70c0b0af1523fc92971d5187cd345584ba</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:58:00 +0000</pubDate>
-<description>To address a vulnerability in Google's Brotli compression technology that could allow attackers to corrupt process memory, Microsoft is urging .NET users to update "as soon as possible" after releasing an out-of-band (OOB) security update. It released new versions for .NET 8, 9, 10, and .NET 11 to patch against the Brotli bug, following similar updates from Node.js, Python, and other projects. Senior program manager Rahul Bhandari said in the October 25 release that the buffer overflow vulnerability in Brotli, tracked as CVE-2026-111497 and rated 8.1 under CVSS v3.1 in Microsoft's advisory, could allow an unauthenticated attacker to read or corrupt process memory, potentially resulting in information disclosure, denial of service, or elevation of privilege. Microsoft’s own advisory for the vulnerability, which some are referring to as Broccoli2Shell or Node2Shell, confirms that while experts have cobbled working exploits together , there is nothing to suggest that criminals are using them in successful attacks. However, its exploitability assessment reads: “Exploitation More Likely.” Broccoli2Shell was first disclosed on October 21 by the Node.js team, which released fixes for ten vulnerabilities, the most serious of which was CVE-2026-111497. Node.js credited Khai Tran and Sylvie Mayer of OpenAI’s Codex Security with the discovery, but failed to mention why it was only recognized as a security flaw and disclosed properly in October, despite the underlying bug having been fixed in Brotli's source code in February. OpenAI filled in the gap with a Xeet : “This root cause issue was actually fixed in the Brotli source code in February, but it wasn’t known at the time that it gave rise to a security vulnerability, and there was no more recent release of Brotli. “Since Brotli is built into other software, any software which includes this library needs to take the update too, followed by the users of that software.” Attackers can exploit vulnerable systems by providing them with malicious Brotli-compressed data via a specially crafted request. The vulnerability went slightly under the radar due to the disclosure timing closely aligning with that of PHP2Shell , although fixing the critical flaw should be a priority due to the range of technologies that are affected. In addition to .NET, Node.js, and Python, Bun , Envoy , and Istio have all released patches, and JFrog has worked up an exploit affecting FFmpeg using a specially crafted JPEG XL image, extending the exploit path beyond HTTP. It said that FFmpeg reaches Brotli through libjxl, which it uses to decompress metadata stored in brob boxes within the image format. The same researchers said the vulnerability affects Apache Arrow too, with attackers able to cause a denial of service. Merav Bar, threat researcher at Wiz, added that cloud users are exposed extensively, noting that 91 percent of cloud environments rely on components vulnerable to the Brotli flaw and that 82 percent of cloud environments</description>
-<enclosure url="https://image.theregister.com/?imageId=244699&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=244699&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Github competitor Entire is live now – how the agent-first platform works</title>
