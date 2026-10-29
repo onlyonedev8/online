@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>VRChat says it's not adding AI labels despite user survey showing people want that</title>
+<link>https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that</link>
+<guid isPermaLink="false">f74fe344a1fab0a03eb4bc4557b904c65d6929962639b3f5a73b5dd34e1319b7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 21:48:05 +0000</pubDate>
+<description>Trying to make everyone happy could make no one happy.</description>
+<enclosure url="https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg" medium="image"/>
+</item>
+<item>
+<title>Fan fiction website AO3 is down, and it could take weeks to recover</title>
+<link>https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks</link>
+<guid isPermaLink="false">d2785366febadb57ed69146c90170942cc286a99bb9921bccbfcca2ca1e4c364</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 21:18:22 +0000</pubDate>
+<description>The site's data is reportedly intact, but the cause of the outage is still unknown.</description>
+<enclosure url="https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793308521.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793308521.jpg" medium="image"/>
+</item>
+<item>
 <title>Reddit will force users to log in as AI is killing search traffic</title>
 <link>https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic</link>
 <guid isPermaLink="false">51a7cfa64f456c13e13b40776688989b50c4a74e8516bd5a1471748f9b6d83c0</guid>
@@ -11,8 +33,8 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 20:32:49 +0000</pubDate>
 <description>The company is starting with tests outside of the US.</description>
-<enclosure url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793305910.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793305910.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793310425.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793310425.jpg" medium="image"/>
 </item>
 <item>
 <title>Google fixes an annoying Photos bug that hid edited images from other apps</title>
@@ -849,28 +871,6 @@
 <description>Attackers are probing a critical Oracle E-Business Suite vulnerability that can lead to remote code execution (RCE), despite Oracle issuing a patch earlier this month. Meanwhile, new analysis indicates that an Oracle PeopleSoft zero-day exploited by ShinyHunters as early as May involves three distinct vulnerabilities that can be combined to achieve RCE. Patching alone may not remove attackers from already compromised systems, particularly if they've installed web shells. First up: CVE-2026-101767 , a critical, unauthenticated SQL injection bug in Oracle EBS that can lead to RCE. “Our Oracle E-Business Suite decoys recorded exploratory exploits against CVE-2026-101767, an unauthenticated SQL injection in EBS's Thin Client Framework servlet that chains to remote code execution, this morning, Oct 27,” Defused Cyber said in an X post. Horizon3 researchers found and disclosed the bug to Oracle, and the vendor patched the issue in its October release. “An attacker can send a crafted request to the vulnerable servlet to execute SQL with the privileges of the APPS database user,” Horizon3 explained at the time. “The attack chain also enables operating system command execution with the privileges of the EBS application account.” This means an unauthorized user can modify application data accessible to APPS, and execute commands. “Depending on the deployment, affected data may include financial, payroll, HR, and procurement records,” the bug hunters said. The Register reached out to Oracle with multiple questions for this story - including whether it has documented any successful exploitation of CVE-2026-101767 - and did not receive an immediate response. Moving on to the PeopleSoft-ShinyHunters fiasco: TrendAI’s Zero Day Initiative (ZDI) found and reported the PeopleSoft issues on June 10, and Oracle issued a patch under one vulnerability identifier: CVE-2026-35273 . In early June, ShinyHunters told The Reg that the group hacked more than 100 organizations via an Oracle PeopleSoft zero-day, CVE-2026-35273. Google’s consulting and incident response biz, Mandiant, later confirmed the data theft and extortion crew exploited CVE-2026-35273 as a zero-day, mostly against schools and the education sector . By late September, however, Mandiant said ShinyHunters massively expanded its targeting , “deploying web shells on dozens of systems globally, spanning higher education, technology, IT services, healthcare, agriculture, transportation, and government.” According to ZDI bug hunter Bobby Gould, there are actually three distinct vulnerabilities across multiple PeopleSoft components, and each should receive its own CVE identifier rather than being grouped under CVE-2026-35273. Gould, along with TrendAI researchers Minh Giang and Lucas Miller, originally found and reported three distinct bugs to Oracle in June. “We are coordinating with Oracle to assign separate CVEs for each issue,” he said in a Tuesday blog. The first issue is a Server-Side Request Forgery (SSRF)</description>
 <enclosure url="https://image.theregister.com/?imageId=5306136&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306136&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Meta weighs delaying 'alarming' new business terms as backlash grows</title>
-<link>https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows</link>
-<guid isPermaLink="false">cfa9b1b46952e259762f68a8cca2770fddfe8d543c24a980fcba08a973aaf1e1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 19:42:27 +0000</pubDate>
-<description>The company says it won't make "policy changes" until it consults with publishers.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/l-intro-1793216507.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/l-intro-1793216507.jpg" medium="image"/>
-</item>
-<item>
-<title>The PlayStation 5 just might be Sony's final Blu-Ray player</title>
-<link>https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player</link>
-<guid isPermaLink="false">3e9a002d6f5edbfc051146e422623e1b9fdffe5406fe500db4cf8c435391f3b8</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 19:39:47 +0000</pubDate>
-<description>Between Sony's plan to end PlayStation disc production and discontinuing its Blu-ray players, the future looks grim for physical media.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-playstation-5-just-might-be-sonys-final-blu-ray-player/l-intro-1793107319.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-playstation-5-just-might-be-sonys-final-blu-ray-player/l-intro-1793107319.jpg" medium="image"/>
 </item>
 <item>
 <title>The last, best hope for space tourism just rolled onto a runway in Arizona</title>
