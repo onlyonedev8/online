@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>ThermoWorks debuts shorter version of its RFX Meat wireless probe for small cuts</title>
+<link>https://www.engadget.com/2301085/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts</link>
+<guid isPermaLink="false">588465b5d13a70513fe6bdfad31f5c37b749c0abd81b286b397b6cebf4174207</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 16:04:13 +0000</pubDate>
+<description>The RFX Meat Mini offers nearly identical performance to the full-sized grilling probe.</description>
+<enclosure url="https://www.engadget.com/img/gallery/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/l-intro-1793289798.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/l-intro-1793289798.jpg" medium="image"/>
+</item>
+<item>
+<title>Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion</title>
+<link>https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition</link>
+<guid isPermaLink="false">05dd5b7f90f15bce5eab6d37206b1567b012dab84390206684b9b73ac5848b99</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 16:03:28 +0000</pubDate>
+<description>The Joshua Kushner-led Thrive Holdings is acquiring ADT in an all-cash deal valued at $7.6 billion. The deal is expected to close in the first quarter of 2027 and will take ADT private, as reported earlier by Bloomberg . Joshua Kushner is the brother of President Donald Trump's son-in-law, Jared Kushner. Thrive Holdings was founded last year, serving as an offshoot of Joshua Kushner's venture capital firm Thrive Capital Management. TechCrunch likens Thrive Holdings to a "private equity firm for AI," as it purchases "traditional" businesses, like accounting and IT services, and applies AI to their workflows. Though ADT operates a standalone … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-913777656.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-913777656.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft’s AI future has fewer jobs</title>
+<link>https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</link>
+<guid isPermaLink="false">5f992c32f5756cf3afc3c396b54d8ef58ac574a0c32c5726f1e5383c043c64f3</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
+<description>To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and India. It's the first time the company has presented such an offer to so many employees, expanding greatly upon the retirement offer that was limited to around 9,000 employees earlier this year. It's all part of an ongoing effort to avoid reducing investment in AI infrastructure by lowering Microsoft's operating cos … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Stop sharing your passwords with AI agents, Bank of America warns customers</title>
+<link>https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents</link>
+<guid isPermaLink="false">31dc756a23f00cd7b0af07e634d230d9699f48de8df7313845e48dbda11fa2c2</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 15:36:26 +0000</pubDate>
+<description>The bank’s message follows a trend among financial institutions that are restricting third-party AI agent access.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/boapowerGettyImages-1554399408_667584.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/boapowerGettyImages-1554399408_667584.jpg" medium="image"/>
+</item>
+<item>
+<title>Oracle wants to bill you for every AI task, not just every seat</title>
+<link>https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403</link>
+<guid isPermaLink="false">158d2f43d291449731f68bb28b15779276b564a1c63d7edd020dcb6cfd70a9a0</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 15:30:00 +0000</pubDate>
+<description>Oracle expects to earn more from existing application customers as it embeds AI in its enterprise software suite. Speaking at Big Red's investor day on Wednesday, Chris Leone, executive veep of application development, said Oracle will layer usage-based revenue on top of its subscription model. “The more work that gets done by AI in our system, the more revenue we will see because they're consuming AI units as that work is getting done. We don't have to add more seats in order for us to now generate more revenue,” he said. Earlier this month, Oracle revealed its Fusion Claw runtime , designed to help customers control AI agents that automate business processes. It targets ERP, finance, and supply chain management in cloud-based Fusion applications running on Oracle Cloud Infrastructure (OCI). Customers will pay for more work done inside Oracle applications, and Leone said Fusion Claw will also automate work done outside of Fusion. The promise of more revenue for Oracle, and higher bills for customers, came as the company sought to reassure investors about its spending, borrowing and revenue as it chases a share of the AI market. Oracle is funding a datacenter spending spree with negative cashflow and borrowing. OCI is set to host large language model builders, notably OpenAI, alongside its own customers' workloads. Oracle spent $55.7 billion on datacenters and cloud infrastructure in fiscal year 2026, which ended in May, and plans to spend between $90 billion and $95 billion in fiscal 2027. That will require more debt. In 2027, Oracle hopes to raise around $40 billion in debt and equity, on top of the $18 billion in debt it raised in September 2025. In a notice to investors this week, Oracle said it expects fiscal 2030 revenue of $225 billion, a compound annual growth rate of 35 percent from 2026. It expects positive cash flow by the second half of fiscal 2028, with capital spending falling the following financial year. Investors reacted positively. Oracle co-CEO Mike Sicilia also told shareholders the company will use AI to help implement its software, a plan he called as important as putting AI in the software itself. He argued AI will cut implementation time, bringing existing and new customers to OCI faster and boosting revenue. "On-premises customers can now move far more easily to the cloud by leveraging the AI tool sets to automate migrations and decrease the cost and time to implement. They don't have to be Oracle customers; they can be competitive customers." Sicilia said enterprise application software users' reluctance to change had been a major "headwind" for Oracle, one he hopes AI will ease. "Our large remaining base of on-premises customers are going to start to adopt this technology quite quickly. When we move customers from on-premises to cloud, we see a multiple increase in revenue," he said. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5248818&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5248818&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>FromSoftware delays The Duskbloods until 2027</title>
 <link>https://www.engadget.com/2300955/fromsoftware-delays-the-duskbloods-until-2027</link>
 <guid isPermaLink="false">5373cba7c6170e0176c151948a772f04a1a029bca8000b694e0c643b5e422bde</guid>
@@ -13,6 +68,17 @@
 <description>The studio is taking more time to refine the "rules and balance" of the Nintendo Switch 2 exclusive.</description>
 <enclosure url="https://www.engadget.com/img/gallery/fromsoftware-delays-the-duskbloods-until-2027/l-intro-1793286117.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/fromsoftware-delays-the-duskbloods-until-2027/l-intro-1793286117.jpg" medium="image"/>
+</item>
+<item>
+<title>What is it like to work when your co-workers are AI agents?</title>
+<link>https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker</link>
+<guid isPermaLink="false">26198e1f3b823d9d86662e01ff4c2fb7489b0ed0d23f8dbb33cf518c1ee13c3b</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 15:00:46 +0000</pubDate>
+<description>Using AI for roles from executive assistants to chiefs of staff, companies are boasting about doing more with less, creating tension with their human workers On an average workday, Dhruv Amin chats with dozens of colleagues to get things done at his AI startup Anything. He might ask Gwen, his executive assistant, to schedule a meeting, then troubleshoot a technical problem with Cody, his coding partner. Then he might check in with Betsy for search engine optimization, or Juno for onboarding customers. If the office runs out of snacks, he sends a Slack message to Justin, the office manager charged with stocking the kitchen. But none of these co-workers are people. They’re artificial intelligence agents, software that handles tasks without human intervention. Anything is one of several startups building them, and betting on a future where workplaces will increasingly turn over their sales, marketing, coding and other tasks to semi-autonomous AI. At Anything, there are 15 human employees and roughly 150 agents – a ratio that Amin believes will soon be the norm. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/96ab1d348d65947d1e741dfb0c36ee6140aa89e2/438_0_4207_3367/master/4207.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90a9738212f183b15f3dd515131a052c" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/96ab1d348d65947d1e741dfb0c36ee6140aa89e2/438_0_4207_3367/master/4207.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90a9738212f183b15f3dd515131a052c" medium="image"/>
 </item>
 <item>
 <title>Puddlesuits, movie nights and daytime baths: how to survive rainy days with small kids</title>
@@ -54,7 +120,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 14:39:37 +0000</pubDate>
-<description>The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it's sparked some drama among users. NYT Cooking senior editor Genevieve Ko announced the feature last Friday, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number of servings, and "generally make our recipes work for what a cook needs at that moment." One of the examples given in the article shows a user asking to use baby spinach instead of kale, with the NYT Cooking app feature advising that because baby spinach wilts faster, it should be added during a later step of the rec … Read the full story at The Verge.</description>
+<description>The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature , which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number of servings, and "generally make our recipes work for what a cook needs at that moment." One of the examples given in the article shows a user asking to use baby spinach instead of kale, with the Cooking app feature advising that because baby spinach wilts faster, it should be added during a later step of the reci … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -65,7 +131,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 14:24:45 +0000</pubDate>
-<description>The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10 discount at Amazon and Walmart . Once the game launches, the physical version will almost certainly go from $59.99 to $69.99 while the digital version will stay at $59.99. The Legend of Zelda: The Ocarina of Time (Switch 2) Where to Buy: $69.99 $59.99 at Amazon (preorder, physical) $69.99 $59.88 at Walmart (preorder, physical) Nintendo had the unenviable task of reimagining its Nintendo 64-era masterpiece for the Switch 2, and based on our hands-on time with some sections of the game , it’s a lot of fun to play. The graphics and art style are fantastic, and the controls have been modernized to be simpler to pick up for those who are already experienced with third-person action games, including other modern Zelda titles. window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ipad_mini_6.png", productImageAlt: "iPad mini 6 (2021, A15 series)", productTitle: "iPad mini 6 (2021, A15 series)", shortDescription: "Pick up a refurbished iPad mini for less", longDescription: "The compact 8.3-inch iPad mini features Apple's A15 Bionic chip and is a great option for entertainment, reading, and travel. Shop refurbished models at Back Market.", purchaseUrl: "https://www.awin1.com/cread.php?awinmid=18275&amp;awinaffid=299513&amp;platform=dl&amp;ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fipad-mini-2021-a15-series%3Futm_source%3Dchatgpt.com", purchaseLinkText: "Shop At Back Market" }; Other great Verge-approved deals It’s tough to find an HDMI dock with more utility than Sharge’s Disk Pro 2 . Being a dock for your USB-C gadgets is just one of its skills. The dock houses up to an M.2 2280-size SSD, letting it serve as external storage for your devices to read from or write to. Additionally, it has some useful ports (beyond its HDMI 2.1 4K/144Hz port), like a 5Gbps USB-A port, SD and microSD card slots, plus USB-C passthrough charging for up to 80W. Plus, it has a built-in magnet to let it snap to your iPhone, so long as it supports MagSafe. The “Ultra” version I’ve described costs $80.91 (originally $109.90) once you clip the on-page coupon for 10 percent off. Check out my colleague Sean’s informative and fun hands-on. Do something a little different with your night or weekend by snagging a Play-Doh Blooms kit . It’s not for everyone, but for those who’ve been tempted to build (or gift) a Lego floral bouquet, these Blooms kits look a lot more realistic. Also, they seem fun to piece together, and each set includes all the tools you need to assemble and preserve the flowers. There are several Blooms models, but the Rosy Petite bouquet kit is $18.74, down from $24.99, at Amazon . If you’re already shopping for the holidays, this seems like a nice stocking stuffer. We highlighted this deal recently, but it’s st</description>
+<description>The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10 discount at Amazon and Walmart . Once the game launches, the physical version will almost certainly go from $59.99 to $69.99 while the digital version will stay at $59.99. The Legend of Zelda: The Ocarina of Time (Switch 2) Where to Buy: $69.99 $59.88 at Amazon (preorder, physical) $69.99 $59.88 at Walmart (preorder, physical) Nintendo had the unenviable task of reimagining its Nintendo 64-era masterpiece for the Switch 2, and based on our hands-on time with some sections of the game , it’s a lot of fun to play. The graphics and art style are fantastic, and the controls have been modernized to be simpler to pick up for those who are already experienced with third-person action games, including other modern Zelda titles. window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ipad_mini_6.png", productImageAlt: "iPad mini 6 (2021, A15 series)", productTitle: "iPad mini 6 (2021, A15 series)", shortDescription: "Pick up a refurbished iPad mini for less", longDescription: "The compact 8.3-inch iPad mini features Apple's A15 Bionic chip and is a great option for entertainment, reading, and travel. Shop refurbished models at Back Market.", purchaseUrl: "https://www.awin1.com/cread.php?awinmid=18275&amp;awinaffid=299513&amp;platform=dl&amp;ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fipad-mini-2021-a15-series%3Futm_source%3Dchatgpt.com", purchaseLinkText: "Shop At Back Market" }; Other great Verge-approved deals It’s tough to find an HDMI dock with more utility than Sharge’s Disk Pro 2 . Being a dock for your USB-C gadgets is just one of its skills. The dock houses up to an M.2 2280-size SSD, letting it serve as external storage for your devices to read from or write to. Additionally, it has some useful ports (beyond its HDMI 2.1 4K/144Hz port), like a 5Gbps USB-A port, SD and microSD card slots, plus USB-C passthrough charging for up to 80W. Plus, it has a built-in magnet to let it snap to your iPhone, so long as it supports MagSafe. The “Ultra” version I’ve described costs $80.91 (originally $109.90) once you clip the on-page coupon for 10 percent off. Check out my colleague Sean’s informative and fun hands-on. Do something a little different with your night or weekend by snagging a Play-Doh Blooms kit . It’s not for everyone, but for those who’ve been tempted to build (or gift) a Lego floral bouquet, these Blooms kits look a lot more realistic. Also, they seem fun to piece together, and each set includes all the tools you need to assemble and preserve the flowers. There are several Blooms models, but the Rosy Petite bouquet kit is $18.74, down from $24.99, at Amazon . If you’re already shopping for the holidays, this seems like a nice stocking stuffer. We highlighted this deal recently, but it’s st</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Legend-of-Zelda-Ocarina-Switch2-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Legend-of-Zelda-Ocarina-Switch2-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -219,7 +285,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 11:56:35 +0000</pubDate>
-<description>Speculation around a deal started circulating last week. | Photographer: Michael Nagle/ Bloomberg via Getty Images DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery thanks to Instacart's established grocery marketplace and retailer partnerships, with Instacart CEO Chris Rogers saying the deal will make "online grocery more seamless and affordable" for millions of households. DoorDash says the acquisition will give Instacart users acces to more than 50,000 additional stores, and allow DashPass and Instacart Plus members to "pay one membership fee instead of two." The deal is expected to close "in the end of 2027 or the first half … Read the full story at The Verge.</description>
+<description>Speculation around a deal started circulating last week. | Photographer: Michael Nagle/ Bloomberg via Getty Images DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery thanks to Instacart's established grocery marketplace and retailer partnerships, with Instacart CEO Chris Rogers saying the deal will make "online grocery more seamless and affordable" for millions of households. DoorDash says the acquisition will give Instacart users acces to more than 50,000 additional stores and allow DashPass and Instacart Plus members to "pay one membership fee instead of two." The deal is expected to close "in the end of 2027 or the first half … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255805905.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255805905.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -323,17 +389,6 @@
 <media:content url="https://i.guim.co.uk/img/media/b119d0e5b0cb9c32a5810f049912675ee79924d9/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=835c344f541f41db631c5ffc26b86bf1" medium="image"/>
 </item>
 <item>
-<title>AI has come for Arizona’s water</title>
-<link>https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc</link>
-<guid isPermaLink="false">d62a8f09dced3dd91988f5ed0aa68aba8ec1f44959ebb676014ad68d516e9437</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:04 +0000</pubDate>
-<description>A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one building, and then another, and then the ground opens up where construction crews have dug up the earth so a third building can rise. There is a parking lot, and then another, and then another. There is an empty lot on the other side of the street, full of cars and the occasional food truck to feed the thousands of laborers who are busy transforming this expanse of desert into an industrial park. There is dust, so much of it, choking the air. I stand before the savior of Arizona’s economy. Like all great deities, it demands sacrifice. In the desert, nothing is more precious than water, and water is what must be given — nearly 5 million gallons a day, every day, sourced from Phoenix’s municipal supply. The offering has been well worth it. All of this is the fruit of the Taiwan Semiconductor Manufacturing Company, the world’s leading producer of microchips. Its Arizona operation is the result of a pre-pandemic gamble Phoenix made to revive its sluggish economy , which never quite rebounded from the Great Recession. Now TSMC’s foundry looms over the city’s outskirts. TSMC is a success story, one that some local leaders may have hoped to repeat with hyperscale data center developments. The progression may have seemed natural: The Grand Canyon State is not only home to the largest chip factory this side of the Pacific but also 172 data centers , neither of which faced much pushback. But the newer, larger developments being proposed from Phoenix to Tucson demand more of everything — more water, more power, more land — than Arizonans are willing to give. Where TSMC was welcomed with open arms and the first wave of data centers was largely ignored, new developments are facing mass backlash in Arizona, where a grassroots, surprisingly bipartisan coalition of residents has united against data centers. Now the state has a sixth C, Arizona native Christine Mackay tells me. “Chips.” In reporting this story, I spoke to local activists and economic developers, elected officials and their angry constituents. I sat in on city council meetings where people lined up by the dozens to speak up against data center projects, and in cozy suburban homes where tight-knit groups of former strangers told me about the struggle that brought them together. I pored over maps of Arizona’s dry, cracked landscape with laypeople who, over the past two years, have made themselves experts on zoning and land use and water consumption so they can understand the beast they’re trying to fight. The locals on both sides of this debate claim to want the same thing: a better, more prosperous Arizona. Their visions for achieving it, however, are completel</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity</title>
 <link>https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity</link>
 <guid isPermaLink="false">ed0cddd7abd8fac77334bbccfed8faac181e9401a88a7b4f7a58a2f95cb49df6</guid>
@@ -422,17 +477,6 @@
 <media:content url="https://image.theregister.com/?imageId=5306196&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Anduril now says its BlueChip laptop will meet Buy American standards at launch</title>
-<link>https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american</link>
-<guid isPermaLink="false">cfd5e9071be8aa35edf3d59bd0ad331d2ebce652a0f844eb12b2243f4412ba82</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 02:22:46 +0000</pubDate>
-<description>On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States , starting with a single model in 2027. They also announced a "long-term goal" of pushing the computer industry to create "a fully domestic supply chain." Even a single Made-in-USA laptop would be a surprise, because no major US computer company builds its laptops here - not Apple, not Dell, not HP, not Microsoft. We're not aware of any company that does. But we are aware of companies that have briefly and strategically assembled computers here seemingly to appease President Donald Trump . We're also aware of … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Google struggling to make AI Mode searches pay</title>
 <link>https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181</link>
 <guid isPermaLink="false">bf017b8a552374cc6a864491b08a976c15ae78b1534f0fa820eeea18f5b02d02</guid>
@@ -450,7 +494,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 23:39:12 +0000</pubDate>
-<description>Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bn Shares in Google parent Alphabet fell more than 10% in after-hours trading Wednesday, erasing tens of billions of dollars in stock market value from the $4tn tech giant. The company had reported lower-than-expected profit and a slowdown in its advertising business while it maintained big spending on AI. Net profit slid 25% from a year earlier to $26.2bn in the July-to-September period, or $2.12 a share, well short of expectations by analysts surveyed by FactSet. Continue reading...</description>
+<description>Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bn Shares in the Google parent Alphabet fell more than 10% in after-hours trading on Wednesday, erasing tens of billions of dollars in stock market value from the $4tn tech giant. The company had reported lower-than-expected profit and a slowdown in its advertising business while it maintained big spending on AI. Net profit slid 25% from a year earlier to $26.2bn in the July-to-September period, or $2.12 a share, well short of expectations by analysts surveyed by FactSet. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acbce01cd0d74b440d256eeab822a646" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acbce01cd0d74b440d256eeab822a646" medium="image"/>
 </item>
@@ -483,7 +527,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 22:44:58 +0000</pubDate>
-<description>Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48% Microsoft gained billions of dollars in stock market value Wednesday afternoon after it reported better than expected revenue and profit, just days after it offered voluntary buyouts to some 60,000 employees. The office software giant’s growth was fueled by its Azure cloud computing division, which grew by 48% in the September quarter. Continue reading...</description>
+<description>Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48% Microsoft gained billions of dollars in stock market value on Wednesday afternoon after it reported better than expected revenue and profit, just days after it offered voluntary buyouts to about 60,000 employees. The office software giant’s growth was fueled by its Azure cloud computing division, which grew by 48% in the September quarter. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/36447ca68a44687ae5f40f5d254f97c4546afd43/450_0_4500_3600/master/4500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2234abf4953812118ba16b62f6459253" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/36447ca68a44687ae5f40f5d254f97c4546afd43/450_0_4500_3600/master/4500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2234abf4953812118ba16b62f6459253" medium="image"/>
 </item>
@@ -871,17 +915,6 @@
 <description>Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/operaaihero.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/operaaihero.jpg" medium="image"/>
-</item>
-<item>
-<title>Reddit is adding a 'for you' feed for recommendations</title>
-<link>https://www.engadget.com/2299618/reddit-is-adding-a-for-you-feed-for-recommendations</link>
-<guid isPermaLink="false">078870dfacd61e3617e3410c409dc6ab6a2a5c1a54b4b38ac39a7cf654a84b69</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
-<description>The app will have a "following" tab to surface content from subreddits you've joined.</description>
-<enclosure url="https://www.engadget.com/img/gallery/reddit-is-adding-a-for-you-feed-for-recommendations/l-intro-1793201967.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/reddit-is-adding-a-for-you-feed-for-recommendations/l-intro-1793201967.jpg" medium="image"/>
 </item>
 <item>
 <title>Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles</title>
@@ -1445,17 +1478,6 @@
 <media:content url="https://image.theregister.com/?imageId=5305665&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases</title>
-<link>https://www.theregister.com/os-platforms/2026/10/27/freebsd-founder-ports-omarchy-to-freebsd-in-ten-days-ten-releases/5305446</link>
-<guid isPermaLink="false">e53bf814c7a883d61d3692d2dde1b415afec1b0c1da93889658bffb15ff91987</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 10:15:00 +0000</pubDate>
-<description>Omarchy has already taken up plenty of our column inches, but a new tentacle is reaching into the hitherto untouched FreeBSD. Daemonarchy brings Omarchy's Wayland-based desktop to the BSD world. It's an independent effort by Jordan Hubbard, one of the original founders of the FreeBSD project, and it's unaffiliated with the original Linux-based Omarchy. We looked at Omarchy in August and didn’t like it much. It isn't exactly a Linux distribution. That implies it's a coherent set of packages managed as a whole by uniform tools. Omarchy is a collection of apps and preconfigured settings, packaged up with the help of LLM bots and put up for download. You have to update it using its own special script, rather than the standard tools of the underlying Arch Linux – and in our testing, that update script fell over with error messages when running in a VM. However, there's no such thing as a bad press, and Omarchy is popular and growing. It keeps on attracting sponsorship as well as new users migrating from Windows and macOS, who seem to relish its bizarre, inconsistent, and ad hoc UI as a challenge: trying to close a window in Hyprland, the tiling compositor that forms the core of Omarchy's UI. In Omarchy, windows don't have title bars, let alone anything as old-fashioned as window control buttons you can click. To close a window, you must use a keystroke. In most Linux windowing environments, that's the standard Alt-F4 . Not here. Next, we tried Super+W – on a Mac, that's Command+W , which has meant "close the window" since 1984 or so. Still no. We found an answer on Reddit – it's Super + C. Daemonarchy is not directly related. It's a collection of FreeBSD ports of the various tools and components that went into Omarchy, individually adapted to run on FreeBSD, and collected together into an installable ISO image. The current release is version 1.3.1 . Remarkably, in approximately 10 days, Daemonarchy has gone through 10 releases . Multiple packages are recent ports by jkh@freebsd.org – the email address of Jordan Hubbard. If the name rings a bell, he was one of the original founders of the FreeBSD project, and has had an interesting career in which he’s worked at various companies. The Register first mentioned him by name 25 years ago, when Wind River bought BSD/OS vendors BSDi . By the following year, Hubbard was at Apple , where he helped freshen up the BSD-based Unix layer underneath the new Mac OS X. In 2015, he helped launch the NextBSD project to modernize FreeBSD with Apple Darwin components, which as we reported in July was recently restarted. The new NextBSD effort is being built with the help of LLM coding assistants. As you might surmise from 18 new FreeBSD ports of Linux tools in a month, as well as from ten releases of the new OS bundle in as many days, Hubbard too is using LLMs to assist in this rapid development process: Daemonarchy’s GitHub repository contains both AGENTS.md and SKILL.md files, which point to Hubbard's own Literate AI pr</description>
-<enclosure url="https://image.theregister.com/?imageId=5305452&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305452&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>AI-driven disinformation running rampant on social media before US midterms, experts warn</title>
 <link>https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections</link>
 <guid isPermaLink="false">ec4fabfdd8d1edd82a392f7829fa8d3a6ad381e4c2e98f55416deb170887e7a7</guid>
@@ -1487,17 +1509,6 @@
 <description>Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expansion plans The UK’s policy on datacentres and AI was developed without any meetings with environmental groups, an investigation has found. The nonprofit organisation Spotlight on Corruption said a “considerable revolving door” shaped the government’s development of “AI growth zones”, a central plank of the former prime minister Keir Starmer’s AI and economic policy, with 38 ministers, senior civil servants and special advisers hired to positions in AI companies between July 2024 and September 2026. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/d7d40991e7793995807a7196e5227dd047cfc204/420_0_3413_2732/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b01773fb0eb9b1956fbbb40e33cb003d" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/d7d40991e7793995807a7196e5227dd047cfc204/420_0_3413_2732/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b01773fb0eb9b1956fbbb40e33cb003d" medium="image"/>
-</item>
-<item>
-<title>‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims</title>
-<link>https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report</link>
-<guid isPermaLink="false">8235ac7c15207d2eb31bada7641acfef335afb98ebae85fb1ceaf5202b453aaa</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 00:01:02 +0000</pubDate>
-<description>Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-called hostile environment for immigration, according to research. Tasks from the detection of potential sham marriages to determining the age of asylum seekers and checking through the contents of phones of new arrivals now involve use of the technology, according to a report by Open Rights Group (ORG). Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c20f7add03d3796dc4d6aa718b36df62" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c20f7add03d3796dc4d6aa718b36df62" medium="image"/>
 </item>
 <item>
 <title>Github competitor Entire is live now – how the agent-first platform works</title>
@@ -1641,17 +1652,6 @@
 <description>Longer battery life, better screen, upgraded Siri and new variable aperture camera in refreshed design from last year’s model Apple’s smaller Pro iPhone gets the best kind of spec bump for 2026: longer battery life, faster chips and a fancy new variable aperture for the main camera. The iPhone 18 Pro is one of a pair of slab phones launched alongside Apple’s first folding phone , the iPhone Duo, and is the cheapest of the new phones, with a regular iPhone 18 yet to be announced. Screen: 6.3in Super Retina XDR (120Hz OLED) (460ppi) Processor: Apple A20 Pro RAM: 12GB Storage: 256GB, 512GB or 1TB Operating system: iOS 27 Camera: 48MP + 48MP UW + 48MP 4x, 18MP front-facing Connectivity: 5G, wifi 7, NFC, Bluetooth 6, Thread, USB-C, Satellite, UWB and GNSS Water resistance: IP68 (6 metres for 30 mins) Dimensions: 150 x 71.9 x 8.75mm Weight: 211g Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/58742fd273ee12ce51a1af9f25ed9693ec972212/678_291_4969_3975/master/4969.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8ee5e2baa036b4dfcd1b6632b8892b1" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/58742fd273ee12ce51a1af9f25ed9693ec972212/678_291_4969_3975/master/4969.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8ee5e2baa036b4dfcd1b6632b8892b1" medium="image"/>
-</item>
-<item>
-<title>Your iPhone can spot scams for you with iOS 27 – but you have to opt in</title>
-<link>https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature</link>
-<guid isPermaLink="false">902e3ac17e78b5037089346be53fb27602c695b855ad62fba46535a499a277b2</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Wed, 30 Sep 2026 15:45:00 +0000</pubDate>
-<description>Impersonation Risk Detection tries to spot scams traditional security methods might miss.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_4117.jpeg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_4117.jpeg" medium="image"/>
 </item>
 <item>
 <title>Mac mini M6 review: truly mighty but now more pricey</title>
