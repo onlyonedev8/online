@@ -4,6 +4,94 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Reddit will force users to log in as AI is killing search traffic</title>
+<link>https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic</link>
+<guid isPermaLink="false">51a7cfa64f456c13e13b40776688989b50c4a74e8516bd5a1471748f9b6d83c0</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 20:32:49 +0000</pubDate>
+<description>The company is starting with tests outside of the US.</description>
+<enclosure url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793305910.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793305910.jpg" medium="image"/>
+</item>
+<item>
+<title>Google fixes an annoying Photos bug that hid edited images from other apps</title>
+<link>https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps</link>
+<guid isPermaLink="false">46d6d651b1f2ea721f0b569cdc3c2ef95977559f8d0338991c1d0b152d618239</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 20:26:24 +0000</pubDate>
+<description>Hey, that's not what Magic Eraser is supposed to do!</description>
+<enclosure url="https://www.engadget.com/img/gallery/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/l-intro-1793305492.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/l-intro-1793305492.jpg" medium="image"/>
+</item>
+<item>
+<title>Windows 11 gets right-click menu improvements as PC revenue slides</title>
+<link>https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides</link>
+<guid isPermaLink="false">ebaeae1e15ad725e68d20710cf792ec7cad0fa8cb67ee03c7b51978ef5bda7d4</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 20:18:49 +0000</pubDate>
+<description>Microsoft is beginning the rollout of a Windows 11 preview update that finally addresses a persistent power user complaint with the operating system: the right-click menu that obliterated years of muscle memory on command locations, and hid others behind an additional click. The timing for the release is notable, as the announcement comes alongside Microsoft's quarterly financial report that saw a continued decline in the business of selling Windows licenses for new PCs. The preview update, KB5127936 , is cumulative for Windows 11 versions 26H2 and 25H2. The update will be a gradual rollout before eventually moving on to a normal rollout for all Windows 11 devices once it reaches general availability. The highlight of the new update should calm annoyed users who have spent years with custom scripts and services in an attempt to shape Windows the way they'd prefer it. Users will get a "customize menu" button that controls what commands appear when they right-click their mouse. Users can toggle built-in commands such as Send To or Create Shortcut on or off, rearrange what appears on the main menu, and control which third-party extensions show up in either the main or submenus. The gripe with the right-click menu had been that Microsoft hid familiar command locations behind a top row of icons while moving other familiar commands under the "Show more options" submenu. Now, Windows users will have the ability to customize the whole thing around their habits. The original Windows 11 right-click menu is a mess. Credit: Microsoft The new preview also highlights a new Windows feature called Cloud Rebuild, a recovery option that can reinstall Windows 11 directly from the cloud, even when an existing Windows 11 fails to boot. Cloud Rebuild will pull the Windows 11 image and needed system drivers directly from Windows Update. Users will not need a custom recovery image or external media to reinstall Windows. There is an important distinction to note however. Microsoft classified Cloud Rebuild as a recovery option, but it behaves more like a fresh Windows install than a repair, as existing applications and files will not be included. Those worried about data security have the option to sanitize entire system drives prior to reinstalling. For a full list of improvements coming to Windows 11, including changes to Xbox mode and settings, you can view the official Microsoft release announcement . Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS-500x500.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS-500x500.jpg" medium="image"/>
+</item>
+<item>
+<title>Google brings AI Mode advertisements to more countries</title>
+<link>https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries</link>
+<guid isPermaLink="false">4b55a0771a5f0cff2fcbf9cd92109a7af5e08bdb2030d1280447d029b8e4cfdd</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 20:18:24 +0000</pubDate>
+<description>Adding sponsored content in more markets could make the feature profitable.</description>
+<enclosure url="https://www.engadget.com/img/gallery/google-brings-ai-mode-advertisements-to-more-countries/l-intro-1793305012.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/google-brings-ai-mode-advertisements-to-more-countries/l-intro-1793305012.jpg" medium="image"/>
+</item>
+<item>
+<title>Patrick Stewart has died at age 86</title>
+<link>https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death</link>
+<guid isPermaLink="false">ffda6d1333eb296079927bfb5fee473e7026593ea6a1f7b8cb7db1a591ac2ba8</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 20:10:02 +0000</pubDate>
+<description>Patrick Stewart, best known for his roles in Star Trek and X-Men , has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday "following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia." Born in 1940 in Mirfield, Yorkshire, England, Stewart began his acting career in theater . He eventually landed the role of Captain Jean-Luc Picard in Star Trek: The Next Generation , which ran from 1987 to 1994. Stewart returned as the Star Trek captain in subsequent films , including Star Trek: Generations (1994), Star Trek: First Contact (1996), Star Trek: Insurrec … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2156843221.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2156843221.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine</title>
+<link>https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine</link>
+<guid isPermaLink="false">724b06a07c199775ba1f183a5e6036bf67040ae6e733810a202d3f01b19e5f5d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 20:08:10 +0000</pubDate>
+<description>The Pentagon inspector general's office declined a request from US senators to investigate restrictions recently imposed on the Ukraine military's use of SpaceX's satellite network. Ukraine, which uses SpaceX's Starlink service and the military version known as Starshield, said earlier this month that military drones lost satellite connectivity when traveling above 161 kilometers per hour (100 miles per hour). The limit was removed after about 10 days. Five Democratic and four Republican senators sent an October 15 letter to Department of Defense Inspector General Platte Moring, asking for a probe into the reported disruptions of Starlink and Starshield. The letter asked, among other things, "whether any restrictions on Starlink or Starshield services were directed, authorized, or implemented by SpaceX, the Department of Defense, or other US government entities; whether such restrictions were consistent with applicable US government contracts, and what actions, if any, the Department of Defense took in response." Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg" medium="image"/>
+</item>
+<item>
+<title>Reddit will force everyone to log in</title>
+<link>https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings</link>
+<guid isPermaLink="false">762b5f1acb11137cefc099e6a70be124d1bc360afcdc94e14d939215c098145c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 20:07:00 +0000</pubDate>
+<description>Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends "reddit" to a lot of Google searches to find answers to things written by actual humans instead of robots . But that openness has made it a target for scraping and automated traffic, leading Reddit to file lawsuits over alleged unauthorized access of its data and make product changes like limiting access to "Old Reddit." There's no definitive timeline on when t … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Rivian’s R2 is officially its best-selling vehicle</title>
+<link>https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software</link>
+<guid isPermaLink="false">d6100ebdbe6b419df305ffeb35f973a14a2561974ddc860587bb6a635aed088c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 20:02:00 +0000</pubDate>
+<description>Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in revenue, a 38 percent increase compared to the $1.558 billion in Q3 2025. Of that amount, $1.55 billion came from automotive revenue, which is up 36 percent year over year. Comparatively, the company reported $605 million from software and subscription services, a 45 percent increase year over year. As EV sales slow down, the company is seeking to … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0015.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0015.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Popcorn bucket innovation is at an all-time low and the Dune: Part Three 'Double Sandworm' is proof</title>
 <link>https://www.engadget.com/2301587/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof</link>
 <guid isPermaLink="false">80caded14a1b27f655ba65c9313d1ad0d52e61aa85dee32399b8e65865b1be34</guid>
@@ -35,6 +123,17 @@
 <description>General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters . The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain "express consent" from drivers before collecting their information. The allegations surround GM's now-discontinued Smart Driver program , which collected data about driving habits, including acceleration, braking, and trip length. GM allegedly passed this information to data brokers, enabling insurance companies to purchase the data … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255455204.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255455204.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Trump declares robot imports a national security threat</title>
+<link>https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat</link>
+<guid isPermaLink="false">a71dbaaeaa7c1f5887ad1720c52aa4999a8b93469449359ef4d8729372bd0142</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 19:07:53 +0000</pubDate>
+<description>President Donald Trump has declared the imports of foreign-made factory robots to be a national security threat—ordering new US negotiations with trading partners while holding out the possibility of imposing new tariffs on such robot imports in the future. Issued on October 28, Trump’s presidential proclamation represents heightened government scrutiny of foreign-made industrial robots that could complicate the manufacturing operations of major US corporations that rely on such robots. Those companies include Detroit automakers General Motors and Ford, electric vehicle manufacturer Tesla , and aerospace and defense giants like Boeing and Lockheed Martin. Trump’s proclamation describes industrial robots and machinery as being crucial for producing US military weapon systems along with representing a “driving force” behind all critical infrastructure sectors within the US economy. The proclamation cites an investigation under US Secretary of Commerce Howard Lutnick as having found that US imports of such robots “pose[] risks to the United States industrial base and threatens the long-term competitiveness of the United States in a sector that is increasingly vital to national security.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers</title>
@@ -92,7 +191,7 @@
 <media:content url="https://www.engadget.com/img/gallery/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/l-intro-1793298712.jpg" medium="image"/>
 </item>
 <item>
-<title>Report: Trump did nothing with intel that China planted spy close to Nvidia CEO</title>
+<title>Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says</title>
 <link>https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo</link>
 <guid isPermaLink="false">a25f9028d064096669f9e97d8a47ea722a531d5ac73489c90f458095a17fd9e5</guid>
 <source>Ars Technica</source>
@@ -186,7 +285,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 17:21:33 +0000</pubDate>
-<description>This article was originally published on October 28 and updated on October 29 with information about the felony charges filed against Kalshi and its co-founders . The Trump administration is trying to stop Utah from enforcing its gambling ban against Kalshi, making Utah the 10th state sued by the US government agency that regulates prediction markets. Meanwhile, Utah Attorney General Derek Brown filed criminal charges in a state court against Kalshi and its founders on Wednesday. The attorney general's office provided us with court filings listing charges against KalshiEX, LLC , Kalshi co-founder and CEO Tarek Mansour , and Kalshi co-founder and COO Luana Lopes Lara . Read full article Comments</description>
+<description>The Trump administration is trying to stop Utah from enforcing its gambling ban against Kalshi, making Utah the 10th state sued by the US government agency that regulates prediction markets. Meanwhile, Utah Attorney General Derek Brown filed criminal charges in a state court against Kalshi and its founders on Wednesday. The attorney general's office provided us with court filings listing charges against KalshiEX, LLC , Kalshi co-founder and CEO Tarek Mansour , and Kalshi co-founder and COO Luana Lopes Lara . The company and two co-founders each face 13 felony charges and one misdemeanor for violating gambling laws. The charges are based on sports bets offered on Kalshi between September 13 and September 24. "The state did not issue arrest warrants for Monsour and Lopes Lara. Instead, they have been issued summons to respond to the charges in Third District Court in Salt Lake County," The Salt Lake Tribune wrote . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" medium="image"/>
 </item>
@@ -266,28 +365,6 @@
 <description>The RFX Meat Mini offers nearly identical performance to the full-sized grilling probe.</description>
 <enclosure url="https://www.engadget.com/img/gallery/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/l-intro-1793289798.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/l-intro-1793289798.jpg" medium="image"/>
-</item>
-<item>
-<title>Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion</title>
-<link>https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition</link>
-<guid isPermaLink="false">05dd5b7f90f15bce5eab6d37206b1567b012dab84390206684b9b73ac5848b99</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 16:03:28 +0000</pubDate>
-<description>The Joshua Kushner-led Thrive Holdings is acquiring ADT in an all-cash deal valued at $7.6 billion. The deal is expected to close in the first quarter of 2027 and will take ADT private, as reported earlier by Bloomberg . Joshua Kushner is the brother of President Donald Trump's son-in-law, Jared Kushner. Thrive Holdings was founded last year, serving as an offshoot of Joshua Kushner's venture capital firm Thrive Capital Management. TechCrunch likens Thrive Holdings to a "private equity firm for AI," as it purchases "traditional" businesses, like accounting and IT services, and applies AI to their workflows. Though ADT operates a standalone … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-913777656.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-913777656.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Microsoft’s AI future has fewer jobs</title>
-<link>https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad</link>
-<guid isPermaLink="false">5f992c32f5756cf3afc3c396b54d8ef58ac574a0c32c5726f1e5383c043c64f3</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
-<description>To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and India. It's the first time the company has presented such an offer to so many employees, expanding greatly upon the retirement offer that was limited to around 9,000 employees earlier this year. It's all part of an ongoing effort to avoid reducing investment in AI infrastructure by lowering Microsoft's operating cos … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>GSA left sensitive Google Drive files open to staff, contractors</title>
@@ -376,17 +453,6 @@
 <description>Belgium's finance and tax agency has pulled "several" digital services offline after a cyberattack on the organization. FOD Financiën confirmed the attack on Wednesday, saying that MyMinfin, the agency's main online tax portal, as well as other online services, are temporarily unavailable while they start the initial investigations. "This measure helps limit the risks and makes it possible to carry out the necessary technical interventions to ensure the security of our systems," it said in a public announcement. FOD Financiën added that "this has consequences for tax deadlines in the near future," referring to the October 31 extended deadline to submit tax filings for specific types of income, such as sole traders and earnings from foreign companies. The agency confirmed the deadline will be extended to November 16, by which time MyMinfin, the platform through which such filings would normally be submitted, should be back up and running. The detail offered up in the public statement reflects the early stage of the investigation; not much is known, although there is nothing to suggest data was compromised. "Data protection is a top priority for the FOD Financiën," it said. "At present, there are no indications that a data breach has occurred or that data has been compromised. This aspect is also being closely investigated and followed up. "In the meantime, a large part of our other applications remains available with full or partial functionality. We are closely monitoring the situation and doing everything we can to make the affected services available again as soon as possible." Spokesperson Francis Adyns told local news outlets that the attack was thwarted within hours, and that it was unable to gain access to applications or data. "The attack could not be sufficiently expanded within our environment to take over applications or gain access to data," he told Nieuwsblad . "Elements that were potentially infected were isolated. As a result, MyMinfin, Tax-on-web, and Biztax went offline, but the hacking was successfully stopped. "The various services must be restored in an isolated environment. This requires considerable time to realize, with the necessary caution to rule out new risks." ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5306415&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306415&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>The NYT Cooking app is testing AI recipe modifications</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</link>
-<guid isPermaLink="false">8d448df3e470faabd24cd2cfb7a8cb51a57df4f067cde2fbed649f8d19ee9672</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 14:39:37 +0000</pubDate>
-<description>The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature , which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number of servings, and "generally make our recipes work for what a cook needs at that moment." One of the examples given in the article shows a user asking to use baby spinach instead of kale, with the Cooking app feature advising that because baby spinach wilts faster, it should be added during a later step of the reci … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Mistral’s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra</title>
@@ -818,17 +884,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>OpenAI now lets you text your Dot agent</title>
-<link>https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent</link>
-<guid isPermaLink="false">f1bb7dcf32a04f96bdecb251a398ddc4e77486c4de848dd50b214fc423311d12</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 19:15:00 +0000</pubDate>
-<description>The feature works with both iMessage and RCS messaging.</description>
-<enclosure url="https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg" medium="image"/>
-</item>
-<item>
 <title>Touchscreen MacBook Pro hands-on: OLED looks great on a Mac</title>
 <link>https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac</link>
 <guid isPermaLink="false">79b03aa9fa8771e1fec5f886988d35bc81a1d9f7a7ba27f55dc63f6d02459afd</guid>
@@ -838,17 +893,6 @@
 <description>LOS ANGELES—For about five minutes on an extremely crowded showroom floor, I got to take pictures of the new MacBook Pro and test out some of its new features. First impressions: It's not as much of a departure from the previous design as I expected, but the outstanding OLED display steals the show regardless. The first thing I noticed was that it's lighter. My daily driver is a 14-inch MacBook Pro (M1 Max), and it's a bit weighty for a 14-incher. Picking up the new model, I could immediately tell it was lighter. It's not like it's in a different general weight class, but it's a noticeable difference. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg" medium="image"/>
-</item>
-<item>
-<title>Engadget is hiring writers!</title>
-<link>https://www.engadget.com/2300216/engadget-is-hiring-writers-october-2026</link>
-<guid isPermaLink="false">109898d8e6574f063e061367d0dff73328199c0eb0744bb6bca54eba023202c2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 19:05:46 +0000</pubDate>
-<description>We're looking for freelance journalists who know their way around a tech blog.</description>
-<enclosure url="https://www.engadget.com/img/gallery/engadget-is-hiring-writers/l-intro-1792721307.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/engadget-is-hiring-writers/l-intro-1792721307.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple’s new touchscreen MacBook Pros may be late, but they have one big advantage</title>
@@ -893,17 +937,6 @@
 <description>You can ask Amazon’s voice assistant to show you your favorite photos.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Amazon-Alexa-Photo-Frame.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Amazon-Alexa-Photo-Frame.jpg" medium="image"/>
-</item>
-<item>
-<title>Sony's new see-through DualSense controllers let you game like its 1999</title>
-<link>https://www.engadget.com/2300152/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999</link>
-<guid isPermaLink="false">86ea43ecdc8efafc555532f4e534b17803a8c9927246bfe1ec9fcc7c877007a8</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:38:17 +0000</pubDate>
-<description>The company is also releasing matching PS5 console covers.</description>
-<enclosure url="https://www.engadget.com/img/gallery/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/l-intro-1793212633.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/l-intro-1793212633.jpg" medium="image"/>
 </item>
 <item>
 <title>Amazon turns its most capable smart speaker into a smart camera, too</title>
@@ -1027,17 +1060,6 @@
 <media:content url="https://image.theregister.com/?imageId=226050&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Buckle up for more body-swapping hijinks in Jumanji: Open World trailer</title>
-<link>https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer</link>
-<guid isPermaLink="false">59760c2cbcc3c9cb4de3fc3929cf15ad67329614547fcbd32a6b8fe7fdbb8296</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 15:48:12 +0000</pubDate>
-<description>Let's face it, the mid-December box office will be dominated by Avengers: Doomsday and Dune: Part Three , but for those seeking fun holiday family fare, Jumanji: Open World opens the very next week on Christmas Day. Sony Pictures just released a new trailer for director Jake Kasdan’s sequel to his 2019 hit, Jumanji: The Next Level , teasing the usual wacky hijinks with a twist that calls back to the original 1995 film. As previously reported , Kasdan gave the franchise a welcome major overhaul with the release of 2017’s Jumanji: Welcome to the Jungle , updating the original board game into a vintage video game and giving us a hugely entertaining action-adventure. Welcome to the Jungle racked up over $960 million at the global box office and spawned the equally successful 2019 sequel Jumanji: The Next Level . A third film was always in the cards: The Next Level featured a tantalizing mid-credits scene in which a heater repairman (Lamorne Morris) visits Spencer Gilpin’s (Alex Wolff's) house, sees the broken video game console, and inadvertently triggers the game. The COVID-19 pandemic paused the third film’s development, but things picked up again in 2024, and here we are. Per the official synopsis: Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise</title>
 <link>https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi</link>
 <guid isPermaLink="false">5315fbef19dff1d49ddd386da43106bbcf225bdb240f1af6951191bc9fe9c8e1</guid>
@@ -1126,17 +1148,6 @@
 <media:content url="https://image.theregister.com/?imageId=5292360&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>A hidden ocean change near Antarctica could have global consequences</title>
-<link>https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole</link>
-<guid isPermaLink="false">5907cb26b6b9fd372bb987c5f5d87c8a1172e40b7b22fd3e5d0cf15001eaf3ac</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:38:53 +0000</pubDate>
-<description>The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say. In a paper published Wednesday, researchers documented a sharp salinity increase in a vast layer of the Southern Ocean, extending from 2,300 to 4,000 feet deep and encircling Antarctica. The shift reverses decades of freshening and echoes ocean changes usually associated with major global climate shifts over millennia but is now happening in just a few years. The switch from a decades-long trend of freshening water to increasing salinity has implications that could extend beyond Antarctica. The layer, known as Antarctic Intermediate Water, spreads northward into the Indian, Pacific, and Atlantic oceans, transporting heat, carbon, oxygen, and nutrients toward the tropics, and even across the equator, said co-author Bishakhdatta Gayen , a researcher and professor at the University of Melbourne and at the Centre for Atmospheric and Oceanic Sciences in Bengaluru, India. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>China's spaceplane bears striking resemblance to America's X-37B</title>
 <link>https://www.theregister.com/offbeat/2026/10/28/chinas-spaceplane-bears-striking-resemblance-to-americas-x-37b/5305983</link>
 <guid isPermaLink="false">086868f387caaad59bcd88e9b2f347aab0c1ad80802471cf54fc49eb83998f47</guid>
@@ -1179,17 +1190,6 @@
 <description>UK domain registrar 123 Reg ( no relation – Ed ) says it was the victim of an “AI-driven cyberattack” that exposed customer data. Customers began receiving their notification emails this week, informing them that their contact information, "related customer relationship data," company VAT numbers, and "product information from an application programming interface (API)" were compromised. A company spokesperson elaborated, saying this means that names, phone numbers, countries, language and currency preferences, account creation dates, the products on the account, and marketing preferences were affected. 123 Reg described the September 18 intrusion as "the first known AI-driven cyberattack against our company," and told The Register that early signs point toward a China-nexus attacker. "Our investigation identified IP addresses that we assessed to be the core attacker infrastructure, which were hosted in China and Singapore, indicating a strong Chinese nexus," the spokesperson said. "Our investigation further identified AI cyberattack 'skills' hosted on Chinese infrastructure, including copies of skills open sourced by Anthropic and several other AI exploitation frameworks and scripts." They went on to say that many of the artefacts left behind led 123 Reg to suspect that a Chinese state-sponsored group, known for abusing Claude Code in attacks against at least 30 organizations, could be behind the break-in. There is also a suspicion that the same group that hit a number of South Korea’s financial institutions using open-source Chinese AI tool ARTEX, was behind the attack on 123 Reg too. "The TA's mirror of 'anthropic_skills,' and the account naming conventions found on the Chinese servers are consistent with preparation of this class of AI-augmented operation," the spokesperson told us. "In addition, on October 7, 2026, CrowdStrike published CSA-261162, describing an unknown, likely Chinese-speaking actor that targeted several South Korean financial organizations starting in late September 2026, which is the same period during which we were attacked. "That actor used ARTEX, an open-source Chinese-developed agentic penetration-testing tool released in July 2026, which was also observed to be used in the attack that targeted us." The GoDaddy-owned registrar reported the attack to law enforcement agencies, brought in outside cybersecurity support, and notified the FTC, as well as the data protection authorities in the UK and EU. The company spokesperson added that it worked with Singapore-based ISPs to shut down the attacker's servers in the region, which helped disrupt the attack, in addition to "other actions by us and industry partners." 123 Reg's email to customers stated the attacker's activity "was limited to reading" customer data, although the spokesperson told us "it's possible they created copies of the information," and that this is what prompted the notification. The registrar urged customers to stay alert to the potential misuse of thei</description>
 <enclosure url="https://image.theregister.com/?imageId=242423&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=242423&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>China’s snooping around Pacific undersea cables raises risks for Big Tech</title>
-<link>https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific</link>
-<guid isPermaLink="false">54af00e8edaf35078bee2eb03586b45bcb427dcd931a58bbd3181369116de780</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 11:00:49 +0000</pubDate>
-<description>Subsea cable projects owned by US companies such as Google and Meta face some of the greatest risks from the threat of deep-sea sabotage in the Pacific Ocean, according to a new report. That coincides with Chinese research ships spending an extraordinary amount of time apparently surveying undersea cables—not to mention Chinese commercial ships being investigated for cutting cables in both European and Asian waters. Most damage to the undersea cables that form the Internet’s backbone is the result of accidents involving bottom-trawling fishing nets and ship anchors dragging on the seabed, with storms and undersea landslides also factoring in. But the recent rise in international tensions and open conflicts have placed new scrutiny on more suspicious instances of cable-cutting damage, with analysts warning about Russia and China in particular engaging in cable sabotage or tampering as “gray zone” tactics that fall short of direct military confrontation. One of the newest risk assessments of China’s gray zone tactics targeting the Internet’s undersea infrastructure comes from a research report published by the US-China Economic and Security Review Commission , an independent government commission that advises Congress. The report was contracted to the London-based think tank China Strategic Risks Institute and published in September 2026. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Open Cosmos steps up Europe's space sovereignty game, shows off ConnectedCosmos satellites</title>
