@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>FromSoftware delays The Duskbloods until 2027</title>
+<link>https://www.engadget.com/2300955/fromsoftware-delays-the-duskbloods-until-2027</link>
+<guid isPermaLink="false">5373cba7c6170e0176c151948a772f04a1a029bca8000b694e0c643b5e422bde</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 15:02:41 +0000</pubDate>
+<description>The studio is taking more time to refine the "rules and balance" of the Nintendo Switch 2 exclusive.</description>
+<enclosure url="https://www.engadget.com/img/gallery/fromsoftware-delays-the-duskbloods-until-2027/l-intro-1793286117.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/fromsoftware-delays-the-duskbloods-until-2027/l-intro-1793286117.jpg" medium="image"/>
+</item>
+<item>
+<title>Puddlesuits, movie nights and daytime baths: how to survive rainy days with small kids</title>
+<link>https://www.theguardian.com/thefilter/2026/oct/29/rainy-day-hacks-for-kids-uk</link>
+<guid isPermaLink="false">cb80133d940b74f57ce7cffc718cd7c8698b3e21d4e9e30c34ded76aa72a2527</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 15:00:46 +0000</pubDate>
+<description>Wet weather dampening your plans? From screen-free stories and craft kits to waterproof gear, here’s how to keep little ones – and grownups – entertained • The best gifts for kids by age Before becoming a mum, I never appreciated quite how complicated getting out the front door would be with kids in tow. But in my four and a half years of parenting two small people, I can confidently say it’s nothing compared with the challenge of a day spent inside when outside is off-limits. Whether because of endless rain or illnesses you don’t want to pass on, I panic at the thought of filling the hours spent indoors. Being outside is profoundly helpful for my mental health, and it comes with its own built-in entertainment for small children: a bus ride becomes a sensory experience, a trip to the doctor’s an opportunity to pick up role-play ideas. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/3751fea5e6d3ad1dfbf60046c0c619526f10c981/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be538354a8ea2af469e8c849f70c3a79" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/3751fea5e6d3ad1dfbf60046c0c619526f10c981/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be538354a8ea2af469e8c849f70c3a79" medium="image"/>
+</item>
+<item>
+<title>Built to bend: Postgres’s inventor and a steward on what AI really needs</title>
+<link>https://www.theregister.com/databases/2026/10/29/partner-content-built-to-bend-postgress-inventor-and-a-steward-on-what-ai-really-needs/5305957</link>
+<guid isPermaLink="false">cfcb009f85699e74f2d768c241faec131e0047f2174b854e84fb5cd5c00fabf0</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
+<description>Michael Stonebraker introduced Postgres ® at Berkeley in 1986. Forty years later, the database he invented is a leading choice for a generation of AI projects, and he is among the sharpest skeptics of how those projects are being built. Bruce Momjian is cofounder and core team member of the PostgreSQL Global Development Group, and he works at EnterpriseDB (EDB). In upcoming episodes of AI &amp; Data Horizons by EnterpriseDB (EDB), the Turing Award winner and MIT professor and the Postgres community advocate both make the case that the future belongs to systems that bend without breaking, and to communities that no single company controls. Zero, not 80 Stonebraker’s first exhibit is text-to-SQL, the promise that a business user can ask a question in plain English and get an answer from the warehouse. Public benchmarks such as Spider and BIRD report accuracy above 80 percent. His team tried the same thing on MIT’s own data warehouse—1,400 tables of student, faculty, building, and salary information—using real queries from its SQL log. “We got zero-percent accuracy. Not 80, not 70, not 40—zero,” he said. Adding agentic AI, retrieval, and prompt engineering lifted that level into the teens. Telling the model every table and join term reached the 30s. “Still not ready for prime time.” The reasons are the stuff of every enterprise estate. There is no training data, because the warehouse is not on the public internet. The data is idiosyncratic: among other things, MIT buildings have numbers, not names. The schema has rotted into cryptic table and column names and overlapping views. And real queries are harder than benchmark ones. His team has published its own benchmark, Beaver, and says nobody has broken out of accuracy levels in the 30-percent range. Use the model for what it’s good at The deeper problem, Stonebraker argues, is architectural. Large language models are good with text, but “what they are no good at is doing joins of structured data,” which is most of what an enterprise holds. Working with the city of Munich’s transport department, Stonebraker’s team found that answering a single citizen complaint about crosswalk timing meant combining regulations, CAD drawings, trolley schedules, and school-zone maps. Orchestrating that with a language model at the center was, he said, “ridiculously expensive.” The team’s answer, a system called Rubicon, uses models only on text, then casts the results into tables and hands the rest to a tabular engine. The orchestrator “looks like a query optimizer.” Stonebraker says it is cheaper by a factor of 10 and considerably more accurate than agent frameworks built around a model. He expects agentic AI to slide from the top of the hype cycle into the valley of despair before a more balanced view emerges. Enterprises hate non-determinism: Approve a loan and reverse it on review, and “that’s called a lawsuit.” Organizations also need protection from rogue agents. The guardrails inside the database, he notes, largely</description>
+<enclosure url="https://image.theregister.com/?imageId=5305959&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5305959&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Belgium's tax agency confirms cyberattack, pulls services offline</title>
+<link>https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409</link>
+<guid isPermaLink="false">38ba2273ea07101e8d92cfac2b7b2af9fce964ffbe7d30c01c2ca5a312fad4b0</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:47:40 +0000</pubDate>
+<description>Belgium's finance and tax agency has pulled "several" digital services offline after a cyberattack on the organization. FOD Financiën confirmed the attack on Wednesday, saying that MyMinfin, the agency's main online tax portal, as well as other online services, are temporarily unavailable while they start the initial investigations. "This measure helps limit the risks and makes it possible to carry out the necessary technical interventions to ensure the security of our systems," it said in a public announcement. FOD Financiën added that "this has consequences for tax deadlines in the near future," referring to the October 31 extended deadline to submit tax filings for specific types of income, such as sole traders and earnings from foreign companies. The agency confirmed the deadline will be extended to November 16, by which time MyMinfin, the platform through which such filings would normally be submitted, should be back up and running. The detail offered up in the public statement reflects the early stage of the investigation; not much is known, although there is nothing to suggest data was compromised. "Data protection is a top priority for the FOD Financiën," it said. "At present, there are no indications that a data breach has occurred or that data has been compromised. This aspect is also being closely investigated and followed up. "In the meantime, a large part of our other applications remains available with full or partial functionality. We are closely monitoring the situation and doing everything we can to make the affected services available again as soon as possible." Spokesperson Francis Adyns told local news outlets that the attack was thwarted within hours, and that it was unable to gain access to applications or data. "The attack could not be sufficiently expanded within our environment to take over applications or gain access to data," he told Nieuwsblad . "Elements that were potentially infected were isolated. As a result, MyMinfin, Tax-on-web, and Biztax went offline, but the hacking was successfully stopped. "The various services must be restored in an isolated environment. This requires considerable time to realize, with the necessary caution to rule out new risks." ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5306415&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5306415&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>The NYT Cooking app is testing AI recipe modifications</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</link>
+<guid isPermaLink="false">8d448df3e470faabd24cd2cfb7a8cb51a57df4f067cde2fbed649f8d19ee9672</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:39:37 +0000</pubDate>
+<description>The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it's sparked some drama among users. NYT Cooking senior editor Genevieve Ko announced the feature last Friday, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number of servings, and "generally make our recipes work for what a cook needs at that moment." One of the examples given in the article shows a user asking to use baby spinach instead of kale, with the NYT Cooking app feature advising that because baby spinach wilts faster, it should be added during a later step of the rec … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>There’s one week left to preorder the Ocarina of Time remake for $10 off</title>
+<link>https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale</link>
+<guid isPermaLink="false">15e2bd44a8373d3016f93e33038b9717bd527781a411926e7a76c1652b842533</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:24:45 +0000</pubDate>
+<description>The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10 discount at Amazon and Walmart . Once the game launches, the physical version will almost certainly go from $59.99 to $69.99 while the digital version will stay at $59.99. The Legend of Zelda: The Ocarina of Time (Switch 2) Where to Buy: $69.99 $59.99 at Amazon (preorder, physical) $69.99 $59.88 at Walmart (preorder, physical) Nintendo had the unenviable task of reimagining its Nintendo 64-era masterpiece for the Switch 2, and based on our hands-on time with some sections of the game , it’s a lot of fun to play. The graphics and art style are fantastic, and the controls have been modernized to be simpler to pick up for those who are already experienced with third-person action games, including other modern Zelda titles. window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ipad_mini_6.png", productImageAlt: "iPad mini 6 (2021, A15 series)", productTitle: "iPad mini 6 (2021, A15 series)", shortDescription: "Pick up a refurbished iPad mini for less", longDescription: "The compact 8.3-inch iPad mini features Apple's A15 Bionic chip and is a great option for entertainment, reading, and travel. Shop refurbished models at Back Market.", purchaseUrl: "https://www.awin1.com/cread.php?awinmid=18275&amp;awinaffid=299513&amp;platform=dl&amp;ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fipad-mini-2021-a15-series%3Futm_source%3Dchatgpt.com", purchaseLinkText: "Shop At Back Market" }; Other great Verge-approved deals It’s tough to find an HDMI dock with more utility than Sharge’s Disk Pro 2 . Being a dock for your USB-C gadgets is just one of its skills. The dock houses up to an M.2 2280-size SSD, letting it serve as external storage for your devices to read from or write to. Additionally, it has some useful ports (beyond its HDMI 2.1 4K/144Hz port), like a 5Gbps USB-A port, SD and microSD card slots, plus USB-C passthrough charging for up to 80W. Plus, it has a built-in magnet to let it snap to your iPhone, so long as it supports MagSafe. The “Ultra” version I’ve described costs $80.91 (originally $109.90) once you clip the on-page coupon for 10 percent off. Check out my colleague Sean’s informative and fun hands-on. Do something a little different with your night or weekend by snagging a Play-Doh Blooms kit . It’s not for everyone, but for those who’ve been tempted to build (or gift) a Lego floral bouquet, these Blooms kits look a lot more realistic. Also, they seem fun to piece together, and each set includes all the tools you need to assemble and preserve the flowers. There are several Blooms models, but the Rosy Petite bouquet kit is $18.74, down from $24.99, at Amazon . If you’re already shopping for the holidays, this seems like a nice stocking stuffer. We highlighted this deal recently, but it’s st</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Legend-of-Zelda-Ocarina-Switch2-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Legend-of-Zelda-Ocarina-Switch2-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Mistral’s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra</title>
+<link>https://www.zdnet.com/innovation/mistral-large-4-weights-release</link>
+<guid isPermaLink="false">4c5aa5bac1bab8cb6c5203221bc2d0edc9d057cea803958ae34b95c62b74a272</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:00:31 +0000</pubDate>
+<description>Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2293676090.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2293676090.jpg" medium="image"/>
+</item>
+<item>
 <title>Anthropic is asking Wall Street to believe in AGI</title>
 <link>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</link>
 <guid isPermaLink="false">3a644431de131a7405e5f75f870e18192af0eafc398feaa3ade7127bcc67337c</guid>
@@ -13,6 +90,17 @@
 <description>Today on Decoder , I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start trading as soon as next month at a valuation of anywhere between $1.5 trillion and $2 trillion. That would immediately make it one of the most valuable companies on the planet. But the price tag really isn’t the whole story here. The S-1 document published earlier this week is hundreds upon hundreds of pages filled with details that finally paint a picture of the economics of a frontier AI lab. As you might imagine, that picture is both really complicated and built on a series of very, very ambitious assumptions about the future and what AI will do to it . So I wanted to have Joey on the show to help break down what this document tells us, both about Anthropic’s finances and the broader AI economy. Joey and his colleagues at SemiAnalysis actually built a model of Anthropic’s finances from the outside back in July, so he’s been waiting for this filing about as eagerly as anyone, and I was excited to hear his take on what we’ve learned and, importantly, what we still don’t know. Okay: SemiAnalysis’ Joey Brookhart on the Anthropic S-1 and the costs and risks of building frontier AI. Here we go. This interview has been lightly edited for length and clarity. Joey Brookhart, you are an analyst at SemiAnalysis. You’re also co-lead on SemiAnalysis’ Tokenomics model, which is going to come up a lot in this episode. Welcome to Decoder . Yeah, thanks so much, Nilay. I am very excited to talk to you. We’re talking just a couple days after the big Anthropic S-1 was filed. It’s our first look inside of the finances of one of the leading frontier models. What’s your take? What’s your read into it? It was an awesome S-1. It’s been a rough three weeks since the investor day. Some people were somewhat disappointed in the September [annualized recurring revenue] numbers, but what we saw here was a company that has efficiently scaled to an amazing level, with a $1 trillion-plus valuation, $70 billion-plus of ARR in a very short amount of time. In gross margins, compute margins, and free cash flow, everything is what you’d want to see. So I don’t think there was much to nitpick in this filing. It’s the reason you’ve seen a lot of the semiconductor complex, and the neoclouds and compute stocks, really rally again in the last two days. It’s funny, I don’t think I can nitpick the S-1 itself. I want to get into some of the details because there are a lot of numbers in there that are worth thinking about. I actually just want to start at the really big picture. You run a thing called Tokenomics. I’m going to explain what Tokenomics is to people. I look at Anthropic and where it could go. I look at Dario Amodei saying that he can see his way to $1 trillion in revenue. Where does that mone</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Systemd adds support for Rust</title>
+<link>https://www.theregister.com/os-platforms/2026/10/29/systemd-adds-support-for-rust/5306264</link>
+<guid isPermaLink="false">2974aeeaf7a0a255a3ac0e138d9fad340a72d075d7001d91786cdfe193bc6829</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
+<description>Everyone's favorite Unix init system is adding support for the Unix world's favorite new programming language. What's the worst that could happen? Don't worry, this isn't here just yet. Agent P and his trusty team released systemd version 262 about a month ago. That means that systemd 263 is now under construction, and developer Christian Brauner announced on Mastodon that his new feature has been merged. The previous effort, which was pull request #44144, has now been split into five separate parts. Part 1 contains keyring-util and voa-util , described as "helpers for enrolling certificates into kernel keyrings." Part 2, support programs written in Rust , is the banner item. Then come a few more: bind only the headers Rust code uses , wrap the libsystemd-shared helpers systemd-keyring-setup needs , and finally, add systemd-keyring-setup . There are several important riders to the announcement, and these are spelled out in the second PR: "Rust is only used for new leaf components. Existing C code isn't ported and nothing that other components depend on is written in Rust." In other words, before anyone gets too excited, this does not indicate the start of an effort to rewrite systemd in Rust. All it means is that new systemd modules can be written in Rust. The second bullet point will be more significant for existing Rust developers: "No cargo. Everything is built with meson." Cargo is the Rust language’s package manager and build system. It's the normal way to build Rust applications, as well as to distribute modules of Rust code for other Rust developers to use. However, systemd already has a modern build system. It's called Meson and it's not unique to systemd – it is also used extensively by the GNOME project and the Mesa 3D graphics library. Meson itself is written in Python and uses Ninja to manage the compilation process. Ninja was designed to build Chrome faster , and it's also used for Android . The third stipulation is that any Rust code must not use the standard library . For those more familiar with C, this may sound extreme, but it's normal for embedded Rust programming . The project documents the system requirements. It needs Rust version 1.85 or later. That's modest: that version was released in February 2025 , and version 1.99.1 appeared earlier this month. It also calls for bindgen version 0.71.1 ( from December 2024 ) or newer, and Meson 1.4.0 ( from March 2024 ). These are relatively old versions – for instance, it's the Meson version included in Debian 13). Brauner added an interesting little coda in a second Masto post : saying that the team would have liked to support Rust in the core of systemd, but currently, Rust’s support for dynamic libraries isn't quite there yet. It's perhaps worth noting that writing systemd modules in Rust isn't the same thing at all as calling systemd from Rust code. There are several tools for doing that, and they have been around for years: for example, the systemd crate first appeared in 2015. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5306279&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5306279&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Amazon’s AI shopping assistant can now edit your grocery lists and gift registries</title>
@@ -68,6 +156,17 @@
 <description>United Launch Alliance (ULA) has set a target date for its return to flight: Friday, November 13, for a Vulcan launch. The mission will send 40 Amazon Leo satellites into orbit. A pair of BE-4 engines will power the booster, along with six Solid Rocket Boosters (SRBs). A Centaur V second stage, propelled by two RL10C-1 engines, will complete the journey to orbit and deploy the payload. The launch is the first Vulcan launch for Amazon after eight deployments with ULA's Atlas V. It is also the first since the launch earlier this year for the US Space Force in which an SRB burned through its nozzle during the ascent, treating viewers to some impressive fireworks and controllers to some likely clenched sphincters thanks to a "significant performance anomaly." In the event, the US Space Force payload successfully reached orbit, but the Vulcan was stood down while ULA conducted an investigation. This wasn't the first time a Vulcan had had issues with its SRBs. A nozzle was shed during the second launch of the rocket in 2024. Things went OK with the third launch. But another problem on the fourth trek to orbit meant a stand-down was unavoidable. The workhorse Atlas V has continued deploying Amazon Leo satellites during the Vulcan's hiatus. Another 29 were added on a July 2 launch from Space Launch Complex-41 at the Cape Canaveral Space Force station. However, Amazon booked 38 Vulcan rocket launches – quite an increase from the eight Atlas V launches ULA has already performed for Leo. It is obviously keen to add more satellites to its growing constellation. The SRBs are Northrop Grumman units, and the six Graphite Epoxy Motor (GEM) 63XL units will each provide an additional 459,600 lbs (2,044 kN) of thrust at liftoff. That's assuming nothing unexpected burns through or falls off. ULA has not detailed the results of its investigation or any changes it had to make. ULA said: "The integrated team has made great strides in improving our understanding of the solid rocket booster (SRB) anomaly that occurred on the previous Vulcan flight and have identified several potential contributors which have been mitigated through design and process improvements to the nozzle. To support our customers, this upcoming launch will utilize the improved nozzle design, and additional testing and analysis will continue in parallel with the mission. By flying the improved design, ULA gains valuable flight data that validates these improvements and is the most beneficial path in support of all our customers." US Space Force and Amazon are ULA's biggest customers - and Space Force will be watching. ULA came second to SpaceX in contracts awarded by Space Force for FY25 to FY29 . ®</description>
 <enclosure url="https://image.theregister.com/?imageId=240696&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=240696&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Massive leak exposes 41,000 DHS workers and undercover ICE agents</title>
+<link>https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents</link>
+<guid isPermaLink="false">0f9eaec95f56b60be3be28dbaf7b0e3f9798457050564b2964438a614ae1ab4d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 12:58:34 +0000</pubDate>
+<description>An unprecedented leak of Department of Homeland Security records has exposed details of more than 41,000 employees or contractors who work for the department and its constituent agencies. The records include email addresses, phone numbers, and office addresses, but also references to internal systems and sensitive information on undercover and surveillance programs. In all, the leak provides a map of how DHS is organized and how it operates. The records, which span DHS itself as well as seven component agencies, including Immigration and Customs Enforcement and US Customs and Border Protection, were last updated on August 19, 2026. The transparency nonprofit Distributed Denial of Secrets and cybersecurity researcher and journalist maia arson crimew previewed the data for WIRED, which they say they obtained from a group calling itself the Department of Peace. DDoSecrets published the archive, which it calls “Icepick,” on Wednesday. In a press release, DDoSecrets says the data is from DHS's Okta login system. In a note with the files, the hackers wrote, “They have our information, so it’s only fair that we have theirs.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Shortlist of age checks for the UK's under-16 social media ban is out, 'some' adults will need verifying</title>
@@ -200,6 +299,17 @@
 <description>Users of New Outlook wondering where the option to open an attachment went have a culprit to blame – an Edge update. The issue underscores how interconnected things are in the Microsoft ecosystem. According to the vendor, an update to Edge 156 "unintentionally enabled an unnecessary configuration," which means some New Outlook users are unable to open email file attachments. An error stating the file cannot be opened also appears for some, along with an instruction to restart Outlook. However, the "Open" option goes away after the error is encountered. A workaround is to use "Save As" to save the attachment, and then open the file manually. Microsoft confirmed the issue yesterday afternoon in the advisory EX1528992, and early this morning began rolling out a fix to disable the "unnecessary" configuration. It expects that it'll take 12 hours for the fix to be rolled out, and users will have to close and reopen New Outlook to feel the benefit. The problem raises some interesting questions. While we'd understand how something unexpected in Edge might cause rendering issues in New Outlook, losing the ability to open attachments because of something an Edge update did is concerning and may make some administrators reconsider the blast radius of software updates. We asked Microsoft for more information about the "unnecessary configuration" and will update this piece should it respond. However, the incident highlights connections within Windows that might surprise users. In addition, it shows that, despite a woeful showing on the desktop market share front – although Edge recently "surged" to almost 15 percent last month, according to Statcounter, up from around 10 percent for much of the year – Microsoft's browser can still capture user attention. It's just not the sort of attention the Windows maker might have hoped for. It is also worth noting that Outlook Classic does not appear to be affected by the issue (according to Microsoft's EX1528992 advisory for Exchange Online). Impacted users could therefore temporarily add opening attachments to the list of things the old software does that the new software doesn't. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5278204&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5278204&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>A new wave of electric ferries is here in the US. Some even fly</title>
+<link>https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries</link>
+<guid isPermaLink="false">06a2c703111142070fa596019f0abb2b4ebf221ea4cf99f9ade6bba31d2666fc</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:00:31 +0000</pubDate>
+<description>Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of passengers aboard a nearby sightseeing ferry. “It’s quite a curiosity at the moment,” Eric Laakmann, the chief executive and co-founder of Vessev, said. Climate Central is an independent group of scientists and communicators who research and report the facts about our changing climate and how it affects people’s lives. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ae28ea8755028f99a2f7893c18cb6170afa4e5f5/483_0_2415_1932/master/2415.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ddbb6945638923fe018d21eee1e02dd" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ae28ea8755028f99a2f7893c18cb6170afa4e5f5/483_0_2415_1932/master/2415.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ddbb6945638923fe018d21eee1e02dd" medium="image"/>
 </item>
 <item>
 <title>Despite the teething issues, Dyson’s Camerajet toothbrush packs in a lot of clever tech – but is it worth £420?</title>
@@ -356,17 +466,6 @@
 <media:content url="https://www.engadget.com/img/gallery/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/l-intro-1793228522.jpg" medium="image"/>
 </item>
 <item>
-<title>Adam Mosseri says negativity around AI is ‘going to get worse’</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</link>
-<guid isPermaLink="false">3b64f2126ca310fc1aab8c279ff1c2d5126b60e12b1cae6b8321b39d9a3ef124</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 23:05:39 +0000</pubDate>
-<description>Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and long-form video for Instagram , Mosseri said he thinks there's a trend of "more anxiety and more frustration and more anger about AI," particularly in creative industries: It's not only getting worse, it's going to continue to get worse. I think we're going to see more frustration and anger, some of it founded, some of it un … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>ULA's Vulcan rocket is set to return to flight on Friday the 13th</title>
 <link>https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th</link>
 <guid isPermaLink="false">046096613a73da1b4b6a76998cf23ca384be6b3940510d4d2a9ec5709788ae24</guid>
@@ -406,20 +505,9 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 22:17:15 +0000</pubDate>
-<description>Anti-vaccine Health Secretary Robert F. Kennedy has unilaterally passed a rule that will allow specialty pharmacies to sell six specific peptide drugs, overruling scientists at the Food and Drug Administration. The peptides are popular among members of Kennedy's Make America Health Again movement and many prominent MAHA figures and Kennedy allies sell them. Kennedy said he uses some of the peptides and called himself a "big fan." But FDA scientists continue to say there is insufficient evidence to show if they're effective and they are potentially dangerous. In 2023, the safety concerns led the FDA to remove the six peptides from a list of drugs that can be made by specialty pharmacies called compounding pharmacies—which make customized formulations of drugs for patients, or, in cases such as this, specialty drugs in bulk. Kennedy's new rule sidesteps the need to formally undo that FDA action. The rule is titled "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances" and was made available Wednesday on the Federal Register , with the final publication data set for October 30. The rule does not change the regulatory status of the peptide; instead, it states the Department of Health and Human Services (HHS) will no longer take enforcement action against compounding pharmacies for making the peptides, essentially giving them a green light to freely produce and sell them. Kennedy had quietly proposed this rule earlier this month. Read full article Comments</description>
+<description>Anti-vaccine Health Secretary Robert F. Kennedy has unilaterally passed a rule that will allow specialty pharmacies to sell six specific peptide drugs, overruling scientists at the Food and Drug Administration. The peptides are popular among members of Kennedy's Make America Health Again movement, and many prominent MAHA figures and Kennedy allies sell them. Kennedy said he uses some of the peptides and called himself a "big fan." But FDA scientists continue to say there is insufficient evidence to show if they're effective, and they are potentially dangerous. In 2023, the safety concerns led the FDA to remove the six peptides from a list of drugs that can be made by specialty pharmacies called compounding pharmacies—which make customized formulations of drugs for patients, or, in cases such as this, specialty drugs in bulk. Kennedy's new rule sidesteps the need to formally undo that FDA action. The rule is titled "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances" and was made available Wednesday on the Federal Register , with the final publication date set for October 30. The rule does not change the regulatory status of the peptide; instead, it states the Department of Health and Human Services (HHS) will no longer take enforcement action against compounding pharmacies for making the peptides, essentially giving them a green light to freely produce and sell them. Kennedy had quietly proposed this rule earlier this month. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>A hacker stole more than 40,000 DHS employee records</title>
-<link>https://www.theverge.com/tech/1021528/ice-cbp-data-leak</link>
-<guid isPermaLink="false">b6ad05727112179f3446b0884e3293eee8ce84963c6546820f3d72be0659cb43</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 21:57:45 +0000</pubDate>
-<description>A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired . The data also linked the agencies to specific surveillance tools. As reported by TechCrunch , a hacker known as "Department of Peace" gained access to the data through Okta, an identity and access management service used by the DHS. Around 21,000 records pertain to CBP employees, and ne … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Please state the nature of the medical emergency: Google is building a robot medic for NASA</title>
@@ -818,17 +906,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Audio Technica just released its first set of wireless StreamSet headphones</title>
-<link>https://www.engadget.com/2299600/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones</link>
-<guid isPermaLink="false">7e8134da49bb3771e256344192f2eb13e4ed657a8a3281805b6433b4b31f7294</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 15:34:06 +0000</pubDate>
-<description>This expands the lineup beyond XLR and USB-connected models.</description>
-<enclosure url="https://www.engadget.com/img/gallery/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/l-intro-1793201478.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/l-intro-1793201478.jpg" medium="image"/>
-</item>
-<item>
 <title>‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise</title>
 <link>https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi</link>
 <guid isPermaLink="false">5315fbef19dff1d49ddd386da43106bbcf225bdb240f1af6951191bc9fe9c8e1</guid>
@@ -1104,17 +1181,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>"No human at the helm": Delaware plan would let AI agents run entire businesses</title>
-<link>https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses</link>
-<guid isPermaLink="false">e734c0e90ec1424e9cd6f43e89acb7e853aa888be4962759888ab123b3ad9284</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 21:50:04 +0000</pubDate>
-<description>A Delaware proposal to let companies be operated by AI agents would help the firms' human owners evade legal responsibility for reckless and harmful actions taken by the AI, US Rep. James Comer (R-Ky.) told Delaware Governor Matt Meyer in a letter yesterday. Comer, chairman of the House Committee on Oversight and Government Reform, told Meyer that the committee "seeks assistance obtaining documents related to your state administration’s efforts to establish a new form of corporate entity to be known as an Artificial Intelligence Company (AIC)." Comer said the proposal is ripe for abuse. "We are concerned that Delaware’s AIC proposal could be used to protect powerful AI companies and their investors from responsibility for reckless harmful actions, while also protecting non-transparent forces seeking anticompetitive regulatory capture behind state AI initiatives," Comer's letter said. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Big Red gets cozy with Google to offer TPUs to AI customers</title>
 <link>https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846</link>
 <guid isPermaLink="false">1037573297b5a9dbb326ad7503afa9ee42aa112fd6402a9aeadddca9a1897ea3</guid>
@@ -1357,17 +1423,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-right-click-menu.jpg" medium="image"/>
 </item>
 <item>
-<title>Silicon Valley parents want the tech they help build out of their children’s schools</title>
-<link>https://www.theguardian.com/us-news/ng-interactive/2026/oct/27/silicon-valley-schools-education-tech</link>
-<guid isPermaLink="false">5cab76d7a8f5891ae97644d27415014c87f4466c9b540f0e2fe42f052f0dd0f3</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 12:00:38 +0000</pubDate>
-<description>Both private and public schools in tech regions are limiting the use of tech in classrooms. But will low-income districts be able to follow suit? German Gil spends most of his waking hours looking at screens. Since moving to the San Francisco Bay Area in 2015, the software engineer has bounced between startups and giants including Netflix , Facebook and GitHub. But when it came to the education of his daughter, Victoria, he wanted her to have a different experience, one in which his “kid could be a kid”. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/15b6d18a2d4da6e46267ca0a09462787169b65f3/0_0_2399_1920/master/2399.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c528a2f771c9c72538505242f3f1598" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/15b6d18a2d4da6e46267ca0a09462787169b65f3/0_0_2399_1920/master/2399.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c528a2f771c9c72538505242f3f1598" medium="image"/>
-</item>
-<item>
 <title>Attack on email hosting provider for German far right party AfD exposed 345k accounts</title>
 <link>https://www.theregister.com/cyber-crime/2026/10/27/attack-on-email-hosting-provider-for-german-far-right-party-afd-exposed-345k-accounts/5305660</link>
 <guid isPermaLink="false">58024c0a0ed34238d1cd066ab4d1e93dfe540799f8c7b4ac6cd77746ddba31d6</guid>
@@ -1423,39 +1478,6 @@
 <media:content url="https://i.guim.co.uk/img/media/5c7f05da40cd83d5eeb4462753f4b75e00b57b1d/349_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab28c6ee210d78a0f7c89e0a0bcb020c" medium="image"/>
 </item>
 <item>
-<title>‘My social life completely plummeted’: gen Z is fighting back against big tech</title>
-<link>https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps</link>
-<guid isPermaLink="false">acf004f966ed977790ab3ed9515e076a408401ca6ce76bf83139416eb12888b1</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 10:00:08 +0000</pubDate>
-<description>From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention Gen Z voters: tell us what is guiding your vote in the US midterm elections? Nelissa Moukoudi, 19, a university student in Canada, noticed a shift once she joined Instagram and TikTok. “My social life completely plummeted and it felt like my life was only [using] social media and school,” she said. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e19906e9d5ab9ed0fc84eecf015ce14" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e19906e9d5ab9ed0fc84eecf015ce14" medium="image"/>
-</item>
-<item>
-<title>Year of Linux on the Beach confirmed</title>
-<link>https://www.theregister.com/offbeat/2026/10/27/year-of-linux-on-the-beach-confirmed/5305385</link>
-<guid isPermaLink="false">328357ab7482c4f0cd7eb8b1cf191cc771bc0a7c71234e2f3e75f9b4a8d72b96</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 09:30:00 +0000</pubDate>
-<description>2026 might not be the Year of Linux on the Desktop, but it is certainly the Year of Linux on the Beachfront, judging by some digital signage at the Spanish resort of Lloret de Mar. Snapped by Rich Skuse, an aficionado of automotive shonk, this sign skips the town's attractions or useful information entirely. Instead, it gives away its Ubuntu and Firefox roots with an update prompt and a perky "Welcome back," suggesting someone has turned it off and on again. As this signage is likely connected to the Internet, that Ubuntu update is probably a good idea. 26.04.1 is the latest LTS version and contains a raft of tweaks and improvements. Sadly, we expect beachgoers are probably more interested in sun, sand, and sangria than in keeping a Linux installation in tip-top shape. The sign is a recent addition to the Passeig d'Agustí Font. Behind the photographer stand palm trees, with a beach and the azure waters of the Mediterranean Sea beyond. Lloret de Mar underwent several renovations ahead of the 2026 summer season, and we guess the sign was one of them, since it wasn't there in April 2025 (according to a well-known ad slinger). According to Lloret Gaceta, a publication for the region, "The goal is to continue evolving into a more modern, sustainable, accessible, and higher-quality tourist destination, adapted to the new demands of residents and visitors." Readers might be interested to learn that part of this evolution includes a ban on selling alcoholic beverages in containers larger than one liter at beach bars. A few too many adult drinks could explain the configuration that led to this bork, or perhaps an engineer took one look outside, at another balmy day, and decided "that'll do" when it came to configuring the signage. Either way, this is a tourist destination, and the last thing the average administrator wants to be reminded of on their vacation is the need to keep code up to date. As such, we suspect many will simply ignore the distressed digital display and instead seek out somewhere shady to sit, where the seafront can be admired, beverages consumed, and the bork…? Well, it's somebody else's problem. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5305389&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305389&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>How everyday technology choices drive true workplace sustainability</title>
-<link>https://www.theregister.com/on-prem/2026/10/27/sponsored-how-everyday-technology-choices-drive-true-workplace-sustainability/5296594</link>
-<guid isPermaLink="false">c1191e41dcc7bfb207be3f065ad00a63c7053b261779125b48244829cc89d29c</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
-<description>For many members of the C-suite these days, sustainability is a top three agenda item alongside technology and AI adoption, according to research from Deloitte. In fact, the report says, technology is considered a vital means of hitting organizational goals here, with the implementation of IT solutions being the most common approach for doing so. The importance of tech's role in this context is reflected in the views of IT decision-makers themselves. A recent survey, conducted by Barco ClickShare , revealed that 96 percent of the 500 US tech leaders questioned consider their sustainability activities to make a significant and positive global contribution to strategy here. A further 98 percent feel their departments should lead the way in such activities. Indeed, more than four out of five felt so strongly about the situation that they would turn down a job offer at a new employer if it did not have a strong sustainability track record, they said. Yannic Laleeuwe is Marketing Director Workplace Collaboration at wireless conferencing and collaboration platform provider, Barco ClickShare. She believes IT functions have this central role to play in tackling sustainability issues because many of their "day-to-day technology choices directly influence an organization's environmental footprint". "Sustainability is about practical decisions: buying reliable technology, extending product life, reducing complexity, and ensuring devices can be managed, repaired and responsibly recycled," Laleeuwe explains. Sustainability as a collaborative practice But given that technology-related decisions are rarely made by IT leaders alone, it is clear they cannot tackle sustainability challenges alone either. As Barco ClickShare's report indicates, a mere 6 percent of IT departments are the sole decision-makers on tech investments, which includes meeting room systems. This means that collaboration with other stakeholders is vital. Such stakeholders include not only sustainability and environmental affairs teams. They also consist of procurement, finance, facilities management, operations, and executive leaders. "Working together, it's possible to balance security, usability, cost, lifecycle impact, energy efficiency, repairability and end-of-life recovery before a purchase is even made," Laleeuwe points out. In other words, by collaborating, it becomes much easier to embed sustainability considerations into day-to-day activities. This includes maintaining and upgrading equipment properly to extend its life. It is these everyday IT decisions that can make all the difference in shaping behavior in the digital workplace. One example of this relates to the procurement process itself, which is often complex. But top of the list on any sustainable shopping list should be ensuring that technology in general, but meeting room equipment in particular, is secure, reliable, and easy to integrate with other systems. This is important because if kit is not durable and interoperable</description>
-<enclosure url="https://image.theregister.com/?imageId=5305314&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305314&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>UK government met 137 businesses over AI datacentres – but no environmental groups</title>
 <link>https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation</link>
 <guid isPermaLink="false">dc8feb23a31a7cb2ff2b4d4b1a9c74a9c44bcc6530c99d982182fe6ed75034be</guid>
@@ -1465,17 +1487,6 @@
 <description>Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expansion plans The UK’s policy on datacentres and AI was developed without any meetings with environmental groups, an investigation has found. The nonprofit organisation Spotlight on Corruption said a “considerable revolving door” shaped the government’s development of “AI growth zones”, a central plank of the former prime minister Keir Starmer’s AI and economic policy, with 38 ministers, senior civil servants and special advisers hired to positions in AI companies between July 2024 and September 2026. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/d7d40991e7793995807a7196e5227dd047cfc204/420_0_3413_2732/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b01773fb0eb9b1956fbbb40e33cb003d" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/d7d40991e7793995807a7196e5227dd047cfc204/420_0_3413_2732/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b01773fb0eb9b1956fbbb40e33cb003d" medium="image"/>
-</item>
-<item>
-<title>Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625</link>
-<guid isPermaLink="false">fe43b9d5ff9f3eef567544c991800c4438d38bdaba1a31ba899e51417553c9d2</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 05:39:18 +0000</pubDate>
-<description>A supergroup of rights holders who own or control Elvis Presley songs have sued Anthropic for copyright infringement, alleging that the AI company stole The King’s works to train its AI models. “The Elvis Plaintiffs bring this action to enforce these exclusive rights against the Defendant that has built its entire business model based on copyright infringement at a scale never seen before,” states a complaint [PDF] filed last Friday in the United States District Court for the Northern District of California. Despite owning 274 Elvis songs, the titles of which offer many apt metaphors to illustrate the plaintiffs’ grievances, the lawsuit uses a Shakesperean allusion. “Defendant Anthropic has essentially put to the test the adage of whether monkeys and typewriters could, provided enough time, recreate Hamlet,” the complaint states. “However, rather than wait out the ‘infinite’ amount of time the infinite monkey theorem posits is necessary for said monkeys with typewriters to randomly, one letter at a time, string together that famous question of ‘To be or not to be?’, Anthropic found a workaround.” “Rather than training its monkeys from first principles, Anthropic found mimicry (i.e. copyright infringement) to be the much easier pursuit.” The lawsuit uses riffs that will sound familiar to anyone who has followed the many allegations that AI companies hoovered up any content they could find to train their models: Fair use doctrines don’t apply to all content used to train AI models; Anthropic should have known that some of the torrents and datasets it used for model training were either licensed (and therefore not freely usable), or stolen; The AI company should know it needs a license before allowing its Claude products to do things like produce the lyrics to Elvis songs when prompted to do so; Chatbots cost rights-holders money when users prompt them to produce create content “in the style of” artists whose works are subject to copyright. The plaintiffs want damages and a slice of Anthropic’s profits, or $150,000 per work. The latter values damages at $41.1 million. Anthropic has reportedly vowed to defend the matter, but has already resolved a similar case in which it was accused of training its models on books without seeking or securing permission from the authors. The AI upstart created a $1.5 billion fund to compensate writers to make that one go away. The plaintiffs note that Anthropic has billions of cash on hand and plans a mega-float (which it announced today ) so can afford to indulge in A Little Less Conversation, Don’t Be Cruel, stop being The Devil In Disguise, and Patch It Up by paying up. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=232704&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=232704&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims</title>
@@ -1520,17 +1531,6 @@
 <description>We all know the highlights of the tomb raider’s storied career – but what about the lowlights? We dig deep to unearth the archaeologist’s less glorious moments Happy birthday, Lara! This month marks 30 years since Ms Croft first swan-dived into our lives with her unique blend of athletic prowess, archaeological expertise and giant knockers. More than 100 million Tomb Raider games have been sold since. We all remember the good times: the bold design and sheer playability of the original titles; the establishment of Lara as a 90s icon, embodying both lads’ mag culture and girl power; the way she made games cool, even appearing on the cover of the Face. We’ve had blockbuster movies, big budget reboots, and shiny reissues . And who could forget the time we got to powerwash her house ? But no one gets to 30 without a few skeletons in the closet – or in Lara’s case, butlers in the freezer. So here’s a look at the darker parts of her past. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/52d12c6f6e9a9ca0bfdbcedb816f2d4b81c60040/263_0_2698_2160/master/2698.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=216f118c9c46d56010bfc3650a14aaed" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/52d12c6f6e9a9ca0bfdbcedb816f2d4b81c60040/263_0_2698_2160/master/2698.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=216f118c9c46d56010bfc3650a14aaed" medium="image"/>
-</item>
-<item>
-<title>Android lets you ‘bubble’ apps for easy access now – how it works</title>
-<link>https://www.zdnet.com/tech/android-17-app-bubbles-how-to</link>
-<guid isPermaLink="false">454292fd1f6d06fee3d341ba4ddfb570e5d85c26bb278c3fc2a6079d29390851</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 16:28:46 +0000</pubDate>
-<description>Keep your most-used apps accessible with this new feature.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/abbb415c-4966-456b-a00d-2bc9d4a14659.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/abbb415c-4966-456b-a00d-2bc9d4a14659.jpg" medium="image"/>
 </item>
 <item>
 <title>A farewell to BioWare, maker of some of the best games of the 21st century | Lucy James</title>
