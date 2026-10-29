@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Judge rejects Trump admin request for order to segregate 20,000 Calif. ballots</title>
+<link>https://abcnews.com/Politics/judge-rejects-trump-administration-request-order-segregate-20000/story?id=137660006</link>
+<guid isPermaLink="false">4d47ce98afc875a3fbc52a32a50dead4de80a58e4c87463dac9a5a651349cc7c</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 29 Oct 2026 03:54:25 +0000</pubDate>
+<description>The Justice Department sought an emergency order in the case.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/AP26289523858830_1792898723099_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/AP26289523858830_1792898723099_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Hackers expose the identities of more than 40,000 DHS employees</title>
+<link>https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice</link>
+<guid isPermaLink="false">9afd989ede6392353c99a8db2b9e0270c31a5f634d5431d56fde165af0fcf775</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Thu, 29 Oct 2026 03:28:50 +0000</pubDate>
+<description>A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency. (Image credit: Heather Diehl)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5645x3764+0+0/resize/5645x3764!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F3b%2Fb2930acc42bd8331d22f0213005a%2Fgettyimages-2255143488.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5645x3764+0+0/resize/5645x3764!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F3b%2Fb2930acc42bd8331d22f0213005a%2Fgettyimages-2255143488.jpg" medium="image"/>
+</item>
+<item>
+<title>Brewers beat the Rays 4-1 to win the first World Series title in franchise history</title>
+<link>https://abcnews.com/Sports/wireStory/brewers-beat-rays-4-1-game-5-win-137662472</link>
+<guid isPermaLink="false">a44bb23ef1f45ee5b50462b54cf8712e3e6b981c45b7b7040a0d7375d2ad7892</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 29 Oct 2026 03:24:36 +0000</pubDate>
+<description>The small-ball Milwaukee Brewers playing in the smallest market in the majors are World Series champions for the first time in franchise history</description>
+<enclosure url="https://s.abcnews.com/images/Sports/wirestory_971f9fb8cad75042fc7f9919dd91c159_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Sports/wirestory_971f9fb8cad75042fc7f9919dd91c159_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region.</title>
 <link>https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter</link>
 <guid isPermaLink="false">3e06000f2a3a850c99d255e4752c64a14d97abaf40aa31a8392c4be4e3408d8c</guid>
@@ -26,15 +59,15 @@
 <media:content url="https://s.abcnews.com/images/US/mn-vote-2-gty-gmh-261028._1793208552224_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Judge rejects Trump admin request for order to segregate 20,000 Calif. ballots</title>
-<link>https://abcnews.com/Politics/judge-rejects-trump-administration-request-order-segregate-20000/story?id=137660006</link>
-<guid isPermaLink="false">4d47ce98afc875a3fbc52a32a50dead4de80a58e4c87463dac9a5a651349cc7c</guid>
-<source>ABC News Top Stories</source>
+<title>Girl seriously injured in wolf attack at German wildlife park</title>
+<link>https://news.sky.com/story/germany-eight-year-old-girl-seriously-injured-in-wolf-attack-at-wildlife-park-13605151</link>
+<guid isPermaLink="false">e992d424f6f4578ba2fa0d68557f6546656ef49e791b7c3a9484986e4fecc134</guid>
+<source>Sky News Home</source>
 <category>world</category>
-<pubDate>Thu, 29 Oct 2026 01:06:29 +0000</pubDate>
-<description>The Justice Department sought an emergency order in the case.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/AP26289523858830_1792898723099_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/AP26289523858830_1792898723099_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Thu, 29 Oct 2026 02:03:00 +0000</pubDate>
+<description>An eight-year-old girl has been seriously injured in a wolf attack at a wildlife park in Germany.</description>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-animal-grey-wolf_7390514.jpg?20261029030057" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-animal-grey-wolf_7390514.jpg?20261029030057" medium="image"/>
 </item>
 <item>
 <title>Police close investigation into Hayden Panettiere's death</title>
@@ -103,15 +136,15 @@
 <media:content url="https://s.abcnews.com/images/WNT/261028_wn_ender_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>10-year-old girl reported abducted from Oregon apartment found safe: Police</title>
-<link>https://abcnews.com/US/police-searching-10-year-girl-reported-abducted-oregon/story?id=137654403</link>
-<guid isPermaLink="false">d3f475e487beda9f7390d5fcdaa874715943534757e0c3aed42a7805a3dfe2a5</guid>
-<source>ABC News Top Stories</source>
+<title>US holds interest rates - ahead of possible Bank of England hike</title>
+<link>https://news.sky.com/story/us-federal-reserve-holds-interest-rates-ahead-of-possible-bank-of-england-hike-13605142</link>
+<guid isPermaLink="false">7ed731f6914c6242d079e0a970acd410f73a7f3cc7a5b1600e3507cfede5d5f3</guid>
+<source>Sky News Home</source>
 <category>world</category>
-<pubDate>Wed, 28 Oct 2026 23:09:15 +0000</pubDate>
-<description>Officers responded to an apartment complex in Canby at 1:47 a.m. Wednesday for the reported kidnapping, the Canby Police Department said.</description>
-<enclosure url="https://s.abcnews.com/images/US/chief_1793228237138_hpMain_16x9_1600.jpeg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/chief_1793228237138_hpMain_16x9_1600.jpeg" medium="image"/>
+<pubDate>Wed, 28 Oct 2026 23:51:00 +0000</pubDate>
+<description>The Federal Reserve has left interest rates unchanged - despite persistently high inflation and repeated calls from Donald Trump to lower borrowing costs.</description>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-dollar-banknote_7390517.jpg?20261029032055" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-dollar-banknote_7390517.jpg?20261029032055" medium="image"/>
 </item>
 <item>
 <title>Dolores Huerta, civil rights icon, dies at 96</title>
@@ -211,6 +244,17 @@
 <description>In tonight's edition, a summit with nearly two dozen African leaders opens in Moscow with the Kremlin describing their countries as natural allies against the West. Also, Nigerian investigators say that dozens of detained miners who died in a crowded jail cell screamed for help as jailors ignored their suffering. And ahead of the Youth Olympics in Senegal, Kenya's ramping up support of its women's sportspeople.</description>
 <enclosure url="https://s.france24.com/media/display/3402d47c-d316-11f1-961e-a7bbbeea0b20/w:1024/p:16x9/capture-866022cb.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/3402d47c-d316-11f1-961e-a7bbbeea0b20/w:1024/p:16x9/capture-866022cb.jpg" medium="image"/>
+</item>
+<item>
+<title>Federal Reserve holds interest rates steady as midterm elections loom</title>
+<link>https://abcnews.com/Business/federal-reserve-set-issue-interest-rate-decision-midterm/story?id=137599228</link>
+<guid isPermaLink="false">94520702589322123ab1e33d9bffa8badc21f4bac056d2d224604bb4c95d9e47</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 28 Oct 2026 21:15:28 +0000</pubDate>
+<description>Markets expect the central bank to hold rates steady for now.</description>
+<enclosure url="https://s.abcnews.com/images/US/kevin-warsh-1-ap-gmh-261028_1793214351437_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/kevin-warsh-1-ap-gmh-261028_1793214351437_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump administration wants to remove regulations on a super planet-heating gas</title>
@@ -612,7 +656,7 @@
 <title>Cruise ship left stranded in Cambodia after 'soaring fuel costs'</title>
 <link>https://news.sky.com/story/cruise-ship-mv-odyssey-stranded-in-cambodia-after-soaring-fuel-costs-13604720</link>
 <guid isPermaLink="false">ab2c9d40ecbc86d6add110be0e53250ccff37eea4d4b7a4cacb8459c22516d72</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Wed, 28 Oct 2026 10:05:00 +0000</pubDate>
 <description>A luxury cruise ship on a three-year, round-the-world voyage has been forced to suspend the trip in Cambodia due to rising fuel costs, operators have said.</description>
@@ -653,17 +697,6 @@
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-netherlands-beekse-bergen_7389373.jpg?20261028083807" medium="image"/>
 </item>
 <item>
-<title>Republicans emphasize transgender ads, putting cultural issues over economy</title>
-<link>https://abcnews.com/Politics/wireStory/republicans-emphasize-transgender-ads-putting-cultural-issues-voters-137628940</link>
-<guid isPermaLink="false">44232b6696a4506d205868ac71de0e1a66288a854838e13ad4bbf909a9fc4684</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 28 Oct 2026 06:58:21 +0000</pubDate>
-<description>Republicans have spent an estimated $183 million on television ads focused on transgender-related attacks against Democrats in the final phase of this year’s midterm elections</description>
-<enclosure url="https://s.abcnews.com/images/US/wirestory_5c43cf231930a02c1f51b7ddcd8d9448_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/wirestory_5c43cf231930a02c1f51b7ddcd8d9448_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Jimmy Chin and Jim Morrison talk new Everest documentary</title>
 <link>https://abcnews.com/video/137599953</link>
 <guid isPermaLink="false">a9804405a02b6df2c0f219f99295bcf0781e594e0d18755f2bca217c8347954b</guid>
@@ -684,17 +717,6 @@
 <description>Patricia Irvine's husband was fatally shot in an alleged road-rage incident on the upper deck of New York's George Washington Bridge.</description>
 <enclosure url="https://s.abcnews.com/images/US/261027_abcnl_9a_irvine_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261027_abcnl_9a_irvine_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>At least 62 killed and thousands displaced in gunmen attack in Nigeria</title>
-<link>https://news.sky.com/story/at-least-62-killed-and-thousands-displaced-in-gunmen-attack-in-northern-nigeria-13604353</link>
-<guid isPermaLink="false">1599bb7cb13b81c5d67a181595abbc0fccd1dc548c8a07482a8f10dae2980436</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Tue, 27 Oct 2026 12:02:00 +0000</pubDate>
-<description>At least 62 people have been killed after an attack in northeastern Nigeria, the country's emergency agency said.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-nigeria-binnari-karim_7388758.jpg?20261027150454" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-nigeria-binnari-karim_7388758.jpg?20261027150454" medium="image"/>
 </item>
 <item>
 <title>WATCH: Cruise liner collides with two docked cargo ships</title>
@@ -728,17 +750,6 @@
 <description>French footballer Kylian Mbappe has apologised for an "ill-judged" remark about Mao Zedong after being dropped by Chinese brands.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-kylian-mbappe_7388663.jpg?20261027120518" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-kylian-mbappe_7388663.jpg?20261027120518" medium="image"/>
-</item>
-<item>
-<title>Ebola cases in DRC surpass 10,000 as nurse treating patients is killed by machete-wielding mob</title>
-<link>https://news.sky.com/story/ebola-cases-in-democratic-republic-of-congo-surpass-10000-as-nurse-treating-patients-is-killed-by-machete-wielding-mob-13604219</link>
-<guid isPermaLink="false">d2d347c32b47dd5f71d3cf05adb4d167738e514cde2f8cb0e245d313ddcf6823</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Tue, 27 Oct 2026 02:56:00 +0000</pubDate>
-<description>The number of Ebola cases in the Democratic Republic of Congo (DRC) has surpassed 10,000, government data showed, as fears that the epidemic could spread to more African countries grow.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-ebola-health-workers_7388363.jpg?20261027031518" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-ebola-health-workers_7388363.jpg?20261027031518" medium="image"/>
 </item>
 <item>
 <title>WATCH: Homeowners go all out with Halloween decorations</title>
