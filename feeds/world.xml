@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>DOJ issues grand jury subpoenas to election officials in California</title>
+<link>https://abcnews.com/Politics/doj-issues-grand-jury-subpoenas-election-officials-california/story?id=137689807</link>
+<guid isPermaLink="false">6d457347e094f21ce0b00d45d00c71aeed56118e47cc0ffe0da4317d1baddd34</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 29 Oct 2026 22:40:47 +0000</pubDate>
+<description>DOJ issues grand jury subpoenas to local election officials in California as part of its investigation into the state’s voter rolls, multiple sources told ABC News.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/california-rt-er-261029_1793313163493_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/california-rt-er-261029_1793313163493_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Israel election results: Netanyahu's bloc maintains lead but does not secure majority</title>
+<link>https://abcnews.com/International/israel-election-partial-results-deadlock-netanyahu-alleges-fraud/story?id=137665276</link>
+<guid isPermaLink="false">3d8f344986cda297963bc5a3d439a85c518d8f8769d9caa6da19dd83257e2ae9</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 29 Oct 2026 22:33:14 +0000</pubDate>
+<description>The final vote count from Tuesday's parliamentary election showed that Prime Minister Benjamin Netanyahu’s bloc maintained its lead.</description>
+<enclosure url="https://s.abcnews.com/images/International/Israel-elex-DB-261029_1793259292259_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/Israel-elex-DB-261029_1793259292259_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Midterm elections live updates: Trump rallies voters in South Carolina</title>
 <link>https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections?id=137578278</link>
 <guid isPermaLink="false">f634d3a2c078d40fc5dd52208b9bc0ba0e7da02b675d1f0980cf8e9981479d8c</guid>
@@ -88,8 +110,8 @@
 <category>world</category>
 <pubDate>Thu, 29 Oct 2026 19:44:00 +0000</pubDate>
 <description>Star Trek and X-Men actor Sir Patrick Stewart has died after a "brief and poignant journey" with Alzheimer's and dementia.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-patrick-stewart-stewart_7391335.jpg?20261029195415" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-patrick-stewart-stewart_7391335.jpg?20261029195415" medium="image"/>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-patrick-stewart-sir-patrick-stewart_7391326.jpg?20261029195001" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-patrick-stewart-sir-patrick-stewart_7391326.jpg?20261029195001" medium="image"/>
 </item>
 <item>
 <title>Judge blocks Trump administration's Medicaid rule forcing sick recipients to prove frailty</title>
@@ -123,17 +145,6 @@
 <description>A man suspected of a gun attack in the Paris suburbs last week, killing one person and wounding seven including a child, has admitted to "targeting individuals who appeared to be Muslim, African, or North African," prosecutors said on Thursday. The attack came amid an increasingly tense political climate, with just six months to go before next spring's presidential election.</description>
 <enclosure url="https://s.france24.com/media/display/50cae506-d3af-11f1-b622-695cb59fade5/w:1024/p:16x9/capture-09376662.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/50cae506-d3af-11f1-b622-695cb59fade5/w:1024/p:16x9/capture-09376662.jpg" medium="image"/>
-</item>
-<item>
-<title>DOJ issues new wave of subpoenas in criminal probe of Alaska Senate race, sources say</title>
-<link>https://abcnews.com/Politics/alaska-governor-orders-probe-alleged-effort-confuse-senate/story?id=137667167</link>
-<guid isPermaLink="false">0d3fdeac3fdf708bdcb6bdd8e151338fdd643daa4da11f977c854f11453a4faa</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 29 Oct 2026 18:32:05 +0000</pubDate>
-<description>The DOJ is issuing new subpoenas in a probe of Alaska's U.S. Senate race and alleged efforts by Democrats to recruit a candidate with the same name as the GOP incumbent.</description>
-<enclosure url="https://s.abcnews.com/images/US/alaska-3-ap-gmh-260818_1787062733032_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/alaska-3-ap-gmh-260818_1787062733032_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>'Deeply regressive': How the French government plans to make protesters pay for riots and looting</title>
@@ -502,7 +513,7 @@
 <title>Why defeated Flavio Bolsonaro fled Brazil for Miami - and what comes next</title>
 <link>https://news.sky.com/story/why-defeated-flavio-bolsonaro-fled-brazil-for-miami-and-what-comes-next-13605308</link>
 <guid isPermaLink="false">f340d884cc166a88a6e913c6399295cbd553c65561bf4b7292b01f4a09be8852</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Thu, 29 Oct 2026 12:28:00 +0000</pubDate>
 <description>On Wednesday, Flavio Bolsonaro, who last week lost Brazil's presidential election, was seen arriving in the US on a private jet after having fled in the dead of night.</description>
