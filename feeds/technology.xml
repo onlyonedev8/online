@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>DoorDash acquires Instacart in $17 billion delivery service merger</title>
+<link>https://www.engadget.com/2300741/doordash-acquires-instacart-in-dollar17-billion-delivery-service-merger</link>
+<guid isPermaLink="false">823bf77a03a7d6fe3959196be3a0752d168bca4ec77f7d5318b0fb6c9200167d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 12:24:06 +0000</pubDate>
+<description>The deal combines the two largest grocery delivery platforms in the US.</description>
+<enclosure url="https://www.engadget.com/img/gallery/doordash-acquires-instacart-in-17-billion-delivery-service-merger/l-intro-1793276637.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/doordash-acquires-instacart-in-17-billion-delivery-service-merger/l-intro-1793276637.jpg" medium="image"/>
+</item>
+<item>
+<title>EasySMX S10 Lite review: A Switch 2 fidget toy with a weird removable faceplate</title>
+<link>https://www.engadget.com/2294413/easysmx-s10-lite-review</link>
+<guid isPermaLink="false">ef55ea7eab368741d3d7c19b4105d80fac2b3f14752db5f74ad63649522cb0f7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+<description>EasySMX is using Elizabeth Holmes levels of pedantry with this faceplate situation.</description>
+<enclosure url="https://www.engadget.com/img/gallery/easysmx-s10-lite-review-a-switch-2-fidget-toy-with-a-weird-removable-faceplate/l-intro-1792686295.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/easysmx-s10-lite-review-a-switch-2-fidget-toy-with-a-weird-removable-faceplate/l-intro-1792686295.jpg" medium="image"/>
+</item>
+<item>
+<title>Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour</title>
+<link>https://www.theregister.com/security/2026/10/29/attackers-turn-github-issues-into-supply-chain-campaign-against-61-public-repos-in-less-than-an-hour/5306153</link>
+<guid isPermaLink="false">704cbbe5295d9da21ed3086aee55204629f2e10d30ea9dace8c179c0ca8cbe11</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+<description>EXCLUSIVE Researchers identified at least 83 attacks against 61 public GitHub repositories, including popular open source projects such as Google LangExtract, Trivy, Brave browser, and MLflow, in what they suspect is a coordinated campaign to execute commands in CI/CD environments and steal credentials and access tokens. It all happened very quickly, the Radware threat hunters said in an exclusive interview with The Register . Most (77) of the malicious items were published during a 43-minute time span on September 1, with the remaining six occurring within the next two minutes. “Our guess is that the final aim was a supply-chain attack in which the attacker gains credentials for the repo, and then he has the power to change the contents – the code – as he wishes” and then push the malicious changes to others, Radware VP and researcher Gabi Nakibly told The Register . Nakibly and fellow Radware researcher Zvika Babo say they suspect a single individual is behind this supply chain campaign. This attacker used 74 different GitHub accounts, many of which had legitimate development histories, meaning they were likely compromised. "Considering that dozens of accounts posted the same type of payload, on the same day, within a narrow time window, and to the same infrastructure, it is reasonable to assess that the activity was coordinated,” the team wrote in research shared ahead of publication with The Register . A novel attack chain They discovered the campaign while investigating prompt injection in GitHub – and they told us the attack chain is part of what makes this supply-chain campaign novel, and extremely stealthy. First, the attacker publishes an issue, pull request, or comment containing malicious commands hidden in HTML comments. This ensures the content is not visible in the rendered page. Plus, a GitHub event – like a pull request or issue – can automatically trigger a workflow if the repository is configured to respond to that event, meaning the attacker can be pretty hands-off at this point. “The workflow automatically is triggered within a second, and if the workflow is indeed vulnerable, then the attack is executed successfully,” Nakibly said. The workflow incorporates attacker-controlled content directly into shell source code, and the shell executes the hidden, malicious command, which hoovers up environment variables and attempts to exfiltrate those to an attacker-controlled server. While the researchers examined logs from actual runs, and told us they found two cases containing evidence that the malicious command ran inside the automation environment, they can’t definitively say whether the attacker successfully obtained repository write permissions, modified source code, or compromised downstream software. But they're trying. “The big picture is that the attackers are trying to find every possible way to get inside the repos to get credentials,” Nakibly said. Plus, “the attacker doesn't need to compromise the repository or to have a</description>
+<enclosure url="https://image.theregister.com/?imageId=5241038&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5241038&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>DoorDash is acquiring Instacart for $17 billion</title>
+<link>https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement</link>
+<guid isPermaLink="false">7b13a13aa99910ae3a029c78367129f384d2cd3aebfca85e46cd4ca33188d1a9</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 11:56:35 +0000</pubDate>
+<description>Speculation around a deal started circulating last week. | Photographer: Michael Nagle/ Bloomberg via Getty Images DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery thanks to Instacart's established grocery marketplace and retailer partnerships, with Instacart CEO Chris Rogers saying the deal will make "online grocery more seamless and affordable" for millions of households. DoorDash says the acquisition will give Instacart users acces to more than 50,000 additional stores, and allow DashPass and Instacart Plus members to "pay one membership fee instead of two." The deal is expected to close "in the end of 2027 or the first half … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255805905.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255805905.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>LibreOffice's 'no AI' stance meets LLM-assisted code</title>
 <link>https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084</link>
 <guid isPermaLink="false">0293163764e5a74a48cf47fb4edb7e9b68fdf21172eb5b2520e4b219edafad44</guid>
@@ -26,7 +70,7 @@
 <media:content url="https://i.guim.co.uk/img/media/8965bdb4347fba9c905e802374a3cebfea5c77ac/375_0_2250_1800/master/2250.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5489025f0da1fb4911b983fc53a6744" medium="image"/>
 </item>
 <item>
-<title>Night Plane review – join the jumbo jet to hell in this indie horror game</title>
+<title>Night Plane review – join the jumbo jet to hell in this indie horror head trip</title>
 <link>https://www.theguardian.com/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game</link>
 <guid isPermaLink="false">1e4c07a23d0712e582f9f8d85e6c89306449504eaa2edf23bb8df339ad921dee</guid>
 <source>The Guardian Technology</source>
@@ -35,6 +79,17 @@
 <description>Liquid Static Studio; PC You take on the role of flight attendant in this clever and absorbing retro-style game that veers from daft horror spoof to genuinely disturbing There was always something creepy about the job-simulator genre. All those mindless automatons queueing up to use your bus, bar or bed store, or whatever workplace you are trapped in for the duration of the game. The endless repetitive tasks. The emptiness of the world beyond your corporate existence. Together, these elements scream existential terror … which is perhaps why we are now seeing a new indie sub-genre of job sim horror games, including Home Safety Hotline, Dredge and more recently, Grease Trap ’99, a Lovecraftian mystery set in a Scottish chip shop. Now, we have Night Plane, in which you take on the role of a flight attendant on a jumbo jet to hell. It all starts kind of normally. You turn up for the first day of your new job, meet your colleagues, then take your spot at the departure gate, checking in customers and being careful to root out anyone with invalid tickets. Once on the plane, you roll your trolley down the aisle, serving booze and inedible meals, and occasionally dealing with passenger complaints. Then the plane crashes and, frankly, it all goes downhill from there. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19f241367cbafbef52c1dc7a882c6b69" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19f241367cbafbef52c1dc7a882c6b69" medium="image"/>
+</item>
+<item>
+<title>SpaceX no longer needs NASA, and that's a problem for America's space agency</title>
+<link>https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency</link>
+<guid isPermaLink="false">79ed3fc0032bcaa4bf88524cbff31f631df70f537e5d816d1037ce6090069373</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 11:00:08 +0000</pubDate>
+<description>For nearly a quarter of a century, Elon Musk and his essential partner at SpaceX, Gwynne Shotwell, viewed the United States government as El Dorado, the mythical city of gold. Like machete-wielding treasure hunters, Musk and Shotwell hacked through a tangled jungle filled with lurking carnivores such as Boeing and Lockheed Martin, as well as bean counters and regulators. Over time, against long odds, the pair cleared a path for SpaceX to contracts at NASA and the US military. They sued when things did not go their way. They hollered about unfair playing fields. Most importantly, they delivered quality space products to the US government for less. And so, after a while, SpaceX found El Dorado and a city of contracts. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Traces of new Pi hardware spotted in GitHub</title>
@@ -387,17 +442,6 @@
 <description>With an OLED display and touchscreen capabilities , it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year . But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple offers pushes those prices to an eye-watering $14,249 and $14,549, respectively. Both of those premium configurations include the M5 Max chip with an 18-core CPU and 40-core GPU, $150 worth of nano-texture glass, 128GB of memory that adds an extra $2,000, and 16TB of storage which is the real budget breaker here thanks to the ong … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity</title>
-<link>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</link>
-<guid isPermaLink="false">7b5653451a244c2d34efb38f2003e0796172f26d8c9a89099a24d3767ad6f629</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 20:03:00 +0000</pubDate>
-<description>Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday , Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program . The company says Carbon reflects the "pace at which we're pus … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble</title>
@@ -873,28 +917,6 @@
 <media:content url="https://image.theregister.com/?imageId=4094139&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar</title>
-<link>https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar</link>
-<guid isPermaLink="false">849e1e549c59b3e84c28c7552c49c1fcc6b08b1c62eea9d3820b34345d07aaf8</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:13:19 +0000</pubDate>
-<description>Amazon Leo's $11.5 billion acquisition of mobile-satellite operator Globalstar has been approved by the FCC.</description>
-<enclosure url="https://www.engadget.com/img/gallery/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/l-intro-1793193078.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar/l-intro-1793193078.jpg" medium="image"/>
-</item>
-<item>
-<title>Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price</title>
-<link>https://www.engadget.com/2299326/kindle-colorsoft-signature-edition-2026-review</link>
-<guid isPermaLink="false">2d8822539395d640fd71d13df7d4eebbe4b715918cd6f812c2cfd06e36388b08</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
-<description>$320 is a lot to pay for a well-balanced device in an aluminum case with pogo pins.</description>
-<enclosure url="https://www.engadget.com/img/gallery/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price/l-intro-1793191346.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price/l-intro-1793191346.jpg" medium="image"/>
-</item>
-<item>
 <title>Intel gets tax breaks while local authorities lose revenue, claims policy org</title>
 <link>https://www.theregister.com/systems/2026/10/28/intel-gets-tax-breaks-while-local-authorities-lose-revenue-claims-policy-org/5305902</link>
 <guid isPermaLink="false">bd16466dc003c90136dc88b9e17a1375b4367519a27594be61f1e97ca933646c</guid>
@@ -1069,17 +1091,6 @@
 <description>A Delaware proposal to let companies be operated by AI agents would help the firms' human owners evade legal responsibility for reckless and harmful actions taken by the AI, US Rep. James Comer (R-Ky.) told Delaware Governor Matt Meyer in a letter yesterday. Comer, chairman of the House Committee on Oversight and Government Reform, told Meyer that the committee "seeks assistance obtaining documents related to your state administration’s efforts to establish a new form of corporate entity to be known as an Artificial Intelligence Company (AIC)." Comer said the proposal is ripe for abuse. "We are concerned that Delaware’s AIC proposal could be used to protect powerful AI companies and their investors from responsibility for reckless harmful actions, while also protecting non-transparent forces seeking anticompetitive regulatory capture behind state AI initiatives," Comer's letter said. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Anthropic IPO warns its AI could blackmail people, become sentient, end humanity</title>
-<link>https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity</link>
-<guid isPermaLink="false">3680aedf70659ea79553dfbf8060108cb8cc970988e2db7f3cceb8c41bb9ebbf</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 21:31:14 +0000</pubDate>
-<description>The Securities and Exchange Commission 's publication on Monday of Anthropic's S-1 form —ahead of a heavily anticipated initial public offering—has led to plenty of discussion of whether the company's quickly ballooning revenues will be able to overcome its even higher costs. But amid the numbers and forward-looking optimism about AI "rapidly transform[ing] every sector of the global economy in ways greater than the impact of industrialization, electricity, semiconductors, and the internet," Anthropic also spends an inordinate amount of time in its S-1 laying out the myriad risk factors that could bring the company down. Across 93 pages and over 70,000 words, Anthropic's S-1 "Risk Factors" section discusses literally hundreds of potential problems that could negatively impact its business in the coming years. Many of these potential risks are the kind of standard worries about competition, costs, customer acquisition, and potential regulation that almost any business must worry about. But some risks highlight interesting potential points of failure for Anthropic specifically and the hype-filled AI bubble more generally. After wading through Anthropic's book-length treatise on its greatest risks, we've narrowed the list to the seven most surprising, interesting, or thought-provoking potential problems. Consider this a far-from-comprehensive look at what potential Anthropic investors should keep in mind. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Big Red gets cozy with Google to offer TPUs to AI customers</title>
@@ -1476,17 +1487,6 @@
 <description>Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-called hostile environment for immigration, according to research. Tasks from the detection of potential sham marriages to determining the age of asylum seekers and checking through the contents of phones of new arrivals now involve use of the technology, according to a report by Open Rights Group (ORG). Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c20f7add03d3796dc4d6aa718b36df62" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c20f7add03d3796dc4d6aa718b36df62" medium="image"/>
-</item>
-<item>
-<title>Humanity can't afford not to spend $800B on AI, Anthropic insists</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580</link>
-<guid isPermaLink="false">53ab7add3a7669586f63a3ad448948b22e65b765440a7b55ac9d533e6e881124</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 23:39:49 +0000</pubDate>
-<description>Anthropic's IPO filing dropped on Monday morning, and the prospectus reads like a real estate agent desperately trying to sell a house of cards as an investment property: The upsides are enormous. There are just a few disclosures you should be aware of. Sure, the foundation is cracked; it's in a flood plain, and you can only really afford it if you land that promotion, but there's a non-zero chance it'll work out eventually, and just look at the views. Every S1's risk factors read a bit like a doomsday prophecy. Anthropic, like any other company that's going to trade on public markets, has to cover its butt. It doesn't change the fact that the company's success is built on a gamble that its revenues will grow fast enough to keep up with its rampant compute spend, for which its obligations now exceed half a trillion dollars over the next decade or so. Burn, baby, burn Going off the S1 filing's numbers, things don't look that bad for the Claudefather at first blush. Revenues in the first half of 2026 outpaced compute and infrastructure costs by nearly 2:1 and operating losses were a relatively paltry $693 million, compared with $2.14 billion in the first half of last year. The company is still burning money, but things are finally headed in the right direction. Or, they would be if the company's compute spend were forecast to plateau over the next few years. That's very much not the case. "Our ability to develop, train, improve, and deploy frontier models depends on our access to enormous and increasing quantities of specialized compute," the prospectus reads. The continued development of Anthropic's models hinges on ever larger quantities of compute. Anthropic hasn't put a firm number on its compute commitments involving large cloud providers, neoclouds, and equipment providers, but the company's obligations over the next few years could be north of $800 billion, depending on how you wrangle the numbers. According to the S-1, Anthropic entered into new or amended compute and infrastructure agreements after December 31, 2025, carrying roughly $417 billion in future minimum payment obligations. Since June 30, 2026, the company has entered into further new or amended agreements carrying approximately $245 billion in future minimum payment obligations, some of which are subject to contractual conditions. But if you add up all the contracts listed, the total is even higher. Microsoft: "at least $44.9B" — 2026-2033 Google: "at least $114.5B" — 2026-2033 TPUs from Google and other providers: "approximately $125B to $150B"— 2028-2031 Amazon: "at least $110B" — 2026-2036 SpaceXAI: "up to $120.5B" — 2026-2029 AMD: "to exceed" $20B — initial tranche starting in 2027 Nscale: "up to approximately $44.6B" — through 2033 Lambda: "approximately $41.3B" — through 2034 Broadcom: "approximately $161.2B" — starting in 2026 That's a total obligation between $782 billion and $807 billion, though some aren't as airtight as others. According to the S1, Anthropic's deals</description>
-<enclosure url="https://image.theregister.com/?imageId=5305597&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305597&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Github competitor Entire is live now – how the agent-first platform works</title>
