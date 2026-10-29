@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region.</title>
+<link>https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter</link>
+<guid isPermaLink="false">3e06000f2a3a850c99d255e4752c64a14d97abaf40aa31a8392c4be4e3408d8c</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Thu, 29 Oct 2026 02:20:45 +0000</pubDate>
+<description>El Niño years typically lead to more precipitation and higher-than-average temperatures. The latest data shows the different potential impacts by region. (Image credit: Marta Lavandier)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4158x2772+0+0/resize/4158x2772!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fc2%2F120bf89542d08c1fe9a839853dfc%2Fap26301647514887.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4158x2772+0+0/resize/4158x2772!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2Fc2%2F120bf89542d08c1fe9a839853dfc%2Fap26301647514887.jpg" medium="image"/>
+</item>
+<item>
+<title>2 right-wing provocateurs facing election-related charges in Minnesota</title>
+<link>https://abcnews.com/US/2-wing-provocateurs-facing-election-related-charges-minnesota/story?id=137646933</link>
+<guid isPermaLink="false">616d622a45c9c0b20e67e0d1934921085cd6b9ee0313bf1e1f8b6e64886d4d35</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 29 Oct 2026 02:15:08 +0000</pubDate>
+<description>Right-wing provocateurs James O'Keefe and Cam Higby are facing election-related charges after posting videos intended to expose alleged election security deficiencies.</description>
+<enclosure url="https://s.abcnews.com/images/US/mn-vote-2-gty-gmh-261028._1793208552224_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/mn-vote-2-gty-gmh-261028._1793208552224_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Judge rejects Trump admin request for order to segregate 20,000 Calif. ballots</title>
 <link>https://abcnews.com/Politics/judge-rejects-trump-administration-request-order-segregate-20000/story?id=137660006</link>
 <guid isPermaLink="false">4d47ce98afc875a3fbc52a32a50dead4de80a58e4c87463dac9a5a651349cc7c</guid>
@@ -43,7 +65,7 @@
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Thu, 29 Oct 2026 00:52:50 +0000</pubDate>
-<description>While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet and will likely be appealed. (Image credit: Apu Gomes)</description>
+<description>While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet. The federal government immediately filed notice that it will appeal. (Image credit: Apu Gomes)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5174x3449+0+0/resize/5174x3449!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F25%2Fd40732b945ed8595ec5440a31a39%2Fgettyimages-2301932288.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5174x3449+0+0/resize/5174x3449!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F25%2Fd40732b945ed8595ec5440a31a39%2Fgettyimages-2301932288.jpg" medium="image"/>
 </item>
@@ -246,13 +268,13 @@
 <media:content url="https://s.france24.com/media/display/89bfec5e-d304-11f1-8b0d-75c7729144f1/w:1024/p:16x9/EN-20261028-183320-184320-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Flavio Bolsonaro insists he is 'leader of Brazil' despite losing election run-off</title>
+<title>Defiant Bolsonaro breaks silence after fleeing Brazil for the US</title>
 <link>https://news.sky.com/story/flavio-bolsonaro-insists-he-is-leader-of-brazil-despite-losing-election-run-off-13605006</link>
 <guid isPermaLink="false">e68e020b4354d1c860aa296974aafa5ef42e4eb200c4ceb57436033a7f11a52e</guid>
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Wed, 28 Oct 2026 19:48:00 +0000</pubDate>
-<description>Flavio Bolsonaro has called himself the "leader of Brazil", despite losing the country's election run-off to incumbent president Luiz Inacio Lula da Silva.</description>
+<description>Flavio Bolsonaro has called himself the "leader of Brazil" - despite losing the presidential election.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-flavio-bolsonaro-brazil_7390251.jpg?20261028204032" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-flavio-bolsonaro-brazil_7390251.jpg?20261028204032" medium="image"/>
 </item>
@@ -299,17 +321,6 @@
 <description>Erin Ogunkeye is pleased to welcome Dr. Shira Efron, RAND's Distinguished Israel Policy Chair. “Many of us, myself included, underestimated the extent of the fracture in Israeli society.” It reflects a political system in which ideological polarisation, the rightward shift of the Jewish electorate and the contested legitimacy of Arab political participation have sharply narrowed the possibilities for coalition-building. Dr. Efron illustrates a political landscape in which Netanyahu’s governing bloc has lost ground, yet still has “more cards, or better cards, to play,” she argues, whether through another election, a national unity government or attempts to draw opposition partners into his orbit.</description>
 <enclosure url="https://s.france24.com/media/display/9975e314-d300-11f1-970a-811458fcf026/w:1024/p:16x9/EN-20261028-151107-152314-CS.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/9975e314-d300-11f1-970a-811458fcf026/w:1024/p:16x9/EN-20261028-151107-152314-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>2 right-wing provocateurs facing election-related charges in Minnesota</title>
-<link>https://abcnews.com/US/2-wing-provocateurs-facing-election-related-charges-minnesota/story?id=137646933</link>
-<guid isPermaLink="false">616d622a45c9c0b20e67e0d1934921085cd6b9ee0313bf1e1f8b6e64886d4d35</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 28 Oct 2026 18:55:45 +0000</pubDate>
-<description>Right-wing provocateurs James O'Keefe and Cam Higby are facing election-related charges after posting videos intended to expose alleged election security deficiencies.</description>
-<enclosure url="https://s.abcnews.com/images/US/mn-vote-2-gty-gmh-261028._1793208552224_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/mn-vote-2-gty-gmh-261028._1793208552224_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Putin woos African leaders as Moscow seeks to expand footprint in Africa</title>
@@ -596,17 +607,6 @@
 <description>Some of the highest tides ever recorded in South Florida and California have sent surging seawater into nearby towns – flooding homes on both coasts, and triggering water rescues.</description>
 <enclosure url="https://s.abcnews.com/images/WNT/261027_wn_ault_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/WNT/261027_wn_ault_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Dozens are dead in a high-speed train crash in Spain</title>
-<link>https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster</link>
-<guid isPermaLink="false">aeecd09938a56dc1753ad789201f411b8fa7186194c2f599240c273b93cbd3ac</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Wed, 28 Oct 2026 10:09:46 +0000</pubDate>
-<description>The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year. (Image credit: Juanma Jiménez)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1241+0+0/resize/2000x1241!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F8a%2F417aad664031913c1335e9797e08%2Fap26301360905635.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1241+0+0/resize/2000x1241!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F8a%2F417aad664031913c1335e9797e08%2Fap26301360905635.jpg" medium="image"/>
 </item>
 <item>
 <title>Cruise ship left stranded in Cambodia after 'soaring fuel costs'</title>
