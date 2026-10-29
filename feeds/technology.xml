@@ -4,15 +4,125 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>You can generate and edit Google Docs files directly in Gemini chats now</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs</link>
+<guid isPermaLink="false">4aa6b4f10322be2ed1301958d11c70f52364b4058fb08ac951fd66e716f253ce</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 18:45:31 +0000</pubDate>
+<description>Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini . The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in the web version for now. Google added support for generating and downloading files in Gemini earlier this year, but now you can tweak those files without leaving the Gemini app. Google says you can expand documents to edit them in full-screen mode and highlight text in files to ask Gemini questions or prompt … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Netflix is making a live-action PUBG show written and directed by Donald Glover</title>
+<link>https://www.engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover</link>
+<guid isPermaLink="false">2e86e393d7f055660f6aa792517cc356d1bf49bcba0b8b1b069814d5f27dbfff</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 18:45:00 +0000</pubDate>
+<description>The streamer also has an Assassin's Creed series in the works, along with a Gears of War feature film.</description>
+<enclosure url="https://www.engadget.com/img/gallery/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/l-intro-1793299226.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/l-intro-1793299226.jpg" medium="image"/>
+</item>
+<item>
+<title>Don't expect more Assassin's Creed remakes anytime soon</title>
+<link>https://www.engadget.com/2301452/dont-expect-more-assassins-creed-remakes-anytime-soon</link>
+<guid isPermaLink="false">2a43fcdf8095b4ad67265011a19dd9584d55d154231800e91c5fc2d1aa21bb30</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 18:40:00 +0000</pubDate>
+<description>Ubisoft shared some updates on the franchise, including confirmation of a New Game+ option for Assassin's Creed Valhalla.</description>
+<enclosure url="https://www.engadget.com/img/gallery/dont-expect-more-assassins-creed-remakes-anytime-soon/l-intro-1793298942.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/dont-expect-more-assassins-creed-remakes-anytime-soon/l-intro-1793298942.jpg" medium="image"/>
+</item>
+<item>
+<title>NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy</title>
+<link>https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy</link>
+<guid isPermaLink="false">bb4db4a6422f071829129f1012b2481dc614a268fe2c7f7f7c9bbe3e4a200af7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 18:34:43 +0000</pubDate>
+<description>President Trump reportedly chose to do nothing in response.</description>
+<enclosure url="https://www.engadget.com/img/gallery/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/l-intro-1793298712.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/l-intro-1793298712.jpg" medium="image"/>
+</item>
+<item>
+<title>Report: Trump did nothing with intel that China planted spy close to Nvidia CEO</title>
+<link>https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo</link>
+<guid isPermaLink="false">a25f9028d064096669f9e97d8a47ea722a531d5ac73489c90f458095a17fd9e5</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 18:29:12 +0000</pubDate>
+<description>Donald Trump apparently is so aligned with Nvidia CEO Jensen Huang—who has become the president’s key advisor on AI —that he ignored intelligence indicating that Huang was the target of a “Chinese spy plot,” and did so partly to protect Nvidia’s stock. The New York Times spoke with people briefed on US intelligence agencies’ surveillance and granted them anonymity to discuss findings drawn from “classified intelligence.” According to sources, about a year ago, Trump was briefed that “Beijing was getting reports from someone with direct access” to Huang. That “someone” was Alice Huang, or Huang Le, a Chinese citizen and former top executive at a Singapore cloud company called Megaspeed. According to sources, the US had already suspected that Alice Huang—who is not related to Jensen Huang—was helping China evade export controls to gain access to high-end Nvidia chips through Megaspeed. But it alarmed investigators to discover that she may have used her role at Megaspeed to gain direct access to Jensen Huang. It’s now believed she may have leveraged that closeness to feed China intel not only on one of America’s leading AI companies, but also to influence Trump’s thinking on AI. As Treasury Secretary Scott Bessent noted last month ahead of Trump’s AI talks with China President Xi Jinping, “the president is completely aligned with Jensen Huang, the CEO of Nvidia.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook</title>
+<link>https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook</link>
+<guid isPermaLink="false">9c98beda02b8fad590bded47a9807c82bb881f21e6fc4ac46153331fe6bd0877</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 18:20:21 +0000</pubDate>
+<description>The company will also notify parents about conversations with Meta AI.</description>
+<enclosure url="https://www.engadget.com/img/gallery/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/l-intro-1793297699.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/l-intro-1793297699.jpg" medium="image"/>
+</item>
+<item>
+<title>Ikea&amp;#8217;s colorful donut-shaped smart lamp is $20 off</title>
+<link>https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale</link>
+<guid isPermaLink="false">a1504cd7d0d8b8389da4d9e1734065e0161629358ff09c187d72efc31bc5251a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 18:18:36 +0000</pubDate>
+<description>With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April . Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea . Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png", productImageAlt: "iPhone 17e • Unlocked", productTitle: "iPhone 17e • Unlocked", shortDescription: "Save on an unlocked refurbished iPhone 17e", longDescription: "Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.", purchaseUrl: "https://www.awin1.com/cread.php?awinmid=18275&amp;awinaffid=299513&amp;platform=dl&amp;ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com", purchaseLinkText: "Shop At Back Market" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy). At just 180 lumens, it isn’t particularly bright, so it’s better suited for use as a bedside lamp or for mood lighting than being tasked to illuminate a room. The newer model lets you cycle through 12 preset colors, including shades of pink, blue, green, and white, as opposed to just orange with the predecessor. The included wireless remote lets you switch between colors, adjust the brightness, and turn the lamp on or off without needing an app or a separate hub (there’s a power button on the lamp itself) . You can also use the remote to control other compatible Ikea lights. For those who want to embed the Varmblixt into their smart home setup, the lamp supports Matter, allowing it to work with compatible smart home platforms including Apple Home, Google Home, and Amazon Alexa. In addition to letting you control the lights with your voice, this gives you access to hundreds more colors, lets you set lighting schedules and sleep or wake-up routines, and allows you to connect the lamp with motion sensors and other smart lights you may have. You can unlock those features with Ikea’s Dirigera hub , as well, which also offers a feature through its Home Smart app that gradually adjusts the shade of white throughout the day akin to natural daylight. Read our Ikea Varmblixt review.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268444_Ikea_Varmblixt_lamp_JTuohy_0006.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268444_Ikea_Varmblixt_lamp_JTuohy_0006.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Turning a solar power system into its own backup</title>
+<link>https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup</link>
+<guid isPermaLink="false">03f5f5790ea387bdae4cb6f5e6e3a95ea5f97b8e6eaca5c9119ee9542a8c41df</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 18:02:26 +0000</pubDate>
+<description>Rather than directly converting photons into electricity, concentrated solar energy uses mirrors to turn sunlight into heat, which can then be used to drive traditional generating turbines. Up to about a decade ago, there was a case to be made that concentrated solar energy had a bright future, as improvements in heat storage had turned it into a way to generate power around the clock. It wasn't to be. While concentrated solar costs fell enough to compete with nuclear power, the price of photovoltaics plunged, making solar panels the cheapest source of power in most locations. Currently, if you have a good site to generate solar power, then the economics of PV panels are hard to beat. That has left us needing to build a mixture of other facilities—typically batteries and natural gas facilities—to handle overnight needs or weather-driven shortfalls. But a small company is promising that it can help avoid the need to build a separate facility. Its version of concentrated solar is designed so that a fossil-fueled backup system shares most of the generating hardware with the solar side. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg" medium="image"/>
+</item>
+<item>
+<title>Apple’s new laptop supports one of the coolest features for color pros</title>
+<link>https://www.theverge.com/1022347/apple-macbook-supports-new-cmf</link>
+<guid isPermaLink="false">3b28feea08f4b9fe7fc366a7e3012a62743dea1bf8b120767dfb719a32565f51</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 17:48:09 +0000</pubDate>
+<description>The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is the technology it uses to display an accurate picture. It's the first laptop, and only the second product overall, to support Apple CMF 2026 color modes. It could be the future for displays. CMFs, or color-matching functions, mathematically represent how we perceive color, and there are a few different variations. The specification that's been the … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Your headphones have hidden LE Audio features you’ll want to know about</title>
+<link>https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose</link>
+<guid isPermaLink="false">210628a17147ca24aa5bc86bb0fe73d280e00c9cc01751f64ceb5681863bfab6</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 17:45:05 +0000</pubDate>
+<description>Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover — not just Auracast.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/9e735a6c-10a9-41cb-b9a1-8764ebcc13a3.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/9e735a6c-10a9-41cb-b9a1-8764ebcc13a3.jpg" medium="image"/>
+</item>
+<item>
 <title>Utah charges Kalshi and its CEO with illegally promoting online gambling</title>
 <link>https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges</link>
 <guid isPermaLink="false">54ca4ecef7fabb2a2f4e86cca07836530cd8c39d67a7d8e5de2525dcf39a7a0d</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 17:40:23 +0000</pubDate>
-<description>Utah has filed criminal charges against Kalshi and its executives, accusing the prediction market of breaking anti-gambling laws, as reported by The Salt Lake Tribune and the Associated Press . The state has filed 14 charges against Kalshi, as well as CEO Tarek Mansour and COO Luana Lopes Lara, including 12 counts of illegally promoting online gambling. The move marks an escalation in a nationwide battle against prediction market platforms like Kalshi and Polymarket. Utah has already sued Kalshi over claims that it's operating illegally in the state, joining several other states, including New York , Nevada , New Mexico , Washington , Connecticu … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB383_KALSHI_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+<description>Kalshi CEO Tarek Mansour. | Michael Nagle/Bloomberg via Getty Images Utah has filed criminal charges against Kalshi and its executives, accusing the prediction market of breaking anti-gambling laws, as reported by The Salt Lake Tribune and the Associated Press . The state has filed 14 charges against Kalshi, as well as CEO Tarek Mansour and COO Luana Lopes Lara, including 12 counts of illegally promoting online gambling. The move marks an escalation in a nationwide battle against prediction market platforms like Kalshi and Polymarket. Utah has already sued Kalshi over claims that it's operating illegally in the state, joining several other states, including New York , Nevada , New Mexico , Washington , Connecticu … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301796292.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301796292.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street</title>
@@ -24,6 +134,17 @@
 <description>Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bn Shares in the Google parent Alphabet fell double digits Wednesday evening into Thursday trading, erasing hundreds of billions of dollars in stock market value from the $4tn tech giant. The company had reported lower-than-expected profit and a slowdown in its advertising business while it maintained big spending on AI. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acbce01cd0d74b440d256eeab822a646" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acbce01cd0d74b440d256eeab822a646" medium="image"/>
+</item>
+<item>
+<title>Kalshi and its co-founders face felony charges for violating Utah gambling laws</title>
+<link>https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling</link>
+<guid isPermaLink="false">da1b5997a61e624a913d34b516cfece4503e5bcd0ce23af2df2176d14bcd9bc1</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 17:21:33 +0000</pubDate>
+<description>This article was originally published on October 28 and updated on October 29 with information about the felony charges filed against Kalshi and its co-founders . The Trump administration is trying to stop Utah from enforcing its gambling ban against Kalshi, making Utah the 10th state sued by the US government agency that regulates prediction markets. Meanwhile, Utah Attorney General Derek Brown filed criminal charges in a state court against Kalshi and its founders on Wednesday. The attorney general's office provided us with court filings listing charges against KalshiEX, LLC , Kalshi co-founder and CEO Tarek Mansour , and Kalshi co-founder and COO Luana Lopes Lara . Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" medium="image"/>
 </item>
 <item>
 <title>Ubuntu 27.04 may bring a preview of the long-awaited Core Desktop</title>
@@ -68,6 +189,17 @@
 <description>America's national laboratories are leading a consortium to move advanced battery storage technologies from the lab into domestic manufacturing. Dubbed the Battery Manufacturing Accelerator, or BattMan (no, really), the initiative aims to bring together a bunch of national laboratories, universities, and companies to overcome barriers in scaling up new battery technologies. Novel battery storage solutions are needed for applications in the electric grid, datacenters, and electric vehicles, as electrification gradually extends across industry. Batteries have a far lower energy density than fuels such as petroleum , so the hunt for better materials never stops. Researchers also want to improve on the safety of flammable lithium-ion cells , cut production costs, speed up charging, and reduce reliance on scarce raw materials. "The advances we make today in battery manufacturing technology will determine America's energy security and economic competitiveness for decades to come,” said Audrey Robertson, assistant secretary of Energy at the Department of Energy (DoE), which is overseeing the program. Researchers continue to develop new battery materials and chemistries, yet many promising technologies face obstacles on the way from the laboratory to commercial production. According to the DoE, BattMan will tackle that problem by combining super intelligence - known outside of the Trump administration as AI - with advanced manufacturing into a coordinated, data-driven innovation ecosystem. Pacific Northwest National Laboratory leads the consortium, along with Oak Ridge National Laboratory, Argonne National Laboratory and National Laboratory of the Rockies. Academic partners include the University of Washington, Binghamton University, University of Alabama, Arizona State University, and University of Michigan-Dearborn. The accelerator is also building ties with battery and materials manufacturers, and hopes to sidestep critical minerals supply problems by finding battery materials among more abundant, domestically sourced elements. ORNL is contributing its Battery Manufacturing Facility (BMF) R&amp;D center and plans a smart test bed with advanced sensing, real-time monitoring, and data analysis to trial both wet and dry electrode manufacturing. BattMan will also introduce autonomous pilot lines that combine sensing, process monitoring and intelligent control systems to improve product quality and reduce variability in the manufacturing process. The goal is an AI-based manufacturing platform that spots production irregularities as they occur and adjusts parameters on its own to prevent defects. “The BattMan Accelerator is exactly the kind of coordinated national effort that turns scientific breakthroughs into economic and energy security advantages,” claimed distinguished R&amp;D staff member Chins Chinnasamy, the consortium lead for ORNL. Organizations interested in becoming part of BattMan can visit the program website to learn more. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=256727&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=256727&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Google admits AI search makes less money, but it's fixing that with more ads</title>
+<link>https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads</link>
+<guid isPermaLink="false">68ffd79b6629483f73454edc05ff0804db507575cdb417bc14bd5fe99339d58e</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 16:24:55 +0000</pubDate>
+<description>Google parent Alphabet reported its Q3 financial results on Wednesday afternoon, showing a healthy rise in revenue for the months of July to September. But the company's stock price has taken a beating, marking one of the largest post-earnings drops in its history. It comes down to several troubling aspects of the new report, including an admission by the company that AI search isn't earning as much as organic search, and despite that, Google expects to spend even more on AI next year. The company took in almost $128 billion in Q3 2026, earning more than $26 billion in net income. These may sound like good numbers, but financial markets are not impressed. While revenue is up 25 percent versus last year, net income is almost $9 billion lower. As of this story's publication, the stock price is down almost 12 percent, and it was down about 13 percent earlier in the day. While revenue was up 25 percent year over year, analysts expected more. Google reported earnings per share of $2.12, but the consensus projection ahead of Wednesday was $3.02. Google's Cloud products actually beat expectations, crossing $30 billion in revenue. That's about a billion more than analyst guesses. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>This open-source project lets you sync Withings data to other apps without a subscription</title>
@@ -235,17 +367,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2293676090.jpg" medium="image"/>
 </item>
 <item>
-<title>Anthropic is asking Wall Street to believe in AGI</title>
-<link>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</link>
-<guid isPermaLink="false">3a644431de131a7405e5f75f870e18192af0eafc398feaa3ade7127bcc67337c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
-<description>Today on Decoder , I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start trading as soon as next month at a valuation of anywhere between $1.5 trillion and $2 trillion. That would immediately make it one of the most valuable companies on the planet. But the price tag really isn’t the whole story here. The S-1 document published earlier this week is hundreds upon hundreds of pages filled with details that finally paint a picture of the economics of a frontier AI lab. As you might imagine, that picture is both really complicated and built on a series of very, very ambitious assumptions about the future and what AI will do to it . So I wanted to have Joey on the show to help break down what this document tells us, both about Anthropic’s finances and the broader AI economy. Joey and his colleagues at SemiAnalysis actually built a model of Anthropic’s finances from the outside back in July, so he’s been waiting for this filing about as eagerly as anyone, and I was excited to hear his take on what we’ve learned and, importantly, what we still don’t know. Okay: SemiAnalysis’ Joey Brookhart on the Anthropic S-1 and the costs and risks of building frontier AI. Here we go. This interview has been lightly edited for length and clarity. Joey Brookhart, you are an analyst at SemiAnalysis. You’re also co-lead on SemiAnalysis’ Tokenomics model, which is going to come up a lot in this episode. Welcome to Decoder . Yeah, thanks so much, Nilay. I am very excited to talk to you. We’re talking just a couple days after the big Anthropic S-1 was filed. It’s our first look inside of the finances of one of the leading frontier models. What’s your take? What’s your read into it? It was an awesome S-1. It’s been a rough three weeks since the investor day. Some people were somewhat disappointed in the September [annualized recurring revenue] numbers, but what we saw here was a company that has efficiently scaled to an amazing level, with a $1 trillion-plus valuation, $70 billion-plus of ARR in a very short amount of time. In gross margins, compute margins, and free cash flow, everything is what you’d want to see. So I don’t think there was much to nitpick in this filing. It’s the reason you’ve seen a lot of the semiconductor complex, and the neoclouds and compute stocks, really rally again in the last two days. It’s funny, I don’t think I can nitpick the S-1 itself. I want to get into some of the details because there are a lot of numbers in there that are worth thinking about. I actually just want to start at the really big picture. You run a thing called Tokenomics. I’m going to explain what Tokenomics is to people. I look at Anthropic and where it could go. I look at Dario Amodei saying that he can see his way to $1 trillion in revenue. Where does that mone</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Systemd adds support for Rust</title>
 <link>https://www.theregister.com/os-platforms/2026/10/29/systemd-adds-support-for-rust/5306264</link>
 <guid isPermaLink="false">2974aeeaf7a0a255a3ac0e138d9fad340a72d075d7001d91786cdfe193bc6829</guid>
@@ -255,28 +376,6 @@
 <description>Everyone's favorite Unix init system is adding support for the Unix world's favorite new programming language. What's the worst that could happen? Don't worry, this isn't here just yet. Agent P and his trusty team released systemd version 262 about a month ago. That means that systemd 263 is now under construction, and developer Christian Brauner announced on Mastodon that his new feature has been merged. The previous effort, which was pull request #44144, has now been split into five separate parts. Part 1 contains keyring-util and voa-util , described as "helpers for enrolling certificates into kernel keyrings." Part 2, support programs written in Rust , is the banner item. Then come a few more: bind only the headers Rust code uses , wrap the libsystemd-shared helpers systemd-keyring-setup needs , and finally, add systemd-keyring-setup . There are several important riders to the announcement, and these are spelled out in the second PR: "Rust is only used for new leaf components. Existing C code isn't ported and nothing that other components depend on is written in Rust." In other words, before anyone gets too excited, this does not indicate the start of an effort to rewrite systemd in Rust. All it means is that new systemd modules can be written in Rust. The second bullet point will be more significant for existing Rust developers: "No cargo. Everything is built with meson." Cargo is the Rust language’s package manager and build system. It's the normal way to build Rust applications, as well as to distribute modules of Rust code for other Rust developers to use. However, systemd already has a modern build system. It's called Meson and it's not unique to systemd – it is also used extensively by the GNOME project and the Mesa 3D graphics library. Meson itself is written in Python and uses Ninja to manage the compilation process. Ninja was designed to build Chrome faster , and it's also used for Android . The third stipulation is that any Rust code must not use the standard library . For those more familiar with C, this may sound extreme, but it's normal for embedded Rust programming . The project documents the system requirements. It needs Rust version 1.85 or later. That's modest: that version was released in February 2025 , and version 1.99.1 appeared earlier this month. It also calls for bindgen version 0.71.1 ( from December 2024 ) or newer, and Meson 1.4.0 ( from March 2024 ). These are relatively old versions – for instance, it's the Meson version included in Debian 13). Brauner added an interesting little coda in a second Masto post : saying that the team would have liked to support Rust in the core of systemd, but currently, Rust’s support for dynamic libraries isn't quite there yet. It's perhaps worth noting that writing systemd modules in Rust isn't the same thing at all as calling systemd from Rust code. There are several tools for doing that, and they have been around for years: for example, the systemd crate first appeared in 2015. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5306279&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306279&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Amazon’s AI shopping assistant can now edit your grocery lists and gift registries</title>
-<link>https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries</link>
-<guid isPermaLink="false">c9e4e478a9e24f9cfe759e3c019419a01866f65609cedac0f66541d8f6fe6662</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 13:52:48 +0000</pubDate>
-<description>Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now ask Alexa for Shopping to "Create a new shopping list" or "Show me what's left on my wedding registry." The ecommerce giant has continued to expand on its Alexa for Shopping assistant since its official launch in May , while resisting third-party AI shopping agents from companies like Meta and Perplexity . Alexa for Shopping lives next to the search bar across Amazon's app and website, and can do things like set price alerts, compare items, and aut … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/alexa-for-shopping-lists.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/alexa-for-shopping-lists.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>This $149 digital candle uses AI to accurately simulate a flickering flame</title>
-<link>https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame</link>
-<guid isPermaLink="false">ea76deab69b26ba9c7181345813b19c1f7e781721efc99648234370608b9a75f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 13:37:56 +0000</pubDate>
-<description>After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appearance of a flickering flame across a grid of LEDs. It's a far cry from the types of devices Bates is typically known for, including the Arduboy , but paying $79 for a credit card-sized handheld that can play hundreds of games is an easier sell than a $149 digital candle that doesn't quite provide the same ambiance as the real thing, even if it's much safer. At the top of the 10-inch-tall Digital Candle, which is available now with a black or white … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/candle.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/candle.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Critical launch for Vulcan as ULA targets Friday the 13th</title>
@@ -675,17 +774,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-playstation-5-just-might-be-sonys-final-blu-ray-player/l-intro-1793107319.jpg" medium="image"/>
 </item>
 <item>
-<title>Trump admin sues Utah to save Kalshi from the state's total ban on gambling</title>
-<link>https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling</link>
-<guid isPermaLink="false">da1b5997a61e624a913d34b516cfece4503e5bcd0ce23af2df2176d14bcd9bc1</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 19:30:33 +0000</pubDate>
-<description>The Trump administration is trying to stop Utah from enforcing its gambling ban against Kalshi, making Utah the 10th state sued by the US government agency that regulates prediction markets. Utah, which prohibits gambling, sued Kalshi in a state court last week. Utah's lawsuit seeks an order prohibiting Kalshi from offering bets on sports, elections, politics, and other events. “Kalshi runs an online casino in Utah and calls it a prediction market. That violates Utah law,” Utah Attorney General Derek Brown, a Republican, said last week. “Not only do our state laws ban gambling but Utah is one of only two states where gambling is also prohibited under the state constitution. For 130 years, Utah has been clear: gambling has no place here, and we will enforce our laws.” Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" medium="image"/>
-</item>
-<item>
 <title>The last, best hope for space tourism just rolled onto a runway in Arizona</title>
 <link>https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona</link>
 <guid isPermaLink="false">ca9d651545e8c4f2bacecfe1a24c8823de69430a5e81cb33d058632e6e662c94</guid>
@@ -873,39 +961,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple's redesigned MacBook Pro has an OLED touchscreen, weighs just three pounds</title>
-<link>https://www.engadget.com/2299925/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds</link>
-<guid isPermaLink="false">ac81a697627ab1f49041c50375eb0391f15aefbe5425e85f2ed717a6216ec9f2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:13:10 +0000</pubDate>
-<description>It could use a more distinctive name, though.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds/l-intro-1793209936.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds/l-intro-1793209936.jpg" medium="image"/>
-</item>
-<item>
-<title>Fake PS5 emulators on GitHub are spreading password-stealing malware</title>
-<link>https://www.engadget.com/2299912/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware</link>
-<guid isPermaLink="false">ec9aef2a2b9df83795de8124fa4b0608daafdd8882f84196db62445cccffc3e6</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:10:09 +0000</pubDate>
-<description>This is according to the threat research arm of NordVPN.</description>
-<enclosure url="https://www.engadget.com/img/gallery/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware/l-intro-1793207317.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware/l-intro-1793207317.jpg" medium="image"/>
-</item>
-<item>
-<title>The Xreal Aura smartglasses are now on sale for a discounted launch price</title>
-<link>https://www.engadget.com/2299633/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price</link>
-<guid isPermaLink="false">96487388c5819fe5cf42a5c72e18a60334d6cc9a425816ce83073cc6954e3f15</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
-<description>The new wearable is the first of its kind to run on the Android XR platform.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/l-intro-1793202369.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/l-intro-1793202369.jpg" medium="image"/>
-</item>
-<item>
 <title>Amazon tells tokenmaxxing devs to slow their AI roll</title>
 <link>https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090</link>
 <guid isPermaLink="false">780163c74e298a36cbc4ecd1a890530c49d9b70bfd8a102227e68f55b6c8becd</guid>
@@ -926,17 +981,6 @@
 <description>Amazon just dropped new smart home gear in response to Apple. Here’s how the Echo Show 16 stacks up.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" medium="image"/>
-</item>
-<item>
-<title>New York governor signs AI chatbot child safety law</title>
-<link>https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law</link>
-<guid isPermaLink="false">133565d9dc542d086c0038d7f3dc47d0f4fa15ab9ed98131dbc4764a0918e405</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 16:33:01 +0000</pubDate>
-<description>A separate law aims to shore up security on connected baby monitors.</description>
-<enclosure url="https://www.engadget.com/img/gallery/new-york-governor-signs-ai-chatbot-child-safety-law/l-intro-1793205110.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/new-york-governor-signs-ai-chatbot-child-safety-law/l-intro-1793205110.jpg" medium="image"/>
 </item>
 <item>
 <title>GitHub powering up four million extra cores to stop its service going down</title>
@@ -1214,17 +1258,6 @@
 <media:content url="https://image.theregister.com/?imageId=5305884&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip</title>
-<link>https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip</link>
-<guid isPermaLink="false">433e6cf33c878b20096832196ea6e1090ca01bcfb429a03bda03556eb8eefb14</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 22:37:30 +0000</pubDate>
-<description>Apple has announced refreshes for the iMac and the entry-level, 14-inch MacBook Pro . Both machines are getting the M6 chip, which was introduced in the Mac mini several weeks ago. The M6 is split into two variants for the iMac. Picking the "M6 chip with two Thunderbolt ports" option gets you a 10-core CPU and a 10-core GPU, whereas picking "M6 chip with four Thunderbolt ports" gets you 12 cores for each, instead. The two-port variant maxes out at 24 GB of RAM and 1TB of storage, whereas the four-port one maxes out at 32GB of RAM and 2TB of storage. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>AI bots flooded 2023 UK government consultation on disposable vapes ban</title>
 <link>https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban</link>
 <guid isPermaLink="false">a85581efeb426366fd98b73e6a7f516e5fba7e6d20264d32b835d9919de0b00c</guid>
@@ -1234,28 +1267,6 @@
 <description>Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds AI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposable vapes. Three-quarters of all the responses to the 2023 consultation on the tobacco and vapes bill were machine-generated, in what is thought to be the first coordinated attempt to use AI to derail health policymaking in the UK. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/aaba9471514c493b64cda0d52e0de7fe61c3d279/124_0_3703_2963/master/3703.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c99cb2ea26dd7e7e77074116ae50c9f" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/aaba9471514c493b64cda0d52e0de7fe61c3d279/124_0_3703_2963/master/3703.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c99cb2ea26dd7e7e77074116ae50c9f" medium="image"/>
-</item>
-<item>
-<title>South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks</title>
-<link>https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states</link>
-<guid isPermaLink="false">fcb00ac9cbde3b5cc2b6a1cf006db30ddce997842f7b2afa0dff34de5b98b373</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 22:22:32 +0000</pubDate>
-<description>Since measles was declared eliminated in the US in 2000, the country's occasional cases have come mainly from international travelers—visitors from far-flung places where the virus still spreads freely—or unvaccinated US residents who return from abroad with a highly infectious souvenir. But as vaccination rates have slipped nationwide in recent years and outbreaks grow bigger and more frequent, domestic travel now poses a greater risk than international incursions. In a study published this week in NEJM Evidence, Washington state health officials highlight that risk, detailing how an explosive outbreak in South Carolina reached their distant state through five distinct importation events over two weeks in January. In all, the introductions led to 26 cases among residents before officials stamped out the spread. South Carolina's measles outbreak began on October 2, 2025, and was declared over on April 26, 2026. Officials confirmed 997 cases in the state during the outbreak. At the time, it was the largest measles outbreak recorded since the virus was declared eliminated, but Pennsylvania's ongoing outbreak has since surpassed it. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg" medium="image"/>
-</item>
-<item>
-<title>China's top-secret spaceplane can't hide in low-Earth orbit</title>
-<link>https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit</link>
-<guid isPermaLink="false">5a79c7a9e49a50fda50d68f27aacdc349cf0ef416b7f068fcce191216552e08f</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 22:04:50 +0000</pubDate>
-<description>A winged Chinese spacecraft bearing a strong resemblance to the US military's X-37B spaceplane was photographed in orbit by a passing US-owned commercial satellite in 2024, and we finally have the image. The Chinese spaceplane has delta wings, payload bay doors, a dark heat shield, and a rear-mounted service module with power-generating solar arrays. In other words, the design of the winged ship is, to a great degree, a copy of the X-37B spaceplane flown by the US Space Force. The photo was taken by a commercial imaging satellite owned by a company called Vantor, known as Maxar in 2024. Vantor is one of several companies that provide reconnaissance imagery of locations around the world to the US military and US intelligence agencies. The same Earth-imaging satellites can point their telescopes at objects in space. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Big Red gets cozy with Google to offer TPUs to AI customers</title>
@@ -1531,17 +1542,6 @@
 <description>Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/trails-2.png" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/trails-2.png" medium="image"/>
-</item>
-<item>
-<title>Apple’s new OLED iPad Mini is the upgrade I’ve been waiting for – here’s why</title>
-<link>https://www.zdnet.com/tech/apple-launches-new-ipad-mini-with-oled-screen-why-im-getting-one</link>
-<guid isPermaLink="false">1905e56af83a93a321858f3bb66ff8f898a6257707d374299e54da77fcba09b4</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 16:25:16 +0000</pubDate>
-<description>Starting at $799, the 8th-generation iPad mini is up for preorder on October 27 and hits stores on November 6. It’s already on my shopping list.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Apple-iPad-mini-8.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Apple-iPad-mini-8.jpg" medium="image"/>
 </item>
 <item>
 <title>Lara Croft is 30! We look at the video game icon’s biggest blunders</title>
