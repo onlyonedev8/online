@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>A Marathon Runner’s Hard Lesson</title>
+<link>https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html</link>
+<guid isPermaLink="false">e63dcdc6662201c41432aeeb8a83a31686c04dc0576d96d5d055daf5e3a43321</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Thu, 29 Oct 2026 16:57:11 +0000</pubDate>
+<description>Racing in Chicago showed your newsletter host firsthand how warming is disrupting the sport.</description>
+<enclosure url="https://static01.nyt.com/images/2026/10/29/multimedia/29cli-newsletter-marathon-01-bctk/29cli-newsletter-marathon-01-bctk-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/10/29/multimedia/29cli-newsletter-marathon-01-bctk/29cli-newsletter-marathon-01-bctk-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>New Batteries That Store Blistering Heat Are Taking Off</title>
 <link>https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html</link>
 <guid isPermaLink="false">325241b4a0dd568884131bdc4edac5e346587ca7c3f5b242dd201e0852ca0aec</guid>
