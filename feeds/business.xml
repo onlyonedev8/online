@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC</title>
+<link>https://bitcoinmagazine.com/featured/futurebit-apollo-solo-miner-finds-bitcoin-block-973262-earning-3-154-btc</link>
+<guid isPermaLink="false">ebb97ab2df43d92c98fd3fb79a1ba2bc44cfd701640c4adda224d293ac81c3e3</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Thu, 29 Oct 2026 17:57:52 +0000</pubDate>
+<description>Bitcoin Magazine FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC A miner operating through FutureBit ’s Apollo Solo setup found Bitcoin block 973,262 earlier this week, collecting the full reward of 3.154 BTC plus fees from 2,477 transactions. Multiple explorers , including mempool.space , list the finder as “FutureBit Apollo Solo,” and the coinbase transaction includes text referencing FutureBit and Apollo. FutureBit posted about the find on X: “Gradually, then suddenly. We (the people) hit a Bitcoin block today. Bitcoin belongs in the hands of sovereign individuals. And we’re building to keep it there.” The company stated that an Apollo device or Solo Node running its built-in solo pool assembled the block template, served the work, and submitted the completed block to the network. The public record does not identify the exact hardware or hashrate that produced the winning hash. It could have been an Apollo BTC, Apollo II, Apollo III , or other compatible machines pointed at a Solo Node, according to FutureBit’s account of the block. This marks at least the fourth block attributed to FutureBit Apollo Solo. Earlier ones include blocks 867,760 , 881,423 , and 888,737 . FutureBit designs its Apollo hardware for operators who want to run a full Bitcoin node and mine independently at home rather than through large commercial pools. The most recent model, the Apollo III, is rated for up to 18 TH/s in turbo mode with an integrated full node. Bitcoin Magazine covered the Apollo III launch in February 2026 and previously examined FutureBit’s approach to home mining in a July 2025 piece . Solo mining, is often called lottery mining because of the low odds relative to the size of the reward, remains uncommon against a network hashrate that has recently sat near 1,070–1,087 EH/s. A home-scale setup in the 10–18 TH/s range still faces expected times to a block measured in centuries under current difficulty, yet verified solo finds continue to appear on-chain. Bitcoin Magazine examined the mathematics of these odds in an article titled Why Bitcoin Lottery Mining Has Better Odds Than The Powerball . It compared continuous Bitcoin block attempts with the much lower frequency of major lottery draws. Another solo block was found the following day via CKPool Solo, illustrating that individual operators can still capture full rewards even as industrial pools produce the large majority of blocks. For users running FutureBit hardware, the company notes that the individual users control both the node and the solo pool, retaining the full reward when a block is found. Solo mining also has significant privacy benefits, and hardware and energy costs can be written off against taxes in some jurisdictions. The October 26 block is one more validation that solo mining can be viable. Satoshi Nakamoto’s original Bitcoin design intended the full Bitcoin node to be able to mine blocks, not just validate and audit the blockchain. Improvements in hardwar</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-7.webp" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-7.webp" medium="image"/>
+</item>
+<item>
+<title>Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority</title>
+<link>https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority</link>
+<guid isPermaLink="false">d561ec5cf5f7d557827bd5586ee95b036de4a8c86b7024e613d2f417adacf443</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 29 Oct 2026 17:46:02 +0000</pubDate>
+<description>Only 13% of Americans say a candidate’s support for crypto growth is very important, according to a survey conducted by Ipsos for the DeFi Education Fund, even as the industry spends heavily on next week’s elections.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means</title>
+<link>https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means</link>
+<guid isPermaLink="false">68b2bfda2e28d76384e932bf163e6054561b795a130b85da55383c926a9635bb</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 29 Oct 2026 17:15:11 +0000</pubDate>
+<description>A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why that matters for Bitcoin's price.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps</title>
+<link>https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps</link>
+<guid isPermaLink="false">cfa9dbbd7fcab24db9bf3915e621e18a9c272e1352ebc64b5ef6d6d3b5ec3f46</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 29 Oct 2026 17:12:03 +0000</pubDate>
+<description>Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64A2KNXVBJKMFSK75GFQ3JG/hyperliquid-futures-2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64A2KNXVBJKMFSK75GFQ3JG/hyperliquid-futures-2.jpg" medium="image"/>
+</item>
+<item>
+<title>KuCoin suspends services in Russia and Belarus</title>
+<link>https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended</link>
+<guid isPermaLink="false">97abe2544859d093cd88785c868154a3853b0e9b36d0beda08c19bc21e51862e</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Thu, 29 Oct 2026 17:08:41 +0000</pubDate>
+<description>The exchange cited legal and regulatory compliance in its reason for cutting off services to users based in the two countries, currently the targets of international sanctions.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6474T6TR1T4C3BDRR2HK11E/hi-crypto-offers-russia-no-way-out-from-western-sanctions-stablecoin.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6474T6TR1T4C3BDRR2HK11E/hi-crypto-offers-russia-no-way-out-from-western-sanctions-stablecoin.jpg" medium="image"/>
+</item>
+<item>
 <title>4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode</title>
 <link>https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode</link>
 <guid isPermaLink="false">4582350115a19fd8929b6b93213b0c8c30128a39b425c8474b3f23ac7c6ffad9</guid>
@@ -112,17 +167,6 @@
 <description>The French Senate adopted a bill authorizing the automatic exchange of crypto-asset tax information between international tax authorities, pending completion of the legislative process.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63Z0HFSW7F89QRVV968TGA4/hi-crypto-trading-french-regulations-for-individuals-and-businesses-explained2.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63Z0HFSW7F89QRVV968TGA4/hi-crypto-trading-french-regulations-for-individuals-and-businesses-explained2.jpg" medium="image"/>
-</item>
-<item>
-<title>Is Wendy’s About to Go Private? Nelson Peltz Just Made a $1.4 Billion Offer.</title>
-<link>https://www.entrepreneur.com/buying-a-franchise/is-wendys-about-to-go-private-nelson-peltz-just-made-a-1-4-billion-offer</link>
-<guid isPermaLink="false">71262f0da906da2c757f6a25f7dc275f795bbd29341d13e9a88e5abf20103335</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
-<description>Shares jumped 15% after an activist investor group that includes one of the burger chain’s biggest franchisees made its move.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/wendys-going-private-1026_g1256591948.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/wendys-going-private-1026_g1256591948.jpg" medium="image"/>
 </item>
 <item>
 <title>U.S. Treasury Sanctions Crypto Launderers Behind North Korea’s Fake Workers</title>
@@ -686,17 +730,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report</title>
-<link>https://bitcoinmagazine.com/news/google-debuting-a-bank-grade-crypto-tool</link>
-<guid isPermaLink="false">39728a86fa1696825d5a1743b7d6967589aac074306d95dce3093d82d96b758d</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Wed, 28 Oct 2026 17:26:10 +0000</pubDate>
-<description>Bitcoin Magazine Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report Google is reportedly unveiling Google Multi-Party Compute, a crypto custody system that splits signing keys across separate systems, at its first digital assets symposium in New York today. The product is in private preview with several financial institutions. Alphabet has started using it to secure its own assets, according to CoinDesk reporting . Google plans commercial availability in early 2027 and has not disclosed pricing. The system applies multi-party computation to a signing key. The key is divided into fragments held by separate parties or machines, and a transaction requires a set number of fragments to sign. The full key is never assembled in one place. A bank could hold one share on its own hardware, another in Google Cloud, and a third with a rival cloud provider. Institutions can set thresholds such as two-of-three or five-of-seven. Before any signature, a policy engine running inside Google’s Confidential Space checks the transfer against limits, destination restrictions, and approval rules. Google says it has no access to key shares in unencrypted form, per CoinDesk. Crypto’s security issues The pitch rests on a persistent problem. Chainalysis attributed 43.8% of cryptocurrency stolen in 2024 to compromised private keys. DeFiLlama data shows roughly 40% of the $16.69 billion lost to hacks through June came from key compromises. In June, an attacker took seven keys from one developer’s computer during the Humanity Protocol breach and drained wallets across two networks. Such incidents show how concentrated signing authority creates a single point of failure. The industry has responded by recommending multi-vendor multisignature setups that spread control across hardware and software providers. Google also frames the product against AI-enabled fraud. Chainalysis found that scams linked to AI tool vendors averaged $3.2 million per operation in 2025, compared with $719,000 for other scams. The report links the two figures but does not prove that AI caused the difference. Ethereum researcher Justin Drake has warned that AI could eventually find mathematical shortcuts that weaken wallet signatures. No AI system has shown that capability. Google’s MPC design targets stolen credentials and unauthorized transfers, not a break in the underlying cryptography. Quantum computing presents a separate, longer-term risk. Google researchers estimated that a sufficiently powerful future machine could derive a bitcoin private key from an exposed public key in about nine minutes. Roughly 6.9 million bitcoin have exposed public keys. Google says its architecture can adopt post-quantum signatures later without forcing institutions to rebuild their systems, but it has set no timetable. Background on how quantum machines threaten bitcoin explains which addresses are most exposed. Google enters a market led by Fireblocks, Fordefi, and BitGo. Google argued to Coin</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/Google-Debuting-a-Bank-Grade-Crypto-Custody-Tool-Built-on-Split-Keys-Report.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/Google-Debuting-a-Bank-Grade-Crypto-Custody-Tool-Built-on-Split-Keys-Report.jpg" medium="image"/>
-</item>
-<item>
 <title>Crypto PAC spending before midterms possibly obscured after reported FEC hack</title>
 <link>https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack</link>
 <guid isPermaLink="false">8a54ef6a310edd637b2116a52b5abe9d168e97d297930706303d84b679a39a21</guid>
@@ -717,6 +750,17 @@
 <description>STRC will begin paying dividends for every calendar day from November, with STRF, STRK and STRD following in January.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Why YouTube Marketing Is the New Backbone of Digital Discovery</title>
+<link>https://www.entrepreneur.com/building-a-business/marketing/why-youtube-marketing-is-the-new-backbone-of-digital-discovery</link>
+<guid isPermaLink="false">f467117b8d5f34e6ffffdf06810abef7c2f51a5c9bf44e7bec63df2021488488</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
+<description>Learn how YouTube can help your business get found everywhere online.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/youtube-marketing-1026-g-1761221261.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/youtube-marketing-1026-g-1761221261.jpg" medium="image"/>
 </item>
 <item>
 <title>Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings</title>
@@ -807,17 +851,6 @@
 <media:content url="https://imgproxy.divecdn.com/f71vv9pbdAHUvfi2QcoEeo8xHTQUoXGnzWfRHlhCiYc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ0Mzk4MDI1LmpwZw==.webp" medium="image"/>
 </item>
 <item>
-<title>Google Cloud outlines MPC service for institutional Bitcoin custody</title>
-<link>https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody</link>
-<guid isPermaLink="false">6a4f4e226db0bda92d2064787b0adf4b2f2cab6a03ca6534a2e94e16133e8bac</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 28 Oct 2026 13:47:51 +0000</pubDate>
-<description>Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M619SGSQW5DZ53QZ9KGCW2W1/hi-what-is-google-and-how-does-it-work.jpg" medium="image"/>
-</item>
-<item>
 <title>House Oversight Chair Comer Probes Delaware Plan for AI-Run Companies</title>
 <link>https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies</link>
 <guid isPermaLink="false">668e45c12472b2ee2c892d4780bd50af2b71dc232c7c6ceb63d3105033746569</guid>
@@ -827,17 +860,6 @@
 <description>James Comer warned the proposed "AIC" could shield AI firms from liability, and asked Delaware's governor for documents by November 9.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-17-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-17-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Cybersecurity’s Black October: How to protect yourself</title>
-<link>https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself</link>
-<guid isPermaLink="false">20a8a97a59536bf653d58ac31b4cd0f5c6f0a76f938b29737714f5c033dc3e96</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 28 Oct 2026 13:30:00 +0000</pubDate>
-<description>Each day brings news of another AI-powered attack, or a newly discovered vulnerability. Here’s what’s happening and how ordinary people can protect themselves online.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2T7CFH7Z6NC9XTVMGFV98/magazine-magazine-meet-the-do-good-hackers-brute-forcing.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2T7CFH7Z6NC9XTVMGFV98/magazine-magazine-meet-the-do-good-hackers-brute-forcing.jpg" medium="image"/>
 </item>
 <item>
 <title>Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain</title>
@@ -994,17 +1016,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/nextpredict-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>OpenAI Proves ETH Is False, and Crypto Twitter Has Questions</title>
-<link>https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions</link>
-<guid isPermaLink="false">18ca101333ea3746781d94c119f532f576ebc24f2782806aa6fdc084385e7ac3</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 27 Oct 2026 16:53:13 +0000</pubDate>
-<description>A new OpenAI paper declares ETH false, a claim that hundreds of research papers lean on. Crypto Twitter degens and serious mathematicians are abuzz.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/panic-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
 <title>PNC CEO: AI will change the M&amp;A landscape</title>
 <link>https://www.bankingdive.com/news/pnc-ceo-ai-will-change-ma-landscape/872898</link>
 <guid isPermaLink="false">6417929bacbc033d0b34cfe1d087e52f1107fc0bde7c7aea24ce3b5c004b522b</guid>
@@ -1025,16 +1036,5 @@
 <description>The fintech is building on its charter victory by announcing expanded partnerships with BNY and Robinhood.</description>
 <enclosure url="https://imgproxy.divecdn.com/xzzDxWGLCdEGAklAphCI2_9BbX1F1ojLMnbOXu1OJ4c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NTExNjU3NjIuanBn.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/xzzDxWGLCdEGAklAphCI2_9BbX1F1ojLMnbOXu1OJ4c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NTExNjU3NjIuanBn.webp" medium="image"/>
-</item>
-<item>
-<title>McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone</title>
-<link>https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone</link>
-<guid isPermaLink="false">465df959f4cf99a9ef19285f60c73b3a73714c2019e1d56a00f425d7f34018c7</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 27 Oct 2026 14:31:02 +0000</pubDate>
-<description>Crypto traders think the McRib’s return to McDonald's means a Bitcoin pump is coming. Experts say there is "no correlation at all."</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/mcdonalds-mcrib-decrypt-style-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/mcdonalds-mcrib-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 </channel></rss>
