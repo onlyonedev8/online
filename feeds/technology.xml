@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>LibreOffice's 'no AI' stance meets LLM-assisted code</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084</link>
+<guid isPermaLink="false">0293163764e5a74a48cf47fb4edb7e9b68fdf21172eb5b2520e4b219edafad44</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 11:29:00 +0000</pubDate>
+<description>The Document Foundation (TDF) says LibreOffice has no built-in AI features and that its core developers do not use LLMs - but community contributors face different rules. In a Fediverse post , someone who goes by the handle of argv[-1] highlights three LibreOffice commits this year that acknowledge the use of LLM coding assistants. Two of them – Inheritance when setting paragraph style font size to 100% or +0pt and Enable relative font sizes in Calc cell styles – date from April and credit Claude with helping identify the fixes. More recently, September's Add Copy Image button to screenshot dialog acknowledges using GitHub Copilot in VS Code to generate the BitmapTransferable class, while the copyButtonHandler method was written manually with LLM/code-completion assistance. This is hardly a fatal flaw – after all, it's getting hard to find any major FOSS project with absolutely no LLM-generated code in it these days. However, The Document Foundation says that the leading FOSS office suite is AI-free. As we noted when it released version 26.8 in August , we interpret this statement as a jab at its former development partner Collabora. Back in June, we noted that increased AI integration was a headline feature in Collabora CODE 26.04 . CODE is Collabora's web-based office suite, based on LibreOffice code. TDF – the primary maintainer and custodian of LibreOffice since its 2010 fork from Oracle-controlled OpenOffice.org – has made the absence of built-in AI a selling point. In September, it published a blog post declaring that no AI is now a feature . Meanwhile, on October 21, TDF announced 9.4 million downloads over eight weeks – excluding Windows updates and downloads of older releases, which are counted separately. The foundation acknowledged that the reasons for the growth are difficult to determine. TDF's direct response on Mastodon is dismissive: "Ah, another high-quality Mastodon discussion. Again: No core developers use LLMs. We rely on contributions from the wider community and don't explicitly list tools people can't use – but we do require people disclose when they use LLMs and generally discourage the practice. We carefully review submissions by contributors to make sure the code quality is good and that the patch author understands their own code. LLMs are prohibited for students. That is not 'slop'." In other words, TDF's approach resembles what some commenters have compared to the Debian approach : LLM coding assistants are permitted for some contributors, subject to disclosure and human review. For AI advocates, this is the only pragmatic response – which could be summarized as the "AI is just a tool" school of thought. However, since this admission does seem to contradict the very visible public no-AI message, some LibreOffice users are really rather unhappy. Our favorite comment so far is from Argentinian developer Federico Schonborn , who slyly noted : "When a bakery announces they won't put asbestos in their cake frosting you mus</description>
+<enclosure url="https://image.theregister.com/?imageId=5300113&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5300113&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Computerized clairvoyance: psychics push back against AI-generated readings</title>
+<link>https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings</link>
+<guid isPermaLink="false">92917d16ee744358d02b361f464134606fccfac0ad76b87f567159602c344fc7</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 11:00:31 +0000</pubDate>
+<description>Human practitioners warn computer-generated offerings lack the empathy and connection central to divination “This journey isn’t just about algorithms or data,” an AI psychic named Urban Mystic recently told me. The chatbot, featuring an AI-generated profile photo of a smiling woman surrounded by palm trees, also said I will get married soon, that I have a pink aura and that I may have been an herbalist in a past life. “It’s about connecting on a soulful level,” the chatbot said. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/8965bdb4347fba9c905e802374a3cebfea5c77ac/375_0_2250_1800/master/2250.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5489025f0da1fb4911b983fc53a6744" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/8965bdb4347fba9c905e802374a3cebfea5c77ac/375_0_2250_1800/master/2250.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5489025f0da1fb4911b983fc53a6744" medium="image"/>
+</item>
+<item>
+<title>Night Plane review – join the jumbo jet to hell in this indie horror game</title>
+<link>https://www.theguardian.com/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game</link>
+<guid isPermaLink="false">1e4c07a23d0712e582f9f8d85e6c89306449504eaa2edf23bb8df339ad921dee</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 11:00:30 +0000</pubDate>
+<description>Liquid Static Studio; PC You take on the role of flight attendant in this clever and absorbing retro-style game that veers from daft horror spoof to genuinely disturbing There was always something creepy about the job-simulator genre. All those mindless automatons queueing up to use your bus, bar or bed store, or whatever workplace you are trapped in for the duration of the game. The endless repetitive tasks. The emptiness of the world beyond your corporate existence. Together, these elements scream existential terror … which is perhaps why we are now seeing a new indie sub-genre of job sim horror games, including Home Safety Hotline, Dredge and more recently, Grease Trap ’99, a Lovecraftian mystery set in a Scottish chip shop. Now, we have Night Plane, in which you take on the role of a flight attendant on a jumbo jet to hell. It all starts kind of normally. You turn up for the first day of your new job, meet your colleagues, then take your spot at the departure gate, checking in customers and being careful to root out anyone with invalid tickets. Once on the plane, you roll your trolley down the aisle, serving booze and inedible meals, and occasionally dealing with passenger complaints. Then the plane crashes and, frankly, it all goes downhill from there. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19f241367cbafbef52c1dc7a882c6b69" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19f241367cbafbef52c1dc7a882c6b69" medium="image"/>
+</item>
+<item>
 <title>Traces of new Pi hardware spotted in GitHub</title>
 <link>https://www.theregister.com/personal-tech/2026/10/29/traces-of-new-pi-hardware-spotted-in-github/5306022</link>
 <guid isPermaLink="false">56f2ab6ea2cc985a432b2c09365c41e66cbb44406e8a6d34995ea6b3368e47b9</guid>
@@ -1368,17 +1401,6 @@
 <media:content url="https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e19906e9d5ab9ed0fc84eecf015ce14" medium="image"/>
 </item>
 <item>
-<title>CurrentBody Series 3 review: a fully customisable LED mask that helps exactly where you need it</title>
-<link>https://www.theguardian.com/thefilter/2026/oct/27/currentbody-series-3-review-tested-uk</link>
-<guid isPermaLink="false">fdf52da94413c041bd71948dcfe4b2b84df111ead7b62dcc0b3ce8fd9aa73926</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 10:00:07 +0000</pubDate>
-<description>With six light wavelengths and almost endless ways to combine them, CurrentBody’s latest sets a new standard for red light therapy devices • The best LED face masks CurrentBody’s LED masks have long been my favourite. They’re comfortable, simple to use and effective. My previous favourite, the now-discontinued CurrentBody Multi Light Therapy LED mask , offered five treatments that used different light wavelengths to address multiple skin concerns. The company’s latest mask, the new Series 3, has the most detailed customisable treatments I’ve ever seen. This isn’t the first LED mask I’ve tried that allows its user to select different treatments for different areas of the face. The Lustre Renew Pro Facewear allows you to choose from two treatments across four different zones, with 16 possible combinations. The Series 3 takes this much further, allowing you to choose between six light wavelengths across 125 light points on the mask. If you stick to one wavelength per light point, that’s 6 12 5 combinations available. That number is longer than I can reasonably comprehend, so allow me to call its level of customisation endless. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/295a125bf2c6e321ab1c8a534eb3515172a6d731/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8aad12e0e62bee95fa4a729b9a712b3" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/295a125bf2c6e321ab1c8a534eb3515172a6d731/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8aad12e0e62bee95fa4a729b9a712b3" medium="image"/>
-</item>
-<item>
 <title>Year of Linux on the Beach confirmed</title>
 <link>https://www.theregister.com/offbeat/2026/10/27/year-of-linux-on-the-beach-confirmed/5305385</link>
 <guid isPermaLink="false">328357ab7482c4f0cd7eb8b1cf191cc771bc0a7c71234e2f3e75f9b4a8d72b96</guid>
@@ -1467,17 +1489,6 @@
 <media:content url="https://image.theregister.com/?imageId=5305597&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574</link>
-<guid isPermaLink="false">32da62b79081a52cc32d58bb62a1f5fbdcfddd64f04b4b44ca0f1711041a72da</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 23:08:59 +0000</pubDate>
-<description>OpenAI has added a mid-range model to its GPT-6.1 family, offering strong performance at a lower price. The AI business' general-purpose models span four tiers. Products named "Sol" or "Astra" are its high-end offerings and come with price tags to match. "Luna" models are its cheapest offerings. This new model gets the "Terra" treatment the company reserves for mid-range models. "Terra continues to advance the cost-intelligence frontier across our model families, providing a new balance of speed, capability, and cost," OpenAI said . "Its standard API prices are 50 percent lower than those of GPT-5.6 Terra and GPT-6.1 Sol, making it practical for developers to automate high-volume work, like reading incoming invoices and entering their details into accounting software." Artificial Analysis, a site that tracks model performance and cost, notes that GPT-6.1 Terra pushes the cost efficiency frontier. "It is the first Terra-class model since GPT-5.6, and is more intelligent for less than a third of the cost," the site says. GPT-6 Luna ($0.10/M input tokens, $0.50/M output) occupies the lowest tier of OpenAI's model lineup in terms of cost and capability, followed by GPT-6.1 Terra ($1/M, $5/M), GPT-6.1 Sol ($2/M, $10/M), and GPT-6 Astra ($10/M, $50/M). In a comment posted to Hacker News, Ted Sanders, a member of technical staff at OpenAI, framed the differences between the various GPT-6.1 models thus: "In the case of GPT-6.1 Terra, I'd say Terra is probably better than Astra and Sol at technical communication, similar on vision and computer use (but much faster!), and a bit worse on most other things. For API developers, it's a nice midrange option if you want something cheaper than Sol but a lot smarter than Luna (especially for vision/computer use/communication)." "For subscribers, it's not a bombshell release – if you're hitting usage limits, maybe it helps you go a bit further, and if you want clearer communication or faster computer use, it can be a nice option to select." Terra's knowledge cutoff date, June 1, 2026, means it is the most up-to-date of its model family. Perhaps that counts for something if you're asking questions about events after April 30, 2026 – the training data cutoff for Astra and Sol. In terms of model safety, Terra handles harmful requests a bit less frequently than GPT-6.1 Sol but also avoids unnecessary refusals more often than its more capable sibling. But as noted by Max Woolf, a data scientist, in a recent blog post , the real story here is the economics of AI models. Despite the widespread expectation that OpenAI and Anthropic will have to raise the cost of AI inference (or reduce the value provided via subscription) to bring revenue closer to the extravagant sums these companies are spending on model training, inference, and infrastructure, he notes that prices keep coming down and model performance keeps going up. "The idea that token prices will suddenly rise is more a fantasy that is not supported by both behavior</description>
-<enclosure url="https://image.theregister.com/?imageId=5305594&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305594&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Github competitor Entire is live now – how the agent-first platform works</title>
 <link>https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge</link>
 <guid isPermaLink="false">2af20c824aa95b467a5d94694d2e4960f97a65d0685b280da95d9e4ed581251d</guid>
@@ -1555,17 +1566,6 @@
 <media:content url="https://i.guim.co.uk/img/media/4f1356823052f403fc9b5a13c8f45e5e5aa596d6/1367_680_4321_3456/master/4321.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8aac3a9548af9cd855e43b87385cd12a" medium="image"/>
 </item>
 <item>
-<title>Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game</title>
-<link>https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game</link>
-<guid isPermaLink="false">49d386d98d396b36d5fb1fc13c8eb4076060acca277ab0c3f36fb721fec3dcee</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 04:00:06 +0000</pubDate>
-<description>Activision; PC, PS5, Switch 2, Xbox From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game And so we return perhaps one final time to Call of Duty’s Modern Warfare strand, with stories, “ripped from the newspaper headlines”, featuring shady terror organisations, nefarious rogue states and the brutally capable, monosyllabic war fighters who stand between us and Armageddon. Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extra pressure on Infinity Ward, the studio leading Modern Warfare 4 development. Fortunately, this developer – like series heroes Price, Gaz and Ghost – seems to thrive on pressure. As you may have read , this year’s campaign is based around a fictitious North Korean ruling family that has seized an opportunity to invade its southern neighbour. Amid the chaos, a small group of Korean and American marines must help lead the fightback, while in the shadows, SAS hard man John Price makes an unlikely new comrade in his own morally ambiguous quest to put the world to rights. Mads Mikkelsen pops up as evil mastermind The Archer, but like Kiernan Shipka in Black Ops 7 he’s rather wasted, with very little screen time. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/aadca8b8e8a16323ad37c7be1f9c2e7e409cc7c9/573_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58cce49e66c95b56a6dda2490237751c" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/aadca8b8e8a16323ad37c7be1f9c2e7e409cc7c9/573_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58cce49e66c95b56a6dda2490237751c" medium="image"/>
-</item>
-<item>
 <title>Labor and the Coalition are poised to take a reckless gamble on AI. Haven’t they realised community support has collapsed? | Edward Santow and Sarah Sacher</title>
 <link>https://www.theguardian.com/technology/commentisfree/2026/oct/21/labor-coalition-poised-to-take-reckless-gamble-on-ai-joint-select-committee</link>
 <guid isPermaLink="false">94e226f7256558892f59c79be879a0b1942d00d2e25f922f98c9125fe5d17191</guid>
@@ -1619,17 +1619,6 @@
 <description>Upgraded, cheaper AirPods have noise cancelling, sound and controls to rival many plugged-in buds but without tips Apple’s latest AirPods set a new standard for open-fit buds with upgraded noise cancelling that now rivals many plugged-in designs of the same price. The AirPods 5 have the same design the popular AirPods 4 offering an option for those that do not like silicone ear tips used by most noise cancelling earbuds. They come in two versions, with or without a wireless charging case and swipe controls, costing from £119 (€149/$129/A$219) – £10 cheaper than the launch price of their predecessors . Connectivity: Bluetooth 5.3, SBC, AAC, H2 chip Battery life: four or five hours with ANC (22 hours with case) Water resistance: IP57 (up to 1 metre for 30 minutes ) Earbud dimensions: 30.2 x 18.3 x 18.1mm Earbud weight: 4.3g each Charging case dimensions: 46.2 x 50.1 x 21.2mm Charging case weight: 32.3g/34.7g Case charging: USB-C or wireless (Qi or Watch) Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/fac7d19ff3b0a516b0fb7615437f0920d7ffc117/1640_855_4071_3257/master/4071.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a03c7dbc718d359c9e1ccb5e64b78a17" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/fac7d19ff3b0a516b0fb7615437f0920d7ffc117/1640_855_4071_3257/master/4071.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a03c7dbc718d359c9e1ccb5e64b78a17" medium="image"/>
-</item>
-<item>
-<title>Systolic style: meet the medical-grade smartwatch revolutionising blood pressure monitoring</title>
-<link>https://www.theguardian.com/tech-meets-fashion/2026/oct/12/medical-grade-smartwatch-for-blood-pressure-monitoring</link>
-<guid isPermaLink="false">ecbc0219ff8e08f40e66b2c54fd17635fda3c8ce908e5f72ac383ae07a57cbd7</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 13:06:53 +0000</pubDate>
-<description>An estimated one-third of adults in England have high blood pressure, with research showing that many are unaware of their condition. But thanks to the new Huawei Watch D3, monitoring blood pressure is easier, accurate and more stylish than ever Wearable technology has come a long way in the past decade. Take a look around at your colleagues, friends and family, and you’ll be hard pushed to find anyone not wearing some kind of health monitoring ring, watch or band – there are even tracking insoles and patches, too. These gadgets have myriad benefits – not least, allowing us more control and insight over our health and wellbeing than ever before. We’re able to monitor everything from sleep and stress to heart health and more, and the technology is becoming more refined and intuitive seemingly by the day. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/49b834d96d1ade4048a2468097a50ac80cb521d4/2_0_4668_3737/master/4668.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29a59ff7ab8538150da3f3c201ea607c" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/49b834d96d1ade4048a2468097a50ac80cb521d4/2_0_4668_3737/master/4668.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29a59ff7ab8538150da3f3c201ea607c" medium="image"/>
 </item>
 <item>
 <title>iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone</title>
@@ -1707,27 +1696,5 @@
 <description>Solid battery life, snappy performance and quality software make for a great smaller phone with a killer camera Google’s latest Pro phone is out to prove it has the best camera on a smartphone while embracing customisation, allowing you to change the look and feel of your photos far beyond simple filters even if that means making them technically worse. The Pixel 11 Pro packs the best of Google’s hardware and software into a still-pocketable and easy to handle frame, instantly making it a contender for best smaller phone of the year. Screen: 6.3in 120Hz QHD+ OLED (495ppi) Processor: Google Tensor G6 RAM: 12 or 16GB Storage: 256, 512GB or 1TB Operating system: Android 17 Camera: 50MP + 48MP UW + 48MP 5x tele; 42MP selfie Connectivity: 5G, eSIM, wifi 7, UWB, NFC, Bluetooth 6, Thread and GNSS Water resistance: IP68 (1.5m for 30 minutes) Dimensions: 152.7 x 71.9 x 8.4mm Weight: 204g Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/1f7b16f7cb0cb041333ee55966a578d61421c820/1338_340_4309_3447/master/4309.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7681adc594054ecef37deac85ab78d8" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/1f7b16f7cb0cb041333ee55966a578d61421c820/1338_340_4309_3447/master/4309.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7681adc594054ecef37deac85ab78d8" medium="image"/>
-</item>
-<item>
-<title>Intuitive living is the latest wellness trend – meet the new tech making it work</title>
-<link>https://www.theguardian.com/tech-meets-fashion/2026/may/21/how-intuitive-living-tech-is-shaping-the-future-of-wellness</link>
-<guid isPermaLink="false">e50a96f239ca0e8925211779302e53bc0f6eb3d11df8a42ed015ac32f573ffe9</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 21 May 2026 14:12:47 +0000</pubDate>
-<description>Wellness culture can be overwhelming, but a more fluid approach is emerging. Smart devices such as the Huawei Watch Fit 5 perfectly embody this shift in direction – whether you’re regularly sleep tracking or just occasionally using data to support your lifestyle When it comes to the world of health and wellness, it’s easy to suffer from information overwhelm. We’ve never had more access to data, research and expertise which, while valuable, isn’t always applicable to our own lives. What’s more, few of us have time to spend hours sifting through content to devise a personalised health routine, let alone work out if a “routine” is necessary at all. All this information and expectation can come at a cost: emotional strain, guilt and confusion about where to turn. Health and fitness then start to feel like abstract milestones that we’re blindly chasing rather than important components of our lives. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/e2aff2fa381359d37c7e8dd86fda50eb2c2a6417/81_0_4800_3840/master/4800.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=13393ae959389cabdcac0f2bb673e7cc" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/e2aff2fa381359d37c7e8dd86fda50eb2c2a6417/81_0_4800_3840/master/4800.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=13393ae959389cabdcac0f2bb673e7cc" medium="image"/>
-</item>
-<item>
-<title>The story of ‘earvolution’: from ceremonial piercings to fashion-statement earbuds</title>
-<link>https://www.theguardian.com/tech-meets-fashion/2026/jan/26/the-evolution-of-earbuds-from-ceremony-to-fashion</link>
-<guid isPermaLink="false">a69ec0c78ff0e95778ed592d79984567ef17f0dc595fb9b972f0a2d66482ef93</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 26 Jan 2026 15:25:47 +0000</pubDate>
-<description>For millennia, humans have been captivated by ear decorations. Now, earbuds not only connect us to the digital world, they also showcase our personal sense of style – and the HUAWEI FreeClip 2 is at the forefront of that development When we are born, a cry can let the world know that we are healthy and OK. When we first begin to talk, we learn to express our needs and understand the needs of others. As we grow older, we learn that the sound of a siren denotes danger, that certain notes swelling together create the sound of a favourite song which lifts our spirits, or that a warm familiar voice on the other end of the phone means our best friend has our back. Our ears give us grounding and clues: they are our maps of the world, guiding us towards truth, keeping us from harm, giving us a constant stream of sensory information. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/3dfe99eda464963ab1a8ff59e45a6bd55596c95a/460_0_4602_3681/master/4602.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b81a96104bd9d07bf629f184a083dac4" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/3dfe99eda464963ab1a8ff59e45a6bd55596c95a/460_0_4602_3681/master/4602.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b81a96104bd9d07bf629f184a083dac4" medium="image"/>
 </item>
 </channel></rss>
