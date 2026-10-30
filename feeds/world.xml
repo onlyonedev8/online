@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>3 dead in midair crash of 2 helicopters near Oregon airport: Sheriff</title>
+<link>https://abcnews.com/US/2-helicopters-collide-mid-air-oregon-airport-faa/story?id=137690382</link>
+<guid isPermaLink="false">6da9300a30bfdb7f2de2c4ca2faa0a661d1b0e50340c1214269f673c0cc127e4</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 30 Oct 2026 04:56:09 +0000</pubDate>
+<description>The incident occurred Thursday afternoon near McMinnville Municipal Airport, according to the FAA.</description>
+<enclosure url="https://s.abcnews.com/images/US/AP26303116684562_1793335940424_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/AP26303116684562_1793335940424_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Binance security breach has $6.3 billion impact in potential record crypto heist</title>
 <link>https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist</link>
 <guid isPermaLink="false">fe7cd8ca8416b4e0db11b89c037917bd7bbe0d3a6159d2bf52a9966c11f14c4e</guid>
@@ -13,17 +24,6 @@
 <description>Binance said on Thursday that a security breach had affected an estimated $6.3 billion in assets, potentially making it the biggest cryptocurrency heist on record. The world's largest crypto exchange said it had recovered or frozen about $3 billion, while the incident sent Bitcoin and other digital currencies lower.</description>
 <enclosure url="https://s.france24.com/media/display/ac356662-d401-11f1-8552-d18c5759e759/w:1024/p:16x9/Part-GTY-1496426886-1-1-2.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/ac356662-d401-11f1-8552-d18c5759e759/w:1024/p:16x9/Part-GTY-1496426886-1-1-2.jpg" medium="image"/>
-</item>
-<item>
-<title>3 dead in midair crash of 2 helicopters near Oregon airport: Sheriff</title>
-<link>https://abcnews.com/US/2-helicopters-collide-mid-air-oregon-airport-faa/story?id=137690382</link>
-<guid isPermaLink="false">6da9300a30bfdb7f2de2c4ca2faa0a661d1b0e50340c1214269f673c0cc127e4</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 30 Oct 2026 02:32:07 +0000</pubDate>
-<description>The incident occurred Thursday afternoon near McMinnville Municipal Airport, according to the FAA.</description>
-<enclosure url="https://s.abcnews.com/images/US/crash-main_1793316105062_hpMain_16x9_1600.jpeg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/crash-main_1793316105062_hpMain_16x9_1600.jpeg" medium="image"/>
 </item>
 <item>
 <title>Netanyahu bloc in lead without majority in Israel election, say official results</title>
@@ -403,7 +403,7 @@
 <title>FIFA to double Women's World Cup prize money - but it doesn't match men's tournament</title>
 <link>https://news.sky.com/story/fifa-to-double-womens-world-cup-prize-money-but-it-doesnt-match-mens-tournament-13605433</link>
 <guid isPermaLink="false">394060ea9142fadf19bd9e762922ca0783409af95b145cc725b763980d27c65e</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Thu, 29 Oct 2026 16:25:00 +0000</pubDate>
 <description>FIFA plans to double Women's World Cup prize money next year but will not deliver on Gianni Infantino's ambition to match the cash paid out at the men's tournament, Sky News has learnt.</description>
@@ -455,7 +455,7 @@
 <media:content url="https://s.france24.com/media/display/69b9495e-d38c-11f1-a445-efcc5769f1db/w:1024/p:16x9/P-P-US-ECONOMY-oct-29.png" medium="image"/>
 </item>
 <item>
-<title>Google owner Alphabet suffers its worst-ever day on stock market - as value plunges $500bn</title>
+<title>Why Google stock has plunged $500bn in a single day</title>
 <link>https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428</link>
 <guid isPermaLink="false">15cc0de50ada9e7d8b430889dd08fcc714cb24f9b277f6853d6874779ba14786</guid>
 <source>Sky News Home</source>
@@ -563,6 +563,17 @@
 <description>The watchdog told lawmakers it was a contractual matter.</description>
 <enclosure url="https://s.abcnews.com/images/International/UKRAINE-CRISIS-RUBIO_1793244442109_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/International/UKRAINE-CRISIS-RUBIO_1793244442109_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Manosphere as bad as tobacco in terms of harm, report warns</title>
+<link>https://news.sky.com/story/manosphere-content-poses-danger-to-public-similar-to-tobacco-report-warns-13605324</link>
+<guid isPermaLink="false">f0d0cd0658b10db90314a282d176c832c4483972b8fd2d258532695d18c3e75f</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Thu, 29 Oct 2026 12:57:00 +0000</pubDate>
+<description>Social media "manosphere" communities should be treated as a public health issue, a new report says - comparing them to the tobacco industry.</description>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-computer-hacker_7382910.jpg?20261021144857" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-computer-hacker_7382910.jpg?20261021144857" medium="image"/>
 </item>
 <item>
 <title>Billionaire tax, transgender rights, voter access among key midterm ballot measures</title>
