@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Wikipedia’s operator says a bad AI copyright ruling could threaten the open web</title>
+<link>https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright</link>
+<guid isPermaLink="false">c096782638d443ac76bdbc5e974cfdf493b73cc038b906e04c2712b375002ee2</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+<description>The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger the open web. In an amicus brief filed Friday, the nonprofit behind Wikipedia weighed in on a set of lawsuits pitting publishers including The New York Times against OpenAI and Microsoft, taking neither side. "Wikimedia is concerned that the parties' positions in this case push for overbroa … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Binance hacked for an estimated $6.3 billion in record crypto theft</title>
+<link>https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft</link>
+<guid isPermaLink="false">2143767e827cd864946717c887932268491d3302ddb47fffd86474943b9b2347</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 08:24:55 +0000</pubDate>
+<description>Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.</description>
+<enclosure url="https://www.engadget.com/img/gallery/binance-hacked-for-an-estimated-6-3-billion-in-record-crypto-theft/l-intro-1793348577.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/binance-hacked-for-an-estimated-6-3-billion-in-record-crypto-theft/l-intro-1793348577.jpg" medium="image"/>
+</item>
+<item>
+<title>North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist</title>
+<link>https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack</link>
+<guid isPermaLink="false">06dd76803e8b9715c50769198cafda26957670070c68552e392ea691a9228b03</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 08:19:38 +0000</pubDate>
+<description>Cryptocurrency exchange scrambles to freeze affected, with about $3bn located so far The world’s largest cryptocurrency exchange has been hit by an industry-record $6.3bn (£4.6bn) hack, with experts identifying North Korea as the likely culprit. Binance has scrambled to freeze the affected assets, with about $3bn located so far. The company gave no update on the other $3.3bn as Binance’s co-founder Yi He said the company would cover “all hacking losses”. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/a0e5af33d483d9aab5e06bd85fc2dc72c9948b20/333_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=842ec8088e52df8bd83ba9aee4bff656" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/a0e5af33d483d9aab5e06bd85fc2dc72c9948b20/333_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=842ec8088e52df8bd83ba9aee4bff656" medium="image"/>
+</item>
+<item>
 <title>General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit</title>
 <link>https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit</link>
 <guid isPermaLink="false">65eeab64fed21e0b54076dbfea04aeebc0e21585e123f7910e4c1b3e033350aa</guid>
@@ -48,13 +81,24 @@
 <media:content url="https://image.theregister.com/?imageId=5306552&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>Electrocutions, disease and no pay: how workers risk exploitation in Europe’s datacentres</title>
+<link>https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres</link>
+<guid isPermaLink="false">19cc2aa1ce3c4e3fd6787c4a6fe922bf7bbc313d2d15b42213daf5d6f6383c94</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 05:00:46 +0000</pubDate>
+<description>As thousands of datacentres are constructed across Europe, the Guardian and Investigate Europe have uncovered disturbing evidence that some workers building them are exposed to dangerous conditions and living in fear of speaking out Sandu* checked his watch. He was winding down the last 15 minutes of his shift at a vast Google datacentre site in Saint-Ghislain, Belgium, in March, when the call came in. The 34-year-old electrical tester had already worked almost 10 hours, but says such last-minute jobs were normal: “I had no choice. People have been fired after saying no.” The task was one Sandu had done many times before and involved a series of tests measuring the safety and integrity of the electrical wiring. A protective suit was locked away in an equipment room. The round trip would have added another 15 minutes to the job, he says, and people were waiting, so he decided not to retrieve the suit. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ff3357e060d64adc48e88b1399e603abdbc4d574/0_0_3750_3000/master/3750.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70f108664e97fa460113436601dda453" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ff3357e060d64adc48e88b1399e603abdbc4d574/0_0_3750_3000/master/3750.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70f108664e97fa460113436601dda453" medium="image"/>
+</item>
+<item>
 <title>In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security</title>
 <link>https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539</link>
 <guid isPermaLink="false">1f49a3af07670756f084d457dbe0ef9dd3b7ebb46814cc8d38db0441559ef019</guid>
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 04:22:12 +0000</pubDate>
-<description>Crypto exchange Binance has paused trading after discovering unknown parties cracked one of its workers’ laptops and used it to make massive trades Late on Thursday, US time, the company used its social media feeds to report “Our teams are aware of reports of a potential security issue and are actively investigating.” The exchange insisted “User funds are completely safe” and warned its customers “should remain cautious of scams and should not trust unofficial links, messages, or requests for account information.” The company soon froze $2.5 billion worth of assets and warned that the figure could go higher “as our teams work closely with law enforcement, issuers, blockchain intelligence firms and industry partners to trace and freeze additional assets.” To prevent the matter worsening, Binance halted all trading, deposits, and withdrawals. It also promised to cover any losses. About an hour ago at the time of writing, Binance posted an update on the incident that explains what it thinks went wrong. “Binance's initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions,” the post states. The company also hiked the amount it thinks is at risk to $6.3 billion and repeated its promise to cover any customer losses. The update also says Binance found no evidence of any wallet private key leak, suggesting that customers’ holdings remain secure. When they can use them again, as Binance is yet to resume trading. Binance hasn’t explained how attackers gained access to the engineer’s laptop. The scant details provided make it hard to rule out a successful phishing attack, or perhaps a supply chain attack on a package the developer used. Binance says it will spill once it knows exactly what happened. Cryptocurrency outfits have a long and inglorious history of falling victim to cyberattacks, perhaps starting with the 2011 raid on Mt Gox , to incidents allegedly perpetrated by nation-states , and, just last week, another situation possibly involving an AI-powered attacker . ®</description>
+<description>Crypto exchange Binance has paused trading after discovering unknown parties cracked one of its workers’ laptops and used it to make massive trades. Late on Thursday, US time, the company used its social media feeds to report “Our teams are aware of reports of a potential security issue and are actively investigating.” The exchange insisted “User funds are completely safe” and warned its customers “should remain cautious of scams and should not trust unofficial links, messages, or requests for account information.” The company soon froze $2.5 billion worth of assets and warned that the figure could go higher “as our teams work closely with law enforcement, issuers, blockchain intelligence firms and industry partners to trace and freeze additional assets.” To prevent the matter worsening, Binance halted all trading, deposits, and withdrawals. It also promised to cover any losses. About an hour ago at the time of writing, Binance posted an update on the incident that explains what it thinks went wrong. “Binance's initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions,” the post states. The company also hiked the amount it thinks is at risk to $6.3 billion and repeated its promise to cover any customer losses. The update also says Binance found no evidence of any wallet private key leak, suggesting that customers’ holdings remain secure. When they can use them again, as Binance is yet to resume trading. Binance hasn’t explained how attackers gained access to the engineer’s laptop. The scant details provided make it hard to rule out a successful phishing attack, or perhaps a supply chain attack on a package the developer used. Binance says it will spill once it knows exactly what happened. Cryptocurrency outfits have a long and inglorious history of falling victim to cyberattacks, perhaps starting with the 2011 raid on Mt Gox , to incidents allegedly perpetrated by nation-states , and, just last week, another situation possibly involving an AI-powered attacker . ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5306544&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306544&amp;width=800" medium="image"/>
 </item>
@@ -101,17 +145,6 @@
 <description>Multiple vulnerabilities in five popular AI developer tools could allow attackers to execute code on a host machine, read and steal files, or spoof browser address bars. Researchers say flaws in OpenAI's Codex and Microsoft's VS Code remain unpatched, potentially putting developers who use affected configurations at risk. AI security startup Forever Security discovered vulnerabilities in Cursor, GitHub Copilot, Anthropic's Claude Desktop, VS Code, and Codex, and disclosed four of the flaws to the affected vendors. GitHub independently fixed the Copilot vulnerability without receiving a report from Forever Security. All five share a common security weakness: embedded browsers granted capabilities beyond those available to conventional browsers. Each tool “enriched its embedded browser beyond what a normal browser allows, and those enrichments undermined the traditional threat model - as agent input, as the authority on a tab’s own address, or as reach onto the host,” Forever researcher Gal Weizman wrote in a Thursday report . Forever dubbed this class of vulnerability “Embrace,” short for EMbedded BRowser, and said the flaws led to code execution in Cursor, data theft in Claude Desktop, Codex, and VS Code, and address bar spoofing in GitHub Copilot. Here’s what each of these looks like, starting with Cursor. Cursor: arbitrary code execution Typical web pages can’t run commands on the host computer because a web page’s JavaScript cannot talk to local apps. Cursor’s integrated browser, however, allows a page to call the agent’s composer. The agent reads this as instructions and follows them, but the instructions remain hidden from human users. This opens the coding agent up to prompt injection attacks that could allow an attacker to execute commands on the host machine. The researchers disclosed the vulnerability to Cursor on September 10, and the vendor silently patched the flaw on October 1. According to Forever, Cursor did not publish a security advisory about the issue or respond to the researchers' disclosure. Cursor also did not reply to The Register ’s request for comment. GitHub Copilot: address bar spoofing Under normal browser operations, a webpage cannot change the content of the address bar. “Copilot’s browser preview works differently,” Weizman wrote. “Some pages change their address without loading a new page, and the app cannot always see that. So Copilot let the page tell the app its own address.” The app checked only whether the text looked like a web address, starting with http, https or file, but it didn’t check where the tab really pointed to. This can be abused to trick the embedded browser into displaying a spoofed URL - such as github.com/login - in the address bar, while loading a fraudulent website - like a phishing page - underneath. The researchers found the address-bar spoofing flaw in GitHub Copilot 1.1.27 on September 26. GitHub independently fixed the flaw in a later Copilot build (1.1.29) on October 13 without receivi</description>
 <enclosure url="https://image.theregister.com/?imageId=5306527&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306527&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>More than half of Victorian lawyers use AI – but only a quarter have cut client fees as a result</title>
-<link>https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees</link>
-<guid isPermaLink="false">7d0eb76b47d2cb63ce7a09f92132b04a8846d54c41da24bf001d76835c63e20a</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 23:00:37 +0000</pubDate>
-<description>Research finds 55% of lawyers are using AI in legal practices, up from 37% last year, though efficiency gains aren’t as high as expected Get our breaking news email , free app or daily news podcast More than half of Victoria’s lawyers have reported using AI in their work, according to a new study, but just over a quarter say they have reduced fees as a result of efficiency gains. They also say clients seeking advice from chatbots have added to their workload, forcing them to correct errors made by AI. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/f9f3f7bce6fc3e3ad11900d943ee204c5d52ddba/699_0_2699_2160/master/2699.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f1f8bcbe85f82aa4e7a40289ede6b4a0" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/f9f3f7bce6fc3e3ad11900d943ee204c5d52ddba/699_0_2699_2160/master/2699.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f1f8bcbe85f82aa4e7a40289ede6b4a0" medium="image"/>
 </item>
 <item>
 <title>Sony is working on a film adaptation of viral indie horror game Mouthwashing</title>
@@ -444,17 +477,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg" medium="image"/>
 </item>
 <item>
-<title>Apple’s new laptop supports one of the coolest features for color pros</title>
-<link>https://www.theverge.com/1022347/apple-macbook-supports-new-cmf</link>
-<guid isPermaLink="false">3b28feea08f4b9fe7fc366a7e3012a62743dea1bf8b120767dfb719a32565f51</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 17:48:09 +0000</pubDate>
-<description>The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is the technology it uses to display an accurate picture. It's the first laptop, and only the second product overall, to support Apple CMF 2026 color modes. It could be the future for displays. CMFs, or color-matching functions, mathematically represent how we perceive color, and there are a few different variations. The specification that's been the … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0039.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Your headphones have hidden LE Audio features you’ll want to know about</title>
 <link>https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose</link>
 <guid isPermaLink="false">210628a17147ca24aa5bc86bb0fe73d280e00c9cc01751f64ceb5681863bfab6</guid>
@@ -486,6 +508,17 @@
 <description>The Trump administration is trying to stop Utah from enforcing its gambling ban against Kalshi, making Utah the 10th state sued by the US government agency that regulates prediction markets. Meanwhile, Utah Attorney General Derek Brown filed criminal charges in a state court against Kalshi and its founders on Wednesday. The attorney general's office provided us with court filings listing charges against KalshiEX, LLC , Kalshi co-founder and CEO Tarek Mansour , and Kalshi co-founder and COO Luana Lopes Lara . The company and two co-founders each face 13 felony charges and one misdemeanor for violating gambling laws. The charges are based on sports bets offered on Kalshi between September 13 and September 24. "The state did not issue arrest warrants for Monsour and Lopes Lara. Instead, they have been issued summons to respond to the charges in Third District Court in Salt Lake County," The Salt Lake Tribune wrote . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" medium="image"/>
+</item>
+<item>
+<title>Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show</title>
+<link>https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents</link>
+<guid isPermaLink="false">90a0da2b8fdbce767653020dbd712972044eaff18169e60379992865d854e5c9</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 17:20:57 +0000</pubDate>
+<description>Court documents reveal staff considered ways to ‘get academic community to disavow’ influential US author Meta staff discussed deploying a “whisper strategy” to undermine the influential US academic whose work has inspired a global social media crackdown , according to court documents. Employees at the parent group of Facebook and Instagram sought to discredit Jonathan Haidt, the social psychologist and author of The Anxious Generation , a book that helped tip the debate about online safety towards more stringent measures such as the under-16 ban in Australia. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/e2af35e6ac64d9cf53dcc43974739042b10ea62c/893_380_3514_2811/master/3514.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a87cd0d187c6f2ec4350f949124ddf1" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/e2af35e6ac64d9cf53dcc43974739042b10ea62c/893_380_3514_2811/master/3514.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a87cd0d187c6f2ec4350f949124ddf1" medium="image"/>
 </item>
 <item>
 <title>Ubuntu 27.04 may bring a preview of the long-awaited Core Desktop</title>
@@ -818,17 +851,6 @@
 <media:content url="https://i.guim.co.uk/img/media/b119d0e5b0cb9c32a5810f049912675ee79924d9/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=835c344f541f41db631c5ffc26b86bf1" medium="image"/>
 </item>
 <item>
-<title>Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity</title>
-<link>https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity</link>
-<guid isPermaLink="false">ed0cddd7abd8fac77334bbccfed8faac181e9401a88a7b4f7a58a2f95cb49df6</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 09:41:58 +0000</pubDate>
-<description>Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding.</description>
-<enclosure url="https://www.engadget.com/img/gallery/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/l-intro-1793266804.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/l-intro-1793266804.jpg" medium="image"/>
-</item>
-<item>
 <title>Matrix takes sovereign messaging into the realm of the tech giants</title>
 <link>https://www.theregister.com/software/2026/10/29/matrix-takes-sovereign-messaging-into-the-realm-of-the-tech-giants/5305915</link>
 <guid isPermaLink="false">b748cb6533309d6bcf4352c4e977957f5ac2f5c600008a1572ba147257be6632</guid>
@@ -915,17 +937,6 @@
 <description>United Launch Alliance announced Wednesday it plans to return its Vulcan rocket to service on November 13, nine months after a solid rocket booster anomaly threw the company's 2026 launch schedule into oblivion. The return-to-flight mission will launch 40 satellites for the Amazon Leo broadband constellation, the first of 38 Vulcan flights Amazon has booked to deploy the bulk of its network. The mission will lift off from Cape Canaveral Space Force Station, Florida, and ULA said the launch date is pending range approval. The launch is critical for ULA after its new flagship rocket suffered nozzle failures on its solid rocket boosters on two of its first four missions, most recently during a flight in February. In both cases, the rocket overcame the nozzle failure and completed its mission, but officials at the US Space Force, ULA's primary customer, lost confidence in Vulcan. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft posts $92.3bn quarterly revenue after offering buyouts to 60,000 employees</title>
-<link>https://www.theguardian.com/technology/2026/oct/28/microsoft-earnings</link>
-<guid isPermaLink="false">5c4fb9e0ca760dd3ae50ea5ca43a1588ad8dea9ef69eeecc5cbb35f133b5679b</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 22:44:58 +0000</pubDate>
-<description>Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48% Microsoft gained billions of dollars in stock market value on Wednesday afternoon after it reported better than expected revenue and profit, just days after it offered voluntary buyouts to about 60,000 employees. The office software giant’s growth was fueled by its Azure cloud computing division, which grew by 48% in the September quarter. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/36447ca68a44687ae5f40f5d254f97c4546afd43/450_0_4500_3600/master/4500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2234abf4953812118ba16b62f6459253" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/36447ca68a44687ae5f40f5d254f97c4546afd43/450_0_4500_3600/master/4500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2234abf4953812118ba16b62f6459253" medium="image"/>
 </item>
 <item>
 <title>As US ties fray, Europe plans first undersea cable link to Greenland</title>
@@ -1476,17 +1487,6 @@
 <description>Blocked phishing attempts rose 83% in six months, according to Surfshark, largely due to one TikTok shop. Here’s how to spot the red flags.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/TikTok-Use.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/TikTok-Use.jpg" medium="image"/>
-</item>
-<item>
-<title>Anthropic accelerates – for the rest of us, the speed of growth spells precarity</title>
-<link>https://www.theguardian.com/global/2026/oct/26/anthropic-accelerates-ai</link>
-<guid isPermaLink="false">0ff1be0db8f86d716f867be0aa188efdcec63579d1a4acb46b31f0c7d0d11ae4</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 15:15:20 +0000</pubDate>
-<description>The AI industry is still defined by a careening intensity that’s taking the world’s finances along for the ride This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here . Today in tech, we’re discussing Anthropic ’s astronomic growth, how a settlement over social media safety dented Meta’s revenue, and Lula’s accusations of interference against Meta . ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes Elizabeth Holmes is back in the spotlight: why can’t we look away? Anthropic’s Claude AI model accessed Georgia voter data in US The datacentre next door: on the frontline of tech’s latest David v Goliath battle Meta plans $95bn stock offering to help cover AI expansion iPhone Duo owners report cracks in Apple’s first foldable handset Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts Ukraine’s military says Starlink satellite connection stable after recent restrictions Experts cast doubt on Anthropic report detailing how AI has altered work at the company ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/456_0_4580_3666/master/4580.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92d4424b6cfc8c1a8b8bd0e47051e502" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/456_0_4580_3666/master/4580.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92d4424b6cfc8c1a8b8bd0e47051e502" medium="image"/>
 </item>
 <item>
 <title>‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film</title>
