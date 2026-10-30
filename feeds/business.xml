@@ -4,13 +4,13 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO</title>
+<title>Binance points to engineer’s hacked laptop in $6.3B breach</title>
 <link>https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo</link>
 <guid isPermaLink="false">a3dd9ab83acc560fa38c2531d534829dae0de68c1e134ddcbcd96fcf875356ac</guid>
 <source>Cointelegraph</source>
 <category>business</category>
 <pubDate>Fri, 30 Oct 2026 00:11:26 +0000</pubDate>
-<description>Blockaid’s Ido Ben-Natan suspects attackers manipulated Binance’s transaction-signing infrastructure, drawing parallels with the Bybit hack.</description>
+<description>Binance says attackers may have used a compromised DevOps laptop to access internal infrastructure.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg" medium="image"/>
 </item>
@@ -68,6 +68,17 @@
 <description>Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RA36J2CBE1BC6ZENWQDFJ/asia-express-13.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RA36J2CBE1BC6ZENWQDFJ/asia-express-13.jpg" medium="image"/>
+</item>
+<item>
+<title>I’ve Sat on 23 Boards. Here’s What Founders Get Wrong When They Hire a CEO and Step Back</title>
+<link>https://www.entrepreneur.com/leadership/ive-sat-on-23-boards-heres-what-founders-get-wrong-when-they-hire-a-ceo-and-step-back</link>
+<guid isPermaLink="false">6276d64c4fd8514b52a7d7968d5a138dd4489727381b24841112fc37252cf16d</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Thu, 29 Oct 2026 22:00:00 +0000</pubDate>
+<description>A six-time CEO on making the move from founder to chairman work.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/hiring-a-ceo-1026_g2254011394.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/hiring-a-ceo-1026_g2254011394.jpg" medium="image"/>
 </item>
 <item>
 <title>Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion</title>
@@ -464,17 +475,6 @@
 <description>Jodi Richard, who had been the Minneapolis-based bank’s chief risk officer since 2018, has left the lender. The bank’s chief credit officer will serve as interim CRO.</description>
 <enclosure url="https://imgproxy.divecdn.com/euxZTX3yqM70jX-UOXph7stPb5PJmHFkCAqw5cwGZXc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VU0JhbmtUb3dlcl9DQV8zeDIuanBn.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/euxZTX3yqM70jX-UOXph7stPb5PJmHFkCAqw5cwGZXc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VU0JhbmtUb3dlcl9DQV8zeDIuanBn.webp" medium="image"/>
-</item>
-<item>
-<title>You Can’t Declare a Culture Into Existence. You Have to Build One</title>
-<link>https://www.entrepreneur.com/building-a-business/you-cant-declare-a-culture-into-existence-you-have-to-build-one</link>
-<guid isPermaLink="false">1d4f476783576849f4d12513c833fd2afda5e5d765819e55f8bdf837682c16cf</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
-<description>Nuveen’s CEO has the right instinct about culture.But “listen and learn” is a sentiment, not a behavior.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/company-culture-1026-g-2296794580.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/company-culture-1026-g-2296794580.jpg" medium="image"/>
 </item>
 <item>
 <title>Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard</title>
