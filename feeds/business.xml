@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO</title>
+<link>https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo</link>
+<guid isPermaLink="false">a3dd9ab83acc560fa38c2531d534829dae0de68c1e134ddcbcd96fcf875356ac</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 30 Oct 2026 00:11:26 +0000</pubDate>
+<description>Blockaid’s Ido Ben-Natan suspects attackers manipulated Binance’s transaction-signing infrastructure, drawing parallels with the Bybit hack.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6527RDQRJD95JK0XDRPNDD2/key.jpg" medium="image"/>
+</item>
+<item>
 <title>Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides</title>
 <link>https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide</link>
 <guid isPermaLink="false">a628d46fb47f259940818c2c9c6b152bc718f22ea70dfb3eb3b19a666555ce5a</guid>
@@ -70,7 +81,7 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Live Updates: Binance says $2.54 billion frozen after hack</title>
+<title>Live updates: Binance says $3B in crypto frozen in connection to hack</title>
 <link>https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns</link>
 <guid isPermaLink="false">be449102e8a6a9e57cb35528c83c86cfef97b6d9bee5d4d2d54a80a03efa2b50</guid>
 <source>Cointelegraph</source>
@@ -79,6 +90,17 @@
 <description>Follow live updates as Binance says $2.54 billion in assets has been frozen after a multibillion-dollar hack, with further freezes possible as investigators trace funds.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RM2NG4HTR1FTZN6XKT10N/trying-to-open-monitor.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RM2NG4HTR1FTZN6XKT10N/trying-to-open-monitor.jpg" medium="image"/>
+</item>
+<item>
+<title>Your Business Has a Design Problem. An Architect-Turned-Founder Explains How to Fix It</title>
+<link>https://www.entrepreneur.com/building-a-business/grow-your-business/your-business-has-a-design-problem-an-architect-turned-founder-explains-how-to-fix-it</link>
+<guid isPermaLink="false">7eaac380c842c27d3b7912d3f9f84a5aea1fc5e087bd059cbb192ad19bb8032a</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Thu, 29 Oct 2026 21:00:00 +0000</pubDate>
+<description>Great businesses, like great buildings, are designed for the people who use them.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/business-design-problems-1026_g2292599033.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/business-design-problems-1026_g2292599033.jpg" medium="image"/>
 </item>
 <item>
 <title>Coinbase Swings to $719 Million Q3 Profit on Crypto Gains</title>
@@ -90,6 +112,17 @@
 <description>Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Alphabet Just Lost $500 Billion in One Day — Here’s Why Wall Street Is Spooked</title>
+<link>https://www.entrepreneur.com/business-news/alphabet-just-lost-500-billion-in-one-day-heres-why-wall-street-is-spooked</link>
+<guid isPermaLink="false">862c6e5b881b5d8a35459bf1aac77abb5848c5929b2ac6f12fe914044492ff67</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Thu, 29 Oct 2026 20:33:00 +0000</pubDate>
+<description>Slowing search growth and soaring AI costs have investors asking whether the payoff is coming fast enough.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/google-GettyImages-2300013385.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/google-GettyImages-2300013385.jpg" medium="image"/>
 </item>
 <item>
 <title>Here’s what happened in crypto today</title>
@@ -477,17 +510,6 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/Crypto-Exchange-HTX-Agrees-to-Leave-UK-in-Settlement-With-FCA-.jpg" medium="image"/>
 </item>
 <item>
-<title>This Company Will Pay You $112 an Hour to Play GTA 6 and Give Your ‘Honest Verdict’</title>
-<link>https://www.entrepreneur.com/business-news/this-company-will-pay-you-112-an-hour-to-play-gta-6-and-give-your-honest-verdict</link>
-<guid isPermaLink="false">c32c02535d6156dce9115aea0a35f263ca3816475982227e9daa4b9cabba8a28</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 13:45:00 +0000</pubDate>
-<description>One lucky gamer will earn roughly $900 and a free copy of the most anticipated video game in years.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/gta6-Jason_and_Lucia_03-1026-copy.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/gta6-Jason_and_Lucia_03-1026-copy.jpg" medium="image"/>
-</item>
-<item>
 <title>Understanding the Various Bitcoin Per Share Metrics</title>
 <link>https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-per-share-metrics</link>
 <guid isPermaLink="false">5e0bd598b3e8324c38902aa9299550cb26829db1e99f9723ee35e1ebcffe8e5f</guid>
@@ -519,17 +541,6 @@
 <description>USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YHVKK2EKX9WYW39GVN4K39/magazine-getting-a-home-loan-using-crypto-insane-or-just-risky-sounds.png" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YHVKK2EKX9WYW39GVN4K39/magazine-getting-a-home-loan-using-crypto-insane-or-just-risky-sounds.png" medium="image"/>
-</item>
-<item>
-<title>Mark Cuban Says AI Will Mint the Next ‘Trillionaire in the Basement’</title>
-<link>https://www.entrepreneur.com/business-news/mark-cuban-says-ai-will-mint-the-next-trillionaire-in-the-basement</link>
-<guid isPermaLink="false">7d1970cbeab3a7055cdae23d0e0f8df37d3dd272ba7f82878ac4095ff0774bc6</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 13:11:00 +0000</pubDate>
-<description>Slow-moving companies are handing AI-savvy founders a huge opening, according to the billionaire investor.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/mark-cuban-ai-1026_g2266379001-2287035891.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/10/mark-cuban-ai-1026_g2266379001-2287035891.jpg" medium="image"/>
 </item>
 <item>
 <title>Polygon Extends Its Stablecoin Payments Infrastructure to Solana</title>
@@ -761,17 +772,6 @@
 <description>Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Canadian ‘crypto king’ case to go to jury as criminal trial winds down</title>
-<link>https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing</link>
-<guid isPermaLink="false">08a74cb6819a0a239e6ee7a865e349397cc65fd8d87d41483f8ac68de8c0fab3</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 28 Oct 2026 21:35:52 +0000</pubDate>
-<description>Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MQWPR3MTCT9E31PTGCN3TH/court-law-judge-flags-canada.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MQWPR3MTCT9E31PTGCN3TH/court-law-judge-flags-canada.jpg" medium="image"/>
 </item>
 <item>
 <title>Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply</title>
