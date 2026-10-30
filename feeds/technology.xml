@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
+<link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
+<guid isPermaLink="false">b9ee8bb30716fa37b159432c17457de6c675d196a614236a5622c85e7238dfdd</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
+<description>Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in silent grace Starlight feeds my core. ✨ Google says it tried out other space-themed limericks and telemetry prompts as well. The test is part of Google's Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. Google launched the satellite into orbit earlier this … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Android 17 adoption hits a staggering 1% – why you really should update now</title>
+<link>https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026</link>
+<guid isPermaLink="false">d12f92c207cbae1ffc67f664d1ebf660541d0d7c000c54694c7463a945fee225</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 18:18:24 +0000</pubDate>
+<description>Only a quarter of Android phones have even made it to Android 16.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg" medium="image"/>
+</item>
+<item>
+<title>Rare meteorite from Mars gives us a view into its ancient crust</title>
+<link>https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust</link>
+<guid isPermaLink="false">0b770eef39da304ff9f1098b106aba3f25c31f4451d0193254171074aaa2ce22</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 18:13:42 +0000</pubDate>
+<description>Crater counts tell us that most of the Martian surface is more than 3 billion years old, but pieces of Mars we have on Earth tell a different story. The three main classes of Martian meteorites—shergottites, nakhlites, and chassignites—are all 2.4 billion years old or younger. Until now, only two genuinely ancient Martian meteorites were known: Allan Hills 84001, found in Antarctica, and a jumbled rock from northwest Africa nicknamed Black Beauty. Now we have a third one. A team led by Yang Liu, a planetary scientist at NASA's Jet Propulsion Laboratory, has shown that a Martian meteorite called Teghaza 001, found in the Sahara Desert in Mali in 2022, formed at least 4.1 billion years ago. “It's very old and similar to some of the oldest rocks on Earth,” Liu says. A filtered collection “We don't fully understand why old Martian rocks are so rare on Earth," Liu said. Part of the answer may lie in how a piece of Mars gets here. It takes a large impact to launch a rock off the planet, and not every rock can survive that. “If the impact hits into loose powder, it may not get cemented to become a rock and fly off Mars' gravity,” Liu said. “So the natural impact already acts as a filter. Weak rocks do not make it off Mars.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-1152x648.jpeg" medium="image"/>
+</item>
+<item>
+<title>Fujifilm to boost tape production 5x as AI fuels archiving demand</title>
+<link>https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand</link>
+<guid isPermaLink="false">9c79addb856a9fb17d996b566a03afc479f4eeef8935988cbc25c0ac5e4e2bcb</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 17:38:19 +0000</pubDate>
+<description>In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely beneficiary of the AI era: magnetic tape. Fujifilm attributes the surge in archiving demand to the spread of generative AI, which the company remarked is producing "exponential growth" in data needs worldwide. The 5x increase in production capacity will be measured against fiscal year 2025 production levels. The investment in Fujifilm's Kanagawa Factory, Odawara site will make it "the largest investment Fujifilm has made to date in dedicated LTO tape facilities." The project will run from fiscal years 2026 through 2028 to fund manufacturing expansion and additional personnel, primarily to produce the latest-generation "FUJIFILM LTO Ultrium10" tape. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru</link>
 <guid isPermaLink="false">8789b25f4f928a029c45ca212a1b04923d18f26eb94d10f419ceea9ec95d2c4f</guid>
@@ -21,7 +65,7 @@
 <source>ZDNET</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 17:29:50 +0000</pubDate>
-<description>The FDA-approved feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.</description>
+<description>The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg" medium="image"/>
 </item>
@@ -70,6 +114,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0009.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>Thousands of “ghost students” use AI to steal millions in student loans, DOJ says</title>
+<link>https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans</link>
+<guid isPermaLink="false">4da51a8d3c864c8d2325e29e0068e50fece9b1576f53e2dd11763547888feb24</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 16:53:49 +0000</pubDate>
+<description>The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans. In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that “this is the first international seizure of its kind in Kenya,” while warning fraudsters that the crackdown has only just begun. “If you steal American identities, if you steal taxpayer dollars, if you exploit programs meant to help students build a future—we will find you,” McDonald said. “Whether you are in Nebraska, New Jersey, Virginia, or Nairobi, we will pursue you.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’</title>
 <link>https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack</link>
 <guid isPermaLink="false">06dd76803e8b9715c50769198cafda26957670070c68552e392ea691a9228b03</guid>
@@ -114,6 +169,17 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg" medium="image"/>
 </item>
 <item>
+<title>Analysts find looming launch crisis is "more severe" than anticipated</title>
+<link>https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated</link>
+<guid isPermaLink="false">cbdd060ae07933fa04eabcde66dc26a7d13a7dda5f0d1b087752700e72a9a1c9</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 16:12:59 +0000</pubDate>
+<description>A new report from the analytics firm Quilty Space confirms that, outside of China, the world faces a significant shortage of rockets over the next five years. The firm estimates that between now and 2030, there will be a shortfall of about 150 launches compared to demand from satellite operators and civil space agencies. If demand from the US military is added in—and SpaceX does not extend the Falcon 9 and Falcon Heavy program to accommodate increased national security needs—the shortage could be doubled. "What we wanted to get at is to understand how severe this launch crisis is and when will it be resolved," said Caleb Henry, director of research at Quilty Space. "What we learned is that the launch crisis is more severe than we thought and that it will not go away this decade for sure, and it might not abate until sometime late in the 2030s." Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg" medium="image"/>
+</item>
+<item>
 <title>The Wikimedia Foundation weighs in on the NYT's case against OpenAI</title>
 <link>https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai</link>
 <guid isPermaLink="false">8ada096505f97960e75487556ba1597c86fb2adcd16ea763c9f1d768cdf03b7d</guid>
@@ -156,6 +222,17 @@
 <description>The adaptation has a fittingly strange tagline: "My mom became a crater."</description>
 <enclosure url="https://www.engadget.com/img/gallery/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/l-intro-1793372769.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/l-intro-1793372769.jpg" medium="image"/>
+</item>
+<item>
+<title>Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms</title>
+<link>https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax</link>
+<guid isPermaLink="false">a37ddbc5d2224ef67390cee2bc6d7de3425586362e3d6bfe7c6d933c9b96af90</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 15:00:19 +0000</pubDate>
+<description>It was an ambitious notion – now Californians will vote on a one-time 5% billionaire tax, and state’s super rich have pulled out all the stops in opposition One year ago, the idea of a billionaire tax in California was still in its infancy. It wasn’t yet one of the most contentious ballot measure fights in state history – pitting Democrats against Democrats, drawing national attention from political heavyweights, and netting hundreds of millions of Silicon Valley dollars to fight it. Back then, it was a bold and desperate answer to Donald Trump’s healthcare cuts. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/f84e43fdfd782096ab7cda1b19640357b6b43cb3/299_52_2305_1844/master/2305.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86a39525c1a39711c43b85cf5c83e58d" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/f84e43fdfd782096ab7cda1b19640357b6b43cb3/299_52_2305_1844/master/2305.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86a39525c1a39711c43b85cf5c83e58d" medium="image"/>
 </item>
 <item>
 <title>Buy a wind-up radio – and don’t forget the chocolate: survival experts on how to prepare for an emergency</title>
@@ -301,17 +378,6 @@
 <media:content url="https://www.engadget.com/img/gallery/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/l-intro-1793365250.jpg" medium="image"/>
 </item>
 <item>
-<title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</link>
-<guid isPermaLink="false">1c953c6f303dffb252a480a889db46f1c094b8286ebd259939b02c786fab2893</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:01:14 +0000</pubDate>
-<description>After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. "I think, on net, the world deserves to understand how the universe works," Altman said during an episode of the Cheeky Pint podcast released Thursday. "But I do have empathy for the method." His comments mark one of the first times the OpenAI chief has directly acknowledged the company's impact on mathematicians, following a strin … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>NHS quango warns of risk to GP patient data after website vendor collapse</title>
 <link>https://www.theregister.com/public-sector/2026/10/30/nhs-quango-warns-of-risk-to-gp-patient-data-after-website-vendor-collapse/5306647</link>
 <guid isPermaLink="false">a42c6fd0eccac0443ac4837c80bd1cfcfae8634b3fc3a7fa046603930e71b507</guid>
@@ -340,7 +406,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 12:00:18 +0000</pubDate>
-<description>Nissan provided flights from Washington, DC, to Santa Barbara, California, and accommodation so Ars could drive the Rogue Hybrid. Ars does not accept paid editorial content. Nissan has a new version of its best-selling Rogue SUV, and it’s launching the model here with the latest version of its e-Power hybrid system, which Ars tested back in February. Most of the hybrid cars you can buy today are parallel hybrids, which means that they have an internal combustion engine and an electric motor, both of which drive some or all of the wheels—everything works in parallel. But there’s another approach. Instead of connecting the engine to the wheels via a transmission, it can act as a generator and charge the traction battery, which in turn powers the electric motor. Since the engine and motor work in series, this is known as a series hybrid. That’s mostly how the Chevrolet Volt worked. As does Honda’s hybrid CR-V . Well, mostly; engineers worked out it was more efficient for those cars' gasoline engines to directly drive the wheels at highway speeds, something that to this day makes a certain subset of hybrid car enthusiast irrationally angry. If you know anyone like that in your life, send them to wherever the nearest Nissan dealership is, because the 2027 Rogue Hybrid is exactly what they’ve been asking for. Series hybrids Under the hood, with its crisp shut line and slim horizontal lights that give me something of a Range Rover vibe, there’s a 1.5 L, three-cylinder turbocharged direct-injection engine that generates 148 hp (110 kW). It only revs to 5,200 rpm because it’s optimized to charge the battery, not cope with the various loads of an engine connected to a gearbox and the wheels. That also allows the engine to operate at a rather impressive 42 percent thermal efficiency—we would need to look at Formula 1 engines to find higher. Read full article Comments</description>
+<description>Nissan provided flights from Washington, DC, to Santa Barbara, California, and accommodation so Ars could drive the Rogue Hybrid. Ars does not accept paid editorial content. Nissan has a new version of its bestselling Rogue SUV, and it’s launching the model here with the latest version of its e-Power hybrid system, which Ars tested in February. Most hybrid cars you can buy today are parallel hybrids, which means that they have an internal combustion engine and an electric motor, both of which drive some or all of the wheels—everything works in parallel. But there’s another approach. Instead of connecting the engine to the wheels via a transmission, it can act as a generator and charge the traction battery, which in turn powers the electric motor. Since the engine and motor work in series, this is known as a series hybrid. That’s mostly how the Chevrolet Volt worked. As does Honda’s hybrid CR-V . Well, mostly; engineers worked out it was more efficient for those cars' gasoline engines to directly drive the wheels at highway speeds, something that to this day makes a certain subset of hybrid car enthusiasts irrationally angry. If you know anyone like that in your life, send them to wherever the nearest Nissan dealership is, because the 2027 Rogue Hybrid is exactly what they’ve been asking for. Series hybrids Under the hood, with its crisp shut line and slim horizontal lights that give me something of a Range Rover vibe, there’s a 1.5 L, three-cylinder turbocharged direct-injection engine that generates 148 hp (110 kW). It only revs to 5,200 rpm because it’s optimized to charge the battery, not cope with the various loads of an engine connected to a gearbox and the wheels. That also allows the engine to operate at a rather impressive 42 percent thermal efficiency—we would need to look at Formula 1 engines to find higher. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg" medium="image"/>
 </item>
@@ -1082,17 +1148,6 @@
 <media:content url="https://image.theregister.com/?imageId=5278204&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>A new wave of electric ferries is here in the US. Some even fly</title>
-<link>https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries</link>
-<guid isPermaLink="false">06a2c703111142070fa596019f0abb2b4ebf221ea4cf99f9ade6bba31d2666fc</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:31 +0000</pubDate>
-<description>Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of passengers aboard a nearby sightseeing ferry. “It’s quite a curiosity at the moment,” Eric Laakmann, the chief executive and co-founder of Vessev, said. Climate Central is an independent group of scientists and communicators who research and report the facts about our changing climate and how it affects people’s lives. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/ae28ea8755028f99a2f7893c18cb6170afa4e5f5/483_0_2415_1932/master/2415.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ddbb6945638923fe018d21eee1e02dd" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/ae28ea8755028f99a2f7893c18cb6170afa4e5f5/483_0_2415_1932/master/2415.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ddbb6945638923fe018d21eee1e02dd" medium="image"/>
-</item>
-<item>
 <title>Matrix takes sovereign messaging into the realm of the tech giants</title>
 <link>https://www.theregister.com/software/2026/10/29/matrix-takes-sovereign-messaging-into-the-realm-of-the-tech-giants/5305915</link>
 <guid isPermaLink="false">b748cb6533309d6bcf4352c4e977957f5ac2f5c600008a1572ba147257be6632</guid>
@@ -1181,28 +1236,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg" medium="image"/>
 </item>
 <item>
-<title>As US ties fray, Europe plans first undersea cable link to Greenland</title>
-<link>https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland</link>
-<guid isPermaLink="false">52cf4d98c3bcf391c8d94c2924f26a86f2ecd2645732120e4976e366d433fb0f</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 22:35:50 +0000</pubDate>
-<description>The European Union plans to create the first subsea Internet cable directly connecting Europe to Greenland. The Pan-Arctic Cable project could also extend to Canada and eventually link with Japan and South Korea, notably bypassing the United States. The Pan-Arctic Cable is described as a European Union flagship project in a European Commission joint communication published on October 20, 2026. The policy document describes a new European strategy for the Arctic that supports “a sovereign, secure and resilient submarine cable connection linking Greenland directly to the EU,” while also suggesting that “like-minded partners like Canada” could provide a stepping stone for future cable expansion toward Asia. “It is interesting that this project is even being considered, because five years ago it would have seemed like not a particularly commercially attractive proposition,” Elisabeth Braw , a senior fellow at the Atlantic Council who leads the Threats to the Global Maritime Order Initiative, told Ars. “But the fact that it's being considered is very much on trend and a sign of our times.” Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA</title>
-<link>https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda</link>
-<guid isPermaLink="false">5dce05c1d0be7bbf727fdb179ad56c7f41972e92e87a7a3f5f56ccd15224a36e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 22:17:15 +0000</pubDate>
-<description>Anti-vaccine Health Secretary Robert F. Kennedy has unilaterally passed a rule that will allow specialty pharmacies to sell six specific peptide drugs, overruling scientists at the Food and Drug Administration. The peptides are popular among members of Kennedy's Make America Health Again movement, and many prominent MAHA figures and Kennedy allies sell them. Kennedy said he uses some of the peptides and called himself a "big fan." But FDA scientists continue to say there is insufficient evidence to show if they're effective, and they are potentially dangerous. In 2023, the safety concerns led the FDA to remove the six peptides from a list of drugs that can be made by specialty pharmacies called compounding pharmacies—which make customized formulations of drugs for patients, or, in cases such as this, specialty drugs in bulk. Kennedy's new rule sidesteps the need to formally undo that FDA action. The rule is titled "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances" and was made available Wednesday on the Federal Register , with the final publication date set for October 30. The rule does not change the regulatory status of the peptide; instead, it states the Department of Health and Human Services (HHS) will no longer take enforcement action against compounding pharmacies for making the peptides, essentially giving them a green light to freely produce and sell them. Kennedy had quietly proposed this rule earlier this month. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Please state the nature of the medical emergency: Google is building a robot medic for NASA</title>
 <link>https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130</link>
 <guid isPermaLink="false">89010e0c032f9214ffde8b00e26bf9f70b9a36c0cb56776bbc9020fd3d7230c5</guid>
@@ -1245,28 +1278,6 @@
 <description>Attackers are probing a critical Oracle E-Business Suite vulnerability that can lead to remote code execution (RCE), despite Oracle issuing a patch earlier this month. Meanwhile, new analysis indicates that an Oracle PeopleSoft zero-day exploited by ShinyHunters as early as May involves three distinct vulnerabilities that can be combined to achieve RCE. Patching alone may not remove attackers from already compromised systems, particularly if they've installed web shells. First up: CVE-2026-101767 , a critical, unauthenticated SQL injection bug in Oracle EBS that can lead to RCE. “Our Oracle E-Business Suite decoys recorded exploratory exploits against CVE-2026-101767, an unauthenticated SQL injection in EBS's Thin Client Framework servlet that chains to remote code execution, this morning, Oct 27,” Defused Cyber said in an X post. Horizon3 researchers found and disclosed the bug to Oracle, and the vendor patched the issue in its October release. “An attacker can send a crafted request to the vulnerable servlet to execute SQL with the privileges of the APPS database user,” Horizon3 explained at the time. “The attack chain also enables operating system command execution with the privileges of the EBS application account.” This means an unauthorized user can modify application data accessible to APPS, and execute commands. “Depending on the deployment, affected data may include financial, payroll, HR, and procurement records,” the bug hunters said. The Register reached out to Oracle with multiple questions for this story - including whether it has documented any successful exploitation of CVE-2026-101767 - and did not receive an immediate response. Moving on to the PeopleSoft-ShinyHunters fiasco: TrendAI’s Zero Day Initiative (ZDI) found and reported the PeopleSoft issues on June 10, and Oracle issued a patch under one vulnerability identifier: CVE-2026-35273 . In early June, ShinyHunters told The Reg that the group hacked more than 100 organizations via an Oracle PeopleSoft zero-day, CVE-2026-35273. Google’s consulting and incident response biz, Mandiant, later confirmed the data theft and extortion crew exploited CVE-2026-35273 as a zero-day, mostly against schools and the education sector . By late September, however, Mandiant said ShinyHunters massively expanded its targeting , “deploying web shells on dozens of systems globally, spanning higher education, technology, IT services, healthcare, agriculture, transportation, and government.” According to ZDI bug hunter Bobby Gould, there are actually three distinct vulnerabilities across multiple PeopleSoft components, and each should receive its own CVE identifier rather than being grouped under CVE-2026-35273. Gould, along with TrendAI researchers Minh Giang and Lucas Miller, originally found and reported three distinct bugs to Oracle in June. “We are coordinating with Oracle to assign separate CVEs for each issue,” he said in a Tuesday blog. The first issue is a Server-Side Request Forgery (SSRF)</description>
 <enclosure url="https://image.theregister.com/?imageId=5306136&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306136&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>The last, best hope for space tourism just rolled onto a runway in Arizona</title>
-<link>https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona</link>
-<guid isPermaLink="false">ca9d651545e8c4f2bacecfe1a24c8823de69430a5e81cb33d058632e6e662c94</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 19:20:36 +0000</pubDate>
-<description>The private space tourism era looked so very promising five years ago. Blue Origin and Virgin Galactic had begun flying customers—real people with zero space experience—on suborbital missions. And at about the same time, private citizens were going to orbit for days at a time aboard SpaceX's Crew Dragon. But that was then. Consider the state of play today: It has been 10 months since Blue Origin's New Shepard spacecraft flew its last mission in January. The program was subsequently "paused," but let's be real. Blue Origin has moved on. New Shepard's engineering teams are now supporting the New Glenn rocket and Blue Moon lander programs. SpaceX flew its final free-flyer mission on Dragon, Fram2, in April 2025. A handful of non-NASA missions bound for space stations remain on the spacecraft's manifest, but all are likely to carry at least one government astronaut. Then Dragon will be retired. There is no credible timeline for SpaceX's Starship to fly humans into space from Earth. As for Virgin Galactic, the company flew its final suborbital mission on the VSS Unity spacecraft more than two years ago, in June 2024. So we are now 10 months, and counting, without a space tourism mission in the United States. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Touchscreen MacBook Pro hands-on: OLED looks great on a Mac</title>
-<link>https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac</link>
-<guid isPermaLink="false">79b03aa9fa8771e1fec5f886988d35bc81a1d9f7a7ba27f55dc63f6d02459afd</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 19:10:29 +0000</pubDate>
-<description>LOS ANGELES—For about five minutes on an extremely crowded showroom floor, I got to take pictures of the new MacBook Pro and test out some of its new features. First impressions: It's not as much of a departure from the previous design as I expected, but the outstanding OLED display steals the show regardless. The first thing I noticed was that it's lighter. My daily driver is a 14-inch MacBook Pro (M1 Max), and it's a bit weighty for a 14-incher. Picking up the new model, I could immediately tell it was lighter. It's not like it's in a different general weight class, but it's a noticeable difference. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple’s new touchscreen MacBook Pros may be late, but they have one big advantage</title>
@@ -1520,17 +1531,6 @@
 <description>Apple’s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple’s M6 iMac has arrived – here’s what’s changed since the M4</title>
-<link>https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new</link>
-<guid isPermaLink="false">d1bfa59ad0f020c364bd37c712bff94ee4625f7163463f08cbf072039ff99334</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 15:42:32 +0000</pubDate>
-<description>Apple’s colorful all-in-one gets its first refresh in two years. Here’s what you get for the $1,499 starting price.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/5e73698c-368c-4c5b-96ac-005b32edc3ef.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/5e73698c-368c-4c5b-96ac-005b32edc3ef.jpg" medium="image"/>
 </item>
 <item>
 <title>Eight great new indie horror games for Halloween</title>
