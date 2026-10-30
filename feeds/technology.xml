@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Sam Altman says it’s better for RAM to be in a data center than on your desk</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</link>
+<guid isPermaLink="false">05a1378ae455d54de0c67676739e0043e0e023fd8bdbabb1b19b8a1e801dbe9c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:48:43 +0000</pubDate>
+<description>Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math , Altman said: "A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center. But from a global allocation perspective, actually, it's quite terrible to have everybo … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The biggest names in AI are backing a new way to opt out of scraping</title>
+<link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
+<guid isPermaLink="false">7a24eca35f77e86d873fde1b3133eb6c2782f99772d9581abac82b6be52a155a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:26:10 +0000</pubDate>
+<description>OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable . With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared "policy token" signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website's robots.txt file , which has long signaled which web crawlers can and can't scrape a site - whether for search indexing, archiving, or … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Meta settles another social media addiction case just before trial</title>
+<link>https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial</link>
+<guid isPermaLink="false">a3d201069ae57d583283c1f5eebe70fde24134ea16219ccc7db2656b3962269e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:21:28 +0000</pubDate>
+<description>Snap is now the only defendant in the case.</description>
+<enclosure url="https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg" medium="image"/>
+</item>
+<item>
+<title>Bluesky now has a dedicated 'moderation inbox'</title>
+<link>https://www.engadget.com/2302932/bluesky-now-has-a-dedicated-moderation-inbox</link>
+<guid isPermaLink="false">d7844361176bb09489e0a4af35d5c28c539fcccfe884fe8e97a028b7b36c6d71</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:07:00 +0000</pubDate>
+<description>The beta feature makes it easier to stay on top of reports and account strikes.</description>
+<enclosure url="https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg" medium="image"/>
+</item>
+<item>
 <title>Everything you need to know about Googlebooks</title>
 <link>https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks</link>
 <guid isPermaLink="false">2a5279909cfde7c85c109063c992abd85f2d3a6234546dc456ecdf9194bdd80a</guid>
@@ -345,17 +389,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Waymo’s next robotaxi is a purpose-built Toyota bZ4X</title>
-<link>https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x</link>
-<guid isPermaLink="false">d67e2b82a2836f5d5b5c0bedc8f70a3b516dc6bf9347e050001505b1cb39d86f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:52:14 +0000</pubDate>
-<description>Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025 . The robotaxis will be built entirely under one roof at Toyota's Takaoka plant in Toyota City, Aichi Prefecture, Japan. Instead of building regular cars and modifying them later, the factory will install Waymo's self-driving sensors and computers right on the assembly line as each car is made. A team-up between the world's largest automaker and the world's leader in autonomous driving obviously has huge … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Hackers steal $6.3 billion from Binance in record crypto heist</title>
 <link>https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist</link>
 <guid isPermaLink="false">34de106ce90dc24942c814f4c527e12d4016bf7080b6b16744fc5f3592040f9a</guid>
@@ -376,17 +409,6 @@
 <description>The University of Manchester is scrutinizing why growing adoption of AI tools has so far failed to translate into the forecast productivity gains, however, researchers are struggling to give easy answers to close the "AI ambition gap." In a report, also called “ The AI Ambition Gap ,” the UK university’s Productivity Institute mulls over the advances that have been made in AI and the expanding adoption of it, and sets out what business leaders and policymakers can do to realize the potential benefits. The report was commissioned by IT services biz Bytes Technology Group . One reason for the lack of results is that organizations have invested heavily up front on retraining staff, reorganizing the way they work and other adjustments. Those costs show up straight away, yet the payback doesn’t come until later. Another reason, the report suggests, is that AI tools can raise productivity at the level of individual tasks, but these gains do not automatically translate into greater productivity across a worker’s whole role or the entire organization. It cites the example of software developers using GitHub Copilot who completed around 26 percent more tasks, and professionals using ChatGPT for routine writing and analysis that reduced task completion time by 40 percent while improving the quality of the output by 18 percent. However, a study of AI dev tools found these have increased coding activity by approximately 240 percent, while the number of actual software releases has only grown by about 30 percent. The gap is due to humans still needing to check and test their work before release. High task exposure to AI does not automatically make a worker more productive, the researchers say. Jobs typically combine automatable activities with tasks that require judgement, coordination, client interaction and critical thinking. As AI removes or accelerates some activities, those complementary human tasks become the constraint on time saving and the translation of task-level gains into greater productivity Job outcomes therefore depend on task composition and complementary human expertise, the report continues. It suggests AI may in part displace labor from existing tasks, while also creating new tasks in which workers retain a comparative advantage. This could be good news for the UK, the researchers state. Compared with five other nations (US, Brazil, Colombia, India and South Africa), Blighty has the highest share of workers in occupations with both high exposure to AI and "high complementarity," it claims. This is in part related to the country’s large financial and professional business service sectors, which are characterized by a high share of cognitive occupations. This is just as well, as the government is pinning its hopes on using AI to drive economic recovery in a strategy outlined at the start of last year. Britain's AI sector is relatively large by European standards, and the report cites recent OECD estimates that high-exposure economies such as</description>
 <enclosure url="https://image.theregister.com/?imageId=5306604&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306604&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Silicon Valley wants you to invest in miracles</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
-<guid isPermaLink="false">57bd8cae501a4c7803bcdea65bff5258df6940e4c6836b6573eb0e88f1b387dc</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
-<description>Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, Anthropic suggests in a letter at the top of its S-1 filing, you have to just believe. Anthropic's 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Silicon Valley's interactions with Wall Street. In some ways, it's not even that bizarre; SpaceX IPO'd in June after filing an S-1 that referenced din … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Harley-Davidson's electric motorbike brand has 'substantial doubt' about its future</title>
@@ -794,17 +816,6 @@
 <description>Vera Platforms, a startup founded by researchers at the University of Michigan, believes there's a way to make agents trustworthy enough to handle DevOps. DevOps, which focuses on how software gets deployed and operated, is a particularly unforgiving affair. While AI agents have some leeway to make mistakes and correct errors as they generate code and work through a prompt, it's an entirely different matter when they make changes to real infrastructure running production workloads. "Live infrastructure is unforgiving," Ang Chen, CEO of Vera Platforms and an associate professor at the University of Michigan, told The Register . "An incorrect change can take down a service, open a security hole or erase data. Mistakes are often irreversible, and there’s no safe way to experiment: running code against production infra just to see what happens isn’t an option." For the past few years, Chen and his colleagues have been working on a way to benchmark agentic DevOps and a gym – a simulation environment – to help AI models get better at DevOps tasks. "From the research that we did, we've figured out various weaknesses of leading models," said Chen. "For instance, [Anthropic's] Claude, although it's very strong with Python generation, it just has some fundamental limitations that it can't get right when it comes to DevOps." An example of that, Chen said, is that when they asked Claude or OpenAI's Codex to decommission resources in the AWS cloud, the models didn't look beyond the default region. "The default region is us-east-1," he explained. "There are various regions in AWS, but Claude doesn't have this awareness that the cloud resources could exist in multiple regions, so it only decommissioned part of the resource." The fundamental reason, he said, is that these models have seen a lot of public code, but a lot less operational tracing. Vera Platforms aims to remedy the situation with three products: vera-gym, a playground environment that emulates production infrastructure; vera-bench, a test for measuring where AI agents fumble DevOps tasks; and vera-agents, AI agents that have been trained in vera-gym and are ready to be deployed for DevOps tasks. The CloudOpsBench test being released builds upon work done in 2024 that was presented at NeurIPS. According to Chen, Claude and Codex only score about a 50 percent pass rate. "It's a very, very hard set of tasks," he said. The test covers tasks like deleting decommissioned S3 buckets , repairing a compliance event pipeline , and restoring DynamoDB write autoscaling . "The tasks are authored by senior infra operators with many years of experience, with rigorous peer review," said Chen. This benchmark has the advantage of not requiring an actual cloud deployment. "We have a high fidelity simulator that mimics Amazon behavior," said Chen. "So the rollout, the performance of the agent on the real cloud and the performance of the agent in our emulator is exactly the same. So for every API, we have this comparis</description>
 <enclosure url="https://image.theregister.com/?imageId=5306496&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306496&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Popcorn bucket innovation is at an all-time low and the Dune: Part Three 'Double Sandworm' is proof</title>
-<link>https://www.engadget.com/2301587/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof</link>
-<guid isPermaLink="false">80caded14a1b27f655ba65c9313d1ad0d52e61aa85dee32399b8e65865b1be34</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 19:40:27 +0000</pubDate>
-<description>Just what the Sandworm bucket needed: a second hole.</description>
-<enclosure url="https://www.engadget.com/img/gallery/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/l-intro-1793302293.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/l-intro-1793302293.jpg" medium="image"/>
 </item>
 <item>
 <title>Topcoat enables Rust to render server-side web apps</title>
