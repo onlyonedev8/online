@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA ponders a Hubble servicing mission or a controlled deorbit</title>
+<link>https://www.theregister.com/science/2026/10/30/nasa-ponders-a-hubble-servicing-mission-or-a-controlled-deorbit/5306622</link>
+<guid isPermaLink="false">7db7362d9832372a3234831799d8639ac29a9acdfd98882835da17b0d589c251</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
+<description>NASA has posted a contract opportunity notice, also known as a request for information, from commercial space orgs who can service the Hubble Space Telescope. Hubble was always looked after by NASA astronauts flying on the Space Shuttle, yet the last Hubble Space Telescope (HST) servicing mission was the STS-125 Space Shuttle flight, launched on May 11, 2009. At the time, scientists hoped the mission would add another five years of operational life to the venerable spacecraft. Almost 17 years on, the HST (aka Hubble) is still delivering science. However, time is running out for the observatory. NASA reckons there is a 10 percent chance it could reenter the Earth's atmosphere by September 2032, rising to 50 percent by December 2033. As the end of the Swift mission showed, increased solar activity can cause greater-than-anticipated atmospheric drag. Also, like Swift, Hubble has no propulsion system, and so when it reenters (as it will, without intervention), the reentry will be uncontrolled. Hubble is sufficiently massive that there is a remote chance somebody on the ground could have a very bad day when that happens. As such, one mission option suggested by NASA is a vehicle to grapple the observatory and perform a controlled reentry and disposal. However, there are other options. Something to boost the telescope's orbit up to at least 600 km, or another to "enhance its ongoing performance and increase its resilience and expected on-orbit lifetime." Both are intriguing options, and important since, as NASA acknowledges, no replacement for Hubble is expected before the 2040s, when the Habitable Worlds Observatory (HWO) could become operational. Despite the James Webb Space Telescope (JWST) and the Nancy Roman Space Telescope, Hubble remains in high demand, with NASA reporting a 7:1 oversubscription. Before becoming NASA Administrator, Jared Isaacman advocated a SpaceX mission to boost the Hubble, but the idea was ultimately rejected. Similar plans could now be dusted off. NASA's requirement is for a mission to occur by 2032, and not harm the Hubble. A soft-capture mechanism was fitted to Hubble during the STS-125 mission, which will mean docking with the spacecraft will be easier than the grappling planned for Swift. Then, the question is what to do with it. A controlled reentry is one option. The other options – boosting to a higher altitude or "enhance its ongoing performance and increase its resilience" are intriguing. Northrop Grumman's Mission Extension Vehicle (MEV) , for example, is capable of on-orbit servicing and extending the lifetime of satellites. The Hubble is an order of magnitude more challenging, but the technological hurdles can be overcome with time and funding. Last year, The Register spoke with Dr John Grunsfeld, one of the astronauts (now retired) who worked on Hubble during the STS-125 mission. Grunsfeld told us that the veteran spacecraft faced death by a thousand cuts as its budget was whittled away. The observatory itself</description>
+<enclosure url="https://image.theregister.com/?imageId=225671&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=225671&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>GM to pay $220 million after selling customer Smart Driver data</title>
+<link>https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data</link>
+<guid isPermaLink="false">287221e43fae35256cab43a2eaa5cb08ca821e01b9c7f86a15c09a6990bcb343</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 13:53:20 +0000</pubDate>
+<description>General Motors marketed its Smart Driver system as a way for parents to monitor teen drivers or for adults to track their driving behavior. But in 2024, it emerged that GM had been sharing that data with brokers. Those brokers then sold the data to insurance companies , and some drivers found that their insurance became more expensive as a result. To make matters worse, many of those drivers claimed they had no knowledge of ever agreeing to share such data for such purposes. Last year , GM and its OnStar subsidiary entered into a settlement with the FTC, prohibiting them from sharing some kinds of driver data with third parties. The settlement was finalized this January. That agreement banned the two companies from sharing geolocation data or driver behavior data for five years. At the time, GM also discontinued Smart Driver across its entire range. Now the automaker has reached terms with the District of Columbia and 35 states after their attorneys general joined together to sue GM as well. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Waymo’s next robotaxi is a purpose-built Toyota bZ4X</title>
+<link>https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x</link>
+<guid isPermaLink="false">d67e2b82a2836f5d5b5c0bedc8f70a3b516dc6bf9347e050001505b1cb39d86f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 13:52:14 +0000</pubDate>
+<description>Waymo announced today that when it launches a robotaxi service in Tokyo in 2027 , it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025 . The robotaxis will be built entirely under one roof at Toyota's Takaoka plant in Toyota City, Aichi Prefecture, Japan. Instead of building regular cars and modifying them later, the factory will install Waymo's self-driving sensors and computers right on the assembly line as each car is made. A team-up between the world's largest automaker and the world's leader in autonomous dri … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Hackers steal $6.3 billion from Binance in record crypto heist</title>
+<link>https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist</link>
+<guid isPermaLink="false">34de106ce90dc24942c814f4c527e12d4016bf7080b6b16744fc5f3592040f9a</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 13:46:39 +0000</pubDate>
+<description>Binance has suspended all withdrawals after the world’s largest cryptocurrency exchange fell victim to what appears to be the biggest heist in history. The exchange put the “estimated total impact” of the hack at about $6.3 billion and said around $3 billion of affected assets, mainly stablecoins that act as cash for the crypto market, had been frozen. But analysts at Elliptic said the attacker had changed about $3.3 billion into digital assets that could not be frozen and was working to cash those out as traditional currency. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>AI projects not paying off? Keep at it, says Uni Productivity Institute</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/30/ai-projects-not-paying-off-keep-at-it-says-uni-productivity-institute/5306581</link>
+<guid isPermaLink="false">842a95fc300b2d49389b3ff397179f7067355875a0c0cff13635aeb230d6fb63</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 13:15:00 +0000</pubDate>
+<description>The University of Manchester is scrutinizing why growing adoption of AI tools has so far failed to translate into the forecast productivity gains, however, researchers are struggling to give easy answers to close the "AI ambition gap." In a report, also called “ The AI Ambition Gap ,” the UK university’s Productivity Institute mulls over the advances that have been made in AI and the expanding adoption of it, and sets out what business leaders and policymakers can do to realize the potential benefits. The report was commissioned by IT services biz Bytes Technology Group . One reason for the lack of results is that organizations have invested heavily up front on retraining staff, reorganizing the way they work and other adjustments. Those costs show up straight away, yet the payback doesn’t come until later. Another reason, the report suggests, is that AI tools can raise productivity at the level of individual tasks, but these gains do not automatically translate into greater productivity across a worker’s whole role or the entire organization. It cites the example of software developers using GitHub Copilot who completed around 26 percent more tasks, and professionals using ChatGPT for routine writing and analysis that reduced task completion time by 40 percent while improving the quality of the output by 18 percent. However, a study of AI dev tools found these have increased coding activity by approximately 240 percent, while the number of actual software releases has only grown by about 30 percent. The gap is due to humans still needing to check and test their work before release. High task exposure to AI does not automatically make a worker more productive, the researchers say. Jobs typically combine automatable activities with tasks that require judgement, coordination, client interaction and critical thinking. As AI removes or accelerates some activities, those complementary human tasks become the constraint on time saving and the translation of task-level gains into greater productivity Job outcomes therefore depend on task composition and complementary human expertise, the report continues. It suggests AI may in part displace labor from existing tasks, while also creating new tasks in which workers retain a comparative advantage. This could be good news for the UK, the researchers state. Compared with five other nations (US, Brazil, Colombia, India and South Africa), Blighty has the highest share of workers in occupations with both high exposure to AI and "high complementarity," it claims. This is in part related to the country’s large financial and professional business service sectors, which are characterized by a high share of cognitive occupations. This is just as well, as the government is pinning its hopes on using AI to drive economic recovery in a strategy outlined at the start of last year. Britain's AI sector is relatively large by European standards, and the report cites recent OECD estimates that high-exposure economies such as</description>
+<enclosure url="https://image.theregister.com/?imageId=5306604&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5306604&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Silicon Valley wants you to invest in miracles</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
+<guid isPermaLink="false">57bd8cae501a4c7803bcdea65bff5258df6940e4c6836b6573eb0e88f1b387dc</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
+<description>Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, Anthropic suggests in a letter at the top of its S-1 filing, you have to just believe. Anthropic's 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Silicon Valley's interactions with Wall Street. In some ways, it's not even that bizarre; SpaceX IPO'd in June after filing an S-1 that referenced din … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Harley-Davidson's electric motorbike brand has 'substantial doubt' about its future</title>
+<link>https://www.engadget.com/2302065/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future</link>
+<guid isPermaLink="false">4e86ec332b8d84e59ea4963389c461124affbc060ba4a4176c8c9717e5e8a8e3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 13:06:06 +0000</pubDate>
+<description>LiveWire's warns that it may not survive its current financial difficulties.</description>
+<enclosure url="https://www.engadget.com/img/gallery/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/l-intro-1793365250.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/l-intro-1793365250.jpg" medium="image"/>
+</item>
+<item>
 <title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</link>
 <guid isPermaLink="false">1c953c6f303dffb252a480a889db46f1c094b8286ebd259939b02c786fab2893</guid>
@@ -32,7 +109,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 12:48:40 +0000</pubDate>
-<description>Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far, and says it will cover losses Tell us: have you been affected by the Binance hack? Business live – latest updates The world’s largest cryptocurrency exchange has been hit by an industry-record $6.3bn (£4.7bn) hack, with experts identifying North Korea as the likely culprit. Binance has scrambled to freeze the affected assets, with about $3bn located so far. The company gave no update on the other $3.3bn as Binance’s co-founder Yi He said the company would cover “all hacking losses”. Continue reading...</description>
+<description>Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far, and says it will cover losses Q&amp;A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? Business live – latest updates The world’s largest cryptocurrency exchange has been hit by an industry-record $6.3bn (£4.7bn) hack, with experts identifying North Korea as the likely culprit. Binance has scrambled to freeze the affected assets, with about $3bn located so far. The company gave no update on the other $3.3bn as Binance’s co-founder Yi He said the company would cover “all hacking losses”. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/a0e5af33d483d9aab5e06bd85fc2dc72c9948b20/333_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=842ec8088e52df8bd83ba9aee4bff656" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/a0e5af33d483d9aab5e06bd85fc2dc72c9948b20/333_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=842ec8088e52df8bd83ba9aee4bff656" medium="image"/>
 </item>
@@ -46,6 +123,17 @@
 <description>If not notebook, why notebook shaped? Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to be ready, says David Sedaris in that one MasterClass I watched on a flight. With this one special new notebook, I will see the world differently. I'll steal moments for myself to write, rather than pulling out my phone to scroll at every opportunity like a trained monkey. And a few weeks, a month, or maybe a year later, I'll concede that it didn't change everything an … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>NHS quango warns of risk to GP patient data after website vendor collapse</title>
+<link>https://www.theregister.com/public-sector/2026/10/30/nhs-quango-warns-of-risk-to-gp-patient-data-after-website-vendor-collapse/5306647</link>
+<guid isPermaLink="false">a42c6fd0eccac0443ac4837c80bd1cfcfae8634b3fc3a7fa046603930e71b507</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 12:30:00 +0000</pubDate>
+<description>The UK's top health quango has called on family doctors to figure out how to preserve health information and get in touch with patients after a website provider collapsed earlier this month. NHS England has taken the unusual step of writing to GPs, warning them of the risks to patient information and continuity of service following the disruption to potentially hundreds of practices around the UK. Silicon Practice Digital Health Solutions — owned by Schappit Ltd — has gone into administration . Reports suggest some GP websites have gone offline completely. Practice managers fear the extra workload and are struggling to stand up alternative forms of communication since the switch to digital channels. NHS England is the government unit which runs the health service in England, but it is not directly responsible for GP practices, the vast majority of which are independent contractors. Nonetheless, the quango’s CTO, Kevin Humphries, wrote to practices and NHS organizations this week outlining his priorities in mitigating the impact of tech service collapse. They include finding ways of preserving any historical patient information, particularly where it has not been moved to clinical systems, managing the online consultation backlog to make sure no additional requests are added, and identifying channels for patient access until new online systems are available. Practices should also consider whether they have a legal obligation to tell the Information Commissioner's Office if the "availability, integrity, confidentiality or recoverability of personal data" is affected, according to the communication seen by The Register . NHS management bodies called Integrated Care Boards are responsible for GP IT service arrangements, making sure they include "clinical safety, data security, cyber security and business continuity assurance across the GP IT supply chain," Humphries said. They need to find someone to lead their recovery plan and contact affected practices and trusts. They should also "work with practices and other impacted organizations to support them in revisiting and assessing whether to enact business continuity and disaster recovery plans," Humphries said. Questions over how an urgent NHS-wide response is required for the collapse of a relatively small supplier may come later. Among them will be the due diligence conducted before Schappit Ltd was added to a government framework in July . GP and open-source tech campaigner Marcus Baw has published a free, open source template for an alternative website should practices want to bring systems in-house. He said the template is based on accessible NHS web standards, and has the same look-and-feel of common NHS websites. "Practices can deploy it for free, and take back in-house control of their own website. It's a replacement website template which practices can set up using Claude Code in the web in an afternoon," he said. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5306670&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5306670&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Meta quietly launches an AI fashion app for virtually trying on clothes</title>
@@ -92,13 +180,24 @@
 <media:content url="https://www.engadget.com/img/gallery/lenovo-googlebook-15-review-your-android-phones-new-best-friend/l-intro-1793300409.jpg" medium="image"/>
 </item>
 <item>
+<title>British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many</title>
+<link>https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605</link>
+<guid isPermaLink="false">6d14240ae07d6be9ee2c69ae70d6ed218d0b6edda0f3a55897c1cdb17d27a219</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 11:45:00 +0000</pubDate>
+<description>Thousands of GCHQ storage drives containing sensitive data have been lost for years, and the British signals intelligence agency still cannot explain where they are. According to the Investigatory Powers Commissioner’s Office’s (IPCO) annual report , the missing storage drives have been known to officials for years, and may contain data related to the Investigatory Powers Act (IPA) . "I remain concerned that GCHQ has not yet established a sufficiently clear understanding of the scale, location, and recoverability of lost removable media that may contain IPA-related data, notwithstanding that the underlying issues were first drawn to my attention several years ago," wrote investigatory powers commissioner Lord Brian Leveson. "While I recognize the technical and practical challenges involved, the passage of time without a comprehensive account heightens the importance of sustained senior focus and assured remediation. Given the potential sensitivity of the material involved, I will continue to monitor progress closely.” Described as "a very significant number," the report notes that GCHQ has scoped the maximum number of potentially lost drives, but is unaware of the exact scale of the issue. The agency has embarked on "a program of further work" to locate as many of the lost devices as possible, which includes implementing an automated asset-tracking system by the end of the year. After this is up and running, it said it will be able to provide a more precise number of lost drives. A GCHQ spokesperson told The Register : "As IPCO have reported, our management system for removable media was previously not sufficiently robust to effectively track the items that were registered for use. IPCO are right to note the flaws in the data the system produced, and we have taken action against all their recommendations. "We recognize the importance of security of removable media in our systems, and have a range of measures to mitigate the risks posed by these items. The findings in the report have been addressed comprehensively, and all necessary steps to correct this issue have been taken." Peter Sommer, digital forensics expert and visiting professor at de Montfort and Birmingham City universities, told us: "Bearing in mind the sort of highly sensitive data collected and processed by GCHQ IPCO is right to be very concerned, the more so as the issue is already several years old. Vast quantities of data can be stored on the cheapest lowest cost hard disks and cards. At a much more modest level as an expert witness I know how important it is to keep careful track of the data entrusted to me." Losing important devices is not an achievement that's exclusive to GCHQ. Myriad stories like this have emerged from all corners of the public sector over the years, such as the British Minidstry of Defence misplacing USB drives containing secret information in the mid-noughties, civil servants routinely losing their BlackBerry handsets , and UK police losing thousands of de</description>
+<enclosure url="https://image.theregister.com/?imageId=197715&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=197715&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Binance hackers stole $6.3 billion in record-breaking crypto heist</title>
 <link>https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist</link>
 <guid isPermaLink="false">87d27a9f8a0972f50737729b865ab580f1bcb162d9885ea9fa08e86b75154f0a</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 11:44:53 +0000</pubDate>
-<description>Binance says it will cover all loses resulting from the hack. | Image: Cath Virginia / The Verge, Turbosquid Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X , the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been frozen so far. Binance has publicly committed to covering any losses resulting from the hack. The company has an emergency reserve fund of around $1.3 billion (at last valuation) to protect user assets in these situations, and said it has also reserved over $6.34 billion of company funds to cover this incident - $5 billion of which … Read the full story at The Verge.</description>
+<description>Binance says it will cover all losses resulting from the hack. | Image: Cath Virginia / The Verge, Turbosquid Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X , the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been frozen so far. Binance has publicly committed to covering any losses resulting from the hack. The company has an emergency reserve fund of around $1.3 billion (at last valuation) to protect user assets in these situations, and said it has also reserved over $6.34 billion of company funds to cover this incident - $5 billion of which … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -312,17 +411,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_44000.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Intel says it&amp;#8217;s selling every affordable laptop chip it can make</title>
-<link>https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage</link>
-<guid isPermaLink="false">b56b4f60a916101373916e1501a5a14da66d65c6e259b54ce1dbea0f154927bd</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 23:42:21 +0000</pubDate>
-<description>During Intel's latest earnings call , CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips "is outstripping supply." According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has "seen significant growth in Wildcat Lake. It's coming exactly at the right time because it's cost-optimized and we're seeing a lot of focus in that regard." As shortages of RAM and other components have driven up PC prices over recent months, Intel's Wildcat Lake chips have been appearing in new lower-cost Windows laptops on par with the MacBook Neo, like the new Dell XPS 13 or the HP Omnibook 5 14 . Wildcat Lake laptops like … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK094_02.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched</title>
 <link>https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508</link>
 <guid isPermaLink="false">140e6981e38c63cddaf3fa58e3453ddd133e56bd819159b00bf5b3627492fc34</guid>
@@ -343,17 +431,6 @@
 <description>The adaptation will be directed by Karyn Kusama, and scripted by the writers of The Invitation.</description>
 <enclosure url="https://www.engadget.com/img/gallery/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/l-intro-1793314079.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/l-intro-1793314079.jpg" medium="image"/>
-</item>
-<item>
-<title>Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’</title>
-<link>https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic</link>
-<guid isPermaLink="false">b129b1425d590d1de6275580fb433da5e4c0c90479d9a2f2f9fcbbe48d501c53</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 22:19:32 +0000</pubDate>
-<description>Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers . As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has "dropped by more than 1 million referrals on average per week," and he attributes part of the company's struggles with Google traffic to how AI Mode and AI Overviews change the search experience. "The reality is, AI Mode does not drive traffic," Huffman says. "Not for us, and not to anybody, as far as I know. That's just a fundamental shift in how Google works. It used t … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Meta is testing 'Threads Friends' for sharing posts with smaller groups</title>
@@ -684,17 +761,6 @@
 <description>Google parent Alphabet reported its Q3 financial results on Wednesday afternoon, showing a healthy rise in revenue for the months of July to September. But the company's stock price has taken a beating, marking one of the largest post-earnings drops in its history. It comes down to several troubling aspects of the new report, including an admission by the company that AI search isn't earning as much as organic search, and despite that, Google expects to spend even more on AI next year. The company took in almost $128 billion in Q3 2026, earning more than $26 billion in net income. These may sound like good numbers, but financial markets are not impressed. While revenue is up 25 percent versus last year, net income is almost $9 billion lower. As of this story's publication, the stock price is down almost 12 percent, and it was down about 13 percent earlier in the day. While revenue was up 25 percent year over year, analysts expected more. Google reported earnings per share of $2.12, but the consensus projection ahead of Wednesday was $3.02. Google's Cloud products actually beat expectations, crossing $30 billion in revenue. That's about a billion more than analyst guesses. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>ThermoWorks debuts shorter version of its RFX Meat wireless probe for small cuts</title>
-<link>https://www.engadget.com/2301085/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts</link>
-<guid isPermaLink="false">588465b5d13a70513fe6bdfad31f5c37b749c0abd81b286b397b6cebf4174207</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 16:04:13 +0000</pubDate>
-<description>The RFX Meat Mini offers nearly identical performance to the full-sized grilling probe.</description>
-<enclosure url="https://www.engadget.com/img/gallery/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/l-intro-1793289798.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/l-intro-1793289798.jpg" medium="image"/>
 </item>
 <item>
 <title>GSA left sensitive Google Drive files open to staff, contractors</title>
@@ -1126,17 +1192,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1244516861.jpg" medium="image"/>
 </item>
 <item>
-<title>Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use</title>
-<link>https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use</link>
-<guid isPermaLink="false">490073e57670269a1c9c6bc86a154f29e61acbfafe5ffcca122d2375991b60f9</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:47:27 +0000</pubDate>
-<description>It's almost like Google's got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out Gemini 4 Argon , Google has announced Gemini 4 Carbon . This isn't the Flash model equivalent we've been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while. Stop me if you've heard this one before: Google says its latest AI model reaches a new threshold in coding, agentic tasks, and scientific analysis. It's so capable, in fact, that Google can't let you use it just yet. Gemini 4 Carbon reportedly makes big gains in cybersecurity applications. Google says the model shows a "significant leap" in vulnerability detection, validation, and remediation. Carbon is also apparently twice as likely to generate code that is free of vulnerabilities versus Argon. Meanwhile, the Chrome team claims that Carbon is 10 times better at generating "high-quality" patches compared to non-Google models. Google also notes that Carbon has increased its score by 89 points on WebDev Arena , now ranking at number four on the leaderboard. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Amazon’s new Alexa Photo Frame could have what I’ve been missing – here’s why</title>
 <link>https://www.zdnet.com/tech/amazon-alexa-photo-frame</link>
 <guid isPermaLink="false">ed3153a75d554e7e9db5bf13ff101d1a99438f00172dececce360af4120e013d</guid>
@@ -1146,17 +1201,6 @@
 <description>You can ask Amazon’s voice assistant to show you your favorite photos.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Amazon-Alexa-Photo-Frame.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Amazon-Alexa-Photo-Frame.jpg" medium="image"/>
-</item>
-<item>
-<title>Amazon turns its most capable smart speaker into a smart camera, too</title>
-<link>https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra</link>
-<guid isPermaLink="false">dd2432b415916b68835ffede1604a9a49330c8485daa0f6876e8b440d6ad3ca7</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:05:22 +0000</pubDate>
-<description>Since debuting in 2019, Amazon's Echo Studio targeted users who wanted superior audio quality from their Alexa-based smart speaker. The latest Echo Studio adds another less-expected differentiator: an integrated camera. The Echo Studio with Home Camera, released alongside a pile of other Alexa devices today, doesn’t have many audio upgrades over the standard Echo Studio. Each speaker has one 3.75-inch high-excursion woofer and three full-range drivers. They both support Dolby Atmos and Amazon’s proprietary algorithm for adding a surround sound-like effect to stereo audio. Per the devices’ product pages, the speakers have lossless HD audio, Advanced Room Adaptation, and features for fighting noise distortion. Amazon announced the Advanced Room Adaptaion today, saying that the feature “continuously tunes the sound to your space, automatically adapting to the room's acoustics.” Both speakers have four-microphone arrays and the same AZ3 Pro processor that Amazon introduced a year ago . The processor has an AI accelerator for using Amazon's Alexa+ generative AI chatbot . Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png" medium="image"/>
 </item>
 <item>
 <title>These Claude Enterprise features let you track AI ROI – what’s new</title>
@@ -1368,39 +1412,6 @@
 <media:content url="https://image.theregister.com/?imageId=5305491&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Man spends 35 years collecting corporatespeak, turns it into an app</title>
-<link>https://www.theregister.com/offbeat/2026/10/28/man-spends-35-years-collecting-corporatespeak-turns-it-into-an-app/5305765</link>
-<guid isPermaLink="false">dfa87bb64516423bc21ebe3cd58f98769a0e8df19a3a06229a50ff1f4a6f9013</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 10:15:00 +0000</pubDate>
-<description>After suffering more than 10,000 corporate meetings, one executive has decided that the world hasn't endured nearly enough management jargon and built an app capable of generating 270 million variations of it. Dave Doty, who claims to have spent 35 years collecting buzzwords, clichés, and other verbal atrocities inflicted on office workers, turned his life's work into Executive Eightball, an iPhone and Android app designed to help users sound convincingly corporate while saying nothing. The idea came about after Doty spent decades recording the nonsense he heard in meetings, presumably while everyone else was busy circling back, touching base, and taking things offline. "I am an executive who has suffered through over 10,000 meetings during the course of my 30-year career," Doty told The Register . "To keep my sanity, in each of them, I wrote down all of the buzz words and business clichés and have built an enormous database of them." He described his creation as "sort of what would happen if Dilbert and George Costanza had a love child." The app, which is now available on Apple's App Store and Google Play, takes Doty's collection of corporate waffle and assembles it into sentences that wouldn't look out of place in a CEO's quarterly update or a particularly painful all-hands meeting. Among the pearls of wisdom it can produce are "We must dashboard the outputs to enable us to focus on operational directives and break the paradigm" and "Drive to cross-functional synergies so we can reengineer the organization and unleash shareholder value." Doty claims Executive Eightball can produce approximately 270 million unique sentences in 15 languages, meaning workers across the globe can now contribute to meetings without the tiresome business of having an actual idea. The app's listing promises to help users "Speak fluent corporate nonsense instantly," with suggested applications including office humor, LinkedIn jokes, presentation icebreakers, and, perhaps most appropriately, "Fake CEO energy." There's a free version, although you'll have to put up with ads and a limited supply of corporate waffle. For $0.99, you can unlock the lot and talk complete rubbish to your heart's content. The timing is rather fitting. In March, research covered by The Register suggested that people who enthusiastically embrace corporate buzzwords may actually be worse at their jobs. Now there's an app to help the rest of us catch up. Doty, meanwhile, appears delighted with his contribution to the corporate world. "This is truly a paradigm shift for corporate leadership and my greatest lifetime contribution to society," he wrote in his latest email, urging potential customers to subscribe to the paid version to "unleash the value." After 35 years and 10,000 meetings, at least someone has finally found a productive use for all that wasted time. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5305771&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305771&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Neocloud thinks AI agents - not meatbags - will be its main customers</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496</link>
-<guid isPermaLink="false">92b7783b3b632831e24a609913abf9e467ba3565db41fd1fe6a5149056edb5a4</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
-<description>Newly formed Quake AI is a cloud provider that expects its users will be mostly agents rather than humans. It was created after US-based Rumble Inc acquired German datacenter operator Northern Data in June. The parent then rebranded as RUM Group, a holding company for Quake AI (formerly Northern Data) and the Rumble video platform. Quake AI is an Nvidia Cloud Partner (NCP) operating a 22,000 GPUs estate, making it a neocloud: a specialized infrastructure provider dedicated to AI workloads. Yet where other neoclouds are building a full stack of services around their GPU farms, Quake AI wants to make its infrastructure discoverable to AI agents, which may soon be traversing the internet in hordes on behalf of their owners. RUM Group's chief financial officer Mike Masci told The Register that "Cloud 1.0 - let's call it applications - is like a user interface of how you interact with a machine of some kind." He added: "Now, if you think about agents, they don't use vision. That's not how they interact with systems. They interact with APIs and with information effectively, and that means they want highly discoverable, highly data-driven platforms.. “So, to us, the things that make GPUs and AI compute easier to consume for humans, things like model-as-a-service, dashboards and one-click settings, are actually orthogonal to, if not detrimental to what agents are going to want, agents are going to want homogeneous compute… to understand and know what your data and your expectations are in terms of performance and uptimes, and then they're going to want to consume that compute as a utility,” he claimed. In other words, Quake AI believes that, at some point, the customers for its compute services are going to be AI agents rather than people, but carrying out tasks on their behalf. “I think that is the case, and it's the vision that we are driving towards, and you know ultimately agents are in service of people, right?” Masci said. In its view of things, agents won't go through an intermediary, they'll go to the compute to retrieve the answers they need. "So all of these tool frameworks and all of these things that we have set up, I think, are a hindrance or an encumbrance to what the agents are going to want to consume, which is a utility," he explained. "Yes, we're a little crazy in this regard," Masci added. "It's different. But I think our worldview is very grounded in the data and the realities. Like, we're a technical team. We understand the engineering, and at the end of the day, I think that most would validate our hypothesis," he continued. John Hoffman, CEO of Northern Data and acting CEO of Quake AI, compared this with a solution he had been shown of an AI that was developed to navigate the internet by itself. "I told it I wanted pizza. It went on to DoorDash's website. Typed pizza in the search box, clicked on the pizza with the highest ranking, went to add to order, knows I like pepperoni, and it clicked through all of this," he said. "Don't ge</description>
-<enclosure url="https://image.theregister.com/?imageId=5239850&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5239850&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Why roaming packages have become an anachronism in the age of app-first travel</title>
-<link>https://www.theregister.com/personal-tech/2026/10/28/partner-content-why-roaming-packages-have-become-an-anachronism-in-the-age-of-app-first-travel/5303347</link>
-<guid isPermaLink="false">306ea943b57812bbdf747c8524581ac37d9a96f914322472c9674b70720d1fcd</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
-<description>Travelling in the modern day and age differs significantly from what it looked like a few short decades ago. Today, it is all about apps: you need applications for navigation, booking accommodation, buying tickets for events, following the local news, staying in touch with friends and family, and more. That also means that you depend on connectivity at all times while abroad. The problem is that a lot of people still rely on traditional roaming, while the roaming model is out of date. You cannot choose a specific mobile internet plan that suits your travel plans. Instead, operators have split the world into zones, and each zone has its own pricing, limits, and permissions. That is why many have turned to alternative ways of staying connected, and so far, the travel eSIM has emerged as the most practical solution. Companies like the Swiss eSIM pioneer, Yesim , have recognized the problem that travelers are facing and have come up with a solution. They let you pick a specific plan that will fit your trip. That way, you get to tailor your connectivity experience in advance. Furthermore, you even get to see the price in advance and know exactly what you will have to pay. Home-operator roaming: Connectivity under outdated rules The problem with roaming is that your home operator decides what your internet will be like abroad. When you try to book a flight or a hotel room, you will try to get the best deal possible. That means comparing providers, prices, any potential benefits that different providers offer, and the like. However, with roaming, you can’t do any of that. The terms of your existing home contract still apply, and connectivity abroad just gets added to it. That means that your operator decides what zones are available, what partner networks you can access, and, most importantly, how much they will charge you. You, as the user, can only accept their terms or choose to look for a different way to secure an internet connection. In other words, there is no flexibility and no participation on your end, you can only take it or leave it. Take EE as an example - the official terms for their EE Travel Data pass for Canada and the US say that the user gets 500 MB of data per day. This is not nearly enough for someone who will depend on their phone for everything, from paying for food to comparing ticket prices and booking accommodation. The limit is the same for countless other countries, including Australia, China, India, Mexico, New Zealand, South Africa, Thailand, Turkey, and the UAE. It gets even worse for other countries, including Japan, Singapore, South Korea, and Indonesia. For these, the daily allowance is only 150 MB. That essentially forces you to ration your data use very carefully and pick what you are going to use it for. Some providers have introduced daily packages as a secondary roaming option. O2 Travel Bolt On roaming option for Pay Monthly customers charges £7 for every 24 hours of use. They start charging you as soon as you mak</description>
-<enclosure url="https://image.theregister.com/?imageId=5303349&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5303349&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws</title>
 <link>https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics</link>
 <guid isPermaLink="false">f53c7c72ecdfd9549fc202864317624b49b23eca45b6ef6a67471201cb75c090</guid>
@@ -1410,17 +1421,6 @@
 <description>Labor government under pressure to create social media watchdog as new online safety standards bill passes lower house Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast The federal government wants to ban AI chatbots which seek to create “emotional intimacy” after prime minister Anthony Albanese raised the alarm in a heartfelt speech about children treating these agents as their “best friend”. But Labor is coming under increasing pressure to empower the telecommunications ombudsman to become a watchdog for social media and AI to give Australians an external complaints mechanism and allow the “naming and shaming” of big tech. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06d08423d6d026bb6ae8371bbaee1e67" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06d08423d6d026bb6ae8371bbaee1e67" medium="image"/>
-</item>
-<item>
-<title>SK Hynix says memory shortages to persist until 2030</title>
-<link>https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/5305887</link>
-<guid isPermaLink="false">aab22bfb9c37274fc2bf4560ca29845ab584bf8f077f8dc64204a0fb0034e18b</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 04:21:23 +0000</pubDate>
-<description>Korean memory-maker SK Hynix has predicted memory shortages will persist until at least the year 2030 and says that will help it to boost its already exceptional revenue and profits to new levels. In remarks published on Wednesday alongside its quarterly results, the company offered its belief that “a virtuous cycle has taken hold in which AI-driven productivity gains and new revenue generation in areas such as software development, customer service, and search lead to greater AI adoption, which in turn drives increased investment in infrastructure.” SK Hynix thinks this is great news, because it means more buyers are entering the market for AI infrastructure, including “general enterprises” and nations building sovereign infrastructure. In coming years, the company sees even more demand for memory coming from autonomous cars and the growing robotics market. While the company is working hard to build more factories and get them working, execs admitted it can’t do that fast enough to meet demand. “The company assessed that supply … is not keeping pace with the growth of the market,” SK Hynix told investors. “Given technical difficulty of leading-edge processes and the long lead time required to build new production facilities, it expects the structure in which demand exceeds supply to persist through 2030.” It gets worse. SK Hynix has 14 long-term deals with 14 big buyers, who will collectively buy more than half of its output during 2027 and 2028, and some of them want to extend those agreements. The Korean giant doesn’t mind that because the deals include “a mechanism that reflects market conditions within a price range agreed upon with customers” and give it “a structure that secures stable profitability while allowing flexible responses to market changes.” Those deals helped SK Hynix to record quarterly revenue of ₩104.6 trillion ($78.1 billion), up 328 percent year-over-year and 32 percent quarter-over-quarter. Operating profit came in at ₩87.68 trillion ($62.8 billion), up 486 percent year over year. The company told investors it’s not done yet, outlining plans to expand production and emphasize lucrative products that will “scale up revenue and profit one step further next year.” Doing so will likely dent profits elsewhere, because on the company’s earnings call, chief financial officer Kim Woo-hyun predicted “shipment volumes for PCs and mobile devices are expected to decrease due to cost burdens from rising memory prices and supply shortages.” The company also outlined some of its future plans, among them: Increasing HBM4 production, which it believes will “surpass HBM3E in both shipment volume and revenue in the fourth quarter and … establish itself as a mainstream product.” “Rapidly” increasing the portion of its 10nm-class 6th generation (1c) process technology and expand sales of DDR5 and LPDDR5 SOCAMM for AI servers. Developing NAND “into a core solution that enhances the throughput and economic efficiency of AI services, based on HB</description>
-<enclosure url="https://image.theregister.com/?imageId=5305894&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305894&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>AI bots flooded 2023 UK government consultation on disposable vapes ban</title>
