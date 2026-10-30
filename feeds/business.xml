@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Live updates: Binance says $6.34B set aside to cover hack losses</title>
+<link>https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor</link>
+<guid isPermaLink="false">61942ebf8875e91acacd1764d7f394683313af94f71f4bbb3d6970aafeb70d51</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 30 Oct 2026 11:44:20 +0000</pubDate>
+<description>Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Zcash grants group offers $124M compromise as governance backlash grows</title>
+<link>https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash</link>
+<guid isPermaLink="false">36b456ce8d82b7dbc781a09bf3eddace6da6eb102a554e01898a46f816cedc0d</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 30 Oct 2026 11:36:23 +0000</pubDate>
+<description>Zcash Community Grants proposed redirecting about $124 million in existing and future funding toward mining rewards, but critics say the plan fails to address governance and accountability concerns.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M668WKWWM9YJGJA1PV483QEA/zcash-proposal-grant-allocation.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M668WKWWM9YJGJA1PV483QEA/zcash-proposal-grant-allocation.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack</title>
+<link>https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack</link>
+<guid isPermaLink="false">ef05a733eb5fd946a0427d39c41bd0b3f9219f9fc06d4401dcf71cc9f550fd13</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 30 Oct 2026 11:29:23 +0000</pubDate>
+<description>Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3ANFG8K9N6H2586MPQRV7KT/hi-got-crypto-losses-wallet-1.jpg" medium="image"/>
+</item>
+<item>
+<title>EIP-7702 didn’t cause Binance hack, but may have amplified losses</title>
+<link>https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role</link>
+<guid isPermaLink="false">4ad9c4a17f03dc4796632700a1fcf2f0bbebe625dbf08d62f6c73ec7cdd0930b</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 30 Oct 2026 11:00:10 +0000</pubDate>
+<description>Security experts say attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6602N70GW2FG23Y7A1E55CV/hi-binance-hack.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6602N70GW2FG23Y7A1E55CV/hi-binance-hack.jpg" medium="image"/>
+</item>
+<item>
+<title>Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury</title>
+<link>https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury</link>
+<guid isPermaLink="false">f510101101af65269c229b5a3f509862fcee16944c8c42ba9895780271284e41</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Fri, 30 Oct 2026 10:54:30 +0000</pubDate>
+<description>The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M663XBRMVF35RHDZ0MC72744/hacker-binance-bitcoin-treasury.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M663XBRMVF35RHDZ0MC72744/hacker-binance-bitcoin-treasury.jpg" medium="image"/>
+</item>
+<item>
 <title>Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5</title>
 <link>https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5</link>
 <guid isPermaLink="false">414bdefb7a1507fa0fa8480b72ea31fee235d97a1cf39db32629cd1d24184c50</guid>
@@ -46,17 +101,6 @@
 <description>Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65XV5M4X2K1YMKC92QM6YWV/trezor-cryptobilis.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65XV5M4X2K1YMKC92QM6YWV/trezor-cryptobilis.jpg" medium="image"/>
-</item>
-<item>
-<title>Live updates: Binance uncovers more breach points in $6.3B hack</title>
-<link>https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor</link>
-<guid isPermaLink="false">61942ebf8875e91acacd1764d7f394683313af94f71f4bbb3d6970aafeb70d51</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 09:08:25 +0000</pubDate>
-<description>Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Here’s what happened in crypto today</title>
@@ -637,7 +681,7 @@
 <source>Cointelegraph</source>
 <category>business</category>
 <pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
-<description>USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?</description>
+<description>USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Utexo’s bridged version of USD₮ compete with stablecoins on ETH and TRON?</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YHVKK2EKX9WYW39GVN4K39/magazine-getting-a-home-loan-using-crypto-insane-or-just-risky-sounds.png" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YHVKK2EKX9WYW39GVN4K39/magazine-getting-a-home-loan-using-crypto-insane-or-just-risky-sounds.png" medium="image"/>
 </item>
@@ -717,50 +761,6 @@
 <description>Phase’s new network lets smartphone owners earn tokens for validating transactions and sharing internet connections with AI agents.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63HHFQGNJDZCHHXFXYBE56Z/hi-decentralized-social-media-during-riots-and-uncertainty.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63HHFQGNJDZCHHXFXYBE56Z/hi-decentralized-social-media-during-riots-and-uncertainty.jpg" medium="image"/>
-</item>
-<item>
-<title>HTX agrees to halt unlawful UK crypto promotions after FCA case</title>
-<link>https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca</link>
-<guid isPermaLink="false">b16112bf32d44bd881177adb0376a1c8e8f69697fd11d40caedfc2157820a769</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 12:20:27 +0000</pubDate>
-<description>HTX has pledged to stop crypto marketing in the UK until October 2031, with deposits and new account registrations already blocked there.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63R9CYRD1Y8NYM7MX76FWJS/hi-how-to-trade-crypto-in-uk1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63R9CYRD1Y8NYM7MX76FWJS/hi-how-to-trade-crypto-in-uk1.jpg" medium="image"/>
-</item>
-<item>
-<title>EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey</title>
-<link>https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth</link>
-<guid isPermaLink="false">d3548c226b3c6adcb3f820d59902c6388e48e0efc4a50a3bb5bedb07791b0684</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-<description>European investors ranked crypto above retirement plans for lasting wealth creation, while prior surveys show US investors are skeptical on crypto’s role in retirement accounts.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63ERM4BGFEBV3E6TAR9B0GH/hi-is-bitcoin-a-good-investment-for-retirement.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63ERM4BGFEBV3E6TAR9B0GH/hi-is-bitcoin-a-good-investment-for-retirement.jpg" medium="image"/>
-</item>
-<item>
-<title>Coinbase seeks Brazil crypto license, expects no service disruption</title>
-<link>https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected</link>
-<guid isPermaLink="false">9a3df1accd0b4e9cbc0acebd4db2f3f90cb7e10c731ab11cb09aac3bd1337b70</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-<description>Coinbase has applied for authorization ahead of Brazil’s Oct. 30 deadline and says it expects to maintain existing services while regulators review its application.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M637T12W73D9BN1G0B1PCCAS/hi-listing-frenzy-coinbase-has-added-nearly-100-assets-for-trading-in-202121.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M637T12W73D9BN1G0B1PCCAS/hi-listing-frenzy-coinbase-has-added-nearly-100-assets-for-trading-in-202121.jpg" medium="image"/>
-</item>
-<item>
-<title>Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says</title>
-<link>https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says</link>
-<guid isPermaLink="false">65a3760ca875b10f64419f59c7126d683698d061c620d8a3c33da2e4963672ef</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-<description>A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22T4WSTAGZ7E6YW1EWZGJDW/dollar-fiat-money-bitcoin-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto</title>
