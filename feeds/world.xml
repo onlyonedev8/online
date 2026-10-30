@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>&lt;a href="https://news.sky.com/video/ukraine-russia-ceasefire-this-winter-will-be-the-hardest-13605619"&gt;The people of Oleshky now face the hardest decision of their lives&lt;/a&gt;</title>
+<link>https://news.sky.com/story/the-people-of-oleshky-now-face-the-hardest-decision-of-their-lives-13605658</link>
+<guid isPermaLink="false">396c23a457d828d5a05f9d3c22601d3035c4046b86d14fdfa7cafee21b9bc328</guid>
+<source>Sky News World</source>
+<category>world</category>
+<pubDate>Fri, 30 Oct 2026 07:00:00 +0000</pubDate>
+<description>Pic: Ukraine/Stuart Ramasy VT</description>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-oleshky-ukraine-stuart-ramsay_7391492.jpg?20261029222524" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-oleshky-ukraine-stuart-ramsay_7391492.jpg?20261029222524" medium="image"/>
+</item>
+<item>
+<title>French minister warns of 'very high' violence risk as country braces for Halloween protests</title>
+<link>https://www.france24.com/en/france/20261030-french-minister-warns-of-very-high-violence-risk-as-country-braces-for-halloween-protests</link>
+<guid isPermaLink="false">86a715e4e7f5f1fde25707518cac5e98ae8defa5950f41f0af3f06d5a07359ae</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 30 Oct 2026 06:57:15 +0000</pubDate>
+<description>France will deploy some 70,000 police officers in Paris and other cities ahead of a new round of nationwide protests on Saturday, with Interior Minister Laurent Nuñez warning of a "very high risk of public disorder". The minister pledged an "extremely firm" response after mass protests on October 17 degenerated into rioting and looting.</description>
+<enclosure url="https://s.france24.com/media/display/4cfbcde0-d42d-11f1-9217-a575454bc579/w:1024/p:16x9/2026-10-17T155254Z-1065605411-RC225OAYR9N8-RTRMADP-3-FRANCE-PROTEST.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/4cfbcde0-d42d-11f1-9217-a575454bc579/w:1024/p:16x9/2026-10-17T155254Z-1065605411-RC225OAYR9N8-RTRMADP-3-FRANCE-PROTEST.jpg" medium="image"/>
+</item>
+<item>
+<title>French presidential hopeful Édouard Philippe quizzed in embezzlement case</title>
+<link>https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case</link>
+<guid isPermaLink="false">c57affa9e1e701dab9f0b713a11fe0fe14ea6aa51ca108819516fbab4cffba90</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 30 Oct 2026 06:36:18 +0000</pubDate>
+<description>French investigators on Thursday questioned former prime minister Édouard Philippe, a candidate in next year's presidential election, in a case of alleged embezzlement of public funds. His lawyer welcomed the move, noting that magistrates had chosen not to place the ex-PM under formal investigation.</description>
+<enclosure url="https://s.france24.com/media/display/7d92c268-bc01-11f1-8bef-177f79e345bf/w:1024/p:16x9/84109011edb91dfc4b0670eeca752d88a90ffe76.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/7d92c268-bc01-11f1-8bef-177f79e345bf/w:1024/p:16x9/84109011edb91dfc4b0670eeca752d88a90ffe76.jpg" medium="image"/>
+</item>
+<item>
 <title>3 dead in midair crash of 2 helicopters near Oregon airport: Sheriff</title>
 <link>https://abcnews.com/US/2-helicopters-collide-mid-air-oregon-airport-faa/story?id=137690382</link>
 <guid isPermaLink="false">6da9300a30bfdb7f2de2c4ca2faa0a661d1b0e50340c1214269f673c0cc127e4</guid>
@@ -15,7 +48,7 @@
 <media:content url="https://s.abcnews.com/images/US/AP26303116684562_1793335940424_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Binance security breach has $6.3 billion impact in potential record crypto heist</title>
+<title>Binance hit by $6.3 billion security breach in potential record crypto heist</title>
 <link>https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist</link>
 <guid isPermaLink="false">fe7cd8ca8416b4e0db11b89c037917bd7bbe0d3a6159d2bf52a9966c11f14c4e</guid>
 <source>France 24</source>
@@ -26,7 +59,7 @@
 <media:content url="https://s.france24.com/media/display/ac356662-d401-11f1-8552-d18c5759e759/w:1024/p:16x9/Part-GTY-1496426886-1-1-2.jpg" medium="image"/>
 </item>
 <item>
-<title>Netanyahu bloc in lead without majority in Israel election, say official results</title>
+<title>Netanyahu bloc leads but lacks majority, Israel's official results show</title>
 <link>https://www.france24.com/en/middle-east/20261030-netanyahu-bloc-in-lead-without-majority-in-israel-election-say-official-results</link>
 <guid isPermaLink="false">2dc8a1ab3b523f1c449ce7add5ea7f0caeeb11e81ce074c66fe2e78ced1b0b58</guid>
 <source>France 24</source>
@@ -521,17 +554,6 @@
 <media:content url="https://s.france24.com/media/display/1f220fdc-d3a7-11f1-940f-79db0eb73735/w:1024/p:16x9/capture-50d6a632.jpg" medium="image"/>
 </item>
 <item>
-<title>Pentagon shake-up continues: US fires top army general in latest ouster</title>
-<link>https://www.france24.com/en/video/20261029-pentagon-shake-up-continues-us-fires-top-army-general-in-latest-ouster</link>
-<guid isPermaLink="false">83cd3ea689b990c1167482fcde49e27aa62479c15510c32ec9f977394db84533</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 29 Oct 2026 15:30:44 +0000</pubDate>
-<description>The United States has fired its top military planner, The Atlantic reported Wednesday, in a surprise shake-up as President Donald Trump appears to be preparing to resume large-scale strikes against Iran. Army Lieutenant General Brett Sylvia was removed this week from his role as head of strategy, plans and policy on the Joint Chiefs of Staff. His ouster would be the latest in a series of high-profile departures from the military since Trump returned to power a year ago.</description>
-<enclosure url="https://s.france24.com/media/display/9629dd76-d3ac-11f1-900b-15e3238b6981/w:1024/p:16x9/EN-20261029-160839-161020-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/9629dd76-d3ac-11f1-900b-15e3238b6981/w:1024/p:16x9/EN-20261029-160839-161020-CS.jpg" medium="image"/>
-</item>
-<item>
 <title>Leaflets promoting clinics in illegal Israeli settlements handed out at London medical recruitment event</title>
 <link>https://news.sky.com/story/leaflets-promoting-clinics-in-illegal-israeli-settlements-handed-out-at-london-medical-recruitment-event-13605395</link>
 <guid isPermaLink="false">b99b495eac7d1fe7c9056ebfcac10c897cd73174684eeb7812db48c1201cf10e</guid>
@@ -541,17 +563,6 @@
 <description>Sky News has obtained copies of leaflets promoting medical clinics in illegal Israeli settlements by a company seeking to recruit British Jewish doctors at an event in London</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-west-bank-palestine_7391045.png?20261029183026" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-west-bank-palestine_7391045.png?20261029183026" medium="image"/>
-</item>
-<item>
-<title>Food safety in India: A challenge for the world's most populous country</title>
-<link>https://www.france24.com/en/tv-shows/focus/20261029-food-safety-in-india-a-challenge-for-the-world-s-most-populous-country</link>
-<guid isPermaLink="false">d71fe213e3e3642edd7cbf53f4211826ffc2c0a17fa3baaf587ba5be1b9c2e7d</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 29 Oct 2026 15:15:52 +0000</pubDate>
-<description>India's food industry feeds more than a billion people every day. But ensuring that what reaches consumers is safe has become an increasingly difficult challenge. The country has witnessed a rise in cases of food adulteration, with sometimes fatal consequences. As concerns over adulteration and poor hygiene grow, questions are being raised about whether regulators can effectively oversee such a sprawling sector.</description>
-<enclosure url="https://s.france24.com/media/display/3c02c5bc-d39b-11f1-a686-15e3238b6981/w:1024/p:16x9/capture-bf7600e4.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/3c02c5bc-d39b-11f1-a686-15e3238b6981/w:1024/p:16x9/capture-bf7600e4.jpg" medium="image"/>
 </item>
 <item>
 <title>Pentagon inspector general declines to investigate Starlink disruptions in Ukraine</title>
@@ -673,17 +684,6 @@
 <description>ABC News’ Linsey Davis speaks with a Long Island couple suing a now-former broker at realtor Douglas Elliman for housing discrimination, after the broker sent a text saying “Ugh they are black.”</description>
 <enclosure url="https://s.abcnews.com/images/US/261028_abcnl_prime_racist_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261028_abcnl_prime_racist_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Girl injured in wolf attack at wildlife park</title>
-<link>https://news.sky.com/story/germany-eight-year-old-girl-seriously-injured-in-wolf-attack-at-wildlife-park-13605151</link>
-<guid isPermaLink="false">e992d424f6f4578ba2fa0d68557f6546656ef49e791b7c3a9484986e4fecc134</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Thu, 29 Oct 2026 02:03:00 +0000</pubDate>
-<description>An eight-year-old girl has been seriously injured in a wolf attack at a wildlife park in Germany.</description>
-<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-animal-grey-wolf_7390514.jpg?20261029030057" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-animal-grey-wolf_7390514.jpg?20261029030057" medium="image"/>
 </item>
 <item>
 <title>WATCH: David Muir remembers the life and legacy of Barbara Barrie</title>
