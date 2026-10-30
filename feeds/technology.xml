@@ -4,15 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Sam Altman says it’s better for RAM to be in a data center than on your desk</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</link>
-<guid isPermaLink="false">05a1378ae455d54de0c67676739e0043e0e023fd8bdbabb1b19b8a1e801dbe9c</guid>
-<source>The Verge</source>
+<title>Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job</title>
+<link>https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job</link>
+<guid isPermaLink="false">c8804a79ad56c280f72b3c59ab4c3538a26f947368a10544e333e6bbdbc31f9a</guid>
+<source>Ars Technica</source>
 <category>technology</category>
-<pubDate>Fri, 30 Oct 2026 20:48:43 +0000</pubDate>
-<description>Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math , Altman said: "A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center. But from a global allocation perspective, actually, it's quite terrible to have everybo … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+<pubDate>Fri, 30 Oct 2026 20:40:13 +0000</pubDate>
+<description>On August 9, 2026, Dartmouth College provost Santiago Schnell wrote a Washington Post op-ed called "Universities are fighting AI cheating. But there’s a deeper problem." This week, Schnell discovered the depths of the problem himself as he resigned from the university after an advisory committee found that he failed to disclose significant AI use in an academic paper and in the Washington Post op-ed, even though publishers required such disclosure. Schnell didn't make it especially easy for the committee to investigate his AI use; the report uses the term "insufficient cooperation." He did turn over his Dartmouth laptop, but he did not turn over logs from his personal LLM accounts related to the writings in question. Nor did he agree to meet with the committee. The committee did get access to the Claude enterprise account Schnell had used through Dartmouth, though. This shows him using the LLM as a tool for revising his papers, finding and fixing bugs in code, and editing or generating figures. For instance, Schnell would run his papers through Claude and ask things like: Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>The biggest names in AI are backing a new way to opt out of scraping</title>
@@ -37,6 +37,17 @@
 <media:content url="https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg" medium="image"/>
 </item>
 <item>
+<title>Over 25% of people lie to get antibiotics—and their lies aren't even good</title>
+<link>https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good</link>
+<guid isPermaLink="false">a3fc8c2e276a25828247cc4d664de56a583e7d7b8f291927f4844214727de424</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:17:50 +0000</pubDate>
+<description>A significant number of patients in the US lie to their doctors to get antibiotics they likely don't need, according to two new studies. While that may not be a startling revelation, the studies drills down on the phenomenon, finding that the lies patients tell are generally bad ones—and yet, they work almost all the time. In the two linked studies published Friday in JAMA Network Open, a team of researchers led by Alistair Thorpe at the University of Utah analyzed online survey data from over 1,000 adults. They found that over a quarter of people reported having lied to a clinician at least once to get an antibiotic prescription for themselves or a child in their care. Patients lied by either exaggerating symptoms, making up symptoms, or—most often—both. But interestingly, the lies people told to get antibiotics involved making up or exaggerating symptoms of infections that wouldn't be treated with antibiotics. For example, the most common falsehoods were symptoms associated with colds, such as fever, cough, and sore throat. That's despite the fact that colds are caused by viruses, not bacteria—which antibiotics treat. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Bluesky now has a dedicated 'moderation inbox'</title>
 <link>https://www.engadget.com/2302932/bluesky-now-has-a-dedicated-moderation-inbox</link>
 <guid isPermaLink="false">d7844361176bb09489e0a4af35d5c28c539fcccfe884fe8e97a028b7b36c6d71</guid>
@@ -46,6 +57,17 @@
 <description>The beta feature makes it easier to stay on top of reports and account strikes.</description>
 <enclosure url="https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg" medium="image"/>
+</item>
+<item>
+<title>Basically no one is using AI agents for their DoorDash orders</title>
+<link>https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far</link>
+<guid isPermaLink="false">abc5566bda42b5a9b55f119265c1c0ceeacd99c57869d64e1fa214d5d43bbbc7</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 19:30:52 +0000</pubDate>
+<description>As AI tools and agents have continued their march across all aspects of digital life, many companies are trying to use LLMs to improve the experience of purchasing goods and services on the Internet. Thus far, though, a vanishingly small number of people seem to be taking advantage of those capabilities, at least when it comes to using the popular food delivery app DoorDash with an outside AI agent. In a third-quarter earnings call Thursday , DoorDash co-founder and CEO Tony Xu responded to an analyst question by noting that "AI agents are generating several hundred orders [on DoorDash] across the time that they've been up and running." In a marked understatement, Xu called this a "very low use case" for a company that handled just shy of 1 billion orders total in the third quarter of 2026 alone. Speaking generally, Xu said he sees the potential for AI agents to be genuinely helpful for "long consideration purchases" and major decisions where agents would be "doing work on your behalf proactively in the background." However, Xu added, "when it comes to a task that's as simple as ordering food, we tend to see that come directly to DoorDash." Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Everything you need to know about Googlebooks</title>
@@ -387,6 +409,17 @@
 <description>General Motors marketed its Smart Driver system as a way for parents to monitor teen drivers or for adults to track their driving behavior. But in 2024, it emerged that GM had been sharing that data with brokers. Those brokers then sold the data to insurance companies , and some drivers found that their insurance became more expensive as a result. To make matters worse, many of those drivers claimed they had no knowledge of ever agreeing to share such data for such purposes. Last year , GM and its OnStar subsidiary entered into a settlement with the FTC, prohibiting them from sharing some kinds of driver data with third parties. The settlement was finalized this January. That agreement banned the two companies from sharing geolocation data or driver behavior data for five years. At the time, GM also discontinued Smart Driver across its entire range. Now the automaker has reached terms with the District of Columbia and 35 states after their attorneys general joined together to sue GM as well. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Waymo’s next robotaxi is a purpose-built Toyota bZ4X</title>
+<link>https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x</link>
+<guid isPermaLink="false">d67e2b82a2836f5d5b5c0bedc8f70a3b516dc6bf9347e050001505b1cb39d86f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 13:52:14 +0000</pubDate>
+<description>Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025 . The robotaxis will be built entirely under one roof at Toyota's Takaoka plant in Toyota City, Aichi Prefecture, Japan. Instead of building regular cars and modifying them later, the factory will install Waymo's self-driving sensors and computers right on the assembly line as each car is made. A team-up between the world's largest automaker and the world's leader in autonomous driving obviously has huge … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Hackers steal $6.3 billion from Binance in record crypto heist</title>
@@ -835,7 +868,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 19:07:53 +0000</pubDate>
-<description>President Donald Trump has declared the imports of foreign-made factory robots to be a national security threat—ordering new US negotiations with trading partners while holding out the possibility of imposing new tariffs on such robot imports in the future. Issued on October 28, Trump’s presidential proclamation represents heightened government scrutiny of foreign-made industrial robots that could complicate the manufacturing operations of major US corporations that rely on such robots. Those companies include Detroit automakers General Motors and Ford, electric vehicle manufacturer Tesla , and aerospace and defense giants like Boeing and Lockheed Martin. Trump’s proclamation describes industrial robots and machinery as being crucial for producing US military weapon systems along with representing a “driving force” behind all critical infrastructure sectors within the US economy. The proclamation cites an investigation under US Secretary of Commerce Howard Lutnick as having found that US imports of such robots “pose[] risks to the United States industrial base and threatens the long-term competitiveness of the United States in a sector that is increasingly vital to national security.” Read full article Comments</description>
+<description>President Donald Trump has declared the imports of foreign-made factory robots to be a national security threat—ordering new US negotiations with trading partners while holding out the possibility of imposing new tariffs on such robot imports in the future. Issued on October 28, Trump’s presidential proclamation represents heightened government scrutiny of foreign-made industrial robots that could complicate the manufacturing operations of major US corporations that rely on such robots. Those companies include Detroit automakers General Motors and Ford, electric vehicle manufacturer Tesla , and aerospace and defense giants like Boeing and Lockheed Martin. Trump’s proclamation describes industrial robots and machinery as being crucial for producing US military weapon systems along with representing a “driving force” behind all critical infrastructure sectors within the US economy. The proclamation cites an investigation under US Secretary of Commerce Howard Lutnick as having found that US imports of such robots “poses risks to the United States industrial base and threatens the long-term competitiveness of the United States in a sector that is increasingly vital to national security.” Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg" medium="image"/>
 </item>
@@ -1071,17 +1104,6 @@
 <media:content url="https://image.theregister.com/?imageId=240696&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Massive leak exposes 41,000 DHS workers and undercover ICE agents</title>
-<link>https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents</link>
-<guid isPermaLink="false">0f9eaec95f56b60be3be28dbaf7b0e3f9798457050564b2964438a614ae1ab4d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 12:58:34 +0000</pubDate>
-<description>An unprecedented leak of Department of Homeland Security records has exposed details of more than 41,000 employees or contractors who work for the department and its constituent agencies. The records include email addresses, phone numbers, and office addresses, but also references to internal systems and sensitive information on undercover and surveillance programs. In all, the leak provides a map of how DHS is organized and how it operates. The records, which span DHS itself as well as seven component agencies, including Immigration and Customs Enforcement and US Customs and Border Protection, were last updated on August 19, 2026. The transparency nonprofit Distributed Denial of Secrets and cybersecurity researcher and journalist maia arson crimew previewed the data for WIRED, which they say they obtained from a group calling itself the Department of Peace. DDoSecrets published the archive, which it calls “Icepick,” on Wednesday. In a press release, DDoSecrets says the data is from DHS's Okta login system. In a note with the files, the hackers wrote, “They have our information, so it’s only fair that we have theirs.” Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Shortlist of age checks for the UK's under-16 social media ban is out, 'some' adults will need verifying</title>
 <link>https://www.theregister.com/security/2026/10/29/shortlist-of-age-checks-for-the-uks-under-16-social-media-ban-is-out-some-adults-will-need-verifying/5306282</link>
 <guid isPermaLink="false">e985720bed2f89f30d348102be2e4af0ed96a3d0bfffeccdb766117a5e76de3a</guid>
@@ -1135,17 +1157,6 @@
 <description>Liquid Static Studio; PC You take on the role of flight attendant in this clever and absorbing retro-style game that veers from daft horror spoof to genuinely disturbing There was always something creepy about the job-simulator genre. All those mindless automatons queueing up to use your bus, bar or bed store, or whatever workplace you are trapped in for the duration of the game. The endless repetitive tasks. The emptiness of the world beyond your corporate existence. Together, these elements scream existential terror … which is perhaps why we are now seeing a new indie sub-genre of job sim horror games, including Home Safety Hotline, Dredge and more recently, Grease Trap ’99, a Lovecraftian mystery set in a Scottish chip shop. Now, we have Night Plane, in which you take on the role of a flight attendant on a jumbo jet to hell. It all starts kind of normally. You turn up for the first day of your new job, meet your colleagues, then take your spot at the departure gate, checking in customers and being careful to root out anyone with invalid tickets. Once on the plane, you roll your trolley down the aisle, serving booze and inedible meals, and occasionally dealing with passenger complaints. Then the plane crashes and, frankly, it all goes downhill from there. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19f241367cbafbef52c1dc7a882c6b69" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19f241367cbafbef52c1dc7a882c6b69" medium="image"/>
-</item>
-<item>
-<title>SpaceX no longer needs NASA, and that's a problem for America's space agency</title>
-<link>https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency</link>
-<guid isPermaLink="false">79ed3fc0032bcaa4bf88524cbff31f631df70f537e5d816d1037ce6090069373</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 11:00:08 +0000</pubDate>
-<description>For nearly a quarter of a century, Elon Musk and his essential partner at SpaceX, Gwynne Shotwell, viewed the United States government as El Dorado, the mythical city of gold. Like machete-wielding treasure hunters, Musk and Shotwell hacked through a tangled jungle filled with lurking carnivores such as Boeing and Lockheed Martin, as well as bean counters and regulators. Over time, against long odds, the pair cleared a path for SpaceX to contracts at NASA and the US military. They sued when things did not go their way. They hollered about unfair playing fields. Most importantly, they delivered quality space products to the US government for less. And so, after a while, SpaceX found El Dorado and a city of contracts. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Traces of new Pi hardware spotted in GitHub</title>
@@ -1245,17 +1256,6 @@
 <description>Shares in Google’s parent company Alphabet dived by almost ten percent on Wednesday, after the web giant admitted AI-powered searches earn it less money than it earns by serving ads with its old-school search engine. Alphabet on Wednesday reported its Q3 results, which included news that its year-over-year search query growth rate is the highest it’s been in the last five years. Some of that growth comes from users adopting “AI Mode” – Google’s latest LLM-powered search system. Google’s revenue from search rose 12 percent year-over-year to $63.25 billion, a little lower than the 14.5 percent growth the company reported in last year’s Q3. During Alphabet’s earnings call, chief business officer Philipp Schindler said the slowdown was caused by “lower monetization we were seeing in AI Mode.” That’s a worry given that Google is spending enormous sums on infrastructure. $51.4 billion went out the door in Q3, around two thirds of it going towards servers and networking equipment. The rest funded datacenter builds. That spending appears to have impacted profitability, as Alphabet reported $26.17 billion net income for the quarter. Last year’s Q3, during which Google revenue was $102.35 billion, produced $35 billion net income. Schindler argued that AI search will pay off. “On AI Mode, many of these queries are upper funnel queries, allowing us to capture new, high-value commercial intent,” he told investors. “In addition, the majority of AI Mode queries are incremental, creating more monetization opportunities over time.” Google tried to seize one of those opportunities today, by turning on ads alongside AI Mode searches around the world, after first testing them in the US only. But for now, AI Mode searches aren’t as lucrative as Google’s existing search business, which brought in just under half of Alphabet's $125.8 billion quarterly revenue. Google’s cloud is its next-best earner, at $24.75 billion for the quarter, but it has troubles too because the Big G doesn’t have enough capacity to serve all its customers. The company has started to offload some customer workloads to third parties, and warned that will dent its future margins. Thomas Kurian, Google Cloud’s CEO, said the company has over 100 companies using its TPU silicon, adding that “All of the inventory for TPU systems are associated with committed contracts” – meaning Google can see some revenue to cover some capex. The company expects to book revenue from TPU sales to third parties in coming quarters. CEO Sundar Pichai was full of optimism for future AI revenue, noting that Google’s Gemini app has won a billion users faster than any other product in the company’s history, and praising the performance of its models. He said Google is moving fast to create agentic AI tools, but will focus on business customers for starters, “because the bar for security, safety, and governance is extremely high.” “As a next step, we are bringing these features to Search and also, of course, to our billion us</description>
 <enclosure url="https://image.theregister.com/?imageId=5306186&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306186&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>ULA's Vulcan rocket is set to return to flight on Friday the 13th</title>
-<link>https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th</link>
-<guid isPermaLink="false">046096613a73da1b4b6a76998cf23ca384be6b3940510d4d2a9ec5709788ae24</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 22:51:15 +0000</pubDate>
-<description>United Launch Alliance announced Wednesday it plans to return its Vulcan rocket to service on November 13, nine months after a solid rocket booster anomaly threw the company's 2026 launch schedule into oblivion. The return-to-flight mission will launch 40 satellites for the Amazon Leo broadband constellation, the first of 38 Vulcan flights Amazon has booked to deploy the bulk of its network. The mission will lift off from Cape Canaveral Space Force Station, Florida, and ULA said the launch date is pending range approval. The launch is critical for ULA after its new flagship rocket suffered nozzle failures on its solid rocket boosters on two of its first four missions, most recently during a flight in February. In both cases, the rocket overcame the nozzle failure and completed its mission, but officials at the US Space Force, ULA's primary customer, lost confidence in Vulcan. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg" medium="image"/>
 </item>
 <item>
 <title>Please state the nature of the medical emergency: Google is building a robot medic for NASA</title>
