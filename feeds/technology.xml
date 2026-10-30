@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week</title>
+<link>https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week</link>
+<guid isPermaLink="false">df6cb74f307d1f4fc0ce14d74f544693e006274b78c99b10ba20d9028b85e83d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 22:36:41 +0000</pubDate>
+<description>For a genuine fright this Halloween, you can turn your gaze to the southern border, where ravenous, flesh-eating maggots are festering and have taken to eating people's pets. This week, the country's New World Screwworm (NWS) infestation spread to a third state, Arizona, which joins New Mexico and Texas in being plagued by the horrifying parasites. To date, 74 animal cases have been identified in the US since the flies re-invaded the country in June. The flies lay hundreds of eggs in wounds and moist orifices of animals, and the resulting voracious maggots feast on their victims. The maggots resemble screws and tortuously bore and twist into living flesh, causing severe, sometimes fatal wounds, before dropping to the ground to develop into adults. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg" medium="image"/>
+</item>
+<item>
+<title>Oh captain, our captain: Ars staff remembers Patrick Stewart</title>
+<link>https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart</link>
+<guid isPermaLink="false">78a59c3a86f90f383e87485c1c39c6c2628aa73c3488d1ba70acfdc65927adc6</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 22:21:05 +0000</pubDate>
+<description>Along with the rest of the world, we at Ars are mourning Sir Patrick Stewart —the beloved award-winning actor best known as Captain Jean-Luc Picard in Star Trek: The Next Generation and Professor Charles Xavier in the X-Men franchise—who died yesterday at the age of 86. A statement released by Stewart's representatives said: We announce with great sorrow the passing of Sir Patrick Stewart yesterday at his home in Los Angeles, in the loving care of his beloved wife Sunny, following a brief and poignant journey with Alzheimer’s Disease and Lewy Body Dementia. He has been held in the warm embrace of family and friends, surrounded by live music, prayer, tears, laughter, and the kind of profound emotion that only he could inspire after a lifetime of devotion to us all. We will forever cherish the peaceful ease and reflection on his face, an enduring reminder of his invincible grace. Through the actor's X account , the family has requested that, in lieu of flowers, memorial contributions be made to the Johns Hopkins Alzheimer’s Disease Research Center Fund and the Alzheimer’s Foundation of America Caregiver Resources . Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png" medium="image"/>
+</item>
+<item>
+<title>Supersonic airliner in doubt as company shifts to powering AI data centers</title>
+<link>https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029</link>
+<guid isPermaLink="false">208850a6ee7c8b5578ec8fe3e3cca8e7f730da360542ba47eefc9f2fdb542084</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 21:41:54 +0000</pubDate>
+<description>Boom Supersonic CEO Blake Scholl recently declared “it’s time for a renaissance in energy and in supersonic flight” as the supersonic airliner company unveiled a Colorado factory dedicated to making gas turbines for AI data centers. But Boom may be facing turbulence after early backers for both ventures have questioned the company’s delivery timeline or backed out entirely. One of the company’s first customers, United Airlines CEO Scott Kirby, has expressed doubts about Boom’s original plan to deliver the first Overture supersonic airliner in 2029. Kirby’s latest frank assessment came during an interview with the Office Hours: Business Edition podcast that appeared on October 28, 2026. “‘29 is their official timeline,” Kirby told podcast host Monica Langley. “It’s not going to happen in ‘29—it’s going to take longer.” Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Superpower-Superfactory-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Superpower-Superfactory-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
+<link>https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours</link>
+<guid isPermaLink="false">eaad933c9eb95379c7b52c44890db23a96d302ea7a75d0c760b7efffb1b59bd6</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
+<description>An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident. The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. The malicious version, 2.1.313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. Anthropic pushed version 2.1.314 several hours after the previous version became available on Cursor, according to independent researcher Kevin Beaumont. Both Beaumont and the CTO and co-founder of security firm Phorian said that version 2.1.313 was distributed through Anthropic’s official account on Cursor. So far, neither Cursor nor Anthropic has explained how the attackers gained control of the account. In search of cloud credentials “It was a supply-chain compromise where the attacker gained access to the official distribution channel,” Phorian CTO and co-founder Luke Roberts told Ars. “The malicious version 2.1.313 was posted to the official Anthropic account, effectively superseding 2.1.312. Extensions auto-update in Cursor by default, but users can configure this in settings.” Phorian has more details here . Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg" medium="image"/>
+</item>
+<item>
+<title>Exclusive details about Akai’s MPC Sample Key</title>
+<link>https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive</link>
+<guid isPermaLink="false">dc3df6c4fc2a74b6715af3152d5bb2b00b0ea48c552c2f6ec200abd5674c021c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 21:01:32 +0000</pubDate>
+<description>Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of the upcoming instrument that offer some details about its feature set. While the Sample Key shares many of the same controls as the MPC Sample - including the three context-sensitive encoders, a large main encoder - it seems designed for pitched sample playback, rather than chopping up drums. In fact, the "chop" button from the MPC Sample is m … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Sam Altman says it’s better for RAM to be in a data center than on your desk</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</link>
+<guid isPermaLink="false">05a1378ae455d54de0c67676739e0043e0e023fd8bdbabb1b19b8a1e801dbe9c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:48:43 +0000</pubDate>
+<description>Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math , Altman said: "A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center. But from a global allocation perspective, actually, it's quite terrible to have everybo … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job</title>
 <link>https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job</link>
 <guid isPermaLink="false">c8804a79ad56c280f72b3c59ab4c3538a26f947368a10544e333e6bbdbc31f9a</guid>
@@ -367,17 +433,6 @@
 <media:content url="https://image.theregister.com/?imageId=5306598&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>This electric screwdriver uses a camera and AI to figure out what bit you need</title>
-<link>https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter</link>
-<guid isPermaLink="false">caa322de31cf06b75c5241f976f06736d37a210229f479ca2f558f2d980257d0</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 14:23:26 +0000</pubDate>
-<description>Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers , but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need. It's convenient, but also helpful, as choosing the wrong size could potentially leave you with a stripped screw and a much harder repair. Arrowmax is making the Arrowspace S1 available through a Kickstarter crowdfunding campaign , but the company has already successfully crowdfunded other products. You can preorder the screwdriver by itself for around $79, but its … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case</title>
 <link>https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case</link>
 <guid isPermaLink="false">6faa1355c3981bf5587d8092e2b9a750981af375579b7ce5536863d2005f1e1a</guid>
@@ -409,17 +464,6 @@
 <description>General Motors marketed its Smart Driver system as a way for parents to monitor teen drivers or for adults to track their driving behavior. But in 2024, it emerged that GM had been sharing that data with brokers. Those brokers then sold the data to insurance companies , and some drivers found that their insurance became more expensive as a result. To make matters worse, many of those drivers claimed they had no knowledge of ever agreeing to share such data for such purposes. Last year , GM and its OnStar subsidiary entered into a settlement with the FTC, prohibiting them from sharing some kinds of driver data with third parties. The settlement was finalized this January. That agreement banned the two companies from sharing geolocation data or driver behavior data for five years. At the time, GM also discontinued Smart Driver across its entire range. Now the automaker has reached terms with the District of Columbia and 35 states after their attorneys general joined together to sue GM as well. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Waymo’s next robotaxi is a purpose-built Toyota bZ4X</title>
-<link>https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x</link>
-<guid isPermaLink="false">d67e2b82a2836f5d5b5c0bedc8f70a3b516dc6bf9347e050001505b1cb39d86f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:52:14 +0000</pubDate>
-<description>Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025 . The robotaxis will be built entirely under one roof at Toyota's Takaoka plant in Toyota City, Aichi Prefecture, Japan. Instead of building regular cars and modifying them later, the factory will install Waymo's self-driving sensors and computers right on the assembly line as each car is made. A team-up between the world's largest automaker and the world's leader in autonomous driving obviously has huge … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Hackers steal $6.3 billion from Binance in record crypto heist</title>
@@ -884,28 +928,6 @@
 <media:content url="https://image.theregister.com/?imageId=5304691&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says</title>
-<link>https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo</link>
-<guid isPermaLink="false">a25f9028d064096669f9e97d8a47ea722a531d5ac73489c90f458095a17fd9e5</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 18:29:12 +0000</pubDate>
-<description>Donald Trump apparently is so aligned with Nvidia CEO Jensen Huang—who has become the president’s key advisor on AI —that he ignored intelligence indicating that Huang was the target of a “Chinese spy plot,” and did so partly to protect Nvidia’s stock. The New York Times spoke with people briefed on US intelligence agencies’ surveillance and granted them anonymity to discuss findings drawn from “classified intelligence.” According to sources, about a year ago, Trump was briefed that “Beijing was getting reports from someone with direct access” to Huang. That “someone” was Alice Huang, or Huang Le, a Chinese citizen and former top executive at a Singapore cloud company called Megaspeed. According to sources, the US had already suspected that Alice Huang—who is not related to Jensen Huang—was helping China evade export controls to gain access to high-end Nvidia chips through Megaspeed. But it alarmed investigators to discover that she may have used her role at Megaspeed to gain direct access to Jensen Huang. It’s now believed she may have leveraged that closeness to feed China intel not only on one of America’s leading AI companies, but also to influence Trump’s thinking on AI. As Treasury Secretary Scott Bessent noted last month ahead of Trump’s AI talks with China President Xi Jinping, “the president is completely aligned with Jensen Huang, the CEO of Nvidia.” Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Turning a solar power system into its own backup</title>
-<link>https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup</link>
-<guid isPermaLink="false">03f5f5790ea387bdae4cb6f5e6e3a95ea5f97b8e6eaca5c9119ee9542a8c41df</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 18:02:26 +0000</pubDate>
-<description>Rather than directly converting photons into electricity, concentrated solar energy uses mirrors to turn sunlight into heat, which can then be used to drive traditional generating turbines. Up to about a decade ago, there was a case to be made that concentrated solar energy had a bright future, as improvements in heat storage had turned it into a way to generate power around the clock. It wasn't to be. While concentrated solar costs fell enough to compete with nuclear power, the price of photovoltaics plunged, making solar panels the cheapest source of power in most locations. Currently, if you have a good site to generate solar power, then the economics of PV panels are hard to beat. That has left us needing to build a mixture of other facilities—typically batteries and natural gas facilities—to handle overnight needs or weather-driven shortfalls. But a small company is promising that it can help avoid the need to build a separate facility. Its version of concentrated solar is designed so that a fossil-fueled backup system shares most of the generating hardware with the solar side. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg" medium="image"/>
-</item>
-<item>
 <title>Your headphones have hidden LE Audio features you’ll want to know about</title>
 <link>https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose</link>
 <guid isPermaLink="false">210628a17147ca24aa5bc86bb0fe73d280e00c9cc01751f64ceb5681863bfab6</guid>
@@ -926,17 +948,6 @@
 <description>Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bn Shares in the Google parent Alphabet fell double digits Wednesday evening into Thursday trading, erasing hundreds of billions of dollars in stock market value from the $4tn tech giant. The company had reported lower-than-expected profit and a slowdown in its advertising business while it maintained big spending on AI. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acbce01cd0d74b440d256eeab822a646" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acbce01cd0d74b440d256eeab822a646" medium="image"/>
-</item>
-<item>
-<title>Kalshi and its co-founders face felony charges for violating Utah gambling laws</title>
-<link>https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling</link>
-<guid isPermaLink="false">da1b5997a61e624a913d34b516cfece4503e5bcd0ce23af2df2176d14bcd9bc1</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 17:21:33 +0000</pubDate>
-<description>The Trump administration is trying to stop Utah from enforcing its gambling ban against Kalshi, making Utah the 10th state sued by the US government agency that regulates prediction markets. Meanwhile, Utah Attorney General Derek Brown filed criminal charges in a state court against Kalshi and its founders on Wednesday. The attorney general's office provided us with court filings listing charges against KalshiEX, LLC , Kalshi co-founder and CEO Tarek Mansour , and Kalshi co-founder and COO Luana Lopes Lara . The company and two co-founders each face 13 felony charges and one misdemeanor for violating gambling laws. The charges are based on sports bets offered on Kalshi between September 13 and September 24. "The state did not issue arrest warrants for Monsour and Lopes Lara. Instead, they have been issued summons to respond to the charges in Third District Court in Salt Lake County," The Salt Lake Tribune wrote . Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" medium="image"/>
 </item>
 <item>
 <title>Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show</title>
@@ -981,17 +992,6 @@
 <description>America's national laboratories are leading a consortium to move advanced battery storage technologies from the lab into domestic manufacturing. Dubbed the Battery Manufacturing Accelerator, or BattMan (no, really), the initiative aims to bring together a bunch of national laboratories, universities, and companies to overcome barriers in scaling up new battery technologies. Novel battery storage solutions are needed for applications in the electric grid, datacenters, and electric vehicles, as electrification gradually extends across industry. Batteries have a far lower energy density than fuels such as petroleum , so the hunt for better materials never stops. Researchers also want to improve on the safety of flammable lithium-ion cells , cut production costs, speed up charging, and reduce reliance on scarce raw materials. "The advances we make today in battery manufacturing technology will determine America's energy security and economic competitiveness for decades to come,” said Audrey Robertson, assistant secretary of Energy at the Department of Energy (DoE), which is overseeing the program. Researchers continue to develop new battery materials and chemistries, yet many promising technologies face obstacles on the way from the laboratory to commercial production. According to the DoE, BattMan will tackle that problem by combining super intelligence - known outside of the Trump administration as AI - with advanced manufacturing into a coordinated, data-driven innovation ecosystem. Pacific Northwest National Laboratory leads the consortium, along with Oak Ridge National Laboratory, Argonne National Laboratory and National Laboratory of the Rockies. Academic partners include the University of Washington, Binghamton University, University of Alabama, Arizona State University, and University of Michigan-Dearborn. The accelerator is also building ties with battery and materials manufacturers, and hopes to sidestep critical minerals supply problems by finding battery materials among more abundant, domestically sourced elements. ORNL is contributing its Battery Manufacturing Facility (BMF) R&amp;D center and plans a smart test bed with advanced sensing, real-time monitoring, and data analysis to trial both wet and dry electrode manufacturing. BattMan will also introduce autonomous pilot lines that combine sensing, process monitoring and intelligent control systems to improve product quality and reduce variability in the manufacturing process. The goal is an AI-based manufacturing platform that spots production irregularities as they occur and adjusts parameters on its own to prevent defects. “The BattMan Accelerator is exactly the kind of coordinated national effort that turns scientific breakthroughs into economic and energy security advantages,” claimed distinguished R&amp;D staff member Chins Chinnasamy, the consortium lead for ORNL. Organizations interested in becoming part of BattMan can visit the program website to learn more. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=256727&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=256727&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Google admits AI search makes less money, but it's fixing that with more ads</title>
-<link>https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads</link>
-<guid isPermaLink="false">68ffd79b6629483f73454edc05ff0804db507575cdb417bc14bd5fe99339d58e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 16:24:55 +0000</pubDate>
-<description>Google parent Alphabet reported its Q3 financial results on Wednesday afternoon, showing a healthy rise in revenue for the months of July to September. But the company's stock price has taken a beating, marking one of the largest post-earnings drops in its history. It comes down to several troubling aspects of the new report, including an admission by the company that AI search isn't earning as much as organic search, and despite that, Google expects to spend even more on AI next year. The company took in almost $128 billion in Q3 2026, earning more than $26 billion in net income. These may sound like good numbers, but financial markets are not impressed. While revenue is up 25 percent versus last year, net income is almost $9 billion lower. As of this story's publication, the stock price is down almost 12 percent, and it was down about 13 percent earlier in the day. While revenue was up 25 percent year over year, analysts expected more. Google reported earnings per share of $2.12, but the consensus projection ahead of Wednesday was $3.02. Google's Cloud products actually beat expectations, crossing $30 billion in revenue. That's about a billion more than analyst guesses. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>GSA left sensitive Google Drive files open to staff, contractors</title>
