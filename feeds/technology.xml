@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why your Apple AirPods' battery drains so fast and how to make it last longer</title>
+<link>https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix</link>
+<guid isPermaLink="false">6f600df26c3227dbaf3fb513b3e8bf36b0ced4d4c0c2d06e42cf45164adfc1c3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 23:30:00 +0000</pubDate>
+<description>It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's what's going on and what you can do about it.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg" medium="image"/>
+</item>
+<item>
+<title>The Slate vs Ford Fathom debate might be settled by this one key tech feature</title>
+<link>https://www.engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support</link>
+<guid isPermaLink="false">972046c341da64a1a771d8ae2ca20ffdc8b2fd5f73d6ea90f3cbee04a6bfc4e0</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 23:00:00 +0000</pubDate>
+<description>Slate and Ford are both building affordable electric pickups, and that means compromises. But the two automakers are taking very different paths to get there.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-slate-vs-ford-fathom-debate-might-be-settled-by-this-one-key-tech-feature/l-intro-1793026890.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-slate-vs-ford-fathom-debate-might-be-settled-by-this-one-key-tech-feature/l-intro-1793026890.jpg" medium="image"/>
+</item>
+<item>
 <title>4 important features you should know if you use Microsoft Teams</title>
 <link>https://www.engadget.com/2300242/important-features-should-know-microsoft-teams</link>
 <guid isPermaLink="false">589407a8278ef62f5b8037a50a75d9602b7b19189cf9dc1f1e431ce5bdad10e3</guid>
@@ -266,28 +288,6 @@
 <description>Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite. The company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to "Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you." Travis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its "Hello World" milestone by sending an inference response from orbit. "During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space," wrote Beals in a blog post . And as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink: Blue marble below, Data streams in silent grace, Starlight feeds my core. ✨ Those roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs. Add in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku. According to Google's calculations , if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year). Google predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening. After the haiku, Beals said, "we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems." Next up: tests for evaluating how TPUs perform under thermal stress and radiation. Google has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam. The system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si). "For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second," Google researchers said in a paper published earlier this month. "While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy</description>
 <enclosure url="https://image.theregister.com/?imageId=5306822&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306822&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>The Amazon Fire TV Stick setting you should try for better audio</title>
-<link>https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio</link>
-<guid isPermaLink="false">a875c68d393a361e405b8d5127f3d170475235261ce94f2bd7ef9fe636ade03e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 15:30:00 +0000</pubDate>
-<description>Dialogue is an important part of any movie or TV show, but it isn't always as clear as we would like. Amazon's Fire TV Stick has a solution.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio/l-intro-1793163251.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio/l-intro-1793163251.jpg" medium="image"/>
-</item>
-<item>
-<title>What is the purpose of reposting on Instagram and how do you do it?</title>
-<link>https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do</link>
-<guid isPermaLink="false">ae0dcdaa3be8571b22645bb66aeb696528b6580be5d22294a6efe0788f659319</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 15:15:00 +0000</pubDate>
-<description>It's the easiest way to share posts and reels you like with all of your followers.</description>
-<enclosure url="https://www.engadget.com/img/gallery/what-is-the-purpose-of-reposting-on-instagram-and-how-do-you-do-it/l-intro-1793280962.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-is-the-purpose-of-reposting-on-instagram-and-how-do-you-do-it/l-intro-1793280962.jpg" medium="image"/>
 </item>
 <item>
 <title>Windows 11 tries new shortcuts for Xbox gaming mode and search</title>
