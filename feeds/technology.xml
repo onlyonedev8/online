@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why SNES games are so expensive</title>
+<link>https://www.engadget.com/2301220/why-snes-games-so-expensive</link>
+<guid isPermaLink="false">c9d6f0bbe43f1ac693da0f93bf62a803a04927984a6c011b90242010ecb2aec5</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 14:45:00 +0000</pubDate>
+<description>Scarcity and increased interest in retro games makes for an expensive combo.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-snes-games-are-so-expensive/l-intro-1793285100.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-snes-games-are-so-expensive/l-intro-1793285100.jpg" medium="image"/>
+</item>
+<item>
+<title>5 Samsung One UI features you won't get with other Android phones</title>
+<link>https://www.engadget.com/2299207/one-ui-features-not-on-other-androids</link>
+<guid isPermaLink="false">405296ba831eb316cca94f875e8968c8f60405587e16b66275ce10b7034fc733</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 14:30:00 +0000</pubDate>
+<description>Samsung doesn't just make great phone and tablet hardware; its One UI is also a standout, offering many features you just can't get elsewhere.</description>
+<enclosure url="https://www.engadget.com/img/gallery/5-samsung-one-ui-features-you-wont-get-with-other-android-phones/l-intro-1793169184.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/5-samsung-one-ui-features-you-wont-get-with-other-android-phones/l-intro-1793169184.jpg" medium="image"/>
+</item>
+<item>
+<title>What is a PDF reader and do you really need a dedicated one on your phone?</title>
+<link>https://www.engadget.com/2300318/what-is-pdf-reader-do-you-need-on-phone</link>
+<guid isPermaLink="false">4a6311d5f5a2a90fba911f59418a5e1cc269a96347f7bdbdf048155968edc637</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 14:15:00 +0000</pubDate>
+<description>If you don't know what a PDF reader for your phone is, this is the time to learn about it all. You may be in need of one to make your life easier.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-is-a-pdf-reader-and-do-you-really-need-a-dedicated-one-on-your-phone/l-intro-1792788909.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-is-a-pdf-reader-and-do-you-really-need-a-dedicated-one-on-your-phone/l-intro-1792788909.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft really wants you to sell that Xbox you're not using</title>
+<link>https://www.engadget.com/2299867/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using</link>
+<guid isPermaLink="false">6547a877eca64436fb987fd5be22c7735740756e32517cb151c78ffc2e3a9772</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 14:00:00 +0000</pubDate>
+<description>Microsoft wants owners to trade in their unused Xbox Series X and S consoles. Here's what's behind the push, and what to know before you take the deal.</description>
+<enclosure url="https://www.engadget.com/img/gallery/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/l-intro-1793129533.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/l-intro-1793129533.jpg" medium="image"/>
+</item>
+<item>
+<title>CDs are back, but they come with a modern problem</title>
+<link>https://www.engadget.com/2298767/cds-are-back-modern-listening-complicated</link>
+<guid isPermaLink="false">2a4344506ff474586902928bd94c7fb8662ee36a2d0de5b93778f742217086e8</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 13:45:00 +0000</pubDate>
+<description>With CD sales on the rise again, collectors are finding that enjoying their favorite tunes is more challenging than ever in the modern audio landscape.</description>
+<enclosure url="https://www.engadget.com/img/gallery/cds-are-back-but-they-come-with-a-modern-problem/l-intro-1793122691.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/cds-are-back-but-they-come-with-a-modern-problem/l-intro-1793122691.jpg" medium="image"/>
+</item>
+<item>
 <title>Here's how much the iPhone Pro cost in 2019 vs. 2026</title>
 <link>https://www.engadget.com/2300201/how-much-iphone-pro-cost-2021-vs-2026</link>
 <guid isPermaLink="false">4fba14c6857eb6cea4fd8d2204d27c793936df8a9682f9776426471ef2c3bcf3</guid>
@@ -730,17 +785,6 @@
 <media:content url="https://image.theregister.com/?imageId=5306670&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Meta quietly launches an AI fashion app for virtually trying on clothes</title>
-<link>https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes</link>
-<guid isPermaLink="false">587daea9d6796bdc9f03e001848ef769f8f78bb34b10f9213f927f61e12df604</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 12:05:36 +0000</pubDate>
-<description>Meta has launched an AI fashion app called Style Sketch in Indonesia, Singapore and Thailand.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/l-intro-1793361850.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/l-intro-1793361850.jpg" medium="image"/>
-</item>
-<item>
 <title>2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved</title>
 <link>https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved</link>
 <guid isPermaLink="false">1db5c7aa73bffafb31eca603c43c28e9a535aba20de06f178aba3348c5c11e38</guid>
@@ -750,17 +794,6 @@
 <description>Nissan provided flights from Washington, DC, to Santa Barbara, California, and accommodation so Ars could drive the Rogue Hybrid. Ars does not accept paid editorial content. Nissan has a new version of its bestselling Rogue SUV, and it’s launching the model here with the latest version of its e-Power hybrid system, which Ars tested in February. Most hybrid cars you can buy today are parallel hybrids, which means that they have an internal combustion engine and an electric motor, both of which drive some or all of the wheels—everything works in parallel. But there’s another approach. Instead of connecting the engine to the wheels via a transmission, it can act as a generator and charge the traction battery, which in turn powers the electric motor. Since the engine and motor work in series, this is known as a series hybrid. That’s mostly how the Chevrolet Volt worked. As does Honda’s hybrid CR-V . Well, mostly; engineers worked out it was more efficient for those cars' gasoline engines to directly drive the wheels at highway speeds, something that to this day makes a certain subset of hybrid car enthusiasts irrationally angry. If you know anyone like that in your life, send them to wherever the nearest Nissan dealership is, because the 2027 Rogue Hybrid is exactly what they’ve been asking for. Series hybrids Under the hood, with its crisp shut line and slim horizontal lights that give me something of a Range Rover vibe, there’s a 1.5 L, three-cylinder turbocharged direct-injection engine that generates 148 hp (110 kW). It only revs to 5,200 rpm because it’s optimized to charge the battery, not cope with the various loads of an engine connected to a gearbox and the wheels. That also allows the engine to operate at a rather impressive 42 percent thermal efficiency—we would need to look at Formula 1 engines to find higher. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Lenovo Googlebook 15 review: Your Android phone's new best friend</title>
-<link>https://www.engadget.com/2301498/lenovo-googlebook-15-review</link>
-<guid isPermaLink="false">570dc12cb2fe46b82532753f5afd9d19e294acdcc9aca33838422c13f661372b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
-<description>Despite Lenovo providing excellent hardware for Google's new laptop platform, Googlebook OS will only impress Android die-hards.</description>
-<enclosure url="https://www.engadget.com/img/gallery/lenovo-googlebook-15-review-your-android-phones-new-best-friend/l-intro-1793300409.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/lenovo-googlebook-15-review-your-android-phones-new-best-friend/l-intro-1793300409.jpg" medium="image"/>
 </item>
 <item>
 <title>British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many</title>
@@ -818,17 +851,6 @@
 <media:content url="https://i.guim.co.uk/img/media/305a0c442ca68d5418eb3fc87e0ac63ff6f18f58/43_0_1819_1456/master/1819.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa4f7df1a37b6a1e5af5b2778af504fd" medium="image"/>
 </item>
 <item>
-<title>Waymo and Toyota will soon start testing their robotaxis in Japan</title>
-<link>https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan</link>
-<guid isPermaLink="false">e16ff3762c5343d164182da7dc5ef9c2ebd73e80b783f7c39016447a3edd7d15</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 10:23:52 +0000</pubDate>
-<description>Waymo and Toyota will start testing autonomous bZ4X vehicles in Japan next year. (edited)</description>
-<enclosure url="https://www.engadget.com/img/gallery/waymo-and-toyota-will-soon-start-testing-their-robotaxis-japan/l-intro-1793355754.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/waymo-and-toyota-will-soon-start-testing-their-robotaxis-japan/l-intro-1793355754.jpg" medium="image"/>
-</item>
-<item>
 <title>Domestic droid gone amok? Don't worry, you're covered</title>
 <link>https://www.theregister.com/ai-and-ml/2026/10/30/domestic-droid-gone-amok-dont-worry-youre-covered/5306396</link>
 <guid isPermaLink="false">696a89a27caa39db09a057a3fb28b1187c907ff2f61257e1a7bccf21c3d8fbd9</guid>
@@ -840,17 +862,6 @@
 <media:content url="https://image.theregister.com/?imageId=260510&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Senators are looking into 'serious privacy risks' with Meta's AI glasses</title>
-<link>https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses</link>
-<guid isPermaLink="false">ccb2c51972ca2287c916727bf332e38a88dd769948d595bf6bce9b7216bf99a0</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 10:08:13 +0000</pubDate>
-<description>US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.</description>
-<enclosure url="https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg" medium="image"/>
-</item>
-<item>
 <title>UK Shelly reseller warns payment data stolen after malware found on website</title>
 <link>https://www.theregister.com/cyber-crime/2026/10/30/uk-shelly-reseller-warns-payment-data-stolen-after-malware-found-on-website/5306250</link>
 <guid isPermaLink="false">aab854eba5facf357eaf63daa7fcecdca8a0209fa432822d4a1d774e908bb42d</guid>
@@ -860,17 +871,6 @@
 <description>A UK-based reseller of Shelly smart home equipment has warned customers that their payment data may be compromised after “unauthorized software” was found on its website. “After receiving a warning from our payment provider, Stripe, we investigated and found unauthorized software on our website and server,” the email from Shelly Store UK, seen by The Register , stated. “We removed the identified malicious software, strengthened access security, applied security updates and introduced ongoing monitoring. We have also reported the incident to the Information Commissioner’s Office .” Shelly Store UK informed customers it was unable to determine whether their data was accessed or copied, although all customers who made orders during an unspecified window are being contacted. One punter told us that hours before they received the email from Shelly Store UK, they began a payment dispute with their card provider after a £221.28 transaction, dated October 26, was made in Australia using their details. They suspect their full card details were swiped at some point between October 12, when they made their first and only order with the company, and October 27, when they received the breach notification. Shelly Store UK did not immediately respond to our request for more details. Its notification email stated the internal investigation remains ongoing, and in addition to payment card details, customers may have had their names, billing addresses, and contact details compromised. Shelly Store UK recommended that customers contact their card issuer for guidance on whether they will need a replacement card, and to scour their transaction histories and report any suspicious entries. It also urged caution in receiving communications asking for data such as payment details and security codes, and recommended a password reset . “We’re sorry for the concern and inconvenience this may cause,” the company said. “We are taking this seriously and will contact you if our investigation identifies further information relevant to you.” Shelly Store UK is an authorized reseller of Shelly smart home products and is wholly independent of the main Shelly company. “Shelly Store is a reseller of Shelly and is not part of, owned by, or directly affiliated with Shelly Group,” a Shelly spokesperson said. “We do not manage the Shelly Store website, its business operations, and we do not direct our customers from any of our websites to Shelly Store UK.” ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5304901&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5304901&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Binance hacked for an estimated $6.3 billion in record crypto theft</title>
-<link>https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft</link>
-<guid isPermaLink="false">2143767e827cd864946717c887932268491d3302ddb47fffd86474943b9b2347</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 08:24:55 +0000</pubDate>
-<description>Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.</description>
-<enclosure url="https://www.engadget.com/img/gallery/binance-hacked-for-an-estimated-6-3-billion-in-record-crypto-theft/l-intro-1793348577.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/binance-hacked-for-an-estimated-6-3-billion-in-record-crypto-theft/l-intro-1793348577.jpg" medium="image"/>
 </item>
 <item>
 <title>Google's search revenue Ferrari hits an AI-powered speed bump</title>

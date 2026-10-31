@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bitcoin turns 18: Has the original rebel grown up?</title>
+<link>https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up</link>
+<guid isPermaLink="false">f24676b86544ce7095bbe1b299070a67e1a073d711de943a426417f468dd0053</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sat, 31 Oct 2026 14:27:52 +0000</pubDate>
+<description>In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png" medium="image"/>
+</item>
+<item>
 <title>Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping</title>
 <link>https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping</link>
 <guid isPermaLink="false">8ed7d0935ccee2483cd91afeeaccb51dc6fe02451831503a047c53bc26b7762d</guid>
@@ -32,7 +43,7 @@
 <source>Cointelegraph</source>
 <category>business</category>
 <pubDate>Sat, 31 Oct 2026 11:22:49 +0000</pubDate>
-<description>Chainalysis has engaged world-class third-party experts to support a review of its security and strengthen its defenses.</description>
+<description>The company said some non-sensitive customer data was exposed, including user IDs, names and email addresses.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg" medium="image"/>
 </item>
@@ -805,17 +816,6 @@
 <description>A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why that matters for Bitcoin's price.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps</title>
-<link>https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps</link>
-<guid isPermaLink="false">cfa9dbbd7fcab24db9bf3915e621e18a9c272e1352ebc64b5ef6d6d3b5ec3f46</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 17:12:03 +0000</pubDate>
-<description>Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64A2KNXVBJKMFSK75GFQ3JG/hyperliquid-futures-2.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64A2KNXVBJKMFSK75GFQ3JG/hyperliquid-futures-2.jpg" medium="image"/>
 </item>
 <item>
 <title>4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode</title>
