@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Google joins OpenAI and Anthropic in promising new scraping controls</title>
+<link>https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls</link>
+<guid isPermaLink="false">c3eb6b95239d693d63828a99a63329556e42629d5520e92045c512a7da54f7fb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 10:34:31 +0000</pubDate>
+<description>Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.</description>
+<enclosure url="https://www.engadget.com/img/gallery/google-joins-openai-and-anthropic-in-promising-new-scraping-controls/l-intro-1793442580.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/google-joins-openai-and-anthropic-in-promising-new-scraping-controls/l-intro-1793442580.jpg" medium="image"/>
+</item>
+<item>
 <title>Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out</title>
 <link>https://www.theregister.com/offbeat/2026/10/31/chocolate-caterpillar-or-chocolate-teapot-top-up-the-disk-space-for-windows-10-to-find-out/5306103</link>
 <guid isPermaLink="false">db4c0924b125b403be1a9d5a587a41a9d352bc0d88158d83eae4fdb41eb19dbd</guid>
@@ -926,17 +937,6 @@
 <description>Microsoft is beginning the rollout of a Windows 11 preview update that finally addresses a persistent power user complaint with the operating system: the right-click menu that obliterated years of muscle memory on command locations and hid others behind an additional click. The timing is notable, as the announcement comes alongside Microsoft's quarterly financial report, which showed a continued decline in the business of selling Windows licenses for new PCs. The preview update, KB5127936 , is cumulative for Windows 11 versions 26H2 and 25H2. The update will be a gradual rollout before eventually moving on to a normal rollout for all Windows 11 devices once it reaches general availability. The highlight of the new update should calm annoyed users who have spent years with custom scripts and services in an attempt to shape Windows the way they would prefer it. Users will get a "customize menu" button that controls what commands appear when they right-click their mouse. Users can toggle built-in commands such as Send To or Create Shortcut on or off, rearrange what appears on the main menu, and control which third-party extensions show up in either the main or submenus. The gripe with the right-click menu had been that Microsoft hid familiar command locations behind a top row of icons while moving other familiar commands under the "Show more options" submenu. Now, Windows users can customize the whole thing around their habits. The original Windows 11 right-click menu is a mess. Credit: Microsoft The new preview also highlights a new Windows feature called Cloud Rebuild, a recovery option that can reinstall Windows 11 directly from the cloud, even when an existing Windows 11 fails to boot. Cloud Rebuild will pull the Windows 11 image and needed system drivers directly from Windows Update. Users will not need a custom recovery image or external media to reinstall Windows. There is an important distinction to note, however. Microsoft classifies Cloud Rebuild as a recovery option, but it behaves more like a fresh Windows install than a repair, as existing applications and files will not be included. Those worried about data security can sanitize entire system drives prior to reinstalling. For a full list of improvements coming to Windows 11, including changes to Xbox mode and settings, you can view the official Microsoft release announcement . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS-500x500.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS-500x500.jpg" medium="image"/>
-</item>
-<item>
-<title>Google brings AI Mode advertisements to more countries</title>
-<link>https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries</link>
-<guid isPermaLink="false">4b55a0771a5f0cff2fcbf9cd92109a7af5e08bdb2030d1280447d029b8e4cfdd</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 20:18:24 +0000</pubDate>
-<description>Adding sponsored content in more markets could make the feature profitable.</description>
-<enclosure url="https://www.engadget.com/img/gallery/google-brings-ai-mode-advertisements-to-more-countries/l-intro-1793305012.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/google-brings-ai-mode-advertisements-to-more-countries/l-intro-1793305012.jpg" medium="image"/>
 </item>
 <item>
 <title>Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine</title>
