@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out</title>
+<link>https://www.theregister.com/offbeat/2026/10/31/chocolate-caterpillar-or-chocolate-teapot-top-up-the-disk-space-for-windows-10-to-find-out/5306103</link>
+<guid isPermaLink="false">db4c0924b125b403be1a9d5a587a41a9d352bc0d88158d83eae4fdb41eb19dbd</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 09:30:00 +0000</pubDate>
+<description>Today's bit of signage silage is either Windows 10 protesting that it is not part of London's Oxford Street pedestrianization, or someone failing to heed an alert before the public is made all too aware that things aren't going well… Eagle-eyed Register reader Aaron Colwill spotted the sign outside the food hall entrance of a Marks &amp; Spencer store on London's Oxford Street. It usually entices passersby through the doors with promises of treats inside, but today it appears to require a different kind of feeding. Disk space is running low. Marks and Spencer (also known as M&amp;S and Marks and Sparks) is no stranger to cyber whoopsies , having been the victim of an attack in 2025 in which crooks made off with customer data. Later that year, it reckoned cleanup costs would be about £136 million. That's quite a lot, but not enough to buy a bigger hard disk for Windows 10, it seems. Storage prices have increased over the years, but surely not that much? Colwill reckoned that Windows 10 21H2 LTSC was behind the problems. It could well be. While support for 21H2 ended for many users in 2023, Windows 10 LTSC 2021 will carry on until Jan 12, 2027, meaning engineers might have an exciting festive period ahead of them. Windows 10 IoT Enterprise LTSC 2021 will receive extended support until Jan 13, 2032. Either way, using Windows to advertise the Food Hall's wares seems slightly overkill. Simple posters, for example, never run out of disk space or attract the bork fairy's attention. Perhaps they might use something that lacks the voracious appetite for storage that Microsoft's finest demands. According to the Windows biz, installing Windows 10 requires at least 32 GB of disk space, ideally more. It all seems a bit excessive for a cake-based caterpillar advert. Then again, when your operating system tends to have the resilience of a chocolate teapot, using it to advertise a chocolate insect might not be such a bad idea after all. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5306107&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5306107&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Backbone of a beast – charting Nvidia's rise to networking titan</title>
 <link>https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499</link>
 <guid isPermaLink="false">0426862bfd6e71a0cf92822c214f4fb6f548f1db580d54ad09401d60d9759542</guid>
@@ -178,6 +189,17 @@
 <description>When you're ordering food from your phone, even time spent navigating the app is time wasted. At the P99 2026 virtual conference , Elvis Chidera , a staff engineer at Germany-based global delivery service Delivery Hero , explained how the company moved most of its user base to HTTP/3, and consequently cut its apps’ total end-to-end response time of the home screen by 17 percent. Chidera, who managed the project, explained that, as promised on the tin, HTTP/3 delivers the web faster than HTTP/2, though it has slow bits that need to be adjusted to work properly. Uber eats Delivery Hero Delivery Hero is all but unknown in the US, which is dominated by Uber Eats and DoorDash. But it is a company with global reach outside the US, with an estimated user base of 60 million across Europe, Latin America, Africa, the Middle East, and Asia. Uber is currently acquiring Delivery Hero for $14.8 billion, with plans to unite the company with Uber Eats. With this purchase, Uber would expand the number of markets where it offers both ride-hailing and delivery services, though not necessarily under the Uber Eats nameplate. Delivery Hero centrally manages separate apps for different regions, all of which it built or acquired. Asians can order poke bowls and sundries through Foodpanda . Turks can order kebabs through Yemeksepeti . Throughout Spain, Italy, Poland, Romania, Ukraine, and much of Africa, the Glovo app is where to ring up the late-night deliveries. And in Latin America, users dial in to PedidosYa to get what they need from nearby farmacias, restaurantes, and mercados. All these regions have widely varying network connectivity, a problem Delivery Hero wanted to minimize. Last mile networking was most often the bottleneck. Apps in Pakistan, for instance, could take nearly a second (at p90) to establish a secure handshake with a server. The engineering team looked at HTTP/3 as a way to lower, even eliminate, that latency. A QUIC-er HTTP The Internet Engineering Task Force (IETF) formally introduced the third version of the internet’s Hypertext Transfer Protocol in 2022. HTTP is the application layer protocol that connects browsers and other resources connected to servers over the Internet. The previous versions of HTTP were built on the Transmission Control Protocol (TCP), which offered guaranteed delivery and flow control. In conjunction with the Internet Protocol (IP), TCP/IP built the modern internet. HTTP/3 replaced TCP with Quick UDP Internet Connection (QUIC), developed by Google , to address some of TCP’s p erceived sluggishness as a transfer protocol. UDP stands for User Datagram Protocol and, unlike TCP, it does not guarantee packet delivery or flow control. UDP is faster because it doesn’t wait around for a signature (QUIC adds in its own flow control on top of UDP). But the UDP-based HTTP/3 reduces, and sometimes eliminates, the round trips needed to secure connections. The app can cache a session ticket and, on a later connection, use QUIC's 0-RT</description>
 <enclosure url="https://image.theregister.com/?imageId=5306774&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306774&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>I read Anthropic's 92-page risk factor document, so you don't have to – video explainer</title>
+<link>https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer</link>
+<guid isPermaLink="false">c85e975407f639b87afa0ab25bb88e40c5d7dc7282478f8dec9114a7720405b2</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 19:57:13 +0000</pubDate>
+<description>Anthropic, the creator of Claude, filed to go public on the US stock market on 26 October. The company's filing statement contains a 92-page risk factor document in which it acknowledges the dangers that AI poses to society and human beings, and factors that could negatively affect Anthropic's business. Johana Bhuiyan, senior tech reporter for the Guardian, breaks down the document and explains why Anthropic's IPO could be a real test to the AI boom Anthropic files for potentially record-breaking stock market valuation in key test for AI industry Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/287a932e6182e9c13725a754a783f28dac7965a5/509_0_5029_4024/master/5029.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1dc09554d69f1508dd978029f4decab6" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/287a932e6182e9c13725a754a783f28dac7965a5/509_0_5029_4024/master/5029.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1dc09554d69f1508dd978029f4decab6" medium="image"/>
 </item>
 <item>
 <title>Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see</title>
@@ -1181,17 +1203,6 @@
 <media:content url="https://image.theregister.com/?imageId=5300113&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Computerized clairvoyance: psychics push back against AI-generated readings</title>
-<link>https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings</link>
-<guid isPermaLink="false">92917d16ee744358d02b361f464134606fccfac0ad76b87f567159602c344fc7</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 11:00:31 +0000</pubDate>
-<description>Human practitioners warn computer-generated offerings lack the empathy and connection central to divination “This journey isn’t just about algorithms or data,” an AI psychic named Urban Mystic recently told me. The chatbot, featuring an AI-generated profile photo of a smiling woman surrounded by palm trees, also said I will get married soon, that I have a pink aura and that I may have been an herbalist in a past life. “It’s about connecting on a soulful level,” the chatbot said. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/8965bdb4347fba9c905e802374a3cebfea5c77ac/375_0_2250_1800/master/2250.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5489025f0da1fb4911b983fc53a6744" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/8965bdb4347fba9c905e802374a3cebfea5c77ac/375_0_2250_1800/master/2250.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5489025f0da1fb4911b983fc53a6744" medium="image"/>
-</item>
-<item>
 <title>Night Plane review – join the jumbo jet to hell in this indie horror head trip</title>
 <link>https://www.theguardian.com/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game</link>
 <guid isPermaLink="false">1e4c07a23d0712e582f9f8d85e6c89306449504eaa2edf23bb8df339ad921dee</guid>
@@ -1410,17 +1421,6 @@
 <description>Amazon just dropped new smart home gear in response to Apple. Here’s how the Echo Show 16 stacks up.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" medium="image"/>
-</item>
-<item>
-<title>GitHub powering up four million extra cores to stop its service going down</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863</link>
-<guid isPermaLink="false">20b55e51f677f9a7f4d2ca0a16b8eb1f7ddfb3355f7eb4795bdfb4beacaf60b3</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
-<description>GitHub's Universe conference kicked off in San Francisco on Wednesday with news that its infrastructural universe is expanding to address staggering demand from AI agents. GitHub recorded 7.4 billion code commits in September 2026, five times more than hit its servers a year earlier. This surge in traffic over the past year, the result of developers running AI agents and generating increased amounts of programming code, caught the company unprepared and led to a series of outages and service availability woes. AI-driven code commits started becoming a problem last December, and led to problems in February , April , August , not to mention the months in between. On May 7, the site's 90-day availability hit a low of about 84 percent , according to reconstructed data from GitHub's status page. GitHub execs apologized and promised to do better. Those commitments have put four million CPU cores and 160 petabytes of high-speed storage on its infrastructure roadmap, alongside extra compute capacity for GitHub Actions, the company's beleaguered continuous integration and continuous delivery (CI/CD) platform. The Microsoft-owned code hosting biz also says it is redesigning its technical architecture (an effort discussed previously ) to separate compute and storage, with the expectation that will enable 35x more throughput. "We’re also migrating to a multi-region deployment in Azure , while continuing to serve incredible levels of traffic from developers around the world," said Jay Parikh, EVP of CoreAI, Microsoft, in a blog post provided to The Register . "We expect to complete the migration early next year. Those investments give us more room to grow. The next step is building the systems that handle the work." Also at the its Universe event , GitHub announced general availability of Copilot Fusion, the company's model routing service that was previewed under the name HydraFusion . The idea is that allowing GitHub to route requests to different models can improve task-completion rates while reducing token consumption costs. "Different tasks need different models," said Parikh. "Developers shouldn’t have to manage every model choice to get the right result at the right price. Copilot Fusion evaluates what a task needs across reasoning, code generation, debugging, and tool use, then chooses how to execute across one or more models. In the Artificial Analysis Coding Agent Index, Fusion Max scored within two points of Opus 5.5 Max at half the cost and 40% less time per task." GitHub is making more bells and whistles available through its Copilot app, including Copilot Projects, for coordinating parallel work; Copilot Connectors, for simplifying how Copilot connects to MCP servers; and Copilot Automations, which are reusable agent tasks. And in what appears to be an effort to boost Copilot usage in the workplace, GitHub is extending Copilot access to all GitHub Enterprise users without requiring any additional per-seat purchases. Customer still get billed for</description>
-<enclosure url="https://image.theregister.com/?imageId=1618985&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1618985&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it</title>

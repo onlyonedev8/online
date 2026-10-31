@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks</title>
+<link>https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html</link>
+<guid isPermaLink="false">c88b448a7c1d180ca214704f58196da8fa0cdc629aded4d16b48662295ea6a75</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Sat, 31 Oct 2026 09:01:45 +0000</pubDate>
+<description>As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.</description>
+<enclosure url="https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California</title>
 <link>https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly</link>
 <guid isPermaLink="false">dbd108a1b10f460c10b2099cd770e679ed09c1128943d72797cca895ccf3e1ba</guid>
@@ -1058,17 +1069,6 @@
 <description>Scientists now know that they shared many of the sophisticated abilities of Homo sapiens. So why are we the only humans left standing?</description>
 <enclosure url="https://static01.nyt.com/images/2026/10/26/science/26SCI-UNKNOWNS-NEANDERTHALS/26SCI-UNKNOWNS-NEANDERTHALS-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/10/26/science/26SCI-UNKNOWNS-NEANDERTHALS/26SCI-UNKNOWNS-NEANDERTHALS-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Some Buy Telescopes. These People Build Them From Scratch.</title>
-<link>https://www.nytimes.com/2026/10/24/science/space/stellafane-telescopes-makers.html</link>
-<guid isPermaLink="false">4240cee4281cac457c71e9919fb53a99a74bbd1e4caa1cc09ccd6f4fff79b04c</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Sat, 24 Oct 2026 12:57:50 +0000</pubDate>
-<description>For a century, amateur telescope makers have gathered at the Stellafane convention to celebrate their craft. Will the event last another 100 years?</description>
-<enclosure url="https://static01.nyt.com/images/2026/10/24/multimedia/24SCI-TELESCOPE-MAKERS-stillpromo-tzpm/24SCI-TELESCOPE-MAKERS-stillpromo-tzpm-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/10/24/multimedia/24SCI-TELESCOPE-MAKERS-stillpromo-tzpm/24SCI-TELESCOPE-MAKERS-stillpromo-tzpm-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>RS-25 Engine Tests at NASA Stennis</title>
