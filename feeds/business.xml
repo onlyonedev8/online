@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Binance says 90% of stolen assets replenished, targets Sunday withdrawals</title>
+<link>https://cointelegraph.com/news/binance-hack-90-percent-replenished</link>
+<guid isPermaLink="false">f996888223ac2aea57fd738d568f9e75e876bcf827ec63d0985dd57075ae90ce</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sat, 31 Oct 2026 15:36:01 +0000</pubDate>
+<description>Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png" medium="image"/>
+</item>
+<item>
+<title>Bitcoin held up better than expected after Binance hack, Strive CEO says</title>
+<link>https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo</link>
+<guid isPermaLink="false">01410511dc464bb6a629c67dc85a1e52fccb3b4db9debe429b7834b4a0f6eb9e</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sat, 31 Oct 2026 15:26:46 +0000</pubDate>
+<description>Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6784E305ZRSTBDYV0WKG4RR/hi-true-or-false-91-of-surveys-about-bitcoin-and-crypto-are-totally-wrong.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6784E305ZRSTBDYV0WKG4RR/hi-true-or-false-91-of-surveys-about-bitcoin-and-crypto-are-totally-wrong.png" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sat, 31 Oct 2026 15:09:55 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History</title>
+<link>https://decrypt.co/382306/binance-hack-everything-you-need-to-know</link>
+<guid isPermaLink="false">bd2e8391f4ad4babb5e1ea9654f25d8b6e99ff9fe6e93df56ecc404fb21edaf5</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Sat, 31 Oct 2026 15:01:02 +0000</pubDate>
+<description>Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s behind it, and what comes next.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>Bitcoin turns 18: Has the original rebel grown up?</title>
 <link>https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up</link>
 <guid isPermaLink="false">f24676b86544ce7095bbe1b299070a67e1a073d711de943a426417f468dd0053</guid>
@@ -422,17 +466,6 @@
 <media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/10/Blockchain-Firms-Link-North-Korea-to-6.3-Billion-Binance-Hack-.jpg" medium="image"/>
 </item>
 <item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 14:07:42 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
-</item>
-<item>
 <title>Tyler Evans: Bitcoin ETF Flows Flipped From “Highly Negative” to “Strong Accumulation”</title>
 <link>https://bitcoinmagazine.com/videos/tyler-evans-bitcoin-etf-flows-flipped-from-highly-negative-to-strong-accumulation</link>
 <guid isPermaLink="false">1014ea7d65f12f49a21f9b10b4de11d8252809512f460b2ff2d70c69e3cba5fc</guid>
@@ -741,17 +774,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Public companies double share of blockchain revenue since 2022: Report</title>
-<link>https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report</link>
-<guid isPermaLink="false">0a319f162756cd3871eb53df1e2085283cafba6fe1937cce37812ba94c210193</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 19:53:14 +0000</pubDate>
-<description>A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg" medium="image"/>
-</item>
-<item>
 <title>Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms</title>
 <link>https://decrypt.co/382183/chrome-pull-details-from-your-gmail-web-forms</link>
 <guid isPermaLink="false">f7f12d74a4fe70a36fb6267fc168102b67c151bffee4626ebabaf5057a2c5d5b</guid>
@@ -761,17 +783,6 @@
 <description>Chrome's new autofill uses Google's Gemini AI to search your Gmail for order numbers, tracking details, and flight bookings and fill them into web forms. It is rolling out in the U.S.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Polymarket suspended trading amid reports of user funds being drained</title>
-<link>https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised</link>
-<guid isPermaLink="false">8d275b9040513b96c3923a97a396aa5ba8734cfe428f20858de4cf79760b9b1c</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 19:23:03 +0000</pubDate>
-<description>The prediction markets platform halted trading on Thursday after it reported one of its third party providers had been compromised.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64FW4X54T1VWYMX6B1PR4H5/hi-you-are-once-again-banning-crypto-content-polymarket-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64FW4X54T1VWYMX6B1PR4H5/hi-you-are-once-again-banning-crypto-content-polymarket-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Polymarket Pauses Trading as Prediction Market Investigates Security Incident</title>
@@ -1014,16 +1025,5 @@
 <description>The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds</title>
-<link>https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions</link>
-<guid isPermaLink="false">20d15aab03dd21217bf3693a2efe9d0fdef3db922ce49a7c10f5182b7f1fa469</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 28 Oct 2026 17:36:02 +0000</pubDate>
-<description>Professional analysts went along with their AI agent’s hidden opinion 86% of the time, and few credited it.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png" medium="image"/>
 </item>
 </channel></rss>

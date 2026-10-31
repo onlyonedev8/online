@@ -4,6 +4,105 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Traveling with electronics? These 5 items could raise TSA red flags</title>
+<link>https://www.engadget.com/2301241/tsa-electronics-red-flags</link>
+<guid isPermaLink="false">36606af7024a69d081cfbb332731e534a4b88a7b8136a537ac2b37f25526f870</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 15:45:00 +0000</pubDate>
+<description>Travel is stressful enough. Here's what you should know about TSA rules on traveling with tech.</description>
+<enclosure url="https://www.engadget.com/img/gallery/traveling-with-electronics-these-5-items-could-raise-tsa-red-flags/l-intro-1793277794.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/traveling-with-electronics-these-5-items-could-raise-tsa-red-flags/l-intro-1793277794.jpg" medium="image"/>
+</item>
+<item>
+<title>Google's AI satellite sends a very expensive haiku to Earth</title>
+<link>https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818</link>
+<guid isPermaLink="false">7092ceeae2660d994fd80f5c07971637ea680e1598bd83852cdad59f3b46a617</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 15:36:14 +0000</pubDate>
+<description>Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite. The company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to "Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you." Travis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its "Hello World" milestone by sending an inference response from orbit. "During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space," wrote Beals in a blog post . And as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink: Blue marble below, Data streams in silent grace, Starlight feeds my core. ✨ Those roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs. Add in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku. According to Google's calculations , if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year). Google predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening. After the haiku, Beals said, "we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems." Next up: tests for evaluating how TPUs perform under thermal stress and radiation. Google has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam. The system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si). "For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second," Google researchers said in a paper published earlier this month. "While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy</description>
+<enclosure url="https://image.theregister.com/?imageId=5306822&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5306822&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>The Amazon Fire TV Stick setting you should try for better audio</title>
+<link>https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio</link>
+<guid isPermaLink="false">a875c68d393a361e405b8d5127f3d170475235261ce94f2bd7ef9fe636ade03e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 15:30:00 +0000</pubDate>
+<description>Dialogue is an important part of any movie or TV show, but it isn't always as clear as we would like. Amazon's Fire TV Stick has a solution.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio/l-intro-1793163251.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio/l-intro-1793163251.jpg" medium="image"/>
+</item>
+<item>
+<title>What is the purpose of reposting on Instagram and how do you do it?</title>
+<link>https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do</link>
+<guid isPermaLink="false">ae0dcdaa3be8571b22645bb66aeb696528b6580be5d22294a6efe0788f659319</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 15:15:00 +0000</pubDate>
+<description>It's the easiest way to share posts and reels you like with all of your followers.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-is-the-purpose-of-reposting-on-instagram-and-how-do-you-do-it/l-intro-1793280962.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-is-the-purpose-of-reposting-on-instagram-and-how-do-you-do-it/l-intro-1793280962.jpg" medium="image"/>
+</item>
+<item>
+<title>Windows 11 tries new shortcuts for Xbox gaming mode and search</title>
+<link>https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings</link>
+<guid isPermaLink="false">c2b007773561e634d6fe12692905b63d8afcda31179ca4edc8528c8c6a6ac976</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 15:12:19 +0000</pubDate>
+<description>The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now filter results for files, actions, or web results. You can also use the search box to perform actions like changing the screen brightness or volume, and even perform actions on a connected phone, including making calls. Results can also offer much more detail, like when a file was last modified and its author, or pull in charts for stock prices and we … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Sam Altman is upset at you for hoarding RAM in your own computer</title>
+<link>https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer</link>
+<guid isPermaLink="false">c7350fc290735f60c8c3ebe13ffb91b8b43d6d2780ea21354208c14eb414522d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 15:07:10 +0000</pubDate>
+<description>Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use.</description>
+<enclosure url="https://www.engadget.com/img/gallery/sam-altman-is-upset-at-you-for-hoarding-ram-in-your-own-computer/l-intro-1793458699.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/sam-altman-is-upset-at-you-for-hoarding-ram-in-your-own-computer/l-intro-1793458699.jpg" medium="image"/>
+</item>
+<item>
+<title>Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders</title>
+<link>https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale</link>
+<guid isPermaLink="false">25c799e87cfd13020649c4b3ed574fa2edacc3ca46bfc6ceb38f87a67320efbc</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 15:00:00 +0000</pubDate>
+<description>We got a chance to touch Apple’s latest MacBook at the “Pro and Tell” event. | Photo: Antonio G. Di Benedetto / The Verge While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops available in 14- or 16-inch configurations, and even one of its 14-inch MacBook Pro laptops with the M6 chip. You can verify that it’s been added to your order in the “Complete your purchase” section of the checkout page. Apple MacBook Pro with PROLED XDR Display Where to Buy: $2899 at Best Buy (w/ $100 gift card) My colleague Antonio G. Di Benedetto got a chance to check out the new laptop at Apple’s event, and came away impressed by the Tandem OLED panel’s brightness and contrast, but described the update as “kind of boring” given the relatively small changes to the system otherwise. There are some unique changes to macOS that help make the new touch experience smoother, like magnifying the traffic light-colored buttons on windows when you move your finger near them. The PROLED laptops are also a bit thinner and lighter than standard models, and the Apple logo on the back glows like on older versions. Read our MacBook Pro with PROLED XDR display hands-on .</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Vic Mensa can’t live without the Voice Memos app</title>
+<link>https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview</link>
+<guid isPermaLink="false">c33a4ef8830443b6ddae0e300b0aa46096744ecc81bb9c83dcd1ea29158d4318</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 15:00:00 +0000</pubDate>
+<description>No lies detected. | Photo: Onda Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape , which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single " Down On My Luck "? Maybe you didn't even realize that Mensa was a rapper. Maybe you know him from his roles on The Chi or Bel-Air . Or perhaps you're mostly aware of him through his activism, social media presence ( peeling oranges and waxing poetic ), or his podcast The Vic Mensa Show . Point is, the man wears many hats. Part of the secret to being so prolific, it tu … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSCF4167.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSCF4167.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Is IMAX 3D a better experience than 2D? Here's what to know</title>
+<link>https://www.engadget.com/2300266/imax-3d-vs-2d-which-is-better-experience</link>
+<guid isPermaLink="false">6a98c7cb7d72f592261fa97f57156c26262dc1b184f94bcbdef49ed74cb9cf39</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 15:00:00 +0000</pubDate>
+<description>While IMAX 3D may sound bigger and better, there are a handful of distinct advantages and disadvantages to both movie-viewing experiences.</description>
+<enclosure url="https://www.engadget.com/img/gallery/is-imax-3d-a-better-experience-than-2d-heres-what-to-know/l-intro-1792845861.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/is-imax-3d-a-better-experience-than-2d-heres-what-to-know/l-intro-1792845861.jpg" medium="image"/>
+</item>
+<item>
 <title>Why SNES games are so expensive</title>
 <link>https://www.engadget.com/2301220/why-snes-games-so-expensive</link>
 <guid isPermaLink="false">c9d6f0bbe43f1ac693da0f93bf62a803a04927984a6c011b90242010ecb2aec5</guid>
@@ -444,17 +543,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Everything you need to know about Googlebooks</title>
-<link>https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks</link>
-<guid isPermaLink="false">2a5279909cfde7c85c109063c992abd85f2d3a6234546dc456ecdf9194bdd80a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 19:00:00 +0000</pubDate>
-<description>Despite good initial hardware, the Googlebook OS still needs a lot of work.</description>
-<enclosure url="https://www.engadget.com/img/gallery/despite-good-initial-hardware-the-googlebook-os-is-holding-the-platform-back/l-intro-1793383802.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/despite-good-initial-hardware-the-googlebook-os-is-holding-the-platform-back/l-intro-1793383802.jpg" medium="image"/>
-</item>
-<item>
 <title>Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
 <link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
 <guid isPermaLink="false">b9ee8bb30716fa37b159432c17457de6c675d196a614236a5622c85e7238dfdd</guid>
@@ -499,17 +587,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru</link>
-<guid isPermaLink="false">8789b25f4f928a029c45ca212a1b04923d18f26eb94d10f419ceea9ec95d2c4f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 17:38:04 +0000</pubDate>
-<description>Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday , Starbucks CEO Brian Niccol said the company is going to explore "experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless," as spotted earlier by More Perfect Union . It sounds similar to the technology that Taco Bell is experimenting with , which could change the layout, content, and visuals on a digital menu board "on a car-by-car basis." McDonald's also r ecently showed off an AI-powered feature it's piloting at a handful of dri … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Samsung adds better sleep tracking to Galaxy Watches – here’s what to expect</title>
 <link>https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches</link>
 <guid isPermaLink="false">17ae841ebf69dd70b8fc3d2dcb5a24ce704c8263c5d89421164a963847a21875</guid>
@@ -521,17 +598,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg" medium="image"/>
 </item>
 <item>
-<title>The delightfully messy state of Apple gadgets</title>
-<link>https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets</link>
-<guid isPermaLink="false">99249c1bb5cfdaa3e016f41c82d82511fb1d0cdd64495e5ed318d17c5dda1c0f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 17:25:20 +0000</pubDate>
-<description>The iPhone has more screens ! The MacBook has a touchscreen ! The HomeView does CarPlay apps ! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some new things again. Even when, in this case, "trying" amounts to just slapping a touch panel on a lovely new MacBook Pro - just to see if you might use it. On this episode of The Vergecast , David and Nilay debate the merits of a touchscreen laptop, Nilay explains why he is absolutely positively going to buy the new MacBook Pro with PROLED XDR Display, … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>I’m finally ready for a smart calendar – why the Echo Show 16 stands out</title>
 <link>https://www.zdnet.com/home-and-office/im-finally-ready-for-a-smart-calendar-why-the-echo-show-16-stands-out</link>
 <guid isPermaLink="false">b4024f885823ca6436888442367483292b859d025a1d650efd53a4047a083490</guid>
@@ -541,17 +607,6 @@
 <description>I’m finally ready to upgrade to a smart calendar – and Amazon’s newest Echo device looks like an organizational solution for my family and I.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" medium="image"/>
-</item>
-<item>
-<title>Rivian’s autonomy gamble faces its first real test</title>
-<link>https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026</link>
-<guid isPermaLink="false">256174e04f2a657aa0f8a469f133ed9d3e150bd030afd21b60129a141f3110d9</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 17:16:09 +0000</pubDate>
-<description>Rivian founder and CEO RJ Scaringe (left) watches Rivian R2s being built after an event at the Rivian assembly plant on May 19th, 2026, in Normal, Illinois. | Photo: Scott Olson / Getty Images During an hourlong earnings call last night , Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions . But the company faces a crucial test later this year, when it rolls out its point-to-point hands-free driving feature - first to its own employees for testing and validation in 2026, and later to customers in 2027. Following that, Rivian says it will launch its first robotaxi vehicles in partnership with Uber in 2028 . In short, the next two years will determine whether Rivian will succeed or fail in its high-stakes ques … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2277183149.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2277183149.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Thousands of “ghost students” use AI to steal millions in student loans, DOJ says</title>
@@ -598,17 +653,6 @@
 <media:content url="https://image.theregister.com/?imageId=5254625&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>New tvOS 27.2 features to try for an upgraded Apple TV experience</title>
-<link>https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience</link>
-<guid isPermaLink="false">6c2c12375ebde64ecdbe054eedd09a66da4699a251ae6aafa15f9d55c305a101</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 16:22:49 +0000</pubDate>
-<description>Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.</description>
-<enclosure url="https://www.engadget.com/img/gallery/new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience/l-intro-1793349181.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience/l-intro-1793349181.jpg" medium="image"/>
-</item>
-<item>
 <title>Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras</title>
 <link>https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes</link>
 <guid isPermaLink="false">0b0261f33bdc8b7ac3a8dd84a7a6f46884b4bb39c42c6045f264359e89a7c505</guid>
@@ -631,17 +675,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg" medium="image"/>
 </item>
 <item>
-<title>The Wikimedia Foundation weighs in on the NYT's case against OpenAI</title>
-<link>https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai</link>
-<guid isPermaLink="false">8ada096505f97960e75487556ba1597c86fb2adcd16ea763c9f1d768cdf03b7d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 15:47:12 +0000</pubDate>
-<description>The folks behind Wikipedia say that an extreme decision in either direction could threaten the open web.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/l-intro-1793374984.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/l-intro-1793374984.jpg" medium="image"/>
-</item>
-<item>
 <title>Voyager 1 gives controllers the silent treatment</title>
 <link>https://www.theregister.com/science/2026/10/30/voyager-1-gives-controllers-the-silent-treatment/5306637</link>
 <guid isPermaLink="false">01a259e2affea8325ac96f84651279e5598665e49e62c55d889dd437a9afb9f0</guid>
@@ -651,17 +684,6 @@
 <description>Voyager 1 gave controllers the silent treatment for a few days this month before resuming communication weeks before the spacecraft reaches the one-light-day milestone. The incident happened on October 18: NASA's Deep Space Network (DSN) couldn't detect a signal from the probe. On October 19, on the next scheduled communication attempt, there was still nothing. Was this it? Had the decades-long galactic venture finally ended? Things are operating on a knife's edge for the two veteran spacecraft, which will reach their half-century next year. Voyager 2 suffered an antenna pointing issue in 2023, and a low power condition caused Voyager 1 to unexpectedly turn off one of its two radio transmitters. The good news is that on October 20, the signal reappeared, leaving engineers wondering why Voyager 1 temporarily went silent. Thus far, it seems a group of thrusters went offline and their backups were turned on. This could indicate onboard computers detected a problem and put the spacecraft into a safe mode. Kareem Badaruddin, Voyager mission manager at NASA's Jet Propulsion Laboratory, said: "This is the first time we've seen the spacecraft do something like this, but we are also at a point in the mission where we have to expect the unexpected. "We're relieved to be back in contact with Voyager 1 and are eager to understand what happened." The Register spoke to Badaruddin in 2024 , where he described the challenges of working with the veteran spacecraft, but he reckoned the work was the "best job at JPL." The twin Voyager spacecraft have recently been through a procedure dubbed the "Big Bang," where controllers turned off onboard devices and switched to lower power alternatives. The result will extend the lifetime of the spacecraft by a few more years and postpone further instrument deactivation. It was completed first on Voyager 2, and then Voyager 1, six weeks later in September. However, the brief lapse in communication highlights that despite the ingenuity of the team that keep the spacecraft running, the project must eventually come to an end. In 2026, Suzanne Dodd, Project Manager for the Voyager project, told The Register what the end would look like . She said, "We're just going to one day not hear the signal from the DSN, and we're going to rush around and make sure that it's not something on the ground." Months of listening will follow, before engineers throw in the towel and declare the mission over. And then? Maybe a farewell message sent to the last known location. Thankfully, in this case, the signal returned, so no need for a goodbye transmission just yet. In a few weeks, Voyager 1 will be so far away that it will take a full 24 hours for commands to reach it and another 24 hours for a response to reach Earth. Communications blip notwithstanding, there is every chance both Voyager spacecraft will still be operational as they pass their half-century milestone next year and, technology and funding permitting, continue sending data to Earth</description>
 <enclosure url="https://image.theregister.com/?imageId=5306667&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306667&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>The Death Stranding anime's first teaser trailer arrives ahead of its Disney+ debut</title>
-<link>https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut</link>
-<guid isPermaLink="false">af2a3c7f7f4b89427dcdb3827bf32e14ba04986b063d79fef9bba7bcbac43ef9</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 15:07:09 +0000</pubDate>
-<description>The adaptation has a fittingly strange tagline: "My mom became a crater."</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/l-intro-1793372769.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/l-intro-1793372769.jpg" medium="image"/>
 </item>
 <item>
 <title>Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms</title>
@@ -761,17 +783,6 @@
 <description>The University of Manchester is scrutinizing why growing adoption of AI tools has so far failed to translate into the forecast productivity gains, however, researchers are struggling to give easy answers to close the "AI ambition gap." In a report, also called “ The AI Ambition Gap ,” the UK university’s Productivity Institute mulls over the advances that have been made in AI and the expanding adoption of it, and sets out what business leaders and policymakers can do to realize the potential benefits. The report was commissioned by IT services biz Bytes Technology Group . One reason for the lack of results is that organizations have invested heavily up front on retraining staff, reorganizing the way they work and other adjustments. Those costs show up straight away, yet the payback doesn’t come until later. Another reason, the report suggests, is that AI tools can raise productivity at the level of individual tasks, but these gains do not automatically translate into greater productivity across a worker’s whole role or the entire organization. It cites the example of software developers using GitHub Copilot who completed around 26 percent more tasks, and professionals using ChatGPT for routine writing and analysis that reduced task completion time by 40 percent while improving the quality of the output by 18 percent. However, a study of AI dev tools found these have increased coding activity by approximately 240 percent, while the number of actual software releases has only grown by about 30 percent. The gap is due to humans still needing to check and test their work before release. High task exposure to AI does not automatically make a worker more productive, the researchers say. Jobs typically combine automatable activities with tasks that require judgement, coordination, client interaction and critical thinking. As AI removes or accelerates some activities, those complementary human tasks become the constraint on time saving and the translation of task-level gains into greater productivity Job outcomes therefore depend on task composition and complementary human expertise, the report continues. It suggests AI may in part displace labor from existing tasks, while also creating new tasks in which workers retain a comparative advantage. This could be good news for the UK, the researchers state. Compared with five other nations (US, Brazil, Colombia, India and South Africa), Blighty has the highest share of workers in occupations with both high exposure to AI and "high complementarity," it claims. This is in part related to the country’s large financial and professional business service sectors, which are characterized by a high share of cognitive occupations. This is just as well, as the government is pinning its hopes on using AI to drive economic recovery in a strategy outlined at the start of last year. Britain's AI sector is relatively large by European standards, and the report cites recent OECD estimates that high-exposure economies such as</description>
 <enclosure url="https://image.theregister.com/?imageId=5306604&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306604&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Harley-Davidson's electric motorbike brand has 'substantial doubt' about its future</title>
-<link>https://www.engadget.com/2302065/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future</link>
-<guid isPermaLink="false">4e86ec332b8d84e59ea4963389c461124affbc060ba4a4176c8c9717e5e8a8e3</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:06:06 +0000</pubDate>
-<description>LiveWire's warns that it may not survive its current financial difficulties.</description>
-<enclosure url="https://www.engadget.com/img/gallery/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/l-intro-1793365250.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/l-intro-1793365250.jpg" medium="image"/>
 </item>
 <item>
 <title>NHS quango warns of risk to GP patient data after website vendor collapse</title>
@@ -1355,17 +1366,6 @@
 <description>From a new smart alarm clock to an Alexa-powered 3D map of your home, here’s what’s new from Amazon, including prices and release dates.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Alexa-Home-Map-1920x1080-1.png" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Alexa-Home-Map-1920x1080-1.png" medium="image"/>
-</item>
-<item>
-<title>Anthropic engineer declares the coding interview dead</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/28/anthropic-engineer-declares-the-coding-interview-dead/5306115</link>
-<guid isPermaLink="false">5c9fc345ec084a43f09b0cae0d872138af7e39af1cae1a48082315249921d0c0</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 20:22:56 +0000</pubDate>
-<description>Why ask a human to complete a coding test when they can just use an AI to help them? Anthropic engineering manager Felix Rieseberg says he has stopped using traditional coding interviews for his team. "Being able to quickly define problems and find elegant solutions was a weak but useful predictor for how successful you’d be on my teams," Rieseberg explained in a blog post on Tuesday. "Small coding challenges in real code did tell us something meaningful about candidates." No longer, he says. The coding interview is dead , as far as he's concerned. "There’s no more point in giving you a little React challenge than there is in quizzing people about assembly; Claude is now better at both," he insisted. "Our most impactful builders are successful regardless of how good they are at these tests." In a response posted to social media, Jaana Dogan, principal engineer at Google, said much the same. "I’m not doing a ton of coding interviews nowadays but I’d be interested to interview how people use coding agents," she wrote . "That itself gives me more signals about candidates' coding skills." Several months ago, Google reportedly began reevaluating how it conducts coding interviews and what it looks for in candidates. And while it would be surprising if similar conversations haven't already occurred at other large technology companies where AI agents have demonstrated their coding capabilities, the rest of the tech industry appears to be moving more cautiously than the AI enthusiasts. "We are not seeing tech companies abandon skills assessments widely across the industry—at least not yet," said Nicole Bachaud, labor economist at ZipRecruiter, in an email to The Register . "In fact, based on our October 2026 Employer Survey of 1,500 employers, we see the tech industry (Information sector specifically) is actually the most likely to test for skills, with 62.5 percent of employers requiring formal skill tests on initial applications." Coding interviews at Microsoft, and later Google, Amazon, Facebook, and other tech giants, vary, depending on what the hiring organization aims to evaluate. They may probe technical knowledge related to a specific subject, coding ability in a particular language, general problem-solving skills, team-oriented behavior, or other skills. Stripe's software engineer interview process, according to Educative , consists of a phone screening stage, a technical phone interview, and several further on-site interviews. Rieseberg actually worked there and describes how founder Patrick Collison urged new hires to pay attention to things that seemed out of place. "His bet was that newcomers would spot friction and opportunities that old-timers had long stopped noticing," he said. And Rieseberg appears to have absorbed that viewpoint based on his dismissal of experience: "Hunger beats tenure," he said, perhaps unaware that technology companies have gotten into legal trouble for jettisoning costly veteran employees so they can be replaced by</description>
-<enclosure url="https://image.theregister.com/?imageId=5306127&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5306127&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Apple’s new touchscreen MacBook Pros may be late, but they have one big advantage</title>
