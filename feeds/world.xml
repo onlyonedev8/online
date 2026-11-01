@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7</title>
-<link>https://abcnews.com/Sports/wireStory/valkyries-dream-set-wnba-finals-game-7-after-137740321</link>
-<guid isPermaLink="false">395fb2e9063c8a25c71f0aecea393a5cdc8f16f49738b16e9dbbf4788e4702ff</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Sun, 01 Nov 2026 04:34:14 +0000</pubDate>
-<description>Gabby Williams scored her team’s final 11 points of the third quarter and dazzled through the fourth on the way to 30 points, and the Golden State Valkyries captured a championship in just their second season by beating the Atlanta Dream 68-63 in a sen...</description>
-<enclosure url="https://s.abcnews.com/images/US/wirestory_189aa4b8ecb1d1fd8ddfacde3a9d6ac4_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/wirestory_189aa4b8ecb1d1fd8ddfacde3a9d6ac4_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>ICE officer accused of intentionally striking man expected to surrender on Monday</title>
 <link>https://abcnews.com/US/indicted-ice-officer-accused-intentionally-striking-man-expected-surrender/story?id=137742480</link>
 <guid isPermaLink="false">c3d2790c3717200fe973b1c95b7f633c700ef3c8124f7b0bd31aadf7dbcf794a</guid>
@@ -629,6 +618,17 @@
 <description>Dave Merkel, co-founder and CEO of cybersecurity company Expel, talks about the major breach.</description>
 <enclosure url="https://s.abcnews.com/images/US/261030_abcnl_11a_merkel_cybersecurity_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261030_abcnl_11a_merkel_cybersecurity_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Daylight saving time 2026 ending: When to 'fall back'</title>
+<link>https://abcnews.com/GMA/Living/daylight-saving-time-2026-ending-fall-back/story?id=137001508</link>
+<guid isPermaLink="false">087e7c44840c4814c1c9cae29f139976ee8e1c528d00fd0cebcb76864f2c3ab5</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 30 Oct 2026 16:00:48 +0000</pubDate>
+<description>Despite a push in Congress to end daylight saving time permanently, the proposal has stalled and most Americans are on track to "fall back" within a month.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/daylight-savings-gty-jef-261005_1791223313867_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/daylight-savings-gty-jef-261005_1791223313867_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: State of the race with 4 days until midterm vote</title>
