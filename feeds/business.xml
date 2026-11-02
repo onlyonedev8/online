@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?</title>
+<link>https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern</link>
+<guid isPermaLink="false">b6cb586b116643852d273e03e5fc34e1a32c873c5c8238c8006bab2e1e369daf</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 11:19:18 +0000</pubDate>
+<description>Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DNNRNEZ70BJDEPEQ3YPXSJ/hi-report-on-bitcoin-market-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DNNRNEZ70BJDEPEQ3YPXSJ/hi-report-on-bitcoin-market-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Trezor lifts password ceiling after Coldcard’s $100M wallet thefts</title>
 <link>https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks</link>
 <guid isPermaLink="false">d4490dde7375232f5e81a4026f8963e9317af804eaac1b97dfff42ce6afee9f5</guid>
@@ -717,17 +728,6 @@
 <description>Israel's Supreme Court ruled that exploiting a coding flaw can count as computer intrusion, even when the software allowed the transaction.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Binance says it holds $5B in matching tokens to cover hack losses</title>
-<link>https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody</link>
-<guid isPermaLink="false">db4ecf0721aa03798e90420ac0df5e220b0f674cca6075c911ab696cc2a24bdd</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 12:41:43 +0000</pubDate>
-<description>The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66BRB3N5FEXF6ZJA32PXWYM/hi-binance-is-now-accumulating-btc-at-an-even-faster-rate.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66BRB3N5FEXF6ZJA32PXWYM/hi-binance-is-now-accumulating-btc-at-an-even-faster-rate.jpg" medium="image"/>
 </item>
 <item>
 <title>Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day</title>
