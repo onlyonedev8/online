@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 22:36:09 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>New Jersey drops Coinbase staking order ahead of crypto’s midterm test</title>
+<link>https://cointelegraph.com/news/new-jersey-coinbase-staking</link>
+<guid isPermaLink="false">b23ab8485c2ece2bbdeecfdb184c353b20bf43d25f1d7a0f2978e15359a8d0aa</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 22:22:30 +0000</pubDate>
+<description>New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png" medium="image"/>
+</item>
+<item>
+<title>Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy</title>
+<link>https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy</link>
+<guid isPermaLink="false">47042751bad637c7e24440245af849554b2b3a13a59b0e62011712f8a479792e</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 22:16:02 +0000</pubDate>
+<description>Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-strive-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-strive-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>AI poses greater threat to Bitcoin than quantum computing, Swan founder says</title>
+<link>https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan</link>
+<guid isPermaLink="false">85b4879de0d98e3d5b15e85b7068b02cc6be66f5645476a5340a361d1dfedcb9</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 21:54:41 +0000</pubDate>
+<description>The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F047PK32DP192ZJ19H5DWA/hi-who-are-bam2.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F047PK32DP192ZJ19H5DWA/hi-who-are-bam2.png" medium="image"/>
+</item>
+<item>
 <title>Crypto investigators flag suspected $106M theft, $786K Solana bot drain</title>
 <link>https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain</link>
 <guid isPermaLink="false">52153c571ae85fc3a7b26ac04e0fde833745c730f0203d70f9ff0452cc54212d</guid>
@@ -400,17 +444,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CSPCM53Q6HYKY23BM33KT6/robot-courtroom-scene.png" medium="image"/>
 </item>
 <item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 02 Nov 2026 13:29:29 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
-</item>
-<item>
 <title>Binance taps half its SAFU Bitcoin holdings, releases reserve proof</title>
 <link>https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear</link>
 <guid isPermaLink="false">4aa3b3bd9629902be73dc31685aa1daf2b2589099bb7e30df83c95c4b21f1d63</guid>
@@ -697,17 +730,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png" medium="image"/>
 </item>
 <item>
-<title>Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping</title>
-<link>https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping</link>
-<guid isPermaLink="false">8ed7d0935ccee2483cd91afeeaccb51dc6fe02451831503a047c53bc26b7762d</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sat, 31 Oct 2026 13:37:49 +0000</pubDate>
-<description>Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M692SNKAR10X68EF1R0WFNT5/hi-break-these-singapore-crypto-rulesand-face-200k-fines-or-jail.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M692SNKAR10X68EF1R0WFNT5/hi-break-these-singapore-crypto-rulesand-face-200k-fines-or-jail.jpg" medium="image"/>
-</item>
-<item>
 <title>Why AI Models Cheat: Reward Hacking, Explained</title>
 <link>https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained</link>
 <guid isPermaLink="false">0dd555579842bb9089c46bd79358ba3eabc69ce5069f6e8c085cdbde9d28f3c1</guid>
@@ -717,17 +739,6 @@
 <description>From boat-racing bots to OpenAI models inside Hugging Face, here's how AI reward hacking works and why it matters.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Blockchain investigator Chainalysis hit by cybersecurity incident</title>
-<link>https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident</link>
-<guid isPermaLink="false">bf2d24de6fe9f0bf58d15fc59268238a44f1e3f2621ca26992c6f4d9c310db3d</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sat, 31 Oct 2026 11:22:49 +0000</pubDate>
-<description>The company said some non-sensitive customer data was exposed, including user IDs, names and email addresses.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg" medium="image"/>
 </item>
 <item>
 <title>MSTR Q3 2026 Earnings Call: Analyst Q&amp;A</title>
@@ -1025,17 +1036,6 @@
 <description>Polymarket restricted trading and paused relayer actions as users report funds leaving their accounts. A suspected attacker wallet holds about $2.65 million in POL, per Arkham data.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Hackers Publish Work Details of 41,000 Homeland Security Employees</title>
-<link>https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees</link>
-<guid isPermaLink="false">c878275101105c0bd5e7743549ffd7fb8de7a45fa6f137a70b6487ee3f65d1da</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 29 Oct 2026 18:46:02 +0000</pubDate>
-<description>A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/04/dhs-gID_4.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/04/dhs-gID_4.jpg" medium="image"/>
 </item>
 <item>
 <title>Galaxy Digital applies for OCC charter</title>
