@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>THORChain halts swaps after block reorg bug, slowing Binance hackers</title>
+<link>https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers</link>
+<guid isPermaLink="false">856dfb36e8ce272e16c08832048d0da4141f6e6abcd8c64b9821524eab9b311b</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 02 Nov 2026 01:51:48 +0000</pubDate>
+<description>THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CYVYY9YQQNJBR6GY3CWVA6/stop-regulation-blockchain-ban.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CYVYY9YQQNJBR6GY3CWVA6/stop-regulation-blockchain-ban.jpg" medium="image"/>
+</item>
+<item>
 <title>Binance net outflows surge to $5.8B as withdrawals resume after record hack</title>
 <link>https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack</link>
 <guid isPermaLink="false">b764491fc0a2a677c8c2940723c0c28093eee4b8a8e497e6ec86c67ead0ed5e3</guid>
@@ -750,17 +761,6 @@
 <description>Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N18RTP4EB58E1CCHH5C3R/earnings-calls-strategy-saylor-phong-le.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N18RTP4EB58E1CCHH5C3R/earnings-calls-strategy-saylor-phong-le.jpg" medium="image"/>
-</item>
-<item>
-<title>North Korea’s TraderTraitor linked to $6.3B Binance hack</title>
-<link>https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators</link>
-<guid isPermaLink="false">3e9c9ddad188e704b2ff45f0628ee913b0f9e4b4467a9a118b9730d99aee6a22</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 30 Oct 2026 05:51:41 +0000</pubDate>
-<description>TRM Labs said it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N1W42V728M2XGSHNH0A01/hi-north-korea-own-crypto.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65N1W42V728M2XGSHNH0A01/hi-north-korea-own-crypto.jpg" medium="image"/>
 </item>
 <item>
 <title>Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets</title>
