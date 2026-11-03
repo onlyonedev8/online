@@ -4,15 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Parents and 2 young children among victims of Learjet crash in Florida, family says</title>
-<link>https://abcnews.com/US/learjet-breaking-crashed-florida-ntsb/story?id=137781527</link>
-<guid isPermaLink="false">3ccdb0ab83ae25e886bdd25ce87c9910decebd0bbe746857260c5af52a9b664d</guid>
+<title>AI 'highly likely' to be used in attack on Britain's infrastructure</title>
+<link>https://news.sky.com/story/ai-highly-likely-to-be-used-in-attack-on-britains-infrastructure-ncsc-warns-13607264</link>
+<guid isPermaLink="false">a5446790e86b79dbc7a438caf655fc6b4c9f62e613c13e2be4a19ac0e778bad7</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Tue, 03 Nov 2026 01:00:00 +0000</pubDate>
+<description>Artificial intelligence is "helping to industrialise cyber attacks" and is "highly likely" to be used in attacks on Britain's critical national infrastructure by 2028, the National Cybersecurity Centre (NCSC) has warned.</description>
+<enclosure url="https://e3.365dm.com/24/01/1920x1080/skynews-hacker-cyberattack_6439404.jpg?20240131153309" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/24/01/1920x1080/skynews-hacker-cyberattack_6439404.jpg?20240131153309" medium="image"/>
+</item>
+<item>
+<title>New York state reports 1st measles-associated death in over 30 years</title>
+<link>https://abcnews.com/Health/new-york-state-reports-1st-measles-death-30/story?id=137787620</link>
+<guid isPermaLink="false">5278074c736155062f77271db0f648998e10fb8291e02576b27ebecc1fe805b7</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Mon, 02 Nov 2026 23:38:18 +0000</pubDate>
-<description>A Learjet that crashed into a Florida roadway on Sunday, killing all nine people aboard, may have been breaking up before it made impact with the ground, the NTSB said.</description>
-<enclosure url="https://s.abcnews.com/images/US/fla-crash-2-ht-gmh-261102_1793628200738_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/fla-crash-2-ht-gmh-261102_1793628200738_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Tue, 03 Nov 2026 00:46:07 +0000</pubDate>
+<description>A child died in Lewis County associated with the ongoing measles outbreak, health officials said.</description>
+<enclosure url="https://s.abcnews.com/images/Health/measles-gty-er-240311_1710169973597_hpMain_4_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Health/measles-gty-er-240311_1710169973597_hpMain_4_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>North Korea rejects US allegations over $6 billion Binance crypto heist</title>
+<link>https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist</link>
+<guid isPermaLink="false">685d3b1c8c8dd32e5151c90000aadb795a13a3a15de2605e52d922c8af78ed12</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Mon, 02 Nov 2026 23:49:10 +0000</pubDate>
+<description>North Korea on Tuesday dismissed US allegations that it was behind a $6 billion cryptocurrency theft from Binance as "absurd rhetoric", accusing Washington of seeking to portray the country as a cybercriminal state and warning that US hostility could affect future diplomatic engagement.</description>
+<enclosure url="https://s.france24.com/media/display/8f8ad8a0-cdb0-11f1-9dd8-4da0d2c6855d/w:1024/p:16x9/2026-10-08T042855Z-1116982708-RC2SYNASEWEO-RTRMADP-3-NORTHKOREA-SOUTHKOREA-1.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/8f8ad8a0-cdb0-11f1-9dd8-4da0d2c6855d/w:1024/p:16x9/2026-10-08T042855Z-1116982708-RC2SYNASEWEO-RTRMADP-3-NORTHKOREA-SOUTHKOREA-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Midterm elections live updates: SCOTUS denies Trump bid to segregate California votes</title>
@@ -81,6 +103,17 @@
 <media:content url="https://s.france24.com/media/display/ec1df072-d6fa-11f1-aa08-695cb59fade5/w:1024/p:16x9/EN-20261102-183552-184505-CS.jpg" medium="image"/>
 </item>
 <item>
+<title>Judge blasts DOJ in dismissing case against ex-FBI agents who probed Hunter Biden</title>
+<link>https://abcnews.com/US/judge-dismisses-doj-case-fbi-agents-investigated-hunter/story?id=137771456</link>
+<guid isPermaLink="false">5ec5894d3e7077914c73946fe4af01c8618c2e46f76c1f37f64b20d6f7ccfcf4</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 02 Nov 2026 20:47:14 +0000</pubDate>
+<description>A judge has dismissed the DOJ's federal false statements case against two former FBI agents accused of lying to Congress about past investigations of Hunter Biden.</description>
+<enclosure url="https://s.abcnews.com/images/US/hunter-biden-ap-gmh-261102_1793635945964_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/hunter-biden-ap-gmh-261102_1793635945964_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply</title>
 <link>https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply</link>
 <guid isPermaLink="false">66c4d792c545c8c445307ec95457fd10fabd0a2bf9d67c336add70f3e5583816</guid>
@@ -125,17 +158,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3670+0+0/resize/5500x3670!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2Ffd%2F401ffbcb4dea8054ffd72e0169a5%2Fgettyimages-2301917700.jpg" medium="image"/>
 </item>
 <item>
-<title>These House races could determine which party is in control in the next Congress</title>
-<link>https://abcnews.com/Politics/house-races-determine-party-control-congress/story?id=137301298</link>
-<guid isPermaLink="false">7f0a1236e60240b78480926c2cb5ca4ac7d08d7fc70ef6d273b4594f0162946c</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 02 Nov 2026 19:50:09 +0000</pubDate>
-<description>All 435 seats in the House of Representatives are on the ballot when voters head to the polls on Tuesday. Here are the races that ABC News rates as Tossup.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/us-capitol-20261029-rt-jh_1793321924036_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/us-capitol-20261029-rt-jh_1793321924036_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Free and fair? The Midterms and the state of US democracy</title>
 <link>https://www.france24.com/en/tv-shows/the-debate/20261102-free-and-fair-the-midterms-and-the-state-of-us-democracy</link>
 <guid isPermaLink="false">80885eec4c329a966ae00ed2af2c2a05d2aafaca8eafa116e3d6d5d332c48ea6</guid>
@@ -178,17 +200,6 @@
 <description>24/7 coverage of breaking news and live events</description>
 <enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Once Upon a Farm soft-baked bars voluntarily recalled due to potential choking hazard</title>
-<link>https://abcnews.com/GMA/Food/toddler-soft-baked-bars-voluntarily-recalled-due-potential/story?id=137764514</link>
-<guid isPermaLink="false">3192d651b85546e5cca40dc7b6be3aba67b56cc3969c0f3d4e3e0a294c23feb0</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Mon, 02 Nov 2026 19:10:31 +0000</pubDate>
-<description>Once Upon a Farm's Tractor Wheels soft-baked bars are being voluntarily recalled due to a potential choking hazard.</description>
-<enclosure url="https://s.abcnews.com/images/GMA/kids-bars-recall-ht-jef-261102_1793625304526_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/GMA/kids-bars-recall-ht-jef-261102_1793625304526_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials</title>
@@ -400,17 +411,6 @@
 <media:content url="https://s.france24.com/media/display/c8075c88-d6d1-11f1-8626-a575454bc579/w:1024/p:16x9/EN-20261102-160514-160923-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Heading into the midterms, 'no US president in recent times has been as unpopular as Donald Trump'</title>
-<link>https://www.france24.com/en/heading-into-the-midterms-no-us-president-in-recent-times-has-been-as-unpopular-as-donald-trump</link>
-<guid isPermaLink="false">a4e41fd79210814b87f836e173c7c62c44bab894b6f497a38fdce1588f237bf9</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Mon, 02 Nov 2026 15:25:20 +0000</pubDate>
-<description>Erin Ogunkeye is pleased to welcome Richard Johnson, Senior Lecturer in US Politics at Queen Mary University of London. He says that "Donald Trump is damaged goods at this point in his presidency." With this uncompromising assessment, Johnson takes us through the political forces shaping the 2026 US midterm elections. Far from assuming that Trump's formidable campaigning instincts can once again mobilize Republican voters, Johnson questions whether the president's political influence has become a liability for the very party he once transformed. He points to a potentially significant realignment within the American electorate. Economic grievances, rising living costs, trade disputes and disillusionment with the war in Iran appear, in Johnson's reading, to be weakening important elements of the coalition that sustained Trump's return to power. Particularly consequential is the possibility that Latino voters, agricultural communities and sections of the MAGA electorate may be reconsidering their political loyalties or withdrawing from electoral participation altogether.</description>
-<enclosure url="https://s.france24.com/media/display/bdbaa30e-d6cf-11f1-ab72-1beafce15fea/w:1024/p:16x9/EN-20261102-150111-151452-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/bdbaa30e-d6cf-11f1-ab72-1beafce15fea/w:1024/p:16x9/EN-20261102-150111-151452-CS.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Video of ICE agent apparently pointing gun in bystander's face during arrest</title>
 <link>https://abcnews.com/video/137764412</link>
 <guid isPermaLink="false">035892ef423a10309a3ecc7025ef805aa2926cda5b947ec4634ff6602bf2a3f1</guid>
@@ -453,17 +453,6 @@
 <description>ABC News' Senior Political Correspondent Rachel Scott breaks down the state of play as a new New York Times/Siena poll shows Democrats are gaining ground, slightly pulling ahead in key Senate races.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261102_gma_scott_election1_0709_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261102_gma_scott_election1_0709_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Greenpeace deploys boulders in North Sea to 'protect porpoises'</title>
-<link>https://news.sky.com/story/greenpeace-deploys-boulder-barrier-in-north-sea-to-protect-porpoises-13607103</link>
-<guid isPermaLink="false">06fcfcc33ceb375bcfbdc7bfb009ec21d4dabdb951cc24fac8f021c87d810f9d</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Mon, 02 Nov 2026 13:33:00 +0000</pubDate>
-<description>Greenpeace says it has formed an underwater barrier with boulders in the North Sea to prevent "destructive fishing" in an area created to protect porpoises.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-greenpeace-boulder_7394859.jpg?20261102130127" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-greenpeace-boulder_7394859.jpg?20261102130127" medium="image"/>
 </item>
 <item>
 <title>WATCH: Sisters go from lifesaving surgery to running a marathon</title>
@@ -519,6 +508,17 @@
 <description>Cyber hackers have targeted fridges and freezers in supermarkets in several European countries including Ireland – causing temperatures to increase and food to spoil.</description>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-ica-sweden-freezers_7394730.jpg?20261102111823" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ica-sweden-freezers_7394730.jpg?20261102111823" medium="image"/>
+</item>
+<item>
+<title>Advocates rally voters after dozens of polling sites closed in 'swing' Texas county</title>
+<link>https://abcnews.com/Politics/advocates-rally-midterm-voters-after-dozens-polling-sites/story?id=137615179</link>
+<guid isPermaLink="false">e5fc4fc4ee064f082545465e3ee6f7595b4038b83df4cc5d19115a403dfe6b44</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Mon, 02 Nov 2026 10:00:04 +0000</pubDate>
+<description>Community and advocacy groups in Tarrant County, Texas, are rallying to get voters to the polls after officials shut down dozens of polling locations before the midterms.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/texas-gty-er-261030_1793373528194_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/texas-gty-er-261030_1793373528194_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>How does this fluoride-free toothpaste compare when it comes to oral health?</title>
