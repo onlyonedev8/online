@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing</title>
+<link>https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382</link>
+<guid isPermaLink="false">530ef17f2167fa95a5713884c8bcfcc1b5227c36c7d7a7096c6845dbada3aad2</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 21:38:29 +0000</pubDate>
+<description>With RAM getting more expensive, Microsoft is putting more effort into making Windows 11 run better on systems with just 8 GB of memory. Microsoft said on Tuesday that it was "raising the bar for 8 GB Windows 11 PCs," following a renewed focus on memory optimization earlier this year . The changes come as Redmond continues pushing more expensive Copilot+ PCs, which require at least 16 GB of RAM, amid a memory crunch fueled by AI infrastructure demand. Now, Microsoft says a low-end machine with its 8 GB of precious RAM will be up to 20 percent more responsive and 40 percent faster at multitasking thanks to improvements made in memory management. The tweaks are relatively simple, as Microsoft explained, and seem more about adjusting back to the reality that its flagship operating system needs to function on the hardware people can actually afford to purchase if and when they’re forced to upgrade. Windows 11 will now keep up to 2 GB more active data in memory before shunting it to slower storage, as one example. In another instance, Windows will connect directly to Edge when the browser is already running in the background, allowing it to launch up to 33 percent faster, according to Microsoft. Microsoft apps are also being made more efficient, with Teams able to enable Efficiency Mode by default on 8 GB machines, which Microsoft said will make it launch "up to 20 percent faster." Memory efficiency is also being improved by tweaking things like Widgets, which will only load when used instead of always being on, and decreasing the time when Edge tabs go to sleep from two hours to 15 minutes by default. Microsoft said it’s enabling third-party apps to make use of those tweaks, too. Microsoft also included benchmark data in the blog post from a recent bit of research it commissioned. The benchmark report compares a range of 2026 Windows machines with models from 2021, finding that a 2026 Dell XPS 13 with 8 GB of RAM performed about as well as a 2021 Dell XPS 13 with 16 GB across selected workloads. What that means, says Microsoft, is that “the complete PC, not memory capacity alone, shapes the experience.” In other words, please buy some new Windows hardware, even if it’s expensive - we’re begging you. Software optimization can only do so much. “For many people, 8 GB is a great fit for the things they do every day,” Microsoft EVP of Windows and devices Pavan Davuluri wrote in the blog post. “Demanding workloads, such as 3D modeling, advanced video editing, or large-scale data processing benefit from 16 GB of memory or more.” It’s no surprise Microsoft is improving the performance of lower end systems at the same time it’s subtly asking users to buy newer kit, even if it’s just an 8 GB machine - Microsoft may have done well in the past two quarters, but it’s no thanks to Windows devices. Microsoft’s Q4 2026 earnings in late July saw the company rake in cash more broadly, while simultaneously reporting a 7 percent decrease in Windows OEM and devices reven</description>
+<enclosure url="https://image.theregister.com/?imageId=1684318&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=1684318&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Reddit is testing in-app search ads as traffic from Google declines</title>
+<link>https://www.engadget.com/2305984/reddit-is-testing-search-ads-as-traffic-from-google-declines</link>
+<guid isPermaLink="false">c7d41dcb36ce2cdf54544663612430c5746b575a35338fff9d155937519ab7a3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 21:27:50 +0000</pubDate>
+<description>The company wants to help advertisers reach users who show a "high purchase" intent.</description>
+<enclosure url="https://www.engadget.com/img/gallery/reddit-is-testing-search-ads-as-traffic-from-google-declines/l-intro-1793741097.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/reddit-is-testing-search-ads-as-traffic-from-google-declines/l-intro-1793741097.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s what it’s like to use Audio Intelligence on the Apple Watch</title>
+<link>https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch</link>
+<guid isPermaLink="false">6d687a1c0bed37bc4c400020e596c48d5ac8c01804e97b57ccbfc71cdc7baefa</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 21:21:04 +0000</pubDate>
+<description>Siri can still make mistakes in transcripts. | Photo by Victoria Song / The Verge It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next few weeks at The Verge . That said, here are some initial impressions. What's newly available today is Live Rewind and Siri Recap. The former lets you see a transcript of the last 15 seconds, while the latter provides high-level summaries of your conversations. (The other two Audio Intelligence features have been available for the last f … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/liverewind.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/liverewind.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Those Jeff Bezos hair transplant photos are very fake</title>
+<link>https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk</link>
+<guid isPermaLink="false">8fdb108aaca7ce7da2d4ca270b86b8875ea34b12cb8a3d2d6c747cfda5e5de7d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 21:01:07 +0000</pubDate>
+<description>These edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X , Threads , and Bluesky in which they both have substantially more hair than their usual shaved look, which in Bezos' case appears to be very freshly transplanted. It's all just photo editing fakery, AI or otherwise. It's unclear how viral these posts are , but they're prevalent enough that a few members of the Verge team have encountered them in their social media feeds. Some people who shared them claimed … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Nvidia is happy to take your money whether you're using open or closed models, says Jensen Huang</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368</link>
+<guid isPermaLink="false">f108a930590d29ba929ec2e9ca30f28b7116fe355acad7597852f5ae575ceaad</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 21:00:32 +0000</pubDate>
+<description>Nvidia doesn't seem to care whether open or closed models win out as long as its hardware is powering the infrastructure. "We love closed models," CEO Jensen Huang said. "There's a solid place in the world for closed frontier models. But the world has so many good ideas … The idea that all of us would be based on general intelligence is not logical." Speaking with Lin Qiao, CEO and founder of Fireworks.ai , at the company's Forge event in San Francisco on Tuesday, Huang wasn't ready to throw Nvidia's cloud customers, which help deliver the proprietary AI of Anthropic and OpenAI, under the onrushing open model bus. But having come to the defense of open weight models in July to push back against protectionist pressure from the leadership of Anthropic and OpenAI, Huang recognizes the economic and strategic appeal of AI services that are more affordable and less locked-in. Most of the value in the world, he said, is captured in specialized intelligence, which is to say AI models trained on specific domains of knowledge. "The opportunity for artificial superintelligence is already here," he said. "By taking an open frontier model, adapting it, and providing it with your domain knowledge, your access to your specialized tools, and the proper evaluation, you should be able to create essentially a superintelligence." That aligns with Fireworks' business – offering a platform for companies to train and run models tuned to their specific needs. Coincidentally, that platform just received an infusion of 25,000 Nvidia GPUs to support its expansion in Europe . Huang's endorsement of open models also fits with Qiao's introductory remarks about the need for the AI frontier to be open. But he largely avoided echoing Qiao's focus on the cost savings allowed by working with open models. In her introductory remarks, Qiao stood on stage backlit by a slide composed of ten headlines highlighting the extraordinary cost of unchecked token spending. "Cost is out of control," she said. "Business cannot scale without borrowing a lot of money." That theme was echoed in a subsequent session helmed by Kay Zhu, co-founder and CTO of AI workspace Genspark, titled Gen-1 Slides: Frontier Quality Without Frontier Costs. Gen-1 Slides, Genspark's model for generating slide decks, was built atop MiniMax M3 and tuned to deliver results comparable to Anthropic's Opus 5 at 1/17th the cost – $0.30/M tokens compared to $5/M. Asked what might become commonplace next year but seems unlikely today, Huang said this year's breakthrough has been agent harnesses that turn AI models into agents. He added, "I would say the big breakthrough we'll talk about next year, maybe this is a little self-serving, is how Open Shell has enabled every company in the world to deploy agents safely, confidently." Given the nod to make a second prediction, Huang added, "I would say that the second big breakthrough for industry would be hardware in the loop. And hardware in the loop basically is robotic systems."</description>
+<enclosure url="https://image.theregister.com/?imageId=5307388&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5307388&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>What type of battery does the Slate Truck use?</title>
+<link>https://www.engadget.com/2303044/slate-battery-type-different-plans-before-debut</link>
+<guid isPermaLink="false">d9376484de21cef389ed7f1aecbb7a5a05d831caf898274ad9326959e0e16504</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 21:00:00 +0000</pubDate>
+<description>Slate had made arrangements in 2025 to buy its batteries from a Georgia company, then switched this year to an Illnois firm with a different kind of technology.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-type-of-battery-does-the-slate-truck-use/l-intro-1793394367.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-type-of-battery-does-the-slate-truck-use/l-intro-1793394367.jpg" medium="image"/>
+</item>
+<item>
 <title>Sonos' new voice assistant is launching in early access on November 6</title>
 <link>https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6</link>
 <guid isPermaLink="false">35ea1fdf6739bf31c5cecfcf0abb5fbc2c0c3126e0673d63a5dbcb9124c196dc</guid>
@@ -13,6 +79,28 @@
 <description>The company is hoping to collect feedback on Sonos 27voice to avoid a repeat of its previous app redesign debacle.</description>
 <enclosure url="https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/l-intro-1793738872.jpg" medium="image"/>
+</item>
+<item>
+<title>Ukraine’s drone strikes spur hasty Russian plans for underground data centers</title>
+<link>https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back</link>
+<guid isPermaLink="false">24379856c459e00abd662ae2c831372f811c0b1ac4b3abefa72f8991584de080</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 20:39:55 +0000</pubDate>
+<description>Russian tech companies are scrambling to harden and hide their data centers underground after Ukrainian drone strikes damaged facilities housing AI supercomputers and disrupted cloud services for millions of Russian users. Meanwhile, the Kremlin is requiring data center owners to reserve computing capacity for emergency state needs and has even authorized possible use of foreign data centers. These consequences of Russia's war against Ukraine come as the Russian military has bombarded Ukrainian cities with drones and missiles nearly night and day in recent months, along with specifically targeting Ukrainian data centers since late September. But Ukraine has retaliated with its own drone strikes on military and infrastructure targets across Russia, degrading or knocking out data centers operated by Russian tech giant Yandex , the state-owned bank Sberbank, social media site VKontakte, and the Russian Ministry of Finance. Now, state-owned telecommunications company Rostelcom has raised the possibility of moving some Russian data centers underground in talks with the nickel and palladium mining company Norilsk, according to Russian newspaper Vedomosti . The industry publication Data Center Dynamics also pointed to a recent proposal by a Russian regional governor to build data centers within open-pit coal mines while planting green public parks above as camouflage. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Google says there’s no way to use Search without using artificial intelligence</title>
+<link>https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence</link>
+<guid isPermaLink="false">e9f81d7b8157d0594ee1238dd0af381a4045aa24adc97fb6f99e355b4f8e07e2</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 20:30:06 +0000</pubDate>
+<description>In announcement geared to schools, tech giant shows how entwined AI is with the world’s most popular website Google just acknowledged that you can’t use Google Search without using artificial intelligence . The search giant announced a slate of new AI products for classrooms and schools on Tuesday as well as more ways for teachers and schools to limit or restrict use of those AI tools. The company said the schools should have control over whether students use AI in the classroom. There’s one catch, though: if a school or teacher blocks the use of Google’s AI features, students won’t be able to use Google Search. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/bcabbc779233306fc944dc23627a71897d2bbd68/344_0_2931_2345/master/2931.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55f23a5ccb5a2a5b1eafe42618ea3a64" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/bcabbc779233306fc944dc23627a71897d2bbd68/344_0_2931_2345/master/2931.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55f23a5ccb5a2a5b1eafe42618ea3a64" medium="image"/>
 </item>
 <item>
 <title>The Pixel Buds Pro 2 have returned to their lowest price to date</title>
@@ -233,28 +321,6 @@
 <description>As with interior design for houses, interior design for vehicles is also subject to fashion trends. And like any fashion trend, even the best ideas can become stale and played out with overuse. Some ideas weren’t the best, either, like demonstrably worse human-machine interfaces that add to driver distraction; yet, they still proliferated throughout the industry and across the cars offered for sale. But the good news is that the pushback seems to be working. “When the trend of the Piano Black and the switchless interior was happening, it was during a time when designers and companies and engineers and everybody were thinking that, 'Hey, we can just get rid of all these switches on the interior. We can put it all in the software. It'll save money. It'll save us tooling up all these extra parts for unique cars and all this stuff and make the interior more like a software experience.' And it was done with those intentions,” said Hiren Patel, senior design manager at Nissan. That resulted in cars with minimalist interiors that looked good in the dealership. But people drive their cars on roads; they don’t just sit inside them, parked inside a dealership. “So lots of people were complaining about it and saying, 'Hey, it takes my eyes off the road to change the temperature or to adjust my seat or do whatever.' It's not as easy as doing something on your phone where it's just right at your fingertips and intuitive,” Patel said. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/2027-Nissan-Rogue-Hybrid-05-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/2027-Nissan-Rogue-Hybrid-05-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Indie games are missing launch dates because Steam is backed up</title>
-<link>https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates</link>
-<guid isPermaLink="false">62ed14364f0e88ad623d27f51b4ad0285e03996fc9c803ac80e7e36c48cf6fe0</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:14:50 +0000</pubDate>
-<description>A screenshot from Food Devils, which is missing its planned launch today. Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils , had planned to launch the game in early access today after submitting its build on October 12th. But the game is "still awaiting approval," according to a post from game director Alfred Kamon . "Even now, we don't know when Steam will give us the final OK to finally release our game. We sent another ticket last week saying that the situat … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_51fdf31162fecb3570ff97b0248b2706248e3281.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_51fdf31162fecb3570ff97b0248b2706248e3281.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Google’s Gemini-powered Home Speaker is already on sale for 20 percent off</title>
-<link>https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale</link>
-<guid isPermaLink="false">8439cee58b45d9645860fe0789d287d893227ddbbcba15b391d9cb714f0ea3ef</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:11:49 +0000</pubDate>
-<description>We’re big fans of the Google Home Speaker’s design. | Photo: Jennifer Patison Tuohy / The Verge If you’re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy , Walmart , and Target . That’s the best price we’ve seen for the Gemini-powered speaker, which launched in June and represents Google’s first smart speaker in several years. Google Home Speaker Where to Buy: $99.99 $79 at Walmart $99.99 $79.99 at Best Buy $99.99 $79.99 at Target In her review , my colleague Jennifer Pattison Tuohy noted that Google’s new Home Speaker offers a nice balance of sound quality, size, and design. It’s smaller than the prior-gen Nest Audio , making it easy to place anywhere in your home. However, despite its small size, it produces loud, clear audio with 360-degree sound. Our own David Pierce even found it sounded cleaner, louder, and sharper than Amazon’s similarly priced Echo Dot Max , though Tuohy preferred the latter’s fuller sound and stronger bass. The older Nest Audio still sounds better overall, but Google’s latest speaker takes up less space and costs slightly less. The Google Home Speaker also offers a few useful smart home upgrades. It supports Matter and includes a Thread border router, allowing you to connect and control a wide range of compatible smart home devices. It’s also the first Google smart speaker that can double as an audio output for the Google TV Streamer 4K , letting you play TV audio through one or two speakers instead of your TV’s built-in speakers. Tuohy found it worked well and delivered clear dialogue, though sound quality varied depending on what she was watching. One of its most notable features is support for Gemini, which is also available on older Google speakers and is much better at understanding natural language and complex requests than the old Google Assistant. In her testing, Tuohy found it could handle multiple smart home commands at once and respond to conversational requests, like turning down the air conditioner when she mentioned feeling too hot. It’s also particularly impressive at answering general knowledge questions, though it can be slow and unreliable at times. Keep in mind, too, that some features require a $10-a-month Google Home Premium subscription , including Gemini Live, which lets you have extended conversations with the assistant without repeating the wake word. Read our Google Home Speaker review .</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>How to make your older Android phones last longer</title>
@@ -631,17 +697,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2210544722.jpg" medium="image"/>
 </item>
 <item>
-<title>5 iPhone features you should be using after updating to iOS 27</title>
-<link>https://www.engadget.com/2303526/iphones-ios-27-features-you-should-use</link>
-<guid isPermaLink="false">f5b6253c4dce1f2d9a6ad26e8767e45763d527345e97c0798d9baddda02c8455</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:15:00 +0000</pubDate>
-<description>iOS 27 brings several improvements to the iPhone, from useful quality-of-life changes to a range of new Apple Intelligence-powered features.</description>
-<enclosure url="https://www.engadget.com/img/gallery/5-iphone-features-you-should-be-using-after-updating-to-ios-27/l-intro-1793592703.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/5-iphone-features-you-should-be-using-after-updating-to-ios-27/l-intro-1793592703.jpg" medium="image"/>
-</item>
-<item>
 <title>Beyond screens: Mercedes-Benz's new holographic heads-up display</title>
 <link>https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display</link>
 <guid isPermaLink="false">4bb60c00563ae25042e6873f2f590f931474fb50a259d1d7c17e2d9ea0d057df</guid>
@@ -651,17 +706,6 @@
 <description>Mercedes-Benz provided flights from Los Angeles to Stuttgart, Germany, and accommodation so Ars could experience the holographic display. Ars does not accept paid editorial content. Do screens in cars represent luxury? Judging by the latest car interiors, the answer would seem to be an emphatic “yes.” Screens aren't just getting larger; they are multiplying across the dashboard and morphing into different forms and concepts. Indeed, an interior’s screens are a pretty good indicator of what brand made the car—or at least how much the owner paid for it. But is this actually what customers want ? Are more screens really better? And even if they are, luxury car features inevitably trickle down to cheaper, more mainstream offerings, and screens can only get so big. That leaves luxury automakers with another question to answer: “What’s next?” Mercedes-Benz is working on a new display alternative that could provide an answer. For now, it's known as the holographic display. Forget the images from Star Trek and Star Wars that just popped into your head, though. It's effectively a more advanced form of heads-up display, or HUD. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>iPad mini (A20 Pro) review: Apple's tiny tablet gets a big update</title>
-<link>https://www.engadget.com/2304616/apple-ipad-mini-a20-pro-review</link>
-<guid isPermaLink="false">b6fb6d42948b3be847e7b2b669bc73be3a0ac5ef1c09937b30dbdee564104559</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
-<description>Apple made significant improvements to the iPad mini this year, but they don't come cheap.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ipad-mini-a20-pro-review-apples-tiny-tablet-gets-a-big-update/l-intro-1793652645.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ipad-mini-a20-pro-review-apples-tiny-tablet-gets-a-big-update/l-intro-1793652645.jpg" medium="image"/>
 </item>
 <item>
 <title>Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station</title>
@@ -835,7 +879,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Tue, 03 Nov 2026 04:45:59 +0000</pubDate>
-<description>A cloud architect has created an open source alternative to VMware’s Virtual Disk Development Kit (VDDK), which the virtualization giant recently withdrew from public downloads. VMware describes VDDK as “a set of libraries and utilities that enable software developers to create applications that can access and manipulate virtual disks” and “a valuable tool for developers of storage and backup applications.” Users, along with VMware’s rivals, had another use for VDDK: migrating VMs to alternative virtualization platforms. In August, VMware restricted access to VDDK downloads to its partners, meaning VMware customers couldn’t access the tool and some of its rivals’ migration tools became less effective. Cloud architect Andrija Panić decided to do something about it. “Many tools that have nothing in common except VMware use the same small library to read a virtual machine’s disks: virt-v2v and nbdkit, the importers in Forklift/MTV, Proxmox VE and Apache CloudStack, and countless in-house scripts,” he told The Register by email. “When public VDDK downloads ended, all of them became harder to install and run.” “I didn’t think it was fair that people’s ability to move or protect their own data should depend on a download page.” He describes the project as “an independent drop-in for libvixDiskLib.so.8.0.3, the disk library that VMware backup and migration tools load to read virtual disks. It was written from scratch, using only public documentation and black-box testing, and contains no VMware code.” Panić told The Register he wrote the tool in Go, with a thin C layer that exposes exactly the same C interface, library name and symbol versions as VMware’s code. The tool cannot write disks, just read them for backup and migration purposes. In his email to The Register , Panić said he has successfully tested OpenVDDK on vSphere versions 6.7 U3, 7.0.3, 8.0.3, 9.1.1. He said that tests in his lab with the latter version, accessing OpenVDDK through vCenter on a standalone ESXi host, saw every disk read match. “Independent testers have reported successful use with Forklift (VMware to KubeVirt, cold and warm), MTV on OpenShift (cold and warm), a Proxmox VE pipeline and custom nbdkit-based tools,” the architect told The Register . “I've received reports of production use, including a German cloud provider migrating a large file server with V2K Migrate and a US-based company migrating to Apache CloudStack/KVM.” Panić was at pains to point out that the reports of successful use are “not independently audited customer endorsements or a guarantee of suitability for every production environment.” As is often the case with FOSS tools. OpenVDDK is not the only option for migrating away from VMware without VDDK. KVM-based OpenNebula has a tool called OneSwap that it says has a 96 percent success rate. Nutanix recently tweaked its “Move” migration tool so it can do the job without VDDK. Red Hat is working on a fix but has provided details of a workaround . Panić made Op</description>
+<description>A cloud architect has created an open source alternative to VMware’s Virtual Disk Development Kit (VDDK), which the virtualization giant recently withdrew from public downloads. VMware describes VDDK as “a set of libraries and utilities that enable software developers to create applications that can access and manipulate virtual disks” and “a valuable tool for developers of storage and backup applications.” Users, along with VMware’s rivals, had another use for VDDK: migrating VMs to alternative virtualization platforms. In August, VMware restricted access to VDDK downloads to its partners, meaning VMware customers couldn’t access the tool and some of its rivals’ migration tools became less effective. Cloud architect Andrija Panić decided to do something about it. “Many tools that have nothing in common except VMware use the same small library to read a virtual machine’s disks: virt-v2v and nbdkit, the importers in Forklift/MTV, Proxmox VE and Apache CloudStack, and countless in-house scripts,” he told The Register by email. “When public VDDK downloads ended, all of them became harder to install and run.” “I didn’t think it was fair that people’s ability to move or protect their own data should depend on a download page.” He describes the project as “an independent drop-in for libvixDiskLib.so.8.0.3, the disk library that VMware backup and migration tools load to read virtual disks. It was written from scratch, using only public documentation and black-box testing, and contains no VMware code.” Panić told The Register he wrote the tool in Go, with a thin C layer that exposes exactly the same C interface, library name and symbol versions as VMware’s code. The tool cannot write disks, just read them for backup and migration purposes. In his email to The Register , Panić said he has successfully tested OpenVDDK on vSphere versions 6.7 U3, 7.0.3, 8.0.3, 9.1.1. He said that tests in his lab with the latter version, accessing OpenVDDK through vCenter and on a standalone ESXi host, saw every disk read match. “Independent testers have reported successful use with Forklift (VMware to KubeVirt, cold and warm), MTV on OpenShift (cold and warm), a Proxmox VE pipeline and custom nbdkit-based tools,” the architect told The Register . “I've received reports of production use, including a German cloud provider migrating a large file server with V2K Migrate and a US-based company migrating to Apache CloudStack/KVM.” Panić was at pains to point out that the reports of successful use are “not independently audited customer endorsements or a guarantee of suitability for every production environment.” As is often the case with FOSS tools. OpenVDDK is not the only option for migrating away from VMware without VDDK. KVM-based OpenNebula has a tool called OneSwap that it says has a 96 percent success rate. Nutanix recently tweaked its “Move” migration tool so it can do the job without VDDK. Red Hat is working on a fix but has provided details of a workaround . Panić mad</description>
 <enclosure url="https://image.theregister.com/?imageId=5307129&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5307129&amp;width=800" medium="image"/>
 </item>
@@ -1159,17 +1203,6 @@
 <media:content url="https://image.theregister.com/?imageId=5243339&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>The world has a new plan to save nature, but it still needs the money</title>
-<link>https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money</link>
-<guid isPermaLink="false">2e34eb012881874dbd692f96e2357d6549c156486ae65d7f0e7f467953816a17</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 14:56:52 +0000</pubDate>
-<description>The world is set to miss its 2030 conservation goals as finance and action have fallen short, leaders recognized at a UN biodiversity summit in Armenia’s capital, where they agreed to step up efforts after a final overnight session. Representatives from almost 200 countries gathered in Yerevan over the past two weeks to review progress on a landmark agreement set four years ago to protect about a third of the world’s land and seas by 2030. The COP17 talks on biodiversity concluded on Saturday with a recognition that conservation efforts were so far too slow to realistically achieve the goals of the 2022 Kunming-Montreal Global Biodiversity Framework. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Nuclear threats and street brawls: Russia, Ukraine report attacks on their emergency alert apps</title>
 <link>https://www.theregister.com/security/2026/11/02/nuclear-threats-and-street-brawls-russia-ukraine-report-attacks-on-their-emergency-alert-apps/5306901</link>
 <guid isPermaLink="false">4fec7fe9f35775636becc55369ac06c2dbdbc105f1f935ccd9f49a4ca070e8b6</guid>
@@ -1324,17 +1357,6 @@
 <media:content url="https://image.theregister.com/?imageId=5243418&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Police use facial recognition to scan one million faces in WA trial leading to 122 arrests</title>
-<link>https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial</link>
-<guid isPermaLink="false">e3fa89265477feb96fda163c35421b8c942aaa62be639a347300812ea4cd14de</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 06:12:52 +0000</pubDate>
-<description>Deployments of surveillance vans over five months resulted in nine false alerts and led officers to engage with 146 registered sex offenders Get our breaking news email , free app or daily news podcast More than a million people have had their faces scanned in a trial of real-time facial recognition technology in Western Australia, resulting in 122 arrests and nine incorrect alerts. WA police said under the five-month trial, which concluded on Saturday, the technology scanned 1,380,882 faces after 100 deployments across 43 regional and metropolitan locations. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/52be4530d7e3640e661d83a08791923838efe95f/514_0_5031_4024/master/5031.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aec70f2de56f1843add61b5727278be7" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/52be4530d7e3640e661d83a08791923838efe95f/514_0_5031_4024/master/5031.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aec70f2de56f1843add61b5727278be7" medium="image"/>
-</item>
-<item>
 <title>Chap who coded Google’s Pac-Man clone reveals how the game freaked out Firefox</title>
 <link>https://www.theregister.com/personal-tech/2026/11/02/chap-who-coded-googles-pac-man-clone-reveals-how-the-game-freaked-out-firefox/5306879</link>
 <guid isPermaLink="false">774b247a8cc4214485e822b9ca2b0318874e48b8599e24562074d5b7de508b54</guid>
@@ -1421,28 +1443,6 @@
 <description>Using a fake DOB or leaving the field blank when making an online account can offer protection from identity theft You get a call from your bank saying there has been suspicious activity on your account. They read out your name, address and date of birth so you are happy it is a legitimate caller. But you are talking to criminals who have used your date of birth as part of a web of verifying information to convince you they are someone else. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/c62b7ce125ca10fc16fa8c7e9da59a1fb4bce56c/364_0_3559_2847/master/3559.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9876d7408d70ac18c5b6067ae98b490" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/c62b7ce125ca10fc16fa8c7e9da59a1fb4bce56c/364_0_3559_2847/master/3559.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9876d7408d70ac18c5b6067ae98b490" medium="image"/>
-</item>
-<item>
-<title>Google's AI satellite sends a very expensive haiku to Earth</title>
-<link>https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818</link>
-<guid isPermaLink="false">7092ceeae2660d994fd80f5c07971637ea680e1598bd83852cdad59f3b46a617</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 15:36:14 +0000</pubDate>
-<description>Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite. The company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to "Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you." Travis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its "Hello World" milestone by sending an inference response from orbit. "During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space," wrote Beals in a blog post . And as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink: Blue marble below, Data streams in silent grace, Starlight feeds my core. ✨ Those roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs. Add in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku. According to Google's calculations , if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year). Google predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening. After the haiku, Beals said, "we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems." Next up: tests for evaluating how TPUs perform under thermal stress and radiation. Google has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam. The system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si). "For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second," Google researchers said in a paper published earlier this month. "While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy</description>
-<enclosure url="https://image.theregister.com/?imageId=5306822&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5306822&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s</title>
-<link>https://www.theregister.com/offbeat/2026/10/31/goth-aesthetic-gone-wild-a-users-self-inflicted-black-screen-of-non-death-in-windows-31s/5306592</link>
-<guid isPermaLink="false">5aeba2bd997e5def42c7a64424b277a62f5adba39b91d3ef1b2c2ecd7597803b</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-<description>Microsoft senior software engineer Raymond Chen has explained what Windows is doing when you hold down the power button, and shared a story about the time a customer accidentally created a Goth Mode for Windows 3.1. There's a section in The Hitchhiker's Guide to the Galaxy (actually, page 116 of this writer's dog-eared copy of The Restaurant at the End of the Universe ) in which Zaphod Beeblebrox observes of a ship's interior: "Every time you operate one of these weird black controls that are labeled in black on black background, a little black light lights up black to let you know you've done it." The same turned out to be true of a user who called Microsoft customer support to complain that after Windows 3.1 booted up, all that remained after the product logo disappeared was a blank screen. It turned out the customer liked black a little too much and, according to Chen, made themself a Goth theme. The customer support engineer on Microsoft's end pieced it together. The customer had, according to Chen, "set the wallpaper color to black. They set the title bar color to black. They set the button color to black. They set the window background color to black. They set the window text color to black. "Every possible color you could pick in the Colors control panel was set to black." We suspect the mouse pointer, at least, would have stuck around, unless the customer had also managed to change some settings around this. And then there are the icons… However, Windows 3.1 was a long time ago, and this writer's attempts at theming then were the consequences of growing up in the '70s and '80s, which resulted in some interesting neon, orange, and brown combinations. As for Goth mode, Chen said, "Once you get yourself into this situation, it’s hard to get out because you can't see anything." One solution he suggested was deleting the [colors] section from the win.ini file. Chen told the anecdote as a coda to the question – what exactly is modern Windows doing when you hold down the power button on a PC? According to Chen, after eight seconds of holding the power button, the Windows kernel realizes a forced power-off is happening and tries to take a kernel dump for diagnostics. He explained that the kernel dumps were classified by Microsoft as "long power button hold" (LPBH) failures, with one of the bits of information captured indicating if all the pixels on the screen were black. The video driver might therefore be the culprit. Or whatever was responsible for drawing to the screen. Today's Windows struggles with dark mode. But in the dim, distant past, every pixel being black might mean the user was either Hotblack Desiato or had done something very silly indeed. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=261311&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=261311&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>The staggering $446m Elon Musk has spent on the US midterms – visualized</title>
