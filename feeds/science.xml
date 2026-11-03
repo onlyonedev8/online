@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why does Betelgeuse keep fading? The mystery of Orion's giant star</title>
+<link>https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star</link>
+<guid isPermaLink="false">678690bb4e456bac07cf78bb88283970807fc5b12ca64a386637e4e6bc95d810</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 11:00:00 +0000</pubDate>
+<description>null Betelguese, one of the brightest stars in the night sky, has been putting on quite a show lately — but not in the way you might expect. The famous red supergiant in the constellation Orion has been growing noticeably fainter in recent months. Of the 21 brightest stars in the night sky, Betelgeuse is perhaps the most enigmatic. Its changing brightness poses a puzzle: how do the star's pulsations, dust eruptions, and a possible companion contribute to its fading? A giant star with a puzzling name Even the translation of Betelgeuse's name is contentious. For a long time, it was thought to be a corruption of three Arabic words, usually translated as "The Armpit of the Giant." However, other experts in star nomenclature now dispute that interpretation, proposing instead "The Hand of al-Jauzā," with al-Jauzā referring to Orion. Although classified as a red supergiant, Betelgeuse usually appears more orange than red— golden orange or deep topaz. It is one of the most famous stars in its class. Henry M. Neely (1877-1963), for many years a popular lecturer at New York's Hayden Planetarium , described its restless behavior in his book A Primer for Stargazers : "(Betelgeuse) expands and contracts spasmodically, like an old man with his strength almost entirely spent, panting in the asthmatic decrepitude of old age." The rhythms of a changing star Betelgeuse naturally expands and contracts like a beating heart. As an aging red supergiant, it has a regular pulsation cycle of roughly 430 days: when it expands, its outer layers cool and it dims; when it contracts, they heat up and it brightens. Among first-magnitude stars — the brightest category of stars in the night sky — it is the only marked variable. Its scale is equally remarkable: located 650 light-years away, Betelgeuse is among the largest and most luminous stars of its class, with a luminosity of about 14,000 suns at maximum and 7,600 suns at minimum. Only a few such objects have been identified in our galaxy. British astronomer Sir John Herschel (1792-1871) first noticed Betelgeuse's variability beginning in 1836. Astronomers describe apparent brightness using magnitude : lower numbers mean brighter stars. In April 2023, Betelgeuse reached magnitude 0.0 — as bright as Vega , the fifth brightest star. At minimum brightness, such as in 1927 and 1941, its magnitude may fall to +1.2, making it appear about three times fainter. Three threads run through this mystery: Betelgeuse's roughly 430-day pulsation, its much longer recurring dimming cycle, and the exceptional Great Dimming of 2019—2020. Keeping them, separate helps explain why one cause need not account for every change in brightness. Betelgeuse shines in the constellation Orion. (Image credit: Franco Tognarini via Getty Images) A longer cycle and a possible companion Alongside its roughly 430-day pulsation, Betelgeuse shows a mysterious 2,100-day (5.75-year) dimming cycle. Known as a "Long Secondary Period," this longer cycle puzzled astronom</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/zRZUeNVZ8RwJC45UUuKY95-1920-80.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/zRZUeNVZ8RwJC45UUuKY95-1920-80.jpg" medium="image"/>
+</item>
+<item>
+<title>Why Southwestern Floods Won’t Solve A Water Crisis</title>
+<link>https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html</link>
+<guid isPermaLink="false">888a47173e05374ae5fb0b520abbbecf9b7759d4e430cdb74ccc3cc4e81fb3c8</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 10:03:41 +0000</pubDate>
+<description>A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>Neanderthals Used Wood for Tools, Housing — and Murder?</title>
 <link>https://www.nytimes.com/2026/11/03/science/neanderthals-wood-tools.html</link>
 <guid isPermaLink="false">0ae58cce887033be8bf1add5410ad3bf9a74ca4c89e14a4bd63a296bd48d7d15</guid>
@@ -99,8 +121,8 @@
 <category>science</category>
 <pubDate>Mon, 02 Nov 2026 20:47:41 +0000</pubDate>
 <description>For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov . Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record. Adequacy depends on measurement accuracy, bandwidth, signal-to-noise ratio, and coverage of the test objective. Background: What the Hammer Actually Measures Hammer tests support modal analysis [2–4] and can precede pyroshock testing [6]. Figure 1 compares a half-sine, maintained-contact rippling, and separated contacts. During a zero-force interval, the structure continues to vibrate; re-contact acts on that vibration. If an exact model and test article receive the same force and initial conditions, uniqueness gives identical responses for each bounded measured history. An approximate model can show different errors as inputs excite different frequencies, amplitudes, or nonlinear states. See [1] for the exact-model derivation. Analysis: A Half-Sine Is Broadband, but Not Flat Figure 2 shows that a finite half-sine is broadband but contains spectral zeros at f/fo = 3, 5, 7, …, with fo = 1/(2T) for pulse duration T. Its appearance alone cannot establish adequate excitation. Analysis: Spectral Content Is Determined by the Measured Force History Figure 3 normalizes each spectrum to its own DC value. Crest rippling adds content and can fill half-sine notches. Timing between separated contacts creates deterministic interference. For adequacy, inspect the unnormalized measured spectrum and response signal-to-noise ratio. Recommended Practice: Evaluate Test Adequacy Against the Intended Objective • Measure the complete applied force with adequate bandwidth, calibration, dynamic range, and time synchronization. • Verify that the response measurements have adequate bandwidth and signal-to-noise ratio and are not clipped or saturated. • Confirm that the excitation covers the frequency, amplitude, and nonlinear-response ranges required by the intended test objective. • Reject or repeat a test only for an identified measurement, excitation, or coverage deficiency. Conclusion Half-sine appearance neither establishes validity nor guarantees adequacy. Judge each hammer test by its purpose and by accurate, complete force and response measurements over the required range. References 1. A. Majed, J. Sills, E. Henkel, V. Babuska, S. Yunis, D. Hamilton, J. Akers, and T. Kinney, Validity and Predictability of Measured Hammer Tap Inputs: Linear and Nonlinear Structural Systems, September 2026. 2. D. J. Ewins, Modal Testing: Theory, Practice and Application, 2nd ed., 2000. 3. ISO 7626-5:2019, Mechanical Vibration and Shock—Experimental Determination of Mechanical Mobility—Part 5 4. K. G. McConnell and P. S. Varoto, Vibration Testing: Theory and Practice, 2nd ed., 2008. 5. A.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/tb-26-09-3-sepctra-of-figure-1-.png?w=1346" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/tb-26-09-3-sepctra-of-figure-1-.png?w=1346" medium="image"/>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png?w=1366" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png?w=1366" medium="image"/>
 </item>
 <item>
 <title>Dinosaur red blood cells recovered from 115-million-year-old fossil</title>
@@ -109,7 +131,7 @@
 <source>New Scientist</source>
 <category>science</category>
 <pubDate>Mon, 02 Nov 2026 20:00:00 +0000</pubDate>
-<description>Illustration of the Aratasaurus museunacionali dinosaur whose fossils contained red blood cells Victor O. Leshyk A nondescript 115-million-year-old fragment of leg bone has yielded spectacularly preserved red blood cells, which may be the earliest ever found in dinosaurs. Red blood cells have previously been found in dinosaur remains, including 75-million-year-old bone fragments collected in Canada in 2015 and the femur of a Tyrannosaurus rex that died 68 million years ago , found in Montana in 2005. Read more Exquisite 66-million-year-old bird feather preserved in dinosaur dropping Now, Kliti Grice at Curtin University in Perth, Australia, and her colleagues say they have isolated the oldest-ever dinosaur red blood cells from the hind-limb of a theropod dinosaur, Aratasaurus museunacionali , found in Brazil in 2008. Advertisement The Aratasaurus individual studied by the team wasn’t yet fully grown, with an estimated body length of just over 3 metres, and weighed about 34 kilograms. “The fossils we worked on are not display specimens by any means, so they don’t look very interesting,” says Grice. “If you look at them, you think there’s just a bunch of bones and there’s probably not much in there.” A dinosaur bone fragment containing fossilised red blood cells Curtin University However, when she etched out part of the fossils, using hydrochloric acid to dissolve surrounding rock, she was shocked at what she saw. “I was jumping up and down,” says Grice. “I ran up to my head of school’s office and was so excited that he gave me a whisky to calm me down. No one has ever seen dinosaur red blood cells in high resolution before.” The cells she found were abundant: in a single slide, just a fifth of a millimetre wide, there were 20 blood cells. All of the cells were within fossilised blood vessels, providing further evidence that they really were red blood cells. Liquid chromatography–mass spectrometry analysis revealed the presence of haem B, a constituent of haemoglobin that binds to oxygen, adding molecular evidence of the type of cell. The team also had to rule out the possibility of any contamination, especially from the sediments in which the fossil was preserved, which were dominated by algae. Microscopic images of structures resembling red blood cells from the fossilised limb bone of Aratasaurus museunacionali Curtin University The cells found outside the bone were dominated by chlorophyll-derived compounds, whereas those inside contained haem-derived molecules, which strongly suggests that the latter cells weren’t a result of contamination. The researchers also compared the blood cells to those of the closest living relatives of the dinosaur fossil, birds and crocodiles. The Aratasaurus red blood cells are significantly larger. This could indicate that the cells swelled during fossilisation, or that the species grew much bigger than the fossilised specimen. Grice says the discovery may mean that other nondescript dinosaur fossils that have been</description>
+<description>Illustration of the Aratasaurus museunacionali dinosaur whose fossils contained red blood cells Victor O. Leshyk A nondescript 115-million-year-old fragment of leg bone has yielded spectacularly preserved red blood cells, which may be the earliest ever found in dinosaurs. Red blood cells have previously been found in dinosaur remains, including 75-million-year-old bone fragments collected in Canada in 2015 and the femur of a Tyrannosaurus rex that died 68 million years ago , found in Montana in 2005. Read more Exquisite 66-million-year-old bird feather preserved in dinosaur dropping Now, Kliti Grice at Curtin University in Perth, Australia, and her colleagues say they have isolated the oldest-ever dinosaur red blood cells from the hind-limb of a theropod dinosaur, Aratasaurus museunacionali , found in Brazil in 2008. Advertisement The Aratasaurus individual studied by the team wasn’t yet fully grown, with an estimated body length of just over 3 metres, and weighed about 34 kilograms. “The fossils we worked on are not display specimens by any means, so they don’t look very interesting,” says Grice. “If you look at them, you think there’s just a bunch of bones and there’s probably not much in there.” A dinosaur bone fragment containing fossilised red blood cells Curtin University Grice cut thin sections of bone, mounted them onto glass slides and used hydrochloric acid to remove surrounding rock – and she was shocked at what she saw. “I was jumping up and down,” says Grice. “I ran up to my head of school’s office and was so excited that he gave me a whisky to calm me down. No one has ever seen dinosaur red blood cells in high resolution before.” The cells she found were abundant: in a single slide, just a fifth of a millimetre wide, there were 20 blood cells. All of the cells were within fossilised blood vessels, providing further evidence that they really were red blood cells. Liquid chromatography–mass spectrometry analysis revealed the presence of haem B, a constituent of haemoglobin that binds to oxygen, adding molecular evidence of the type of cell. The team also had to rule out the possibility of any contamination, especially from the sediments in which the fossil was preserved, which were dominated by algae. Microscopic images of structures resembling red blood cells from the fossilised limb bone of Aratasaurus museunacionali Curtin University The cells found outside the bone were dominated by chlorophyll-derived compounds, whereas those inside contained haem-derived molecules, which strongly suggests that the latter cells weren’t a result of contamination. The researchers also compared the blood cells to those of the closest living relatives of the dinosaur fossil, birds and crocodiles. The Aratasaurus red blood cells are significantly larger. This could indicate that the cells swelled during fossilisation, or that the species grew much bigger than the fossilised specimen. Susannah Maidment at the Natural History Museum in London says previ</description>
 <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319160393.jpg" type="image/jpeg"/>
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319160393.jpg" medium="image"/>
 </item>
@@ -156,6 +178,17 @@
 <description>null Key specs Type: Full-frame prime lens Focal length: 35 mm Maximum aperture: f/1.8 Lens mount: Sony FE &amp; Nikon Z Weight: 12.52 oz / 355 g Dimensions: 3.33 x 4.37 in / 69 x 76 mm Filter thread: 58 mm Release date: April 2026 Budget primes can be, surprisingly, excellent choices for photographers shooting all subjects. It’s all too easy to get carried away with the best specs, such as a large maximum aperture and impressive optical design often seen in more expensive options. But affordable lenses like the Viltrox AF 35mm f/1.8 II FE (APO) have the potential to impress and delight in equal measure. The 35mm f/1.8 is a compact and lightweight lens offering a reasonably fast maximum aperture, making it a prime candidate for astrophotography. It’s also the same size and almost the same weight as the Viltrox AF 55mm f/1.8 FE (APO), another lens that could potentially grace your camera bag. With a highly attractive price tag of just $399 / £385, and mount options for Nikon Z and Sony FE, many astrophotographers will be wondering if this is a lens worth considering. It features 13 elements in 10 groups, as well as featuring an apochromatic (APO) design for reducing chromatic aberration as much as possible. As much as possible is key here because not all lenses are as successful as the manufacturer claims, although that’s not a comment on the 35mm f/1.8. Read on to discover if this could be one of the best lenses for astrophotography . Viltrox AF 35mm f/1.8 II EVO FE (APO) lens review Viltrox AF 35mm f/1.8 II EVO FE (APO): Performance The Viltrox AF 35mm f/1.8 FE (APO) balances well with Sony A series cameras. (Image credit: James Abbott) Sharp images for the price Sweet spot at f/8-f/11, not ideal for astro Some astigmatism at the edges of the frame For a budget lens, the 35mm f/1.8 produces great, yet not perfect, image quality. On the plus side, images are nice and sharp, particularly in the centre, even when shooting wide open at f/1.8. At this aperture setting, though, there is some astigmatism at the left edges of the frame. This is where stars appear as crosses. This is a surprise since it’s an APO lens, and, equally surprising, it’s isolated, but it is something you have to consider. You do have to zoom into the image to see it, so it may not be a dealbreaker. Photos shot at f/1.8 are sharpest in the centre, with some fall-off towards the edges, with the corners exhibiting the least sharpness. There’s also the strongest vignetting at f/1.8. At the time of writing, there’s no Adobe Lightroom lens profile for the lens, but you can manually remove the vignetting and even create a preset of your own. Aperture f/1.8, shutter speed 5 secs, ISO 800. Shot with a Sony A7R V and a Viltrox AF 35mm f/1.8 FE (APO) on a Three Legged Thing PUNKS Brian 2.0 tripod. James Abbott Aperture f/1.8, shutter speed 5 secs, ISO 800. Shot with a Sony A7R V and a Viltrox AF 35mm f/1.8 FE (APO) on a Three Legged Thing PUNKS Brian 2.0 tripod. James Abbott Aperture f/1.8, s</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/3fJhJkKAWfd5dKu2dYXXbG-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/3fJhJkKAWfd5dKu2dYXXbG-1920-80.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA’s CHAPEA Crew “Returns” to Earth</title>
+<link>https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth</link>
+<guid isPermaLink="false">b6e6022f064e27b84045a03384e43ebe2d38f339e5b616ca5fa3de8fa816bcc1</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 18:50:42 +0000</pubDate>
+<description>NASA/James Blair The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year testing systems, maintaining crops, managing limited resources and communication delays, conducting extravehicular activities and more in efforts to help NASA better understand how crews adapt to long-duration stays. Insights from their experiences will help NASA design its future Moon Base and plan for missions on Mars. Image credit: NASA/James Blair</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>What’s Up: November 2026 Skywatching Tips from NASA</title>
@@ -1060,17 +1093,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/JpmpruDZZZWpvqmMs3f8F7-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>The final ‘Dune: Part Three’ trailer reignites war on Arrakis and leaves us with more questions than answers</title>
-<link>https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers</link>
-<guid isPermaLink="false">3a445ca17a63ba0e6a92931f6c2717cd2bcb810b163ad5fb31d8e9bc44fe9939</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 15:00:00 +0000</pubDate>
-<description>&lt;p&gt;&lt;br&gt;&lt;/p&gt; Dune: Part Three 's marketing campaign has been a long and generous one, but Warner Bros. and Legendary Pictures knew an extra push was needed in order to compete with Avengers: Doomsday , as both sci-fi blockbusters will be releasing next to each other at Christmas. In its final trailer, Denis Villeneuve's threequel goes all out. This isn't the first time a Dune: Part Three trailer has left us with more questions than answers , but the in-depth look at the character dynamics and plot beats that await will make longtime fans of Frank Herbert's works raise their eyebrows. Messiah, the second installment in the book series, is a novel of long monologues and very tense conversations. Action has a place in it, but it's a more restrained and quieter book for the most part — one that deals with the consequences of Paul's (now a space dictator) originally well-meaning actions. Of course, the cinematic medium requires a very different language, especially when the main reason why these movies have become blockbuster hits is that Villeneuve has expertly balanced the drama and large-scale action. So, it comes as no surprise that his take on Messiah is looking to bring Herbert's concluding thoughts on Paul Atreides (Timothée Chalamet) to life without sacrificing the grandeur that defined the first two movies. More shocking to readers, of course, is Zendaya's (Chani) much larger role in this finale versus the book, where she was slightly sidelined with a more passive part. Paul's lover walking away from him at the end of Part Two was a major departure, and one that set her up for bigger things in the third entry. Considering how good Zendaya has been in the role so far, we consider this a win... unless Villeneuve completely bungles her arc in the final stretch. Dune: Part Three emerges from the sand of Arrakis on December 18, 2026, only in cinemas. Watch the previous Dune movies and the prequel series Dune: Prophecy on HBO Max: Basic (Ads): $10.99/month or $109.99/year Standard (No Ads): $18.49/month or $184.99/year Premium (4K): $22.99/month or $229.99/year</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/fpJh3YVczoGzvfCVhR2QLf-1920-80.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/fpJh3YVczoGzvfCVhR2QLf-1920-80.jpg" medium="image"/>
-</item>
-<item>
 <title>Trump Administration Backs Down on an Opioid Ban After Kratom Industry Lobbying</title>
 <link>https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html</link>
 <guid isPermaLink="false">42b642dff99cfef362dddec17ca36f0e6dcdef9b6d41778733d208c013199e45</guid>
@@ -1104,6 +1126,17 @@
 <media:content url="https://static01.nyt.com/images/2026/10/27/multimedia/27xp-jodi/27xp-jodi-mediumSquareAt3X-v2.jpg" medium="image"/>
 </item>
 <item>
+<title>NASA's Neo Surveyor Sunshade</title>
+<link>https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2</link>
+<guid isPermaLink="false">cf751a4f21cc8f2a408e578da6f3d5566eeb5f311096e7331341b290ffeebddd</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 27 Oct 2026 18:02:00 +0000</pubDate>
+<description>The large sunshade of NASA’s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space &amp; Mission Systems in Boulder, Colorado, in late July.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" medium="image"/>
+</item>
+<item>
 <title>ESA procures four new Galileo Second Generation satellites</title>
 <link>https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites</link>
 <guid isPermaLink="false">507e928fe0725b72808265440534a138d4448f1fcbf8e0cddef62318595a005d</guid>
@@ -1113,6 +1146,17 @@
 <description>The European Space Agency (ESA) has extended ongoing contracts to build four additional Galileo Second Generation (G2) satellites, ensuring the long-term continuity of the constellation and supporting the rollout of new services. With this procurement, the Galileo Second Generation fleet grows to 16 satellites.</description>
 <enclosure url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg" type="image/jpeg"/>
 <media:content url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA's X-59 Aircraft and Test Pilot</title>
+<link>https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3</link>
+<guid isPermaLink="false">3fcf708f42313da9f2d09e1bf0d096a52fa472691c3107c45ca491fc3362bd5e</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 15:29:00 +0000</pubDate>
+<description>NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency's X-59 quiet supersonic research aircraft on Oct. 21, 2026.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" medium="image"/>
 </item>
 <item>
 <title>How Voting Is Like a Klein Bottle</title>
@@ -1148,6 +1192,17 @@
 <media:content url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg" medium="image"/>
 </item>
 <item>
+<title>Science on the Space Station with NASA Astronaut Jessica Watkins</title>
+<link>https://www.nasa.gov/image-detail/iss075e0190239</link>
+<guid isPermaLink="false">5f00aca8df46e2506f7a6e916ebae327aae0b38872c55b91a38e55bcd1b78305</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Wed, 21 Oct 2026 15:07:00 +0000</pubDate>
+<description>NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module's Life Science Glovebox, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" medium="image"/>
+</item>
+<item>
 <title>Martian Dawn</title>
 <link>https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2</link>
 <guid isPermaLink="false">a6a14a28737ed87a3ef14e8e321b7b22b3c69cc19fd97312aab882cf347f0342</guid>
@@ -1157,6 +1212,39 @@
 <description>The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" medium="image"/>
+</item>
+<item>
+<title>Artemis II Heat Shield After Splashdown</title>
+<link>https://www.nasa.gov/image-detail/afs-8-101-1320</link>
+<guid isPermaLink="false">bd7ea775e6f02cf018151963e6bbeb538b0eff8129c915bf68bebb3980d24ec5</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Fri, 16 Oct 2026 16:33:00 +0000</pubDate>
+<description>Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" medium="image"/>
+</item>
+<item>
+<title>Transporter-18 SmallSats Encapsulation</title>
+<link>https://www.nasa.gov/image-detail/afs-8-101-1315</link>
+<guid isPermaLink="false">e4159da664528188a8fd82ed2613bde89d53f23fb96e15a19a83328717fae347</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 13 Oct 2026 17:52:00 +0000</pubDate>
+<description>Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" medium="image"/>
+</item>
+<item>
+<title>Cosmic House of Mirrors</title>
+<link>https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors</link>
+<guid isPermaLink="false">942a9466c8b66c4e8c29e583bdaf0d3fa330eb489b6ebd292424f136c2cc8766</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Fri, 09 Oct 2026 14:28:00 +0000</pubDate>
+<description>This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they’ve stepped into a house of mirrors.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" medium="image"/>
 </item>
 <item>
 <title>Crew-12 Returns to Earth</title>
@@ -1179,6 +1267,50 @@
 <description>A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member's tablet.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" medium="image"/>
+</item>
+<item>
+<title>Astronomers Solve Cosmic Cold Case with NASA Hubble Data</title>
+<link>https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9</link>
+<guid isPermaLink="false">e7acee45febf783e11665c7d291d8b2a40f8aba5f5607b9b460e19e507ca7a75</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 06 Oct 2026 16:17:00 +0000</pubDate>
+<description>This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA Astronaut Christina Koch at Eagles vs. Rams</title>
+<link>https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field</link>
+<guid isPermaLink="false">578734c1fe8df2e9efa4b83a532b1ddf9a63a7e7b36defe815c606d85de22c40</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Mon, 05 Oct 2026 17:45:00 +0000</pubDate>
+<description>NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA’s SpaceX Crew-13 Launches</title>
+<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3</link>
+<guid isPermaLink="false">07f5c690e45e94633737ffc40a00e6a269a635b19c6024bf14b670f62bc26804</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Thu, 01 Oct 2026 18:07:00 +0000</pubDate>
+<description>A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" medium="image"/>
+</item>
+<item>
+<title>Star Trails</title>
+<link>https://www.nasa.gov/image-detail/iss075e0144232</link>
+<guid isPermaLink="false">2f9c821724c6cf311138939fbf5d114d76dd53bcf1741a4ef170f481e93f4cad</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Wed, 30 Sep 2026 17:51:00 +0000</pubDate>
+<description>This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" medium="image"/>
 </item>
 <item>
 <title>Crew-13 Rocket and Spacecraft at Launch Pad</title>
@@ -1212,6 +1344,39 @@
 <description>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" medium="image"/>
+</item>
+<item>
+<title>Artemis III Crew Visits NASA Kennedy's Vehicle Assembly Building</title>
+<link>https://www.nasa.gov/image-detail/afs-8-101-1307</link>
+<guid isPermaLink="false">9212a1e9d8662e960c7092f49c3e8b12a15c44ebb4cd2f3f279df26d2a5b6c07</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 15 Sep 2026 16:16:00 +0000</pubDate>
+<description>NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA's Chandra Spots Galactic Gem</title>
+<link>https://www.nasa.gov/image-detail/galaxies-iizw096</link>
+<guid isPermaLink="false">6a1d948744d290016a0617c18261d449a216e52c846e957efd5a8ea82c6a5c5e</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Fri, 11 Sep 2026 17:22:00 +0000</pubDate>
+<description>Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" medium="image"/>
+</item>
+<item>
+<title>Superbubble in the Large Magellanic Cloud</title>
+<link>https://www.nasa.gov/image-detail/hubble-n44-wfc3-large</link>
+<guid isPermaLink="false">026a0bc93661a13b3d9350ebebc36e78a1b5937b2f4ba3b195ce5ec192fb29e3</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 08 Sep 2026 16:49:00 +0000</pubDate>
+<description>N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope image in the upper central region.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" medium="image"/>
 </item>
 <item>
 <title>Lunar Occultation of Venus</title>
@@ -1278,6 +1443,61 @@
 <description>President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Astronauts Anil Menon and Sophie Adenot on Spacewalk</title>
+<link>https://www.nasa.gov/image-detail/gmt230_ehdc1-2</link>
+<guid isPermaLink="false">cb37876c1de0f8b8a2938843104fc756be99199e420ad39c37d3cd812a56a61c</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 25 Aug 2026 14:58:00 +0000</pubDate>
+<description>From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA's B777 Gets New Coat of Paint</title>
+<link>https://www.nasa.gov/image-detail/jsc2026e407303</link>
+<guid isPermaLink="false">f7e995f8c8d6b7d64d5dd5dd7a6d8bf253d7dce8ba4d40d6757ad8a159fd3895</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 18 Aug 2026 15:16:00 +0000</pubDate>
+<description>NASA's Boeing 777 returns to the agency's Langley Research Center after receiving a new paint scheme.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" medium="image"/>
+</item>
+<item>
+<title>Colorful Collage of Tarantula Nebula</title>
+<link>https://www.nasa.gov/image-detail/30dor-crop</link>
+<guid isPermaLink="false">c66fa1686b72e2606534bad91ba33deb29d79cade921ec43b2632131268cf3dd</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Mon, 17 Aug 2026 16:03:00 +0000</pubDate>
+<description>Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" medium="image"/>
+</item>
+<item>
+<title>Perseids Meteor Shower</title>
+<link>https://www.nasa.gov/image-detail/perseidsorion-2</link>
+<guid isPermaLink="false">796e22218cfd29be9db55317e7fb1b94fe245cca06bf425698882b75441051a9</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Thu, 13 Aug 2026 15:09:00 +0000</pubDate>
+<description>The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" medium="image"/>
+</item>
+<item>
+<title>2026 Total Solar Eclipse in Spain</title>
+<link>https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2</link>
+<guid isPermaLink="false">88facde88034cedc4ee8f0a4003b54cd7fdcd2931f77b522038da11ed4e20ede</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Wed, 12 Aug 2026 20:17:00 +0000</pubDate>
+<description>A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" medium="image"/>
 </item>
 <item>
 <title>εpsilon</title>
