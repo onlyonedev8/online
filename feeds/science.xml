@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Neanderthals Used Wood for Tools, Housing — and Murder?</title>
+<link>https://www.nytimes.com/2026/11/03/science/neanderthals-wood-tools.html</link>
+<guid isPermaLink="false">0ae58cce887033be8bf1add5410ad3bf9a74ca4c89e14a4bd63a296bd48d7d15</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 10:02:47 +0000</pubDate>
+<description>In one case, 75,000-year-old bones reveal what may be the earliest identifiable victim of death by wooden spear.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-NEANDERTHAL-WOOD-01-kglw/03SCI-NEANDERTHAL-WOOD-01-kglw-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-NEANDERTHAL-WOOD-01-kglw/03SCI-NEANDERTHAL-WOOD-01-kglw-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>Vibrating mattress helps clear Alzheimer’s protein from the brain</title>
+<link>https://www.newscientist.com/article/2597081-vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain</link>
+<guid isPermaLink="false">b12f60a17f474d61b396c6fd7416b9c0c0469d2e4aad824415ea657c7045f857</guid>
+<source>New Scientist</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
+<description>Lying on a vibrating mattress for 40 minutes, combined with taking two pills that release nitric oxide into the body, enhanced the clearance of an Alzheimer's-related protein via the brain's waste-disposal system</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319185008.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319185008.jpg" medium="image"/>
+</item>
+<item>
 <title>Boiling frog syndrome is often called a myth – but is it?</title>
 <link>https://www.newscientist.com/article/2596833-boiling-frog-syndrome-is-often-called-a-myth-but-is-it</link>
 <guid isPermaLink="false">c5a9f639cb48dae49d72ceff2d84c694361be6e7db4abf8653cf7f1af53d085d</guid>
@@ -77,8 +99,8 @@
 <category>science</category>
 <pubDate>Mon, 02 Nov 2026 20:47:41 +0000</pubDate>
 <description>For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov . Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record. Adequacy depends on measurement accuracy, bandwidth, signal-to-noise ratio, and coverage of the test objective. Background: What the Hammer Actually Measures Hammer tests support modal analysis [2–4] and can precede pyroshock testing [6]. Figure 1 compares a half-sine, maintained-contact rippling, and separated contacts. During a zero-force interval, the structure continues to vibrate; re-contact acts on that vibration. If an exact model and test article receive the same force and initial conditions, uniqueness gives identical responses for each bounded measured history. An approximate model can show different errors as inputs excite different frequencies, amplitudes, or nonlinear states. See [1] for the exact-model derivation. Analysis: A Half-Sine Is Broadband, but Not Flat Figure 2 shows that a finite half-sine is broadband but contains spectral zeros at f/fo = 3, 5, 7, …, with fo = 1/(2T) for pulse duration T. Its appearance alone cannot establish adequate excitation. Analysis: Spectral Content Is Determined by the Measured Force History Figure 3 normalizes each spectrum to its own DC value. Crest rippling adds content and can fill half-sine notches. Timing between separated contacts creates deterministic interference. For adequacy, inspect the unnormalized measured spectrum and response signal-to-noise ratio. Recommended Practice: Evaluate Test Adequacy Against the Intended Objective • Measure the complete applied force with adequate bandwidth, calibration, dynamic range, and time synchronization. • Verify that the response measurements have adequate bandwidth and signal-to-noise ratio and are not clipped or saturated. • Confirm that the excitation covers the frequency, amplitude, and nonlinear-response ranges required by the intended test objective. • Reject or repeat a test only for an identified measurement, excitation, or coverage deficiency. Conclusion Half-sine appearance neither establishes validity nor guarantees adequacy. Judge each hammer test by its purpose and by accurate, complete force and response measurements over the required range. References 1. A. Majed, J. Sills, E. Henkel, V. Babuska, S. Yunis, D. Hamilton, J. Akers, and T. Kinney, Validity and Predictability of Measured Hammer Tap Inputs: Linear and Nonlinear Structural Systems, September 2026. 2. D. J. Ewins, Modal Testing: Theory, Practice and Application, 2nd ed., 2000. 3. ISO 7626-5:2019, Mechanical Vibration and Shock—Experimental Determination of Mechanical Mobility—Part 5 4. K. G. McConnell and P. S. Varoto, Vibration Testing: Theory and Practice, 2nd ed., 2008. 5. A.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png?w=1366" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png?w=1366" medium="image"/>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/tb-26-09-3-sepctra-of-figure-1-.png?w=1346" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/tb-26-09-3-sepctra-of-figure-1-.png?w=1346" medium="image"/>
 </item>
 <item>
 <title>Dinosaur red blood cells recovered from 115-million-year-old fossil</title>
@@ -134,17 +156,6 @@
 <description>null Key specs Type: Full-frame prime lens Focal length: 35 mm Maximum aperture: f/1.8 Lens mount: Sony FE &amp; Nikon Z Weight: 12.52 oz / 355 g Dimensions: 3.33 x 4.37 in / 69 x 76 mm Filter thread: 58 mm Release date: April 2026 Budget primes can be, surprisingly, excellent choices for photographers shooting all subjects. It’s all too easy to get carried away with the best specs, such as a large maximum aperture and impressive optical design often seen in more expensive options. But affordable lenses like the Viltrox AF 35mm f/1.8 II FE (APO) have the potential to impress and delight in equal measure. The 35mm f/1.8 is a compact and lightweight lens offering a reasonably fast maximum aperture, making it a prime candidate for astrophotography. It’s also the same size and almost the same weight as the Viltrox AF 55mm f/1.8 FE (APO), another lens that could potentially grace your camera bag. With a highly attractive price tag of just $399 / £385, and mount options for Nikon Z and Sony FE, many astrophotographers will be wondering if this is a lens worth considering. It features 13 elements in 10 groups, as well as featuring an apochromatic (APO) design for reducing chromatic aberration as much as possible. As much as possible is key here because not all lenses are as successful as the manufacturer claims, although that’s not a comment on the 35mm f/1.8. Read on to discover if this could be one of the best lenses for astrophotography . Viltrox AF 35mm f/1.8 II EVO FE (APO) lens review Viltrox AF 35mm f/1.8 II EVO FE (APO): Performance The Viltrox AF 35mm f/1.8 FE (APO) balances well with Sony A series cameras. (Image credit: James Abbott) Sharp images for the price Sweet spot at f/8-f/11, not ideal for astro Some astigmatism at the edges of the frame For a budget lens, the 35mm f/1.8 produces great, yet not perfect, image quality. On the plus side, images are nice and sharp, particularly in the centre, even when shooting wide open at f/1.8. At this aperture setting, though, there is some astigmatism at the left edges of the frame. This is where stars appear as crosses. This is a surprise since it’s an APO lens, and, equally surprising, it’s isolated, but it is something you have to consider. You do have to zoom into the image to see it, so it may not be a dealbreaker. Photos shot at f/1.8 are sharpest in the centre, with some fall-off towards the edges, with the corners exhibiting the least sharpness. There’s also the strongest vignetting at f/1.8. At the time of writing, there’s no Adobe Lightroom lens profile for the lens, but you can manually remove the vignetting and even create a preset of your own. Aperture f/1.8, shutter speed 5 secs, ISO 800. Shot with a Sony A7R V and a Viltrox AF 35mm f/1.8 FE (APO) on a Three Legged Thing PUNKS Brian 2.0 tripod. James Abbott Aperture f/1.8, shutter speed 5 secs, ISO 800. Shot with a Sony A7R V and a Viltrox AF 35mm f/1.8 FE (APO) on a Three Legged Thing PUNKS Brian 2.0 tripod. James Abbott Aperture f/1.8, s</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/3fJhJkKAWfd5dKu2dYXXbG-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/3fJhJkKAWfd5dKu2dYXXbG-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA’s CHAPEA Crew “Returns” to Earth</title>
-<link>https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth</link>
-<guid isPermaLink="false">b6e6022f064e27b84045a03384e43ebe2d38f339e5b616ca5fa3de8fa816bcc1</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 18:50:42 +0000</pubDate>
-<description>NASA/James Blair The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year testing systems, maintaining crops, managing limited resources and communication delays, conducting extravehicular activities and more in efforts to help NASA better understand how crews adapt to long-duration stays. Insights from their experiences will help NASA design its future Moon Base and plan for missions on Mars. Image credit: NASA/James Blair</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>What’s Up: November 2026 Skywatching Tips from NASA</title>
@@ -453,17 +464,6 @@
 <description>The cartoonist Peter Kuper has filled a corridor with drawings of monarchs, depicting the beauty of the annual mass migration to Mexican forests — as well as its perils.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/01/multimedia/01sp-finearts-butterflies-03-khmw/01sp-finearts-butterflies-03-khmw-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/01/multimedia/01sp-finearts-butterflies-03-khmw/01sp-finearts-butterflies-03-khmw-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Fish pay attention to one influential neighbour in virtual reality</title>
-<link>https://www.newscientist.com/article/2596645-fish-only-pay-attention-to-one-most-influential-neighbor-in-virtual-reality</link>
-<guid isPermaLink="false">a3544747fbade87b3dd02fdf77b8395b7a4703b22c7d5551a46b171da0d0766a</guid>
-<source>New Scientist</source>
-<category>science</category>
-<pubDate>Sun, 01 Nov 2026 10:00:00 +0000</pubDate>
-<description>Observing interactions between real and virtual rummy-nose tetra fish shows that, within a group, each individual takes cues from only one influential neighbour</description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318737523.jpg" type="image/jpeg"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318737523.jpg" medium="image"/>
 </item>
 <item>
 <title>Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks</title>
@@ -1104,17 +1104,6 @@
 <media:content url="https://static01.nyt.com/images/2026/10/27/multimedia/27xp-jodi/27xp-jodi-mediumSquareAt3X-v2.jpg" medium="image"/>
 </item>
 <item>
-<title>NASA's Neo Surveyor Sunshade</title>
-<link>https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2</link>
-<guid isPermaLink="false">cf751a4f21cc8f2a408e578da6f3d5566eeb5f311096e7331341b290ffeebddd</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 27 Oct 2026 18:02:00 +0000</pubDate>
-<description>The large sunshade of NASA’s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space &amp; Mission Systems in Boulder, Colorado, in late July.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" medium="image"/>
-</item>
-<item>
 <title>ESA procures four new Galileo Second Generation satellites</title>
 <link>https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites</link>
 <guid isPermaLink="false">507e928fe0725b72808265440534a138d4448f1fcbf8e0cddef62318595a005d</guid>
@@ -1124,17 +1113,6 @@
 <description>The European Space Agency (ESA) has extended ongoing contracts to build four additional Galileo Second Generation (G2) satellites, ensuring the long-term continuity of the constellation and supporting the rollout of new services. With this procurement, the Galileo Second Generation fleet grows to 16 satellites.</description>
 <enclosure url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg" type="image/jpeg"/>
 <media:content url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's X-59 Aircraft and Test Pilot</title>
-<link>https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3</link>
-<guid isPermaLink="false">3fcf708f42313da9f2d09e1bf0d096a52fa472691c3107c45ca491fc3362bd5e</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 26 Oct 2026 15:29:00 +0000</pubDate>
-<description>NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency's X-59 quiet supersonic research aircraft on Oct. 21, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" medium="image"/>
 </item>
 <item>
 <title>How Voting Is Like a Klein Bottle</title>
@@ -1170,17 +1148,6 @@
 <media:content url="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg" medium="image"/>
 </item>
 <item>
-<title>Science on the Space Station with NASA Astronaut Jessica Watkins</title>
-<link>https://www.nasa.gov/image-detail/iss075e0190239</link>
-<guid isPermaLink="false">5f00aca8df46e2506f7a6e916ebae327aae0b38872c55b91a38e55bcd1b78305</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 21 Oct 2026 15:07:00 +0000</pubDate>
-<description>NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module's Life Science Glovebox, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" medium="image"/>
-</item>
-<item>
 <title>Martian Dawn</title>
 <link>https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2</link>
 <guid isPermaLink="false">a6a14a28737ed87a3ef14e8e321b7b22b3c69cc19fd97312aab882cf347f0342</guid>
@@ -1190,39 +1157,6 @@
 <description>The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" medium="image"/>
-</item>
-<item>
-<title>Artemis II Heat Shield After Splashdown</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1320</link>
-<guid isPermaLink="false">bd7ea775e6f02cf018151963e6bbeb538b0eff8129c915bf68bebb3980d24ec5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 16:33:00 +0000</pubDate>
-<description>Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" medium="image"/>
-</item>
-<item>
-<title>Transporter-18 SmallSats Encapsulation</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1315</link>
-<guid isPermaLink="false">e4159da664528188a8fd82ed2613bde89d53f23fb96e15a19a83328717fae347</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 13 Oct 2026 17:52:00 +0000</pubDate>
-<description>Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Cosmic House of Mirrors</title>
-<link>https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors</link>
-<guid isPermaLink="false">942a9466c8b66c4e8c29e583bdaf0d3fa330eb489b6ebd292424f136c2cc8766</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 09 Oct 2026 14:28:00 +0000</pubDate>
-<description>This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they’ve stepped into a house of mirrors.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" medium="image"/>
 </item>
 <item>
 <title>Crew-12 Returns to Earth</title>
@@ -1245,50 +1179,6 @@
 <description>A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member's tablet.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" medium="image"/>
-</item>
-<item>
-<title>Astronomers Solve Cosmic Cold Case with NASA Hubble Data</title>
-<link>https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9</link>
-<guid isPermaLink="false">e7acee45febf783e11665c7d291d8b2a40f8aba5f5607b9b460e19e507ca7a75</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 06 Oct 2026 16:17:00 +0000</pubDate>
-<description>This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA Astronaut Christina Koch at Eagles vs. Rams</title>
-<link>https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field</link>
-<guid isPermaLink="false">578734c1fe8df2e9efa4b83a532b1ddf9a63a7e7b36defe815c606d85de22c40</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 05 Oct 2026 17:45:00 +0000</pubDate>
-<description>NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA’s SpaceX Crew-13 Launches</title>
-<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3</link>
-<guid isPermaLink="false">07f5c690e45e94633737ffc40a00e6a269a635b19c6024bf14b670f62bc26804</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 01 Oct 2026 18:07:00 +0000</pubDate>
-<description>A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Star Trails</title>
-<link>https://www.nasa.gov/image-detail/iss075e0144232</link>
-<guid isPermaLink="false">2f9c821724c6cf311138939fbf5d114d76dd53bcf1741a4ef170f481e93f4cad</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 30 Sep 2026 17:51:00 +0000</pubDate>
-<description>This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" medium="image"/>
 </item>
 <item>
 <title>Crew-13 Rocket and Spacecraft at Launch Pad</title>
@@ -1322,39 +1212,6 @@
 <description>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" medium="image"/>
-</item>
-<item>
-<title>Artemis III Crew Visits NASA Kennedy's Vehicle Assembly Building</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1307</link>
-<guid isPermaLink="false">9212a1e9d8662e960c7092f49c3e8b12a15c44ebb4cd2f3f279df26d2a5b6c07</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 15 Sep 2026 16:16:00 +0000</pubDate>
-<description>NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Chandra Spots Galactic Gem</title>
-<link>https://www.nasa.gov/image-detail/galaxies-iizw096</link>
-<guid isPermaLink="false">6a1d948744d290016a0617c18261d449a216e52c846e957efd5a8ea82c6a5c5e</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 11 Sep 2026 17:22:00 +0000</pubDate>
-<description>Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" medium="image"/>
-</item>
-<item>
-<title>Superbubble in the Large Magellanic Cloud</title>
-<link>https://www.nasa.gov/image-detail/hubble-n44-wfc3-large</link>
-<guid isPermaLink="false">026a0bc93661a13b3d9350ebebc36e78a1b5937b2f4ba3b195ce5ec192fb29e3</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 08 Sep 2026 16:49:00 +0000</pubDate>
-<description>N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope image in the upper central region.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" medium="image"/>
 </item>
 <item>
 <title>Lunar Occultation of Venus</title>
@@ -1421,61 +1278,6 @@
 <description>President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Astronauts Anil Menon and Sophie Adenot on Spacewalk</title>
-<link>https://www.nasa.gov/image-detail/gmt230_ehdc1-2</link>
-<guid isPermaLink="false">cb37876c1de0f8b8a2938843104fc756be99199e420ad39c37d3cd812a56a61c</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 25 Aug 2026 14:58:00 +0000</pubDate>
-<description>From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's B777 Gets New Coat of Paint</title>
-<link>https://www.nasa.gov/image-detail/jsc2026e407303</link>
-<guid isPermaLink="false">f7e995f8c8d6b7d64d5dd5dd7a6d8bf253d7dce8ba4d40d6757ad8a159fd3895</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 18 Aug 2026 15:16:00 +0000</pubDate>
-<description>NASA's Boeing 777 returns to the agency's Langley Research Center after receiving a new paint scheme.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" medium="image"/>
-</item>
-<item>
-<title>Colorful Collage of Tarantula Nebula</title>
-<link>https://www.nasa.gov/image-detail/30dor-crop</link>
-<guid isPermaLink="false">c66fa1686b72e2606534bad91ba33deb29d79cade921ec43b2632131268cf3dd</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 17 Aug 2026 16:03:00 +0000</pubDate>
-<description>Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" medium="image"/>
-</item>
-<item>
-<title>Perseids Meteor Shower</title>
-<link>https://www.nasa.gov/image-detail/perseidsorion-2</link>
-<guid isPermaLink="false">796e22218cfd29be9db55317e7fb1b94fe245cca06bf425698882b75441051a9</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 13 Aug 2026 15:09:00 +0000</pubDate>
-<description>The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" medium="image"/>
-</item>
-<item>
-<title>2026 Total Solar Eclipse in Spain</title>
-<link>https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2</link>
-<guid isPermaLink="false">88facde88034cedc4ee8f0a4003b54cd7fdcd2931f77b522038da11ed4e20ede</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 12 Aug 2026 20:17:00 +0000</pubDate>
-<description>A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" medium="image"/>
 </item>
 <item>
 <title>εpsilon</title>
