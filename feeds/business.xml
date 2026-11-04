@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate</title>
+<link>https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto</link>
+<guid isPermaLink="false">8642056a013a2073e329bc771a4805a07742ebe46755dc22aa034f5737bfeeba</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 04 Nov 2026 06:40:13 +0000</pubDate>
+<description>Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" medium="image"/>
+</item>
+<item>
 <title>Here’s what happened in crypto today</title>
 <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
 <guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
@@ -24,17 +35,6 @@
 <description>Ethereum researcher Justin Drake said it is their “hope” that Ethereum will achieve its post-quantum and post-AI transition by December 2028.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JH4H7TR2ZYP94F0GBTNFV0/ethereum-post-quantum.png" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JH4H7TR2ZYP94F0GBTNFV0/ethereum-post-quantum.png" medium="image"/>
-</item>
-<item>
-<title>US midterms election 2026 live: Trump applauds Democrats on Senate win</title>
-<link>https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto</link>
-<guid isPermaLink="false">8642056a013a2073e329bc771a4805a07742ebe46755dc22aa034f5737bfeeba</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Wed, 04 Nov 2026 05:30:31 +0000</pubDate>
-<description>Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HNW6N1NESPPP9VWMSTMCKP/hi-can-polymarket-and-augur-predict-the-next-us-elections2.jpg" medium="image"/>
 </item>
 <item>
 <title>Democrats claim control of the US Senate</title>
