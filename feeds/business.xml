@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Zcash Upgrade Could Lock $16 Million in Crypto Forever</title>
+<link>https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto</link>
+<guid isPermaLink="false">426b9fd8ce0a0ed9204f9c8d7b7de9d5aa371cfa7fa7a30f80cd5281eecb67e4</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 19:46:03 +0000</pubDate>
+<description>Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them</title>
+<link>https://decrypt.co/382632/openai-linux-security-flaws-exploit</link>
+<guid isPermaLink="false">9d58435549ef8636309cb1d18643098986f7867418ab2ed53348485daf984ce5</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 19:16:03 +0000</pubDate>
+<description>An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack</title>
 <link>https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack</link>
 <guid isPermaLink="false">31f2687c174c4e6af9bd5072919573394c145eb32d4beb0b9f745560822b986f</guid>
@@ -46,17 +68,6 @@
 <description>The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>60% of Workers Have a “Work Enemy.” Here’s the Strange Trick That Disarms Them</title>
-<link>https://www.entrepreneur.com/careers/60-of-workers-have-a-work-enemy-heres-the-strange-trick-that-disarms-them</link>
-<guid isPermaLink="false">bd43369156fbf9c4a3fbc995de2d7d8b1ae3384d3e15a2f0ba91353f0396039b</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Thu, 05 Nov 2026 18:15:31 +0000</pubDate>
-<description>Make them your Newman. You'll be happier for it.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/TimmC_HS_26-copy.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/TimmC_HS_26-copy.jpg" medium="image"/>
 </item>
 <item>
 <title>Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum</title>
@@ -442,6 +453,17 @@
 <description>Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Everyone is Using AI Now. Here’s What Sets the Companies Using It Well Apart.</title>
+<link>https://www.entrepreneur.com/building-a-business/everyone-is-using-ai-now-heres-what-sets-the-companies-using-it-well-apart</link>
+<guid isPermaLink="false">726e4d5c42eef43f7e79b5f5f578c4cd453f296be947feebbfe4f61958f177e8</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
+<description>AI adoption has become almost meaningless as a measure of competitive advantage.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/everybody-using-ai-1126-g-2282220392.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/everybody-using-ai-1126-g-2282220392.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says</title>
@@ -1014,28 +1036,6 @@
 <description>GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures</title>
-<link>https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures</link>
-<guid isPermaLink="false">1c9fedee7f30ab50c2e6378af70fd15d96f8498b4facbc5e5ebcab56a43f0054</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 19:16:02 +0000</pubDate>
-<description>Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional stocks.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack</title>
-<link>https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack</link>
-<guid isPermaLink="false">edb55a89a3db41f0d1c5e1be0f4a3f7fbd2c52a6d1a39029b792f6b249687423</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Tue, 03 Nov 2026 18:16:03 +0000</pubDate>
-<description>Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-brazil-bitcoin-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Truist expands merchant tools to boost value</title>
