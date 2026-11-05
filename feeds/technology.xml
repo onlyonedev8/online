@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect</title>
+<link>https://www.zdnet.com/tech/linux-mint-27-release-date</link>
+<guid isPermaLink="false">a52e8bcda17070bc52f36fadc720d59a532898e1d63a9cd035382e54b833ec50</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 02:35:58 +0000</pubDate>
+<description>It starts with a surprise version number: Linux Mint 27 instead of 24. But the next release brings far more changes than that.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Linux-Mint-27-Nemo.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Linux-Mint-27-Nemo.jpg" medium="image"/>
+</item>
+<item>
 <title>X says its updated web app is way faster</title>
 <link>https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster</link>
 <guid isPermaLink="false">4450c2fb3717fccdba57a0e62313bb0e881344bc8497b49c5c2ea9c738dc8e4d</guid>
@@ -1498,17 +1509,6 @@
 <description>Only a quarter of Android phones have even made it to Android 16.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg" medium="image"/>
-</item>
-<item>
-<title>Samsung adds better sleep tracking to Galaxy Watches – here’s what to expect</title>
-<link>https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches</link>
-<guid isPermaLink="false">17ae841ebf69dd70b8fc3d2dcb5a24ce704c8263c5d89421164a963847a21875</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 17:29:50 +0000</pubDate>
-<description>The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg" medium="image"/>
 </item>
 <item>
 <title>After 50 years of playing video games, I’m finally starring in one</title>
