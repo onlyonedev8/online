@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Discord is ditching Electron and its new app uses less RAM</title>
+<link>https://www.theverge.com/news/1027379/discord-ditching-electron-web-app</link>
+<guid isPermaLink="false">c8d06251698dcc3741ecfc6ff139719e391f75d04cd9e110c7adbd4807ae44e1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 11:39:42 +0000</pubDate>
+<description>Discord is finally giving up on Electron, the cross-platform framework that lets developers build desktop apps using web technologies. Electron web apps are notoriously heavy on system resources, and Discord is now moving its desktop app fully to Rust - a modern programming language designed for speed and memory safety. "We've been early adopters of Rust since 2018 and a lot of our infra, voice tech, and even some of the current client is already Rust, the holy grail was getting the whole client there," explains Discord chief technology officer Stanislav Vishnevskiy in a post on X . "That means Electron goes away, and so does React Native, m … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Playstation and Spider-Man performance see Sony profits surge</title>
+<link>https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation</link>
+<guid isPermaLink="false">d8fbcaec95ba5b53fe2980950a48bcc51c3a18767aff21e8eaf635b360a0e689</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 11:00:15 +0000</pubDate>
+<description>Sony is enjoying a sharp profit spike in its latest quarterly financials, largely driven by its PlayStation business and the blockbuster success of Spider-Man: Brand New Day . According to the company's September earnings , Sony's net profits climbed to 449.60 billion yen (about $2.84 billion) for the three months ended September - a 44 percent increase compared to the 311.4 billion yen ($1.96 billion) it reported for the same period last year. Spider-Man: Brand New Day was a notable contributor, which released in July and became the third-highest grossing movie in history by earning $2.52 billion at the global box office. That's a huge boost … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/spider-man-brand-new-day.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/spider-man-brand-new-day.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Amazon is getting back into restaurant delivery with Uber Eats team-up</title>
+<link>https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership</link>
+<guid isPermaLink="false">09520692777003ca67de8d767075d9545a9bd7b01e2cd051dc137bddbf593219</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
+<description>Amazon and Uber are teaming up to make Uber Eats the official restaurant delivery partner for Prime subscribers in the US. The news comes as Uber faces a drastically reshaped competitive landscape with the merging of rivals DoorDash and Instacart . Under the new partnership, Amazon Prime subscribers will get $0 delivery fees on restaurant orders of $25 or more directly through Amazon's app or website - without having to use Uber Eats or even create an account. Essentially, Amazon Prime subscribers who never bothered to sign up for Uber can now order takeout without needing to create an Uber account. Prime members can order Uber Eats takeo … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Amazon teams with Uber Eats for new Prime perks</title>
+<link>https://www.engadget.com/2307194/amazon-teams-with-uber-eats-for-new-prime-perks</link>
+<guid isPermaLink="false">277abcec6df37749e710358f934a86fadc968a4427c3e01441dae1dc07f61ad8</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
+<description>Order on Amazon's platforms and (sometimes) skip the delivery fees.</description>
+<enclosure url="https://www.engadget.com/img/gallery/amazon-teams-with-uber-eats-for-new-prime-perks/l-intro-1793825798.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/amazon-teams-with-uber-eats-for-new-prime-perks/l-intro-1793825798.jpg" medium="image"/>
+</item>
+<item>
+<title>Big Tech’s big AI buildout will not end until someone stops it</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3</link>
+<guid isPermaLink="false">788aca0b86fe44b26f68b2a9ca4cdfec7a2bdc57ac2f4f028b7c419382379c76</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 10:45:00 +0000</pubDate>
+<description>After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also starting to become clear - Big Tech will not be slowing down, at least not on its own. Amazon, Microsoft, Alphabet, and Meta told investors they're planning to spend at least $720 billion on CapEx this year alone. Most of that will go toward AI infrastructure. That's on top of at least $1 trillion in spending commitments that have bee … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Switch 2 sales fell by almost 40 percent after Nintendo increased prices</title>
+<link>https://www.engadget.com/2307555/switch-2-sales-fell-by-almost-40-percent-nintendo-increased-prices</link>
+<guid isPermaLink="false">c7fac8b4f4907ee816fd89f3f12c8509d18342c30dbf81f95a890513216edffb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 10:44:43 +0000</pubDate>
+<description>Nintendo reports higher profit but substantially lower Switch 2 sales after it increased console prices.</description>
+<enclosure url="https://www.engadget.com/img/gallery/switch-2-sales-fell-by-almost-40-percent-after-nintendo-increased-prices/l-intro-1793875392.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/switch-2-sales-fell-by-almost-40-percent-after-nintendo-increased-prices/l-intro-1793875392.jpg" medium="image"/>
+</item>
+<item>
 <title>SAP promises to open out data flows in both directions</title>
 <link>https://www.theregister.com/software/2026/11/05/sap-promises-to-open-out-data-flows-in-both-directions/5307495</link>
 <guid isPermaLink="false">a1a95daf30bb55050ac305eba6de6e7fbb389d076430bec257fc2032548ce13b</guid>
@@ -13,6 +79,17 @@
 <description>SAP has taken meaningful steps in opening its data to bidrectional sharing across the enteprise, and in decoupling the advanced analytics needed for AI from its ERP upgrade path. During a technical conference last week, the German software giant adopted native support for Apache Iceberg, the open table format, and extended its partnership with Databricks to bring data from legacy ERP systems into its modern cloud analytics platform. "By putting [a] stake in the ground with Iceberg, we now have SAP moving from a very closed application storage model to an open lakehouse model," said Aaron Rosenbaum, Gartner senior director analyst, referring to the concept which brings together data lakes and warehouses. Also important was the bridge between modern analytics in the cloud and on-prem or hosted legacy systems such as ECC, the ERP system broadly adopted by global companies. "SAP made a pretty big move in saying we're going to open this up, not just to S/4HANA Cloud [the latest ERP system], but ECC users. That coupling — leveraging of AI, leveraging a lakehouse for AI to the ERP upgrade lifecycle — was a problem," said Rosenbaum. In May this year, SAP bought Dremio, a lakehouse platform built around Apache Iceberg, ending its previous preference for Databricks' Delta Sharing to bring together SAP data products with existing lakehouses bi-directionally. At SAP's TedEd conference last week, SAP said its Business Data Cloud (BDC) – the "trusted data foundation for SAP Business AI Platform" – would now support native Apache Iceberg and a universal catalog powered by Apache Polaris, "providing an open and governed data foundation for users and [AI agent platform] Joule to consume data." Together with SAP BDC Connect, the new tech policy will support platform interoperability with "zero-copy data sharing" across platforms from Databricks, Snowflake, Google, AWS, and Microsoft. The system would also continue to support Delta Lake, the alternative open table format from Databricks, SAP said . With the integration of Dremio's SQL query engine, BDC users will also get access to relational databases including SQL Server, MongoDB, Oracle, and PostgreSQL without moving data, the vendor said. During the same conference, Databricks – the lakehouse company born out of an Apache Spark platform – extended its partnership with SAP based on the previously announced SAP Databricks, which embeds the Databricks Data + AI Platform in BDC. That "expanded scope" promises to make data from SAP applications available for consumption in the SAP Business Data Cloud engine of choice, including SAP Databricks. The vendor said that a manufacturer running finance and supply chain on SAP ECC on-premises, for example, could use SAP Application Data Foundation to bring historic order data into SAP Databricks, combining it with third-party data, and allowing data engineers to build demand-forecasting models on SAP's business semantics, without custom extraction pipelines. They can keep th</description>
 <enclosure url="https://image.theregister.com/?imageId=4093655&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=4093655&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>‘It’s so glossy and sexy!’: 10 movies (and one TV show) that inspired Grand Theft Auto</title>
+<link>https://www.theguardian.com/games/2026/nov/05/its-so-glossy-and-sexy-10-movies-and-one-tv-show-that-inspired-grand-theft-auto</link>
+<guid isPermaLink="false">7fc28c04213e8df8fdafb4ab55c2f99e08aec59597709e617ac082dcd26d9a85</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 10:00:01 +0000</pubDate>
+<description>As GTA 6 looms, we look at the films that have influenced Rockstar’s creatives, from Heat to Bonnie and Clyde, via Boyz n the Hood and Speed Grand Theft Auto is arguably the most cinematic video game series ever made. Over the past three decades, the games have studied and stolen the themes, conventions and visual dynamism of great gangster and action movies, applying them to open worlds filled with low-life characters and grand set-piece possibilities. Here then are the movies (and TV show) that have shaped the GTA experience, from the 1996 original to this year’s inescapable instalment. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/d9382ec3a10ac54e97ce33041895c49e9050bf35/61_0_1125_900/master/1125.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8875ce849e4c55a05cd590870fdc60f" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/d9382ec3a10ac54e97ce33041895c49e9050bf35/61_0_1125_900/master/1125.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8875ce849e4c55a05cd590870fdc60f" medium="image"/>
 </item>
 <item>
 <title>Royal London plans IT outsourcing shake-up as staff brace for redundancies</title>
@@ -35,6 +112,17 @@
 <description>Despite market conditions making PS5 consoles expensive and hard to get, Sony's gaming division had a solid quarter.</description>
 <enclosure url="https://www.engadget.com/img/gallery/sony-is-selling-more-ps5-games-but-still-struggling-to-meet-console-demand/l-intro-1793870612.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/sony-is-selling-more-ps5-games-but-still-struggling-to-meet-console-demand/l-intro-1793870612.jpg" medium="image"/>
+</item>
+<item>
+<title>Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide</title>
+<link>https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide</link>
+<guid isPermaLink="false">99a5021ac5ef0d3ffbabf0459611f600dfdc6130093a92f3e4edcdc393c1854f</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 09:00:13 +0000</pubDate>
+<description>Mercedes-Benz provided flights from San Francisco to Malaga, Spain, and accommodation so Ars could drive the AMG GT 4-Door Coupe. Ars does not accept paid editorial content. The night before I drove the AMG GT 4-Door Coupe, I complained to a group of journalists that automakers don't want to take chances and just build fun, weird cars anymore. About 12 hours later, Mercedes made me eat my words. Outside of all the bombastic extravaganza of the Los Angeles launch, the first true AMG powered exclusively by batteries is a technological triumph that's as comfortable on the track as it is on the street. And it's really very good on the track. Triforce One of the fundamental problems with EVs is weight. Batteries are heavy, and the old rule about an object in motion tending to stay in motion makes the notion of nimble cornering a difficult engineering problem. Mercedes loves an engineering problem, and after two days behind the wheel of the AMG GT EV, the company has mostly reduced the battery-weight tax that mires EV performance. On the road and on the track, the vehicle is firmly planted to the roadway. Mercedes says various technologies make this possible. In addition to decades of producing high-performance vehicles, the automaker's AMG.EA sports-car architecture does a lot of heavy lifting here, constantly adjusting power delivery from the three motors while guiding the Active Ride Control suspension, steering—including up to six degrees at the rear axle—and active aerodynamics to deliver the performance AMG customers have come to expect from a vehicle with the Affalterbach badge on the hood. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0344_001-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0344_001-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Tech barons cozied up to Trump. What will they do in newly blue America?</title>
@@ -123,6 +211,17 @@
 <description>It starts with a surprise version number: Linux Mint 27 instead of 24. But the next release brings far more changes than that.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Linux-Mint-27-Nemo.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Linux-Mint-27-Nemo.jpg" medium="image"/>
+</item>
+<item>
+<title>Elon Musk’s nearly half a billion dollars in midterms spending was a flop</title>
+<link>https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis</link>
+<guid isPermaLink="false">112b14a13091e3fdb2bffeca2bb4d547e4320a22d48a0f17a81feab458d60633</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 02:00:50 +0000</pubDate>
+<description>The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidates Elon Musk set a record for election spending this year after pouring nearly half a billion dollars into backing Republicans in the US midterm elections . It turned out to be a poor investment. The SpaceX and Tesla CEO contributed at least $446m to Republican-aligned Super Pacs and groups over the course of the elections, specifically targeting several key Senate races in an effort to help the Trump administration retain Republican control of Congress. He outdid his own 2024 spending of nearly $290m. Yet as Democrats swept to power across the country on Tuesday night, it became clear that Musk would get nearly nothing in return for his hundreds of millions in spending. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/f5beb4426227616f86699d732ff704168d8ca0a1/1_0_2999_2400/master/2999.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6639cb9849b8ec327950595f7493688" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/f5beb4426227616f86699d732ff704168d8ca0a1/1_0_2999_2400/master/2999.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6639cb9849b8ec327950595f7493688" medium="image"/>
 </item>
 <item>
 <title>Uber says it alone can make robotaxis pay, hours after Waymo quit its app</title>
@@ -356,17 +455,6 @@
 <media:content url="https://www.engadget.com/img/gallery/pangram-expands-its-ai-detection-tools-to-video-and-images/l-intro-1793824046.jpg" medium="image"/>
 </item>
 <item>
-<title>Gemini for Home now plugs into AT&amp;#038;T’s smart security system</title>
-<link>https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</link>
-<guid isPermaLink="false">97689e4470033f7c3c03177808ba07b8df5f854c2b8cc35eab1cff74cff33b97</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 20:23:24 +0000</pubDate>
-<description>AT&amp;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the "first" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, such as who delivered a package and how many items they dropped off. You can also search recorded video footage using natural language questions, like "What dug up the yard last night?" or "Who let the dogs out?", as well as revie … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Xbox is testing two new controller options for Cloud Gaming</title>
 <link>https://www.engadget.com/2307085/xbox-is-testing-two-new-controller-options-for-cloud-gaming</link>
 <guid isPermaLink="false">8215ea76cb40b2e87f6f00ae3c4bd1d4012c22ec289d000a6f52ffb5519f4902</guid>
@@ -398,17 +486,6 @@
 <description>Senator Ted Cruz (R-Texas) is aiming to widen the Republican majority on the Federal Communications Commission before Democrats take over control of the Senate in January 2027. Just before the Republicans' midterm loss, Cruz yesterday announced a November 10 nomination hearing for Trump's FCC nominee, Danielle Thumann Severs. In his final two months as chairman of the Senate Commerce Committee, Cruz seems set on moving the Thumann Severs nomination to a full vote of the Senate. Confirming Thumann Severs would give Republicans an unusual 3-1 advantage on the FCC. That could become a 3-0 advantage at the end of 2027 because FCC Democrat Anna Gomez would have to leave the commission at that time if Trump does not agree to renominate her. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/07/ted-cruz-1152x648-1751388273.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/07/ted-cruz-1152x648-1751388273.jpg" medium="image"/>
-</item>
-<item>
-<title>Xbox previews two new ways to control cloud games</title>
-<link>https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller</link>
-<guid isPermaLink="false">11fe08f22934bbacdb019f47511239b72f758d7c07064e9baa68225d86906c39</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
-<description>I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well as cloud connect on the Xbox Nano to connect directly to cloud servers. "Instead of a Bluetooth connection to your TV, cloud connect uses your Wi-Fi to connect directly to the cloud server running your game," says the Xbox team . "That can help reduce input latency, so gameplay may feel more responsive." Players in the US will be able to preview the new cloud connect option for the Xbo … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22478836/acastro_210429_1777_0004.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Fedora 45 is finally finished and fit</title>
@@ -453,17 +530,6 @@
 <description>Your new robot servant doesn't have to look anything like a person or walk on two legs. In fact, it might just be a claw that hangs from the ceiling instead. That’s the future envisioned by Nathaniel Nifong, founder of Neufangled Robotics, and its Stringman robot . Put simply, Stringman is an AI-equipped claw suspended from four strings running through the corners of a room (up to 10 meters diagonally). Two motorized anchors adjust the lengths of the strings to move the claw around the room, from ceilings up to 4 meters high down to the floor to pick stuff up. With a payload capacity of around 2 kg, depending on its position, Stringman can move items to designated locations – like a toy box – and perform tidying tasks. Stringman can also be manually controlled if you’d prefer to play a room-sized crane game by yourself. According to Stringman’s documentation site, the device is currently a public prototype that “can self-calibrate in a new room and run policies, but is not yet reliable enough to be called a home appliance.” That said, demonstration videos on the website show it in action, and it’s neat to watch. Stringman is shown picking up laundry and dropping it in a basket, putting Lego bricks and other kids' toys back where they belong, and generally zooming around rooms and demonstrating its agility. One could imagine a properly trained Stringman could even grab the remote you left on the other side of the living room and drop it in your waiting hand if you’re that incredibly lazy. “Our mission is to give people an organized home,” Neufangled says on its future roadmap page . “We prioritize robots that are narrowly effective at something that helps today rather than a general purpose robot that may be in development for years.” The company further describes its goal as designing robots that are low cost and capable of doing things that people hate to do - e.g., pick up after a messy toddler - and making a robot that can do that while camouflaging itself into the home “as well as possible.” As long as you think a foot-long claw robot hanging from the corner of the ceiling is camouflaged, this is the robot for you. Neufangled lists Stringman for $795, which is a lot to ask for a public prototype that isn’t reliable enough to be called a home appliance yet. Luckily for those who’re interested in this sort of niche home automation, it’s fully open source , too. “A complete Stringman is three Raspberry Pis on your Wi-Fi network,” the documentation site reads: One in the gripper, and two in the corner anchor mounts that store line reels and have cameras to track the claw’s location as it moves around the room. A third camera mounted on the claw provides visual feedback. Oh, you'll also need a dedicated PC or Mac to run the robot's motion-control software. As for Stringman itself, to build your own, you'll need a 3D printer, a supplier to manufacture the PCBs, motors, Raspberry Pis, and other components listed in the bill of materials. You'll also</description>
 <enclosure url="https://image.theregister.com/?imageId=4094104&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=4094104&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Nothing teases a screen-free AI device ahead of launch next month</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</link>
-<guid isPermaLink="false">56101ee27feec7039fe1c7d02389be389d0611efa9c8beb0176b41e67df1fc99</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 18:26:07 +0000</pubDate>
-<description>Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for "AI-native" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature it won't have is a screen: "Our first AI-native product ships next month. It's a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn't have been an app." Pei shared an image with the post that says "NOTHING(R)" in the top left corner, above an ambiguous black rounded … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Boffins use machine-learning tricks to create a starlight dimmer switch</title>
@@ -906,28 +972,6 @@
 <media:content url="https://www.engadget.com/img/gallery/arkane-and-its-blade-game-may-end-up-at-ubisoft-as-xbox-considers-offers/l-intro-1793748584.jpg" medium="image"/>
 </item>
 <item>
-<title>What made Nothing's CMF Phone 2 Pro so much cheaper than others?</title>
-<link>https://www.engadget.com/2300613/nothing-cmf-phone-2-pro-why-so-much-cheaper</link>
-<guid isPermaLink="false">6ac023399ccd8a173ae0ab1fbb82a88aee9af36bd18d6bbfcdbabdcb0de1a854</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 23:30:00 +0000</pubDate>
-<description>Nothing sister brand CMF made a lot of clever choices to keep the Phone 2 Pro cheap.</description>
-<enclosure url="https://www.engadget.com/img/gallery/what-made-nothings-cmf-phone-2-pro-so-much-cheaper-than-others/l-intro-1792141686.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-made-nothings-cmf-phone-2-pro-so-much-cheaper-than-others/l-intro-1792141686.jpg" medium="image"/>
-</item>
-<item>
-<title>NVIDIA's controversial DLSS 5 is coming to RTX Remix to 'enhance' older games</title>
-<link>https://www.engadget.com/2306095/nvidia-dlss-5-update-rtx-remix-enhance-older-games</link>
-<guid isPermaLink="false">a7ad5cb79be9dee2decc6b4d50a3f2e6e4e9623056fba64f5ab4c3fc6a1f264d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 23:00:21 +0000</pubDate>
-<description>The NVIDIA modding platform lets you remaster classic games with modern graphics, and now DLSS 5 is included.</description>
-<enclosure url="https://www.engadget.com/img/gallery/nvidias-controversial-dlss-5-is-coming-to-rtx-remix-to-enhance-older-games/l-intro-1793746309.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/nvidias-controversial-dlss-5-is-coming-to-rtx-remix-to-enhance-older-games/l-intro-1793746309.jpg" medium="image"/>
-</item>
-<item>
 <title>California fights "preposterous" Trump admin demand to scrap state broadband laws</title>
 <link>https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws</link>
 <guid isPermaLink="false">87d8ed6aa2b0187cafffbf179549b93a26530f02241e335566e795c89b680d23</guid>
@@ -1157,17 +1201,6 @@
 <description>The latest updates to Windows 11 offer improvements in speed, performance, and memory management.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-multitasking.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-multitasking.jpg" medium="image"/>
-</item>
-<item>
-<title>This space company is betting its future on a propellant available everywhere</title>
-<link>https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere</link>
-<guid isPermaLink="false">d3c378a140c2811af1271b417e00ff180f5d4f29e69e102f7ed25a82cab774a6</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:50:32 +0000</pubDate>
-<description>Robert, Ryan, and Kirby Carlisle are three engineers who worked at SpaceX during the Falcon 9 era, seeing the revolution in the global launch industry from the inside. The brothers launched rockets, refurbished rockets, and sold rockets. But when it came time for them to leave SpaceX and start their own space company—a lifetime dream for the Carlisle brothers—they chose not to build rockets. Rather, they focused on spacecraft. In late 2022, the three Carlisles founded Argo Space to build infrastructure in space. Their vision was not just in-space transportation but also removing the need to use propellants from Earth to move around the heavens. They chose water, which is potentially harvestable on the Moon and found all over the Solar System, as a means of propulsion. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Roku is taking away a fan-favorite screensaver – but you have alternatives</title>
@@ -1533,17 +1566,6 @@
 <media:content url="https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19f241367cbafbef52c1dc7a882c6b69" medium="image"/>
 </item>
 <item>
-<title>Social media is full of weird video game mashups. Where are they all coming from?</title>
-<link>https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from</link>
-<guid isPermaLink="false">c3a4cf9faa6dea483a9a543f435e2fd16cf98ebd031eb399c7f0ec9b7ecc30f7</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 15:00:05 +0000</pubDate>
-<description>AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry • Don’t get Pushing Buttons delivered to your inbox? Sign up here If your social media algorithms have clocked that you’re into video games, something strange will have happened in the past few weeks. Your feed, like mine, will have been full of clips of streamers playing bizarre mashups of popular video games . Skyrim in Minecraft. Halo, except the main character is Mario. Skate 2 in Call of Duty maps. A flood of professional-looking fan-coded game mods that are mildly interesting to look at for 30 seconds, but ultimately inconsequential. Would I download a mod that lets me play Wii Bowling inside a zombie shooter? No, but I am very interested in where they came from. Of course, the answer – or at least, most of the answer – is AI. After a week of researching this (thanks especially to Replay Mode on YouTube for this informative video , which set me down this track) I now understand that these mashup mods are not just AI-generated videos, but AI-assisted coding. Basically, as of a few weeks ago, Anthropic’s Claude has become extremely good at decompiling video game code. Games are written by humans in readable code and then compiled into binary 1s and 0s that the PC or console running it can read; decompiling is the reversal of that process, revealing a game’s source code, which humans can then edit and mess around with for fun. This used to be an extremely laborious process. But now it is not, because humans aren’t doing much of it any more. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/1a3c98277d78595d1da189cd71df191cca462a56/377_0_3451_2761/master/3451.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5dca5496c8ca1353284976f83a58af9c" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/1a3c98277d78595d1da189cd71df191cca462a56/377_0_3451_2761/master/3451.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5dca5496c8ca1353284976f83a58af9c" medium="image"/>
-</item>
-<item>
 <title>Is a job guarantee the solution to mass AI unemployment?</title>
 <link>https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment</link>
 <guid isPermaLink="false">c921e5a3357873ad79dd37c735a21b7db910e8767badb4b6ed967ed7f30be0b0</guid>
@@ -1597,17 +1619,6 @@
 <description>Great hardware let down by software flaws on these pricey machines that combine ChromeOS with Android Google’s attempt to create a new type of laptop to compete with Windows and macOS machines is finally here, combining the best of ChromeOS and Android into the new Googlebook. With advanced links to Android phones and the best of Google built in, can these Googlebooks really compete with a MacBook Air or Surface Laptop? I took two for a spin to find out. For years, Chromebooks have been the boss of budget laptops, but Googlebooks take a different, far more premium approach. Made by a range of traditional PC makers, including Acer, Asus, Dell, HP and Lenovo, they start at £999 (€1,099/ $899 / A$2,299 ) – a far cry from the £160 Chromebooks. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/ee163d0f417072d3807edd7c97356a837cab552d/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcb38b8e398646ad5f379078c365a8af" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ee163d0f417072d3807edd7c97356a837cab552d/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcb38b8e398646ad5f379078c365a8af" medium="image"/>
-</item>
-<item>
-<title>Wikipedia often gets taken for granted – but its history is fascinating, and its future is fragile</title>
-<link>https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat</link>
-<guid isPermaLink="false">427bd94667dcb0e2d7abbd04073b5ef204c8b9588875cb42cfeaaab12ab72a02</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 14:00:02 +0000</pubDate>
-<description>Wikipedia’s 68m articles have been consulted trillions of times. Not bad for a website that has barely changed since it was founded 20 years ago A few years ago, I was struck by the tension between how Wikipedia was used, and how it was talked about. Everyone was on it all the time, and yet its reputation had stalled at “don’t trust it”, because it was the “free encyclopedia that anyone can edit”. Clearly people were trusting it, so much so it had become part of the fabric of everyday life since it was founded by Jimmy Wales and Larry Sanger in 2001. But despite the fact it now has been consulted trillions of times by billions of people (English Wikipedia alone is 5.2bn words long), it inspires an odd lack of curiosity. Even people donating to Wikipedia might say the money was “for the factcheckers”, though there aren’t any – not paid ones, anyway. Meanwhile, the internet in the social media era had begun to feel like a much uglier place, and some digital nostalgia was setting in: here was this holdover that had somehow survived; a website that functions – and even looks – much the same as it did 20 years ago. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/145_0_2850_2279/master/2850.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b7e188fd4a63b15d1fb57990a915ad4" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/145_0_2850_2279/master/2850.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b7e188fd4a63b15d1fb57990a915ad4" medium="image"/>
 </item>
 <item>
 <title>Apple AirPods 5 review: the best open-fit earbuds yet</title>
