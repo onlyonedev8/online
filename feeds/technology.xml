@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time</title>
-<link>https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi</link>
-<guid isPermaLink="false">c97053518751d9be92a5b127a0d5bcf15787d4e54803a2cc18aee1a8c5820c92</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 05:00:00 +0000</pubDate>
-<description>The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. But the mingling of time periods also extends to the development team. While Ocarina 's remake was led by producers Eiji Aonuma (a director on the original game who is now the franchise's steward at Nintendo) and Hidemaro Fujibayashi ( best known for directing Breath of the Wild and its sequel ), the team also featured a number of younger developers, including some who had never played the original. According to Fujibayashi, thos … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect</title>
 <link>https://www.zdnet.com/tech/linux-mint-27-release-date</link>
 <guid isPermaLink="false">a52e8bcda17070bc52f36fadc720d59a532898e1d63a9cd035382e54b833ec50</guid>
@@ -24,6 +13,17 @@
 <description>It starts with a surprise version number: Linux Mint 27 instead of 24. But the next release brings far more changes than that.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Linux-Mint-27-Nemo.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Linux-Mint-27-Nemo.jpg" medium="image"/>
+</item>
+<item>
+<title>Elon Musk’s nearly half a billion dollars in midterms spending was a flop</title>
+<link>https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis</link>
+<guid isPermaLink="false">112b14a13091e3fdb2bffeca2bb4d547e4320a22d48a0f17a81feab458d60633</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 02:00:50 +0000</pubDate>
+<description>The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidates Elon Musk set a record for election spending this year after pouring nearly half a billion dollars into backing Republicans in the US midterm elections . It turned out to be a poor investment. The SpaceX and Tesla CEO contributed at least $446m to Republican-aligned Super Pacs and groups over the course of the elections, specifically targeting several key Senate races in an effort to help the Trump administration retain Republican control of Congress. He outdid his own 2024 spending of nearly $290m. Yet as Democrats swept to power across the country on Tuesday night, it became clear that Musk would get nearly nothing in return for his hundreds of millions in spending. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/f5beb4426227616f86699d732ff704168d8ca0a1/1_0_2999_2400/master/2999.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6639cb9849b8ec327950595f7493688" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/f5beb4426227616f86699d732ff704168d8ca0a1/1_0_2999_2400/master/2999.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6639cb9849b8ec327950595f7493688" medium="image"/>
 </item>
 <item>
 <title>Uber says it alone can make robotaxis pay, hours after Waymo quit its app</title>
@@ -354,6 +354,17 @@
 <description>Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for "AI-native" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature it won't have is a screen: "Our first AI-native product ships next month. It's a tool, but one built with the personality and care that have come to define a Nothing product. It has no new screen, and it couldn't have been an app." Pei shared an image with the post that says "NOTHING(R)" in the top left corner, above an ambiguous black rounded … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple will check shared iCloud links for ‘harmful content’</title>
+<link>https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3</link>
+<guid isPermaLink="false">68bc701759f26a6fa0c9a116507d73a00f03c6f891286f42619b403924de85b3</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 18:23:37 +0000</pubDate>
+<description>Apple will start checking iCloud items that are accessible to anyone who has the link for "harmful content" starting with iOS 27.3 and other 27.3 updates, the company says. "When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and visionOS, that content is made accessible to Apple to check for harmful content," according to a support document reported on by 9to5Mac . Sharing something over iCloud with the "Anyone with the Link" permissions will also mean that it's no longer end-to-end encrypted. Apple's support document does not define what "harmful content" is. But this new app … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Boffins use machine-learning tricks to create a starlight dimmer switch</title>
@@ -1597,17 +1608,6 @@
 <description>Great hardware let down by software flaws on these pricey machines that combine ChromeOS with Android Google’s attempt to create a new type of laptop to compete with Windows and macOS machines is finally here, combining the best of ChromeOS and Android into the new Googlebook. With advanced links to Android phones and the best of Google built in, can these Googlebooks really compete with a MacBook Air or Surface Laptop? I took two for a spin to find out. For years, Chromebooks have been the boss of budget laptops, but Googlebooks take a different, far more premium approach. Made by a range of traditional PC makers, including Acer, Asus, Dell, HP and Lenovo, they start at £999 (€1,099/ $899 / A$2,299 ) – a far cry from the £160 Chromebooks. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/ee163d0f417072d3807edd7c97356a837cab552d/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcb38b8e398646ad5f379078c365a8af" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ee163d0f417072d3807edd7c97356a837cab552d/584_0_5840_4672/master/5840.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcb38b8e398646ad5f379078c365a8af" medium="image"/>
-</item>
-<item>
-<title>Wikipedia often gets taken for granted – but its history is fascinating, and its future is fragile</title>
-<link>https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat</link>
-<guid isPermaLink="false">427bd94667dcb0e2d7abbd04073b5ef204c8b9588875cb42cfeaaab12ab72a02</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 14:00:02 +0000</pubDate>
-<description>Wikipedia’s 68m articles have been consulted trillions of times. Not bad for a website that has barely changed since it was founded 20 years ago A few years ago, I was struck by the tension between how Wikipedia was used, and how it was talked about. Everyone was on it all the time, and yet its reputation had stalled at “don’t trust it”, because it was the “free encyclopedia that anyone can edit”. Clearly people were trusting it, so much so it had become part of the fabric of everyday life since it was founded by Jimmy Wales and Larry Sanger in 2001. But despite the fact it now has been consulted trillions of times by billions of people (English Wikipedia alone is 5.2bn words long), it inspires an odd lack of curiosity. Even people donating to Wikipedia might say the money was “for the factcheckers”, though there aren’t any – not paid ones, anyway. Meanwhile, the internet in the social media era had begun to feel like a much uglier place, and some digital nostalgia was setting in: here was this holdover that had somehow survived; a website that functions – and even looks – much the same as it did 20 years ago. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/145_0_2850_2279/master/2850.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b7e188fd4a63b15d1fb57990a915ad4" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/145_0_2850_2279/master/2850.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b7e188fd4a63b15d1fb57990a915ad4" medium="image"/>
 </item>
 <item>
 <title>Apple AirPods 5 review: the best open-fit earbuds yet</title>
