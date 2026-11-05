@@ -4,6 +4,94 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The Siri AI waitlist is gone in iOS 27: How to try the beta today</title>
+<link>https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27</link>
+<guid isPermaLink="false">d7537bb8d35491e34afbad9be506bdf72acfc1495180867b4cd5ce0448df63cd</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 16:08:49 +0000</pubDate>
+<description>The wait is over for trying Siri AI on iOS 27. Here’s what you need to know to get started.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg" medium="image"/>
+</item>
+<item>
+<title>Tobacco company got smoked by leaving secret recipes on a file share</title>
+<link>https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704</link>
+<guid isPermaLink="false">fce20f2bf3dfaad208534d80950e0617ecccf6912a507a4650f70d1549db8ef1</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 16:02:00 +0000</pubDate>
+<description>Welcome once again to PWNED, where all of the security victims are self-owned. Today, we celebrate a company that makes a supremely unhealthy product having a supremely unhealthy security posture. Our tale of terrible data management, once again, comes courtesy of professional pen tester and red teamer Dahvid Schloss. Assigned to find flaws in the network of a tobacco company, Schloss stumbled onto some very poorly protected trade secrets. Schloss started by probing the network with tools like Metasploit, a popular open-source pen testing app. Surprisingly, the company’s Trend Micro antivirus did not issue an alert even as he was scanning the network for vulnerabilities. He compared the process to shooting a machine gun and having no one hear it. "I'm running through this environment, and I'm basically just using the loudest toys and tools you can imagine," he told The Register. It seemed as if the client simply didn't care much. "I'm feeling like there's not a whole lot of value that I'm providing here." Schloss then asked his boss what else he could do to make his findings more useful and compelling to the client. "My senior manager turns to me and goes 'Think about what is important to this organization. If it got leaked, how detrimental would it be to their business?'" Schloss said. "I’m thinking it’s a products company. Maybe their recipes." Schloss began searching for network file shares that allowed unauthenticated or anonymous access. After discovering an open share, he scanned it using the network mapping tool Nmap . The scan revealed that ports 139 and 445 were open , indicating that the system was running the Windows SMB file sharing protocol . Despite hosting sensitive IT and HR reco rds, this specific file share had no access restrictions and was completely exposed to every employee in the company. He clicked through the directories and found a folder named “confidential." He found files in there which were named recipe, the product name, the sub product name, and the date. He opened one file and discovered that it had information about how that tobacco product was made, including the weight and volume and what percentage of each chemical it had inside. The file was marked with red letters at the top that said "Confidential" and another set at the bottom that said "Do not share." “I think we found a smoking gun here. This is pretty bad,” Schloss said. He noted that anyone on the network could simply use Windows Explorer to find the file. Schloss downloaded the file, thinking he'd be able to show it to the company to prove that the data could be exfiltrated. But his manager asked him to delete the downloaded file, because it was such sensitive information that he shouldn't retain a copy. This would later harm his ability to show that it had ever existed at all. He then told the security team at the tobacco company what he had found, expecting them to lock down all the recipe files. But when he returned to the site the next morning, he</description>
+<enclosure url="https://image.theregister.com/?imageId=5307708&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5307708&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Sony’s retro headphones brought me back to my childhood in the best way</title>
+<link>https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review</link>
+<guid isPermaLink="false">b54502054f461261249b8f58bdca10b10725ce9cfdf27f22e00956b320bc14d6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+<description>Even though I used a phone instead of a Walkman to listen on the Sony MDR-3R, the experience brought back familiar memories. Many of my childhood summer afternoons were spent riding around my hometown on my Huffy bike or, in later years, taking the bus into Harvard Square to walk around and hang out at The Garage. My Sony Walkman was always in my jacket pocket, and a pair of headphones were always on my head. For many of those years, they were a pair of Sony MDR-3L2 handed down (or maybe "borrowed") from my older brother. I wore them constantly - until the cable caught on my handlebars, pulled off my head, and I ran them over with my bike. But now I can relive those days with the release of the Sony MDR-3R wired headphones. The Sony MDR-3R are remarkably similar … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268854_Sony_MDR-3R_JHiggins_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268854_Sony_MDR-3R_JHiggins_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Camp Snap made a smaller kid-friendly version of its retro digital camcorder</title>
+<link>https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly</link>
+<guid isPermaLink="false">7c42b9bc0dfee86db3b42581f9c36b3b1d944c74f2582da861c2dde2ac2f59e6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+<description>After introducing new color options for its screen-free CS-8 video camera last month, Camp Snap announced a miniature version today that's less than half the size of the original. The new CS-8 Mini carries forward the retro design of the larger version that was inspired by Canon and Kodak Super 8mm film cameras from decades ago, but features a smaller grip that's easier for smaller hands to hold, and a step down in resolution. While the original can capture 4K videos, the Mini's 1/2.7-inch sensor is limited to 2.7K. The CS-8 Mini is available now through Camp Snap's online store and Target for $149.99 in bright blue, orange, pink, and green … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnap1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnap1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Sony's MDR-3R wired headphones are steeped in retro aesthetics</title>
+<link>https://www.engadget.com/2304149/sony-mdr-3r-wired-headphones-are-steeped-in-retro-aesthetics</link>
+<guid isPermaLink="false">30e3e9d56dd67ca26bd75b9cdd9fedec1c13c82a599b92f2aaf7f1c478493d23</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+<description>Sony has refreshed a headphone design that dates back to 1979.</description>
+<enclosure url="https://www.engadget.com/img/gallery/sonys-mdr-3r-wired-headphones-are-soaked-in-retro-aesthetics/l-intro-1793639704.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/sonys-mdr-3r-wired-headphones-are-soaked-in-retro-aesthetics/l-intro-1793639704.jpg" medium="image"/>
+</item>
+<item>
+<title>Instagram's Edits is now on desktop as a Mac app</title>
+<link>https://www.engadget.com/2307169/instagrams-edits-is-now-on-desktop-as-a-mac-app</link>
+<guid isPermaLink="false">b59d387b1d79ffc6dcfbeb1f4957526bc178f931ac6daeca533cef7204cd9c7c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+<description>Meta's CapCut competitor already has more than 50 million users.</description>
+<enclosure url="https://www.engadget.com/img/gallery/instagrams-edits-is-now-on-desktop-as-a-mac-app/l-intro-1793825322.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/instagrams-edits-is-now-on-desktop-as-a-mac-app/l-intro-1793825322.jpg" medium="image"/>
+</item>
+<item>
+<title>Memory makers mint megabucks while buyers beg for mercy</title>
+<link>https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846</link>
+<guid isPermaLink="false">9feb0dc69439ecb1e8820d35e736c2e57a96c294cf66c0dd56645d6ff7d6f1fc</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 15:07:34 +0000</pubDate>
+<description>The big memory manufacturers continue to print money at the expense of long-suffering buyers, with industry DRAM revenue approaching five times its level a year ago. Demand for datacenter capacity and AI accelerators drove the 369 percent year-over-year surge in Q3 2026, Counterpoint Research reports . "Bit shipments rose only about 4 percent this quarter, yet DRAM revenue reached nearly $200 billion, close to 5x a year ago," says Counterpoint senior analyst Jeongku Choi. "AI has turned memory from a commodity into a valuable scarce resource, and buyers are now competing for supply rather than negotiating on price. With prices still rising, suppliers are on track to set new earnings records again next quarter." As Reg readers will be well aware by now, the AI infrastructure boom has sent demand for server memory soaring. Manufacturers have prioritized more lucrative products for that market, squeezing supplies for PCs, smartphones, and other devices. The consequences have been a sharp increase in memory costs, leading to higher prices of products that use it. The average price tag for a laptop or desktop was up by double-digit percentages across Europe this summer, resulting in falling PC shipments as vendors struggled to secure supplies and buyers were put off by the expense. A similar effect has been seen in the smartphone arena, with shipments down by at least a fifth as rising memory costs squeezed budget models out of the market, leaving vendors to focus on high-end devices instead. Price increases slowed from the steep rises seen in the first half of the year, Counterpoint says, but average DRAM selling prices still reached $1.90 per gigabit and remained the main driver of revenue growth. Of the big three memory makers – the DRAMvirate, if you like – Samsung led with a 38 percent share of DRAM revenue. Separately, it forecast company-wide operating profit of about $80 billion for Q3, up from $9 billion a year earlier. SK hynix posted stronger sequential growth, helping it recover some of the share it lost earlier this year, according to Counterpoint. The firm made a $62.8 billion profit , and predicts that memory shortages will persist until at least 2030. Micron's DRAM revenue grew more slowly than rivals', but its wider business hardly suffered: fiscal fourth-quarter net profit reached $37.7 billion , exceeding its entire second-quarter revenue of $23.8 billion. Counterpoint's research director MS Hwang expects to see memory prices remaining high next year. "[High-bandwidth memory] prices, which lagged commodity DRAM this year, are now catching up. Long-term agreements (LTAs) are supporting prices, and supply will stay tight because major new fabs will not start production until 2028. LTA terms may cause results to differ between suppliers in the short term, but over time they should all follow the same upward trend," he says. That means more bad news for buyers, but more massive profits for the memory makers. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5259665&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5259665&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026</title>
+<link>https://www.theguardian.com/thefilter/2026/nov/05/best-christmas-gifts-dads-grandads-uncles-friends-uk</link>
+<guid isPermaLink="false">b993692bc29b28b5e8fb928ada60e540bcaf06b15d0dd87e3e698cce3c5e34af</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 15:00:27 +0000</pubDate>
+<description>What do you get the man who doesn’t seem to want anything? From fiery condiments to chef’s knives, slippers to portable speakers, these ideas are sure to hit the spot • The best Christmas gifts for mums in 2026 Gifts for dads, grandads and other father figures can often feel like a shot in the dark. What do you get for someone who doesn’t seem to want anything, or who already has it all? Shared experiences or promises of peace and quiet are popular options, but they are tricky to wrap. Which is where my recommendations come in. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/837ec3d7500d5e5a1162a916c5bacf44dfac1141/0_104_3885_3106/master/3885.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c115469df504309aaa7b3e4056a46b40" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/837ec3d7500d5e5a1162a916c5bacf44dfac1141/0_104_3885_3106/master/3885.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c115469df504309aaa7b3e4056a46b40" medium="image"/>
+</item>
+<item>
 <title>The hidden supply chain costs of the AI boom</title>
 <link>https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book</link>
 <guid isPermaLink="false">6167ca4f496ea89584cf01a403c9118b175366c7e19402fcc459b4d5a7baab99</guid>
@@ -81,6 +169,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nasa-x-70-image.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>The touchscreen MacBook Pro is a winner</title>
+<link>https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review</link>
+<guid isPermaLink="false">66b93d2953354f3fa9bd4eba9040dbc7f0c717d9129adc94d736afbe6b335e64</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
+<description>You can look, and you can touch. (Note: all the photos in this review are of the 16-inch PROLED Pro.) | Photo: Owen Grove / The Verge I keep forgetting the MacBook Pro with PROLED XDR Display has a touchscreen. I've been testing this new laptop, one of the most impressive Apple has ever created, for the better part of a week. I can't stop noticing some of its other features: the slimmer design, the improved display, the Dynamic Island that somehow catches my eye more than the notch ever did. But I keep forgetting that as I go about my day, I can now reach out and poke the screen. Come to think of it, that might be exactly what Apple intended. Steve Jobs said touch laptops were a bad idea; some subset of users demanded one anyway. Now the MacBook Pro has one. But not in a … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09105-edit.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09105-edit.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>The new iMac is a good desktop computer that needs a redesign</title>
 <link>https://www.theverge.com/tech/1027177/2026-imac-m6-review</link>
 <guid isPermaLink="false">763d40f793a983bbf8d72179640a790904a0a4d55caa35767a6a351c393e9f47</guid>
@@ -90,17 +189,6 @@
 <description>The 2026 iMac. I'm a simple guy. I usually work from my MacBook Neo wherever I end up sitting in my house. And while I have monitors, mice, and keyboards to plug it into, I often end up leaning over the MacBook and doing none of that. I rarely even sit at my office desk, which has done wonders for my posture. But over the past week, I've found myself returning to my desk more and more often to use Apple's latest iMac. With the iMac, I have a far bigger screen and solid built-in speakers that are much better than what I have on my laptop. When The Verge last reviewed the iMac, we asked: " Who is this for, exactly ?" It's still true that it's often cheaper a … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09145-Edit.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09145-Edit.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The M6 MacBook Pro is probably the last of its kind</title>
-<link>https://www.theverge.com/tech/1027250/m6-macbook-pro-review</link>
-<guid isPermaLink="false">0edcae6f6373fe3bfcfa280a0c23ae13a861159dc9cb896b36bd9ba244860755</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
-<description>Pictured: a great screen, best-in-class laptop, fine keyboard, and a very comfortable blanket (sold separately). | Photo: Nathan Edwards / The Verge On November 6th, Apple will release an all-new MacBook Pro. It's thinner and lighter and has a beautiful OLED touchscreen. It is very likely what every new MacBook Pro will look like in a couple of years. The M6 MacBook Pro, which is also out on the 6th, is not that laptop. Instead, it's a straightforward chip bump of Apple's entry-level MacBook Pro, in basically the same chassis Apple's been using since 2021 . Everything that was great about the M5 MacBook Pro last year, and the M4 the year before , still applies. The M6 MacBook Pro is still a great all-around computer, and a nice step up from the MacBook Air. Processor, screen, speakers, po … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>2027 Chevrolet Silverado 1500 First Drive: Big displays meet big V8s</title>
@@ -178,17 +266,6 @@
 <description>Motorola is patching a hole in its US lineup with a non-folding flagship phone, but the pricing puts this device dangerously close to the company's expensive tablet-style foldable . The long-rumored Motorola Signature 27 is real, featuring top-of-the-line specs, a super-bright OLED screen, and a ton of cameras. But all this high-end hardware won't come cheap in the age of AI. Motorola's new flagship smartphone will run a whopping $1,600 when it arrives later this month. The Signature 27 is a completely new take on flagship smartphones from Motorola, leaving behind the middling legacy of the Edge series. However, you'll still immediately clock this as a Motorola device due to its distinctive use of materials and Pantone colors. The phone is metal, ceramic, and glass, but the backs are textured polycarbonate. The device comes in Coal Smoke (black) or Capulet Olive (green) colors. The former has a "tactical weave" finish inspired by automotive design, and the latter is "textile-inspired." This device will include the Snapdragon 8 Elite Extreme Gen 6, the most powerful mobile chip Qualcomm offers right now. While some smartphones have flirted with 16GB of memory, that's less common these days. The Signature 27 will have 12GB like Samsung's base model flagships. However, there's not going to be an upgrade option for more. You will, however, get a generous 512GB of storage. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Spotify is coming to United Airlines seatbacks — with help from Starlink</title>
-<link>https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi</link>
-<guid isPermaLink="false">d1f3ad269803ae3495dd9e8e30ad0eefb7db99fcd3c5b6183b7a525dc8c6bcb9</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
-<description>United has built a custom, native Spotify app for seatback displays, allowing passengers to log directly in to their personal accounts and stream their own libraries, playlists, and video podcasts while flying 35,000 feet in the air. The new integration is being powered by Starlink's satellite Wi-Fi , which is currently being installed throughout United's entire fleet . The news marks a major shift in legacy in-flight entertainment. Gone are the days of stethoscope-style plastic tubes, armrest dials, and canned playlists. These older airplane systems were built on the assumption that flights had no internet, so all movies and music had to be … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Image-4.jpg.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Spotify is coming to United's seatback screens</title>
@@ -351,7 +428,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Thu, 05 Nov 2026 09:00:02 +0000</pubDate>
-<description>Democrats’ success was helped by popular anger over tech, AI and the super rich – life for billionaires could become much more difficult The photo of Silicon Valley centi-billionaires at Donald Trump’s inauguration – Musk, Bezos, and Zuckerberg, front row and side by side – now looks like a hitlist for a blue Congress hellbent on making life difficult for billionaires. The picture symbolized at the time the bending of the knee by the richest men in the world to its most powerful, a symbiosis of the ultra-rich. Already unfathomably wealthy, Silicon Valley tycoons believed a Maga-sized public shift to the right would enrich them even more. It did. For several years, while Trump seemed an everlasting kingmaker and AI’s expansion seemed unstoppable, their fortunes ballooned to values beyond comprehension. Elon Musk’s surpassed $1tn. Continue reading...</description>
+<description>Democrats’ success was helped by popular anger over tech, AI and the super rich – life for billionaires could become much more difficult The photo of Silicon Valley centibillionaires at Donald Trump’s inauguration – Musk, Bezos and Zuckerberg, front row and side by side – now looks like a hitlist for a blue Congress hellbent on making life difficult for billionaires. The picture symbolized at the time the bending of the knee by the richest men in the world to its most powerful, a symbiosis of the ultra-rich. Already unfathomably wealthy, Silicon Valley tycoons believed a Maga-sized public shift to the right would enrich them even more. It did. For several years, while Trump seemed an everlasting kingmaker and AI’s expansion seemed unstoppable, their fortunes ballooned to values beyond comprehension. Elon Musk’s surpassed $1tn. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/b8782004aafbc4cbcf5de4f84c322c671ea8db15/354_0_3516_2814/master/3516.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbf257f46dc0c583d7fbba6aea1fcb4e" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/b8782004aafbc4cbcf5de4f84c322c671ea8db15/354_0_3516_2814/master/3516.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbf257f46dc0c583d7fbba6aea1fcb4e" medium="image"/>
 </item>
@@ -840,17 +917,6 @@
 <media:content url="https://image.theregister.com/?imageId=261844&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Americans overwhelmingly voted against data centers in the midterms</title>
-<link>https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms</link>
-<guid isPermaLink="false">dea2c66d5b9ebf100ae783bf5fb531e7ba4a03a6b85a31c32499e45e4d601341</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 15:28:52 +0000</pubDate>
-<description>Nowhere was the rebuke stronger than the now-blue Ohio.</description>
-<enclosure url="https://www.engadget.com/img/gallery/americans-voted-overwhelmingly-against-data-centers-in-the-midterms/l-intro-1793805972.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/americans-voted-overwhelmingly-against-data-centers-in-the-midterms/l-intro-1793805972.jpg" medium="image"/>
-</item>
-<item>
 <title>The DEA banned a drug some opioid users called a miracle</title>
 <link>https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle</link>
 <guid isPermaLink="false">56b14150c097cea9151f040300284781d43b2be47fd7f61c5e43f60ae91b9c5e</guid>
@@ -970,17 +1036,6 @@
 <description>Nintendo Switch 2; Nintendo This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches. Yet the melancholy remains It’s always a worry, returning to a formative piece of art from your childhood. Will your jaded adult sensibilities render you unable to locate the magic that captivated your child self? Will revisiting it reveal that it was never actually that good, and that your tastes are built on a foundation of lies? With video games, there is the added complication of technological advancement: decades-old games can look so basic and feel so treacly to play that it’s hard to explain why they were mind-blowing at the time. Light-touch remasters aim to bring such games up to modern graphical standards without fundamentally changing them; an ambitious remake attempts to transform the work into something that can stand alongside any modern masterpiece. Ocarina of Time is the latter. And I could not be more delighted to report that it is a dream come true. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/8a2d98784a3e1b4f40da5a86e375407c004b7753/558_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=385dad3b5bac0c964ffaf14c1a5ab38e" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/8a2d98784a3e1b4f40da5a86e375407c004b7753/558_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=385dad3b5bac0c964ffaf14c1a5ab38e" medium="image"/>
-</item>
-<item>
-<title>Apple Music's upcoming feature will let you record yourself doing karaoke</title>
-<link>https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video</link>
-<guid isPermaLink="false">a4c34342cb589b9334c16841dbc016e379fb455eeca6cbc635b6c30d983be6e7</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 11:02:04 +0000</pubDate>
-<description>Apple Music will launch 'Selfie Sing' with iOS 27.3.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-musics-upcoming-feature-will-let-you-record-yourself-doing-karaoke/l-intro-1793789894.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-musics-upcoming-feature-will-let-you-record-yourself-doing-karaoke/l-intro-1793789894.jpg" medium="image"/>
 </item>
 <item>
 <title>Achieving nirvana: Enlightenment 0.28 hits the desktop</title>
@@ -1379,28 +1434,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/rm12hero.jpg" medium="image"/>
 </item>
 <item>
-<title>Broadcom denied names of cloud providers backing VMware merger challenge</title>
-<link>https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178</link>
-<guid isPermaLink="false">c9489937d4e10005b09b180e111084219bca395ae5fbbcec8f598bc8a58f3403</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 11:00:00 +0000</pubDate>
-<description>Euro cloud trade association CISPE can keep the identities of members backing its VMware merger challenge confidential from Broadcom following a ruling by the EU General Court. Cloud Infrastructure Services Providers in Europe filed an action last year seeking to annul the European Commission's approval of Broadcom's acquisition of the cloud and virtualization giant. CISPE believes the Commission erred in allowing the purchase to go ahead without imposing any conditions on Broadcom to protect the many European cloud providers and their customers who depend on VMware's software. Broadcom sought access to redacted information identifying members supporting the action, arguing that it needed the information to challenge the action's admissibility. CISPE says the ruling allows the case to proceed without disclosing those identities to Broadcom. "It is a procedural ruling on confidentiality rather than a decision on the substance of the case, but it removes the immediate obstacle to the action moving forward," a CISPE spokesperson told The Register . CISPE argued that identifying the members, which are or have been VMware customers, would expose them to a significant risk of retaliation because of Broadcom's market power. Those members had supplied information about their commercial relationships with VMware. As far as the case itself goes, CISPE says it warned the Commission that Broadcom would use VMware's pre-eminent position in the private cloud market to rewrite licensing terms and reshape the market in its favor. Just a month after Broadcom's acquisition concluded in November 2023, partners were informed that VMware's channel program was to end in early 2024, and that Broadcom was also ditching the majority of VMware's Cloud Services Providers , keeping only a select few that had the largest turnover. Despite Broadcom CEO Hock Tan publicly stating that inflating prices was not his strategy, that is what happened. AT&amp;T says that Broadcom proposed a 1,050 percent price increase , for example. Meanwhile, nine out of ten respondents to a recent survey of VMware customers said they were considering moving to alternatives. CISPE, which represents 48 cloud infrastructure service providers across the EU, says fewer than 20 European providers remain authorized to offer VMware-based services, down from more than a thousand. Commenting on the latest ruling, CISPE Secretary General Francisco Mingorance declared it a good day for the organization and for the rule of law in Europe. "The case matters even more today than when we filed it. In the three years since the European Commission waved this deal through without conditions, Broadcom has dismantled the European VMware channel ," he said . "Those excluded have until 31 March, 2027, to sell their infrastructure or their customers to a competitor chosen by Broadcom, or to close. This is the foreclosure the European Commission was warned about." We asked CISPE what outcome it hoped to achieve, nearly three ye</description>
-<enclosure url="https://image.theregister.com/?imageId=162067&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=162067&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>UK.gov lacks understanding of climate impact, says watchdog</title>
-<link>https://www.theregister.com/public-sector/2026/11/03/ukgov-lacks-understanding-of-climate-impact-says-watchdog/5306918</link>
-<guid isPermaLink="false">8d2814e26be96d276fe2c74d342d159f7ebd79456021596505065284f973202e</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 10:15:00 +0000</pubDate>
-<description>Public bodies in the UK expect higher operating costs and energy charges as a result of climate changes and the transition to lower carbon energy, but few have a good picture of the risks, according to government auditors. A new report from the National Audit Office (NAO) says some public bodies expect financial impact from the risks they identified, although bodies were often not able to cost these – even approximately. "Bodies anticipate costs to arise from damage to assets and infrastructure, driven by physical damage from extreme weather, as well as from chronic shifts to higher temperatures and more precipitation. Bodies also expect higher maintenance and repair costs, potential asset upgrades, and transition costs. Many bodies expect increased operating costs, including energy charges. Bodies controlling significant property or infrastructure are particularly concerned with decarbonization and adaptation costs," the report stated. His Majesty’s Treasury (HMT) has set out rules for climate-related financial disclosure in larger central government bodies' annual reports, which produced their first set of reports for the 2025-26 financial year. Other rules for disclosure have been in place since 2022. However, the NAO found [PDF] that understanding of the risks in the impact of climate change – increasing temperatures, higher risk of flooding, higher winds and longer droughts – was poor, as was insight into costs of moving to a low-carbon economy. "Bodies did not articulate transition risks as well as physical risks in the strategy disclosures. In the disclosures we reviewed, while several transition risks were listed, few specifics were given, unlike physical risks, which were explained in greater detail," the report from the watchdog stated. "The transition risks most frequently identified included the financial cost of transition, and supply chain disruption. Anticipated transition costs included the costs of: switching to lower-carbon energy sources, including investments in new technology; complying with new regulations; and of fluctuations in the price and availability of materials, water, energy and specialist skills," it added. Gareth Davies, head of the NAO, said: "UK public services will need to adapt to the impacts of climate change. Parliament needs clear information on the resilience of infrastructure, service provision and finances to climate change, and on how these risks are being managed." "Although public bodies are still learning how best to report their most pressing climate risks, the requirement on all large central government bodies to make such disclosures from 2025-26 is an important first step. We expect this reporting to become more useful over time." Earlier this year a report from Global Action Plan, a climate charity, claimed 84 percent of proposed datacenter developments were in areas that are already water stressed or projected to be water stressed by 2040. Water consumption by datacenters could intensify strain</description>
-<enclosure url="https://image.theregister.com/?imageId=5244794&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5244794&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Is Claude Code truly faster with message threads? I did the math on my logs</title>
 <link>https://www.zdnet.com/innovation/claude-code-message-threads-speed-test</link>
 <guid isPermaLink="false">3bd5ecdfcf1c3ea79a0953215b88dcd0c949dcbf16ae4ea1cd5a525ffedad88c</guid>
@@ -1509,28 +1542,6 @@
 <description>Today’s crop of smooth talkers tap directly into a specific evolutionary vulnerability. Here’s how to defend yourself Recently, I was alone in a bar waiting for a friend. To pass the time, I started chatting to a stranger. He had an easy, confident way of speaking, which I admired. We discussed topics I know little about: the instability of modern economies, the feasibility of commercial space travel, the likelihood of a coup in Russia. I found myself leaning in and asking questions: I felt as if I could learn a lot from this person. We eventually got to psychology, which is more my wheelhouse. I brooded about how easy it’s become for people to accept strange ideas. “Some people will believe anything,” he observed. “Some people even believe the Earth is round !” It’s increasingly difficult to ignore how fragmented and bizarre our beliefs have become. We live in our own echo chambers, defined by the channels, feeds and influencers we follow. As a result we can arrive at very polarised conclusions about vaccines, the climate, gender, geopolitics, the shape of the Earth and everything else. Disagreements on topics like these frequently damage relationships, alienate friends and estrange loved ones. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/92b7466c257758563f3be722cea9fbc03af2c6f6/159_0_1530_1224/master/1530.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dca8f0041d857cee7954ba0328bc6590" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/92b7466c257758563f3be722cea9fbc03af2c6f6/159_0_1530_1224/master/1530.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dca8f0041d857cee7954ba0328bc6590" medium="image"/>
-</item>
-<item>
-<title>A gift to scammers: why you should probably keep your birthday a secret</title>
-<link>https://www.theguardian.com/money/2026/nov/01/do-not-share-date-of-birth-online-scam-fraudsters-advice</link>
-<guid isPermaLink="false">011662a6775c12286f2cc4dae52c6e275cf7069e289494bbac833f82a0708127</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 07:00:05 +0000</pubDate>
-<description>Using a fake DOB or leaving the field blank when making an online account can offer protection from identity theft You get a call from your bank saying there has been suspicious activity on your account. They read out your name, address and date of birth so you are happy it is a legitimate caller. But you are talking to criminals who have used your date of birth as part of a web of verifying information to convince you they are someone else. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/c62b7ce125ca10fc16fa8c7e9da59a1fb4bce56c/364_0_3559_2847/master/3559.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9876d7408d70ac18c5b6067ae98b490" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/c62b7ce125ca10fc16fa8c7e9da59a1fb4bce56c/364_0_3559_2847/master/3559.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9876d7408d70ac18c5b6067ae98b490" medium="image"/>
-</item>
-<item>
-<title>Android 17 adoption hits a staggering 1% – why you really should update now</title>
-<link>https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026</link>
-<guid isPermaLink="false">d12f92c207cbae1ffc67f664d1ebf660541d0d7c000c54694c7463a945fee225</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 18:18:24 +0000</pubDate>
-<description>Only a quarter of Android phones have even made it to Android 16.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg" medium="image"/>
 </item>
 <item>
 <title>After 50 years of playing video games, I’m finally starring in one</title>
