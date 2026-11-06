@@ -4,6 +4,105 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>DigiCert admits 16-month security lapse exposed customer information</title>
+<link>https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097</link>
+<guid isPermaLink="false">f918c85d53b408b094c73a2293876a0619076facc23977c687e39ac3aa78c048</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 13:15:00 +0000</pubDate>
+<description>DigiCert has admitted that a botched server migration left an internal system exposed to the internet for more than a year, allowing an unauthorized user to access customer data, including passports, driver's licenses, and other identity documents. The certificate authority has begun notifying affected customers but has yet to disclose how many people had their information exposed. In an email seen by The Register , DigiCert confirmed the compromised information included names, business email addresses, phone numbers, and business addresses. Some records may also have contained passports, driver's licenses, utility bills, or other identification documents. "We are completing a review of identification documents to determine the specific individuals involved," DigiCert told those affected, adding that it would notify those people once the review was complete. DigiCert's incident report traces the blunder back to February 2025, when an internal business system was moved from a VPN-protected network to a different availability zone. That change also opened the system up to the public internet, where it sat for more than 16 months without DigiCert realizing. The archive used the same account management platform as DigiCert's customer-facing products, including a self-registration feature that was never supposed to be available on the internal system. This allowed outsiders to create accounts without multifactor authentication and, thanks to a separate permissions flaw, use them to browse archived customer records. DigiCert found the unauthorized accounts on June 18, 2026, but initially dismissed them as harmless because they weren't assigned to an application. A security researcher raised the alarm about the account creation issue three days later, but it took until July 2 for DigiCert to shut it down. Unfortunately, someone had already been poking around. It wasn't until October 12 that DigiCert began investigating whether customer information had actually been accessed. On October 19, it confirmed that an unauthorized account had accessed a subset of archived records between June 27 and July 2. DigiCert described the affected records as a "small proportion" of its archive but hasn't disclosed how many customers or individuals were caught up in the breach. The company did not respond to The Register ’s questions at the time of publication. DigiCert's postmortem makes for uncomfortable reading. The server move didn't get a proper security review, monitoring failed to pick up suspicious activity, and the access controls weren't much use against self-registered accounts. The company has since switched off self-registration, tightened network access, and added monitoring that might have come in handy a few months earlier. Certificate authority operations, CertCentral, and DigiCert ONE were unaffected, the company said, adding that customer credentials and issued certificates remain secure. It also found no evidence that the unauthorized account had been</description>
+<enclosure url="https://image.theregister.com/?imageId=5305665&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5305665&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Google's Find Hub can finally notify you if you've left a tracker behind</title>
+<link>https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind</link>
+<guid isPermaLink="false">fe0dd1833f873a738de553aae6817af4ebeab8b41d2c9bf144d9eacac2020a45</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 13:05:16 +0000</pubDate>
+<description>Google has rolled out 'Notify when left behind' separation alerts for your tracking devices.</description>
+<enclosure url="https://www.engadget.com/img/gallery/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/l-intro-1793970258.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/l-intro-1793970258.jpg" medium="image"/>
+</item>
+<item>
+<title>The Legend of Zelda: Ocarina of Time has revived the midnight game launch – but was it worth the wait?</title>
+<link>https://www.theguardian.com/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch</link>
+<guid isPermaLink="false">bec2e1d6fcd9236269778eb0c235d1a5a30912560eb15edd7144f43a9d9ee640</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 13:00:43 +0000</pubDate>
+<description>When our writer found himself among the hundreds on Oxford Street hoping to get their hands on early copies and collectibles, it was a heartwarming reminder of the shared experience of fandom • The Legend of Zelda: Ocarina of Time review – a dream come true It is Thursday night and I am sat blurry-eyed and runny nosed outside the Argos on Oxford Street. Incredibly, I am far from alone. This is not some strange protest against the popular retailer. When the clock strikes midnight, the lavish 4K Switch 2 remake of beloved N64 classic The Legend of Zelda: Ocarina of Time will be released, and I have joined a lengthy queue of about 500 fans desperate to snag early copies. There are similar events taking place across the world, from Melbourne to Mexico City; at key locations, Nintendo has senior executives waiting at the tills. These days, of course, most video games are bought as digital copies that download straight to your PC or console on the day of release. You don’t even have to get out of bed to start playing. But in a bygone era, when we used to go to shops to buy games, midnight launches offered a space for likeminded enthusiasts to gather and celebrate their fandom. Every Call of Duty, Halo or Grand Theft Auto release would have fans queueing outside branches of Game or Electronics Boutique, many dressed as favourite characters. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/6faa0bb9c9a766ed30a17dc1d250c2c3f315b6f4/310_0_7500_6000/master/7500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26da9aab72afe4380504b1cff1706901" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/6faa0bb9c9a766ed30a17dc1d250c2c3f315b6f4/310_0_7500_6000/master/7500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26da9aab72afe4380504b1cff1706901" medium="image"/>
+</item>
+<item>
+<title>How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’</title>
+<link>https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel</link>
+<guid isPermaLink="false">7a5edf572908d764b341052eb3262fc866f19a56c0841846a4c3c2d61786ba4e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
+<description>Note: Some spoilers for Control Resonant 's "Recursions and Iterations" mission follow. One of Control Resonant ' s most memorable missions involves time travel - kind of. There are certainly multiple timelines intersecting, or maybe overlapping, or maybe running in parallel. As protagonist Dylan Faden, you meet some of the researchers who are trapped in and investigating these timeline anomalies. Dylan's first encounter with the researchers is somehow not the researchers' first time meeting Dylan. But before we can learn much more, time glitches out, and they all turn up dead. That seems to be the end result in every timeline Dylan comes acr … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/CTRL_R_Key_Art_FINAL_4K-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/CTRL_R_Key_Art_FINAL_4K-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Samsung Galaxy Watch Ultra 2 review: The new standard for smartwatch battery life</title>
+<link>https://www.engadget.com/2306413/samsung-galaxy-watch-ultra-2-review-2026</link>
+<guid isPermaLink="false">edd0aba03bc9eeb303d4d6895411cefcde414e1ce8565a5db30cd152e2abec63</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
+<description>With its bright display and battery life, the Galaxy Watch Ultra 2 hits the sweet spot for smartwatch hardware.</description>
+<enclosure url="https://www.engadget.com/img/gallery/samsung-galaxy-watch-ultra-2-review-the-new-standard-for-smartwatch-battery-life/l-intro-1793802591.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/samsung-galaxy-watch-ultra-2-review-the-new-standard-for-smartwatch-battery-life/l-intro-1793802591.jpg" medium="image"/>
+</item>
+<item>
+<title>Home Office cloud services contract may net AWS £1B</title>
+<link>https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106</link>
+<guid isPermaLink="false">480679655b0f2cde02d40dacac456bb680170d40354b15c0f0f6e2a121300b3e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 12:47:00 +0000</pubDate>
+<description>Amazon Web Services (AWS) looks set to win more than a billion pounds of UK taxpayers' money under for a new Home Office contract for public cloud hosting. A planning notice , published on October 30, covers the renewal of the department's public cloud services, to meet its current and future hosting needs. The estimated value is £881,621,007 ($1.18 billion), which passes £1 billion once VAT is included. AWS won the existing contract with the Home Office in 2023 for about £450 million (c $603 million). The Register has asked the Home Office why the figure has risen so much, and will update this article if it responds. Once awarded, the contract is expected to run from December 2027 to December 2029, with a possible extension to December 2031 (four years in total). A market engagement event for suppliers on the G-Cloud 15 Lot 1A procurement framework is scheduled for December 8, giving bidders the chance to pitch. The Home Office would not say who else is being considered, saying it does not comment on ongoing procurement. The notice lands as digital sovereignty becomes a bigger problem in the UK and across Europe, amid suspicion that US authorities have cut off access to American technology for political reasons . A survey found that about three-quarters of businesses in the UK, France, and Germany fear Washington could abruptly sever access to the US tech platforms they rely on. Earlier this year, the Open Rights Group warned politicians that the UK is far too dependent on US technology companies to run critical operations. Whitehall is mindful of its over-reliance on American hyperscalers. As The Register revealed in 2024, the Cabinet Office admitted - in an internal document seen by us - that the government’s negotiating power had been inhibited by vendor lock-in . It said the "UK government’s current approach to cloud adoption and management across its departments faces several challenges" which combined result "in risk concentration and vendor lock-in that inhibit UK government’s negotiating power over the cloud vendors." It acknowledged "the existing dominance of AWS and Azure in the UK Government’s cloud services is set to continue." A source at one supplier that works with the public sector said the UK administration was "failing to support UK [cloud] providers, it says they can’t meet scale and that is garbage." They claimed that in many cases the government people writing the tenders are advised by professional services companies to favor the hyperscalers. The professional services companies are then "rewarded" as migration or integration partners, our source claimed. The UK government also pledged to steer more business to small-to-medium sized enterprises (SMEs) in an action plan published last month. In August it added smaller, local suppliers to G-Cloud 15 , though a place on the framework does not guarantee any business. Pledges like this are nothing new, and they have largely come to nothing, as we reported in 2005 , 2013 , 2016 ,</description>
+<enclosure url="https://image.theregister.com/?imageId=252143&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=252143&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI</title>
+<link>https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai</link>
+<guid isPermaLink="false">6271bef94c80eeb022bd6618ddcef4bd695498cdb8f3443e256be564ad9e98d1</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 12:38:05 +0000</pubDate>
+<description>Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi Elon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US. The billionaire chief executive said production of the car would stop in about the middle of next year at the company’s factory in Texas in order to use the plant for the Cybercab, its self-driving taxi. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/067248f953434b6b22df921bb895b2c6f11d1011/74_41_3730_2983/master/3730.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af7f8cae3ec2da558fca7eba338c427d" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/067248f953434b6b22df921bb895b2c6f11d1011/74_41_3730_2983/master/3730.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af7f8cae3ec2da558fca7eba338c427d" medium="image"/>
+</item>
+<item>
+<title>I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares</title>
+<link>https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor</link>
+<guid isPermaLink="false">efc37c6b93478257dfdb3c565da70d964b6c4383f7769e32b10c13131b06a5e7</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 12:30:00 +0000</pubDate>
+<description>These aren’t even all the foldables in my house right now. When I first read Allison and Nilay's Verge review of the iPhone Duo , I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels , I thought. Had they got it wrong? After a week and a half using the Duo, I know exactly what they mean - and it's not the screen's fault at all. Apps that feel comfortable on Samsung's short foldable and the similarly sized Xiaomi 18 Fold are often cramped and compact on the Duo's cover screen, robbed of screen space by a right-hand rail that most apps don't make use of anyway. That's just one of the ways that Apple's first foldable … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-android-foldables-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-android-foldables-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook</title>
+<link>https://www.theguardian.com/technology/2026/nov/06/crunchy-moms-facebook-vaccines</link>
+<guid isPermaLink="false">c5dd5cc2c50bb0213d8b25da2f9b288ad2da3ba58fb674f6fe871412f747cf2d</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 12:00:41 +0000</pubDate>
+<description>Meta says it removes content that could cause imminent physical harm – but nearly half a million members have joined a group that regularly promotes misinformation As a measles outbreak spread through Lancaster county, Pennsylvania, in August, a parent turned to a massive public Facebook group, Crunchy Moms, for advice. They were considering getting their three-year-old vaccinated, in part to protect their six-month-old. “I’m nervous for my baby,” the parent wrote. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/03a82c3073c26abbf8d1d9523115a15b393db5e5/0_0_3000_2400/master/3000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82420b8d48ad45a2633dcd6f2f465f1a" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/03a82c3073c26abbf8d1d9523115a15b393db5e5/0_0_3000_2400/master/3000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82420b8d48ad45a2633dcd6f2f465f1a" medium="image"/>
+</item>
+<item>
 <title>After printing 40,000 whistles, this is the 3D printer I’d buy</title>
 <link>https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review</link>
 <guid isPermaLink="false">e004fc474a0e67b6923f38245107f19f803ed23c186db4b56bc80534f720b59e</guid>
@@ -290,17 +389,6 @@
 <media:content url="https://image.theregister.com/?imageId=5303687&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Perplexity launches its own take on AI agents for work</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</link>
-<guid isPermaLink="false">2165b65a40c289be1bb36318e87a09af8acbd091add0493fd72ecfc8e16c3ecd</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 22:26:50 +0000</pubDate>
-<description>Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on "Teammates" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer , an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates "build on top" of Computer by offering the ability to collaborate and complete "ongoing, large-scale work." You can assign each Teammate different jobs that they can perform simultaneously - much like OpenAI's Dots and Claude Duet . Perple … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Blue Origin's New Glenn launch delay will continue into 2027</title>
 <link>https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027</link>
 <guid isPermaLink="false">bf18d677d6a1f2a696beb701d67e434b4a10c7c6d1412d9996f223376d080186</guid>
@@ -321,17 +409,6 @@
 <description>AWS Kiro, the cloud giant's AI-oriented integrated development environment, isn't the most popular code editor. That honor goes to Microsoft's Visual Studio Code, at least as measured by Stack Overflow's 2026 Developer Survey . Kiro might rank 27th among the listed IDEs, but then it's not really an IDE anymore. Having shrugged off reports that it played a role in outages last year, Kiro now styles itself "an agentic development environment" after a brief stint as " an agentic IDE ." It's also the inheritor of Amazon Q Developer coding assistant users, who have been directed to migrate to Kiro . It's also " an AI-powered development environment that helps you build software from prototype to production." It's "available as a desktop IDE, a command-line interface, a web app, a mobile app, and a personal AI agent (Crew)." Except that Kiro Crew is also "the persistent, open source development workspace." It's more agent infrastructure – an environment – that supports Kiro Web , IDE , and CLI . To help get Kiro through its identity crisis and perhaps make it more beloved, AWS is expanding Kiro's remit still further. The cloud giant is launching Kiro Crew bots, recalling similar efforts like OpenAI dots and Grok Bot , as well as Claude Duet and Meta Muse. Bots in Kiro Crew are software agents that attempt to carry out long-running tasks. "A bot is a new way to structure and drive agentic work," a Kiro blog post explains. "Instead of working in isolated sessions, each bot is a named, long-running agent that you define and customize for a specific part of your work. It has its own memory and runs its own sessions so you stop tracking them one by one. Kiro Crew already learns from how you work. Bots change where that learning lives." There's some appealing anthropomorphism to giving each agent a name and its own tools, permissions, and memories. You're suddenly surrounded by friends. The possible downside is how that gets billed – there's potential for a lot of duplicated context if your many agents process overlapping data without some form of shared cache. Given Amazon's concerns about internal token usage and developer complaints about runaway costs in Kiro, it seems other organizations might be curious about the potential expense of keeping bot memory isolated. In response to our inquiry about the cost of keeping memory separate, an AWS spokesperson said, “All of the Kiro bots bill together through a developer’s existing Kiro plan. Each bot in Kiro Crew has its own memory and sessions, and their learned context is intentionally kept separate so that what one bot learns doesn’t bleed into another’s work. However, all bots operate within the same Kiro Crew workspace, use the same harness, and have access to the same codebase, project files, MCP, skills, and tools—so they don’t need to independently rediscover your project structure.” In any event, figuring out how Kiro Crew agents are spending tokens looks likely to require analytics of some sort, becau</description>
 <enclosure url="https://image.theregister.com/?imageId=5307975&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5307975&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Salon is shutting down after 31 years</title>
-<link>https://www.theverge.com/news/1028281/salon-dot-com-shuts-down</link>
-<guid isPermaLink="false">c1bfb98653768720933a1381044135d0be59a8d23897159a8dc9ae465a5eade9</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 22:08:14 +0000</pubDate>
-<description>Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the "business realities of independent digital journalism have changed profoundly over the years," and it decided that its publishing model is "no longer sustainable." It didn't go into detail about why, but many websites are grappling with "Google Zero" and the impact of AI tools . When reached for comment, Salon general manager Amanda Wolfe pointed The Verge to today's announcement post. "Thirty-one years is a remarkable run, but what matters most is what happene … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-1.59.05-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-1.59.05-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Sony revives the original Walkman headphones, adds USB-C</title>
@@ -772,28 +849,6 @@
 <description>What do you get the man who doesn’t seem to want anything? From fiery condiments to chef’s knives, slippers to portable speakers, these ideas are sure to hit the spot • The best Christmas gifts for mums in 2026 Gifts for dads, grandads and other father figures can often feel like a shot in the dark. What do you get for someone who doesn’t seem to want anything, or who already has it all? Shared experiences or promises of peace and quiet are popular options, but they are tricky to wrap. Which is where my recommendations come in. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/837ec3d7500d5e5a1162a916c5bacf44dfac1141/0_104_3885_3106/master/3885.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c115469df504309aaa7b3e4056a46b40" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/837ec3d7500d5e5a1162a916c5bacf44dfac1141/0_104_3885_3106/master/3885.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c115469df504309aaa7b3e4056a46b40" medium="image"/>
-</item>
-<item>
-<title>WhatsApp is taking on Partiful with expanded Events feature</title>
-<link>https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature</link>
-<guid isPermaLink="false">16710384f20988498b1cf6676cf157c0b5eda926ce26ea1ca95ee85ff398e86a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
-<description>The change will allow invites to be sent to guests without WhatsApp accounts.</description>
-<enclosure url="https://www.engadget.com/img/gallery/whatsapp-is-taking-on-partiful-with-expanded-events-feature/l-intro-1793835609.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/whatsapp-is-taking-on-partiful-with-expanded-events-feature/l-intro-1793835609.jpg" medium="image"/>
-</item>
-<item>
-<title>2027 Chevrolet Silverado 1500 First Drive: Big displays meet big V8s</title>
-<link>https://www.engadget.com/2304128/2027-chevrolet-silverado-1500-first-drive</link>
-<guid isPermaLink="false">a46875754c49aa7240cc5415b384dc8e1ef5471c2594686e56fabac2ab541288</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
-<description>Chevy's new Silverado needs a few updates before it's ready for prime time.</description>
-<enclosure url="https://www.engadget.com/img/gallery/2027-chevrolet-silverado-1500-first-drive-big-displays-meet-big-v8s/l-intro-1793639408.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/2027-chevrolet-silverado-1500-first-drive-big-displays-meet-big-v8s/l-intro-1793639408.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft fixed Excel 2016 copy-paste bug. Then reintroduced it. Now it's fixed again</title>
@@ -1258,17 +1313,6 @@
 <media:content url="https://image.theregister.com/?imageId=5307591&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>French blood banks hacked in latest cyber-attack on Europe</title>
-<link>https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe</link>
-<guid isPermaLink="false">85d11dfed6fe28581708740e4ebe38579b4675ddd699bac60eafe8543241ca2e</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 13:22:28 +0000</pubDate>
-<description>Temperature and defrosting thresholds raised to ‘very high levels’ at three cold stores stocking vital blood products France’s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe. The French blood service (EFS) said temperature and defrosting thresholds had been raised to “very high levels” in the attack, adding that its alarm systems had allowed technicians to intervene before the products were compromised. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/71023ce1bb06b16b33943aaac6da2f2e793af003/414_0_4799_3840/master/4799.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a42dcf00083f010c023f8ef97c6b65a0" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/71023ce1bb06b16b33943aaac6da2f2e793af003/414_0_4799_3840/master/4799.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a42dcf00083f010c023f8ef97c6b65a0" medium="image"/>
-</item>
-<item>
 <title>America unites on one issue: Reining in datacenters</title>
 <link>https://www.theregister.com/systems/2026/11/04/america-unites-on-one-issue-reining-in-datacenters/5307536</link>
 <guid isPermaLink="false">97e7471d9904e89882ffd1591a4793eb0e9bec803e75b347a2641c68b2770852</guid>
@@ -1355,28 +1399,6 @@
 <description>China’s crewed space program has outlined plans for a moon landing it hopes to achieve by the year 2030. Deputy chief designer Wang Xiang explained the plans last weekend at an event called the Seventh Manned Space Symposium. Chinese state media has posted video of Wang discussing plans to reach Luna by launching two Long March 10 rockets. One will carry a lander named “Lanyue” and the other will hoist a crew capsule called “Mengzhou.” The two craft will meet in orbit around the Moon, where two of the three Taikonauts aboard Mengzhou will transfer to Lanyue and descend to set boot on regolith. In the video, Wang said China plans near-Earth orbit test missions for both vehicles in coming years, followed by an uncrewed visit to the Moon. If all goes well, China hopes to attempt a crewed landing by 2030. The Seventh Manned Space Symposium marked the 70th anniversary of the founding of China's space program and was also pitched as a moment for articulation of the nation’s ambitions in space under its 15 th five-year-plan, Beijing’s blueprint for the years 2026 to 2030. China called off its last moonshot in August, when authorities decided the Chang’e 7 robotic ice hunting mission “ failed to meet launch criteria ” just one day before its planned launch. The orbit required to reach the South Lunar Pole for that mission isn’t always easily accessible, so China plans to try again next year. When China tries to get Chang’e 7, Lanyue, and Mengzhou flying, it will at least have some new standards to apply to their operations after the China Manned Space Engineering Office last week published seventeen of them. One of the standards defines the architecture for Ethernet and Wi-Fi networks on China’s space station and other orbiters. Another governs signage used in orbit, in the hope that a standard means Taikonauts won’t make mistakes. A couple outline procedures for extravehicular activities, and use of a robotic arm to assist Taikonauts on such missions. Others explain the materials designers can choose from when building spacecraft. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5307462&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5307462&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>AMD on track to overtake Intel as biggest x86 outfit</title>
-<link>https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448</link>
-<guid isPermaLink="false">5d75479b3ef017f19fddbed86cd2e2ebd9e155aaa48115795e5ef46353464e40</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 04:24:06 +0000</pubDate>
-<description>AMD has predicted it will win more revenue than Intel in its next quarter, potentially marking the first time it becomes the dominant vendor whose main product is x86 processors. The house of Zen on Tuesday announced its Q3 2026 results, which saw it grow revenue 45 percent year-over-year to $13.4 billion. The company’s Data Center segment won $8.5 billion of revenue, up 97 percent year-over-year. Sales of silicon in AMD’s client and gaming segment slid eight percent to $3.7 billion, a worse fall than the five percent fall that helped to sink Intel’s share price . Intel, AMD’s great rival in the x86 market, offered revenue guidance of $15 billion to $16 billion for its next quarter, which would represent almost no growth. AMD, by contrast, told investors it expects around $17 billion of revenue next quarter. CEO Lisa Su predicted even better days are ahead. “We think 2027 is going to be a very strong momentum year for both the CPU business as well as the data center AI business,” she said on the company’s earnings call. “We have said the overall company will grow greater than 80 percent, and for the data center CPU business, we will about double, and for the data center AI business, it will significantly more than double.” Su said AMD is confident its supply chain can meet that demand. “We have worked across our supply chain to secure the wafers, substrates, advanced packaging, memory, and other key components needed to support much higher growth next year,” she said. “We are also deepening our collaboration with our supply chain partners and investing alongside them to secure the long-term capacity our growth will require.” The CEO added that AMD has “strong confidence in our ability to sustain exceptional revenue growth for years to come, with earnings growing even faster.” If those predictions are correct, AMD will likely accelerate away from Intel to become the leading provider of x86 processors after years of challenging Chipzilla's lead. Intel would still have higher overall revenue, due to its foundry operations, but in terms of revenue earned from selling chips, AMD would become the market leader. AMD is arguably already the server CPU technology leader, and while it is second to Nvidia in the GPU market has trounced Intel. Even AMD's declining client and gaming revenue has an upside because it was the gaming part of the portfolio that created the problem. PC chip sales rose seven percent year-over-year to $2.9 billion. Su said strong sales of Ryzen mobile processors drove that growth. “Commercial is becoming a larger part of our client business as large enterprises adopt Ryzen PRO PCs across their employee base,” she said, pointing to strong adoption at the world’s largest banks, automotive companies, and healthcare concerns. Big corporate buyers are often a source of bigger profits and/or steadier revenue, so AMD looks to be taking the cream off the top of the PC market rather than scrounging for SMB and retail scraps. Investors liked w</description>
-<enclosure url="https://image.theregister.com/?imageId=1662910&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=1662910&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Aussie Adobe assailant Canva announces layoffs in re-org affecting 22% of staff</title>
-<link>https://www.theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422</link>
-<guid isPermaLink="false">09897e4a0c8fc30a4dc62aedab912b1a9b0ab123a8da2c1966a887e52e7f7084</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 00:14:41 +0000</pubDate>
-<description>Australian design software maker Canva is restructuring, with 1,271 employees, or 22 percent of its workforce, facing layoffs, changes to their roles, or requests to relocate. The company, which has become a challenger to Adobe, announced the news by sharing a message that CEO Melanie Perkins sent to staff on Wednesday. That missive, titled “An important update on our team,” doesn’t mention AI but does state “New technology is transforming what people can create, how they create it, and what they expect from the products they use.” Perkins observed that Canva’s rate of growth recently slowed for the first time in a decade and shared her view that continued success won’t happen without change. “After exploring a wide range of alternatives, I've come to the difficult conclusion that small changes won’t be enough,” she wrote. “To set ourselves up for the next decade, we need to refound Canva, getting back to our roots of small, empowered teams with the freedom to make decisions, take ownership and focus on what matters most for our community.” The CEO did not say how many jobs would go, but argued the changes are necessary because the company has become inefficient. The changes will therefore see Canva combine its product, growth and platform teams into a single “Product Org,” which Perkins says means “changing the way we work to provide clearer ownership, greater autonomy and flexibility to tackle our most important goals.” She characterized the changes as “simplifying layers, consolidating overlapping responsibilities, and ensuring teams have the right mix of skills and experience for the chapter ahead.” The CEO three times described herself as “deeply sorry” for the changes. Affected staff will receive a calendar invite for an optional individual meeting with a senior leader. Remaining staff get to attend two rounds of meetings next week – one company-wide affair and another with their reorganized teams. Another of Perkins’ decisions will see Canva move more of its product teams to its headquarters in Sydney, Australia. The company will ask some staff to relocate and has promised “comprehensive support” to make that happen. Departing staff can keep their company-issued MacBooks and will receive at least six months' pay, a year of health insurance, plus various forms of support to find a new gig including a one-year membership of LinkedIn Premium. Perkins’ post does not cite financial pressures as a reason for the layoffs. Canva is privately held and does not face the same financial disclosure requirements as a listed business, but last year revealed it had 260 million monthly users and revenue of $3.5 billion. Execs have previously claimed the company is profitable on a free-cash-flow basis. Canva and Atlassian are among Australia’s most successful and celebrated technology businesses. Both have now announced job cuts this year. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5307429&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5307429&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring</title>
@@ -1533,17 +1555,6 @@
 <media:content url="https://i.guim.co.uk/img/media/c9a8dc07a79a19f5f48258e2624547ca730d1ad9/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba4d98945ed5cdee39a65c4845fc1a93" medium="image"/>
 </item>
 <item>
-<title>Why you should treat charisma as a red flag</title>
-<link>https://www.theguardian.com/science/2026/nov/01/why-you-should-treat-charisma-as-a-red-flag</link>
-<guid isPermaLink="false">c23711d422505606e80700b872e163357f08458a0999dade8c143b1524a227c9</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 12:00:12 +0000</pubDate>
-<description>Today’s crop of smooth talkers tap directly into a specific evolutionary vulnerability. Here’s how to defend yourself Recently, I was alone in a bar waiting for a friend. To pass the time, I started chatting to a stranger. He had an easy, confident way of speaking, which I admired. We discussed topics I know little about: the instability of modern economies, the feasibility of commercial space travel, the likelihood of a coup in Russia. I found myself leaning in and asking questions: I felt as if I could learn a lot from this person. We eventually got to psychology, which is more my wheelhouse. I brooded about how easy it’s become for people to accept strange ideas. “Some people will believe anything,” he observed. “Some people even believe the Earth is round !” It’s increasingly difficult to ignore how fragmented and bizarre our beliefs have become. We live in our own echo chambers, defined by the channels, feeds and influencers we follow. As a result we can arrive at very polarised conclusions about vaccines, the climate, gender, geopolitics, the shape of the Earth and everything else. Disagreements on topics like these frequently damage relationships, alienate friends and estrange loved ones. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/92b7466c257758563f3be722cea9fbc03af2c6f6/159_0_1530_1224/master/1530.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dca8f0041d857cee7954ba0328bc6590" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/92b7466c257758563f3be722cea9fbc03af2c6f6/159_0_1530_1224/master/1530.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dca8f0041d857cee7954ba0328bc6590" medium="image"/>
-</item>
-<item>
 <title>After 50 years of playing video games, I’m finally starring in one</title>
 <link>https://www.theguardian.com/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one</link>
 <guid isPermaLink="false">a63fe58e0bae833f7310bc3ad078a137c3473e440e5b8c328478808564ef3e01</guid>
@@ -1553,17 +1564,6 @@
 <description>Voicing the main character in Black Tides Draga’s Wake led to me making the kinds of noises I haven’t made since my honeymoon but also one of my favourite moments as a father “I listen to you on the radio and I keep hearing your voice in my head!” Not a typical opening to a creative partnership, but that is how Greg Strangis introduced himself to me 16 months ago, when he asked me to come to his garage in the middle of nowhere and have a look at a game he was making called Black Tides Draga’s Wake. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/305a0c442ca68d5418eb3fc87e0ac63ff6f18f58/43_0_1819_1456/master/1819.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa4f7df1a37b6a1e5af5b2778af504fd" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/305a0c442ca68d5418eb3fc87e0ac63ff6f18f58/43_0_1819_1456/master/1819.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa4f7df1a37b6a1e5af5b2778af504fd" medium="image"/>
-</item>
-<item>
-<title>Night Plane review – join the jumbo jet to hell in this indie horror head trip</title>
-<link>https://www.theguardian.com/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game</link>
-<guid isPermaLink="false">1e4c07a23d0712e582f9f8d85e6c89306449504eaa2edf23bb8df339ad921dee</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 11:00:30 +0000</pubDate>
-<description>Liquid Static Studio; PC You take on the role of flight attendant in this clever and absorbing retro-style game that veers from daft horror spoof to genuinely disturbing There was always something creepy about the job-simulator genre. All those mindless automatons queueing up to use your bus, bar or bed store, or whatever workplace you are trapped in for the duration of the game. The endless repetitive tasks. The emptiness of the world beyond your corporate existence. Together, these elements scream existential terror … which is perhaps why we are now seeing a new indie sub-genre of job sim horror games, including Home Safety Hotline, Dredge and more recently, Grease Trap ’99, a Lovecraftian mystery set in a Scottish chip shop. Now, we have Night Plane, in which you take on the role of a flight attendant on a jumbo jet to hell. It all starts kind of normally. You turn up for the first day of your new job, meet your colleagues, then take your spot at the departure gate, checking in customers and being careful to root out anyone with invalid tickets. Once on the plane, you roll your trolley down the aisle, serving booze and inedible meals, and occasionally dealing with passenger complaints. Then the plane crashes and, frankly, it all goes downhill from there. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19f241367cbafbef52c1dc7a882c6b69" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19f241367cbafbef52c1dc7a882c6b69" medium="image"/>
 </item>
 <item>
 <title>Is a job guarantee the solution to mass AI unemployment?</title>
