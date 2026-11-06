@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight</title>
+<link>https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight</link>
+<guid isPermaLink="false">79753fed7107d2cf7d116c2ea58558a20ce4f9333b239843afd13fb02ef1f77b</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+<description>null Sometimes science can seem really counter-intuitive. For example, occasionally in astronomy, you can see more with less light. Case in point: the emergence of a giant planet in observations made by the James Webb Space Telescope (JWST), when astronomers found a way to block out light from the planet's parent star. The extrasolar planet, or exoplanet , in question is 51 Eridani b (51 ERI b), a gas giant with the same mass as around 11 Jupiters that orbits a star located around 97 light-years away. 51 ERI b was discovered back in 2015 by ground-based telescopes, but the planet was missing from observations of the system made by the JWST. That wasn't a failing of the JWST itself; no one is doubting the observing capabilities of the most powerful telescope humanity has ever hoisted into orbit around Earth. Instead, it was a result of starlight from the star 51 ERI A obscuring this intimidatingly massive world. The brightest planets are 100,000 times fainter than their host stars, meaning spotting them is like observing a firefly hovering around a lighthouse. Even using a tool called a coronagraph to block the star isn't enough to reveal the planet, as that doesn't stop all the starlight. The only solution to this glaring problem is a computer program to wipe out the starlight. "For the past 20 years, astronomers have tackled this problem by observing a different star and using its image as a reference," Jason Wang of Northwestern University explained in a statement . "Then, they subtract that reference image from the original observation to remove the unwanted glare to reveal faint planets that otherwise might be hidden." There is a problem with this process, however. Even the most stable telescopes "wobble." For instance, the JWST requires cryocoolers to keep its NIRCam instrument super cold, and those coolers have little motors that can cause the mirrors to vibrate. This movement, however slight, causes a scatter in starlight. The result is enough glare remaining to obscure a planet, but Wang and colleagues developed a new approach to this problem. Telescopes their more stable digital twins The new approach taken by the team is dubbed Physics-based Learning for Imaging Planets (FLIP), and it involves creating a digital "twin" of a telescope. Essentially a virtual replica that simulates how starlight travels through the telescope's mirrors and reaches its detectors. This twin is then fine-tuned to account for millions of tiny imperfections in the original telescope. The digital twin is then tweaked until it aligns with observations from the actual telescope. Astronomers can then remove the simulated glare from the original image. To assess the validity of the technique, the researchers took a second look at JWST observations of two star systems with known exoplanets, HIP 65426 and 51 Eridani , and one system, TYC 5899, with no known planets. The researchers found that, in terms of detecting faint exoplanets, FLIP outperformed conventional image</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/wBy8Spn5h2GF3fZmTit74h-1920-80.png" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/wBy8Spn5h2GF3fZmTit74h-1920-80.png" medium="image"/>
+</item>
+<item>
+<title>M30’s Sparkling Stars</title>
+<link>https://www.nasa.gov/image-article/m30s-sparkling-stars</link>
+<guid isPermaLink="false">344d924327419a44654fb9b2604effd3e6f97899a5fdb1d166cf534e56652efc</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 06 Nov 2026 16:23:41 +0000</pubDate>
+<description>ESA/Hubble &amp; NASA, M. Libralato, G. Piotto, A. Sarajedini This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier , who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about 27,500 light-years away in the constellation Capricornus. Read more about this group of stars and what scientists can learn from it. Image credit: ESA/Hubble &amp; NASA, M. Libralato, G. Piotto, A. Sarajedini</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg?w=2048" medium="image"/>
+</item>
+<item>
+<title>What a Democratic Congress Could Mean for Science</title>
+<link>https://www.nytimes.com/2026/11/06/science/science-democrats-congress-election.html</link>
+<guid isPermaLink="false">12802f361da738a93c9103ce887a7480482ed99637690097c14f19612c33ade9</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Fri, 06 Nov 2026 16:05:48 +0000</pubDate>
+<description>Preparing to redeploy a National Science Foundation data-gathering buoy in the Pacific last month after the Trump administration ordered the network of ocean monitors dismantled earlier this year.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/06/multimedia/06SCI-BLUE-SCIENCE-01-fqwp/06SCI-BLUE-SCIENCE-01-fqwp-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/06/multimedia/06SCI-BLUE-SCIENCE-01-fqwp/06SCI-BLUE-SCIENCE-01-fqwp-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>Less than 4 minutes of vigorous exercise a day could halve your dementia risk</title>
 <link>https://www.newscientist.com/article/2597936-less-than-4-minutes-of-vigorous-exercise-a-day-could-half-your-dementia-risk</link>
 <guid isPermaLink="false">a0c2d1da562becd00bf808e93897fe9a093d9fb7eaef56ae5a6590d37c6b2e8c</guid>
@@ -37,7 +70,7 @@
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_319524460.jpg" medium="image"/>
 </item>
 <item>
-<title>Hera probe gets 1st good luck at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026</title>
+<title>Hera probe gets 1st good look at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026</title>
 <link>https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026</link>
 <guid isPermaLink="false">b891db5cc6c8095275341ccfbedd1efd0b5e1f256be4b5178cd580c05f6a3fd6</guid>
 <source>Space.com</source>
@@ -57,17 +90,6 @@
 <description>null As of 2026, Elon Musk is the world's richest man and CEO of SpaceX , Tesla, and xAI. Not only that, but he is also one of the most polarizing figures in popular culture. Some laud him as a new Magellan; the eccentric billionaire set on colonizing Mars. Others believe he should keep his eyes on the stars and stop meddling in politics. Whatever you think about Elon Musk , it has to be said that you do think about him. Perhaps that's precisely the reason that he is the subject of Alex Gibney's 4-hour documentary, detailing the astronomical rise of Musk and his metamorphosis into the polarizing figure he is today. Below, we explain how to stream "Musk" online and from anywhere with this VPN . Stream securely from anywhere with Nord VPN (75% off) When is the "Musk" release date &amp; time? "Musk" premiered in theaters on Oct. 9 and is available to buy digitally in North America from Nov. 6 at 12 a.m. ET, which is 9 p.m. PT on Nov. 5. The documentary boasts a mammoth runtime of 3 hours and 55 minutes, combining archive footage with first-person interviews. Here's how to watch "Musk" from anywhere with a VPN . How To Watch "Musk" Elon Musk poses in front of SpaceX shuttle. (Image credit: Getty Images) "Musk" is available to buy digitally in North America on Amazon Prime Video starting November 6 for $19.99. The documentary will also be available for purchase on Apple TV and Fandango at Home , also costing $19.99 Watch "Musk" on Amazon Prime: The 4-hour documentary is available to order from Amazon Prime right now. It will be available to view — after the $19.99 purchase — from November 6. If you want to stream "Musk" or any of Prime's other great films, TV shows and live sports while you're abroad, Nord VPN will let you access your subscription from anywhere in the world. Editors Choice 🟩 NordVPN – get the world's best VPN Not having a VPN is like leaving your front door wide open in a busy city – anyone can walk right in and take a peek. TechRadar regularly reviews all the biggest and best VPN providers and NordVPN is our #1 choice ✅ Up to 75% Off Today ✅ 3 Extra Months Free Get NordVPN and stream "Musk" from wherever you are. VIEW DEAL ON "Musk" trailer Who are the "Musk" cast and creators? Director Alex Gibney attending the screening of his documentary film, "MUSK" (Image credit: Getty Images) The documentary was created by Alex Gibney. the film features insights from Musk's ex-wife Justine Musk, Ashley St. Clair, Kara Swisher, Zoë Schiffer, Martin Eberhard, and Geoffrey Hinton. More from Space.com SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch SpaceX could make $500 billion in 2028, Elon Musk says We test and review VPN services in the context of legal recreational uses. For example:1. Accessing a service from another country (subject to the terms and conditions of that service).2. Protecting your online security and strengthening your online privacy when abroad.We do not support or condone the illegal or malicious use</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/QsQGiFTdPubnsXBZpoambP-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/QsQGiFTdPubnsXBZpoambP-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>What a Democratic Congress Could Mean for Science</title>
-<link>https://www.nytimes.com/2026/11/06/science/science-democrats-congress-election.html</link>
-<guid isPermaLink="false">12802f361da738a93c9103ce887a7480482ed99637690097c14f19612c33ade9</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Fri, 06 Nov 2026 13:34:29 +0000</pubDate>
-<description>Preparing to redeploy a National Science Foundation data-gathering buoy in the Pacific last month after the Trump administration ordered the network of ocean monitors dismantled earlier this year.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/06/multimedia/06SCI-BLUE-SCIENCE-01-fqwp/06SCI-BLUE-SCIENCE-01-fqwp-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/06/multimedia/06SCI-BLUE-SCIENCE-01-fqwp/06SCI-BLUE-SCIENCE-01-fqwp-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>Northern lights could reach New York and Idaho this weekend as speedy solar wind races toward Earth</title>
@@ -576,17 +598,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/H8GVsV7MCBNjGQuBJVBqxn-1920-80.png" medium="image"/>
 </item>
 <item>
-<title>NASA Announces Ka-Band Satellite Relay Awards for Space Communications</title>
-<link>https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications</link>
-<guid isPermaLink="false">cc6901236979e720406f23dd2b1dc2cfee9903d19186def326d530742f8e334a</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 18:00:02 +0000</pubDate>
-<description>Credit: NASA NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration elements, as one of many customers in the commercial marketplace. The awards, under the Next Space Technologies for Exploration Partnerships-3 Broad Agency Announcement Appendix E, are firm-fixed-price contracts that give NASA the option to provide additional funding up to the award limit to advance from initial concept development and risk reduction to an in-orbit flight demonstration. The initial period of performance runs from Nov. 4 through May 3, 2027, with additional priced options to continue work through 2029. The contract awardees with maximum potential value inclusive of all future options are: Astranis Space Technologies Corp. for $264.3 million. Global Enterprise Solutions Inc. for $340.4 million. Viasat Inc. for $460.9 million. Facilitated through the agency’s SCaN (Space Communications and Navigation) program’s Communications Services Project, this work supports NASA’s decision to gradually retire the Tracking and Data Relay Satellite fleet and adopt commercial services for future missions. In addition to the commercial capabilities currently under development by the program’s industry partners, Ka-band services are needed to support select in-orbit missions that cannot feasibly modify flight hardware or transition to non-compatible commercial services. To learn more about NASA’s Network Extension for User Continuity and Sustainability Ka-band service acquisition, visit: https://go.nasa.gov/4iVfeVB -end- Jennifer Dooren / Jessica Taveau Headquarters, Washington 202-358-1600 jennifer.m.dooren@nasa.gov / jessica.c.taveau@nasa.gov Share Details Last Updated Nov 04, 2026 Editor Jessica Taveau Location NASA Headquarters Related Terms Space Communications &amp; Navigation Program Space Communications Technology</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920" medium="image"/>
-</item>
-<item>
 <title>The Southwest Is Parched. Can the Recent Floodwaters Quench It?</title>
 <link>https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html</link>
 <guid isPermaLink="false">888a47173e05374ae5fb0b520abbbecf9b7759d4e430cdb74ccc3cc4e81fb3c8</guid>
@@ -981,17 +992,6 @@
 <description>null Rocket Lab launched its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite toward orbit. An Electron rocket lifted off from Rocket Lab's New Zealand site today at 11:41 a.m. EST (1641 GMT; 5:41 a.m. on Nov. 3 local New Zealand time). The mission, which Rocket Lab calls "The Sea God Surveys," is carrying an Earth-observing radar satellite to low Earth orbit (LEO) for the Japanese company iQPS. All went according to plan: The spacecraft was deployed at an altitude of 357 miles (575 kilometers), Rocket Lab announced about 56 minutes after launch. A Rocket Lab Electron rocket launches "The Sea God Surveys" mission for the Japanese company iQPS from New Zealand on Nov. 2, 2026. (Image credit: Rocket Lab) "The Sea God Surveys" was Rocket Lab's 10th launch to date for iQPS, which is assembling a constellation of three dozen synthetic aperture radar (SAR) satellites in LEO. SAR satellites offer advantages over those that view our planet in optical wavelengths. They can peer through cloud cover, for example, and study our planet at night as well as during the day. The patch for Rocket Lab's "The Sea God Surveys" mission, which is expected to launch on Nov. 2, 2025. (Image credit: Rocket Lab) Today's launch was the 99th overall for Rocket Lab and the 90th for the two-stage, 59-foot-tall (18 meters) Electron, which gives small satellites dedicated rides to space. The workhorse vehicle has now flown 17 times this year. Rocket Lab's other nine launches to date have been conducted by HASTE , a suborbital version of Electron that allows customers to test their tech in the hypersonic flight environment. HASTE (short for "Hypersonic Accelerator Suborbital Test Electron") debuted in June 2023 and generally flies classified payloads. Editor's note: This story was updated at 11:55 a.m. ET on Nov. 2 with news of successful launch, then again at 1 p.m. EST with news of successful satellite deployment.</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/szkgT2bv2ViuYuz35aGhGZ-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/szkgT2bv2ViuYuz35aGhGZ-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo</title>
-<link>https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo</link>
-<guid isPermaLink="false">8004ddfe3fc6a26fc61649eed440e6fb3020a3379f1fd73aa9cac0edafa81305</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Sun, 01 Nov 2026 17:00:00 +0000</pubDate>
-<description>null Metroid Prime 4: Beyond was, unfortunately, not the return many were hoping for when it finally arrived on Nintendo Switch consoles in 2025. After five years in development at Retro Studios, the original makers of the Metroid Prime series, fans were greeted with annoying side characters, a bike for Samus to roam the barren landscape on, and a deeply unsatisfying ending. It’s a shame, considering how beloved the Metroid Prime series has been since the first title’s 2002 debut for the Nintendo GameCube. Many franchises were jumping from 2D to 3D at the turn of the millennium, and there were plenty of failures — but Metroid wasn’t one of them. The two sequels would enhance how players control Samus with powerful weapons and a multiplayer mode, but the 18-year gap between Metroid Prime 3 and 4 left players expecting something special. Metroid Prime 4: Beyond’s average reception left fans wondering where the series can go next. It’s admittedly strange that Metroid Prime 2 and 3 have yet to debut on Nintendo Switch , either through the Nintendo Online service or as remasters. The Legend of Zelda: Ocarina of Time Remake has just dropped for Switch 2, and seeing Nintendo leverage one of the best games of all time for a modern take has given us an idea: let's give the Metroid Prime trilogy the remake treatment, taking inspiration from Capcom’s efforts with Resident Evil. To Prime and Beyond (Image credit: Nintendo) From 2002’s Resident Evil remake to the more recent successes with Resident Evil 2 &amp; 4, Capcom has managed to recreate the feeling and survival horror tropes of the originals while modernizing the gameplay. Whether it's the constant tension of being stalked by a Terminator-like Mr. X in 2019’s Resident Evil 2, or the palpable paranoia you feel exploring in Resident Evil 4 — the skin might be new, but the bones are undeniably "Resi." Even recently-announced Resident Evil: Veronica — whilst a remake of 1999’s Code: Veronica — looks set to be a brand new take that evokes the feeling of the original game, but brings it into the modern era. Prime 4 felt like a game out of time. Sure, it looked the part, but it felt decidedly like a GameCube game. So why not take a leaf out of Capcom's book, apply their "recapturing the vibes" mindset for a Metroid Prime Trilogy Remake, using the Prime 4 engine as its foundation. 2023’s Metroid Prime Remastered showed off the venerable title with better textures and widescreen support, but a remake powered by the fourth game’s engine could showcase the opening and Tallon IV in a whole new light. (Image credit: Nintendo) Similar to 2002’s Resident Evil Remake with the Spencer Mansion, places would feel familiar but fresh, thanks to updated graphics, better sound, and support for HD Rumble 2 that could help the player become more immersed in the game. And of course, you can change a few things to play off people's expectations. If Nintendo is feeling brave, the reimagining could even begin at the end of Zero Missi</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/FvcvGPhkRB6yaLphJfaVgA-1920-80.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/FvcvGPhkRB6yaLphJfaVgA-1920-80.jpg" medium="image"/>
 </item>
 <item>
 <title>Cyril Hilsum, Who Helped Invent Flat-Panel Displays in TVs and iPhones, Has Died at 101</title>
@@ -1410,16 +1410,5 @@
 <description>The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" medium="image"/>
-</item>
-<item>
-<title>2026 Total Solar Eclipse in Spain</title>
-<link>https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2</link>
-<guid isPermaLink="false">88facde88034cedc4ee8f0a4003b54cd7fdcd2931f77b522038da11ed4e20ede</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 12 Aug 2026 20:17:00 +0000</pubDate>
-<description>A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" medium="image"/>
 </item>
 </channel></rss>

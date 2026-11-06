@@ -4,13 +4,101 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Mac lookalikes multiply as Linux raids Apple's wardrobe</title>
+<link>https://www.theregister.com/os-platforms/2026/11/06/mac-lookalikes-multiply-as-linux-raids-apples-wardrobe/5308070</link>
+<guid isPermaLink="false">dfae031c3bdf8aa8656ad7c440b33b1ce9dc866baca00fc0a1357440a8450f6e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 17:02:00 +0000</pubDate>
+<description>Linux can do many things, but good looks aren't always its strong point. Apple has rather more of a reputation in that department, and a crop of new projects is bringing Mac-style polish to the open source desktop. Some are all-new, such as the Argentinian Lord OS , a whole new GUI desktop on top of Debian. Another, Cutefish , is a revival of a pre-ChatGPT project that never got as far as a complete release. Now it has version 1.0 for both x86-64 and Arm64, plus it's working on Mac binary compatibility via a work-in-progress layer called Reef . Ukrainian Desert OS is already at version 5.5 – practically a venerable elder in this company, despite appearing to be only about a year old. Meanwhile, ClokeOS uses Xfce for its desktop, but underneath, the OS is based on Apple's FOSS XNU kernel. The project lead plans to offer compatibility with multiple types of binaries: Linux apps, plus Mac apps via Darling , and Windows apps via Wine. This isn't new. Much as Cutefish has been revived, last year we reported on PearOS Linux , a very Mac-like skin on KDE Plasma. It has hooks in place for ambitious future features, such as Siri-style speech recognition. What's striking is the number of projects appearing and the pace of their development. Some offer both x86-64 and Arm64 builds, with Raspberry Pi editions in certain cases. For human coders, this would be months of hard work, but if it's just checking an additional box in an LLM development tool, then why wouldn't you? It's almost no extra work, but it widens the potential audience. Coveting Mac-like good looks is a longstanding urge among Linux users, and with legitimate reason. There's nothing wrong with Macs, even if you are mainly a FOSS user. Modern macOS, or OS X as it was called a decade ago, is a Unix underneath its shiny proprietary desktop, and many of the flagship Linux FOSS apps also have Mac versions, from Firefox and Thunderbird, via LibreOffice, to VirtualBox, plus less well-known but very handy apps such as Ferdium and Panwriter. We've written about the usefulness of FOSS apps on macOS before, including for reviving elderly Macs . Just a couple of months ago, we published a two-part guide on how to give Xfce a macOS-like layout and then how to tweak it so apps fit in better . We focused on the functionality, though, not the looks – we don't really care much for such things. If it does matter to you, though, you're not alone, and there are lots of themes and skins to make Xfce look prettier. Some of these are all-in-one packages that you can install on an existing distro to give it a new look. One recent example is Cupertino , developed with assistance from Claude. From a few years ago, there are Small Sur and Ventura-Xfce . From nine years ago, long pre-LLM, there is osXFCE . We can see the appeal. From 2006 to 2020, Macs used Intel x86 processors, and those machines are now all falling off the end of Apple support – only four Intel models supported last year's macOS 26 "Tahoe," support fo</description>
+<enclosure url="https://image.theregister.com/?imageId=254215&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=254215&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction</title>
+<link>https://www.theregister.com/hpc/2026/11/06/oak-ridge-labs-gets-hybrid-quantum-hpc-system-to-test-qubit-error-correction/5308187</link>
+<guid isPermaLink="false">e8b30bbe3788c2077479841100e118825babe74d53a994822caf9a8b3a3d7e25</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+<description>Oak Ridge National Laboratory (ORNL) now boasts a system for research into quantum error correction, combining IBM quantum processors with a high-performance compute (HPC) system based on AMD silicon. The Quantum Science Center ( QSC ) at ORNL, funded by the US Department of Energy (DoE), unveiled what it calls a co-design platform for quantum error correction, marrying up quantum and HPC technology. While useful, fault-tolerant quantum systems always seem to be at least a decade away, there have been notable advances over the past several years in the field of quantum error correction, according to ORNL. These include early demonstrations of protecting quantum information from environmental noise, which can cause loss of the fragile quantum states needed for computations. "Solving the challenges of quantum error correction is essential to making quantum computing a practical tool for scientific discovery, which is a priority for Oak Ridge National Laboratory," said QSC director Travis Humble. IBM Fellow and director of IBM Research Jay Gambetta said that it was no longer a question of whether error correction works, but how to accelerate and optimize error correction to build systems that scientists can use to tackle challenging problems. "This new co-design platform for quantum error correction allows us to evaluate different approaches and determine the architectures, software and workflows that will scale," he stated. ORNL's new tool combines an IBM Quantum System Two, equipped with the latest 120-qubit Nighthawk r2 quantum processors , and Umbra, a classical HPC system powered by AMD 5th Gen Epyc CPUs and Instinct MI355X GPU accelerators. According to AMD, the CPUs provide the orchestration and general-purpose performance needed to coordinate everything, while the GPUs accelerate simulation, optimization and the parallel scientific computations surrounding quantum workloads. Also part of the system are AMD Versal SoCs to provide the low-latency control, readout and decoding capabilities for the quantum circuitry. ORNL says that this brings together the computing infrastructure needed for quantum error correction in a single environment, and opens it up to more researchers than ever before. They will use it to develop and validate quantum algorithms, workflows, and applications in an environment built for quantum-centric supercomputing, an emerging paradigm where quantum processors (QPUs), CPUs, and GPUs work together as one system. IBM says that one promising approach the co-design platform cloud explore is hierarchical error correction. It describes this as using an inner code to protect qubits within a module, while an outer code wraps around the inner code’s logical qubits and adds a second layer of protection. This approach could reach a trillion logical operations at a physical error rate of one in a thousand, IBM research suggested. These hierarchical codes rely on having powerful classical compute, and the co-design platform will give</description>
+<enclosure url="https://image.theregister.com/?imageId=5308191&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5308191&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Meta’s refurbished Quest 3S headset is nearly $100 off right now</title>
+<link>https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale</link>
+<guid isPermaLink="false">9e79611492cc2656bf6721f8d23dd20507b5705d48d881c735fef0424745cc67</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 16:39:15 +0000</pubDate>
+<description>If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use coupon code SAVE20TECH . For comparison, the headset recently dropped to $300 in new condition as part of Amazon’s fall Prime Day event, and currently retails for $349.99. According to eBay, the certified refurbished headset is in “like-new” condition and has undergone professional inspection and cleaning by the manufacturer. More importantly, it comes with either original or new accessories — including a power adapter, a glasses spacer, wrist straps, etc. — alongside a two-year Allstate warranty. Meta Quest 3S Where to Buy: $349.99 $255.99 at eBay (refurbished) The Quest 3S strikes a middle ground between the Quest 3 and Quest 2. Like the pricier Quest 3, it runs on the speedy Snapdragon XR2 Gen 2 chip and supports the same library of games. It also comes with the same cameras for full-color passthrough, letting you interact with the world around you while wearing the headset. It comes with Meta’s Touch Plus controllers, though you can also use your hands to navigate menus and interact with some apps. And because it’s a standalone headset, you don’t need a PC or console to play games. However, its display resolution and optics quality are closer to the Quest 2’s, which, while good, means visuals are narrower and less sharp. Still, as we noted in our review, those trade-offs are easy to overlook given the price, especially if you’re new to VR. Read our full Meta Quest 3S review . Three more deals worth a look Philips Hue’s 80-inch Gradient Lightstrip is on sale for $83.16 ($115 off) when you buy it directly from Philips’ online storefront with code OUTLET58. The two-meter lightstrip can extend up to 10 meters and display multiple colors simultaneously, while delivering up to 1,800 lumens of brightness with customizable lighting effects. You can also control it via Alexa and Google Assistant, or using either Bluetooth or a Philips Hue Bridge. Anker’s new Desktop USB-C Hub is currently available from both Amazon and Anker (with code WSPDV2ONVYED ) for $79.99 ($20 off), which is $5 shy of its lowest price to date. The 10-in-1 hub features a built-in screen that not only displays charging speeds, but also doubles as a digital photo frame and customizable timer. It also sports an HDMI port, a DisplayPort connection, four USB ports, an ethernet jack, and SD and microSD card slots, letting you connect multiple accessories and external displays. Speaking of gadgets with personality, Orico’s adorable PixCharge Plus is on sale at Amazon in several colors for $29.99 ($50 off), its best price to date. The small, 10,000mAh power bank has a customizable 16-by-16 pixel screen that displays animations, scrolling text, and pixel art using a companion app; it also supports up to 22.5W fast-charging and comes with a buil</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Verge-Deals-Meta-Quest-3S.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Verge-Deals-Meta-Quest-3S.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Big Tech lost big in the 2026 election</title>
+<link>https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</link>
+<guid isPermaLink="false">f659f2b84ee7c4315b2e2b9f0ae1c90e7708c2d3ec8a265f2e25ca86051cc358</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 16:38:02 +0000</pubDate>
+<description>On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back , and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast , Nilay and David discuss what the 2026 midterms mean for the tech industry going forward. They dig into the self-quarantining echo chamber that is X , the congressional energy likely to be pointed at tech CEOs and AI regulation, and whether anything is actually likely to get done in the next two years. After that, the hosts turn to AI. Specifically, … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>How Akai and Moog are embracing vibe-coded mods</title>
+<link>https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai</link>
+<guid isPermaLink="false">51872e89890c6332b9ad5781289002b9b0b58b7de05cebc76f0e51c833599183</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 16:34:39 +0000</pubDate>
+<description>inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge , inMusic CEO Jack O'Donnell said, "We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can do what they want." That "toolbox" includes making the code for devices like the recently teased MPC Sample Key open source, but also offering developers an SDK to make modifications easier and lessen the risk of bricking your beloved sampler. While Akai is eager to see what the modding community cooks up, and has started s … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>RIP to the world’s ugliest car</title>
+<link>https://www.theregister.com/offbeat/2026/11/06/rip-to-the-worlds-ugliest-car/5308198</link>
+<guid isPermaLink="false">14cf281835c28c3dec35f095efe13098e2258ff01e3253377d72ba043ffb01c7</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 16:31:44 +0000</pubDate>
+<description>Elon Musk has hit the brakes on the Cybertruck, announcing on X that Tesla will wind down production at its Texas factory around mid-2027. Despite years of delays , the stainless-steel turd Musk claimed was a futuristic, apocalypse-proof tank straight out of Blade Runner is headed for a production wind-down after roughly four years, putting the Cybertruck alongside such automotive flops as the Edsel and the DeLorean. We can’t even put the Cybertruck on the same tier as the Ford Pinto, as that deathtrap was produced for a decade. The first Cybertruck lumbered off Tesla’s production line in mid-2023 before going on sale later that year , and it was practically right out of the gate that the problems began. Within months of the first deliveries, recall notices began piling up on the monstrosity. Trim pieces were flying off, internal components were failing, cameras were malfunctioning – all in all, the thing has faced 11 recalls since hitting the road in late 2023, most recently in April 2026, when a defect in brake rotors was found to potentially cause cracks that could allow wheel studs to separate from their hubs. Musk had pinned a lot of Tesla's hopes on the Cybertruck a few years ago, describing it during the company's Q3 2023 earnings call as "a great product" that would eventually generate "significant positive cash flow" for Tesla. Musk said on that same earnings call that Tesla intended to ramp Cybertruck production up to 250,000 vehicles per year by 2025 to meet the over one million Cybertruck reservations he claimed Tesla had taken. Some Musk fans may still be waiting for their Cybertrucks, while others may have canceled their reservations after reading early reviews or experiencing the reality of driving such an ugly vehicle associated with a right-wing provocateur. Tesla hasn't disclosed how many reservations were canceled or converted into sales. Even then, it was widely reported in recent years that unsold Cybertrucks were piling up around the US, with Tesla unable to move them even with repeated price reductions. Tesla has never shared Cybertruck sales numbers, but it’s estimated that only around 70,000 of the things have been sold in the past three years - not exactly a ringing endorsement of its marketability. So that’s that for the Cybertruck - it’s safe to say it’s been a total disaster for Musk and Tesla. It never sold well, never became a boat , and will likely never be remembered fondly. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=226568&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=226568&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Apple will monitor your public iCloud links now, starting with iOS 27.3</title>
+<link>https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content</link>
+<guid isPermaLink="false">32138a4506e20523712119b46a4bf5cf5ad9fe3b4cf4c783aa1af4c623b74228</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 16:21:55 +0000</pubDate>
+<description>Under Apple’s new policy, the company will scan publicly shared iCloud links for harmful content – and possibly ban violators.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/74839d13-54c0-4925-a6e5-e35574caccbc.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/74839d13-54c0-4925-a6e5-e35574caccbc.jpg" medium="image"/>
+</item>
+<item>
+<title>Eufy's clever outdoor security camera that lives inside is now available to buy</title>
+<link>https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy</link>
+<guid isPermaLink="false">b07d5443f29b1ff63951cf4243d5c73e828702948c0eb8d2d3389f53de59f210</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 16:16:20 +0000</pubDate>
+<description>The $80 Window Camera E10 sticks to your window, pointed outwards.</description>
+<enclosure url="https://www.engadget.com/img/gallery/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/l-intro-1793981717.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/l-intro-1793981717.jpg" medium="image"/>
+</item>
+<item>
 <title>Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph</title>
 <link>https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph</link>
 <guid isPermaLink="false">20e5ea8a8d5139236251f1e8103949460dc1dca1550dc3e9bdb35034926757a4</guid>
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Fri, 06 Nov 2026 15:48:36 +0000</pubDate>
-<description>Asian and European markets follow Wall Street with sharp fall as FTSE down 1.9% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday. The investor sentiment then reached London, where the market was, at one stage, poised for its worst day since March. Continue reading...</description>
+<description>Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday. The investor sentiment then reached London, where the market was, at one stage, poised for its worst day since March. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff3042c93e0c4a87dadb98b73f68be7f" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff3042c93e0c4a87dadb98b73f68be7f" medium="image"/>
 </item>
@@ -180,17 +268,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK051_VRG_Illo_N_Barclay_9_tiktok.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Amazon will let you text Alexa your shopping list</title>
-<link>https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders</link>
-<guid isPermaLink="false">58fc9a0b8ae1b3286a1ee4b2f710250b3959b96995ef957e6e39c7e1dec19a6e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
-<description>Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and order the item on the users' behalf. This launch builds on the existing Alexa for Shopping experience that launched in May, allowing users to place orders during moments where texting is more convenient than using Amazon's app or website. The contact will appear in your phone as "Amazon Alexa," and can be us … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>No more Cybertrucks; Musk moves on from the angular metallic flop</title>
 <link>https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk</link>
 <guid isPermaLink="false">3bc1e1b383733d23fa6804d84487860f3d2db09e31a455346f18333de7c97975</guid>
@@ -246,17 +323,6 @@
 <media:content url="https://i.guim.co.uk/img/media/6faa0bb9c9a766ed30a17dc1d250c2c3f315b6f4/250_238_7202_5762/master/7202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e37b4863ba9469d2fe393175d8770203" medium="image"/>
 </item>
 <item>
-<title>How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’</title>
-<link>https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel</link>
-<guid isPermaLink="false">7a5edf572908d764b341052eb3262fc866f19a56c0841846a4c3c2d61786ba4e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
-<description>Note: Some spoilers for Control Resonant 's "Recursions and Iterations" mission follow. One of Control Resonant ' s most memorable missions involves time travel - kind of. There are certainly multiple timelines intersecting, or maybe overlapping, or maybe running in parallel. As protagonist Dylan Faden, you meet some of the researchers who are trapped in and investigating these timeline anomalies. Dylan's first encounter with the researchers is somehow not the researchers' first time meeting Dylan. But before we can learn much more, time glitches out, and they all turn up dead. That seems to be the end result in every timeline Dylan comes acr … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/CTRL_R_Key_Art_FINAL_4K-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/CTRL_R_Key_Art_FINAL_4K-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Samsung Galaxy Watch Ultra 2 review: The new standard for smartwatch battery life</title>
 <link>https://www.engadget.com/2306413/samsung-galaxy-watch-ultra-2-review-2026</link>
 <guid isPermaLink="false">edd0aba03bc9eeb303d4d6895411cefcde414e1ce8565a5db30cd152e2abec63</guid>
@@ -288,17 +354,6 @@
 <description>Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi Elon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US. The billionaire chief executive said production of the car would stop in about the middle of next year at the company’s factory in Texas in order to use the plant for the Cybercab, its self-driving taxi. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/067248f953434b6b22df921bb895b2c6f11d1011/74_41_3730_2983/master/3730.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af7f8cae3ec2da558fca7eba338c427d" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/067248f953434b6b22df921bb895b2c6f11d1011/74_41_3730_2983/master/3730.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af7f8cae3ec2da558fca7eba338c427d" medium="image"/>
-</item>
-<item>
-<title>I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares</title>
-<link>https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor</link>
-<guid isPermaLink="false">efc37c6b93478257dfdb3c565da70d964b6c4383f7769e32b10c13131b06a5e7</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 12:30:00 +0000</pubDate>
-<description>These aren’t even all the foldables in my house right now. When I first read Allison and Nilay's Verge review of the iPhone Duo , I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels , I thought. Had they got it wrong? After a week and a half using the Duo, I know exactly what they mean - and it's not the screen's fault at all. Apps that feel comfortable on Samsung's short foldable and the similarly sized Xiaomi 18 Fold are often cramped and compact on the Duo's cover screen, robbed of screen space by a right-hand rail that most apps don't make use of anyway. That's just one of the ways that Apple's first foldable … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-android-foldables-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/iphone-duo-android-foldables-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook</title>
@@ -851,17 +906,6 @@
 <media:content url="https://image.theregister.com/?imageId=5230512&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Lyft's new subscription bundles in DoorDash's DashPass for $10 per month</title>
-<link>https://www.engadget.com/2307946/lyfts-new-subscription-bundles-in-doordashs-dashpass-for-dollar10-per-month</link>
-<guid isPermaLink="false">011c5e85f3c9969e93a08dba672ded617996281b85008b407ec4e3dc90267d55</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 16:29:38 +0000</pubDate>
-<description>DashPass members can get Lyft Go at no extra cost.</description>
-<enclosure url="https://www.engadget.com/img/gallery/lyfts-new-subscription-bundles-in-doordashs-dashpass-for-10-per-month/l-intro-1793896135.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/lyfts-new-subscription-bundles-in-doordashs-dashpass-for-10-per-month/l-intro-1793896135.jpg" medium="image"/>
-</item>
-<item>
 <title>The Siri AI waitlist is gone in iOS 27: How to try the beta today</title>
 <link>https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27</link>
 <guid isPermaLink="false">d7537bb8d35491e34afbad9be506bdf72acfc1495180867b4cd5ce0448df63cd</guid>
@@ -1357,28 +1401,6 @@
 <media:content url="https://image.theregister.com/?imageId=260022&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Watchdog sticks probe into Capita's handling of 1.7 million member civil service pension scheme</title>
-<link>https://www.theregister.com/public-sector/2026/11/04/watchdog-sticks-probe-into-capitas-handling-of-17-million-member-civil-service-pension-scheme/5307542</link>
-<guid isPermaLink="false">ce922e1c246a81a73ade3e60affbcf651ba95680a04a968c6339cc590b510ac6</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 12:49:00 +0000</pubDate>
-<description>Capita has repeatedly "broken" promises to resolve the "chaos" engulfing the Civil Service Pension Scheme (CSPS) following its takeover of the administration – a move that left thousands of retired public sector workers unpaid. So says Parliamentary spending watchdog, the Public Accounts Committee, which this week launched an inquiry into the handover of the ten-year £239 million contract in December from previous incumbent MyCSP. As The Register exclusively revealed , the troubles began early on as members of CSPS – which manages pensions for 1.7 million people – complained of unrecognized passwords and usernames on the portal Capita developed. Capita said it inherited 132,100 complex remediation cases, and claimed the work-in-progress backlog from the prior system was more than double the 37,000 items when it won the deal in 2023 . Capita ran to Microsoft for support , and promised the use AI and automation, in addition to its 500 full-time employees working on the project, would resolve the issues by March. It missed this deadline, as well as one set for June 30 and is set to miss March 2027 . The government subsequently withheld a £10 million payment to Capita over the CSPS fiasco. The National Audit Office, a spending regulator, has already launched its own probe into the failures and is now joined by the PAC, which says thousands of civil servants and their families have struggled to on and collect their pensions The PAC has already held three evidence sessions on Capita and the government’s efforts to ameliorate the situation. The law was changed in the Budget 2026 to mitigate the impact of administrative delays in CSPS on bereaved families. Sir Geoffrey Clifton-Brown, chair at the PAC, said in a statement: "In response to the alarming reports of hard-working civil servants being thrown into financial uncertainty following Capita’s takeover of the CSPS, we have held a number of evidence sessions with both the top leadership of Capita, and the civil servants and ministers of the Cabinet Office who have ultimate responsibility for overseeing the contract. " Over and over again, promises have been made and broken by Capita, to our faces in formal evidence sessions, that they will get a grip on what has gone wrong. As a result, we are launching an inquiry, which will be informed by the authoritative factual basis provided by the NAO, which supports the scrutiny work of this Committee." The inquiry will draw on the finding of the NAO's forthcoming report on the switch of CSPS to Capita, and will take into consideration the status of the scheme at go-live date, how Capita has performed, and the effect on CSPS members, plus take a look into the way the Cabinet Office has overseen the prior scheme and the switch to Capita. ® Updated to add at 1407 UTC: Capita has been in touch to say how "deeply sorry" it is about the "frustration" that the administration of the Civil Service Pension Scheme "has caused members and their families." It said it had "</description>
-<enclosure url="https://image.theregister.com/?imageId=230354&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=230354&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Cyberattack on French plasma stores is enough to make your blood boil</title>
-<link>https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519</link>
-<guid isPermaLink="false">2f65dd176140a8178b92f80ffe2f9447e8d913003b24a3196a9d7a4e6fc954f2</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 11:56:54 +0000</pubDate>
-<description>Attackers tampered with cold-storage settings used by France's civilian blood service after compromising a refrigeration supplier, the organization said. The French Blood Establishment (EFS) confirmed the incident on Tuesday, saying its own systems had not been directly targeted. Safeguards prevented any loss of blood products. The affected equipment stored blood samples and frozen plasma, including plasma intended for transfusion. "The EFS' monitoring and alarm systems enabled the rapid identification of these anomalies and the implementation of necessary measures to ensure that no blood samples or products were compromised," it said. "Thus, depending on the circumstances, as soon as the incident occurred, the affected equipment was either brought under control without impacting the products and samples, or neutralized; the products stored in these cold rooms were preventively transferred to other facilities." The EFS did not name the supplier publicly. According to reports, attackers changed cold-room temperature settings from -30°C to 110°C. That does not mean the equipment or its contents reached the higher temperature. The organization added that it notified the country's cybersecurity agency, ANSSI, and the Ministry of Health. News about cyberattacks targeting refrigeration devices across Europe emerged on Monday morning after retailers arrived to work, only to find puddles on the floor after cyber criminals activated defrost modes. Reports of the supermarket attacks describe remotely activated defrost cycles and temperatures as high as 50°C, forcing retailers to discard spoiled food. The attackers have not been identified. More retailers have reported disruption since the initial disclosures on Monday. Stores across Belgium, Ireland, Luxembourg, and Sweden were the first to report issues, although cases from Estonia, Finland, Germany, Portugal, Romania, and the Netherlands have since been confirmed. Richard Horne, chief executive of the UK's National Cyber Security Centre (NCSC), told BBC Radio 4's Today program on Wednesday that he was aware of "a couple of impacts" in the UK's own food supply chain. No affected UK businesses have publicly identified themselves, although the British Association of Independent Meat Suppliers (AIMS) told the BBC that some of its more than 300 members had become "collateral" in the attacks, with two reporting that their fridges had begun defrosting. The latest wave of cold-store attacks comes a month after the first, which affected French supermarket chains Carrefour, Coopérative U, Intermarché, Monoprix, and others. Both supermarket waves involved remote interference with refrigeration controls, causing stock losses. Whether the attack affecting EFS used the same access route remains unclear. Some affected chains identified Danfoss controllers in their systems; others said they did not use the company's equipment. CERT-FR published an advisory at the time of the attacks urging organizations to remediate vul</description>
-<enclosure url="https://image.theregister.com/?imageId=251685&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=251685&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>The Legend of Zelda: Ocarina of Time review – a dream come true</title>
 <link>https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch</link>
 <guid isPermaLink="false">08bc62272064cfc6ad8c5774370aece1bb25cf6405e058b1cf50efea0a14167c</guid>
@@ -1388,17 +1410,6 @@
 <description>Nintendo Switch 2; Nintendo This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches. Yet the melancholy remains It’s always a worry, returning to a formative piece of art from your childhood. Will your jaded adult sensibilities render you unable to locate the magic that captivated your child self? Will revisiting it reveal that it was never actually that good, and that your tastes are built on a foundation of lies? With video games, there is the added complication of technological advancement: decades-old games can look so basic and feel so treacly to play that it’s hard to explain why they were mind-blowing at the time. Light-touch remasters aim to bring such games up to modern graphical standards without fundamentally changing them; an ambitious remake attempts to transform the work into something that can stand alongside any modern masterpiece. Ocarina of Time is the latter. And I could not be more delighted to report that it is a dream come true. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/8a2d98784a3e1b4f40da5a86e375407c004b7753/558_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=385dad3b5bac0c964ffaf14c1a5ab38e" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/8a2d98784a3e1b4f40da5a86e375407c004b7753/558_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=385dad3b5bac0c964ffaf14c1a5ab38e" medium="image"/>
-</item>
-<item>
-<title>Achieving nirvana: Enlightenment 0.28 hits the desktop</title>
-<link>https://www.theregister.com/os-platforms/2026/11/04/achieving-nirvana-enlightenment-028-hits-the-desktop/5307329</link>
-<guid isPermaLink="false">12a24490431640d3c3b41ad662dd9dd35639f752e1552aa0b4846a3d8a18976d</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 11:00:00 +0000</pubDate>
-<description>Fresh on the desktop this week is a new version of Enlightenment as well the continuation of noughties hero KDE 3, the Trinity Desktop Environment, for those who prefer things a little old school. Enlightenment version 0.28 is the latest release of one of the older Linux graphical environments, which first appeared in 1997. Version 0.28 arrives nearly two years after the previous release – we reported on Enlightement 0.27 in January 2025. If you're not familiar with this venerable window manager, often referred to as just E, we refer you back to that article, which also explains Enlightenment's slightly strange version numbering scheme. Last time around we noted that its single-line release notes really didn't give us much to write about. The development team has made up for it this time, with some 68 lines of changes. It's both the same old E, and simultaneously a modern tool: it is still an X11 window manager, but it can also act as a Wayland compositor if you prefer. It offers conventional stacking resizable windows, but also can act as a tiling window manager if you prefer. On recent distros, it can now talk to the Pipewire audio server, and it can also work with NetworkManager to control network connections. This version delivers preliminary support for NetBSD too. This isn't really a tool for newbies or those looking for a simple easy desktop. A sign of its age is that the first-run wizard asks if you want windows to activate as soon as you move the mouse pointer over them. This was traditional 20th century Unix behavior, and in the early days of Linux it was called "focus-follows-mouse," but it's rarely seen today. E isn't a full desktop environment: it only offers a few of its own optional tools, such as the Ecrire text editor, Ephoto picture viewer, Evisum task manager, and Rage video player. Even its taskbar is optional. It is more like a basis for experienced users to customize and build their own environment around. Trinity is back The Trinity Desktop Environment has a rather lower learning curve: TDE is a port of the final version of KDE 3 to modern Linux. Proving old school is still cool, the project – which keeps the look and feel of 2005-era KDE 3.5 alive – has just announced TDE release 14.1.7 , with dozens of bug fixes and plenty of new features. Among these is a tweak to the kicker/taskbar: you can now scroll the taskbar using the mouse wheel, flicking through your open applications.This release drops support for Ubuntu 24.10 "Oracular Oriole" but adds support for the latest 26.10 "Stonking Stingray." Forks of older versions by users disenchanted with new versions are a recurring feature of the FOSS world, but they often tend to peter out after a while. TDE is one of the exceptions: we first reported on a new release in 2021 and again in 2023 . ®</description>
-<enclosure url="https://image.theregister.com/?imageId=246755&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=246755&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring</title>
@@ -1520,17 +1531,6 @@
 <description>On the heels of Anthropic’s similar move, the change will be tested among select users before being rolled out.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/gpt-4-1-makes-chatgpt-smarter-faster-and-more-useful-for-paying-users-especially-coders_50f228.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/gpt-4-1-makes-chatgpt-smarter-faster-and-more-useful-for-paying-users-especially-coders_50f228.jpg" medium="image"/>
-</item>
-<item>
-<title>Athenahealth patients can ask Claude about their medical records now</title>
-<link>https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership</link>
-<guid isPermaLink="false">b606219f4cfd94aa67750aae155bc63aa2c8b2fc84211426263e92d486248195</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 17:30:47 +0000</pubDate>
-<description>The partnership could provide one of the nation’s largest AI companies with a bevy of personal medical data.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-484453787.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-484453787.jpg" medium="image"/>
 </item>
 <item>
 <title>50 AI agents tried to build a thriving Minecraft civilization – it didn’t end well</title>
