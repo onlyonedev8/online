@@ -4,15 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Abdul El-Sayed's grandparents reflect on his historic Senate win</title>
+<link>https://abcnews.com/Politics/abdul-el-sayeds-grandparents-reflect-historic-senate-win/story?id=137926568</link>
+<guid isPermaLink="false">fd1caa490ecffad30f9366c912fed9fc2da7a9bac92f46d0cbf08955ab4f8848</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 07 Nov 2026 01:54:08 +0000</pubDate>
+<description>Judy and Jan Johnson spoke with ABC News Live about how proud they are to see their grandson, Dr. Abdul El-Sayed, be elected to Senate.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/johnson-gty-er-261106_1793999694061_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/johnson-gty-er-261106_1793999694061_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Democrats flip statehouses in midterm wave</title>
+<link>https://abcnews.com/Politics/democrats-flip-statehouses-midterm-wave/story?id=137924342</link>
+<guid isPermaLink="false">bb2c9e9485d6aa797dc3c73f458ccd4a62d81b4fe049e2169a08eb48a6d0697f</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 07 Nov 2026 01:41:28 +0000</pubDate>
+<description>The showing across the country that flipped Congress to Democratic control on Election Day also trickled down to the state and local level.</description>
+<enclosure url="https://s.abcnews.com/images/Politics/hinojosa-bottoms-ap-jef-261106_1793989272821_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/hinojosa-bottoms-ap-jef-261106_1793989272821_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Secret Service finds man parked near White House with multiple firearms: Authorities</title>
 <link>https://abcnews.com/US/man-arrested-after-secret-service-finds-parked-white/story?id=137930505</link>
 <guid isPermaLink="false">165cc305b8b8c2ec997c848de0170adbc7ed125807dcfe44dd2037cfcfb7d1bd</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Sat, 07 Nov 2026 01:11:05 +0000</pubDate>
+<pubDate>Sat, 07 Nov 2026 01:28:56 +0000</pubDate>
 <description>The suspect, Ronny Guanipa-Chrinos, allegedly made threats to kill President Donald Trump, according to DHS.</description>
 <enclosure url="https://s.abcnews.com/images/US/firearms_1794011160483_hpMain_16x9_1600.jpeg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/firearms_1794011160483_hpMain_16x9_1600.jpeg" medium="image"/>
+</item>
+<item>
+<title>Trump says chief of staff Susie Wiles out, Stephen Miller will replace her</title>
+<link>https://abcnews.com/Politics/trump-chief-staff-susie-wiles-miller-replace/story?id=137921244</link>
+<guid isPermaLink="false">2f730e18f67201e05003ba71c88e98a9167879a4a27ee4ea73e68d0830c6a264</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 07 Nov 2026 01:28:21 +0000</pubDate>
+<description>Trump said his top aide Stephen Miller will replace her in the job.</description>
+<enclosure url="https://s.abcnews.com/images/US/wiles-ap-gmh-261106_1793991411176_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/wiles-ap-gmh-261106_1793991411176_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Latino vote helped thwart Texas Republicans' redistricting effort</title>
@@ -35,17 +68,6 @@
 <description>Eddie, a 3-year-old Labrador retriever, was honored for changing the life of his legally blind owner, Luis Rodriguez, through his work as a guide dog.</description>
 <enclosure url="https://s.abcnews.com/images/US/261106_abcnl_6p_guide_dog_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261106_abcnl_6p_guide_dog_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump says chief of staff Susie Wiles out, Stephen Miller will replace her</title>
-<link>https://abcnews.com/Politics/trump-chief-staff-susie-wiles-miller-replace/story?id=137921244</link>
-<guid isPermaLink="false">2f730e18f67201e05003ba71c88e98a9167879a4a27ee4ea73e68d0830c6a264</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 23:52:38 +0000</pubDate>
-<description>Trump said his top aide Stephen Miller will replace her in the job.</description>
-<enclosure url="https://s.abcnews.com/images/US/wiles-ap-gmh-261106_1793991411176_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/wiles-ap-gmh-261106_1793991411176_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>US attorney tasked with leading probe into Trump's foes resigns from DOJ</title>
@@ -466,17 +488,6 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F64%2Fb282b384425e903e486372448a31%2Fap26310409371268.jpg" medium="image"/>
 </item>
 <item>
-<title>Judge blocks Trump arch hours after federal panel approval</title>
-<link>https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182</link>
-<guid isPermaLink="false">6503fbb0c78e6690e07a87435cdfe84c2c7d77ca8b6091591c2a8a84b66e257f</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 15:20:04 +0000</pubDate>
-<description>Ahead of the vote to grant final approval, the Vietnam vet leading a lawsuit to stop the project called it "frankly blasphemous."</description>
-<enclosure url="https://s.abcnews.com/images/Politics/arch-5-ht-gmh-260917._1789661371270_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/arch-5-ht-gmh-260917._1789661371270_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>China keeps a close eye on US midterm shake-up</title>
 <link>https://www.france24.com/en/tv-shows/access-asia/20261106-china-keeps-a-close-eye-on-us-midterm-shake-up</link>
 <guid isPermaLink="false">c2e2aac53d76b903b9d56047867881be25fbedcbacbd476ae2abc83acea34548</guid>
@@ -640,17 +651,6 @@
 <description>Danny New talks to identical twin sisters in Australia who are turning heads for their unique speech patterns.</description>
 <enclosure url="https://s.abcnews.com/images/International/261106_gmafl_twins_speak_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/International/261106_gmafl_twins_speak_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Left-leaning Washington, Colorado join conservative states in banning trans athletes</title>
-<link>https://abcnews.com/Politics/wireStory/left-leaning-washington-colorado-join-conservative-states-banning-137898149</link>
-<guid isPermaLink="false">3ab1b0843309051ffd3dc8f91ba4204aeed97ee801caccbd8089c1d489e5117d</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 07:59:48 +0000</pubDate>
-<description>Voters in Washington and Colorado have approved measures to ban transgender athletes from participating in school sports</description>
-<enclosure url="https://s.abcnews.com/images/Sports/wirestory_0a2a6d209ffb7ee552db4e5419b1e768_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Sports/wirestory_0a2a6d209ffb7ee552db4e5419b1e768_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Man jailed after he admitted murdering mother of seven 28 years ago</title>
