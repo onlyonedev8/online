@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 08 Nov 2026 13:33:00 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>Binance France emails announce closure of its users’ accounts on Dec. 31</title>
+<link>https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31</link>
+<guid isPermaLink="false">9fd2863a88f1815578e2189e8d3fc59ef9ae775c0cd0c30e9b07eb150dedb7bc</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 08 Nov 2026 12:57:51 +0000</pubDate>
+<description>Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg" medium="image"/>
+</item>
+<item>
 <title>Amsterdam protesters break into Microsoft data center construction site: Report</title>
 <link>https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report</link>
 <guid isPermaLink="false">31b2c30bb100ae8a5e4fd2e87a60ebdc17a510c9de0e08dae38674eafb1bc97e</guid>
@@ -57,17 +79,6 @@
 <description>A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2020/07/popping-bubble-1-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2020/07/popping-bubble-1-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sat, 07 Nov 2026 14:22:00 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>Ex-FBI counterintelligence agent stole almost $2.5M in crypto</title>
@@ -761,17 +772,6 @@
 <description>Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QCQ9E3FBH5XSMVA720JM6M/cold-storage.jpg" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QCQ9E3FBH5XSMVA720JM6M/cold-storage.jpg" medium="image"/>
-</item>
-<item>
-<title>Core Scientific to quit Bitcoin mining by year-end as AI business surges</title>
-<link>https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges</link>
-<guid isPermaLink="false">66c499dd7a861c1fcabebd2380dfc805dcdfcfda4c3d25d6dd941264cc20a8db</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 00:19:49 +0000</pubDate>
-<description>The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Q3CQMWTQJT7XAQTHW92TAX/bitcoin-5.jpg" medium="image"/>
 </item>
 <item>
 <title>Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup</title>
