@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Yes, it runs 'Doom': Satellite plays iconic game in world's 1st demonstration of orbital voice control</title>
+<link>https://www.space.com/space-exploration/satellites/yes-it-runs-doom-satellite-plays-iconic-game-in-worlds-1st-demonstration-of-orbital-voice-control</link>
+<guid isPermaLink="false">fe24496c78ff136dbaac9fba326639ab4b61b7b3ee02f464b48ad73f739a3c92</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+<description>null A satellite went knee-deep in the dead, after a voice command from the ground activated the Doom video game in space. Playing a first-person shooter from 1993 was obviously not in the design plan for the PRETTY cubesat , which is run by a consortium including the European Space Agency (ESA). But the pioneering voice command opens up new worlds for satellite work, the team says. "Someone in distress at sea or in a remote area could transmit 'mayday' or "help" on a radio," stated Estonia's Tanagra Space, which supplied the software for the feat. The hope is one day, a satellite could use transcription and AI to alert rescue services for assisting folks in remote zones. The call to play Doom, thankfully, had no other urgency than curiosity — and teamwork, fueled by pizza. OPS-SAT Space Lab managed the experiment on behalf of ESA. Radio amateurs then made six unsuccessful attempts during passes over Poland and Norway, between April and July. The seventh finally reached success under the Oslo Group of the Norwegian Radio Relay League. "We are radio amateurs, with the emphasis on amateurs. Satellite work was not something our club did, and we had no budget for it," representative Eskil Hadland, call sign LB6AJ, said in the Tangara statement. "So we borrowed a line wrongly credited to Pippi Longstocking: 'I have never tried that before, so I should definitely be able to do that.'" The Norwegians spent 59 days and about 7200 NOK or $775 (pizza included) to reach PRETTY, helping make changes to the satellite software to pick up a voice. For example, a raw recording of an attempt on July 3, retransmitted to Earth, showed the spoken words to space were unrecognizable. Further work revealed the satellite's receiver channel was too wide to pick up the voice signal, leading to a fix to narrow the channel. The historic voice command on July 27— in part, "PRETTY play Doom Doom Doom"— came from a rooftop in Oslo, and was spoken at night by Jon Bergli Heier (LB9BJ). PRETTY picked up the transmission, transcribed the command using on-board voice recognition, and then — just like a typical evening gamer—opened up Doom for a play session. A member of the LB9BJ team speaks the command that activated Doom on the OPS-SAT PRETTY satellite while on a rooftop in Oslo, Norway during an evening pass of the spacecraft on July 27, 2026. (Image credit: Truls Johansen (LA7IJ), LA4O) This was no multiplayer gaming situation, but the satellite did create a report of its demon-slaying skills — and its ability to interpret the command. For example, PRETTY generated a "postcard" including a frame of the gameplay, a transcription, and signal diagnostics. The satellite also transmitted its recording of Hadland's command. As anybody who uses voice-recognition software knows, there are challenges in transcriptions: nobody speaks in exactly the same way, and aspects such as accent or background noise can lead to misinterpretations. The satellite also had to contend with Doppler shift</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/oWcmaWi2LdM5H8pBbzoGpg-1920-80.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/oWcmaWi2LdM5H8pBbzoGpg-1920-80.jpg" medium="image"/>
+</item>
+<item>
+<title>How Did Greek Fire Work? And 6 Other Lost Inventions.</title>
+<link>https://www.nytimes.com/2026/11/09/science/lost-inventions-to-time-greek-fire-antikythera.html</link>
+<guid isPermaLink="false">db86d12bdd96a13ea618d6305d635ab9691678ec475e48bff83617d5b11a91dd</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Mon, 09 Nov 2026 10:00:10 +0000</pubDate>
+<description>Even once-widespread innovations have been forgotten, leaving scholars puzzling over the details.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/09/science/09SCI-UNKNOWNS-LOST-top2/09SCI-UNKNOWNS-LOST-top2-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/09/science/09SCI-UNKNOWNS-LOST-top2/09SCI-UNKNOWNS-LOST-top2-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>APOD: 2026 November 9 – Rigel and the Witch Head Nebula</title>
 <link>https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula</link>
 <guid isPermaLink="false">026599d1fc59a624221a9aff6bbdc17927ffa9ba4c2ea83234e1454424f34c29</guid>
@@ -189,17 +211,6 @@
 <description>Artist’s concept of living and working at Moon Base. Credit: NASA NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on the Moon’s South Pole. The agency shared the news at the MAX POWER aerospace expo and air show at NASA’s Kennedy Space Center in Florida. “We are building the Moon Base mission by mission,” said NASA Administrator Jared Isaacman. “Today’s announcements expand nearly every part of that campaign, using the playbook that carried NASA through its greatest eras: fly often, learn, apply those lessons, and get more better and more capable with every mission. When our astronauts return to the Moon, they will arrive with the first elements of the Moon Base already waiting for them on the surface.” “In the eight months since Ignition, we’ve made incredible strides in accomplishing the near impossible: establishing a permanent outpost on the lunar surface,” said Carlos García-Galán, manager, Moon Base Program. “We’ve consolidated numerous efforts into a streamlined program, evolving our human exploration architecture into an iterative and sustained campaign for Moon Base technology development and implementation. Most importantly, we’ve taken action, awarding new contracts and forging new partnerships to accelerate development.” Moon Base cargo landers To strengthen the cargo lander network needed to support the Moon Base, NASA selected eight companies for the next phase of its CLPS ( Commercial Lunar Payload Services ) initiative. The companies are eligible to compete for future lunar surface delivery missions under the new CLPS 2 contract: Blue Origin Firefly Aerospace Intuitive Machines ispace-U.S. Lockheed Martin Space Northrop Grumman Space Systems SpaceX Voyager Technologies Under the CLPS 2 framework, the companies will provide lunar delivery services, including managing, building, and operating landers that transport NASA science, technology, and infrastructure payloads to the Moon. The CLPS 2 framework is a 10-year, multiple-award, indefinite-delivery/indefinite-quantity master contract with a combined maximum value of $10 billion. NASA increased the value of the current CLPS 1.0 contract from $2.6 billion to $4.2 billion to support initial Phase One Moon Base objectives. The original CLPS contract will remain in place through November 2028, with an additional five-year period to complete awarded lunar deliveries through November 2033. Nuclear-powered Moon rover NASA also announced it is moving forward with development of PROMISE (Polar Rover for Observation, Mapping, and In-Situ Exploration) . Carrying science instruments and technology demonstrations, the six-wheeled rover will land at the Mo</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg?w=1936" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg?w=1936" medium="image"/>
-</item>
-<item>
-<title>NASA Seeks Next Generation of Explorers to Join Astronaut Corps</title>
-<link>https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps</link>
-<guid isPermaLink="false">db559fb332acc86803509505cdda1645f5eab1868bba91334d8abfd00aa04c7d</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Sat, 07 Nov 2026 18:11:57 +0000</pubDate>
-<description>NASA announced its 2025 Astronaut Candidate Class on Sept. 22, 2025, at the agency’s Johnson Space Center in Houston. Credit: NASA/Helen Arase Vargas NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation of astronauts will train to operate on the lunar surface, live and work beyond Earth, and take on missions that will push the boundaries of human exploration farther than ever before. U.S. citizens interested in joining the astronaut corps have until 11:59 p.m. EST Thursday, Dec. 3, to submit their completed application materials at: https://go.nasa.gov/3WyvlQi “This is an extraordinary time to join NASA’s astronaut corps,” said NASA Administrator Jared Isaacman. “The people we select could walk on the Moon, live and work at the Moon Base, and help pioneer the systems and operations that will ultimately carry crews to Mars. Those missions will demand technical excellence, sound judgment, teamwork, and courage. NASA’s astronaut corps has always called on remarkable Americans willing to take on extraordinary challenges in service to the nation. If you are ready to join that tradition, come help write the next chapter of humanity’s greatest adventure.” NASA expects to make its final selection in late 2027 to begin training as the next class of astronaut candidates. “The window is open. The mission is waiting. And the only thing missing from the greatest adventure humanity has ever embarked upon is you,” said NASA Deputy Administrator Matt Anderson. The agency last opened applications in 2024. From more than 8,000 applications, 10 astronaut candidates were selected in 2025 and are currently completing nearly two years of training. “For those who apply, becoming a NASA astronaut is more than a career opportunity,” said Scott Tingle, chief astronaut and chair of the Astronaut Selection Board at NASA’s Johnson Space Center in Houston. “It is a chance to join a legacy of explorers who have pushed the boundaries of discovery and play a role in the missions that will shape humanity’s future in space. The next generation of astronaut candidates could help write history while inspiring future scientists, engineers, and explorers.” Since the 1960s, NASA has selected 370 people to train as astronaut candidates for its increasingly challenging missions. The agency has 32 astronauts active in the astronaut corps, and selected applicants will join their ranks to study spacewalking, lunar geology, operations of high-performance aircraft, and more. The basic requirements to apply include United States citizenship and a master’s degree in a STEM field, including engineering, biological science, physical science, or computer science from an accredited institution. The requirement for the master’s degree can</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920" medium="image"/>
 </item>
 <item>
 <title>This Week In Space podcast: Episode 235 — Robots in Dark and Scary Places</title>
@@ -675,17 +686,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/U2PDPzZUMVdreB2FZaWuRe-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>Midwestern City Lights</title>
-<link>https://www.nasa.gov/image-detail/iss075e0227352</link>
-<guid isPermaLink="false">24d5ee144c92ac09a7214cbf060670586f0131f45d709ccb59b218bdeac99199</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 05 Nov 2026 15:23:00 +0000</pubDate>
-<description>City lights from the midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg" medium="image"/>
-</item>
-<item>
 <title>NASA's Voyager 1 probe bounces back from communications glitch in interstellar space</title>
 <link>https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space</link>
 <guid isPermaLink="false">078304216babd00e635f5771b6d6d457b739280180ec7a975abec57f8f37725b</guid>
@@ -972,17 +972,6 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/KckHSz3cKUaFQJHGiYko5E-1920-80.png" medium="image"/>
 </item>
 <item>
-<title>Voting in space: NASA astronauts cast ballots from International Space Station</title>
-<link>https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station</link>
-<guid isPermaLink="false">e993c127defb363d514e8c6c687dc8bd641814348b24de21e406d0b8c108c16f</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Tue, 03 Nov 2026 20:46:36 +0000</pubDate>
-<description>null The three Americans currently living off Earth just made sure their electoral voices were heard. Anil Menon told us today (Nov. 3) that he and fellow NASA astronauts Luke Delaney and Jessica Watkins voted in the U.S. midterm elections from the International Space Station (ISS). "Yes, you can even vote from space! All three U.S. crew members had the privilege of voting from space station. We filled out an electronic ballot and sent it securely to the election officials," Menon wrote in an X post this morning . Yes, you can even vote from space! All three US crew members had the privilege of voting from space station. We filled out an electronic ballot and sent it securely to the election officials. https://t.co/hJCExQ2nKr November 3, 2026 That post included a 29-second video, in which Menon — wearing, like many of us today, an "I voted" sticker — shows us his "voting booth." It's actually his room on the ISS, Menon explained. "Inside of it is my computer, where I was able to fill out an electronic form and send it to Harris County so I could vote today," he said. Most NASA astronauts register to vote in Texas' Harris County; it's home to Johnson Space Center in Houston, the agency's human spaceflight hub. Americans have been able to vote from space since 1997, when Texas passed a law allowing this to happen. The first person to take advantage of the legislation was NASA astronaut David Wolf, who cast his ballot from Russia's Mir space station that same year. (The ISS didn't welcome its first crew until November 2000.) "Just like any other American away from home, astronauts may fill out a Federal Post Card Application to request an absentee ballot," NASA officials wrote in an astronaut-voting explainer . The process is somewhat involved, however. "After an astronaut fills out an electronic ballot aboard the orbiting laboratory, the document flows through NASA's Tracking and Data Relay Satellite System to a ground antenna at the agency's White Sands Test Facility in Las Cruces, New Mexico," they added. "From New Mexico, NASA transfers the ballot to the Mission Control Center at NASA Johnson and then on to the county clerk responsible for casting the ballot. To preserve the vote's integrity, the ballot is encrypted and accessible only by the astronaut and the clerk." NASA's Near Space Network enables astronauts on the International Space Station to communicate with Earth and electronically deliver ballots from space. (Image credit: NASA) Delaney and Watkins launched to the ISS on Oct. 1 on SpaceX's Crew-13 mission . Menon has been there since mid-July, arriving aboard a Russian Soyuz spacecraft . The trio currently share the orbiting lab with four other people — Canadian Space Agency astronaut Joshua Kutryk and cosmonauts Anna Kikina, Pyotr Dubrov and Sergey Teteryatnikov. Kutryk and Teteryatnikov are members of Crew-13, whereas Dubrov and Kikina shared the Soyuz with Menon.</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/byYSzbjGdja3wYE4YsFdn8-1920-80.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/byYSzbjGdja3wYE4YsFdn8-1920-80.jpg" medium="image"/>
-</item>
-<item>
 <title>The Election Day Edition</title>
 <link>https://www.nytimes.com/2026/11/03/climate/climate-midterm-elections.html</link>
 <guid isPermaLink="false">c8adaddab910c7bc176e718f3ebad524d76c40fc8bfc1d9366c70ada6591b72e</guid>
@@ -1003,17 +992,6 @@
 <description>Representative Tim Walberg, Republican of Michigan, led the House committee whose recent report accused the American Psychological Association of antisemitism.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/02/multimedia/WELL-APA-ANTISEMITISM1-vbjl/WELL-APA-ANTISEMITISM1-vbjl-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/02/multimedia/WELL-APA-ANTISEMITISM1-vbjl/WELL-APA-ANTISEMITISM1-vbjl-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Astronaut and Earth</title>
-<link>https://www.nasa.gov/image-detail/iss075e0253663</link>
-<guid isPermaLink="false">c70a42f810f4215f1a0926ddb5ebabe98002153767b51deb9e952ed05c095161</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 03 Nov 2026 16:38:00 +0000</pubDate>
-<description>CSA (Canadian Space Agency) astronaut and Expedition 75 flight engineer Joshua Kutryk is pictured during a spacewalk with his spacesuit's helmet visor down to install a new roll-out solar array on the International Space Station's port side truss structure.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg" medium="image"/>
 </item>
 <item>
 <title>Investigators Looking for Cause of Learjet Crash Say Ice Was ‘Certainly a Factor’</title>
@@ -1038,28 +1016,6 @@
 <media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-NEANDERTHAL-WOOD-01-kglw/03SCI-NEANDERTHAL-WOOD-01-kglw-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
-<title>Do Animals Grieve?</title>
-<link>https://www.nytimes.com/2026/11/02/science/animals-grief-death.html</link>
-<guid isPermaLink="false">3f23d9be30586ac9adab2f78470a9a36c4e978aa259e317a90dafc4897a990bf</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 19:42:22 +0000</pubDate>
-<description>The feeling of existential loss was long thought to be uniquely human. But studies of coyotes, cockatoos and other creatures are prompting some scientists to reconsider.</description>
-<enclosure url="https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's CHAPEA Crew "Returns" to Earth</title>
-<link>https://www.nasa.gov/image-detail/chapea-mission-2-crew-poses-outdoors-after-exiting-habitat</link>
-<guid isPermaLink="false">42d5b470a57d74bb57c782db30c834a3a1f974e8a3cb0316c15916ee1372c66b</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 18:51:00 +0000</pubDate>
-<description>The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg" medium="image"/>
-</item>
-<item>
 <title>Is There Anything Left in the Dream of Cold Fusion?</title>
 <link>https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102</link>
 <guid isPermaLink="false">7d4b212037cf07a38a7823585c5fd8d8cd6e06846dd402ceee155b517ebd2060</guid>
@@ -1069,17 +1025,6 @@
 <description>Cold fusion: Now there’s an idea I hadn’t thought about in a while. It came back onto my radar in spring 2026. I had written an article on how scientists tend to be risk averse, and Huw Price, a philosopher at Trinity College at the University of Cambridge, responded to it on Bluesky, citing a paper he’d recently co-authored on attitudes toward cold fusion. He thinks scientists have been overly… Source</description>
 <enclosure url="https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Muon-Fusion-cr.Oleg-Borodin-Default.webp" type="image/jpeg"/>
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Muon-Fusion-cr.Oleg-Borodin-Default.webp" medium="image"/>
-</item>
-<item>
-<title>Why Did Snakes Lose Their Legs? And 9 More Animal Mysteries</title>
-<link>https://www.nytimes.com/2026/11/02/science/animals-mysteries-research.html</link>
-<guid isPermaLink="false">8e9f3183100afc56e053eb12c22eadfda07f44ab42c25103371667b940e8aeee</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 10:00:21 +0000</pubDate>
-<description>There are more than 1.5 million known zoological species on Earth, with at least as many enigmas. Here are our top 10.</description>
-<enclosure url="https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg" medium="image"/>
 </item>
 <item>
 <title>A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy</title>
@@ -1104,17 +1049,6 @@
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/10/JOW-S5-E11-cr.Chanelle-Nibbelink-Default-NO-LOGO.webp" medium="image"/>
 </item>
 <item>
-<title>NASA's Hubble Marks Way for Roman Space Telescope</title>
-<link>https://www.nasa.gov/image-detail/55606049603-e8822462fe-o</link>
-<guid isPermaLink="false">656e56dd2f4e91c03cb3395552356bd88145dfb2641d6fca3fbb9302293a39ba</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 15:02:00 +0000</pubDate>
-<description>A sinuous spiral galaxy (center) appears in the same field of view as a vivid gravitational lens (right corner) in this Hubble image.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg" medium="image"/>
-</item>
-<item>
 <title>NASA's Neo Surveyor Sunshade</title>
 <link>https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2</link>
 <guid isPermaLink="false">cf751a4f21cc8f2a408e578da6f3d5566eeb5f311096e7331341b290ffeebddd</guid>
@@ -1124,17 +1058,6 @@
 <description>The large sunshade of NASA’s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space &amp; Mission Systems in Boulder, Colorado, in late July.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's X-59 Aircraft and Test Pilot</title>
-<link>https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3</link>
-<guid isPermaLink="false">3fcf708f42313da9f2d09e1bf0d096a52fa472691c3107c45ca491fc3362bd5e</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 26 Oct 2026 15:29:00 +0000</pubDate>
-<description>NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency's X-59 quiet supersonic research aircraft on Oct. 21, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg" medium="image"/>
 </item>
 <item>
 <title>RS-25 Engine Tests at NASA Stennis</title>
@@ -1148,17 +1071,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg" medium="image"/>
 </item>
 <item>
-<title>Science on the Space Station with NASA Astronaut Jessica Watkins</title>
-<link>https://www.nasa.gov/image-detail/iss075e0190239</link>
-<guid isPermaLink="false">5f00aca8df46e2506f7a6e916ebae327aae0b38872c55b91a38e55bcd1b78305</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 21 Oct 2026 15:07:00 +0000</pubDate>
-<description>NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module's Life Science Glovebox, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg" medium="image"/>
-</item>
-<item>
 <title>Martian Dawn</title>
 <link>https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2</link>
 <guid isPermaLink="false">a6a14a28737ed87a3ef14e8e321b7b22b3c69cc19fd97312aab882cf347f0342</guid>
@@ -1168,39 +1080,6 @@
 <description>The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp" medium="image"/>
-</item>
-<item>
-<title>Artemis II Heat Shield After Splashdown</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1320</link>
-<guid isPermaLink="false">bd7ea775e6f02cf018151963e6bbeb538b0eff8129c915bf68bebb3980d24ec5</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 16:33:00 +0000</pubDate>
-<description>Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg" medium="image"/>
-</item>
-<item>
-<title>Transporter-18 SmallSats Encapsulation</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1315</link>
-<guid isPermaLink="false">e4159da664528188a8fd82ed2613bde89d53f23fb96e15a19a83328717fae347</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 13 Oct 2026 17:52:00 +0000</pubDate>
-<description>Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg" medium="image"/>
-</item>
-<item>
-<title>Cosmic House of Mirrors</title>
-<link>https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors</link>
-<guid isPermaLink="false">942a9466c8b66c4e8c29e583bdaf0d3fa330eb489b6ebd292424f136c2cc8766</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 09 Oct 2026 14:28:00 +0000</pubDate>
-<description>This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they’ve stepped into a house of mirrors.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg" medium="image"/>
 </item>
 <item>
 <title>Crew-12 Returns to Earth</title>
@@ -1223,50 +1102,6 @@
 <description>A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member's tablet.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" medium="image"/>
-</item>
-<item>
-<title>Astronomers Solve Cosmic Cold Case with NASA Hubble Data</title>
-<link>https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9</link>
-<guid isPermaLink="false">e7acee45febf783e11665c7d291d8b2a40f8aba5f5607b9b460e19e507ca7a75</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 06 Oct 2026 16:17:00 +0000</pubDate>
-<description>This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA Astronaut Christina Koch at Eagles vs. Rams</title>
-<link>https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field</link>
-<guid isPermaLink="false">578734c1fe8df2e9efa4b83a532b1ddf9a63a7e7b36defe815c606d85de22c40</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 05 Oct 2026 17:45:00 +0000</pubDate>
-<description>NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA’s SpaceX Crew-13 Launches</title>
-<link>https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3</link>
-<guid isPermaLink="false">07f5c690e45e94633737ffc40a00e6a269a635b19c6024bf14b670f62bc26804</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 01 Oct 2026 18:07:00 +0000</pubDate>
-<description>A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg" medium="image"/>
-</item>
-<item>
-<title>Star Trails</title>
-<link>https://www.nasa.gov/image-detail/iss075e0144232</link>
-<guid isPermaLink="false">2f9c821724c6cf311138939fbf5d114d76dd53bcf1741a4ef170f481e93f4cad</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Wed, 30 Sep 2026 17:51:00 +0000</pubDate>
-<description>This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg" medium="image"/>
 </item>
 <item>
 <title>Crew-13 Rocket and Spacecraft at Launch Pad</title>
@@ -1300,39 +1135,6 @@
 <description>UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg" medium="image"/>
-</item>
-<item>
-<title>Artemis III Crew Visits NASA Kennedy's Vehicle Assembly Building</title>
-<link>https://www.nasa.gov/image-detail/afs-8-101-1307</link>
-<guid isPermaLink="false">9212a1e9d8662e960c7092f49c3e8b12a15c44ebb4cd2f3f279df26d2a5b6c07</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 15 Sep 2026 16:16:00 +0000</pubDate>
-<description>NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's Chandra Spots Galactic Gem</title>
-<link>https://www.nasa.gov/image-detail/galaxies-iizw096</link>
-<guid isPermaLink="false">6a1d948744d290016a0617c18261d449a216e52c846e957efd5a8ea82c6a5c5e</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Fri, 11 Sep 2026 17:22:00 +0000</pubDate>
-<description>Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg" medium="image"/>
-</item>
-<item>
-<title>Superbubble in the Large Magellanic Cloud</title>
-<link>https://www.nasa.gov/image-detail/hubble-n44-wfc3-large</link>
-<guid isPermaLink="false">026a0bc93661a13b3d9350ebebc36e78a1b5937b2f4ba3b195ce5ec192fb29e3</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 08 Sep 2026 16:49:00 +0000</pubDate>
-<description>N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope image in the upper central region.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg" medium="image"/>
 </item>
 <item>
 <title>Lunar Occultation of Venus</title>
@@ -1399,49 +1201,5 @@
 <description>President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Astronauts Anil Menon and Sophie Adenot on Spacewalk</title>
-<link>https://www.nasa.gov/image-detail/gmt230_ehdc1-2</link>
-<guid isPermaLink="false">cb37876c1de0f8b8a2938843104fc756be99199e420ad39c37d3cd812a56a61c</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 25 Aug 2026 14:58:00 +0000</pubDate>
-<description>From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's B777 Gets New Coat of Paint</title>
-<link>https://www.nasa.gov/image-detail/jsc2026e407303</link>
-<guid isPermaLink="false">f7e995f8c8d6b7d64d5dd5dd7a6d8bf253d7dce8ba4d40d6757ad8a159fd3895</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Tue, 18 Aug 2026 15:16:00 +0000</pubDate>
-<description>NASA's Boeing 777 returns to the agency's Langley Research Center after receiving a new paint scheme.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" medium="image"/>
-</item>
-<item>
-<title>Colorful Collage of Tarantula Nebula</title>
-<link>https://www.nasa.gov/image-detail/30dor-crop</link>
-<guid isPermaLink="false">c66fa1686b72e2606534bad91ba33deb29d79cade921ec43b2632131268cf3dd</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Mon, 17 Aug 2026 16:03:00 +0000</pubDate>
-<description>Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" medium="image"/>
-</item>
-<item>
-<title>Perseids Meteor Shower</title>
-<link>https://www.nasa.gov/image-detail/perseidsorion-2</link>
-<guid isPermaLink="false">796e22218cfd29be9db55317e7fb1b94fe245cca06bf425698882b75441051a9</guid>
-<source>NASA Image of the Day</source>
-<category>science</category>
-<pubDate>Thu, 13 Aug 2026 15:09:00 +0000</pubDate>
-<description>The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" medium="image"/>
 </item>
 </channel></rss>
