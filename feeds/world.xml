@@ -4,15 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Nvidia announces investigation of CEO amid foreign intelligence target allegations</title>
-<link>https://abcnews.com/Technology/nvidia-announces-investigation-ceo-amid-foreign-intelligence-target/story?id=137959091</link>
-<guid isPermaLink="false">71078e55c31dd912e19b2973af1fd8c8f83cb056ce9ae85d12956b367b35dabb</guid>
+<title>Trump says 'too tough' deportation policies hurt him in the midterms</title>
+<link>https://abcnews.com/US/trump-tough-deportation-policies-hurt-midterms/story?id=137963657</link>
+<guid isPermaLink="false">c7f64398535c7adf482f68f3d6870938617d83b9320ede7b98c9ee086445075e</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Mon, 09 Nov 2026 02:21:10 +0000</pubDate>
-<description>Jensen Huang "is committed to continuing to lead NVIDIA," the company said.</description>
-<enclosure url="https://s.abcnews.com/images/Technology/NVIDIA_logo_gty_cw_20261108_1794171451641_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Technology/NVIDIA_logo_gty_cw_20261108_1794171451641_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Mon, 09 Nov 2026 04:03:55 +0000</pubDate>
+<description>"I think it was too tough," Trump said in an interview with CBS' "60 Minutes" that aired Sunday night. "And I think -- I think ultimately, that hurt me," he added.</description>
+<enclosure url="https://s.abcnews.com/images/US/GettyImages-2302269863_1794193468310_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/GettyImages-2302269863_1794193468310_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Europe to press US on Ukraine peace and Iran at Paris G7 talks</title>
@@ -24,6 +24,17 @@
 <description>G7 foreign ministers will revisit Russia’s war in Ukraine and the prospect of further US strikes on Iran when they meet in Paris. Washington has kept the option of new strikes open since Republicans lost the midterm elections. Rubio is due to attend both days, compared with one in March.</description>
 <enclosure url="https://s.france24.com/media/display/05c2455c-dbe0-11f1-8e22-695cb59fade5/w:1024/p:16x9/AP26086585080668.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/05c2455c-dbe0-11f1-8e22-695cb59fade5/w:1024/p:16x9/AP26086585080668.jpg" medium="image"/>
+</item>
+<item>
+<title>Russell Brand due back in court for rape sentencing</title>
+<link>https://news.sky.com/story/russell-brand-due-back-in-court-for-rape-and-sexual-assault-sentencing-13610037</link>
+<guid isPermaLink="false">b5b5bd40f635c367f7558e1702064e8423cbe91ec7612ad6ec64e0dcdc0d6ea1</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Mon, 09 Nov 2026 02:03:00 +0000</pubDate>
+<description>Russell Brand will return to court today to find out his sentence for rape and sexual assault.</description>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-russell-brand-court_7388813.jpg?20261027154929" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-russell-brand-court_7388813.jpg?20261027154929" medium="image"/>
 </item>
 <item>
 <title>8-year-old Haitian boy placed in federal custody alone after ICE check-in</title>
@@ -290,17 +301,6 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-egypt-train-derailed_7401023.jpg?20261108152839" medium="image"/>
 </item>
 <item>
-<title>Schools to stop teaching GCSEs early in curriculum overhaul</title>
-<link>https://news.sky.com/story/schools-to-stop-teaching-gcses-early-in-curriculum-overhaul-13609740</link>
-<guid isPermaLink="false">ede0d4909ac944d47a055fd26be1d180d3ed25a7f792c364ef6c669f33ef5eac</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Sun, 08 Nov 2026 14:43:00 +0000</pubDate>
-<description>Secondary schools will be told to stop teaching GCSEs to students until they reach Year 10 in a bid to keep younger children engaged, according to the government.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-secondary-school-gcse_7400980.jpg?20261108145932" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-secondary-school-gcse_7400980.jpg?20261108145932" medium="image"/>
-</item>
-<item>
 <title>US voters reject AI data centres: could the backlash spread to France?</title>
 <link>https://www.france24.com/en/tv-shows/tech-24/20261108-us-voters-reject-ai-data-centres-could-the-backlash-spread-to-france</link>
 <guid isPermaLink="false">b2902e0418474302e6eaaf0f7fc13bf479e89bc4a3b91e365f7e6ad261958f62</guid>
@@ -539,8 +539,8 @@
 <category>world</category>
 <pubDate>Sun, 08 Nov 2026 01:01:00 +0000</pubDate>
 <description>Russia may have reached the limit of its "peacetime" ability to project force in the Baltic Sea, with the maritime situation "tense" but "stable", the head of Finland's navy has said.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-haynes-defence-uk-marines_7401759.jpg?20261109025452" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-haynes-defence-uk-marines_7401759.jpg?20261109025452" medium="image"/>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-deborah-haynes-uto_7400921.jpg?20261108142223" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-deborah-haynes-uto_7400921.jpg?20261108142223" medium="image"/>
 </item>
 <item>
 <title>WATCH: Firefighters give kids a superhero surprise</title>
