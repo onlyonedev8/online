@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>HIVE’s Bitcoin output jumps 49%, but mining revenue still falls</title>
+<link>https://cointelegraph.com/news/hives-bitcoin-output-jumps-49-but-mining-revenue-falls</link>
+<guid isPermaLink="false">5112eeb221aa4455d8d25451c4b1f3ff975f68aad4551c6aa68cd289f48042f1</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 00:42:39 +0000</pubDate>
+<description>HIVE’s mining revenue fell 7.4% despite higher production, while its AI hosting business grew 71%.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71EDYRZ1KBPHBPK0G449WJN/bitcoin-miner.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71EDYRZ1KBPHBPK0G449WJN/bitcoin-miner.jpg" medium="image"/>
+</item>
+<item>
 <title>Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them</title>
 <link>https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive</link>
 <guid isPermaLink="false">51f4600a62553734d0ea51f398b949d4e52b82aaa582994c4166bc5606c2c8b9</guid>
@@ -772,17 +783,6 @@
 <description>The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfers involving MEXC Global.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png" medium="image"/>
-</item>
-<item>
-<title>Gnosis Pay breach exposes card details, personal data and crypto wallet information</title>
-<link>https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information</link>
-<guid isPermaLink="false">ec3d2b3ea8a46674f57cb166d739349863dacf98c3780362e61b331db57af084</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 20:51:23 +0000</pubDate>
-<description>The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S6NT7VH41TT0QGTWN2DZYP/phone-crypto-cash-cards-evil-smile-hacker.png" medium="image"/>
 </item>
 <item>
 <title>Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi</title>
