@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana</title>
+<link>https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana</link>
+<guid isPermaLink="false">bfc735d5ef2c50219bdc916f1a70d4b12a85cb741ab978cfcefc3580fc9df139</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 17:09:18 +0000</pubDate>
+<description>Solana Privacy Rings encrypt balances and transfer amounts without leaving Solana. Here's how they work, and how they compare.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png" medium="image"/>
+</item>
+<item>
+<title>MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted</title>
+<link>https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted</link>
+<guid isPermaLink="false">f7117711ef6151b4dc3980d8b54b9dddd16f2a059a03d5889da0693b5864f692</guid>
+<source>Bitcoin Magazine</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 17:05:00 +0000</pubDate>
+<description>Bitcoin Magazine MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted MSCI will say Wednesday evening whether Strategy stays in its global stock indexes, after its own potential list already marked the largest corporate bitcoin holder as Deleted. The index provider publishes its November 2026 Index Review shortly after 5 p.m. ET. MSCI said on Oct. 15 that the review would carry the final list of current constituents hit by the new screen, with any deletions taking effect at the close of Nov. 30. MSCI’s list of potentially impacted securities, published with the Oct. 15 decision and built on Sept. 30 financial data and Oct. 9 market values, already marks five companies as Deleted: Strategy (MSTR), uranium holder Yellow Cake, Japan’s Metaplanet, Iceland’s Skel Fjárfestingafélag and micro-cap Upexi. Strategy is the only large-cap name in the group and by float-adjusted market value accounts for more than 90% of the five. The company held 850,364 bitcoin as of Nov. 8, acquired at an average price of $75,456 a coin. How the MSCI screen works The rule does not mention bitcoin. MSCI first checks whether a company’s operating assets exceed 50% of total assets. Issuers that fail face five financial ratios, and a company flagged on four or more of them is ineligible for the MSCI Global Investable Market Indexes. Buffers limit turnover. A company outside the indexes cannot be added if it fails the screen in either of its two most recent annual filing periods, but a current constituent is removed only if it fails in each of them. MSCI said it may also use the most recent interim filing. That two-filing test is the question hanging over Strategy. It adopted fair-value accounting for its bitcoin at the start of 2025, so its fiscal 2024 statements carried the coins at cost less impairment, and MSCI has not said how it treats that earlier year. A Deleted mark implies MSCI’s draft reading is that Strategy already failed both periods, but it has not published the inputs behind that placement. Strategy has argued that it reports its bitcoin treasury as an operating segment and books related gains and losses in operating expenses. The screen replaces an approach aimed squarely at crypto. MSCI first proposed in late 2025 to exclude companies whose digital assets made up 50% or more of total assets, then dropped that plan in January and opened a broader consultation in August. The new rule also ends the interim measures MSCI placed on those companies in October 2025, including a freeze on share-count increases and a deferral of additions. JUST IN: MSCI decides this afternoon whether to keep Strategy and Metaplanet in its global indexes. JPMorgan estimates removal could trigger up to $2.8 billion in forced selling from passive funds pic.twitter.com/dp7R47U35W — Bitcoin Magazine (@BitcoinMagazine) November 11, 2026 What a deletion would and would not do Funds that track an MSCI index have to hold what the index holds, so a del</description>
+<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/MSCI-Strategy-Index-Decision.jpg" type="image/jpeg"/>
+<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/MSCI-Strategy-Index-Decision.jpg" medium="image"/>
+</item>
+<item>
+<title>A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix</title>
+<link>https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining</link>
+<guid isPermaLink="false">dd3d90efe88c49dcdea42e9fd324dd031d97fa27b6ae0bbd1d0218aaf16d7131</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 16:58:57 +0000</pubDate>
+<description>Three bugs—spanning denial-of-service and privacy issues rather than coin theft—have all been patched, with the most serious capable of halting a miner’s ability to build new blocks.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Bitcoin hovers near $74K as stocks rise despite US bond yield rebound</title>
+<link>https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi</link>
+<guid isPermaLink="false">4c6fb4f31e4eb3bdcf341a8360afc7481432bb0388a3a3f08731c18475d929ad</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 16:26:00 +0000</pubDate>
+<description>Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1-960x640.webp" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1-960x640.webp" medium="image"/>
+</item>
+<item>
+<title>Black-owned M&amp;F shareholders opt overwhelmingly to stay the course</title>
+<link>https://www.bankingdive.com/news/mf-optus-merger-black-owned-bank-shareholder-vote-triad-proposal-carolina/874393</link>
+<guid isPermaLink="false">4af3b883fd65f3fd040af37aeed339669ca00f8e07272daf3c7f587b10752d7f</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 16:21:49 +0000</pubDate>
+<description>Roughly 98.6% of voting investors supported a tie-up with fellow Black-owned Optus Bank despite a series of counterproposals. The deal, which needs regulator sign-off, is on track for a fourth-quarter close, M&amp;F said.</description>
+<enclosure url="https://imgproxy.divecdn.com/LJ1BLV0Ucv4HpmAFLTBtvi8ClIQR-xZ6pJfS-sub79Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TQ19TdGF0ZV9Ib3VzZV9hdF9ldmVuaW5nX1QzemM3bzIuanBn.webp" type="image/jpeg"/>
+<media:content url="https://imgproxy.divecdn.com/LJ1BLV0Ucv4HpmAFLTBtvi8ClIQR-xZ6pJfS-sub79Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TQ19TdGF0ZV9Ib3VzZV9hdF9ldmVuaW5nX1QzemM3bzIuanBn.webp" medium="image"/>
+</item>
+<item>
+<title>OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out</title>
+<link>https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out</link>
+<guid isPermaLink="false">4da29d5e85a407ab296e0d42cd1ac20c86ed26489430e32eb19ae8ded5ccdf53</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 16:14:01 +0000</pubDate>
+<description>OKXICE will open its tokenized securities venue Nov. 23 with more than 70 assets, led by crypto companies like Coinbase, Circle, Robinhood and Strategy, after 67 companies objected to having their shares listed.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>Russia’s Central Bank Clears Exchange to Open Bitcoin and Crypto Trading on Nov. 22</title>
 <link>https://bitcoinmagazine.com/news/russia-clears-exchange-crypto-trading</link>
 <guid isPermaLink="false">fc1bfa1597cc8af089f3dc71f9b386a1f3d47af8987cbd741df75ec2716303b0</guid>
@@ -156,6 +222,17 @@
 <description>Nvidia's independent directors have hired Wachtell Lipton to investigate its CEO's ties to an alleged Chinese spy, as pressure mounts.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Northern Trust leans on Microsoft FDEs to boost agentic buildout</title>
+<link>https://www.bankingdive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874362</link>
+<guid isPermaLink="false">90a5e84efcd2a272c466bc9528c880357f474981ce0af9972624a55184172732</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+<description>The financial services firm cut analyst’s data preparation time by 83% with the use of an onboarding agent, the companies said.</description>
+<enclosure url="https://imgproxy.divecdn.com/s0ZwDUmYuYfeX56NgGxEsKoSS5G_dW310CU-3OnX0hA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY3MzkzMjM5LmpwZw==.webp" type="image/jpeg"/>
+<media:content url="https://imgproxy.divecdn.com/s0ZwDUmYuYfeX56NgGxEsKoSS5G_dW310CU-3OnX0hA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY3MzkzMjM5LmpwZw==.webp" medium="image"/>
 </item>
 <item>
 <title>Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings</title>
@@ -642,6 +719,17 @@
 <media:content url="https://imgproxy.divecdn.com/nPUetq5lBTefqM7qXriKPuK5PRT8kiowl5Ijqj6bikE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgzNTk1Nzc3LmpwZw==.webp" medium="image"/>
 </item>
 <item>
+<title>8 questions for the Wells Fargo wealth unit’s AI chief</title>
+<link>https://www.bankingdive.com/news/8-questions-for-the-wells-fargo-wealth-units-ai-chief/874275</link>
+<guid isPermaLink="false">7ab767de61d6e3db21d32badae7519f023dd1cdfd9ce04a40c1ad3b620d588ef</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Tue, 10 Nov 2026 17:21:20 +0000</pubDate>
+<description>Wells Fargo’s AI Teammate has had hundreds of thousands of interactions, according to Andre Mansour, and “things that used to take hours now are down to minutes.”</description>
+<enclosure url="https://imgproxy.divecdn.com/JEKh7PHJJI9YFVmLrb0NoVuB7ZR7beWvyh5UoxCGkik/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5NzgwNTcyLmpwZw==.webp" type="image/jpeg"/>
+<media:content url="https://imgproxy.divecdn.com/JEKh7PHJJI9YFVmLrb0NoVuB7ZR7beWvyh5UoxCGkik/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5NzgwNTcyLmpwZw==.webp" medium="image"/>
+</item>
+<item>
 <title>Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96%</title>
 <link>https://bitcoinmagazine.com/news/canaan-can-swings-8-million-profit</link>
 <guid isPermaLink="false">2122fe1f4e898892b0dc0725c01d7a5b2f95936b7aa57b8af41384f96eea7e48</guid>
@@ -697,17 +785,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7321EC4JJA90DW6KN2X8639/us-inflation-1-960x640.webp" medium="image"/>
 </item>
 <item>
-<title>Miami-Dade County Now Accepts Bitcoin for Property Taxes</title>
-<link>https://bitcoinmagazine.com/news/miami-dade-takes-bitcoin-property-taxes</link>
-<guid isPermaLink="false">086f6dca973039a80523e5a10d3693fd6331ec0b16479c20c87b93ffe3d78b25</guid>
-<source>Bitcoin Magazine</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 16:15:58 +0000</pubDate>
-<description>Bitcoin Magazine Miami-Dade County Now Accepts Bitcoin for Property Taxes Miami-Dade County Tax Collector Dariel Fernandez said Monday his office has begun accepting bitcoin for property tax payments, both online and in person, while converting every transaction into dollars before the money reaches the county. Fernandez announced the change in a statement on the Tax Collector’s website, calling it a way to give property owners another option without putting public funds into the asset. Payers can select a cryptocurrency option during online checkout or request it at the counter, then connect a supported exchange account or digital wallet and authorize the payment. A third-party system converts the bitcoin into U.S. dollars at the time of payment, the office said, so it never holds, invests in or manages any cryptocurrency. The office said it still receives the full dollar amount owed and records the transactions in its standard payment reports, without county workers maintaining digital wallets. “Government must keep up with the times and the needs of the people we serve,” Fernandez said. “By accepting Bitcoin as a payment option, we are giving property owners another way to pay their taxes, whether online or in person, while continuing to offer the traditional payment methods they already know and trust.” He added that the office is “embracing new technology without compromising our responsibility to protect taxpayer dollars.” Whether someone pays with bitcoin or a conventional method, he said, “our office receives the full amount owed in U.S. dollars.” The office did not name the payment processor or say whether bitcoin payments carry a convenience fee. Card and mobile-wallet payments already carry a nonrefundable 2.50% fee online, with a $2.50 minimum, the office’s payment-methods page shows. Traditional options, including checks, cards, cash and fee-free eChecks, remain available. The announcement covers property taxes, and the option is voluntary. JUST IN: Miami-Dade now accepts Bitcoin for property taxes and can be paid both online and in person pic.twitter.com/lI285z4B79 — Bitcoin Magazine (@BitcoinMagazine) November 10, 2026 A 4% discount is still on the clock The change landed in the middle of Florida’s property tax collection season. Miami-Dade opened the 2026 tax roll on Oct. 30 and is urging owners to pay by Nov. 30 to lock in a 4% early-payment discount under Florida law . The discount falls to 3% in December, 2% in January and 1% in February, with the full amount due in March. Unpaid bills generally become delinquent April 1. Under the office’s existing rules, discounts are based on the date a payment is submitted online or in person. Fernandez has been promoting a “Save the Max” campaign around that calendar, noting that an eligible $5,000 tax bill would save $200 if paid in November. Payments can be made at the office’s 13 locations, through T-Connect mobile units or online around the clock at mdctaxcollector.gov . Miami’s long c</description>
-<enclosure url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Miami-Dade-Takes-Bitcoin-Property-Taxes-County-Holds-None.jpg" type="image/jpeg"/>
-<media:content url="https://bitcoinmagazine.com/wp-content/uploads/2026/11/Miami-Dade-Takes-Bitcoin-Property-Taxes-County-Holds-None.jpg" medium="image"/>
-</item>
-<item>
 <title>Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio</title>
 <link>https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio</link>
 <guid isPermaLink="false">0a671cd705da782fedcb58cbe064ce1f17d57a9bc8db378f836adff7d7704935</guid>
@@ -750,17 +827,6 @@
 <description>The testnet pilot used Chainlink’s CCIP to distribute Moody’s ratings simultaneously across permissioned and permissionless blockchains, while preserving the firm’s existing publication and governance processes.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Poland’s lower house backs sanctions bill covering crypto freezes</title>
-<link>https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets</link>
-<guid isPermaLink="false">3d717ec9bedaaa198b3ca9f401fa1f88c707b03ca22b8fdcc4c055066f194018</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Tue, 10 Nov 2026 13:40:39 +0000</pubDate>
-<description>The bill is now before the Senate and would broaden the grounds for adding people and companies to Poland’s national sanctions list.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png" medium="image"/>
 </item>
 <item>
 <title>Morning Minute: Vitalik Recasts ETH as a Store of Value</title>
@@ -972,39 +1038,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC</title>
-<link>https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc</link>
-<guid isPermaLink="false">cfd35b2cdc4380c4e7a803b36c00e91801b364a53de626fc3a4f0091e35210d5</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 13:24:29 +0000</pubDate>
-<description>The Bitcoin treasury firm sold $284 million of MSTR stock to fund the moves, days before MSCI names companies facing index removal.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Microsoft-Backed Space and Time Launches Platform to Let AI Agents Verify Private Data</title>
-<link>https://decrypt.co/382697/microsoft-backed-space-and-time-launches-platform-to-let-ai-agents-verify-private-data</link>
-<guid isPermaLink="false">36d66f7aa4886955ed372bd6184970d6e9dbc9100c955d8b2126165acc9f5319</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 13:01:02 +0000</pubDate>
-<description>Space and Time Enterprise uses Proof of SQL to prove calculations on private business data without exposing the records to AI agents.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter</title>
-<link>https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter</link>
-<guid isPermaLink="false">8460535fca6bfe7f56e1cc77ca37a144bf889c47f66ed7258a506fe83d017957</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Mon, 09 Nov 2026 11:50:36 +0000</pubDate>
-<description>The exchange will move its institutional crypto custody business under federal oversight, building on its 2018 New York trust charter.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg" medium="image"/>
-</item>
-<item>
 <title>Dive Deposits: Goldman named new partners but left other details out</title>
 <link>https://www.bankingdive.com/news/goldman-109-new-partners-women-gender-race-diversity-trump-solomon/874018</link>
 <guid isPermaLink="false">2500d72858aa74f691c754bcec20d02bbf4f9721ebd39a1a93d088c884126473</guid>
@@ -1014,27 +1047,5 @@
 <description>The bank did not give a gender or racial breakdown for its largest partner class since 2010. That doesn’t necessarily mean it’s shelving diversity; it may be staying purposefully quiet.</description>
 <enclosure url="https://imgproxy.divecdn.com/8uYw98b7-rAHdn78JuE5uNBFZBJa5p46cWyI7wZQDR8/g:nowe:8:1/c:1013:572/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE5MzU5NDQyLmpwZw==.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/8uYw98b7-rAHdn78JuE5uNBFZBJa5p46cWyI7wZQDR8/g:nowe:8:1/c:1013:572/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE5MzU5NDQyLmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>California takes CoinFlip to task</title>
-<link>https://www.bankingdive.com/news/california-coinflip-crypto-atm-enforcement-fraud/874015</link>
-<guid isPermaLink="false">6aad16641c3c5f56a363ba21d4e89379c0917349e252a34c181137a89d07f940</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 15:55:00 +0000</pubDate>
-<description>The state ordered the crypto ATM company to pay $4.8 million to scam victims, and bashed federal regulators over failing to police for fraud.</description>
-<enclosure url="https://imgproxy.divecdn.com/m89vHtziBkSz1Pnmiz-i3P2ejhpTG22nGJcUufXy0D4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODI2NjQ2MjIuanBn.webp" type="image/jpeg"/>
-<media:content url="https://imgproxy.divecdn.com/m89vHtziBkSz1Pnmiz-i3P2ejhpTG22nGJcUufXy0D4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODI2NjQ2MjIuanBn.webp" medium="image"/>
-</item>
-<item>
-<title>PNC boosts branch expansion, kicks off CFO transition</title>
-<link>https://www.bankingdive.com/news/pnc-branch-expansion-southeast-cfo-transition-reilly-overstrom/874005</link>
-<guid isPermaLink="false">75253a8322f0cc3e88b4ac6481f4751fd13f40c62ac6469bc4123dfed57dc98a</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Fri, 06 Nov 2026 15:54:42 +0000</pubDate>
-<description>The Pittsburgh-based bank said it would add more than 50 locations in South Carolina and Georgia and named its retail chief to the CFO role, effective in March.</description>
-<enclosure url="https://imgproxy.divecdn.com/GEITUnz57EIb7kkZjPzyXdPf-JCKjgSkjarp_CgrpAU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QTkNfQnJhbmNoX0RlbnZlcl9oaS1yZXMucG5n.webp" type="image/jpeg"/>
-<media:content url="https://imgproxy.divecdn.com/GEITUnz57EIb7kkZjPzyXdPf-JCKjgSkjarp_CgrpAU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QTkNfQnJhbmNoX0RlbnZlcl9oaS1yZXMucG5n.webp" medium="image"/>
 </item>
 </channel></rss>
