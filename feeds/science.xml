@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Voyager is one light day away from us. Here’s what it discovered on its epic journey</title>
+<link>https://www.newscientist.com/article/2598369-voyager-is-one-light-day-away-from-us-heres-what-it-discovered-on-its-epic-journey</link>
+<guid isPermaLink="false">dde4323817058c25b2c2ef2ab1f7f19accad2549ea179b8982f37d2677fd6b06</guid>
+<source>New Scientist</source>
+<category>science</category>
+<pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
+<description>The Voyager 1 spacecraft is the most distant human-made object from Earth. What it saw on its 50-year journey to the edge of the solar system revolutionised our understanding of the planets and ourselves</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320203243.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320203243.jpg" medium="image"/>
+</item>
+<item>
 <title>APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact</title>
 <link>https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact</link>
 <guid isPermaLink="false">f881bc45f9b01c4286df7123796b9dc581ef169d552ea19eee755cbe63abe007</guid>
@@ -508,17 +519,6 @@
 <description>null Starfish Space's first Otter has died, just a month after it reached the final frontier. The Seattle startup announced on Tuesday (Nov. 3) that its Otter 24C satellite suffered a glitch in low Earth orbit (LEO) and is not recoverable. The anomaly killed an ambitious mission in the cradle, as Otter 24C was still in the commissioning phase. Otter 24C launched Oct. 1 on SpaceX 's Transporter-18 mission, a rideshare flight that carried a total of 130 payloads to LEO (including a prototype satellite for Project Suncatcher , Google's planned AI constellation). The Starfish satellite was flying a mission for NASA called Small Spacecraft Propulsion and Inspection Capability, or SSPICY for short. The goal was to "demonstrate technologies necessary for future debris-removal missions as well as for future applications in the servicing and inspection of active spacecraft," according to NASA's SSPICY site . "This advances NASA's in-space manufacturing and assembly (ISAM) goals to ensure a sustainable space operating environment and builds towards a future where objects can be assembled, repaired and maintained in space, significantly expanding possibilities for science and human exploration," the agency added. Starfish Space was a natural partner. The Seattle company plans to become a big player in the nascent field of satellite servicing , using its line of Otter craft to repair, refuel or deorbit other satellites for a variety of customers. Illustration of a Starfish Space Otter satellite rendesvousing with another spacecraft in Earth orbit. (Image credit: Starfish Space) SSPICY marked Otter's spaceflight debut. The mission plan called for the 739-pound (335-kilogram) Otter 24C spacecraft to approach and inspect "up to four inoperable space objects of U.S. origin" over the course of a two-year mission, performing detailed visual inspections. But Otter 24C never got the chance to perform any of these orbital rendezvous. "While working through commissioning steps, Starfish eventually stopped receiving data from Otter 24C," the company said in a Nov. 3 X post . "An investigation into the loss of communications has determined that fault protection on the satellite bus provided by [California company] Astro Digital had an error that turned off the radio and prevented re-establishing communications," Starfish added. "Starfish, NASA, and Astro Digital have concluded that Otter 24C is not recoverable." The company further said that it's implementing fixes to reduce the chances that the problem will crop up in the future. And it stressed that Otter 24C's death will not be in vain. "The work completed through Otter 24C will directly contribute to the success of future Otter missions, as Starfish continues developing the technologies and operations required to make satellite servicing a routine capability in orbit," Starfish said. Otter Pup 2 is now operating as close as 25 meters away from @GilmourSpace's ElaraSat, fully autonomously. This vid contains imagery c</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/EPxAVj6mJ5xND94v4YiYXA-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/EPxAVj6mJ5xND94v4YiYXA-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>X chromosome gene may reduce autism rates in women and girls</title>
-<link>https://www.newscientist.com/article/2598114-x-chromosome-gene-may-reduce-autism-rates-in-women-and-girls</link>
-<guid isPermaLink="false">39067a80d37bf13c4171ed6e244ca2b2727119e735feabcb72294a9769868aa1</guid>
-<source>New Scientist</source>
-<category>science</category>
-<pubDate>Mon, 09 Nov 2026 17:00:00 +0000</pubDate>
-<description>A gene called ZFX exerts powerful effects on an entire network of genes linked to autism, which may help explain why the condition is less common in females</description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320061067.jpg" type="image/jpeg"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320061067.jpg" medium="image"/>
 </item>
 <item>
 <title>NASA just launched a $1 million Moon Base Student Challenge to award cash prizes to students that solve lunar base problems</title>
