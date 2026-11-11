@@ -4,26 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Trump administration moves to drop millions from SNAP food assistance</title>
+<link>https://abcnews.com/Politics/trump-administration-moves-drop-millions-snap-proposal/story?id=138031618</link>
+<guid isPermaLink="false">bfa435c37d94ebde7cb0f00a18c1711b10ce4aa45ab380f013c6ea4f690e2442</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 20:05:44 +0000</pubDate>
+<description>An analysis by USDA estimates that over 6 million people could lose benefits.</description>
+<enclosure url="https://s.abcnews.com/images/US/snap-1-ap-gmh-251103_1762193146768_hpMain_3_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/snap-1-ap-gmh-251103_1762193146768_hpMain_3_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Why is gasoline suddenly under $4 a gallon?</title>
+<link>https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon</link>
+<guid isPermaLink="false">d0e44bf4a1773f0197ccc8ba4cd630e6569a8f1be4fb5d8d1588bddfa6edd35e</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Wed, 11 Nov 2026 19:59:14 +0000</pubDate>
+<description>The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers? (Image credit: Brandon Bell)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8054x5369+0+0/resize/8054x5369!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fb1%2F79ee5cd14420a25d6111b7bf6a03%2Fgettyimages-2248589851.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8054x5369+0+0/resize/8054x5369!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fb1%2F79ee5cd14420a25d6111b7bf6a03%2Fgettyimages-2248589851.jpg" medium="image"/>
+</item>
+<item>
 <title>Teen charged in killing of Javits Frimpong, 15-year-old immigrant shot in the Bronx</title>
 <link>https://abcnews.com/US/teen-arrested-connection-death-javits-frimpong-15-year/story?id=138047522</link>
 <guid isPermaLink="false">d9beb5dec2183a6eeb7eee2914dea555cbea5c1f2a3f7d1a4d5d96e8fd5c9599</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Wed, 11 Nov 2026 19:08:30 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 19:29:53 +0000</pubDate>
 <description>The 15-year-old from Ghana was shot on his way to school last month.</description>
 <enclosure url="https://s.abcnews.com/images/US/javits-frimpong-ht-jef-261111_1794414743940_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/javits-frimpong-ht-jef-261111_1794414743940_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump administration moves to drop millions from SNAP food assistance under proposal</title>
-<link>https://abcnews.com/Politics/trump-administration-moves-drop-millions-snap-proposal/story?id=138031618</link>
-<guid isPermaLink="false">bfa435c37d94ebde7cb0f00a18c1711b10ce4aa45ab380f013c6ea4f690e2442</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 18:57:47 +0000</pubDate>
-<description>An analysis by USDA estimates that over 6 million people could lose benefits.</description>
-<enclosure url="https://s.abcnews.com/images/US/snap-1-ap-gmh-251103_1762193146768_hpMain_3_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/snap-1-ap-gmh-251103_1762193146768_hpMain_3_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Iran live updates: Hegseth says Trump 'kicked their teeth in'</title>
@@ -158,7 +169,7 @@
 <media:content url="https://s.france24.com/media/display/09a5a02c-ddf4-11f1-b670-f71d22e7fea9/w:1024/p:16x9/capture-2c78d2b9.jpg" medium="image"/>
 </item>
 <item>
-<title>No 'certainty' man sexually touched wife advertised for sex, court told</title>
+<title>No 'certainty' man abused woman advertised for sex by husband, court told</title>
 <link>https://news.sky.com/story/no-certainty-man-sexually-touched-wife-advertised-for-sex-court-told-13611161</link>
 <guid isPermaLink="false">fb3a47950fa3db5264970309b624e9c77d38d7cb459bbe0144d410b9d2f1fd61</guid>
 <source>Sky News Home</source>
@@ -246,13 +257,13 @@
 <media:content url="https://s.france24.com/media/display/e2694a56-dde7-11f1-b92c-3f371022a770/w:1024/p:16x9/2026-11-11T135107Z-1475091229-RC2OLOAL1V8D-RTRMADP-3-SPAIN-STRIKE-MADRID-1.jpg" medium="image"/>
 </item>
 <item>
-<title>Poundland bosses meeting tonight to decide firm's future, Sky News told</title>
+<title>Poundland bosses meet to decide firm's future ahead of midnight deadline</title>
 <link>https://news.sky.com/story/poundland-directors-to-meet-tonight-to-decide-companys-future-sky-news-told-13610213</link>
 <guid isPermaLink="false">c5c9ba10efce00df5ad875fa2613f606f11c0fd34d2f2f0a450b56f5206f27d3</guid>
 <source>Sky News Home</source>
 <category>world</category>
 <pubDate>Wed, 11 Nov 2026 15:47:00 +0000</pubDate>
-<description>The directors of Poundland are holding a board meeting this evening to decide the company's future, Sky News has been told.</description>
+<description>The directors of Poundland are holding a board meeting tonight to decide the company's future, Sky News has been told.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-poundland-sheffield_7372627.jpg?20261010073001" medium="image"/>
 </item>
@@ -554,15 +565,15 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3717x2478+0+0/resize/3717x2478!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2Ff9%2F5b4174344a1aaca7afe8cba83ae8%2Fap26272329512134.jpg" medium="image"/>
 </item>
 <item>
-<title>Volunteer musicians play songs for veterans who are hospitalized</title>
-<link>https://www.npr.org/2026/11/11/nx-s1-6005263/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized</link>
-<guid isPermaLink="false">7f0f4550ae055aa23ca2dbacf2fb8760c0465b75ff29298a519c89cd89ebe01a</guid>
+<title>Independent Rep. Kevin Kiley says voters want 'checks and balances' in government</title>
+<link>https://www.npr.org/2026/11/11/nx-s1-6034566/kevin-kiley-election-loss-republicans-what-went-wrong</link>
+<guid isPermaLink="false">25664930c633a0b6d9908f583366664c44f2add5e65a5647863ea341463344a8</guid>
 <source>NPR News</source>
 <category>world</category>
-<pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
-<description>Volunteer musicians play for veterans and others who are hospitalized. They're part of Musicians On Call, a group that spreads the healing power of music. (Image credit: Tyrone Turner/WAMU for NPR)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F7e%2F5762f59f40d38a88921e5f575d79%2F261020-musicians-hospital-turner-28.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F7e%2F5762f59f40d38a88921e5f575d79%2F261020-musicians-hospital-turner-28.jpg" medium="image"/>
+<pubDate>Wed, 11 Nov 2026 10:02:43 +0000</pubDate>
+<description>Rep. Kevin Kiley, a former Republican turned independent, lost his reelection bid. He discusses what went wrong for the GOP, the challenges of the two-party system and how Congress could work better. (Image credit: Rich Pedroncelli)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3075x2050+0+0/resize/3075x2050!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2F87%2Feabe0b9b448a884a293516fb150c%2Fap26220835642608.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3075x2050+0+0/resize/3075x2050!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2F87%2Feabe0b9b448a884a293516fb150c%2Fap26220835642608.jpg" medium="image"/>
 </item>
 <item>
 <title>Body mass index may have misclassified millions of people in UK, researchers say</title>
@@ -596,17 +607,6 @@
 <description>The BBC's attempt to have Donald Trump's $10bn (£7.5bn) defamation claim thrown out has been dismissed by a Florida court.</description>
 <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-bbc-donald-trump_7163251.jpg?20260212143757" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/02/1920x1080/skynews-bbc-donald-trump_7163251.jpg?20260212143757" medium="image"/>
-</item>
-<item>
-<title>US accuses three men of 'campaign of terror' against Jewish targets and plot against RAF Fairford</title>
-<link>https://news.sky.com/story/us-charges-three-men-allegedly-linked-to-raf-fairford-incident-13610779</link>
-<guid isPermaLink="false">505f83006c2d830bca743fabdc396dbffbb33b557bc307e8842dcb8ba59bf6cc</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 02:45:00 +0000</pubDate>
-<description>The US has accused three men linked to Iran of masterminding a "campaign of terror" against Jewish targets in the UK and Europe, as well as a thwarted plot at RAF Fairford.</description>
-<enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-b1b-lancer-fairford_7364019.jpg?20261111150954" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-b1b-lancer-fairford_7364019.jpg?20261111150954" medium="image"/>
 </item>
 <item>
 <title>Four grizzly bears killed mother and daughter in Canada</title>
