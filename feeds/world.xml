@@ -4,15 +4,81 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>LIVE: Officials give update on deadly Brooklyn building collapse</title>
+<title>Nvidia CEO Jensen Huang resigns amid alleged affair with reported spy</title>
+<link>https://abcnews.com/Business/nvidia-ceo-jensen-huang-resigns-amid-alleged-affair/story?id=138076256</link>
+<guid isPermaLink="false">273a041ce05ff163f8c83db9b0f0ee9f4415d215465bb4b90e76310710282629</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 18:59:11 +0000</pubDate>
+<description>CFO Colette Kress will serve as interim chief executive, Nvidia said.</description>
+<enclosure url="https://s.abcnews.com/images/US/jensen-huang-3-rt-gmh-261112_1794495668417_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/jensen-huang-3-rt-gmh-261112_1794495668417_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>'Punch in the gut': Homes sales fall to their lowest in 16 years</title>
+<link>https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years</link>
+<guid isPermaLink="false">94edc2cbf3b01841bbda530f0ff3b66bbc72be5aee7d695e597056408c23fe98</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 18:44:00 +0000</pubDate>
+<description>Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors. (Image credit: Mario Tama)</description>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5308+0+0/resize/8192x5308!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F99%2Fb8658ed24ce8afe9d884ffc536e5%2Fgettyimages-2270294552.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5308+0+0/resize/8192x5308!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F99%2Fb8658ed24ce8afe9d884ffc536e5%2Fgettyimages-2270294552.jpg" medium="image"/>
+</item>
+<item>
+<title>Harry Kane becomes England's most-capped men's footballer</title>
+<link>https://news.sky.com/story/harry-kane-becomes-englands-most-capped-mens-footballer-13611667</link>
+<guid isPermaLink="false">f8cb6cb76f039e684a329679b4e79eaa4a525a9d158cbbeb570d3411122d54d2</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 18:02:00 +0000</pubDate>
+<description>Harry Kane has become England's most-capped men's footballer.</description>
+<enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921" medium="image"/>
+</item>
+<item>
+<title>Israel to ban far-left French politician Jean-Luc Mélenchon from entry</title>
+<link>https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry</link>
+<guid isPermaLink="false">505a56d1442fd76af9d2604c756b12344a6e2c1708a7ca1e9e5d13378543e74c</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 17:43:03 +0000</pubDate>
+<description>The Israeli government said Thursday that it would ban far-left French leader Jean-Luc Mélenchon from entering the country after the French presidential contender said he would use French vessels to force aid into Gaza if he were elected. The announcement comes a day after France confirmed it had refused entry to the head of a body representing settlements in the occupied West Bank.</description>
+<enclosure url="https://s.france24.com/media/display/33654616-dab0-11f1-ad25-695cb59fade5/w:1024/p:16x9/2026-10-14T100614Z-1152484815-RC2Y2OATJ5N2-RTRMADP-3-FRANCE-POLITICS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/33654616-dab0-11f1-ad25-695cb59fade5/w:1024/p:16x9/2026-10-14T100614Z-1152484815-RC2Y2OATJ5N2-RTRMADP-3-FRANCE-POLITICS.jpg" medium="image"/>
+</item>
+<item>
+<title>At least 8 dead, including 2 children, after building collapses in Brooklyn</title>
+<link>https://abcnews.com/US/rescue-operations-underway-after-building-collapses-brooklyn-new/story?id=138059620</link>
+<guid isPermaLink="false">c507c4ee5e0e750cbec0239c7c3280a804cc29e471a946ed18d29f77d57d75de</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 17:39:16 +0000</pubDate>
+<description>A three-story building collapsed into an adjacent excavation site, where workers were on scene, according to an FDNY dispatch.</description>
+<enclosure url="https://s.abcnews.com/images/US/brooklyn-building-collapse-1-gty-jef-261112_1794488293746_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/brooklyn-building-collapse-1-gty-jef-261112_1794488293746_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>‘Labelled terrorists’: How France is using anti-terror powers to deter protests</title>
+<link>https://www.france24.com/en/france/20261112-labelled-terrorists-france-authorities-used-anti-terrorism-powers-to-deter-protests</link>
+<guid isPermaLink="false">ff5555fce35f7b8f516804f812ceeb255a43fd890ffef6be91fc9e694e162b4b</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 17:32:06 +0000</pubDate>
+<description>The French government has been accused of weaponising an anti-terror law adopted in the wake of the 2015 Paris attacks to keep dozens of people away from massive protests sweeping the country. Lawyers and rights groups denounce an abuse of power with potentially dangerous repercussions for individual liberties and the right to protest.</description>
+<enclosure url="https://s.france24.com/media/display/fd886f68-d484-11f1-9138-695cb59fade5/w:1024/p:16x9/000-D4BK2ND.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/fd886f68-d484-11f1-9138-695cb59fade5/w:1024/p:16x9/000-D4BK2ND.jpg" medium="image"/>
+</item>
+<item>
+<title>LIVE: ABC News Live</title>
 <link>https://abcnews.com/video/41463246</link>
 <guid isPermaLink="false">c4dde2f9d4430a48432ef223ef2dea7731f9a2b9448e21ee003bf7e7734a1e77</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Thu, 12 Nov 2026 17:16:51 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 17:29:20 +0000</pubDate>
 <description>24/7 coverage of breaking news and live events</description>
-<enclosure url="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_16x9_1600.jpg" medium="image"/>
+<enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Democrats want to stop Trump's arch, golf course and more. What are their options?</title>
@@ -24,17 +90,6 @@
 <description>As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight. (Image credit: Andrew Harnik)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7886x5257+0+0/resize/7886x5257!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2F00%2F45ae5e5c4173a2bbdfc2feb574d7%2Fgettyimages-2303515786.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7886x5257+0+0/resize/7886x5257!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2F00%2F45ae5e5c4173a2bbdfc2feb574d7%2Fgettyimages-2303515786.jpg" medium="image"/>
-</item>
-<item>
-<title>At least 8 dead, including 2 children, after building collapses in Brooklyn: Sources</title>
-<link>https://abcnews.com/US/rescue-operations-underway-after-building-collapses-brooklyn-new/story?id=138059620</link>
-<guid isPermaLink="false">c507c4ee5e0e750cbec0239c7c3280a804cc29e471a946ed18d29f77d57d75de</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 17:13:31 +0000</pubDate>
-<description>A three-story building collapsed into an adjacent excavation site, where workers were on scene, according to an FDNY dispatch.</description>
-<enclosure url="https://s.abcnews.com/images/US/brooklyn-building-collapse-1-gty-jef-261112_1794488293746_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/brooklyn-building-collapse-1-gty-jef-261112_1794488293746_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Concentration of power &amp; wealth: Do tech CEOs have more authority, influence than elected officials?</title>
@@ -92,7 +147,7 @@
 <media:content url="https://s.france24.com/media/display/2915f31c-dead-11f1-ba4a-695cb59fade5/w:1024/p:16x9/2026-11-12T043325Z-1772503551-RC23MOA2UKYO-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg" medium="image"/>
 </item>
 <item>
-<title>DC shooting leaves 1 person killed, 4 injured. Gunman dead</title>
+<title>D.C. shooting leaves 1 person killed, 4 injured. Gunman dead</title>
 <link>https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting</link>
 <guid isPermaLink="false">105c849e7977853cbf37d7d90a99d156ce9c24bafd1f5c1f437d3fb9bf88260e</guid>
 <source>NPR News</source>
@@ -101,6 +156,17 @@
 <description>A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police. (Image credit: Tom Brenner)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2617x1745+0+0/resize/2617x1745!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F8b%2F7e225de64a2d86828ffdb414d762%2Fap26316527860423.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2617x1745+0+0/resize/2617x1745!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F8b%2F7e225de64a2d86828ffdb414d762%2Fap26316527860423.jpg" medium="image"/>
+</item>
+<item>
+<title>Teenage girl who stabbed love rival to death pleads guilty to murder</title>
+<link>https://news.sky.com/story/teenage-girl-who-stabbed-love-rival-to-death-in-fight-over-boy-pleads-guilty-to-murder-13611634</link>
+<guid isPermaLink="false">718a03161c1900b97d0239c72821e2ea88d886d05758da2a49d9397aa845c7d5</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 16:12:00 +0000</pubDate>
+<description>A teenager who stabbed another girl to death during a pre-planned fight over a boy has pleaded guilty to murder.</description>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-kayla-smith-yorkshire-police_7405094.jpg?20261112165340" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-kayla-smith-yorkshire-police_7405094.jpg?20261112165340" medium="image"/>
 </item>
 <item>
 <title>ICE reports record immigration arrests, deportations since Trump White House return</title>
@@ -191,6 +257,28 @@
 <media:content url="https://s.france24.com/media/display/010d6538-deaf-11f1-901c-695cb59fade5/w:1024/p:16x9/EN-20261112-161451-162018-CS.jpg" medium="image"/>
 </item>
 <item>
+<title>WATCH: United Airlines banning AI bots from booking flights</title>
+<link>https://abcnews.com/video/138074238</link>
+<guid isPermaLink="false">879dea5d9394ce231d761e29bdc27257886140e78d3845f17bcab55cca9a8d95</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 15:28:24 +0000</pubDate>
+<description>The airline says customers who give their personal and credit card information to AI businesses run the risk of having their sensitive data exposed.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261112_gma_champion_united2_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261112_gma_champion_united2_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Pope Leo returns to Peru for historic visit</title>
+<link>https://abcnews.com/video/138074243</link>
+<guid isPermaLink="false">602a224799919e7e5b987f0436b62a63a7f5c77c91fd006586fabbb8415ebb31</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 15:27:55 +0000</pubDate>
+<description>The visit marks Pope Leo’s first return to the country where he served as a missionary and bishop for nearly two decades.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261112_gma_pope1_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261112_gma_pope1_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi</title>
 <link>https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks</link>
 <guid isPermaLink="false">6b73f0b62348ddebd0db5e47f03e2ceb56efe951d7d9ba359ea564e9daca5d2e</guid>
@@ -213,6 +301,17 @@
 <media:content url="https://s.france24.com/media/display/04a17a12-deab-11f1-ba23-695cb59fade5/w:1024/p:16x9/Australia-bush-rescue-vignette.jpg" medium="image"/>
 </item>
 <item>
+<title>WATCH: SS United States intentionally sunk off the Gulf Coast of Florida</title>
+<link>https://abcnews.com/video/138074239</link>
+<guid isPermaLink="false">3bbef03a5d8b79d70c5527f8fe9a707e658256ae35498af1af0f595714f0b1b0</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 15:10:07 +0000</pubDate>
+<description>The SS United States was lowered to its final resting place off the Florida Panhandle and will now serve as a diving destination and habitat for marine life.</description>
+<enclosure url="https://s.abcnews.com/images/GMA/261112_gma_spencer_ship3_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/GMA/261112_gma_spencer_ship3_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>For the love of French butter: 'Le beurre' spreading joy globally</title>
 <link>https://www.france24.com/en/tv-shows/entre-nous/20261112-for-the-love-of-french-butter-le-beurre-spreading-joy-globally</link>
 <guid isPermaLink="false">c736d76eb81b28e68ce2eb32938513e9b1461e31700e9c9ed3f3ab51deab4ed6</guid>
@@ -224,17 +323,6 @@
 <media:content url="https://s.france24.com/media/display/1475c0d6-dea8-11f1-a9f3-f71d22e7fea9/w:1024/p:16x9/capture-fbc4c916.jpg" medium="image"/>
 </item>
 <item>
-<title>Nvidia CEO Jensen Huang resigns amid alleged affair with suspected spy</title>
-<link>https://abcnews.com/Business/nvidia-ceo-jensen-huang-resigns-amid-alleged-affair/story?id=138076256</link>
-<guid isPermaLink="false">273a041ce05ff163f8c83db9b0f0ee9f4415d215465bb4b90e76310710282629</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 14:53:01 +0000</pubDate>
-<description>CFO Colette Kress will serve as interim chief executive, Nvidia said.</description>
-<enclosure url="https://s.abcnews.com/images/Business/jensen-huang-1-rt-gmh-261112_1794489771457_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Business/jensen-huang-1-rt-gmh-261112_1794489771457_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Armed robbers flee Paris De Beers store on motorcycles after jewellery heist</title>
 <link>https://www.france24.com/en/france/20261112-armed-robbers-flee-paris-de-beers-store-on-motorcycles-after-jewellery-heist</link>
 <guid isPermaLink="false">ce90a7416e3e2b02fb0b570ea0f1e26ee65bdcf0753cc57c02e86fb60ffde4d8</guid>
@@ -244,6 +332,17 @@
 <description>Four black-clad individuals sped away from De Beers jeweller in Paris's second arrondissement Thursday morning after stealing hundreds of thousands of euros worth of luxury goods at gunpoint. Police are searching for those responsible.</description>
 <enclosure url="https://s.france24.com/media/display/637daf84-dea5-11f1-83ea-695cb59fade5/w:1024/p:16x9/AP26316483816265.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/637daf84-dea5-11f1-83ea-695cb59fade5/w:1024/p:16x9/AP26316483816265.jpg" medium="image"/>
+</item>
+<item>
+<title>Witkoff and Kushner arrive in Moscow to meet with Putin, discuss Ukraine peace talks</title>
+<link>https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892</link>
+<guid isPermaLink="false">65b5e1ade9c09d3d5a7d90fa6d5ed109cb0e5d18e379eddd95998e98e6753785</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 14:39:31 +0000</pubDate>
+<description>President Donald Trump's special envoy Steve Witkoff and son-in-law Jared Kushner landed in Moscow on Thursday morning.</description>
+<enclosure url="https://s.abcnews.com/images/International/Wikoff-Kushner-Moscow-DB-261112_1794469117834_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/Wikoff-Kushner-Moscow-DB-261112_1794469117834_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Democrat Colom flips Mississippi Senate seat</title>
@@ -378,39 +477,6 @@
 <media:content url="https://s.abcnews.com/images/US/wirestory_7a08c78cfc6af1aff2ac8652bd532336_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Midterms: Democrat Colom claims historic win in Mississippi</title>
-<link>https://www.france24.com/en/video/20261112-midterms-democrat-colom-claims-historic-win-in-mississippi</link>
-<guid isPermaLink="false">0cb079298e3c660690d99fec9e65ecf7e1fbb96bdf436f8207125cf3c137ac30</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 13:37:11 +0000</pubDate>
-<description>Scott Colom has become the first Black person to win a Senate race in Mississippi since 1874 and the first Democrat to do so since 1982 after being declared the victor in a razor-edge election on Wednesday. The win is a stunning upset in one of the country’s most reliably red states, adding to what were already sweeping gains by the Democrats at the midterms.</description>
-<enclosure url="https://s.france24.com/media/display/3ade5db6-de9c-11f1-a25d-29048b396e03/w:1024/p:16x9/Colom-midterms-vignette.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/3ade5db6-de9c-11f1-a25d-29048b396e03/w:1024/p:16x9/Colom-midterms-vignette.jpg" medium="image"/>
-</item>
-<item>
-<title>War photographer Patrick Chauvel: 'People have lost faith in the press'</title>
-<link>https://www.france24.com/en/tv-shows/perspective/20261112-war-photographer-patrick-chauvel-people-have-lost-faith-in-the-press</link>
-<guid isPermaLink="false">43447068b0618d4099f5f4118664afaba5730b44767cd59f2f84c94c9cc6d80f</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 13:33:46 +0000</pubDate>
-<description>One of France's top war photographers, who has a 50-year CV of taking pictures in and around conflicts across the planet, has spoken to FRANCE 24 about his concerns that people have lost faith in the press. He notes that journalists are only looking for the truth. Patrick Chauvel has produced nearly 380,000 photographs, from Vietnam to Cambodia, from Afghanistan to Palestine, from Lebanon to Ukraine. He says he wants to take people by the hand to show them how the press works and why.</description>
-<enclosure url="https://s.france24.com/media/display/100c1ede-de9c-11f1-82c5-695cb59fade5/w:1024/p:16x9/capture-0fb797a8.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/100c1ede-de9c-11f1-82c5-695cb59fade5/w:1024/p:16x9/capture-0fb797a8.jpg" medium="image"/>
-</item>
-<item>
-<title>Hegseth's group admonished at Tomb of the Unknowns during Veterans Day visit</title>
-<link>https://abcnews.com/Politics/hegseths-group-admonished-tomb-unknowns-veterans-day-visit/story?id=138057241</link>
-<guid isPermaLink="false">570d87a77e23896b4eedab7974130f2024386903bac2503976fc6a720dc66bc1</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 12:33:32 +0000</pubDate>
-<description>Someone in the group laughed after a group photo, causing the reaction.</description>
-<enclosure url="https://s.abcnews.com/images/Politics/arlington-tomb-1-ht-gmh-261111_1794430499576_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/arlington-tomb-1-ht-gmh-261111_1794430499576_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: ABC's Bob Woodruff's foundation honors wounded soldiers and their families</title>
 <link>https://abcnews.com/video/138062712</link>
 <guid isPermaLink="false">cb4be992f89a4ceb13a109913b033135705c79986f2aefee55aed80f2b418102</guid>
@@ -420,28 +486,6 @@
 <description>David Muir speaks with "The Resilient" – a band made up of wounded soldiers – backstage at Bob Woodruff's annual Stand Up for Heroes, raising millions for veterans and military families.</description>
 <enclosure url="https://s.abcnews.com/images/WNT/261111_wn_muir_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/WNT/261111_wn_muir_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Historic ocean liner sunk to become artificial reef</title>
-<link>https://abcnews.com/video/138073213</link>
-<guid isPermaLink="false">ddaf70278ebcaee20de353175738f77db36d932a6155443459adfc10162d88f1</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 11:44:34 +0000</pubDate>
-<description>The historic SS United States, once the fastest ship on the seas, made a slow final journey beneath the waters Wednesday.</description>
-<enclosure url="https://s.abcnews.com/images/US/261112_gmafl_ship_sunk_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/261112_gmafl_ship_sunk_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Two Iranians convicted of spying for their country after entering Britain illegally</title>
-<link>https://news.sky.com/story/two-iranians-convicted-of-spying-for-their-country-after-entering-britain-illegally-13611458</link>
-<guid isPermaLink="false">6af41b1816dd8a82186e532a646c1227a08f566b7cedc22919cc24118eda58bc</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 11:36:00 +0000</pubDate>
-<description>Two Iranian nationals who arrived in the UK illegally have been found guilty of spying for their country in the first case of its kind.</description>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-mostafa-sepahvand-farhad-manesh_7404907.jpg?20261112115845" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-mostafa-sepahvand-farhad-manesh_7404907.jpg?20261112115845" medium="image"/>
 </item>
 <item>
 <title>Israeli strike on Gaza hospital kills six, health ministry says</title>
@@ -475,28 +519,6 @@
 <description>A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now. (Image credit: Jake Crandall)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1328+0+0/resize/2000x1328!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F6a%2F353ed641433c848011d9892cde0a%2F2026-05-16t221611z-364652352-mt1usatoday28978004-rtrmadp-3-u-s-rep-terri-sewell-and-u-s-rep-shomari-figures-speak.JPG" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1328+0+0/resize/2000x1328!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F6a%2F353ed641433c848011d9892cde0a%2F2026-05-16t221611z-364652352-mt1usatoday28978004-rtrmadp-3-u-s-rep-terri-sewell-and-u-s-rep-shomari-figures-speak.JPG" medium="image"/>
-</item>
-<item>
-<title>At least 23 states considered laws governing ICE and schools this year</title>
-<link>https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration</link>
-<guid isPermaLink="false">3cb7e061d13733b477bebeb04ca305b94ec10386c973244ba35a704a5badc4ee</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
-<description>When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F0f%2F0536f3a34457ac5593ccdf46160b%2Fhkim-ice-schools-final.jpeg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F0f%2F0536f3a34457ac5593ccdf46160b%2Fhkim-ice-schools-final.jpeg" medium="image"/>
-</item>
-<item>
-<title>Senators don't always share bill text online before votes. They should, advocates say</title>
-<link>https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review</link>
-<guid isPermaLink="false">ec559685076ca11f0ba436cdaec6afc5639171ab38cab9ea69f4d1365bbba50d</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
-<description>The text of what lawmakers are considering isn't always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change. (Image credit: Tom Brenner For The Washington Post via Getty Images)</description>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4533x3023+0+0/resize/4533x3023!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2F3f%2Fa146a5c849b3b3a4269fb15cbf1e%2Fgettyimages-2222437745.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4533x3023+0+0/resize/4533x3023!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2F3f%2Fa146a5c849b3b3a4269fb15cbf1e%2Fgettyimages-2222437745.jpg" medium="image"/>
 </item>
 <item>
 <title>Bomb alert at Calais train station disrupts Eurostar</title>
@@ -684,27 +706,5 @@
 <description>ABC News’ Chief Meteorologist Ginger Zee has some eye-opening demonstrations she hopes can help save lives during flash floods.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261110_gma_zee_floods_740_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261110_gma_zee_floods_740_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Officer shot 6 times celebrates wedding</title>
-<link>https://abcnews.com/video/138004494</link>
-<guid isPermaLink="false">3f6ed742cf8ee8b078face536fbfe3490d360714e53edaee514d3c65f971f193</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 10 Nov 2026 11:50:14 +0000</pubDate>
-<description>Five months after Buffalo Police Officer Marc Hurst was shot six times while on duty, he celebrated a moment that once seemed far from certain: marrying his fiancee, Haley.</description>
-<enclosure url="https://s.abcnews.com/images/US/261110_gmafl_cop_wedding_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/261110_gmafl_cop_wedding_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Woman living the 'dream' to save foxes in need</title>
-<link>https://abcnews.com/video/138004318</link>
-<guid isPermaLink="false">e1a06f21edef456cbffa5df282f3850ffcf9b8fde3670ab5a0df9d4a4a22c89e</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Tue, 10 Nov 2026 11:31:23 +0000</pubDate>
-<description>ABC News' Danny New talks to a woman who's on a mission to save foxes at a sanctuary in upstate New York.</description>
-<enclosure url="https://s.abcnews.com/images/US/261110_gmafl_foxes_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/261110_gmafl_foxes_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 </channel></rss>
