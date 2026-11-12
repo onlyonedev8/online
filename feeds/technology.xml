@@ -15,6 +15,17 @@
 <media:content url="https://image.theregister.com/?imageId=5309241&amp;width=800" medium="image"/>
 </item>
 <item>
+<title>Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns</title>
+<link>https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns</link>
+<guid isPermaLink="false">64cb458074bc19a852a2ea24a6775cac5f05514ee97983917e834cd11f82998b</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 00:01:03 +0000</pubDate>
+<description>Inspectors find some officers acted on potential matches from retrospective searches without making enough checks Police officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found. Although the technology can help fight crime, the report found it is beset by errors and biases , and operators do not always realise they must make further inquiries to verify the data. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5308fdec05d4d61e3572087bdd58f720" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/eb252798031db61ecc0c7999fd67d3e7c47bc726/464_0_4640_3712/master/4640.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5308fdec05d4d61e3572087bdd58f720" medium="image"/>
+</item>
+<item>
 <title>CEO Jensen Huang's job is suddenly on the line at Nvidia</title>
 <link>https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia</link>
 <guid isPermaLink="false">57364581a5052ad006a2bc2979636e995e785890dd3671be7913c30607d7e524</guid>
@@ -1311,17 +1322,6 @@
 <description>Cisco will no longer create products that don’t integrate with Cloud Control, its SaaS-y management platform that offers netadmins a single tool to manage all of the networking giant’s devices and much of its software portfolio. The networking giant announced Cloud Control in June 2025 and only made it available to customers in the USA. Cisco has previously told The Register that slow rollout reflects the fact that Cisco needs to nail privacy and other regulatory niceties, and deploy infrastructure, before introducing the service to other markets. It appears Cisco is now satisfied it has sorted out those issues. Jeff Schultz, Cisco’s senior vice president for portfolio strategy and marketing, today told the company’s Live conference in Australia that Cloud Control will come online in the European Union, UK, and Down Under in February 2027. Japan, India, and Canada will get their turn in May. Schultz said Cisco is “working tirelessly” to deploy Cloud Control across the world as soon as possible. He also revealed that, starting next year, Cisco will no longer ship products that don’t integrate with Cloud Control. That doesn’t mean those products will be manageable only if they can connect to Cloud Control. Instead, the decision reflects Cisco’s belief that the main thing stopping its customers buying more of its products is the complexity of operating them in concert. Schultz also feels that Cloud Control represents “platform advantage” for Cisco, because when users integrate networking, security, and observability the result is better manageability and resilience. Schultz also told the conference that Cisco will bundle its Thousand Eyes observability and security tool with the “Essentials” and “Advantage” licenses. “We admit it was hard to license and deploy,” he said during his keynote speech, adding that the tool will be deployed automatically with Wi‑Fi 6E and Wi‑Fi 7 hardware. Another product Cisco plans to bring to more customers is Live Protect, a tool that implements compensating controls for flaws that organizations can’t immediately patch. The product has become particularly useful since Anthropic's Mythos model, and similar AI offerings, made it possible to quickly find more software bugs and flaws and overwhelmed tech teams whose patching apparatus was not set up to handle hundreds of montly CVEs. Live Protect currently works on some of Cisco's datacenter switches, plus SD-WAN and WLAN controllers. From December, Cisco will extend it to 8000 series routers, secure firewalls, campus gateway, and to Cloud Control itself. From May 2027, Live Protect will work with Cisco’s ASR 9000 series service aggregation routers and Network Convergence System. "Expect this to be a major investment area," Schultz added. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=244176&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=244176&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video</title>
-<link>https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang</link>
-<guid isPermaLink="false">f3957bc9f46278e8e5d9a7c97eb4453804fbda1751d8485b754d11b4bae2d9c2</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 01:40:32 +0000</pubDate>
-<description>Donald Trump defended defense secretary Pete Hegseth, who is facing an impeachment resolution from Republican senator Thomas Massie, saying Hegseth 'won two wars'. The president, who said he had spoken to Nvidia CEO Jensen Huang, said he was 'amazed' by claims Huang conducted an affair with an alleged Chinese spy, and that the FBI was now looking into the issue Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? Republican Thomas Massie moves to force vote to impeach Pete Hegseth Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/ab7c6bd313bc788fbe0af23bacc93090ccecb010/243_0_3462_2770/master/3462.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95d4d8ed83c990a53c88e65c8bde0fd7" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/ab7c6bd313bc788fbe0af23bacc93090ccecb010/243_0_3462_2770/master/3462.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95d4d8ed83c990a53c88e65c8bde0fd7" medium="image"/>
 </item>
 <item>
 <title>Anthropic's super bug-finding Mythos model is going into Cisco and IBM products</title>
