@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Iran live updates: Bessent blasts Iranian threats</title>
+<link>https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi?id=137967256</link>
+<guid isPermaLink="false">4727bff5af62f0b71f7e8cf793978204fdaf806a50b1ddbdbe3c74d8434bbb88</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 17:57:34 +0000</pubDate>
+<description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
+<enclosure url="https://s.abcnews.com/images/US/bessent-3-ap-gmh-261113_1794585631634_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/bessent-3-ap-gmh-261113_1794585631634_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft apologizes for email disruption, says AI agents not responsible</title>
+<link>https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203</link>
+<guid isPermaLink="false">a85d5673103c75ab9e97c07ca815e97fdbe41008609c3a68a77805043ca46ce3</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 17:38:52 +0000</pubDate>
+<description>Microsoft is reporting "issues" with users accessing Outlook and Teams.</description>
+<enclosure url="https://s.abcnews.com/images/US/microsoft-1-rt-gmh-261113_1794577594921_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/microsoft-1-rt-gmh-261113_1794577594921_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>The Nvidia affair: Are markets about to fall out of love with AI?</title>
 <link>https://www.france24.com/en/americas/20261113-the-nvidia-affair-are-markets-about-to-fall-out-of-love-with-ai</link>
 <guid isPermaLink="false">afdd33fb841757df92e36662ed3e3f59b98a05ff5111c842996d16470033b7fc</guid>
@@ -35,17 +57,6 @@
 <description>Eleven years on, France pays tribute to the victims of the November 13 attacks. French officials, victims’ associations and families gathered this Friday to pay their respects to those killed in the attacks in Paris on November 13, 2015.</description>
 <enclosure url="https://s.france24.com/media/display/bbb382e2-df80-11f1-a783-5f54d898a954/w:1024/p:16x9/EN-Thumbnail-5.jpg" type="image/jpeg"/>
 <media:content url="https://s.france24.com/media/display/bbb382e2-df80-11f1-a783-5f54d898a954/w:1024/p:16x9/EN-Thumbnail-5.jpg" medium="image"/>
-</item>
-<item>
-<title>Iran live updates: US denies Iran's claim that it destroyed US radar in Bahrain</title>
-<link>https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi?id=137967256</link>
-<guid isPermaLink="false">4727bff5af62f0b71f7e8cf793978204fdaf806a50b1ddbdbe3c74d8434bbb88</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 16:47:38 +0000</pubDate>
-<description>President Donald Trump announced "major combat operations" against Iran on Feb. 28.</description>
-<enclosure url="https://s.abcnews.com/images/US/iran-1-gty-gmh-261113_1794581013989_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/iran-1-gty-gmh-261113_1794581013989_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Crossing Afghanistan along the 'highway of death'</title>
@@ -301,6 +312,28 @@
 <media:content url="https://s.abcnews.com/images/US/wirestory_9fc9b226f25e5c371db6021170b70d27_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
+<title>Ukraine fires nearly 1,200 drones at Russia as US-led talks consider Europe security</title>
+<link>https://abcnews.com/International/wireStory/ukraine-fires-1200-drones-russia-us-led-talks-138104516</link>
+<guid isPermaLink="false">327f627314c82516d8b442f49a6ac5d66bd37ab591198ed33c1850e449d585f0</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 13:44:27 +0000</pubDate>
+<description>Ukraine has launched nearly 1,200 drones at Russian targets in one of its largest aerial attacks since the invasion began almost five years ago</description>
+<enclosure url="https://s.abcnews.com/images/International/wirestory_157d168cb7ff9cae318cbf6cecb3988f_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/wirestory_157d168cb7ff9cae318cbf6cecb3988f_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Storms to bring heavy snow, powerful winds and dangerous surf to the West</title>
+<link>https://abcnews.com/US/storms-bring-heavy-snow-powerful-winds-dangerous-surf/story?id=138104059</link>
+<guid isPermaLink="false">98f173679001892c67e415152969cb5008b1619c9e4d80f20c363d06a91f0f3f</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 13:33:25 +0000</pubDate>
+<description>A series of storms will move across the West over the coming week, a pattern expected to occur often over the next six months as a record El Niño pattern takes hold.</description>
+<enclosure url="https://s.abcnews.com/images/US/california-weather-surf_1794569061521_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/california-weather-surf_1794569061521_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Manchester United names USMNT coach Mauricio Pochettino as its manager</title>
 <link>https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united</link>
 <guid isPermaLink="false">53022a41165197236e2165475e244f3fd15cd8b846a48767731ca7f90ea0427d</guid>
@@ -310,39 +343,6 @@
 <description>Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manchester United. (Image credit: Omar Vega)</description>
 <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3334+0+0/resize/5000x3334!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdc%2F09%2F919cf5ba4a6b819cee0be681254b%2Fgettyimages-2298715390.jpg" type="image/jpeg"/>
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3334+0+0/resize/5000x3334!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdc%2F09%2F919cf5ba4a6b819cee0be681254b%2Fgettyimages-2298715390.jpg" medium="image"/>
-</item>
-<item>
-<title>What we know about victims of deadly Brooklyn building collapse</title>
-<link>https://abcnews.com/US/victims-deadly-brooklyn-building-collapse/story?id=138098954</link>
-<guid isPermaLink="false">af311d84e09a1a26c3974f0b789078672fe5d8169023b95871865940aeedf0ed</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 13:14:37 +0000</pubDate>
-<description>Two children, ages 9 and 10, were among those killed, according to authorities.</description>
-<enclosure url="https://s.abcnews.com/images/US/2304318268_1794541308058_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/2304318268_1794541308058_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft Outlook outage updates: 'Progress toward recovery'</title>
-<link>https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203</link>
-<guid isPermaLink="false">a85d5673103c75ab9e97c07ca815e97fdbe41008609c3a68a77805043ca46ce3</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 13:07:33 +0000</pubDate>
-<description>Microsoft is reporting "issues" with users accessing Outlook and Teams.</description>
-<enclosure url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/microsoft-1-as-gmh-261112_1794510393061_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Man United hires Mauricio Pochettino, who leaves US job with task of reviving team</title>
-<link>https://abcnews.com/Sports/wireStory/man-united-hires-mauricio-pochettino-leaves-us-job-138104614</link>
-<guid isPermaLink="false">4bd5062280dde636d6406131e06624c8c4f2b04f282d2b3ece863cfbea95ec35</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 13:06:37 +0000</pubDate>
-<description>Mauricio Pochettino has been hired as Manchester United’s head coach, agreeing to leave his job with the U.S. national team to take on the challenge of reviving the fortunes of English soccer’s once dominant force</description>
-<enclosure url="https://s.abcnews.com/images/Sports/wirestory_5f28d4506d3e200759024745237e6fd0_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Sports/wirestory_5f28d4506d3e200759024745237e6fd0_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>The scourge of femicide in Mexico: Impunity reigns in state of Morelos</title>
@@ -486,6 +486,17 @@
 <description>An attorney for Republican Ken Paxton says Texas' outgoing attorney general has finalized his divorce</description>
 <enclosure url="https://s.abcnews.com/images/US/wirestory_63a44e1521d290263ce0be4ae701dcff_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/wirestory_63a44e1521d290263ce0be4ae701dcff_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>WATCH: Tanker truck driver narrowly avoids train crash in Fort Worth</title>
+<link>https://abcnews.com/video/138096388</link>
+<guid isPermaLink="false">0165d670fbb924d55a84e1aaef40658b088a8ae043292d8ef6899855364ff45b</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 13 Nov 2026 01:29:34 +0000</pubDate>
+<description>A tanker truck driver managed to escape from his vehicle just seconds before a train slammed into his truck.</description>
+<enclosure url="https://s.abcnews.com/images/WNT/261112_wn_tanker_truck_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/WNT/261112_wn_tanker_truck_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Colom’s historic Senate win could reshape Mississippi’s political future: Analysis</title>
@@ -706,17 +717,6 @@
 <description>Patients at Children’s Nebraska were surprised by superheroes washing their windows as part of a special tradition.</description>
 <enclosure url="https://s.abcnews.com/images/GMA/261111_gma_potd1_749_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261111_gma_potd1_749_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: NYC tour helicopter makes hard landing in New Jersey</title>
-<link>https://abcnews.com/video/138029014</link>
-<guid isPermaLink="false">e059f81b91c6e83c448b40a18bdea330606a42f1383b21fac7c81dffc921e611</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 11 Nov 2026 12:10:09 +0000</pubDate>
-<description>The pilot of a New York City sightseeing helicopter is being praised for pulling off a remarkable emergency landing in Bayonne, New Jersey, after the chopper’s tail rotor broke off.</description>
-<enclosure url="https://s.abcnews.com/images/WNT/261110_wn_rivers_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/WNT/261110_wn_rivers_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: These NFL cheerleaders balance life in the military</title>
