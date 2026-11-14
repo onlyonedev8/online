@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto</title>
+<link>https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto</link>
+<guid isPermaLink="false">56ee52be9154114cc6e24185b5a812f8a9aaad3c83c2bedd633e189ed7e45bac</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Sat, 14 Nov 2026 14:01:02 +0000</pubDate>
+<description>OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Here’s what happened in crypto today</title>
 <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
 <guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
@@ -1047,17 +1058,6 @@
 <description>Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana</title>
-<link>https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana</link>
-<guid isPermaLink="false">bfc735d5ef2c50219bdc916f1a70d4b12a85cb741ab978cfcefc3580fc9df139</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 17:09:18 +0000</pubDate>
-<description>Solana Privacy Rings encrypt balances and transfer amounts without leaving Solana. Here's how they work, and how they compare.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png" medium="image"/>
 </item>
 <item>
 <title>Black-owned M&amp;F shareholders opt overwhelmingly to stay the course</title>
