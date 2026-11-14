@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft confirms global outage resolved, rules out cyberattack</title>
+<link>https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out</link>
+<guid isPermaLink="false">b3f7ad2762ce13d06dfb561a1eca9d1b15568697be035e6cbdd2c4c880a58b6a</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sat, 14 Nov 2026 10:34:06 +0000</pubDate>
+<description>Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg" medium="image"/>
+</item>
+<item>
 <title>MegaETH parent cuts 20% of staff amid restructuring, AI push</title>
 <link>https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push</link>
 <guid isPermaLink="false">46c436197c542b75d7f8edda618f14d28b87aa694fcd7f20fabafc3694dbaa77</guid>
@@ -904,17 +915,6 @@
 <description>Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.</description>
 <enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78FFGSYBN954VJZWS39264X/jensen-with-exact-cointelegraph-branding-1.png" type="image/jpeg"/>
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78FFGSYBN954VJZWS39264X/jensen-with-exact-cointelegraph-branding-1.png" medium="image"/>
-</item>
-<item>
-<title>Bit Digital stock falls 5% in pre-market after Q3 revenue miss</title>
-<link>https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss</link>
-<guid isPermaLink="false">8c7e030ab6bbd847d76b2d2a61cd1fb9e59ce9f5029cd0d5d0082bbfdcec3971</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 13:52:39 +0000</pubDate>
-<description>Bit Digital’s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4B3MMABZE2GV838GSA8JBR1/hi-crypto-market-trading-trader-breaking-news-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4B3MMABZE2GV838GSA8JBR1/hi-crypto-market-trading-trader-breaking-news-1.jpg" medium="image"/>
 </item>
 <item>
 <title>DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027</title>
