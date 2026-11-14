@@ -4,15 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>How Starship will play a big role in Artemis III.</title>
+<title>Starship Live Updates: SpaceX Makes History With Successful Rocket Landing in Texas</title>
+<link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch</link>
+<guid isPermaLink="false">99ae00b514c0a5178428ca761e8b202025207c64d8065b445fd80e2f3094af88</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Sat, 14 Nov 2026 21:43:28 +0000</pubDate>
+<description>The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>Starship will play a big role in Artemis III.</title>
 <link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/how-starship-will-play-a-big-role-in-artemis-iii</link>
 <guid isPermaLink="false">fc2a2e276053a6c30675a8b42838a721eb87f17aa54806c18695679e7b5c7b3d</guid>
 <source>New York Times Science</source>
 <category>science</category>
-<pubDate>Sat, 14 Nov 2026 20:45:23 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 21:03:26 +0000</pubDate>
 <description>An Orion spacecraft sitting on top of the Space Launch System rocket before the Artemis II mission. During Artemis III, Orion will try to dock with Starship.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-live-artemis-iii-topart-qpvc/14starship-live-artemis-iii-topart-qpvc-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-live-artemis-iii-topart-qpvc/14starship-live-artemis-iii-topart-qpvc-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>SpaceX is betting mechanical arms can ‘catch’ its reusable rockets.</title>
+<link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/spacex-is-betting-mechanical-arms-can-catch-its-reusable-rockets</link>
+<guid isPermaLink="false">ad74b918d7d6d104e48269e68c0af8638f56abee70cf0d191787c0be1b7421bb</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Sat, 14 Nov 2026 21:02:13 +0000</pubDate>
+<description>Starship launched on Friday from SpaceX’s “Mechazilla” tower. The company is planning for the tower’s mechanical arms to catch the returning rocket on Saturday.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-live-arms-topart-mwqk/14starship-live-arms-topart-mwqk-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-live-arms-topart-mwqk/14starship-live-arms-topart-mwqk-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>Inside Starfactory, where Starships are born.</title>
@@ -519,6 +541,17 @@
 <description>Nothing really exists in isolation. Almost every part of our lives exists in a network. Consciousness arises from what neurons do together, life from what genes and proteins do together, society from what we do together. When researchers began mapping real-world networks in the 1990s – from the World Wide Web to Hollywood actors linked by films – they found that wildly different systems shared… Source</description>
 <enclosure url="https://www.quantamagazine.org/wp-content/uploads/2026/11/JOW-S5-E12-cr.Chanelle-Nibbelink-Default-NO-LOGO.webp" type="image/jpeg"/>
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/11/JOW-S5-E12-cr.Chanelle-Nibbelink-Default-NO-LOGO.webp" medium="image"/>
+</item>
+<item>
+<title>Heart in the Sky at NASA Kennedy</title>
+<link>https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy</link>
+<guid isPermaLink="false">0e414f6d88aa72b3ae0f412f1b2fc29a0923c41550d9237805d9fceaaf46563d</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 12 Nov 2026 19:12:49 +0000</pubDate>
+<description>NASA/Amber Jean Notvest The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’s 250th anniversary. Image credit: NASA/Amber Jean Notvest</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>A robot has assembled a structure in space for the first time</title>
