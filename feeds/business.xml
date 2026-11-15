@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How Wall Street Is Racing to Claim the Onchain Dollar</title>
+<link>https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins</link>
+<guid isPermaLink="false">f11c2aac88dc902d75511f16a98a5b5f03bd90fe3f11db3e86aa1454faf50dc0</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Sun, 15 Nov 2026 16:01:02 +0000</pubDate>
+<description>From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png" medium="image"/>
+</item>
+<item>
 <title>Enterprise blockchain is going to come back from the dead</title>
 <link>https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead</link>
 <guid isPermaLink="false">04fd5f62d581dbe01f94228c962bd8a8c56ca69297c80bb1171443d457625c67</guid>
@@ -1036,17 +1047,6 @@
 <description>Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss</title>
-<link>https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss</link>
-<guid isPermaLink="false">8710196f2016d867c4eee4682b0555bf6e2d56b0cc6c9d6e3e73508b7f3ab8f0</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 11 Nov 2026 21:16:03 +0000</pubDate>
-<description>Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Black-owned M&amp;F shareholders opt overwhelmingly to stay the course</title>
