@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Coinone warns of phishing, identity theft after customer data breach</title>
+<link>https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information</link>
+<guid isPermaLink="false">41c0f4a89211da1b160082add7441b2e70513e06a98cfe51827e0e180dc65c8c</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 15 Nov 2026 08:07:58 +0000</pubDate>
+<description>The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png" medium="image"/>
+</item>
+<item>
 <title>RWA protocol stUSDT winds down three years after $2.3B TVL peak</title>
 <link>https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak</link>
 <guid isPermaLink="false">649acbe06a359430a257a7434a18ef991f87b98814ef9083eb6b253be6f4e493</guid>
@@ -862,17 +873,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png" medium="image"/>
 </item>
 <item>
-<title>Ex-PNC employee faces 5 charges in $86K theft</title>
-<link>https://www.bankingdive.com/news/pnc-ex-employee-charged-86k-theft-gambling/874523</link>
-<guid isPermaLink="false">e1b46710be0c6dd8a85fb2cfbbe2953f6bf6b0565b499ce7ca78f88e1ecb2b98</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 17:08:37 +0000</pubDate>
-<description>Jacqueline Clinton allegedly misused her position to make 10 false credit adjustments between May and August. Investigators flagged ATM withdrawals at casinos and gambling websites after transactions.</description>
-<enclosure url="https://imgproxy.divecdn.com/HRVIu5aGLObagcUAuU3c2nCHl-_J7G_fdIHR0ipnhs4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQxMzAxODUxLmpwZw==.webp" type="image/jpeg"/>
-<media:content url="https://imgproxy.divecdn.com/HRVIu5aGLObagcUAuU3c2nCHl-_J7G_fdIHR0ipnhs4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQxMzAxODUxLmpwZw==.webp" medium="image"/>
-</item>
-<item>
 <title>Hancock Whitney to buy Trustmark in $3.2B deal</title>
 <link>https://www.bankingdive.com/news/hancock-whitney-buy-trustmark-3b-deal-bank-acquisition/874522</link>
 <guid isPermaLink="false">1a30aa7b715152dc35b8c2fcd6522a5c4eccd0f768987e8af0c9e63ccedf8d6b</guid>
@@ -926,17 +926,6 @@
 <description>KPMG counted every gold bar behind XAUT, making it Tether's second stablecoin to complete a full audit by a Big Four accounting firm.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Gold1-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/06/Gold1-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down</title>
-<link>https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation</link>
-<guid isPermaLink="false">8f2b2151b3449e080d9f0f89a50fedc1facaff5930d61d11fe5da222d8eb1141</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 15:46:06 +0000</pubDate>
-<description>Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7859A9F3JFAC903AM8D1SAR/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-960x640.webp" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7859A9F3JFAC903AM8D1SAR/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-960x640.webp" medium="image"/>
 </item>
 <item>
 <title>BofA to settle fake-accounts lawsuit</title>
@@ -1102,5 +1091,16 @@
 <description>CEO and co-founder Jordan Wright said the fintech seeks to raise between $30 million and $50 million, although AI firms capturing investor attention has made the fundraising climate more challenging.</description>
 <enclosure url="https://imgproxy.divecdn.com/dKEO-7hKU-ryHOfgP135wkRyZNYCFzp-Kk5BqHp9320/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2NzQ3ODE1LmpwZw==.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/dKEO-7hKU-ryHOfgP135wkRyZNYCFzp-Kk5BqHp9320/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2NzQ3ODE1LmpwZw==.webp" medium="image"/>
+</item>
+<item>
+<title>Northern Trust leans on Microsoft engineers to boost agentic buildout</title>
+<link>https://www.bankingdive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874362</link>
+<guid isPermaLink="false">90a5e84efcd2a272c466bc9528c880357f474981ce0af9972624a55184172732</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+<description>The financial services firm cut analyst data preparation time by 83% with the use of an onboarding agent, the companies said.</description>
+<enclosure url="https://imgproxy.divecdn.com/BHGADPxOZR23ubwcZbw8z_uTUZk4vq1HOtEMnze9IOc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NTEwMzQxNi5qcGc=.webp" type="image/jpeg"/>
+<media:content url="https://imgproxy.divecdn.com/BHGADPxOZR23ubwcZbw8z_uTUZk4vq1HOtEMnze9IOc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NTEwMzQxNi5qcGc=.webp" medium="image"/>
 </item>
 </channel></rss>
