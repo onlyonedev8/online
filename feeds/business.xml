@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Coinbase and Broadridge propose standard for tokenized stock disclosures</title>
+<link>https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices</link>
+<guid isPermaLink="false">76538024575bdb4e17af469344ca342197f95fc58fa959981e19dfca9621f2c4</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 16 Nov 2026 19:56:18 +0000</pubDate>
+<description>The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png" medium="image"/>
+</item>
+<item>
+<title>Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief</title>
+<link>https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief</link>
+<guid isPermaLink="false">5c00bb2c5df931bf8ed62ab7a1fcf4330890c1ac575945808e55b2c4b606b12e</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Mon, 16 Nov 2026 19:36:03 +0000</pubDate>
+<description>Former White House crypto chief Patrick Witt said the Clarity Act "lost against the clock," and regulators will now set the rules.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/patrick-witt-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/patrick-witt-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
 <title>Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'</title>
 <link>https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia</link>
 <guid isPermaLink="false">bd6858bbb70424204989403390ec3c5e10a9eaee125637b9e74b8b339f8ab20e</guid>
@@ -818,17 +840,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BB5D5YR6N43P941FXA2NG0/hi-kraken-ipo-2.jpg" medium="image"/>
 </item>
 <item>
-<title>US regulators move ahead on crypto trust charters as Senate scrutiny grows</title>
-<link>https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows</link>
-<guid isPermaLink="false">64047524acaec063e69f86031998bf4f040a9c0b0e7b9e75e8c178be48712593</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Fri, 13 Nov 2026 20:53:20 +0000</pubDate>
-<description>Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XVTDG9HXS/regulation-papers.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2EYQFNBQWHSKS9XVTDG9HXS/regulation-papers.jpg" medium="image"/>
-</item>
-<item>
 <title>China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts</title>
 <link>https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts</link>
 <guid isPermaLink="false">8c1c4b268412f617c5ee9f8f1ea0923f2f195324277e491b75e8cb967fe9f01d</guid>
@@ -1047,17 +1058,6 @@
 <description>Nvidia’s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credibility to a company facing a very public leadership test.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/11/colette-kress-nvidia-ceo-decrypt-style-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/11/colette-kress-nvidia-ceo-decrypt-style-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting</title>
-<link>https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang</link>
-<guid isPermaLink="false">82669f40e831025b9e3cf22cc9c89a6e741924855cf6b76407d2bbbc2cea1f73</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 18:06:03 +0000</pubDate>
-<description>Nvidia shares tumbled after Jensen Huang’s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping up.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png" medium="image"/>
 </item>
 <item>
 <title>Ex-PNC employee faces 5 charges in $86K theft</title>
