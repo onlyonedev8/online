@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack</title>
+<link>https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack</link>
+<guid isPermaLink="false">da20fa7bd69fe44aefd5372969e50acbb90afba4414fb8c06214b4951e501094</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Mon, 16 Nov 2026 02:33:07 +0000</pubDate>
+<description>Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Jensen Huang weighs Nvidia comeback days after shock exit: FT</title>
 <link>https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit</link>
 <guid isPermaLink="false">64d2e6f6183c88d8d561f03ffa5b75889c54ceb6b385689144988e67299afa15</guid>
@@ -783,17 +794,6 @@
 <description>Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express</title>
-<link>https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express</link>
-<guid isPermaLink="false">5412c60bdd7bf819c754739be89dec39d6572c415d1f46ecb7876ccbdfa3404c</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 12 Nov 2026 22:29:58 +0000</pubDate>
-<description>North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg" medium="image"/>
 </item>
 <item>
 <title>North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says</title>
