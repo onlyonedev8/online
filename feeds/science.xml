@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Fearing Chinese Rivals, U.S. Biotech Adopts a New Norm: Share Nothing</title>
+<link>https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html</link>
+<guid isPermaLink="false">8a9650bc16c44c73c362f49f45d114bb1274c1857d1c8c1275a473821e83cda7</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Tue, 17 Nov 2026 11:57:52 +0000</pubDate>
+<description>Fears that Chinese companies will seize on biotech discoveries in the U.S. and quickly beat them to market with their own inventions or slightly altered dupes have prompted American companies to keep their discoveries secret.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>Plans to rely on carbon removal tech spark debate at COP31</title>
+<link>https://www.newscientist.com/article/2599223-plans-to-rely-on-carbon-removal-tech-spark-debate-at-cop31</link>
+<guid isPermaLink="false">bb4fdad742efc3518b001370ac40af29f87f1c8eb237d03830c29da691cde2b0</guid>
+<source>New Scientist</source>
+<category>science</category>
+<pubDate>Tue, 17 Nov 2026 11:47:27 +0000</pubDate>
+<description>Some countries at the COP31 summit are calling to accelerate the deployment of carbon dioxide removal and carbon capture, but critics argue these approaches are unproven at scale and distract from efforts to phase out fossil fuels</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320895754.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320895754.jpg" medium="image"/>
+</item>
+<item>
+<title>Satellites now outnumber the visible stars above most towns</title>
+<link>https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns</link>
+<guid isPermaLink="false">cddbeb8c597f07868a3ae72ea2cc163f5db9eb0b3a3c13cd6e6d0dd2f7b7c2de</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
+<description>&lt;p&gt;Tereza is a London-based science and technology journalist, aspiring fiction writer and amateur gymnast. Originally from Prague, the Czech Republic, she spent the first seven years of her career working as a reporter, script-writer and presenter for various TV programmes of the Czech Public Service Television. She later took a career break to pursue further education and added a Master's in Science from the International Space University, France, to her Bachelor's in Journalism and Master's in Cultural Anthropology from Prague's Charles University. She worked as a reporter at the Engineering and Technology magazine, freelanced for a range of publications including Live Science, Space.com, Professional Engineering, Via Satellite and Space News and served as a maternity cover science editor at the European Space Agency.&lt;/p&gt; More than 700 satellites are crossing the sky over an average mid-latitude town at any moment of the night, outnumbering in many cases the stars visible to the naked eye. That's based on an analysis of the trajectories of the 15,833 active satellites that currently circle the planet in low Earth orbit below an altitude of 1,200 miles (2,000 kilometers). Analyzing data from Oct. 12 and 18 this year, researchers found that with a completely unobstructed horizon, 710 satellites were crossing the sky in every single moment of the night above an average U.K. town. The results were published as a non-peer-reviewed study conducted by engineering firm Accu Components, and is based on satellite monitoring data from the U.S. Space Force available through the public website CelesTrak. Although the researchers specifically focused on the U.K., they say that such heavy satellite traffic flows above most of Europe, the U.S. and other mid-latitude regions, especially between 40 and 50 degrees north or south. "Most Starlink satellites orbit at around 53 degrees to the equator, so the satellites bunch up over the mid-latitudes. These worldwide figures are approximate, based on a global grid over a single day," Accu Components spokesperson told Space.com in an email. "Skies near the equator are the quietest, with around 490 satellites." Not all of those satellites are visible to the naked eye, the researchers said in a statement. Because satellites unlike stars don't produce their own light, they must be illuminated by the sun , while the ground below has already sunk into darkness, to be visible. According to the study, an average of 105 satellites out of those 710 were catching light as they zoomed overhead, shining as bright as stars. The spokesperson said that the actual number of visible satellites varies drastically throughout the night. During the hours after dusk and before dawn, a much greater number of satellites can be seen, while in the middle of the night most no longer catch any light. "For a typical U.K. town, around 300 satellites are catching the sunlight in the first hour or so after dark," the spokesperson said. "That falls</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/Sq8YoimJ4x8q7dGQSJwaLf-1920-80.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/Sq8YoimJ4x8q7dGQSJwaLf-1920-80.jpg" medium="image"/>
+</item>
+<item>
 <title>There’s a New Push at COP31 in Turkey: Electrification</title>
 <link>https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html</link>
 <guid isPermaLink="false">04361ccd0337f7be6f32dc681bc5ceaae7cfe4c3cbf1ecf1389a339be7df295e</guid>
@@ -13,17 +46,6 @@
 <description>With war squeezing global oil and gas supplies, leaders at COP31 are backing a plan that would mirror China’s rapid grid expansion.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/17/multimedia/17CLI-COP-ELECTRIC-01-vwcp/17CLI-COP-ELECTRIC-01-vwcp-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/17/multimedia/17CLI-COP-ELECTRIC-01-vwcp/17CLI-COP-ELECTRIC-01-vwcp-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Fearing Chinese Rivals, U.S. Biotech Adopts a New Norm: Share Nothing</title>
-<link>https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html</link>
-<guid isPermaLink="false">8a9650bc16c44c73c362f49f45d114bb1274c1857d1c8c1275a473821e83cda7</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 10:01:44 +0000</pubDate>
-<description>Fears that Chinese companies will seize on biotech discoveries in the U.S. and quickly beat them to market with their own inventions or slightly altered dupes have prompted American companies to keep their discoveries secret.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>APOD: 2026 November 17 – Milky Way versus Aurora</title>
@@ -752,17 +774,6 @@
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320559766.jpg" medium="image"/>
 </item>
 <item>
-<title>Researchers build the first ever quantum clock that uses sunlight</title>
-<link>https://www.newscientist.com/article/2598583-researchers-built-the-first-ever-quantum-clock-that-uses-sunlight</link>
-<guid isPermaLink="false">01b49bd31d5b45da3ae55dd7ad3f7ae44f5abf033ee8e9d673fff62eadbbfc05</guid>
-<source>New Scientist</source>
-<category>science</category>
-<pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
-<description>Quantum clocks usually rely on advanced lasers and isolated atoms in the lab, but a new experiment showed that the same clock design can work with sunlight instead</description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320386804.jpg" type="image/jpeg"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320386804.jpg" medium="image"/>
-</item>
-<item>
 <title>Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star</title>
 <link>https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star</link>
 <guid isPermaLink="false">13a546fd27421951f798151c9c0a3a15f38456f499031ae94835917dbd0f8f1c</guid>
@@ -994,17 +1005,6 @@
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp" medium="image"/>
 </item>
 <item>
-<title>Satellite snaps rare birds-eye view of the ISS | Space photo of the day for Nov. 12, 2026</title>
-<link>https://www.space.com/space-exploration/international-space-station/satellite-snaps-rare-birds-eye-view-of-the-iss-space-photo-of-the-day-for-nov-12-2026</link>
-<guid isPermaLink="false">cb00505887d7faef850f20c88a2973d76cdfc34cdc7e9e50e5a020d054056b32</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
-<description>null A satellite looks down at the International Space Station in orbit. (Image credit: HEO) A commercial satellite has spotted the International Space Station (ISS), giving us a unique view of the orbiting lab from above. What is it? Most of the time, when we see the ISS, it is from down here on Earth or from the viewpoint of the astronauts onboard, peering out the windows at the station's limbs, solar arrays and instruments. But in this snapshot, which was posted on X on Nov. 9 by the Australian company HEO, we can see the station stretched out in all its glory. HEO specializes in using satellites in low Earth orbit to capture images of other spacecraft, though longer-term the company aims to capture observations far out into the solar system. HEO doesn't build the satellites that take these photos; rather, the company's software tasks the spacecraft to image targets as they come into range. This great photo of the ISS from above, for example, was taken by a satellite operated by BlackSky, a Virginia-based company that holds a non-Earth imaging agreement with HEO . So far, HEO and its partners have captured imagery of a variety of spacecraft in orbit, including the ISS, China's Tiangong space station and the European Space Agency's ERS-2 satellite (while it was hurtling back to Earth in 2024). Why is it incredible? While it might seem that satellites are just hovering above Earth, the space station and other spacecraft in LEO are hurtling through space at roughly 17,500 mph (28,160 kph), hundreds of miles above our planet's surface. A snapshot of a satellite from above is therefore far from mundane. Rather, it requires incredible coordination and technical skill; satellite operators must know precisely when their target will present itself, and their equipment must be capable of getting the shot.</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png" medium="image"/>
-</item>
-<item>
 <title>I used the Vaonis Vespera 3 for weeks and here’s who I would recommend it to — full review</title>
 <link>https://www.space.com/stargazing/skywatching-kit/i-used-the-vaonis-vespera-3-for-weeks-and-heres-who-i-would-recommend-it-to-full-review</link>
 <guid isPermaLink="false">3cbde897aa7b358b665403f1cd7e4bd30e899bdc4b00d02a4a103a656fc90fd3</guid>
@@ -1016,15 +1016,15 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/cc6xzdF56vfGcBXL63bxK-1920-80.jpg" medium="image"/>
 </item>
 <item>
-<title>The 'eclipse of the century' will plunge these 8 wonders of the Roman Empire into darkness on Aug. 2, 2027</title>
-<link>https://www.space.com/stargazing/solar-eclipses/the-eclipse-of-the-century-will-plunge-these-8-wonders-of-the-roman-empire-into-darkness-on-aug-2-2027</link>
-<guid isPermaLink="false">6d06e79822cf4d39d9d3db3b3f5d73b68300f2069e0fb4334136e1fecea1a625</guid>
+<title>Satellite snaps rare birds-eye view of the ISS | Space photo of the day for Nov. 12, 2026</title>
+<link>https://www.space.com/space-exploration/international-space-station/satellite-snaps-rare-birds-eye-view-of-the-iss-space-photo-of-the-day-for-nov-12-2026</link>
+<guid isPermaLink="false">cb00505887d7faef850f20c88a2973d76cdfc34cdc7e9e50e5a020d054056b32</guid>
 <source>Space.com</source>
 <category>science</category>
-<pubDate>Thu, 12 Nov 2026 14:00:00 +0000</pubDate>
-<description>null Ancient Egyptian temples will inevitably dominate the story of the total solar eclipse on Aug. 2, 2027 . After all, the path of totality crosses Luxor, home to Karnak, the Valley of the Kings, and some of the ancient world's most famous monuments. But follow the moon 's shadow west and another ancient civilization comes into view. Before reaching Egypt, totality will sweep across the Mediterranean and North Africa, passing over an extraordinary collection of Roman cities, fortresses, theaters, temples and triumphal arches. Many lie within what became Rome's North African provinces, a region that produced some of the empire's wealthiest and most impressive cities. From beachside Baelo Claudia in Spain and military Tamuda in Morocco to Timgad and Djémila in Algeria and the jaw-dropping El Jem Amphitheater in Tunisia, Roman ruins will experience between two and more than five minutes of darkness — creating extraordinary possibilities for eclipse chasers and photographers. Here are some of the best places to watch the moon's shadow cross what was once the Roman Empire. All times, totality durations and historical cloud cover data come from Time and Date . 1. Baelo Claudia, Spain Baelo Claudia's Roman ruins overlook Bolonia beach and the Strait of Gibraltar. (Image credit: Andrea Pucci via Getty Images) Location: near Tarifa, Andalucía, Spain Start of totality and duration: 10:44 a.m. CEST; 4 minutes, 31 seconds Historical cloud cover: 12% Altitude of the sun: 37 degrees above east Roman ruins, an Atlantic beach and the mountains of Africa could all share the frame with the eclipsed sun at Baelo Claudia. Founded in the second century B.C., this remarkably well-preserved Roman city near Bolonia beach includes a forum, basilica, theater, temples, baths and a decumanus maximus (east-west street), all set against forested hills and a vast coastal sand dune. For photographers, the possibilities are exceptional — columns and temples may provide an ancient foreground, while wider compositions could incorporate the beach and dunes. On particularly clear days, Morocco is visible across the Strait of Gibraltar — potentially putting Roman ruins, two continents and a total solar eclipse into one extraordinary scene. 2. Málaga Roman Theatre, Spain The Roman Theatre at the foot of the Málaga Alcazaba dates back to the 1st century BC. (Image credit: Manfred Gottschalk via Getty Images) Location: Málaga, Spain Start of totality and duration: 10:48 a.m. CEST; 1 minute, 57 seconds Historical cloud cover: 9% Altitude of the sun: 39 degrees above east Few eclipse locations can offer two civilizations in the same photograph. Málaga's Roman Theatre was built in the first century B.C., when the city was part of the Roman province of Hispania, and today sits directly beneath the Alcazaba, the imposing Muslim-era palace-fortress that dominates the hillside above. Although its totality is considerably shorter than locations farther south, the photographic possibilities ar</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/vBamFcWQ2Ys4pVWSVFxWjf-1920-80.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/vBamFcWQ2Ys4pVWSVFxWjf-1920-80.jpg" medium="image"/>
+<pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
+<description>null A satellite looks down at the International Space Station in orbit. (Image credit: HEO) A commercial satellite has spotted the International Space Station (ISS), giving us a unique view of the orbiting lab from above. What is it? Most of the time, when we see the ISS, it is from down here on Earth or from the viewpoint of the astronauts onboard, peering out the windows at the station's limbs, solar arrays and instruments. But in this snapshot, which was posted on X on Nov. 9 by the Australian company HEO, we can see the station stretched out in all its glory. HEO specializes in using satellites in low Earth orbit to capture images of other spacecraft, though longer-term the company aims to capture observations far out into the solar system. HEO doesn't build the satellites that take these photos; rather, the company's software tasks the spacecraft to image targets as they come into range. This great photo of the ISS from above, for example, was taken by a satellite operated by BlackSky, a Virginia-based company that holds a non-Earth imaging agreement with HEO . So far, HEO and its partners have captured imagery of a variety of spacecraft in orbit, including the ISS, China's Tiangong space station and the European Space Agency's ERS-2 satellite (while it was hurtling back to Earth in 2024). Why is it incredible? While it might seem that satellites are just hovering above Earth, the space station and other spacecraft in LEO are hurtling through space at roughly 17,500 mph (28,160 kph), hundreds of miles above our planet's surface. A snapshot of a satellite from above is therefore far from mundane. Rather, it requires incredible coordination and technical skill; satellite operators must know precisely when their target will present itself, and their equipment must be capable of getting the shot.</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png" medium="image"/>
 </item>
 <item>
 <title>Malawi Lacks Money to Fund its El Niño Plans</title>
