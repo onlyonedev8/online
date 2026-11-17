@@ -4,13 +4,57 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Lighter incident exposes risks beyond withdrawal controls</title>
+<link>https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls</link>
+<guid isPermaLink="false">56ff13f7b637e85fa7eeba54f7ec75dc0e912b00833601fc8d923229d3db7b7b</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 17:51:53 +0000</pubDate>
+<description>Crypto platforms need enforceable limits on every route an API key can use to transfer value, including trades, internal transfers and shared pools.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N1GK3FJ1PBDSJP9B84C5F0/blockchain-tangled-cats-cradle-defi-2.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N1GK3FJ1PBDSJP9B84C5F0/blockchain-tangled-cats-cradle-defi-2.jpg" medium="image"/>
+</item>
+<item>
+<title>Fed’s Waller cites Binance hack in warning over tokenized finance</title>
+<link>https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance</link>
+<guid isPermaLink="false">adbe0f80edb24646d5d16f35e2f94e5f3355f33cc979770d56e4192bda5f0432</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 17:39:41 +0000</pubDate>
+<description>Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N66YD4VEG6WKSNQ9ZJSDDF/hi-impact-of-fed-interest-rates-on-crypto-holders-stablecoin-2.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N66YD4VEG6WKSNQ9ZJSDDF/hi-impact-of-fed-interest-rates-on-crypto-holders-stablecoin-2.png" medium="image"/>
+</item>
+<item>
+<title>Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence</title>
+<link>https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks</link>
+<guid isPermaLink="false">65848fa6a76ec1042b335f487cd936eee477a2b9eb2167dc6085006695138f2e</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 17:18:41 +0000</pubDate>
+<description>A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png" medium="image"/>
+</item>
+<item>
+<title>Banking disruption resolved after thousands report access issues</title>
+<link>https://www.bankingdive.com/news/jpmorgan-chase-banking-service-disruption-app-website-bofa-wells-capital-one-zelle/874922</link>
+<guid isPermaLink="false">9a708d5af5129f64c78a1a061b652def19aaf192f36964ce2b478f2b77b28ae4</guid>
+<source>Banking Dive</source>
+<category>business</category>
+<pubDate>Tue, 17 Nov 2026 17:06:06 +0000</pubDate>
+<description>JPMorgan Chase has fixed a “technical issue” that caused delays in transactions – and a furious spike in errors reported to Downdetector, including among users of other large banks.</description>
+<enclosure url="https://imgproxy.divecdn.com/4QDKfUpeNoyF8JaEVZtfd037nMrCPugiUxGamaHM8bo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMzNDA0NzQwLmpwZw==.webp" type="image/jpeg"/>
+<media:content url="https://imgproxy.divecdn.com/4QDKfUpeNoyF8JaEVZtfd037nMrCPugiUxGamaHM8bo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMzNDA0NzQwLmpwZw==.webp" medium="image"/>
+</item>
+<item>
 <title>Dave applies for national bank charter</title>
 <link>https://www.bankingdive.com/news/dave-fintech-applies-national-bank-charter-occ-fdic-fed/874920</link>
 <guid isPermaLink="false">42e52e1a4d62f2dd96c6b780df5f876b7c2d1cbec17353657dbf0227e84847be</guid>
 <source>Banking Dive</source>
 <category>business</category>
 <pubDate>Tue, 17 Nov 2026 17:04:43 +0000</pubDate>
-<description>A charter would be an opportunity to offer products “to level the playing field for everyday Americans,” said proposed bank president Anthony Sharett.</description>
+<description>A charter would give Dave an opportunity to offer products “to level the playing field for everyday Americans,” said proposed bank president Anthony Sharett.</description>
 <enclosure url="https://imgproxy.divecdn.com/AE3N_2pnsY9XbdFAGBkenqWenPJRthL223LGTLjrSPw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xOWYyNGQ2OS01OTMxLTQ4NjgtYjFhZi03ZjYyY2RjNTA1YzYuanBn.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/AE3N_2pnsY9XbdFAGBkenqWenPJRthL223LGTLjrSPw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xOWYyNGQ2OS01OTMxLTQ4NjgtYjFhZi03ZjYyY2RjNTA1YzYuanBn.webp" medium="image"/>
 </item>
@@ -840,17 +884,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77N5CQZH7NKG0SY1V5FFCPB/magazineai-agents-will-kill-the-web-as-we-know-it.png" medium="image"/>
 </item>
 <item>
-<title>Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks</title>
-<link>https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback</link>
-<guid isPermaLink="false">3331da987b5d43f0e71240022c77f219ddad85d5f6bc5a255e72cd6417cb3c3d</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 13:29:11 +0000</pubDate>
-<description>Strategy bought 485 Bitcoin for $33.4 million and spent $228.1 million repurchasing STRC preferred shares, largely funded by new common stock sales.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J7K9K6T0PTX9XTZ5X8P8KY/trader-trading-strategy-strategyb.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J7K9K6T0PTX9XTZ5X8P8KY/trader-trading-strategy-strategyb.jpg" medium="image"/>
-</item>
-<item>
 <title>Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges</title>
 <link>https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges</link>
 <guid isPermaLink="false">ea4b0b5ed9daa0e6614f4cf28a3e85bc17de2303be850786ccaf4d0d2b38d8f9</guid>
@@ -871,17 +904,6 @@
 <description>The hardware wallet manufacturer says users can now read what they're approving on nine Solana apps, as it pitches its Atom device.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings</title>
-<link>https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit</link>
-<guid isPermaLink="false">fac59a6b75f1fae7a08a3f6e488ca83a268bf5e34e8e7a8b396b3eb5fb40398a</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 16 Nov 2026 13:00:00 +0000</pubDate>
-<description>Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J07ZYWCJ0MH18HZT45S0TD/hi-which-cryptocurrency-is-the-most-usable-as-real-money-bitcoin.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J07ZYWCJ0MH18HZT45S0TD/hi-which-cryptocurrency-is-the-most-usable-as-real-money-bitcoin.jpg" medium="image"/>
 </item>
 <item>
 <title>German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'</title>
@@ -1014,27 +1036,5 @@
 <description>Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion</title>
-<link>https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion</link>
-<guid isPermaLink="false">87ee340a6f29761f4a7b15916c4a8103ce24dd945af53c5534f5bb69d9e76229</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Fri, 13 Nov 2026 20:16:03 +0000</pubDate>
-<description>The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/05/jp-morgan-jamie-dimon-decrypt-style-01-gID_7.png" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/05/jp-morgan-jamie-dimon-decrypt-style-01-gID_7.png" medium="image"/>
-</item>
-<item>
-<title>U.S. Bank adding 60 middle-market roles</title>
-<link>https://www.bankingdive.com/news/us-bank-adding-60-middle-market-roles/874635</link>
-<guid isPermaLink="false">1cf4d9ecb9857a92afb6503a28e64a14683ee28a62d6718b9068954d9998355c</guid>
-<source>Banking Dive</source>
-<category>business</category>
-<pubDate>Fri, 13 Nov 2026 17:05:41 +0000</pubDate>
-<description>Middle-market growth is part of the Minneapolis-based lender’s national business banking ambitions. Some of the roles are in Florida and Texas, where the bank does not have branches.</description>
-<enclosure url="https://imgproxy.divecdn.com/CywewUS989Z-jZoukc5PylK_7Hfg5ZOS_CRxnXuNRCk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yWEUzWUU0LmpwZw==.webp" type="image/jpeg"/>
-<media:content url="https://imgproxy.divecdn.com/CywewUS989Z-jZoukc5PylK_7Hfg5ZOS_CRxnXuNRCk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yWEUzWUU0LmpwZw==.webp" medium="image"/>
 </item>
 </channel></rss>
