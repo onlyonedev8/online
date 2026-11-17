@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Highlights From the Starship Landing</title>
+<link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch</link>
+<guid isPermaLink="false">99ae00b514c0a5178428ca761e8b202025207c64d8065b445fd80e2f3094af88</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Tue, 17 Nov 2026 01:55:57 +0000</pubDate>
+<description>The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
 <title>Pipeline Executive Worked for Alan Armstrong During Permitting Push</title>
 <link>https://www.nytimes.com/2026/11/16/climate/alan-armstrong-oklahoma.html</link>
 <guid isPermaLink="false">0d53d80a88338f75c86f316502f57feaa1707476ca8acd9b06bd00854ec7d209</guid>
@@ -79,17 +90,6 @@
 <description>null As usual, SpaceX and its founder Elon Musk are thinking big. The company recovered the upper stage of its Starship megarocket for the first time ever on Saturday (Nov. 14), plucking it out of the sky with the "chopstick" arms of its Texas launch tower. It was a huge moment for SpaceX , bringing its vision of full and rapid rocket reuse much closer to reality. But Elon Musk isn't one to dwell on the past or rest on laurels, so he soon outlined an even more ambitious future for Starship. "Starship V4 will be ~70m [230 feet] long, which is roughly a 40% length increase and allows &gt;60% more propellant load," Musk said via X, the social media platform he owns, on Sunday evening (Nov. 15). "Engine count will be raised to 9, with 3 more Raptor-Vacuum engines added, and these will be higher-thrust V4 engines." The current version of Starship — the one that launched Friday (Nov. 13) on the vehicle's 15th test flight — is the V3. It's the largest and most powerful rocket ever built, standing 408 feet (124 m) tall when fully stacked with its Super Heavy first stage and Ship upper stage. V3's Ship is 171 feet (52 m) tall and features six of SpaceX's Raptor V3 engines. (The similarly reusable Super Heavy V3 booster is powered by 33 Raptors.) So, as Musk noted in his post, the V4 Ship will be quite an upgrade in size and power. SpaceX CEO Elon Musk shared this chart depicting the evolution of SpaceX's Starship vehicles from the V2 to the planned V4 variant in August 2025. Exact specifications for Starship V4 are evolving. (Image credit: SpaceX/Elon Musk) Starship Die Cast Rocket Model Was $47.99 Now $39.99 on Amazon . Even if you can't see SpaceX's Starship in person, you can score a model of your own. Standing at 13.77 inches (35 cm), this is a 1:375 ratio of SpaceX's Starship as a desktop model. The materials here are alloy steel and it weighs just 225g. View Deal To provide a little perspective about that vehicle's planned dimensions: The V4 Ship will be the same height as a fully stacked Falcon 9 , SpaceX's workhorse two-stage rocket, and much broader: Ship is 30 feet (9 m) across, while the Falcon 9's payload fairing is 17.1 feet (5.2 m) wide. This isn't the first we've heard about a V4 Starship. Back in August 2025, for example, Musk posted a graphic showing Starship's planned progression from the V2 to the V3 to the V4, which he said is expected to debut in 2027. That slide pegs the future Starship's total height at 466 feet (142 m), 200 feet (61 m) of which would be Ship. But those numbers are out of date, Musk stressed in the post, saying that V4 is "probably closer to 150m height." So, yeah: If all goes according to plan, the next Starship will be nearly 500 feet tall. Starship V4 will be ~70m long, which is roughly a 40% length increase and allows &gt;60% more propellant load.Engine count will be raised to 9, with 3 more Raptor-Vacuum engines added, and these will be higher thrust V4 engines. November 16, 2026 The original Starship Flight 15 missi</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/3Fkrm7hcfY8Smci3nzStBA-1920-80.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/3Fkrm7hcfY8Smci3nzStBA-1920-80.jpg" medium="image"/>
-</item>
-<item>
-<title>Highlights From the Starship Landing</title>
-<link>https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch</link>
-<guid isPermaLink="false">99ae00b514c0a5178428ca761e8b202025207c64d8065b445fd80e2f3094af88</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Mon, 16 Nov 2026 19:18:08 +0000</pubDate>
-<description>The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>John H. Powers III to Lead NIAID Amid Turmoil</title>
@@ -747,7 +747,7 @@
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Fri, 13 Nov 2026 16:05:54 +0000</pubDate>
-<description>NASA astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. captured this image of the area surrounding the Red Sea and Nile river valley on November 14, 1966, during their four-day mission in space. Gemini XII was the final flight of NASA’s Gemini Program. NASA Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII , the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of a different field of exploration, observing Earth from space. The photos taken by Lovell, Aldrin, and other Gemini astronauts demonstrated the value of orbital imagery for studying Earth’s surface. Their images helped scientists make the case for a dedicated Earth observation satellite program. One of strongest advocates for accelerating the use of Earth-observing satellites was William T. Pecora, the director of the United States Geological Survey from 1965 to 1971. In a 1969 statement, Pecora noted that the Earth Resources Observation Satellite (EROS) program he championed, and which later paved the way for Landsat , was “conceived in 1966 largely as a direct result of the demonstrated utility of Mercury and Gemini orbital photography to Earth resource studies.” For more than five decades, Landsat and other Earth-observing satellites have provided invaluable data used around the world to monitor crops, wildfires, flooding, vegetation health, land use, and countless other changes to our planet. Explore More 4 min read The Last Ice on Puncak Jaya Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too… Article 20 hours ago 3 min read Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA Article 5 days ago 3 min read Scotland’s Flow Country Blanket bogs in the Scottish Highlands store vast amounts of carbon. Article 5 days ago</description>
+<description>NASA astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. captured this image of the area surrounding the Red Sea and Nile river valley on November 14, 1966, during their four-day mission in space. Gemini XII was the final flight of NASA’s Gemini Program. NASA Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII , the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of a different field of exploration, observing Earth from space. The photos taken by Lovell, Aldrin, and other Gemini astronauts demonstrated the value of orbital imagery for studying Earth’s surface. Their images helped scientists make the case for a dedicated Earth observation satellite program. One of strongest advocates for accelerating the use of Earth-observing satellites was William T. Pecora, the director of the United States Geological Survey from 1965 to 1971. In a 1969 statement, Pecora noted that the Earth Resources Observation Satellite (EROS) program he championed, and which later paved the way for Landsat , was “conceived in 1966 largely as a direct result of the demonstrated utility of Mercury and Gemini orbital photography to Earth resource studies.” For more than five decades, Landsat and other Earth-observing satellites have provided invaluable data used around the world to monitor crops, wildfires, flooding, vegetation health, land use, and countless other changes to our planet. Explore More 4 min read The Last Ice on Puncak Jaya Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too… Article 22 hours ago 3 min read Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA Article 5 days ago 3 min read Scotland’s Flow Country Blanket bogs in the Scottish Highlands store vast amounts of carbon. Article 5 days ago</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006" medium="image"/>
 </item>
@@ -1080,17 +1080,6 @@
 <description>William Lawrence, a co-founder of the Sunrise Movement, flipped a seat in Michigan for the Democrats.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/10/multimedia/10cli-newsletter-qanda-01-fmgk/10cli-newsletter-qanda-01-fmgk-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/10/multimedia/10cli-newsletter-qanda-01-fmgk/10cli-newsletter-qanda-01-fmgk-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>He Made a Game of Chance. His Obituary Is a Game, Too.</title>
-<link>https://www.nytimes.com/2026/11/10/obituaries/steve-selvin-dead.html</link>
-<guid isPermaLink="false">5327f2ab58f9f7431432a9ebc30ff5ef94c31a5a8096ec97f6c2418595e062c6</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Tue, 10 Nov 2026 15:51:16 +0000</pubDate>
-<description>Steve Selvin has died. To understand his significance, try to wrap your head around the Monty Hall Problem.</description>
-<enclosure url="https://static01.nyt.com/images/2026/10/23/obituaries/00obit-selvin_promo/00obit-selvin_promo-mediumSquareAt3X.png" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/10/23/obituaries/00obit-selvin_promo/00obit-selvin_promo-mediumSquareAt3X.png" medium="image"/>
 </item>
 <item>
 <title>CHAPEA Crew Leaves a Mark</title>
