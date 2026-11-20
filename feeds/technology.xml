@@ -4,6 +4,270 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>AI could open wallets where ERP upgrade pitches can't, says PwC</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221</link>
+<guid isPermaLink="false">750068326b8d4382e272e6e537f9299438a41efb9723d3b48b312e52a6467a61</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 12:47:00 +0000</pubDate>
+<description>Global consultancy PwC says IT departments struggling to secure funding for ERP upgrades should make the expected benefits of AI part of their pitch. The Oracle and SAP mega-partner told El Reg that a "clean core" – modern enterprise applications with fewer customizations embedded in the underlying system – makes deploying AI agents easier. Selling that prospect, rather than incremental improvements to existing processes, could help IT leaders justify a migration. Oracle and SAP are both trying to persuade customers to move from established ERP systems to newer platforms. For SAP, that means S/4HANA, preferably in the cloud. For Oracle, it means Fusion Cloud Applications. Moving from ECC or E-Business Suite, respectively, can involve root-and-branch changes to technology and business processes, rather than a straightforward software upgrade. Thousands of organizations still rely on these aging, often heavily customized systems. IT leaders struggle to justify a costly, time-consuming migration when the reward appears to be doing the same meat-and-veg business processes slightly better. For example, a survey of SAP users last year found that 95 percent said building a positive case for migration required substantial effort or was genuinely challenging. Speaking to The Register , Jennifer Colapietro, PwC digital core modernization platform leader, said: "You're seeing it a lot more as part of the rationale for the business case for why they should upgrade, answering the question: 'Why now? What should we prioritize?' Certainly, AI and getting the value of AI, a key business case justification for that. "Folks have budgets for ERP, but now [funding for transformation is] being split because they also have budgets for AI. But there's synergies across them. If you look at moving to a clean digital core ERP, that will help them to realize the AI value faster... be able to turn on AI and be able to start to automate a lot of the processes and implement the agents. That helps to build the business case." SAP recently introduced Joule 2.0 while Oracle has announced Fusion Claw . With both of these new technologies, the vendors are promising customers they can build AI agents to automate business processes and perform some work that was previously done by humans. Colapietro argued that moving to more modern platforms makes deploying AI agents easier and more effective than adding AI capabilities around legacy systems. "It is more challenging to apply AI to the older systems. We focus on the importance of a clean digital core as the foundation for getting the value and effectiveness out of AI and scaling AI responsibly. I think that's given," she said. An ERP replacement isn't the only route to AI, however. European home improvement retailer Kingfisher – which owns the B&amp;Q brand in the UK – eschewed SAP's overtures to upgrade its ECC system, despite encroaching deadlines. Mainstream maintenance for supported ECC 6.0 versions ends in December 2027, with optio</description>
+<enclosure url="https://image.theregister.com/?imageId=5311243&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5311243&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Google boosts Gemini's ability to do 'repetitive tasks' on its Mac app</title>
+<link>https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app</link>
+<guid isPermaLink="false">054e60b09299432f4e0ed9860cc13696913eecbf24bc061f1d860f81ad12108b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 12:36:11 +0000</pubDate>
+<description>Google's Gemini app for Mac can now use your computer to list items on eBay, speed up creative tasks and fill out forms for you.</description>
+<enclosure url="https://www.engadget.com/img/gallery/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/l-intro-1795178098.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/l-intro-1795178098.jpg" medium="image"/>
+</item>
+<item>
+<title>Signal is blocking Gemini and Siri AI from reading your screen</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</link>
+<guid isPermaLink="false">af7d30f58230f92314a9dd490f70f30c8bd13e5d2d91704a46f2fd198994cb0f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 12:30:47 +0000</pubDate>
+<description>Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are "undermining Signal's ability to independently guarantee privacy," Signal president Meredith Whittaker said in a blog post , while urging OS providers to make it easier for app developers to control what data agents can access. "We want to be very clear: it is a serious problem that Signal - and application developers beyond - lack robust tools to prevent AI age … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Only the Seminole tribe can offer online gambling in Florida—and they're furious at DraftKings</title>
+<link>https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida</link>
+<guid isPermaLink="false">b9a611473e77b0197c7a59022e447ccf689c77c5f8f5ad29e172389e393b74a6</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 12:30:29 +0000</pubDate>
+<description>Last week, DraftKings asked a federal court in Florida to take over a lawsuit recently filed against it by the Seminole Tribe, opening another front in the nationwide online “swaps” debate . This Florida case adds to an already complex subplot involving indigenous tribes , some of which are challenging prediction markets , while others are trying to get in on the action themselves. In the new lawsuit, the Seminole Tribe contends that two of DraftKings’ current online offerings—the fantasy sports-style “Pick6” and the “Super App” sportsbook—are “illegal" in Florida. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-186821059-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-186821059-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>UK government can't keep its encryption-busting order to Apple a secret, tribunal rules</title>
+<link>https://www.theregister.com/security/2026/11/20/uk-government-cant-keep-its-encryption-busting-order-to-apple-a-secret-tribunal-rules/5311292</link>
+<guid isPermaLink="false">c5f5960128aa9422b9f49c1dcd620673d62351efdf9e55795a1462633a35fc3a</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 12:18:19 +0000</pubDate>
+<description>The Investigatory Powers Tribunal (IPT) has confirmed that the UK government served Apple with a secret Technical Capability Notice (TCN), rejecting the Home Office's argument that acknowledging its existence would damage national security. The order has been widely reported as demanding access to end-to-end encrypted iCloud data. The three judges pointed to extensive public reporting, statements by US officials, and media briefings they concluded had been authorized by the UK government. The Home Office had previously adopted its "neither confirm nor deny" (NCND) policy, as is standard when discussing national security matters. The story broke in February 2025, when The Washington Post reported that the Home Office had demanded an iCloud backdoor the previous month. A TCN is a notice issued under the Investigatory Powers Act 2016, which compels recipients, such as tech companies, to implement technical changes that facilitate the UK government's legal surveillance powers. For Apple, a company that has long made privacy central to its marketing, and famously rejected an FBI order to break open an iPhone to assist a terror probe, being served the TCN meant it either had to somehow defy a legal order issued by the UK, or undermine the encryption technology that customers expected. While it remained officially unconfirmed at the time, Apple's decision to revoke Advanced Data Protection (ADP) for UK users in February 2025 was widely interpreted as indirect confirmation of the demand. At the same time, US policymakers urged then-director of national intelligence Tulsi Gabbard to oppose the UK's demands under the assumption that they also sought to backdoor Apple's data in a way that would affect US citizens. In August 2025, Gabbard announced that the UK had agreed to drop its demand for access to Americans' encrypted data. ADP is still available to users in the US. Apple's ADP extends end-to-end encryption to additional categories of iCloud data, including backups, photos, and notes. Only trusted devices retain access to the relevant encryption keys, leaving Apple unable to decrypt that protected content for investigators. Without ADP, those additional categories revert to standard protection: the data remains encrypted, but Apple holds the keys and can disclose content in response to valid legal demands. Some categories remain end-to-end encrypted regardless. Apple has an explainer on what data types remain end-to-end encrypted, even without ADP enabled, and those that are not. What the judgment does not confirm While the IPT's judgment confirms that the Home Office served Apple with a TCN, judges have yet to decide whether key details about the case can be made public. "Although there has been extensive media coverage and public statements about the existence of a technical capability notice, there has been no publication of its precise content," the judgment stated. "All parties recognize that there may be matters of detail that must be kept secret</description>
+<enclosure url="https://image.theregister.com/?imageId=5220278&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5220278&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Science has a home here at Ars—please help keep it that way</title>
+<link>https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way</link>
+<guid isPermaLink="false">a77ec04cfd0fecaed68758a5ef50918e1ffdd22b30df8bc181503be9aee81ff0</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 12:15:36 +0000</pubDate>
+<description>It's now been 21 years since I first published an article at Ars Technica. It has been the only home I've known as a writer, and it has been essential to my development from scientist to blogger to journalist. It's no exaggeration to say that Ars has helped make me who I am today. So, asking you to support Ars via a subscription is very personal (and a bit selfish) for me—I'd like to stay here! Jobs that give you this sort of independence, that let you both edit and write, are very rare in journalism, and I'm unlikely to find another. Helping secure Ars' future through your support will mean I don't have to. But I'd rather make a case for why you'll benefit from supporting Ars. In fact, I'll make three: the writing, the people, and the community. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US</title>
+<link>https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us</link>
+<guid isPermaLink="false">1974e85995540625fc132352836d1531043c83ba83d10094fc8acdd46dfffcd6</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 12:00:43 +0000</pubDate>
+<description>TP-Link, which may be the top provider of wireless routers for US homes and small businesses, isn't allowed to sell its latest Wi-Fi routers in the US. The Trump administration imposed a sweeping ban on foreign-made consumer routers in March 2026, and TP-Link hasn't been able to obtain an exemption. The rules prevent the import or sale of all new router models that are manufactured, assembled, designed, or developed outside the US. The Trump administration has control over which router makers receive special permission to import and sell new products through a waiver-review process involving the Federal Communications Commission, the Department of Defense, and the Department of Homeland Security. While some of its competitors have obtained exemptions to the ban, TP-Link appears to be having a hard time making its case to government officials. Its routers approved before the March 2026 ban remain available for sale in the US, but its newly released Wi-Fi 8 routers cannot be imported or sold. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg" medium="image"/>
+</item>
+<item>
+<title>Why the robots are ditching Uber</title>
+<link>https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships</link>
+<guid isPermaLink="false">ad884e4570b95bba8edac8577029ce5a279d6490593ea1662c29c6b98450b014</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+<description>In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's "very strong" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, according to Khosrowshahi. "We believe we'll continue to operate next year in those marketplaces," he gushed. "It's a terrific product, and the on-the-ground partnership continues to be very strong." The partnership would turn out to be more brittle than Khosrowshahi let on. Several weeks later, Waymo co-CEO Teke … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>WhatsApp's group chats can now have up to 1,500 members</title>
+<link>https://www.engadget.com/2322717/whatsapps-group-chats-can-now-have-up-to-1500-members</link>
+<guid isPermaLink="false">61a6067bf4a86ac9bec6af31bbdb4a3baedfbb24f131e39c8adf0b5009fa60b4</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 11:48:37 +0000</pubDate>
+<description>WhatsApp is giving users the ability to create even bigger group chats with up to 1,500 participants.</description>
+<enclosure url="https://www.engadget.com/img/gallery/whatsapps-group-chats-can-now-have-up-to-1500-members/l-intro-1795174992.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/whatsapps-group-chats-can-now-have-up-to-1500-members/l-intro-1795174992.jpg" medium="image"/>
+</item>
+<item>
+<title>Windows 11 passkey bug cries failure after successful sign-in</title>
+<link>https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263</link>
+<guid isPermaLink="false">81d32fb1add0942f89f20e77d0befcb1a2a07eee658f91c75fe5a8273d1761b3</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 11:09:44 +0000</pubDate>
+<description>A Windows 11 passkey bug can leave Android phones announcing that authentication failed even when it succeeded. Microsoft has now released a fix for versions 25H2 and 26H2. The problem occurs when users sign in on a Windows 11 PC using a passkey stored on an Android phone. Scan the QR code, and the Android device might display the message: "Something went wrong. Restart the process on your other device and try again." Except it might not have gone wrong at all. Microsoft's guidance explains: "In cases where authentication completes successfully on the Windows device, the error message on the Android device is not supposed to appear and can be safely ignored." Cross-device authentication lets users sign in on one device using a passkey held on another, without typing a password or copying a verification code. Microsoft says the issue affects operations using Microsoft Authenticator and Google Password Manager, and can occur in Edge or Chrome – not just when signing in through Microsoft Entra ID. Cross-device passkey operations with an iPhone aren't affected. An authentication system that cries failure after a successful sign-in isn't doing much for user confidence. Nor will it endear itself to support teams fielding the resulting tickets. Microsoft has included a fix in KB5132057 , the optional non-security preview update released on November 19 for Windows 11 25H2 and 26H2. Until affected devices are patched, users can ignore the Android error if authentication has completed successfully on the PC. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5289791&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5289791&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers</title>
+<link>https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax</link>
+<guid isPermaLink="false">96a7709ff83f79385aea5d73c347ecc7abd3600c82a2214d3031efbc1b35e910</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 11:00:31 +0000</pubDate>
+<description>It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it most. We need to rethink welfare for an economy being reshaped by AI. Throughout the history of the study of economics, the human brain, which directs our labour, judgment and resilience, has rarely been considered an asset in its own right. The emerging AI economy is changing that. As machines take on routine work, what becomes most valuable is the judgment, creativity and insights only people can provide. Economists coined a term for this in recent years: brain capital. Professor Dame Henrietta Moore is founder and director of the UCL Institute for Global Prosperity and co-leads The New Alignment, the institute’s G20 policy programme Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/b71c923b07b403bdaf953194f3dfdf7229e4b7c6/492_0_3408_2727/master/3408.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94aabfd0bf9dcd7cc36a0a4a148a632a" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/b71c923b07b403bdaf953194f3dfdf7229e4b7c6/492_0_3408_2727/master/3408.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94aabfd0bf9dcd7cc36a0a4a148a632a" medium="image"/>
+</item>
+<item>
+<title>The Trump administration has replaced its cybersecurity chief</title>
+<link>https://www.engadget.com/2322705/the-trump-administration-has-replaced-its-cybersecurity-chief</link>
+<guid isPermaLink="false">b1430f6156878282868822e84c8d55596d0dd349b925d47234b44c48c2b9f095</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 10:53:36 +0000</pubDate>
+<description>The White House has replaced cybersecurity chief Sean Cairncross with the Pentagon's Kirsten Davies.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-trump-administration-has-replaced-its-cybersecurity-chief/l-intro-1795171923.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-trump-administration-has-replaced-its-cybersecurity-chief/l-intro-1795171923.jpg" medium="image"/>
+</item>
+<item>
+<title>Will AI break the internet? | Garrison Lovely</title>
+<link>https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse</link>
+<guid isPermaLink="false">a3d9febe56831522389db7232a16afed138a3b6229a7ad389785326b7d650810</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 10:00:31 +0000</pubDate>
+<description>Frontier models can exploit software flaws faster than the world can fix them. And the risks extend far beyond the cyber realm You’re not crazy to feel the world is coming apart at the seams. Within the last week, outages took down core services at Microsoft , United Airlines and JPMorgan Chase . On Friday, all US domestic departures were grounded for the second time since 9/11. And on Tuesday, CNN reported the NSA’s highly classified internal communications network went down . In each case, officials or the companies said there was no evidence of a cyber-attack. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/d0d3e01dd99c16399c8dbc88cf6f6b915811600d/333_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d43265c7fba6994271d259369cc47e75" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/d0d3e01dd99c16399c8dbc88cf6f6b915811600d/333_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d43265c7fba6994271d259369cc47e75" medium="image"/>
+</item>
+<item>
+<title>I’m a tech expert and new mum. Here’s what I learned testing 17 baby monitors</title>
+<link>https://www.theguardian.com/thefilter/2026/nov/20/best-baby-monitor-tested-uk</link>
+<guid isPermaLink="false">a7f2395265a7d330b9cf3ee820c22b4cae82a4920b39cbdf084a38d0cfb0de56</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 10:00:28 +0000</pubDate>
+<description>Our tech expert and new mum tested 17 monitors for picture quality, battery life and reliability – here’s what she recommends • The best eco-friendly baby products Moving my baby into her own room to sleep felt liberating and stressful. She was ready for her own space – but was I ready to let her out of my sight? Well, the first thing I did was buy a video baby monitor, so clearly I wasn’t. But it meant she could sleep peacefully in her new room and I could sneak a reassuring peek from afar whenever I felt the need. There’s a huge range of baby monitors, from simple audio-only options to sophisticated video models. Some even include wearables or other devices to track a baby’s breathing or heart rate, while others offer AI features to analyse sleep patterns. At their most basic, baby monitors typically consist of a baby unit, which you position near the baby, and a parent unit, which lets you hear and/or see them. With video models, the baby unit is essentially a camera, while the parent unit is a screen. Many are also wifi-enabled, meaning you can connect the monitor to your smartphone and view the live feed through an app instead of using a dedicated parent unit (read on for security advice). Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/add5710bd2cd30b9e3f6bb21f5abe1f6b78bed9d/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f4a511c7bd3b546a3135e88fb00a430" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/add5710bd2cd30b9e3f6bb21f5abe1f6b78bed9d/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f4a511c7bd3b546a3135e88fb00a430" medium="image"/>
+</item>
+<item>
+<title>Ubuntu Core Desktop targets 28.04 debut, with default status in its sights</title>
+<link>https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837</link>
+<guid isPermaLink="false">b3e1882cb65578eb083a613015991a487e50be8a943bcc9075059399358b3014</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 09:29:00 +0000</pubDate>
+<description>Canonical is targeting Ubuntu 28.04 LTS for the release of its immutable Core Desktop, with a stretch goal of making it the default download for Ubuntu 30.04. Canonical's VP of engineering, Jon Seager, set out the timetable in his opening keynote at Ubuntu Summit 26.10. Yes, we know, we have heard this before: we reported on his plans last month . But this time, there's the beginning of a release schedule. Seager said that Ubuntu Core is already out there in tens of thousands of IoT devices – which seems like a modest estimate to us, and to him too, as he quickly added "maybe more." Despite some noise a few years ago, though, what's still missing is the desktop version. Seager's slides listed three bullet points: that Core Desktop will be "immutable," "composable," and "attestable." As he put it, they are "taking the whole of the Linux operating system, and cramming the whole thing into snaps." Acknowledging that this is going to be wildly controversial, he said: "This is one for the Redditors." He's right. There is a lot of resistance to snap, and in direct response, advocacy of the Red Hat-backed Flatpak instead – but we have seen almost none that is based on either system's technical merits. Much of that opposition concerns claims of one being more open than the other. We've looked at how both systems work, and our impression is that the implementation of snap is cleaner, simpler, easier to use, and more comprehensible. Snap does depend on systemd, which Flatpak does not – but only for now. Flatpak NG is in development and will also need everyone's favorite init system. Ubuntu Core's immutability is not new technology: even Core 16 is now a decade old. It has supported in-place version upgrades since Core 22. We have reported before that Canonical remains strongly committed to its packaging format, and that commitment seems stronger than ever. Seager continued: "Never has a model like snap confinement been more relevant… we're finally in a position where we can bring this to the desktop." The core idea of an immutable OS is that "much more of the system is not writable at runtime," meaning that it "can't be messed with once the system has booted." He talked about the same three use cases we discussed last month. The "browser-centric machine" is the company's analog to Google ChromeOS, and he said that it's essentially ready now, suggesting that everyone listening probably has a family member whose computer is basically just a way to use a web browser. The second was the dedicated games machine, which we interpret as a response to Valve's SteamOS. This edition, he said, would "boot straight to Steam," with "just enough of a shell to launch games." There's also an immutable "development workstation," and here, he offered the example of developers who need to work on some long-unsupported hardware or software, for whom an immutable OS means that you "can't brick your system by installing some weird old dependencies, unmaintained for 20 years." An</description>
+<enclosure url="https://image.theregister.com/?imageId=5252431&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5252431&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>California investigates Nvidia over whether chip exports ended up in China</title>
+<link>https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china</link>
+<guid isPermaLink="false">27fc5802fd1bbae96633ea3e766c81d8ee670ce2750456029d418f88b98821ee</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 09:18:30 +0000</pubDate>
+<description>State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investors California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang. Rob Bonta, the US state’s attorney general, issued the subpoena as part of an investigation into whether exports of the California-based company’s advanced semiconductor chips ended up in China, contravening US restrictions. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ad48d5bad3d128e97d206e39ded2bb1" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ad48d5bad3d128e97d206e39ded2bb1" medium="image"/>
+</item>
+<item>
+<title>OpenAI is testing Dots personal agents on its $20 per month Plus tier</title>
+<link>https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier</link>
+<guid isPermaLink="false">7bdcb7fa3841c84cc973278f1d0489e25672005e6cb7bd53b98343e06c5d3875</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 07:31:25 +0000</pubDate>
+<description>OpenAI is expanding access to Dots, the proactive AI agents that can work for you without any supervision or assistance.</description>
+<enclosure url="https://www.engadget.com/img/gallery/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/l-intro-1795158872.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/l-intro-1795158872.jpg" medium="image"/>
+</item>
+<item>
+<title>Support tech fixed malware by charging client less for their services</title>
+<link>https://www.theregister.com/personal-tech/2026/11/20/support-tech-fixed-malware-by-charging-client-less-for-their-services/5310959</link>
+<guid isPermaLink="false">a3fcd75c7057f60ee35fe349513349cbb76e6493bb4f45d4690a3a6d1e730a84</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 06:29:00 +0000</pubDate>
+<description>Welcome to Friday and therefore to another edition of On Call , The Register 's reader-contributed tech support column in which we share your tales of cleaning up messes made by clients and colleagues. This week, meet a reader we'll Regomize as "Dennis" who told us he once ran a tech support business in a major US city. "I got a call from a very well-known lawyer's office," he told On Call. "Over the two decades I spent supporting his office, this attorney and I became close friends." The attorney was also a good client because Dennis found himself billing a three-figure sum every month for malware removal that resulted from the lawyer’s – ahem – personal browsing habits. Dennis eventually tired of malware removal and told his client to expect a substantial bill for the iMac he was about to buy as a replacement for his PC. "I told him this would pay for itself in 18 months," Dennis wrote, because he figured it wouldn't get malware all the time. "He actually said, with genuine concern: 'If you do that, you will make less money'." Dennis replied that he aimed to give his clients the best advice, and that on this occasion his counsel was to pay Apple instead of himself! "It took him about five years to stumble across anything that could harm that iMac," Dennis wrote. "When he did, I had no idea what to do: I had never seen an infected Apple product." So he did what all tech support people do: reinstalled the OS and crossed his fingers. Dennis was rewarded when the machine came back to life, with all data and settings intact. "I had given up at least $6,000 in support revenue by solving his problem and I'd do it again," he wrote, before winding up his story by letting us know "I retired five years ago. It’s still on his desk!" Have you done less tech support to deliver more value? If so, click here to send On Call an email and charge us with the responsibility of telling your story on a future Friday. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=252539&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=252539&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Uber Kids will let parents book trips for their children aged 10 to 12 years old</title>
+<link>https://www.engadget.com/2322650/uber-kids-rides-children-aged-10-to-12-years-old</link>
+<guid isPermaLink="false">1019c50a0588126546d08a63b8b7a0c4e433f298c867fc3bb902fa03523a6ed3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 06:27:26 +0000</pubDate>
+<description>Uber is testing rides for children ages 10 to 12 and will pay drivers more for them.</description>
+<enclosure url="https://www.engadget.com/img/gallery/uber-kids-will-let-parents-book-trips-for-their-child-aged-10-to-12-years-old/l-intro-1795155282.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/uber-kids-will-let-parents-book-trips-for-their-child-aged-10-to-12-years-old/l-intro-1795155282.jpg" medium="image"/>
+</item>
+<item>
+<title>Google's latest home page redesign makes Gemini even more prominent</title>
+<link>https://www.engadget.com/2322647/google-latest-home-page-redesign-makes-gemini-even-more-prominent</link>
+<guid isPermaLink="false">e77659e4c65275c3b101a5ed354c347726caf911bfec0f0ed785896765b5aafd</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 05:45:38 +0000</pubDate>
+<description>Google is doubling down on Gemini AI in its desktop search, despite complaints from users and employees alike.</description>
+<enclosure url="https://www.engadget.com/img/gallery/googles-latest-home-page-redesign-makes-gemini-even-more-prominent/l-intro-1795153348.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/googles-latest-home-page-redesign-makes-gemini-even-more-prominent/l-intro-1795153348.jpg" medium="image"/>
+</item>
+<item>
+<title>‘We’re the most arrogant of all apes!’ A delightfully mind-expanding encounter with Peter Gabriel</title>
+<link>https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants</link>
+<guid isPermaLink="false">5734dccee736867c5f75f6dc14df2f37b55a27dfb07c5e3425282f677801bd17</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 05:00:22 +0000</pubDate>
+<description>From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far? Back with an epic new album, he unpacks his remarkable ideas Peter Gabriel asks me to fetch my laptop: he wants to show me a video of himself playing a keyboard duet with a bonobo called Kanzi. In fairness, said footage is, as Gabriel suggests, “extraordinary”. Working with primatologist Sue Savage-Rumbaugh, who developed a means of communicating with bonobos involving sign language and a speech-synthesis keyboard, Gabriel plays droning chords on a synthesiser while Kanzi picks out complementary notes on a piano. “Look, she likes that note, which is a ninth, and then she finds the octave,” he enthuses as the video plays. “There’s a real musicality there.” It is all deeply unlikely, but it seems the perfect illustration of how easily a conversation with Gabriel can go wildly – if fascinatingly – off-piste. I’ve only been in his company for 10 minutes, long enough to ask a solitary question about his epic new album o\i: its 13 tracks last nearly 90 minutes, the result, he suggests, of a longstanding interest in African music “which made me realise that a song could last as long as a song could last”, and of “being old enough to think ‘fuck it’, really”. For anyone who feels that an hour and a half of exquisitely arranged, beautifully produced, occasionally deeply strange art rock – its sound shapeshifting from the folk-flecked A Hard Lesson to the glowing pop hues of Till Your Mind Is Shining – is too meagre an offering, it arrives in two versions: a “dark” mix by US producer Tchad Blake and a “bright” version that’s the handiwork of Mike “Spike” Stent, famed for working with everyone from U2 and Madonna to Frank Ocean and Harry Styles. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/124bc29050c7da765c91e3c9121b3b2ab887ffa0/0_715_4126_3300/master/4126.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ccdd3736a07bfb7d8d3c97483cf5e27a" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/124bc29050c7da765c91e3c9121b3b2ab887ffa0/0_715_4126_3300/master/4126.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ccdd3736a07bfb7d8d3c97483cf5e27a" medium="image"/>
+</item>
+<item>
+<title>NextDC vows to keep future datacentres away from homes after community backlash in Melbourne</title>
+<link>https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne</link>
+<guid isPermaLink="false">0650b0415999f05713dc06221e88afd34dc3f32740b996891108f4e3786f3dbd</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 04:37:08 +0000</pubDate>
+<description>Public expectations around datacentres have changed in the age of AI, chief executive Craig Scroggie says Get our breaking news email , free app or daily news podcast Community backlash to a datacentre expansion in inner Melbourne that resulted in NextDC’s share price dropping 40% will change the way the company engages with communities – and it says it will no longer pursue new developments near homes. The company held its first annual general meeting since it was forced to delay the controversial expansion of its M3 site in West Footscray after power provider Jemena paused construction of new 22-metre power poles amid community protest . Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/9acf294a8c0fe26735bc3164495be1c8cbfbe068/683_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b09aff0d9787b51809bda5749b0619ef" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/9acf294a8c0fe26735bc3164495be1c8cbfbe068/683_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b09aff0d9787b51809bda5749b0619ef" medium="image"/>
+</item>
+<item>
+<title>Big Tech's compliance with EU market rules is performative, consumer group says</title>
+<link>https://www.theregister.com/legal/2026/11/20/big-techs-compliance-with-eu-market-rules-is-performative-consumer-group-says/5311066</link>
+<guid isPermaLink="false">514fccbb7a84b6ab82d6094e6bc6e47ce98ffa08b5b3255d95cb9673e1d729d7</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 04:30:00 +0000</pubDate>
+<description>Big Tech has earned a finger-wagging from the European Consumer Organisation (BEUC), which says the industry's compliance with the EU's Digital Markets Act (DMA) still leaves consumers short of meaningful choice. BEUC said : "Big Tech companies Alphabet, Amazon, Apple, ByteDance, Meta and Microsoft (so-called 'gatekeepers') still likely breach the EU's Digital Markets Act (DMA) far too often for consumers to reap the full benefits of real choice over their digital services and products." The European Commission designated the six companies as gatekeepers in 2023 , imposing obligations on specified core platform services such as search engines, messaging services, and app stores. The DMA aims to make digital markets fairer and more open to competition. The devil is in the details. In the years since, the EC has lined up Amazon and Microsoft's cloud businesses for gatekeeper status. In March 2025, the Commission issued preliminary findings against Alphabet over Search and Google Play, while separately specifying measures Apple had to take to meet its interoperability obligations. In 2024, Microsoft's browser rivals argued that Edge should also be covered by the DMA's gatekeeper obligations, and so on. BEUC is a fan of the act – it published a report on its consumer benefits in 2025 – but is less impressed with industry's implementation. Its latest analysis draws together evidence of potential breaches submitted to the Commission between June 2025 and June 2026. In the case of Microsoft, BEUC stated that the company used "behavioural techniques" and "non-neutral interfaces" to elicit consent from users for data sharing across services – emphasizing benefits, while not explaining why a user might want to decline. The Windows behemoth is also accused of making it tricky to change defaults and stop behavior such as apps opening links in Edge or using Bing as a search engine. "Microsoft also regularly prompts users who have selected an alternative browser or search engine to switch to Edge or Bing using increasingly subliminal techniques, such as prompts coming from the device manufacturer, which undermine effective compliance with the DMA," BEUC said. Then there's Google, which was fined €890 million in July for favoring its own services in Search and restricting developers' ability to direct Play Store users to alternative purchasing channels. As with Microsoft, BEUC expressed concerns about the non-neutral language Google used to obtain user consent, as well as how it allegedly made it difficult to change default settings or uninstall gatekeeper applications. The alleged behavior of Apple, ByteDance, Amazon, and Meta was also highlighted, with examples including Apple's restrictions on alternative app distribution and Amazon using interface design techniques to nudge users into handing over their data. Apple announced new terms for developers earlier this year in response to its App Store dispute with the European Commission, but BEUC said it was "co</description>
+<enclosure url="https://image.theregister.com/?imageId=5311087&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5311087&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies</title>
+<link>https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200</link>
+<guid isPermaLink="false">73ffa327d75f179f208745480ef5318fb52cf1e7eb5facdcd53c03e8743b42b2</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 20 Nov 2026 04:04:56 +0000</pubDate>
+<description>The US Commerce Department’s Bureau of Industry and Security (BIS) allowed Nvidia and AMD to sell hundreds of thousands of advanced GPUs to entities that the Department of War classifies as “Chinese military companies” that help Beijing to build its military. That news comes courtesy of Brian Mast, chair of the House Foreign Affairs Committee, who asked BIS to provide information about NVIDIA’s and AMD’s applications for the export licenses required to sell advanced AI chips to China. The congressman on Thursday revealed requests to sell 3.4 million AI chips to China, and that BIS approved the sale of 879,000 items. BIS refused to authorize some giant deals for Nvidia, which applied to sell 610,000 chips to Alibaba and 508,000 to TikTok owner Bytedance. But the agency allowed many other sales, including to Alibaba and Tencent. Mast points out that both of those companies are on the Department of War’s List of Chinese Military Companies , the designation it uses for entities deemed to be a “military-civil fusion contributor to the Chinese defense industrial base.” That’s a polite way of saying that Washington thinks China relies on these companies to operate and improve its military, and therefore to challenge America’s national security. Advanced chips are essential when designing nuclear weapons, stealthy submarines, or advanced aircraft. Those applications are the core reason the US bans exports of advanced GPUs to China, so that the People’s Liberation Army can’t develop advanced weapons. A diverting drama The congressman also claims that some of Nvidia’s applications were attempts to sell its wares to “chip-smuggling fronts to facilitate their sales of advanced AI chips to Chinese companies.” The New York Times reports that some of those front entities are linked to Megaspeed, the outfit fronted by suspected Chinese intelligence asset Alice Huang, whose intimate relationship with former Nvidia CEO Jensen Huang was a key factor in his resignation. Megaspeed is accused of what the US calls “diversion” – claiming to buy chips for one reason while intending to either ship them to China or rent them exclusively to Chinese companies in ways that breach the spirit of export restrictions if not the letter of the law. One of the documents Mast shared says “Every Nvidia and AMD application stated that the proposed transfer posed a ‘low’ risk of diversion.” Mast’s point therefore appears to be that the BIS has authorized sales that go against the clear intent of established policy, and the national interest, and that Nvidia and AMD may have been a little too optimistic in their assessment of diversion risk. Earlier this week, Washington adopted a new policy that outlaws allowing remote access to advanced AI chips, in the hope it would stop diversion and dent China’s AI ambitions. Two Chinese tech giants, Tencent and Alibaba, have signaled the policy had immediate impact. Chinese web giant Tencent on Wednesday said that new ban will reduce the quantity o</description>
+<enclosure url="https://image.theregister.com/?imageId=236466&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=236466&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?</title>
 <link>https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes</link>
 <guid isPermaLink="false">b2c8d06dad1e2250e1f9b1662438ab7c3c91fe6fea67210bd1f5764297f87343</guid>
@@ -21,7 +285,7 @@
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Fri, 20 Nov 2026 00:57:45 +0000</pubDate>
-<description>If you’ve got a moment to spare in between sorting out emergency patches for PHP , Java , and PostgreSQL , VMware has just bid for any remaining space on your schedule by publishing two critical-rated security advisories. VMSA-2026-0009 addresses CVE-2026-123890 , a 9.8-rated flaw that VMware says means a malicious actor with network access to vCenter may exploit this issue to bypass authentication and gain unauthorized access to the system. vCenter is the tool admins use to manage fleets of virtual machines. The flaw is present in VMware’s flagship Cloud Foundation suite. VMSA-2026-0009 also details four more CVEs, some of them high-severity. VMware’s second advisory, VMSA-2026-0010 , warns that Cloud Foundation, Aria Operations, and VCF Operations HCX products all use Apache – which has a 9.8-rated remote code execution vulnerability (CVE-2026-119618). A KVM curiosity Admins who oversee virtual infrastructure also need to pay attention to Linux KVM, the subject of a curious incident over the last 24 hours. This mess started with the November 18 disclosure of CVE-2026-99312 , a bug which allows an attacker to use a guest virtual machine to inflict Denial of Service (DoS) or memory corruption attacks on the host. It’s bad news whenever someone with access to a guest VM can attack the host, because it means gaining access to a single tenant can potentially harm all the other guest VMs or peer into the memory a guest uses. This flaw, however, isn’t a worst-case scenario guest-host escape, because it only impacts users of AMD processors who employ nested virtualization – the practice of running a hypervisor inside a virtual machine. Nested virtualization isn’t commonly used in the enterprise, but clouds employ it to do things like powering OS emulators. The bug’s CVSSv3 score is therefore a modest 5.5. Security researcher Oren Tomtov of Accomplish.ai says the flaw meant he could access 127 GB of host RAM on a Digital Ocean “Droplet” – the junior cloud’s name for its cloudy VMs. Yomtov says he told Digital Ocean and the Linux kernel security team about the flaw in October. Maintainers got busy and delivered a fix to the mainline kernel on November 2, full fixes landed on the 17 th . The CVE then appeared on November 18. Yomtov and Terra Security quickly posted their analysis of the flaw – but then took the posts down within hours. The Register understands that Digital Ocean asked for the posts to come down because it needed more time to update its Linux implementations. The company has not responded to multiple requests for comment. Terra’s analysis of the flaw asserts that it was introduced to KVM in 2022, when developers wrote a fix for CVE-2022-3344 . The company believes 3.2 percent of CVEs in the Linux kernel were introduced by the fix for another CVE. The good news about CVE-2026-99312 is it’s easy to defeat without an update, by disabling nested virtualization in KVM. ®</description>
+<description>If you’ve got a moment to spare in between sorting out emergency patches for PHP , Java , and PostgreSQL , VMware has just bid for any remaining space on your schedule by publishing two critical-rated security advisories. VMSA-2026-0009 addresses CVE-2026-123890 , a 9.8-rated flaw that VMware says means a malicious actor with network access to vCenter may exploit this issue to bypass authentication and gain unauthorized access to the system. vCenter is the tool admins use to manage fleets of virtual machines. The flaw is present in VMware’s flagship Cloud Foundation suite. VMware also wants its users to address CVE-2026-123891, which allows attackers to read and write the database used by SDDC Manager, the tool for managing entire software-defined datacenters. Attackers can execute arbitrary commands and elevate privileges to root. The prospect of an unknown party getting access to vCenter or SDDC manager is not pleasant. At least VMware has fixed its software. The virty giant hasn't done the same to address a second advisory, VMSA-2026-0010 , which warns that Cloud Foundation, Aria Operations, and VCF Operations HCX products all use Apache – which has a 9.8-rated remote code execution vulnerability (CVE-2026-119618). VMware plans to ship new versions of its products with a patched version of Apache, but for now only has workarounds that disable the http2 protocol. A KVM curiosity Admins who oversee virtual infrastructure also need to pay attention to Linux KVM, the subject of a curious incident over the last 24 hours. This mess started with the November 18 disclosure of CVE-2026-99312 , a bug which allows an attacker to use a guest virtual machine to inflict Denial of Service (DoS) or memory corruption attacks on the host. It’s bad news whenever someone with access to a guest VM can attack the host, because it means gaining access to a single tenant can potentially harm all the other guest VMs or peer into the memory a guest uses. This flaw, however, isn’t a worst-case scenario guest-host escape, because it only impacts users of AMD processors who employ nested virtualization – the practice of running a hypervisor inside a virtual machine. Nested virtualization isn’t commonly used in the enterprise, but clouds employ it to do things like powering OS emulators. The bug’s CVSSv3 score is therefore a modest 5.5. Security researcher Oren Tomtov of Accomplish.ai says the flaw meant he could access 127 GB of host RAM on a Digital Ocean “Droplet” – the junior cloud’s name for its cloudy VMs. Yomtov says he told Digital Ocean and the Linux kernel security team about the flaw in October. Maintainers got busy and delivered a fix to the mainline kernel on November 2, full fixes landed on the 17 th . The CVE then appeared on November 18. Yomtov and Terra Security quickly posted their analysis of the flaw – but then took the posts down within hours. The Register understands that Digital Ocean asked for the posts to come down because it needed more time to up</description>
 <enclosure url="https://image.theregister.com/?imageId=262623&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=262623&amp;width=800" medium="image"/>
 </item>
@@ -109,7 +373,7 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Thu, 19 Nov 2026 22:09:18 +0000</pubDate>
-<description>AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market on Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn total market capitalization, $1.75tn fully diluted. While the final share value was higher than the IPO price of $83, it marked a dip from an early high of $111.50. The firm’s shares initially soared 34% when trading got under way on its US market debut on Thursday, valuing the company at more than $2tn. Nonetheless, Anthropic’s ranked among the biggest stock market flotations in history. The artificial intelligence startup, founded in 2021, became one of the most valuable publicly traded businesses in the world. Continue reading...</description>
+<description>AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market on Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn total market capitalization, $1.75tn fully diluted. While the final share value was higher than the IPO price of $83, it marked a dip from an early high of $111.50. The firm’s shares initially soared 34% when trading got under way on its US market debut on Thursday, valuing the company at more than $2tn. Nonetheless, Anthropic’s ranked among the biggest stock market flotations in history. The artificial intelligence startup, founded in 2021, became one of the most valuable publicly traded businesses in the world. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c1036b62f47836e2eff2e53f19375cbc" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c1036b62f47836e2eff2e53f19375cbc" medium="image"/>
 </item>
@@ -123,6 +387,17 @@
 <description>Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images "We've got this," Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings pop on Tuesday night. Meanwhile, Wall Street was paying up for one of Nvidia's biggest customers as Anthropic made its Nasdaq debut at $111.50 per share - 34 percent higher than expected. Looking at the earnings report numbers alone, Nvidia had a blockbuster quarter. Q3 revenue more than doubled from the same period … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut</title>
+<link>https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests</link>
+<guid isPermaLink="false">5aebf622386bee88211e70c16bbdc06ee7bd2bad3347e3a82ec41f007117ef74</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 21:52:19 +0000</pubDate>
+<description>Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San Francisco As the artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, protesters from anti-AI groups rallied in front of the Nasdaq exchange at its New York City headquarters in Times Square and several were arrested. Similar demonstrations took place outside Anthropic’s San Francisco headquarters. “I think people are starting to get that there’s something wrong,” Jose Gonzalez, 46, one of roughly 30 protesters in New York City, said. Protesters carried flags reading “STOP TECH OLIGARCHS” and “FREEZE AI: END ICE, END WAR”. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc04bc8e3ffa5afdf7ea0a99043eb505" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc04bc8e3ffa5afdf7ea0a99043eb505" medium="image"/>
 </item>
 <item>
 <title>MAHA PAC spent more on steak, luxury club than candidates, report shows</title>
@@ -224,6 +499,17 @@
 <media:content url="https://i.guim.co.uk/img/media/af1e31b49b5341ebce31c28c93c8ad558d8934b8/181_0_3988_3192/master/3988.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9438f7c969bc0b755221af67d2f4c5b" medium="image"/>
 </item>
 <item>
+<title>Who are Anthropic’s seven co-founders, now worth $180bn?</title>
+<link>https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders</link>
+<guid isPermaLink="false">793d10c8c62444febae3d1fd7cf9d59a0d835289c226ed7387e2ae84caadc47f</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 20:05:13 +0000</pubDate>
+<description>The company counts physicists, a former journalist and an associate of the pope among its guiding lights The paper fortunes of Anthropic’s seven co-founders reached a total of more than $180bn on Thursday as shares in their company started trading at a price ahead of expectations. The opening price of $111.50 (£85) per share valued the entrepreneurs’ stakes – including the chief executive, Dario Amodei, and his sister Daniela – at between $26.5bn and $27bn each. The founders have pledged to donate 80% of their shareholdings in Anthropic to philanthropic causes, which would equate to about $150bn at the current share price. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/f21be169b52ca2b5f51250db2e1f038f14af993b/236_0_3021_2417/master/3021.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8eef69df759c092bc30cb974266c8985" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/f21be169b52ca2b5f51250db2e1f038f14af993b/236_0_3021_2417/master/3021.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8eef69df759c092bc30cb974266c8985" medium="image"/>
+</item>
+<item>
 <title>Google is putting AI chats right on the homepage</title>
 <link>https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats</link>
 <guid isPermaLink="false">c363e4ee1aa6f6ac6b578005f12a31d55eda9d2f701eca278823a16437142a2f</guid>
@@ -312,17 +598,6 @@
 <media:content url="https://www.engadget.com/img/gallery/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/l-intro-1795115497.jpg" medium="image"/>
 </item>
 <item>
-<title>Some creators are skeptical of Instagram’s new affiliate program</title>
-<link>https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads</link>
-<guid isPermaLink="false">9e65fe05c5427068bc7db83d911a42e802653319434cb24f9f8506426a18a584</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 19:12:30 +0000</pubDate>
-<description>For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious about who really benefits. The new integration allows creators to connect their Instagram and Amazon accounts and automatically tag products with their affiliate links, from which they earn a commission when followers make purchases. Influencers will be able to embed up to 30 product links in a Reel or 20 in a feed po … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Ubisoft lays off 166 more workers, opens a generative AI studio</title>
 <link>https://www.engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio</link>
 <guid isPermaLink="false">cec082a12f1eecc1fa08846f49096be42b305be79b65aa0ba173ba0385a67c2c</guid>
@@ -378,24 +653,13 @@
 <media:content url="https://image.theregister.com/?imageId=5311047&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Sonos is taking up to 30 percent off speakers and soundbars right now</title>
-<link>https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale</link>
-<guid isPermaLink="false">a0bdb17605c147389312f1b832c9460f0c441f7884710a9cef200a77b5075404</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 18:33:08 +0000</pubDate>
-<description>The excellent Sonos Play offers up to 24 hours of playback on a single charge. | Photo: John Higgins / The Verge Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun , making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos , Amazon , and Best Buy , or the newfangled Sonos Play for $239 ($60 off) from the same retailers ( Sonos , Amazon , Best Buy ). If you’re looking to give your home theater setup a big upgrade, the Arc Ultra is an excellent soundbar. It supports Dolby Atmos and delivers more immersive sound than the original Arc , while adding Bluetooth connectivity. Dialogue also sounds noticeably clearer, and the new Quick Tune feature automatically adjusts the soundbar’s audio to suit your room using built-in microphones, so you no longer need an iPhone to fine-tune the sound for your environment. For more powerful bass, you can also pair it with a compatible Sonos subwoofer, like the Sub 4, which is also available from Sonos as part of a discounted bundle for $1,499 ($499 off) . Read our full Arc Ultra review . Sonos Arc Ultra Where to Buy: $1099 $849 at Amazon $1099 $849 at Sonos $1099 $849 at Best Buy If you’re looking for a more affordable soundbar, the second-gen Sonos Beam has also hit a new low price at Amazon , Best Buy , and Sonos’ online storefront , where you can buy it for $339 ($160 off). The sound isn’t quite as immersive as that of the Arc Ultra, but the latest Beam can still fill a room with rich, clear audio. It also supports Dolby Atmos; however, unlike the newer Beam Ultra , it lacks side- and upward-firing speakers and instead relies on software to replicate surround sound effects. It also supports HDMI eARC, providing high-quality audio from a compatible TV. Read our Sonos Beam (second-gen) review . Sonos Beam (Gen 2) Where to Buy: $499 $339 at Amazon $499 $339 at Sonos $499 $339 at Best Buy If you’re shopping for a smart speaker instead of a soundbar, the Era 100 SL is available for an all-time low of $149 ($40 off) from Sonos , Amazon , and Best Buy (the standard Era 100 is also down to $179 at Amazon and Best Buy ). The feature-packed speakers are nearly identical, but the SL model lacks a built-in mic, and thus voice controls. Both offer excellent stereo sound and rich bass, with dual tweeters and a large woofer that delivers clear, detailed audio despite its small size. They also support Bluetooth and Apple’s AirPlay 2, and you can connect a wired audio source like a turntable using an optional USB-C adapter . For a more immersive experience, you can even pair two for stereo sound or use them as rear surrounds with a compatible Sonos soundbar. Read our Sonos Era 100 review . Sonos Era 100 SL Where to Buy: $189 $149 at Amazon $189 $149 at Sonos $189 $149 at Best Buy Sonos Era 100 Where to Buy: $219 $179 at Amazon $219 $179 at Sonos $219 $179 at Bes</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley</title>
 <link>https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly</link>
 <guid isPermaLink="false">b5b4456068dd8b3b5f1d98c1701ec61c6d8790fbaa43cec62d0f187094a864e9</guid>
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Thu, 19 Nov 2026 18:15:48 +0000</pubDate>
-<description>Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Business live – latest updates Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on its first day as a listed company . From the point of view of the promoters, the result was as good as it gets. The final pricing for the shares at $83 apiece was meaningfully higher than the indicated range of $70 to $78, but still left room for a big initial “pop”. There were positive vibes all round – especially for the battalion of investment banks collecting $550m of underwriting fees . Continue reading...</description>
+<description>Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on its first day as a listed company . From the point of view of the promoters, the result was as good as it gets. The final pricing for the shares at $83 apiece was meaningfully higher than the indicated range of $70 to $78, but still left room for a big initial “pop”. There were positive vibes all round – especially for the battalion of investment banks collecting $550m of underwriting fees . Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/ae7186e144b4b6232e5ff363f0e9905e52124718/716_0_5611_4488/master/5611.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f7de60b0116fdffd1ea5bc092f73bac" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ae7186e144b4b6232e5ff363f0e9905e52124718/716_0_5611_4488/master/5611.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f7de60b0116fdffd1ea5bc092f73bac" medium="image"/>
 </item>
@@ -477,17 +741,6 @@
 <media:content url="https://www.engadget.com/img/gallery/you-wont-find-this-fan-favorite-feature-in-gta-6/l-intro-1795108962.jpg" medium="image"/>
 </item>
 <item>
-<title>How to switch camera views in GTA 6</title>
-<link>https://www.engadget.com/2321960/gta-6-how-to-switch-camera-views</link>
-<guid isPermaLink="false">8eb1e05e45fbbae77d7d6a26b1afa0752a03e23d9d412d9f0552eb84ff3d2345</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 17:18:44 +0000</pubDate>
-<description>The game only offers a first-person perspective in very limited circumstances.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-switch-camera-views-in-gta-6/l-intro-1795108533.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-switch-camera-views-in-gta-6/l-intro-1795108533.jpg" medium="image"/>
-</item>
-<item>
 <title>Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how</title>
 <link>https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads</link>
 <guid isPermaLink="false">2be8d244b921ab6b29acc4ca643900a72fb31b529694af19a0dd23bf62ad8d90</guid>
@@ -497,17 +750,6 @@
 <description>With temporary threads, any searches you run in Google’s AI Mode won’t be associated with your account or saved to your chat history.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Google-AI-Mode-temporary-thread.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Google-AI-Mode-temporary-thread.jpg" medium="image"/>
-</item>
-<item>
-<title>How to adjust and turn off motion blur in GTA 6 if it makes you feel sick</title>
-<link>https://www.engadget.com/2321944/gta-6-how-to-adjust-turn-off-blur-motion</link>
-<guid isPermaLink="false">378bd4cf6cf2c11530f9be0d72e9e056960f3d4acee2615bd76e3b026f397f01</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 17:09:54 +0000</pubDate>
-<description>GTA 6's motion blur effect is thankfully easy to adjust.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-adjust-and-turn-off-motion-blur-in-gta-6-if-it-makes-you-feel-sick/l-intro-1795087374.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-adjust-and-turn-off-motion-blur-in-gta-6-if-it-makes-you-feel-sick/l-intro-1795087374.jpg" medium="image"/>
 </item>
 <item>
 <title>Anthropic throws open doors at $2T valuation as shares pop 34% in initial trading</title>
@@ -530,28 +772,6 @@
 <description>NAND flash prices could start falling next year as Chinese cloud operators cut enterprise SSD orders, helping push the market toward oversupply. Taiwan-based market intelligence firm TrendForce says Chinese cloud service providers are grappling with GPU shortages, high inventories, and fierce competition over AI token pricing. As a result, they have reduced their total enterprise SSD orders for 2027 by a substantial amount. Although TrendForce doesn't specify any figures, it says the cutbacks in China are large enough to outweigh the additional demand coming from US-based cloud operators. But don't get too excited: TrendForce forecasts overall NAND flash contract prices falling by 0-5 percent quarter on quarter in early 2027, with all product categories entering a downturn from the second quarter. Falling orders are only half the story. Manufacturers are also increasing output, while weaker consumer electronics sales could further depress demand. Strong demand for high-performance storage in the US continues to drive manufacturers to expand capacity and upgrade to newer process technologies. At the same time, the rising adoption of quad-level cell (QLC) technology and increasing number of layers in the NAND chips will further boost bit output, TrendForce observes. Some suppliers may go slower on their expansion plans in response to sluggish consumer demand, but the firm still expects global NAND flash output, measured in storage capacity, to grow by 25 to 30 percent in 2027. US restrictions on access to advanced AI chips could put Chinese cloud operators under further pressure. The US Commerce Department's Bureau of Industry and Security (BIS) has introduced new restrictions on sales of GPUs, and on remote access to them via the cloud. The new restrictions " set everyone back in China ," as The Register reported. TrendForce adds the caveat to its forecast that its market outlook depends on factors such as the pace of inventory reduction among Chinese CSPs, further changes to the restrictions on overseas GPU procurement, and whether device makers continue reducing storage capacities in 2028. Sadly, cheaper NAND wouldn't resolve the separate squeeze on DRAM supplies. The situation, caused by memory makers opting to produce high-margin products for the AI market rather than mainstream chips, has already increased prices of PCs in Europe by double-digit percentages, leading to a fall in shipments as buyers balk at the cost. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=229944&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=229944&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Here are some photos of Elon Musk, who is 'not MAGA'</title>
-<link>https://www.engadget.com/2321922/here-are-some-photos-of-elon-musk-who-is-not-maga</link>
-<guid isPermaLink="false">ffc256a3caa454f976796c52f02cb5fa8f591cd456f6bc93de19c130d1e9a5f2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 17:01:15 +0000</pubDate>
-<description>He's not even sure what that means, guys.</description>
-<enclosure url="https://www.engadget.com/img/gallery/here-are-some-photos-of-elon-musk-who-is-not-maga/l-intro-1795108110.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/here-are-some-photos-of-elon-musk-who-is-not-maga/l-intro-1795108110.jpg" medium="image"/>
-</item>
-<item>
-<title>Change these Xbox Series X/S settings before playing GTA 6</title>
-<link>https://www.engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6</link>
-<guid isPermaLink="false">3615ff41d240122d47c5e7d6feeeeaba94f7b999e8d0f491946c5e0f00241495</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 16:55:20 +0000</pubDate>
-<description>For the best possible Grand Theft Auto VI experience, change these settings on your Xbox Series X/S to squeeze out every bit of performance.</description>
-<enclosure url="https://www.engadget.com/img/gallery/change-these-xbox-series-xs-settings-before-gta-6-comes-out/l-intro-1795019724.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/change-these-xbox-series-xs-settings-before-gta-6-comes-out/l-intro-1795019724.jpg" medium="image"/>
 </item>
 <item>
 <title>Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video</title>
@@ -587,17 +807,6 @@
 <media:content url="https://image.theregister.com/?imageId=5311057&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>AI demand will push up interest rates around the world, IMF head warns</title>
-<link>https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec</link>
-<guid isPermaLink="false">6173566945507db228b1a5859a7187015190d37fd7b8eaf39e3385c95c71a5cd</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 15:15:14 +0000</pubDate>
-<description>Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned. Kristalina Georgieva, the managing director of the Washington-based fund, said demand for AI hardware and related technology products was pushing up consumer prices around the world. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=12ee38346c93843c2820207de8a85659" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=12ee38346c93843c2820207de8a85659" medium="image"/>
-</item>
-<item>
 <title>European Commission scrambles to contain AI-assisted cyberattack</title>
 <link>https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103</link>
 <guid isPermaLink="false">4818f937ae62cd72f531216e3155fbcf6bd4251fd75a48959c97691417dc76cc</guid>
@@ -618,17 +827,6 @@
 <description>The Public and Commercial Services Union (PCS) is campaigning to scrap Capita's Whitehall shared services contract, citing the outsourcer's troubled handling of civil service pensions. The Synergy deal, which Capita values at £370 million, covers HR, payroll, finance, and other back-office services across four government departments and nearly 100 arm's-length bodies. PCS wants the Department for Work and Pensions (DWP), which leads the program, to bring the work in-house. In a statement shared on X , the union pointed to Capita's troubled administration of the separate Civil Service Pension Scheme , which has left thousands of retirees struggling to access payments. "The ongoing Capita pensions scandal has left civil servants facing financial hardship, distress and uncertainty. Now MPs are raising serious questions about the government's decision to award Capita the Synergy contract, putting the company in charge of vital payroll and HR services affecting more than 250,000 civil servants," the statement said. "How many more warnings does the government need? In Parliament, MPs have challenged Capita's record, highlighted the devastating consequences of pension administration failures and questioned the wisdom of handing the company even greater responsibility. "PCS has warned for years about the dangers of outsourcing essential public services. We need accountability. We need answers. And we need a government that puts public servants before private profit. Stop the Capita Synergy contract. Bring these vital services back in-house." The union has also launched an online petition backing its campaign. Capita has been offered the opportunity to comment. On Tuesday in Parliament, Labour MP Andy McDonald said the stakes were high. "Civil servants must be paid correctly and on time. Payroll failures can mean missed mortgage payments, rent arrears and serious financial hardship. The failures in Capita's administration of civil service pensions demonstrate what can happen when essential services are outsourced and they go wrong," he said. He called on the government to conduct an urgent review of the decision to continue outsourcing Synergy's essential administrative services with "a proper assessment of how and when they could be brought back into public provision." DWP minister Lilian Greenwood responded that Capita's appointment followed a two-year procurement supported by commercial, legal, and program delivery experts. "Functional experts from all four Departments evaluated the final bids. The procurement met regulatory requirements, with advice from His Majesty's Treasury and the Cabinet Office, and passed their required controls," she said. "Because this is a critical service, the program did not simply choose the cheapest option. Evaluation was weighted 70 percent on quality and 30 percent on cost. "The program did consider insourcing the whole service or parts of it. However, its business case and approvals concluded that continuing to outsour</description>
 <enclosure url="https://image.theregister.com/?imageId=257955&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=257955&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Pebble Index 01 AI ring review: When a single feature becomes the product</title>
-<link>https://www.engadget.com/2321607/pebble-index-01-ai-ring-review</link>
-<guid isPermaLink="false">fb82e56d89bf6f313c5aac8928794620b5c1afff0a091d51e250565b44d8bf87</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 14:30:00 +0000</pubDate>
-<description>Pebble's AI ring has a single purpose, is cheap and low-tech - but it's very useful.</description>
-<enclosure url="https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/l-intro-1795097160.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/l-intro-1795097160.jpg" medium="image"/>
 </item>
 <item>
 <title>Mouse fight club might explain why we like to watch violent things</title>
@@ -653,17 +851,6 @@
 <media:content url="https://image.theregister.com/?imageId=5310970&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping</title>
-<link>https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping</link>
-<guid isPermaLink="false">9df169eba8373877459fba074525f801bda507283f6c708d0293b0eb6cfae8b0</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 14:00:52 +0000</pubDate>
-<description>Reported proposal to give musicians special treatment is ‘unworkable’, Aria chief executive says Get our daily political email , free app or daily news podcast The music industry has declared it will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allowing big tech to train on other copyrighted material – described by David Pocock as a “divide and conquer strategy”. The trade union representing writers and creatives is “alarmed” at a proposal to let AI companies train on Australian data if they buy a permit, an idea also strongly rebuffed by the Coalition and Greens. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f95efafbfc56722d04dde17662b18fd1" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f95efafbfc56722d04dde17662b18fd1" medium="image"/>
-</item>
-<item>
 <title>‘Communities are really angry’: how Australia’s datacentre opposition has gone from marginal to mainstream in five months</title>
 <link>https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months</link>
 <guid isPermaLink="false">85ad559ea296270eba21c7207ff25a886a092bf210850d35328b3b408e656d01</guid>
@@ -684,17 +871,6 @@
 <description>NASA recently announced a significant shakeup to the Artemis program that will land humans on the Moon. The moves were designed to give the agency's lunar lander providers—SpaceX with its Starship vehicle, and Blue Origin with Blue Moon—more flexibility in reaching the Moon. For Starship, this means docking with Orion in Earth orbit, and then traveling to the Moon in tandem. For Blue Moon, it shifts the rendezvous with Orion all the way to low-lunar orbit. These changes benefit the lunar landers, but in turn impose more of a burden on the Orion spacecraft, which is built for NASA by Lockheed Martin. To understand the implications for the spacecraft, Ars spoke with Kirk Shireman, Human Spaceflight Exploration and Orion program manager at Lockheed. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Rockstar says that GTA 6's map has room to expand for future storylines</title>
-<link>https://www.engadget.com/2321545/rockstar-says-that-gta-6s-map-has-room-to-expand-for-future-storylines</link>
-<guid isPermaLink="false">a6e103b2279c067e13e6f35baf67a048b0293e84e70c7008fb15a7b6ba44bfb3</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 13:30:02 +0000</pubDate>
-<description>Rockstar's VP of design Stephen Donkin told 'Kotaku' that GTA VI's map 'has been built for the long term.'</description>
-<enclosure url="https://www.engadget.com/img/gallery/rockstar-says-that-gta-6s-map-has-room-to-expand-for-future-storylines/l-intro-1795094910.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/rockstar-says-that-gta-6s-map-has-room-to-expand-for-future-storylines/l-intro-1795094910.jpg" medium="image"/>
 </item>
 <item>
 <title>The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter</title>
@@ -761,17 +937,6 @@
 <description>An attack on software provider Wellington IT exposed saved payee details held by around 40 Irish credit unions, prompting a minister to criticize the company's delay in notifying them. Robert Troy, Ireland's minister of state with responsibility for credit unions, said the breach happened in October but many affected institutions only learned of it in recent days. Troy told Irish broadcaster RTÉ that the breach occurred "sometime in October," and Wellington IT's delay in providing details to its credit union customers was "not acceptable." News of the issues affecting Irish credit unions broke on Tuesday, although the government said at the time it was only investigating a "possible cybersecurity incident" in the first instance, and did not name Wellington IT until Wednesday. Affected credit unions said attackers exploited a vulnerability in their provider's online banking platform between October 2 and 4. The flaw was closed on October 6. Troy said the affected credit unions were only informed for the first time in recent days. The exposed records concern payees saved in members' online banking accounts. Those records can also be linked to the members who created them. The information exposed varies between institutions and individual records, but disclosures list the following data types: Names on payee bank accounts and saved nicknames Business Identifier Codes (BICs) International Bank Account Numbers (IBANs) Sort codes Payment references Internal reference numbers that do not identify customers Payee addresses Credit unions including St. Canice's said online banking passwords, PINs, and login credentials were unaffected, and that the exposed payee details did not provide access to members' accounts or funds. St. Canice's warned members not to transfer money in response to anyone claiming it needed to be moved to safety because of the breach. The CEO of Belfast-based Wellington IT, Colin Mitchell, said in a statement that the company notified the affected organizations "as soon as we confirmed the potential risk to customer data." He said Wellington IT has engaged outside cybersecurity experts to help investigate the breach, and reported the matter to the relevant authorities. Mitchell added: "We are directly supporting our customers in their assessment of the potential impact on affected individuals and to help them meet any applicable regulatory obligations. "We recognize the importance of this matter to our customers and their members and are treating it with the utmost seriousness. We remain focused on completing a thorough investigation and communicating directly with our customers as the investigation progresses." Owned by Canadian company Vencora, Wellington IT has offices in Belfast and Dublin, and provides credit unions with software, mobile apps, private cloud infrastructure, and fully managed services. Around 40 credit unions in Ireland were affected, roughly a quarter of the national total, Troy said. Credit unions operate similar</description>
 <enclosure url="https://image.theregister.com/?imageId=5298439&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5298439&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Nvidia approaches Arm boss Rene Haas in search for new CEO</title>
-<link>https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas</link>
-<guid isPermaLink="false">aaa83c2877351dc6361862905a0d369461afa0e60bcf294e19cdaba1e3c146c2</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 11:29:01 +0000</pubDate>
-<description>CEO of Cambridge-based firm viewed as leading contender to replace co-founder Jensen Huang according to reports Business live – latest updates Nvidia’s headhunters have reportedly approached the chief executive of the Cambridge-based chip company Arm, in its search for a new leader after Jensen Huang’s dramatic exit. Heidrick &amp; Struggles, the recruiting firm hired by the company’s board, has started contacting potential candidates, according to Bloomberg. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/ce0d34e7679c080109b46bd269b8671589afd5e7/319_0_3193_2556/master/3193.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8117d415fbd94d59185cd840feb73a4" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/ce0d34e7679c080109b46bd269b8671589afd5e7/319_0_3193_2556/master/3193.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8117d415fbd94d59185cd840feb73a4" medium="image"/>
 </item>
 <item>
 <title>How to tell a cyberattack from a plain old outage</title>
@@ -871,17 +1036,6 @@
 <description>Grand Theft Auto VI may put a dent in global productivity today but the game didn’t break the internet. For those unfamiliar, GTA VI is the first new instalment of the mega-hit game in 13 years and it is nearly impossible to understate the excitement surrounding its release. Anecdotal evidence suggests fans of the game may today report they suddenly feel unfit to perform paid work. Developer Rockstar Games allowed Xbox and PlayStation owners to pay for and download the 200GB-plus game on November 10, before play commenced on the 19 th . Millions took advantage of the chance to download the game, creating just the sort of internet traffic event that regional internet registry the Réseaux IP Européens Network Coordination Centre (RIPE NCC) can observe with its RIPE Atlas internet measurement network. RIPE data scientist Emile Aben, with help from staffers Alun Davies and James Cowie, went looking for GTA-related traffic and found some interesting patterns . Aben observed that traffic to PlayStations mostly came from content delivery networks operated by AWS and Fastly. Microsoft relied on Fastly for over half of traffic flowing to Xboxes and used Akamai too, but eschewed AWS's CloudFront. The data scientist observed heavy use of “GeoDNS,” a technique that returns different IP addresses for a single domain request, depending on a user’s location. DNS’s designers didn’t intend that. Indeed, the RIPE trio point out that Paul Vixie, the computer scientist who earned his place in the Internet Hall of Fame for massive contributions to the DNS system, regarded things like GeoDNS as “stupid DNS tricks.” Whatever you think of GeoDNS, the RIPE researchers found that folks who were likely downloading GTA VI from Los Angeles, Tokyo, and Istanbul were each directed to different sites. Their probe of a network in Shanghai, China, found “a very distinct long lookup-chain with a hostname that is associated with the Alibaba Cloud in the end that maps to six different IP addresses.” “This hints at specialised treatment for some countries/regions,” Aben wrote. He also noted that Internet Exchange Points, the interconnect facilities that network operators use to exchange traffic and shorten paths, had to cope with record traffic during the download period – and seem to have handled the load. Aben thinks the GTA VI download program offers a useful lesson. “DNS helps steer each player towards a download server, while multiple CDNs share the work of delivering the files,” he wrote. “That distribution matters beyond gaming. On the open Internet, game downloads share routers and link capacity with all kinds of other traffic, including critical services.” “Keeping downloads local helps leave capacity on long-distance links free for other uses, making that enormous demand manageable.” ®</description>
 <enclosure url="https://image.theregister.com/?imageId=5310955&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5310955&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Datacentres to create 70% more carbon emissions by 2030, IEA report warns</title>
-<link>https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns</link>
-<guid isPermaLink="false">41ceb8db6bde3d56334f3cd8dcb19fb018a2a63a417740266f3a9edb7e7badd8</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 05:00:18 +0000</pubDate>
-<description>Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world’s energy watchdog. The International Energy Agency (IEA) warned that datacentres will consume twice as much electricity by 2030 compared with today, with the global expansion of artificial intelligence accounting for three-quarters of this growth. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ef48b1ef1422a279e0caba1aeb25da6e" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ef48b1ef1422a279e0caba1aeb25da6e" medium="image"/>
 </item>
 <item>
 <title>‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece</title>
@@ -1047,39 +1201,6 @@
 <description>After some early adopters of Meta’s Muse AI agent complained that it was spying on private messages and behaving unpredictably earlier this fall, Reuters exposed internal chats showing that Meta staff had raised the same alarms. When testing the agent, staff warned that Muse appeared to be accessing encrypted private messages that users did not expect the bot to review, could be mixing up conversations between users, and even potentially sharing sensitive information users would never expect to be exposed. Some unexpected Muse outputs responded to questions that staffers never asked. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump admin orders Kalshi to halt wagers on what words Trump will say</title>
-<link>https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say</link>
-<guid isPermaLink="false">44947caf578159d31396dd1f643233abf8f21c380c649eb93549cb3a5b2175e4</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 18:46:08 +0000</pubDate>
-<description>The Trump administration ordered prediction market Kalshi to stop offering event contracts that pay out based on whether President Trump will say a specific word before a particular date. Kalshi halted trading in the contracts while the US Commodity Futures Trading Commission (CFTC) conducts a review into whether the Trump mention contracts violate federal law. CNBC reported yesterday that "Kalshi quietly paused trading in a handful of 'mention' contracts tied to President Donald Trump at the end of last week at the request of the CFTC." Kalshi told media outlets that it is complying with the CFTC order. The markets taken down by Kalshi allowed users to wager on whether Trump would say certain words, including nicknames and the names of countries and companies. A similar expired event contract that can still be viewed on Kalshi's website asked whether Trump would use the nicknames "Marjorie Traitor Greene," "Sleepy Joe," and "Whack Job" or "Wack Job" before April 2026. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-1152x648-1795023886.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-1152x648-1795023886.jpg" medium="image"/>
-</item>
-<item>
-<title>The "shameful" measles data that lost the US its elimination status</title>
-<link>https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status</link>
-<guid isPermaLink="false">ca4133ee02a0f4bc27dd34f50c3016a41e6f470096e45a6362df8695bc4be62d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 18:30:23 +0000</pubDate>
-<description>International health authorities formally announced on Tuesday that the US has lost its measles elimination status, a hard-fought public health triumph won in 2000 after decades-long vaccination efforts. The loss had been widely expected by public health experts for months, and the decision was leaked by the press last week. Still, having the designation officially stripped stings. After the announcement Tuesday, public health experts, doctors, and political leaders decried the dramatic backslide for the US, calling it " shameful " and a " national embarrassment ." News articles point to the staggering vertical rise of measles cases this year, currently over 5,400 cases , more than any other year since 1991. An explosive measles outbreak in Pennsylvania accounts for over 1,500 of those cases . There have been 10 confirmed deaths across three states, several deaths just in the last week. But the measles data that caused the US to lose its status—the bits of it that are public at least—paint a darker picture of where the US is in its rematch with measles, the most contagious virus known on Earth. For one thing, almost none of the data from this year—the cases, the explosive Pennsylvania outbreak, the deaths—factored in to the loss. It was lost earlier. What's happening now is a runaway epidemic. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Will Wright's next simulation will use AI to mine content from your memories</title>
-<link>https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories</link>
-<guid isPermaLink="false">6e60ec8c10b2996b7013889d42be65cd9e3b96eb5b5c076fa264555dff76cc7d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 18:10:33 +0000</pubDate>
-<description>The computer gaming world hasn't heard much from Will Wright ( SimCity , The Sims ) since the underwhelming release of Spore in 2008 and Wright's subsequent departure from Maxis owner EA . Now, well over 15 years later, Wright is starting to promote his next digital simulation, which will use generative AI technology to craft a game-like experience from players' memories. MyMems , which is slated to release next year, differentiates itself from Wright's previous projects by "turn[ing] the simulation inward," as Wright's Gallium Studios and partner Artificial Agency put it in a press release this morning . The game will mine memories provided by the player to create digital people that can then form teams to solve puzzles in the game world. “If my Grandmother ended up in a Grand Slam match against Serena Williams, who would win?" Wright says by way of example in the release. "If I had to build a bridge across a short chasm, which three people from my life would I choose to help me?" Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png" medium="image"/>
 </item>
 <item>
 <title>Google Wallet comes to your iPhone – but without this feature</title>
@@ -1302,17 +1423,6 @@
 <media:content url="https://image.theregister.com/?imageId=5239035&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Annoying Trump and dodging Flock: inside MapQuest’s contrarian comeback</title>
-<link>https://www.theguardian.com/us-news/2026/nov/18/mapquest-google-apple-navigation-app-flock</link>
-<guid isPermaLink="false">b534ff230648b4228ce816e4abc777df66c0bb0d2cf2a70e45720a121a1d8f96</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 12:00:56 +0000</pubDate>
-<description>After refusing to obey the president’s Lake Ontario order, MapQuest briefly rose to No 1 in navigation apps. It’s now a tool in the US anti-surveillance movement I am among the legion of former PC desk occupants with warm memories of MapQuest, the Y2K-era travel website that kept millennial drivers on course with sheaves of printed-out directions – a quantum leap over the ungainly glovebox map. But I assumed it had long since gone the way of AIM and Skype, its manual turn-by-turn guidance made obsolete by big tech. Proof of life came in January 2025, when Donald Trump issued an executive order renaming the Gulf of Mexico the Gulf of America – a change Apple Maps and Google Maps promptly adopted, while MapQuest … did nothing. Not only had it never signed off, MapQuest was reinventing itself as a plucky oppositional hero, the app most likely to uphold your geographical beliefs. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/a6747b5a057c449317f63b1bafa3cd8aad85d566/0_1079_2400_1920/master/2400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25240fba464602c94ce6bb555c0d1f62" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/a6747b5a057c449317f63b1bafa3cd8aad85d566/0_1079_2400_1920/master/2400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25240fba464602c94ce6bb555c0d1f62" medium="image"/>
-</item>
-<item>
 <title>ULA says Vulcan lacked the oomph to get Amazon satellites to orbit</title>
 <link>https://www.theregister.com/science/2026/11/18/ula-says-vulcan-lacked-the-oomph-to-get-amazon-satellites-to-orbit/5310712</link>
 <guid isPermaLink="false">d7d38abe4f6e547350ae4ab792ae0083defa987c006bd54d28d8d1ac2a28633e</guid>
@@ -1357,17 +1467,6 @@
 <media:content url="https://image.theregister.com/?imageId=2918046&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Time for frustrated M365 customers to stage a 'distributed denial of satisfaction' action</title>
-<link>https://www.theregister.com/off-prem/2026/11/18/time-for-frustrated-m365-customers-to-stage-a-distributed-denial-of-satisfaction-action/5310343</link>
-<guid isPermaLink="false">ea1c75115ea0acc65c1f5d6d6563e2c9f9ce1f8b28f401e8bfd6d9135fd2e3c9</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 08:45:00 +0000</pubDate>
-<description>I briefly helped with Microsoft Australia’s PR efforts in the early 2000s, when IE 6 and Windows were so bug-prone they essentially represented a welcome mat for hackers and required a deluge of patches admins couldn’t handle. Microsoft responded to that mess with a message about security being a shared responsibility involving people, process, and technology. A quarter of a century later, Microsoft’s business practices still make its customers reluctantly share the cost of its failings – most recently last week’s massive M365 outage. To protest that mess, Microsoft customers should create a new cloudy meltdown – on the pages the software giant uses to process applications for compensation after it fails to meet service level agreements. Yes, you read that right: “applications.” When Microsoft experiences an outage, customers must apply to get the service credits they’re entitled by finding the “Outage ID” related to each incident. The application page is buried deep in the Microsoft 365 Admin Center and the Outage ID is recorded elsewhere. Microsoft appears not to offer a facility for bulk uploads, so the channel partners who manage so many M365 implementations have extra work to do. That’s outrageous because the implicit promise of the cloud is that it delivers more value for less effort. Yet Microsoft requires users to do extra work to seek redress for its mistakes. Cloud also delivers fat profits for investors. Which is probably why Microsoft, which can clearly bill its customers regularly and reliably and therefore knows which services they use, hasn’t done the work to link its uptime meters and billing systems so it can automate crediting customers after outages. I understand Microsoft thinks AI is quite good at that sort of integration. Maybe its enormously reduced workforce will need it to get the job done. But rather than vibe-coding its way out of this, decency demands Microsoft quickly decide that all users impacted by last week’s automatically receive service credits, rather than asking them apply for their entitlements. If Microsoft doesn’t get proactive, the magnitude of this outage represents a moment in which its customers can show the software giant it must do better – perhaps by filing so many applications for credit that managers who oversee Redmond’s systems and finances can’t help but notice a spike of activity. Thinks of this as a distributed denial of satisfaction attack signaling that Microsoft can't solve this particular outage with a glib apology and a blog post. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5310826&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310826&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban</title>
 <link>https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study</link>
 <guid isPermaLink="false">507026f8e6c563ade0f7491c2ed7d3d63a88b1bff891eca096268e1cee2afc9f</guid>
@@ -1377,50 +1476,6 @@
 <description>Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers through a major scientific study led by Wellcome, which will be the first of its kind. Ten research projects will explore topics ranging from children’s mental health to their sleep and physical activity, comparing factors before and after the social media ban for children under 16 is introduced in the UK in spring 2027. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=999662fa482cfd4b13c6d62af5bbd326" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=999662fa482cfd4b13c6d62af5bbd326" medium="image"/>
-</item>
-<item>
-<title>A Chinese bottle-cap manufacturer brilliantly deflated AI hype</title>
-<link>https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651</link>
-<guid isPermaLink="false">12bc54f42b51d9ea4cd0cc2ed732f20d3afdad6bcb57f4f7d9ce23febd4b585f</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 06:32:00 +0000</pubDate>
-<description>Shanghai is one of the world’s largest and busiest cities but is surprisingly quiet . Electric automobiles cruise silently, chased by hushed flocks of electric scooters. When I visited in early November to attend the local edition of the AI Engineer conference, I found China's attitude to AI is also quite relaxed. That's not to say interest in the topic is low, but I didn't perceive any anxious artificial-general-intelligence-is-coming-and-will-destroy-us vibe. The only conference talk that referenced AGI came from Ying Yang, a neuroscience PhD and serious influencer who has over 3.4 million followers on Chinese micro-blogging service Weibo , who enthused about the marketing and product development opportunities opening up to those who prepare for what’s coming. AGI isn't P(doom) for the Chinese AI practitioners I met; it's a great new marketing tool. Some of this may be due to the fact that the major US model makers like OpenAI, Anthropic and Google are effectively inaccessible on the Chinese side of the Great Firewall. Engineers in China use DeepSeek or Kimi or GLM or MiniMax or MiMo or Qwen, all of which are now more than good enough for almost any task, and all offered without reference to The Terminator . That's not to say that Chinese engineers and designers aren't facing the same crisis of self-worth we've seen elsewhere. A spectacular keynote from Ryo Lu asked, "When we can do anything, do we still know what we want?" Are our measures of self-worth pointless when we can no longer prove who we are by how many lines of code we've written, or frameworks we've designed? Ryo landed on a line I'm hearing more frequently: "I want to build tools to help me be more and more involved, not prove that I'm needed less and less." What followed showed just how good that tooling has become and what an AI engineer can do with it. I saw an impressive demo from AutoArk of a 35 billion-parameter model running in just 2.5GB of smartphone RAM on an iPhone 16 Pro. DYNA 's Zhong Shen showed how it builds robot hardware that will work with AI models updating every month. My favorite presentation came from a bottle cap manufacturer called named Zhu Shihui, who reminded everyone in the audience that “the last mile is half the journey.” Zhu flayed the class of consultants who never realize some manufacturing equipment is pre-digital but still insist every process can be easily automated. Never mind that workers in those factories lack deep digital skills (Zhu's average employee is in their late 40s) and that companies of this sort operate on margins so thin that resources simply aren't available to mount a complete transformation. Instead of swinging in on an AI wrecking ball, Zhu suggested the best approach is to exercise humility by seeking out an organization's tacit knowledge and using that as the basis for transformation. Not long after Zhu left the podium, one of my Australian fellow travelers noted the significant proportion of women at the conference. I hadn</description>
-<enclosure url="https://image.theregister.com/?imageId=5310658&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310658&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Temu's compliance regime is low-quality, fits badly, and full of holes, says Europe</title>
-<link>https://www.theregister.com/legal/2026/11/18/temus-compliance-regime-is-low-quality-fits-badly-and-full-of-holes-says-europe/5310684</link>
-<guid isPermaLink="false">db7b3da78aee7439fc3635c3a678cebbffd385847667911edc475de298b603cd</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 06:16:12 +0000</pubDate>
-<description>Chinese e-tailer Temu has a reputation for selling low-quality knockoff products at low prices made possible through use of forced labor. Now, the European Commission has made a preliminary finding that the company also runs a low-quality compliance regime that means it’s not meeting its regulatory obligations. The Commission issued that finding yesterday, accusing Temu of breaching its Digital Services Act (DSA) obligation to operate serious measures that mitigate the risk of illegal products being offered on its platform. Temu is a marketplace that allows third parties to sell on its platform, a model that doesn’t relieve it of responsibility for the goods available on its site and apps. Eurocrats therefore have beef with Temu over several matters, including: Requiring sellers who use the platform to test the quality of “only a very small share of products,” and then often not bothering to check the reports; Not doing enough to prioritize checks of products in known high risk categories, like toys and cosmetics, then not following up on those checks; Running a moderation system that mostly considers whether products comply with Temu’s terms and conditions, rather than product safety; Not hiring enough human moderators to keep pace with growth in listings on Temu; When it finds stores selling non-compliant goods, Temu acts against that store – but not the trader who may sell the same products in multiple stores; Allowing stores to commit many serious infringements, including selling products that fail safety checks, before suspending their stores. A Temu spokesperson told The Register the company respectfully disagrees with the EC's findings. "Temu invests significantly in compliance infrastructure and human expertise and implements a suite of control measures that effectively mitigate illegal product risks with a consistently low incidence of problematic products," the spokesperson said. "We will review and respond to the preliminary findings carefully and will continue to engage constructively with the Commission. We are confident that we will reach an amicable resolution of the matter that fully addresses the Commission's remaining concerns." The EC has already tangled with Temu. In 2024 Eurocrats investigated its risk assessment processes. In May 2026, Eurocrats found Temu’s processes inadequate and levied a €200 million fine. Brussels also sent a €550 million fine to another Chinese e-tailer, Alibaba, for not doing enough to stop the sale of dangerous goods. This announcement of new action against Temu invoked Article 35 of the Digital Services Act, the sweeping regulation of online businesses under which the EU could fine Temu up to six percent of its global revenue and order corrective actions. Europe is concerned that the low prices Chinese e-tailers charge are enabled by forced labor and ignoring dangerous products. EC officials believe those practices mean the likes of Temu don’t compete on a level playing field with continental retail</description>
-<enclosure url="https://image.theregister.com/?imageId=5310689&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310689&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps</title>
-<link>https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661</link>
-<guid isPermaLink="false">0b4f94262b7f6cbcc92e9dfe52d3676f5b960ecaa9a61b7735d49df9518ad883</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 18 Nov 2026 04:33:05 +0000</pubDate>
-<description>The United States Cybersecurity and Infrastructure Security Agency (CISA) has urged Java users to immediately patch a high-severity flaw in the software, which attackers can use to crash the Java virtual machine or achieve unauthenticated remote code execution (RCE). Oracle revealed the flaw in its monthly patch dump for November , which offers 655 patches, 62 of them rated critical, affecting 62 products. Several of the flaws are rated more dangerous than the Java problem, CVE-2026-114938 , which Big Red didn’t single out as worthy of special attention despite CISA’s warning . The cyber-agency’s decision seems apt because vulnerability research and red teaming outfit Calif.io, which discovered the flaw, used its X account to claim news of the problem had leaked before public disclosure and the release of Oracle's fixes. By then, Calif had already tested the flaw, which it named “Java4Shell,” and found applications including Keycloak, Atlassian’s Jira and Confluence, Jenkins, Apache Kafka Broker, and Elasticsearch are susceptible to RCE. Calif, which also helped to find the PHP2Shell flaw , says the flaw is a memory-corruption vulnerability in OpenJDK's Base64 decoder. “Base64 is a very common way of representing binary data as text. It is used in authentication protocols, to encode file uploads, and to deliver network messages,” the company explained. “To decode Base64 faster, OpenJDK uses specialized x86-64 CPU instructions to process many bytes at once.” “We discovered a bug in that optimized machine-level code that lets malformed input overwrite neighboring memory. With careful exploitation, the corruption can reveal sensitive memory, as Heartbleed did, or lead to remote code execution. The corruption itself can be triggered by just 64 A characters followed by a single =:” Calif applied the CVSS 4.0 bug-rating scheme and gave the flaw a critical-rated score of 9.2/10. Infosec outfit SentinelOne’s analysis suggests the flaw “sits in the Java standard library, so exploit traffic is specific to each application.” “Any Base64 value an application passes to java.util.Base64.Decoder can carry the payload, including HTTP Basic credentials, SAML artifacts, CSRF tokens, and MIME encoded words. In default configurations of the affected applications listed above, attackers can reach this code path prior to authentication.” Cisco’s Talos security team pointed out that the flaw is present in OpenJDK Java versions 17.0.6 and later running on x86-64 CPUs with AVX-512 VBMI (Vector Byte Manipulation Instructions) support enabled. “These vulnerabilities have already been tested against a suite of Java applications with success, but the attack surface is likely much larger as additional targets are tested and confirmed,” Talos advised. Cisco’s infosec experts urged adoption of the fixed versions of Java Oracle posted on Tuesday but noted it is possible to mitigate the flaw on x86-64 machines by starting the JVM with support for AVX-512 disabled. Akamai’s Chief</description>
-<enclosure url="https://image.theregister.com/?imageId=5310666&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310666&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Daily disruptive outages that ground planes and halt work – welcome to the new normal</title>
-<link>https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634</link>
-<guid isPermaLink="false">bc96603036a28784fc9dd07dfb0a6bcb02833de1d2c8272fa2230575a740cfbe</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 23:41:31 +0000</pubDate>
-<description>Another day, another disruptive network outage (or two) as government officials and company execs scramble to assure an anxious populace that these are not coordinated cyberattacks – and security experts call this the new normal. A classified network that the US National Security Agency uses for internal communications, called NSANet, went offline on Tuesday in what the agency described as a “temporary degradation during scheduled routine maintenance.” “While some internal systems were affected, mission-critical capabilities remain fully operational and our ability to defend national security continues,” the NSA said in a statement following media reports about the outage. “NSA's infrastructure is designed with multiple layers of redundancy to maintain operations during planned maintenance or unexpected events.” Around the same time, Apple users began reporting issues across multiple services – including Apple Support, iCloud, the App Store, Apple Pay, and more – with Apple retail stores worldwide also reportedly experiencing disruptions that halted sales and in-person support. A day earlier, customers at major US banks including JPMorgan Chase, Bank of America, and US Bank reported service outages that Chase attributed to “a software bug in on-premise hardware systems - there is no evidence this is cyber-related.” All of these high-profile outages followed last week’s US Federal Aviation Authority (FAA) order g rounding all planes on Friday due to problems with copper wiring during an L3Harris network upgrade, and a Microsoft 365 outage on Thursday. Redmond later blamed the massive service disruption on a faulty software update it pushed back in July. Despite the weekend respite from network outages, your humble vulture still had to field is-this-the-beginning-of-the-end questions from friends and family all day Saturday and Sunday, most of whom suspected Russia or China – maybe even Iran – caused the spate of downed systems and services. A highly sophisticated, coordinated nation-state hack would be a much more exciting cause for the disruptions. The real culprit, however, appears to be aging, under-funded infrastructure , riddled with decades-old bugs and held together by digital sticks and glue . “As someone who started out as a hacker , I know how tempting it is to connect the dots when major systems fail one after another,” Remedio CEO Tal Kollender told The Register, adding that there’s “no credible public evidence that these outages were part of a coordinated cyberattack,” and most have been attributed to technical failures. “What concerns me more is what these incidents reveal about the fragility of our digital infrastructure. We've built an interconnected world on layers of aging systems, complex configurations, and dependencies that organizations don't always fully understand. A single misconfiguration, failed update, or broken dependency can create disruption on a massive scale, even without an attacker,” Kollender said. “The uncomfor</description>
-<enclosure url="https://image.theregister.com/?imageId=5310644&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310644&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates</title>
@@ -1454,39 +1509,6 @@
 <description>Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/ignite.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/ignite.jpg" medium="image"/>
-</item>
-<item>
-<title>GPU giants throw HPC users some tasty crumbs</title>
-<link>https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611</link>
-<guid isPermaLink="false">ef0b76775bfa4a4abdb29d174b2c9ecfdc23d8c65beb00e8985722d97407d26f</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 22:37:46 +0000</pubDate>
-<description>At Supercomputing 2026 this week, Nvidia unveiled a new variant of its Rubin GPUs aimed at – you’ll never believe it – high performance computing (HPC). The creatively named Rubin HPC promises more than 50,000 CUDA cores, nearly twice that of the AI-focused version of the chip that Nvidia unveiled earlier this year. It will arrive sometime in 2028. According to Dan Ernst, Nvidia’s senior director of supercomputing, the new chip offers a rebalanced architecture optimized for the kinds of simulation, engineering, and high-performance analytics workloads common in the HPC and scientific computing communities. This is not the first time Nvidia has introduced specialized hardware. Last year, the company optimized its B300 accelerator for AI inferencing workloads. “Rubin HPC is the same idea,” Ernst told El Reg . “Within the Rubin platform, but we’re building variants to really focus on a specific sub domain of applications.” Details remain remarkably thin. Nvidia hasn’t disclosed peak performance memory capacity or bandwidth. That said, the chip will likely include features which show Nvidia can think beyond AI and still cares about the HPC community. Fearing that Nvidia could ignore HPC is reasonable becuase beginning with the launch of Blackwell Ultra (B300/GB300), the company traded double-precision matrix acceleration for higher throughput at lower-precisions. The result was a chip that at FP4 churned out 15 petaFLOPS of AI compute, but just 1.3 teraFLOPS at FP64. That's good for AI, but less useful for scientists. When Nvidia unveiled Rubin, it seemed the GPU-slinger would continue this trend. At 33 teraFLOPS, the chip was not only slower at FP64 than the Blackwell GPUs it replaced, but slower than Nvidia’s now four-year-old Hopper accelerators as well. Nvidia contended that for sparse vector-heavy workloads measured by the High Performance Conjugate Gradients (HPCG) benchmark, the higher ratio of memory bandwidth to compute should deliver meaningful performance gains. Meanwhile, for dense matrix-heavy workloads, for which benchmarks like High-Performance Linpack (HPL) are representative, Nvidia adopted a new strategy: FP64 emulation. We discussed the pros and cons of this technique in greater detail earlier this year, but in a nutshell it uses an algorithm derived from the so-called Ozaki Scheme. The algorithm works by decomposing FP64 matrix operations into a string of INT8 operations that, when run on Nvidia’s tensor cores, achieve higher-than-native performance. Nvidia, we’re told, isn’t using INT8, but it is unlocking substantial performance gains, at least for certain workloads. According to Nvidia, Rubin can churn out up to 200 emulated FP64 matrix teraFLOPS. While Ernst didn’t offer any specifics, he assured us that Nvidia’s HPC hardware should offer native FP64 matrix performance and customers won't have to rely entirely on emulation. Assessing the new chip's vector performance is much easier. With more than 50 thousand CUDA cores (by ou</description>
-<enclosure url="https://image.theregister.com/?imageId=5310625&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5310625&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Apple outage: iPhone apps suffer disruption days after major Microsoft issues</title>
-<link>https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption</link>
-<guid isPermaLink="false">0aeb208b6cbf0fbd6aad9e20a8bbf165f2eb96cb59b257e21b4e7f15f48fdb1b</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 22:23:56 +0000</pubDate>
-<description>Google’s Gmail also affected after problems reported in technological infrastructure in the US and worldwide Thousands reported disruptions to Google’s Gmail and Apple’s iPhone apps, such as Apple Pay and iCloud, on Tuesday, according to Downdetector . Apple confirmed the outages in a statement but said it had resolved them, while Google said it had not seen internal signs of outages. Apple’s own system status page as of 2.30pmET showed problems with services such as the App Store, iCloud Mail, iCloud Web Apps and AppleCare. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/913decd727f709e9f1ff0eb5f14571df37d51344/349_0_3475_2781/master/3475.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ebed38591f565a0b0750268ebe8e7b1" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/913decd727f709e9f1ff0eb5f14571df37d51344/349_0_3475_2781/master/3475.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ebed38591f565a0b0750268ebe8e7b1" medium="image"/>
-</item>
-<item>
-<title>Satya sorry for SaaS-y SNAFU - look over there, more AI!</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/17/satya-sorry-for-saas-y-snafu-look-over-there-more-ai/5310594</link>
-<guid isPermaLink="false">52e5a82eefdf7a3f5665b52615f66c88ab165abd68a391131bf71429abfe8689</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 21:44:58 +0000</pubDate>
-<description>Microsoft CEO Satya Nadella's Ignite conference keynote on Tuesday was all about trust. He opened by promising to earn back trust after last week's massive M365 outage and went on to focus on the need for organizations to trust their AI models. "So last week in some sense was really a reminder of how critical digital infrastructure is as the dial tone for the world," said Nadella. "We know the trust you place in our services and take that responsibility extremely seriously. And in that context, I know we have work to do to provide that resilience that you can count on, the world can count on, and we are committed to ensuring that we learn and we continuously improve." Speaking at San Francisco's Moscone Center, Nadella described three areas of focus for the company as it works to build what he referred to as a frontier ecosystem: "Keeping the human at the center of it all, ensuring that you have ownership over your organization's intelligence and learning, and trust." Anthrocentrism is a tough sell just weeks after offering buyouts to 60,000 employees . Describing the shift from hand-written code to agent-written code, Nadella suggested developers have moved from building software artifacts to building software factories that build those artifacts. "The important thing here though is to remember still that that human intent, that judgment, that experience, skills, expertise all very much matter," he said. People may judge development work, but ask them whether they have the same sense of ownership as when they wrote every line. As to ensuring that organizations have ownership over their intelligence, that borders on heresy for a company with massive cloud computing commitments specifically to run AI workloads. If everyone really owned their machine learning models and ran them in their own data centers and on employee computers, Azure would be in trouble. Yet Nadella emphasized ownership – which isn't at all obvious given the legal ambiguity of who owns AI generated code and whether it can be copyrighted . "In the age of AI, the key question is how do individual firms continually build and own their learning and tacit knowledge?" he said. "For an economy to remain an economy where many firms exist and thrive, intelligence by definition needs to be broadly distributed versus just collapsed into a couple of models." Suffice to say that Nadella is promoting client control over AI data that's processed mostly on equipment rented from Microsoft, with some allowance for customer-controlled infrastructure. But that still ought to concern frontier AI labs like Anthropic and OpenAI that favor a white-glove, black-box service model where they are the arbiters of access. As for the third pillar of Nadella's vision, that's trust, which remains missing in action. "How can you even trust all this powerful technology?" Nadella asked. "And the reality is, by definition, you can't. In other words, it becomes an architectural imperative to separate the supply of i</description>
-<enclosure url="https://image.theregister.com/?imageId=5250857&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5250857&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Your Googlebook just got a Chrome update – 5 new features</title>
@@ -1555,17 +1577,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png" medium="image"/>
 </item>
 <item>
-<title>Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections</title>
-<link>https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections</link>
-<guid isPermaLink="false">b43b3cb4ca5a78791f8f0088eeda8430adbbab9378b6fb9f82b5f1b0dc0cfb17</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 09:00:08 +0000</pubDate>
-<description>Agreement secured by Equity union gives actors rights over payment and consent when digital replicas are used Actors in the UK are to be given more rights over their “digital replicas” as part of a new agreement on AI protections with TV and film producers, secured after a growing on-set backlash. Under a wide-ranging new deal secured by Equity, the actors’ union, performers will have the rights to be paid when their digital replicas are used and to consent to whether their digital replica is used or not. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/2d31aed85ca3f201888a254162c8581486077abf/1288_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=468756c82ce7df119145f9f852a98b3b" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/2d31aed85ca3f201888a254162c8581486077abf/1288_0_2700_2160/master/2700.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=468756c82ce7df119145f9f852a98b3b" medium="image"/>
-</item>
-<item>
 <title>Apple could build its AI health chatbot from this study – how to enroll</title>
 <link>https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll</link>
 <guid isPermaLink="false">6fefddc39fa7192eda9b0e6573763aeb63dc2eb1518a398b4ad145732db60bed</guid>
@@ -1608,17 +1619,6 @@
 <description>CEO was viewed as ‘irreplaceable’, but recklessness of affair with a woman regarded by US officials as a Chinese spy made him a political liability Half the tech world made up its mind before the facts could be assessed properly. Jensen Huang was “irreplaceable”, said the chorus at the start of this week. Nvidia would melt without the co-founder’s brilliance, apparently. The chipmaker’s board had to find a way to save its genius for the sake of corporate America and the entire AI universe. It was always nonsense because, after the passage of only a few days since his confession of infidelity, Huang looked less like a towering corporate titan and more like a political liability. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/125_0_4666_3734/master/4666.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37c8cf3c696dd03224405955df058682" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/125_0_4666_3734/master/4666.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37c8cf3c696dd03224405955df058682" medium="image"/>
-</item>
-<item>
-<title>Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?</title>
-<link>https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached</link>
-<guid isPermaLink="false">0f7ce98817dbefb9e5c2ac895f9801fdbe45fa15f324609fbbf4c8372f076b5a</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 17:50:35 +0000</pubDate>
-<description>CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI chips, called graphics processing units (GPUs), that underpin the AI economy. Without these, AI models such as ChatGPT and Claude could not be trained and would not run. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/8371f47b7280e46fb9321628941d7375be61a95f/749_0_3751_3000/master/3751.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=287e74f5fd07843dfba6df498562a1ca" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/8371f47b7280e46fb9321628941d7375be61a95f/749_0_3751_3000/master/3751.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=287e74f5fd07843dfba6df498562a1ca" medium="image"/>
 </item>
 <item>
 <title>Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen</title>
