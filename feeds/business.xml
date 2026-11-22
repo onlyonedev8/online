@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The future of onchain FX could start with users, not institutional liquidity</title>
+<link>https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity</link>
+<guid isPermaLink="false">0e0843b2a7992f8a3cd351d226566f18ce686105af49012e339eeb07d9ab0c9b</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 22 Nov 2026 14:30:00 +0000</pubDate>
+<description>Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-trusted-blockchain-applications-dollar.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-trusted-blockchain-applications-dollar.jpg" medium="image"/>
+</item>
+<item>
+<title>Google's Quantum Chip Beats Classical Limits in 'Impossible' Game</title>
+<link>https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits</link>
+<guid isPermaLink="false">e8b31a25dfa4b2a2b91961bbe302a92f43fb61eb30e775e304dd214d1feee1be</guid>
+<source>Decrypt</source>
+<category>business</category>
+<pubDate>Sun, 22 Nov 2026 14:01:02 +0000</pubDate>
+<description>Google’s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing.</description>
+<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 22 Nov 2026 11:25:27 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitcoin briefly drops to $17K on Kraken, exchange upholds trades</title>
+<link>https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand</link>
+<guid isPermaLink="false">67d23e87402eb322969cfbbfa740fdec3c472b87e0e40e8e2adf78dd63f8b8ed</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 22 Nov 2026 09:33:06 +0000</pubDate>
+<description>Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg" medium="image"/>
+</item>
+<item>
+<title>South Korean exchanges halt CYBER transfers amid suspected bridge exploit</title>
+<link>https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit</link>
+<guid isPermaLink="false">06d3b9f737f6a4954e4b39e47c04247f427c34343c8f3af470d071e8bff9ec03</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Sun, 22 Nov 2026 07:24:05 +0000</pubDate>
+<description>Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png" medium="image"/>
+</item>
+<item>
 <title>Chainflip confirms $12M hack, offers attacker 10% bounty</title>
 <link>https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty</link>
 <guid isPermaLink="false">6e8a50fda8fa19fb0dec6947388b36a73c04d20d8c5a4512a21f402feaf0d8b0</guid>
@@ -68,17 +123,6 @@
 <description>Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sat, 21 Nov 2026 11:18:52 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>ECB seeks industry partners for tokenized deposits, securities experiments</title>
@@ -851,17 +895,6 @@
 <media:content url="https://imgproxy.divecdn.com/y0YLdqYxDN2yLV72iubjgDbAAAPwL5YvX6cNlI6JI0E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QTkMtRmxvd2VyLU1vdW5kLUludGVyaW9yLmpwZw==.webp" medium="image"/>
 </item>
 <item>
-<title>Anthropic shares open at $111.50, 34.3% above $83 IPO price</title>
-<link>https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price</link>
-<guid isPermaLink="false">6ea600f4a4fb465a6516ca6d9713e1cf7ff98ab2f1726781678de8a7e0b55874</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 16:07:51 +0000</pubDate>
-<description>The Claude chatbot maker began trading under the ticker ANT, with the company’s valuation at around $2 trillion at the opening price.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8ETDTK3X1WT0HPSKQE0AH/hi-the-company-launches-pre-ipo-markets.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8ETDTK3X1WT0HPSKQE0AH/hi-the-company-launches-pre-ipo-markets.jpg" medium="image"/>
-</item>
-<item>
 <title>Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went</title>
 <link>https://decrypt.co/383623/anthropic-tops-spacex-initial-ipo-81-billion-deal-where-the-money-went</link>
 <guid isPermaLink="false">64ed92d816ac5472de3aa36c118754feb1c7df645622598f3d68630ce5ac6b56</guid>
@@ -895,17 +928,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/03/quantum-computer-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Ethereum’s new DeFi security tool raises questions over censorship</title>
-<link>https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship</link>
-<guid isPermaLink="false">b3fdba0977476ecbc87fd9be4dc1ce4550e74989699cb6f4dcfd1f24c9d8a1f8</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 13:30:00 +0000</pubDate>
-<description>Phylax’s system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereum’s concentrated builder market.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q178B6E75WCCC6M7HFQ7YG/magazine-ethereum-pectra-upgrade.png" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q178B6E75WCCC6M7HFQ7YG/magazine-ethereum-pectra-upgrade.png" medium="image"/>
-</item>
-<item>
 <title>Morning Minute: Google’s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO</title>
 <link>https://decrypt.co/383609/morning-minute-googles-newest-ai-model-tops-benchmarks-ahead-of-anthropic-ipo</link>
 <guid isPermaLink="false">78aba1b0de0623d50aa14528ecbccfbe7e7bd7ebe449f2ff867c87dfb460c763</guid>
@@ -926,17 +948,6 @@
 <description>An Abu Dhabi court's worldwide injunction targets the unknown hackers, backed by a "living list" of 26,000 wallets holding stolen funds.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms</title>
-<link>https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list</link>
-<guid isPermaLink="false">91641e172f0739ef2b383a0a4ad4570e4e420f9e9efa0e6b5361339cd5eb8891</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Thu, 19 Nov 2026 12:44:06 +0000</pubDate>
-<description>Hong Kong’s securities regulator said Hyperliquid has no local license and may have promoted its trading services to investors in the city.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SSXM07R00FXVHJM9C31XXF/wall-warning-hyperliquid-2.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SSXM07R00FXVHJM9C31XXF/wall-warning-hyperliquid-2.jpg" medium="image"/>
 </item>
 <item>
 <title>GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs</title>
@@ -1014,17 +1025,6 @@
 <description>The high court denied the Wyoming digital lender’s petition to access Federal Reserve rails, leaving intact a barrier to entry in the payment system.</description>
 <enclosure url="https://imgproxy.divecdn.com/8sUWwgd_ZTPEW6fvAIgsHBVkFa9nh6Z9tr8w8fP6m8I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ3NDg5MjczLmpwZw==.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/8sUWwgd_ZTPEW6fvAIgsHBVkFa9nh6Z9tr8w8fP6m8I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ3NDg5MjczLmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>Why CoinShares Just Sold All Its Ethereum and Half Its Solana</title>
-<link>https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana</link>
-<guid isPermaLink="false">0076a8a97156804104fe2b4272947aee46cd17a5ce5a05d21eff1fd89e7bacc8</guid>
-<source>Decrypt</source>
-<category>business</category>
-<pubDate>Wed, 18 Nov 2026 19:46:02 +0000</pubDate>
-<description>The crypto asset manager sold $16.6 million in Ethereum and $2.7 million in Solana, freeing up $19.3 million. Here's why.</description>
-<enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-1-gID_7.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-1-gID_7.jpg" medium="image"/>
 </item>
 <item>
 <title>OneMain gets FDIC green light for ILC charter</title>
