@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels</title>
+<link>https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html</link>
+<guid isPermaLink="false">d25de59c6fa8a6660f934cf433ca386b1d064b6850aa70a0384f4ff9a5037b1c</guid>
+<source>New York Times Science</source>
+<category>science</category>
+<pubDate>Mon, 23 Nov 2026 02:01:42 +0000</pubDate>
+<description>European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.</description>
+<enclosure url="https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg" type="image/jpeg"/>
+<media:content url="https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg" medium="image"/>
+</item>
+<item>
+<title>Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure</title>
+<link>https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch</link>
+<guid isPermaLink="false">2b242dfe7268406ceeba36f6914cb81a1574ec340aa73edbb67bed86a37cc5c7</guid>
+<source>Space.com</source>
+<category>science</category>
+<pubDate>Sun, 22 Nov 2026 22:00:00 +0000</pubDate>
+<description>null Another batch of Amazon internet satellites will fly on Monday morning (Nov. 23), just eight days after a launch failure doomed 40 of the spacecraft. An Ariane 6 rocket carrying 36 satellites for the Amazon Leo constellation is scheduled to lift off from Europe's Spaceport in Kourou, French Guiana on Monday, during a 29-minute window that opens at 6:09 a.m. EST (1109 GMT; 8:09 a.m. local time in Kourou). You can watch it live here at Space.com, courtesy of Arianespace, the French company that operates the Ariane 6. Coverage will begin about 30 minutes before launch. An Ariane 6 rocket launches 32 Amazon Leo satellites to orbit from French Guiana on Feb. 12, 2026. (Image credit: ESA/CNES/Arianespace-ArianeGroup/Optique Video du CSG-P. Piron) Amazon Leo, so named because it will operate in low Earth orbit , will compete with SpaceX's Starlink internet constellation, which currently consists of more than 11,000 operational spacecraft. Amazon's network will eventually have more than 3,200 satellites, but just 400 or so have reached orbit to date. Another 40 were supposed to be delivered on Nov. 15, but they were lost after their rocket ride, a United Launch Alliance (ULA) Vulcan Centaur , suffered a problem shortly after launch. Ariane 6 and Vulcan Centaur aren't the only rockets Amazon is depending on to build its broadband constellation. Jeff Bezos' company has also booked rides on ULA's Atlas V rocket, Blue Origin's New Glenn and SpaceX's Falcon 9 . Vulcan will be grounded for a while as ULA investigates the Nov. 15 failure and works to fix whatever caused it. And New Glenn hasn't flown since April, when the rocket failed to deliver AST SpaceMobile's BlueBird 7 satellite to the proper orbit. New Glenn's return to flight was further complicated on May 28, when the rocket exploded during a routine prelaunch test. The Ariane 6, the successor to Arianespace's Ariane 5 heavy lifter, debuted in July 2024 and has nine launches under its belt to date. All of them have been successful except that maiden mission, which was a partial failure. Monday's mission will be the fourth Amazon Leo flight for the Ariane 6, following launches in February, April and June of this year.</description>
+<enclosure url="https://cdn.mos.cms.futurecdn.net/oWM29BHfjZMESxoHb6Cem9-1920-80.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.mos.cms.futurecdn.net/oWM29BHfjZMESxoHb6Cem9-1920-80.jpg" medium="image"/>
+</item>
+<item>
 <title>65 Years of Human Spaceflight at NASA Johnson</title>
 <link>https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson</link>
 <guid isPermaLink="false">9922f026851241ecf347962f8225defc35734d401eb60185066fce4a8a51334a</guid>
@@ -24,17 +46,6 @@
 <description>After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76.</description>
 <enclosure url="https://static01.nyt.com/images/2026/11/18/multimedia/18obit-hooton-03-gpht/18obit-hooton-03-gpht-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/11/18/multimedia/18obit-hooton-03-gpht/18obit-hooton-03-gpht-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels</title>
-<link>https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html</link>
-<guid isPermaLink="false">d25de59c6fa8a6660f934cf433ca386b1d064b6850aa70a0384f4ff9a5037b1c</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Sun, 22 Nov 2026 18:20:39 +0000</pubDate>
-<description>European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.</description>
-<enclosure url="https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg" medium="image"/>
 </item>
 <item>
 <title>SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)</title>
@@ -440,8 +451,19 @@
 <category>science</category>
 <pubDate>Fri, 20 Nov 2026 16:27:46 +0000</pubDate>
 <description>3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Stephen Rawls, second from right with guest, receives the Center Director’s Excellence Award during the Honor Awards ceremony on Nov. 18 at NASA’s Stennis Space Center. Presenting the awards were Jeremy Parsons, NASA’s Artemis program manager, left, and Christine Powell, NASA Stennis center director, right. NASA/Danny Nowlin Bradley Tyree, center, receives the Engineering Excellence Award during the Honor Awards ceremony on Nov. 18 at NASA’s Stennis Space Center. Presenting the awards were Jeremy Parsons, NASA’s Artemis program manager, left, and Christine Powell, NASA Stennis center director, right. NASA/Danny Nowlin Anna Lizana, second from right with guest, receives the Excellence in Customer Service Award during the Honor Awards ceremony on Nov. 18 at NASA’s Stennis Space Center. Presenting the awards were Jeremy Parsons, NASA’s Artemis program manager, left, and Christine Powell, NASA Stennis center director, right. NASA/Danny Nowlin Daniel Jones, center, receives the Excellence in Innovation Award during the Honor Awards ceremony on Nov. 18 at NASA’s Stennis Space Center. Presenting the awards were Jeremy Parsons, NASA’s Artemis program manager, left, and Christine Powell, NASA Stennis center director, right. NASA/Danny Nowlin Peyton Pinson, center, receives the Leadership Excellence Award during the Honor Awards ceremony on Nov. 18 at NASA’s Stennis Space Center. Presenting the awards were Jeremy Parsons, NASA’s Artemis program manager, left, and Christine Powell, NASA Stennis center director, right. NASA/Danny Nowlin Joseph Schuyler, center, receives the J. Harry Guin Leadership Award during the Honor Awards ceremony on Nov. 18 at NASA’s Stennis Space Center. Presenting the awards were Jeremy Parsons, NASA’s Artemis program manager, left, and Christine Powell, NASA Stennis center director, right. NASA/Danny Nowlin Michael McDaniel, center, receives the Roy S. Estess Service Leadership Award during the Honor Awards ceremony on Nov. 18 at NASA’s Stennis Space Center. Presenting the awards were Jeremy Parsons, NASA’s Artemis program manager, left, and Christine Powell, NASA Stennis center director, right. NASA/Danny Nowlin Amer Arshad, second from right with guests, receives the Space Flight Awareness Trailblazer Award during the Honor Awards ceremony on Nov. 18 at NASA’s Stennis Space Center. Presenting the awards were Jeremy Parsons, NASA’s Artemis program manager, left, and Christine Powell, NASA Stennis center director, right. NASA/Danny Nowlin Claire O’Shaughnessy, center, receives the Space Flight Awareness Trailblazer Award during the Honor Awards ceremony on Nov. 18 at NASA’s Stennis Space Center. Presenting the awards were Jeremy Parsons, NASA’s Artemis program manager, left, and Christine Powell, NASA Stennis center director, right. NASA/Danny Nowlin Members of the Liquid Oxygen/Liquid Methane Assessment, Confined by Missile Test Team are pictured with</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/dsc-6274-stennis-honor-awards-11.jpg?w=1024" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/dsc-6274-stennis-honor-awards-11.jpg?w=1024" medium="image"/>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/dsc-6269-stennis-honor-awards-1.jpg?w=1024" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/dsc-6269-stennis-honor-awards-1.jpg?w=1024" medium="image"/>
+</item>
+<item>
+<title>NASA’s Curiosity Mars Rover Collects Samples</title>
+<link>https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples</link>
+<guid isPermaLink="false">7bd5c1a01e3528cc5ce708cac3014f71c7f568c515f57d17c7074e1942dd57e1</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 20 Nov 2026 15:53:24 +0000</pubDate>
+<description>NASA/JPL-Caltech/MSSS This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more about Curiosity. Image credit: NASA/JPL-Caltech/MSSS</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>Inside COP31: Part Trade Show, Part Climate Therapy Session</title>
@@ -796,6 +818,17 @@
 <media:content url="https://cdn.mos.cms.futurecdn.net/HPyVLEEBBMJoK5djaLFUiB-1920-80.jpg" medium="image"/>
 </item>
 <item>
+<title>Lake Pelku</title>
+<link>https://www.nasa.gov/image-detail/iss075e0267074</link>
+<guid isPermaLink="false">1105bfdfd3d2869e96baa1b600179696dc4cc47f9c9146c20c8d33223e22b6bd</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Thu, 19 Nov 2026 15:33:00 +0000</pubDate>
+<description>Lake Pelku (near center), on the Chinese side of the snow-capped Himalayas with Nepal on the adjacent side, is pictured from the International Space Station as it orbited above Asia.</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg" medium="image"/>
+</item>
+<item>
 <title>Empire State Building glows gold for NASA's Voyager spacecraft | Space photo of the day for Nov. 19, 2026</title>
 <link>https://www.space.com/space-exploration/voyager/empire-state-building-glows-gold-for-nasas-voyager-spacecraft-space-photo-of-the-day-for-nov-19-2026</link>
 <guid isPermaLink="false">55b1efb5c30ed45a2ee72f425a4ffc8c06cda0e2b623a6594c4459c69304ddda</guid>
@@ -1093,17 +1126,6 @@
 <media:content url="https://static01.nyt.com/images/2026/11/17/multimedia/17cli-newsletter-chatbots-sub-whjm/17cli-newsletter-chatbots-sub-whjm-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
-<title>Astronomers discover rare black holes that formed when stars failed to go supernova</title>
-<link>https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova</link>
-<guid isPermaLink="false">f7873401a5441e171e826860c307bee4e7bd165231067a56cf85418d35619731</guid>
-<source>Space.com</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 19:00:00 +0000</pubDate>
-<description>null Gravitational waves have revealed a population of black holes that may have been born when masssive stars failed to go supernova. Most of us know the origin story of black holes , or we thought we did. Massive stars run out of the fuel for nuclear fusion and their cores collapse. As this happens, the stars' outer layers expand outwards. Shockwaves from the core collapse strike the outer layers, triggering a supernova explosion. The collapsed core creates a black hole. However, new research based on gravitational wave data collected by LIGO (Laser Interferometer Gravitational-Wave Observatory) and its gravitational wave detector partners, Virgo and KAGRA (Kamioka Gravitational Wave Detector), suggests this might not be the complete picture of black hole birth. The team behind the research suggests some massive stars go out with a whimper rather than a bang and that these "failed supernovas" can also spawn black holes. The hint of this comes from the over 300 black hole collisions spotted by LIGO-Virgo-KAGRA since the detectors first "heard" ripples in space from these distant events in 2015. "A vast majority of the merging black holes in the universe are about 10 times the mass of our sun," LIGO team member Katerina Chatziioannou, of the California Institute of Technology (Caltech), said in a statement. "Our data are showing that this group of black holes may have a common origin — they may be a distinct subpopulation that failed to go supernova. "These results represent a connection between the gravitational-wave data and underlying astrophysics we are trying to extract." Mass and spin of black holes indicate stars died with a whimper not a bang Currently, there is no hard evidence of failed supernovas, but their existence is well supported theoretically. In fact, scientists think there is a vast population of massive stars out there that imploded rather than exploded, directly collapsing into black holes. And these may be black holes with around ten times the mass of the sun (10 solar masses) found in merging pairs. Chatziioannou led a team that examined gravitational wave data to confirm this concept. To do this, they looked at the distribution of the masses of 257 black hole mergers detected by the LIGO – Virgo – KAGRA network over the past 10 years. This revealed a peak of 10-solar-mass black holes that represented 75% of the entire sample. If this was expected, what the team found that wasn't predicted was a lack of black holes with masses 12 to 16 times the mass of the sun. "We see 10 solar-mass black holes merging all the time," team member Isaac Legred of the University of Illinois Urbana-Champaign said. "But why are, say, 14 solar-mass black holes so rare? The gap we see in the distribution of masses indicates there may be a special cocktail of internal physics that goes into forming the abundance of 10 solar-mass black holes." Hubble images from 2007 and 2015 show an example of a star thought to have died via a failed supernova. A</description>
-<enclosure url="https://cdn.mos.cms.futurecdn.net/8igT6ZMQ99oyByjRB3923n-1920-80.png" type="image/jpeg"/>
-<media:content url="https://cdn.mos.cms.futurecdn.net/8igT6ZMQ99oyByjRB3923n-1920-80.png" medium="image"/>
-</item>
-<item>
 <title>What Can Genes Reveal About Chronic Pain?</title>
 <link>https://www.nytimes.com/2026/11/17/science/genes-chronic-pain.html</link>
 <guid isPermaLink="false">c46df62fe28174b80a212072c7b11d0b71db9e69a83515c25296ef81ef1753a4</guid>
@@ -1179,17 +1201,6 @@
 <description>Joshua Frieman remembers when the world found out that the universe was made of much more than just matter. For a few years, the scientist had been studying the possibility that the cosmos needed something else — a “missing energy” — to make sense. But it was a niche idea. When he and a colleague started to plan a workshop on the topic in 1997, at first only a few dozen people signed up. Then… Source</description>
 <enclosure url="https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Default.webp" type="image/jpeg"/>
 <media:content url="https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Default.webp" medium="image"/>
-</item>
-<item>
-<title>This Cancer Kills Children in a Year. Research Has Been Stalled for a Year.</title>
-<link>https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html</link>
-<guid isPermaLink="false">89b3244407811f7bd5db7c70e88c58b111c6e574fecef7a15d4d00e6c4388f9b</guid>
-<source>New York Times Science</source>
-<category>science</category>
-<pubDate>Mon, 16 Nov 2026 15:03:46 +0000</pubDate>
-<description>For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer. But just before 5-year-old Ryleigh Schecter was diagnosed, the government shut it down.</description>
-<enclosure url="https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>How to Watch the 2026 Leonids Meteor Shower</title>
