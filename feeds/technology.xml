@@ -4,6 +4,160 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>InferNode gives Bell Labs' Inferno OS a 64-bit second wind</title>
+<link>https://www.theregister.com/os-platforms/2026/11/24/infernode-gives-bell-labs-inferno-os-a-64-bit-second-wind/5311704</link>
+<guid isPermaLink="false">c6646733c5c63a09f16c5e41f198df9d774e355501ed63fe4fa7179e8091a25c</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 10:09:00 +0000</pubDate>
+<description>InferNode brings a modernized, 64-bit edition of Inferno, the distributed operating system that followed Plan 9 from Bell Labs. For us, the strapline of the InferNode project distracts from the interesting part. It describes the project as a "Secure Runtime for AI Agents," but we think it's something far more interesting than another LLM tool. Fair warning: this vulture has no interest whatsoever in AI agents, and we are not even going to look at this planned use of InferNode. We're interested in the OS, and here, its GitHub repository spells out the part that caught our attention: "a 64-bit Inferno® OS." That grabbed us because Inferno is a very interesting OS, although it doesn't get much attention – for example, the official Inferno GitHub repository shows little activity in the last few years. Inferno is the successor to Plan 9, which we've written and talked about before , including recent releases of its community continuation, 9front . Plan 9 is what the team who invented Unix did next. Plan 9 is a very minimalist, natively clustered Unix: machines can freely mount one another's filesystems, display windows on one another, and start processes on one another. Plan 9 turns a network of machines running this Unix-like OS into a single machine. So, for instance, if you were working on a laptop with limited storage and compute power, you could compile a large complex project on a faster machine elsewhere on the network, using project files located on a third machine, while watching the process in your terminal on your screen, with no messing about with SSH sessions. Plan 9 and 9front programs are compiled into architecture-specific native binaries. Different processor families can still work together across the network, but the same executable won't run unchanged on both an x86-64 laptop and an Arm64 server. Inferno takes a different approach. It's contemporaneous with the far less ambitious Java. On Inferno, languages compile code for a VM called Dis, which is part of the kernel. This means that Inferno binaries execute directly on anything that the Inferno kernel runs on. The OS kernel is built to run bare-metal, or as a process on various other OSes, without needing a separate hardware virtual machine or hypervisor. A single binary can run on all supported CPU architectures. Inferno applications are normally written in the Limbo programming language , whose documentation was written by Unix co-creator Dennis Ritchie. Limbo is one of the languages that influenced Go, but Inferno lets compilers for other languages target Dis as well. The binaries run anywhere. Inferno on Arm, or x86, or RISC-V, or running in a Windows or Linux or macOS process, your program just runs. We've been trying to contact Vita Nuova , the company that maintains Inferno, for some years without success. Development appears to have slowed considerably. Moving the runtime to 64-bit also raises compatibility questions: some forks change Dis's word size and cannot run existi</description>
+<enclosure url="https://image.theregister.com/?imageId=5311734&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5311734&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Trump made up to $15m on Nvidia stock after Huang’s return</title>
+<link>https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market</link>
+<guid isPermaLink="false">d9d1341cac103b26b6354736a6cebe6f50f2823394e36dc7e7a578ca05d0e10c</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 09:54:02 +0000</pubDate>
+<description>Asia-Pacific stock markets rise after US president says he ‘convinced’ chipmaker’s board to reinstate CEO Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Donald Trump made up to $15m (£11.5m) on his holdings of Nvidia stock after the US chipmaker’s share price soared on the surprise return of Jensen Huang as chief executive . Huang, who co-founded the company in 1993, was ousted by the board after allegations that he had three affairs, including one with a suspected Chinese spy and two with employees. But the Nvidia board reinstated him after an intervention from the US president. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=733086b2d7764e68b4670bda69c667b4" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=733086b2d7764e68b4670bda69c667b4" medium="image"/>
+</item>
+<item>
+<title>OpenAI employee who secretly recorded meetings allegedly affiliated with the Saudi government</title>
+<link>https://www.engadget.com/2326288/openai-employee-recorded-meetings-allegedly-affiliated-saudi-government</link>
+<guid isPermaLink="false">be4a0cbabc2b9121b9253bf6d526db88ea4d4d82d0a78b378155d83ee5ad00a6</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 09:24:09 +0000</pubDate>
+<description>The OpenAI employee who was charged for implanting a recording device uploaded files to Dropbox and took photos of confidential files, prosecutors say.</description>
+<enclosure url="https://www.engadget.com/img/gallery/openai-employee-who-secretly-recorded-meetings-allegedly-affiliated-with-the-saudi-government/l-intro-1795509730.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/openai-employee-who-secretly-recorded-meetings-allegedly-affiliated-with-the-saudi-government/l-intro-1795509730.jpg" medium="image"/>
+</item>
+<item>
+<title>UK gov invests in defense startup making virtual training ground for AI</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707</link>
+<guid isPermaLink="false">d9a2fb190d9ffe44305f6cff2113911083add8d79e400fa27072289872809ebc</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 09:16:00 +0000</pubDate>
+<description>The British government is investing in a UK-based AI defense startup that aims to train autonomous military systems in virtual environments, in a bid to reduce the country's reliance on overseas technology. Both the Sovereign AI Fund and the National Security Strategic Investment Fund (NSSIF) have contributed to a Series A funding round for Agon Dynamics, said to value the biz at $450 million. This $70 million round takes the total capital raised by the firm to $100 million, following its initial $30 million seed round earlier this year. The government claims this move will help strengthen the UK’s sovereign capabilities when it comes to the use of AI for defense, plus the hope that nurturing native technical know-how converts into industrial strength and greater resilience. But it is not revealing how much cash it has stumped up, claiming such investments are commercially sensitive, although it did say that typical equity amounts obtained from the the Sovereign AI Fund tend to be worth around £1 million to £10 million ($1.3 million to $13 million). Agon is understood to be developing facilities to train and test AI systems needed for defense. This covers systems to help defend against drone attacks, or ensuring that AI tools still continue to work as intended if communications with the command center are disrupted. Training like this currently needs to be carried out in the real world, which is time-consuming and expensive, according to the government. For this reason, Agon is building a "virtual battlefield" environment where AI models can be tested against realistic simulations of the situations they might encounter. The company says its synthetic battle arena provides a safe, repeatable environment for developers and defense contractors to try out autonomous systems against thousands of demanding scenarios before deployment. Systems can face adaptive virtual adversaries informed by live conflict intelligence, helping them to respond to evolving tactics, threats and operating conditions. This may include simulations of mass drone attacks that would overwhelm conventional air defense systems, or testing how autonomous systems operate when navigation is degraded or adversary tactics change. "Europe is in an AI arms race as we enter the era of agentic warfare: intelligent agents and machines that will need to understand their environment, make decisions and adapt at a speed and scale that humans alone cannot match," says co-founder and CEO Tristam Constant, a former British Army officer. "We exist to build the sovereign infrastructure and AI foundation models to allow us to train, test, and evolve autonomous defense systems, in Europe, for Europe - to outperform adversary capabilities." For the government, AI Minister Kanishka Narayan claimed that Britain is well-placed to lead efforts to ensure such technologies are reliable, trustworthy, and deployed responsibly. "AI is rapidly transforming how wars are fought, from the use of drones through to</description>
+<enclosure url="https://image.theregister.com/?imageId=260608&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=260608&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Honor teams up with cinema camera-maker Arri on the Magic 9 Pro Max</title>
+<link>https://www.engadget.com/2325316/honor-teams-up-with-cinema-camera-maker-arri-on-the-magic-9-pro-max</link>
+<guid isPermaLink="false">a7527a878672463a173f684c8ffbb362f17f7072b13e2e9d192c258df00bfa28</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 09:00:00 +0000</pubDate>
+<description>Honor's Magic 9 Pro Max looks familiar, doesn't it?</description>
+<enclosure url="https://www.engadget.com/img/gallery/honor-teams-up-with-cinema-camera-maker-arri-on-the-magic-9-pro-max/l-intro-1795454552.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/honor-teams-up-with-cinema-camera-maker-arri-on-the-magic-9-pro-max/l-intro-1795454552.jpg" medium="image"/>
+</item>
+<item>
+<title>Education software supplier's legacy login system left 355,000 school email addresses exposed</title>
+<link>https://www.theregister.com/cyber-crime/2026/11/24/education-software-suppliers-legacy-login-system-left-355000-school-email-addresses-exposed/5311622</link>
+<guid isPermaLink="false">71bd2defe8150cd6ecce37c79d4e9b76c9c4b50ca5f339407fffe2e69aacd2d8</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 08:37:00 +0000</pubDate>
+<description>More than 355,000 school staff and pupil email addresses ended up in the hands of hackers who broke into UK education software supplier Bromcom in September. The breach was added to Have I Been Pwned on Monday, revealing that 355,051 unique email addresses were caught up in the incident. The data also included single sign-on (SSO) registration reference numbers, although Bromcom insists that no passwords or authentication tokens were stolen. As The Register reported in Octobe r , the attackers got in through a legacy SSO registration component in Bromcom's Communications Server environment. The technology had already been superseded but was still running because an internal system continued to use it. Bromcom discovered something was amiss on September 6 after customers reported problems accessing its SSO service. At the time, the company was still working with external forensic specialists to establish exactly what the intruders had managed to get their hands on. Bromcom's FAQ says its investigation is complete and confirms that the intruders used a script to extract SSO registration information from the compromised server. The supplier insists its Management Information System (MIS), used by schools to keep track of everything from attendance to pupil records, was untouched. The compromised service also couldn't be used to get into Microsoft or Google accounts, which have their own login systems. Bromcom has since pulled the plug on the old component, tightened its authorization checks, and added more security logging. It says it hasn't found any evidence of accounts being hijacked as a result of the breach. Bromcom also confirmed it hadn't reported the breach to the UK's Information Commission's Office. Its reasoning is that it was the data processor, not the controller, so any decision to involve the regulator was for the affected schools and academy trusts to make. As for the risk to staff and pupils, Bromcom considers it to be low. No passwords or pupil records held in the MIS were taken, it says, although schools have been advised to watch for phishing messages and suspicious requests to reset passwords or approve sign-ins. The supplier's software is used by more than 5,000 schools and 390 multi-academy trusts across the UK, though it hasn't said how many were caught up in this particular mess. The Register has asked Bromcom how many schools and pupils were affected, and whether the figure published by Have I Been Pwned matches its own findings, but has yet to receive a response. Bromcom kept the superseded component running because an internal system still needed it. Unfortunately, the intruders found a use for it too. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=5303385&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5303385&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?</title>
+<link>https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age</link>
+<guid isPermaLink="false">1aef64a14ae860d088d49ff157099ae6645f2f4b2df28cb9dd33e3e2b9b99238</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 08:00:11 +0000</pubDate>
+<description>Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over One can imagine high-fives all around Nvidia’s boardroom after the board reinstated Jensen Huang to the CEO suite. The market gave the move a fat thumbs-up, boosting Nvidia’s share price by about a third. Shareholders, whose interests the board is meant to represent, are surely happy. But like Fifa’s controversial decision to defer the one-match suspension of US forward Folarin Balogun after receiving a red card for a foul on Bosnia and Herzegovina’s Tarik Muharemović during the World Cup over the summer, Huang’s absolution might backfire. Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/ff56fa52c937e43cf50c68e8e45bc1f53dfcba5a/688_0_6880_5504/master/6880.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=205fad11235b57da727f66d18f1558b5" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/ff56fa52c937e43cf50c68e8e45bc1f53dfcba5a/688_0_6880_5504/master/6880.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=205fad11235b57da727f66d18f1558b5" medium="image"/>
+</item>
+<item>
+<title>Apple confirms Ted Lasso will return for Season 5</title>
+<link>https://www.engadget.com/2326238/apple-confirms-ted-lasso-will-return-for-season-5</link>
+<guid isPermaLink="false">85b1c75787a0575dacad47ea7983c218eb2dc90d41c00bbd29f396b615304d14</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 06:00:08 +0000</pubDate>
+<description>Ted Lasso, which everyone thought was ending with Season 3, has just been renewed for a fifth season.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apple-confirms-ted-lasso-will-return-for-season-5/l-intro-1795499954.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-confirms-ted-lasso-will-return-for-season-5/l-intro-1795499954.jpg" medium="image"/>
+</item>
+<item>
+<title>Meta launches Muse in UK – the AI agent that can do your Christmas shopping</title>
+<link>https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping</link>
+<guid isPermaLink="false">834d96917f63ecc549fe529dc1ffb245d4b5b2fd65ae449f4222f3dbcfb62b7a</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 06:00:07 +0000</pubDate>
+<description>Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Want to avoid the Christmas shopping hordes? Then let your AI agent do it. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on their apps – and the high street. Muse has been a hit in the US and is ranked first and second respectively on Google and Apple’s free app store, having been downloaded millions of times. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/54771ca72dfba09d32535c72c90ff667400f9d2e/405_0_3242_2593/master/3242.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c4e9b57f804a22b0429c41f60eb5058" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/54771ca72dfba09d32535c72c90ff667400f9d2e/405_0_3242_2593/master/3242.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c4e9b57f804a22b0429c41f60eb5058" medium="image"/>
+</item>
+<item>
+<title>Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’</title>
+<link>https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai</link>
+<guid isPermaLink="false">84343938fb07038a30400bca95795261548bf4e78fb034b2ed0fe79c569edbf0</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 05:58:15 +0000</pubDate>
+<description>Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Get our breaking news email , free app or daily news podcast Kate Bush, Grace Jones and Sir Ian Rankin have joined 7,000 artists and creatives around the world pleading for the Australian government not to weaken copyright law, urging Labor not to “not legalise the theft of the work of the world’s creators on their soil”. The international push, the latest in a global pushback against artificial intelligence companies and their requests to water down copyright, comes the same day a long-awaited parliamentary committee handed down a mammoth report calling for copyright reform in Australia. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/21e4f2131883854613075e2b5a9adea78afe7c72/444_29_1810_1449/master/1810.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c829fb6f5187b67dce6da31b11a3d71a" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/21e4f2131883854613075e2b5a9adea78afe7c72/444_29_1810_1449/master/1810.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c829fb6f5187b67dce6da31b11a3d71a" medium="image"/>
+</item>
+<item>
+<title>Orgs that leak data 'prioritize corporate interests over customers' says Have I Been Pwned’s Troy Hunt</title>
+<link>https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802</link>
+<guid isPermaLink="false">6260f4ff3765eba682f657fd1e46816445018e1bcf2856406aaa2882c5628b9e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 05:13:51 +0000</pubDate>
+<description>Troy Hunt, the founder of data breach reporting site Have I Been Pwned (HIBP), has revealed how organizations respond when he informs them they’ve leaked data – if they respond at all. Hunt gave Anthropic’s Claude access to an email inbox containing over eight years of his email correspondence and then asked the AI to write a post summarising them, a method he said “was the best way to highlight the behaviors I keep seeing across many breaches and subsequent disclosure efforts.” Writing in person, Hunt described those behaviors as “standoffish behavior, deliberate delays, heavy involvement from lawyers, and a constant theme: prioritizing corporate interests over those of their customers.” Once Claude takes over writing duties, it opens with the observation that Hunt sent his standard notification email to 73 organizations between March 2018 and November 2026 and also used website contact forms. Claude/Hunt focuses on the breach notifications that don’t go well, for example when first contact “often goes nowhere” because “many organisations have no obvious way to report a security incident.” Some organizations Hunt contacted logged his notifications as customer support requests. “In one case, Troy received three automated surveys asking him to rate the support he'd received,” Claude wrote, before observing “A message that an organization’s customer data is being traded among criminals ended up in the same queue as a question about a late delivery.” Once someone at victim organization gets the message, a common response is to say they can find no evidence of the breach. Others try to play down the incident, saying it was only a website defacement or that Hunt is re-reporting a previous breach the victim has already disclosed. If an organization accepts Hunt is probably onto something, it typically says it needs to investigate the matter. Claude’s take on Hunt’s mails suggests he responds by pointing out that this is an irresponsible approach, because while the investigation takes place, “people whose data has been taken don't know they need to change a password or watch for phishing.” Next, victims send in the lawyers who ask if their employer or client is legally required to reveal the breach. Hunt typically replies by saying it is up to the victim to decide if the incident meets the threshold that triggers mandatory disclosure requirements under local laws, but that he intends to notify HIBP users regardless. Victims don’t like hearing that and respond in three ways: Calling to discuss disclosure, rather than committing to it; Asking to see the wording HIBP will use in its disclosure, a request that sees Hunt refer the victim to the HIBP site for examples of the thousand-plus breach reports already on the site; Arguing that disclosure, not the breach, is the real harm. Hunt/Claude suggests that each argument victims use to avoid disclosure “sounds reasonable on its own,” but argues “Together, they mean the people most affected by the breach are t</description>
+<enclosure url="https://image.theregister.com/?imageId=259203&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=259203&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse</title>
+<link>https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795</link>
+<guid isPermaLink="false">940939f2535771037aebaae91410186930e34000e08bdad7a8d6a532a77b3a68</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 01:46:56 +0000</pubDate>
+<description>Cisco and OpenAI have released an open-source tool called Shirudo to implement compensating controls in Linux, potentially improving security for users who can’t quickly patch newly discovered software flaws. Shirudo relies on eBPF, the technology that makes it possible to run sandboxed programs in the Linux kernel. eBPF programs are effectively kernel plug-ins but don’t get unrestricted access to system resources. Developers have mostly used eBPF to create network functions that enable things like the open source Kubernetes observability and security tool Cilium , a Cloud Native Computing Foundation project. Cisco and OpenAI think eBPF can help organizations cope with the flood of 100,000-plus software flaws reported this year, many after the debut of AI-powered bug finders. The increased volume of flaws, and patches to fix them, is a problem for many organizations which already struggle to test fixes or find change windows in which to implement them. That problem has seen greater interest in “compensating controls” – changes to applications or infrastructure that harden them against flaws or malware, without requiring a patch. With Shirudo, Cisco and OpenAI are suggesting two things: The privileges eBPF programs enjoy make them a fine way to implement compensating controls for Linux; Agents should scan your infrastructure for vulnerabilities, then use tools like OpenAI’s Codex to write compensating controls as eBPF programs at machine speed. “Shirudo” is apparently the Japanese word for “shield,” so Cisco and OpenAI have called the eBPF programs the tool creates “shields.” The two companies envision humans checking every shield Shirudo creates before putting it into production. Shirudo is open source and available here . The two companies say they’ve already demonstrated it could mitigate the recently discovered flaws in Java without requiring downtime for an Elasticsearch implementation. Cisco and OpenAI are not alone in advocating for compensating controls. Third-party software maintenance outfits like Rimini Street have used them for years to protect software when their clients no longer have the right to access patches. VMware has introduced “virtual patching.” Palo Alto Networks and Rapid 7 also like this approach, and offer automation to develop controls. Where Cisco and OpenAI differ is their decision to make Shirudo open source , and their ambition that other players adapt and advance it. That offer is not entirely altruistic, as if Shirudo takes off it could create more demand for Codex. Cisco’s angle comes from the fact it owns Isovalent, an early champion of eBPF and the creator of both Cilium and the Tetragon sub-project on which Shirudo is based. Switchzilla is using eBPF in other products, so normalizing its use through an open source project can’t hurt. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=1682068&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=1682068&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap</title>
+<link>https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo</link>
+<guid isPermaLink="false">efda50d063378404bb94cb4e67a563da068c4f3baac6e7cc6477f45e6c864f29</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 01:34:39 +0000</pubDate>
+<description>Huang receives hero’s welcome at firm’s Silicon Valley headquarters as return cements role as key AI figure Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Jensen Huang made his return to Nvidia’s headquarters with a hero’s welcome on Monday. Hours earlier he’d been reinstated as the CEO of the world’s most valuable chip company, following a whiplash series of events that involved a romantic affair with a suspected Chinese spy, a drastic plummet in the stock market, and an intervention from Donald Trump. As Huang entered the company’s Silicon Valley office, wearing his signature dark-colored uniform, crowds of employees rushed to greet him clapping, hollering and chanting: “Jensen, Jensen, Jensen!” Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/b36866e4597343306435e9e2317bfaf812bcaa9d/0_608_1536_1228/master/1536.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8a7318b5cdad1d5fd598d73fd52b4e4f" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/b36866e4597343306435e9e2317bfaf812bcaa9d/0_608_1536_1228/master/1536.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8a7318b5cdad1d5fd598d73fd52b4e4f" medium="image"/>
+</item>
+<item>
+<title>The three DISM commands you should know to fix your Windows system images</title>
+<link>https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair</link>
+<guid isPermaLink="false">6eb709e7eddb6adde49a5bef02bdd5c2dfb446d17ac40c5b83e3e26ad82eae39</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 01:30:00 +0000</pubDate>
+<description>Check and repair damaged system files with these DISM commands.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-three-dism-commands-you-should-know-to-fix-your-windows-system-images/l-intro-1795019660.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-three-dism-commands-you-should-know-to-fix-your-windows-system-images/l-intro-1795019660.jpg" medium="image"/>
+</item>
+<item>
 <title>The biggest downsides to using Apple's Magic Mouse</title>
 <link>https://www.engadget.com/2320296/apple-magic-mouse-biggest-downsides</link>
 <guid isPermaLink="false">ddb63dc4c49f003340b8dcd46a94750113e92f523ed8702798fb62e272212bc8</guid>
@@ -13,6 +167,17 @@
 <description>Mac users have their reasons for ditching Apple's Magic Mouse despite its slick touch gestures. Knowing them can help you decide if it suits your desk.</description>
 <enclosure url="https://www.engadget.com/img/gallery/the-biggest-downsides-to-using-apples-magic-mouse/l-intro-1794594332.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/the-biggest-downsides-to-using-apples-magic-mouse/l-intro-1794594332.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775</link>
+<guid isPermaLink="false">60874055d807837d196e68c6b324f3241d28f9cece208b3194148fc616ca2785</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Tue, 24 Nov 2026 00:18:17 +0000</pubDate>
+<description>The leaders of the great model houses, Anthropic's Dario Amodei and OpenAI's Sam Altman, desperately want the world to believe AI is the skeleton key which will unlock the secrets of the universe. But if the AI can’t explain what it’s “proven,” are we actually any closer to understanding anything, or have we simply built another black box? That question is top of mind among mathematicians and computer scientists this week after Anthropic researcher Levent Alpöge claimed to have solved a mathematical conjecture so elusive it's gone unproven for more than 150 years. The fact that this note came out one day after Anthropic's record-setting IPO is a coincidence, we're sure. In a four-page post to his website, the researcher described how with the help of Claude, he believes he has proven the Riemann Hypothesis, one of seven Millennium problems so complex and so important that the Clay Mathematics Institute has offered a $1 million prize to anyone who is successful in solving them. The Riemann Hypothesis, conjectured by German mathematician Bernhard Riemann in 1859, contends that all nontrivial zeros of the Riemann zeta function – those with a real part between zero and one – have a real part equal to 1/2. Confused? Don’t worry. We’ve linked to an explainer that goes into more detail here . What's important is that, if the Riemann Hypothesis is right, mathematicians can place tighter bounds on the difference between the actual distribution of prime numbers and mathematical estimates of that distribution. Researchers have previously attempted to disprove the conjecture through computational brute force, and therein have shown the hypothesis holds to at least 10 trillion zeros . There’s reason to believe that the Riemann Hypothesis is accurate, but the possibility remains that over a sufficiently long series the pattern might diverge. And so, more than 150 years after Riemann published his hypothesis, it has remained just that. Alpöge’s proof, if it can even be called that, is now the subject of great debate. The four pages in which Alpöge remarks on the discoveries he and Claude made aren’t exactly a proof, but rather 14 tarballs worth of Lean code totaling roughly 240 MB. Lean is an open source programming language commonly used to help validate mathematical proofs. The Clay Mathematics Institute, which oversees the seven Millennium Problems, has promoted the Riemann Hypothesis from “unsolved” to “active” status, but it is not yet considered solved. For Clay to consider the problem solved and award the prize, the proposed solution must be published in a qualifying outlet, remain available for scrutiny for at least two years, and receive broad acceptance from the mathematics community. As it stands, Alpöge describes the 250,000 pages of text generated by the model for its written proof as a “massive unreadable travesty of ‘slop.’” Not long after Alpöge's remarks and Lean code were published, Stanford mathematician Ravi Vakil released a nearly 1,000-pag</description>
+<enclosure url="https://image.theregister.com/?imageId=5264648&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5264648&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Google alternative Kagi launches an email service</title>
@@ -101,17 +266,6 @@
 <description>After Nvidia's board accepted Jensen Huang's resignation as CEO , following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would "end up on his feet." "You know the expression, anybody can be replaced," Trump said, floating Apple's ex-CEO Tim Cook as a potential CEO candidate. It didn't take long for Trump to begin softening his approach, making it clear he'd welcome Huang back into the role of CEO even if Nvidia's own board wasn't ready to do so. Behind the scen … Read the full story at The Verge.</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Jensen Huang reinstated as Nvidia CEO after Trump intervenes</title>
-<link>https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive</link>
-<guid isPermaLink="false">833a072f63c18c6f1a0c8f152fb3e5878a2ce04022694990da025e6e418678ce</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 22:23:40 +0000</pubDate>
-<description>Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeline: fall and comeback of Jensen Huang Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly intervened with the US AI chipmaker’s board of directors, in a stunning reversal of the tech billionaire’s downfall . Speaking on Monday shortly after Nvidia’s surprise announcement that Huang had been restored to the top job – less than two weeks after he resigned – Trump said that he had “convinced” the board to do it. “I made the deal,” he told CNBC. Huang had resigned after reports of extramarital affairs, including with an alleged Chinese spy and two Nvidia employees. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5b369084591f3010811a25c77d8cbd1" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5b369084591f3010811a25c77d8cbd1" medium="image"/>
 </item>
 <item>
 <title>Nvidia CEO Jensen Huang is back. What happens next?</title>
@@ -411,28 +565,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/02eecfe6-7cf5-4662-963a-ca73ebae233b.jpg" medium="image"/>
 </item>
 <item>
-<title>The Samsung Odyssey G6 G60H is the world's first 1,100Hz gaming monitor</title>
-<link>https://www.engadget.com/2325384/samsung-odyssey-g6-g60h-is-the-worlds-first-1100hz-gaming-monitor</link>
-<guid isPermaLink="false">60f560e29e869e1a478a01df8ae56514a4ee56f46614929d6844ca03f75166e2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 17:47:59 +0000</pubDate>
-<description>That big catch is that this monitor's refresh rate only gets that high in HD mode.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-samsung-odyssey-g6-g60h-is-the-worlds-first-1100hz-gaming-monitor/l-intro-1795456011.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-samsung-odyssey-g6-g60h-is-the-worlds-first-1100hz-gaming-monitor/l-intro-1795456011.jpg" medium="image"/>
-</item>
-<item>
-<title>You can block AI slop and spam on these social media platforms</title>
-<link>https://www.engadget.com/2320284/how-block-ai-slop-spam-social-media-platforms</link>
-<guid isPermaLink="false">2f39bca0a0ab5d2a1b82b3d7a72946d8c6e58c69d4ba385cd3aabfbe4f65c802</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 17:45:00 +0000</pubDate>
-<description>Some sites offer tools to filter the slop out of your feeds, while doing so on others will require some dedicated effort.</description>
-<enclosure url="https://www.engadget.com/img/gallery/you-can-block-ai-slop-and-spam-on-these-social-media-platforms/l-intro-1794769415.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/you-can-block-ai-slop-and-spam-on-these-social-media-platforms/l-intro-1794769415.jpg" medium="image"/>
-</item>
-<item>
 <title>Nvidia’s humiliated board should resign out of embarrassment | Nils Pratley</title>
 <link>https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return</link>
 <guid isPermaLink="false">0be675fc3105b1e3314c25b8994b4376ccd465fdc0b4b1d6d67df8e5ad7cb54c</guid>
@@ -477,17 +609,6 @@
 <media:content url="https://i.guim.co.uk/img/media/0685580621412c0ab09c57f3e1cbcfe36f682121/126_0_3780_3024/master/3780.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab232fe09012f73434b5761d5c98fdef" medium="image"/>
 </item>
 <item>
-<title>What important features should you look for in a home security camera?</title>
-<link>https://www.engadget.com/2320283/important-home-security-camera-features</link>
-<guid isPermaLink="false">50fe2b1808e88315cbc89991c7b753d317520a056014fb1c97addfecde421e01</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 17:15:00 +0000</pubDate>
-<description>Stakes are high when choosing the right security camera. Our experienced writer will help you sort through priorities to make the right call for your home.</description>
-<enclosure url="https://www.engadget.com/img/gallery/what-important-features-should-you-look-for-in-a-home-security-camera/l-intro-1794421485.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-important-features-should-you-look-for-in-a-home-security-camera/l-intro-1794421485.jpg" medium="image"/>
-</item>
-<item>
 <title>Bulgaria evicts cyber snoops who lurked inside government networks for 5 years</title>
 <link>https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629</link>
 <guid isPermaLink="false">5b0964a66b065c23f3925914527aed6e463651421562622fd4c5774a3a4b6821</guid>
@@ -497,17 +618,6 @@
 <description>The Ancient Thracian heartland of Bulgaria says it has shut down a cyberespionage operation that gave intruders access to government networks for five years – the longest-running known campaign against its administration. Bulgaria's Ministry of Innovation and Digital Transformation said the unauthorized and officially unattributed attackers first gained access to infrastructure used by government institutions to exchange information in 2021. It explained that the intrusion went unnoticed for so long because "the previous means of protection did not work as a single, integrated system," and that without a new, recently installed product, it may have gone undetected for much longer. "The incident was discovered thanks to the new national cybersecurity system, which for the first time provides a single picture of what is happening in state networks," the ministry added. "Without it, this activity would most likely have remained hidden for an indefinite period of time." Bulgaria acknowledged that "sensitive information related to the work of the state" was accessed, but did not specify the scale of the compromise. Innovation and Digital Transformation Minister Ivan Vasilev said attackers had downloaded more than 130 GB of data over five years. He also put the volume at 62 million pages. The Register contacted the Bulgarian government for confirmation of these numbers. The ministry said that it has not yet found any evidence that citizens' personal data was compromised, and that the affected infrastructure "will be under increased surveillance for 90 days" in case the attackers try to regain access. Vasilev said multiple international hacking groups had accessed government systems since 2021. He did not specify the names of these groups, however, nor did he name any specific countries that may have been involved. In a follow-up interview with bTV , Vasilev blamed political instability and frequent changes of ministerial leadership for leaving government systems inadequately protected. A representative of the Progressive Bulgaria party, which back in May won Bulgaria's eighth general election in five years, Vasilev said the "constant change of leadership" means "important things for the state do not actually happen." Vasilev said the intrusion was discovered over the summer as the national cybersecurity system was upgraded, and that teams had spent the past three to four months removing the attackers. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=256287&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=256287&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Google is finally retiring the Nest app early next year</title>
-<link>https://www.engadget.com/2325245/google-is-finally-retiring-the-nest-app-early-next-year</link>
-<guid isPermaLink="false">c2d5500fd0a4a0e7d226eed302d6af092bc9f75dd4fcbf73a0a45bb177a4de97</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 16:59:56 +0000</pubDate>
-<description>It's also removing Google Assistant from smart speakers and displays.</description>
-<enclosure url="https://www.engadget.com/img/gallery/google-is-finally-retiring-the-nest-app-early-next-year/l-intro-1795453127.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/google-is-finally-retiring-the-nest-app-early-next-year/l-intro-1795453127.jpg" medium="image"/>
 </item>
 <item>
 <title>How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’</title>
@@ -818,17 +928,6 @@
 <media:content url="https://image.theregister.com/?imageId=246780&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says</title>
-<link>https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy</link>
-<guid isPermaLink="false">0a3f026f3a8e88bda83580701a6a5938c3b760d89407e481295fbfd045872249</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 20:23:36 +0000</pubDate>
-<description>John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given the position his company’s chips have occupied at the forefront of the artificial intelligence boom. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22028e747e7e2bcd842d4f53b1525f62" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22028e747e7e2bcd842d4f53b1525f62" medium="image"/>
-</item>
-<item>
 <title>I covered myself in sleep trackers to find the very best</title>
 <link>https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers</link>
 <guid isPermaLink="false">d5de94176bfed29c871bcafbc372b9c8706cea014d70f754a893ebe0af94124d</guid>
@@ -838,17 +937,6 @@
 <description>Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbuds The best sleep masks and best Bluetooth sleep masks Getting quality sleep is just as crucial as getting enough sleep. And how you feel in the morning only tells part of the story. Smartwatches, smart bands, smart rings and sleep earbuds can all help fill in the details: how long it took you to doze off, how long you spent in deep sleep, how restless you were, your resting heart rate, even if you have night-time breathing difficulties. Armed with this information, you can learn how your lifestyle affects your sleep. Maybe your after dinner cappuccino triggers a night of tossing and turning, or you’re more restful after evening workouts. As the wise GI Joe once said, knowing is half the battle. And the more you know about your sleep, the better chance you have of improving it. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/299810b8ddede6ce30a9f856d4c8b57586fd489e/1_0_2499_2000/master/2499.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=105f216ae9fa0b987ee653716ca3d745" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/299810b8ddede6ce30a9f856d4c8b57586fd489e/1_0_2499_2000/master/2499.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=105f216ae9fa0b987ee653716ca3d745" medium="image"/>
-</item>
-<item>
-<title>Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds</title>
-<link>https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds</link>
-<guid isPermaLink="false">0162d4886027e7025e58b4b25f515ecf4dd7e91feccdadf0dc194e8b386f1413</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 19:00:34 +0000</pubDate>
-<description>Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “just the tip of the iceberg”. Analysis by Transparency International Australia argues these meetings, when combined with political donations, demonstrate “unfettered access” to decision-makers that creates an “uneven playing field”. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/7c9ca8255b51e9604fa64118322f08bb4d19c764/475_0_3640_2912/master/3640.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3054e10d3368009599cebe801e772e55" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/7c9ca8255b51e9604fa64118322f08bb4d19c764/475_0_3640_2912/master/3640.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3054e10d3368009599cebe801e772e55" medium="image"/>
 </item>
 <item>
 <title>Two groups verify mathematician’s claim that Claude helped prove mathematics problem</title>
@@ -937,17 +1025,6 @@
 <description>It's a rare thing for a film sequel to match or even surpass its predecessor; The Godfather Part II and Terminator 2: Judgment Day are the best-known examples. Go ahead and add Godzilla Minus Zero to that list. Director Takashi Yamazaki's sequel to his critically acclaimed Godzilla Minus One (2023) is everything one could want in a Godzilla movie: human pathos, great special effects, and, ultimately, two giant kaiju duking it out over who gets to destroy Japan (and eventually the world) the most. (Spoilers for the first film below. Spoilers for Minus Zero but no major reveals until after the gallery. We'll give you a heads-up when we get there.) As I wrote previously , Yamazaki wanted to return to Godzilla’s filmic roots with Minus One , setting the events in postwar Japan and tapping into the monster’s symbolic representation of the Japanese perspective on the 1940s nuclear holocaust—while also incorporating all-too-human themes of guilt and redemption. That first film focused on kamikaze pilot Kōichi Shikishima (Ryunosuke Kamiki), who struggled with survivor’s guilt after he failed to take action when Godzilla attacked the Japanese base on Odo Island in 1945. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>International UN talks on controlling use of autonomous weapons collapse</title>
-<link>https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse</link>
-<guid isPermaLink="false">cac4d486e46aeed2b2c3cb6e9d4def0130bd53731219af9d027a99b178867d3b</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 16:36:11 +0000</pubDate>
-<description>Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the UN’s Convention on Certain Conventional Weapons (CCW) in Geneva wanting to agree a negotiating mandate leading to a legally binding treaty, the need for consensus forced the conference to adopt a much weaker option. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=65fc3e283f6cc55b87e2414599703459" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=65fc3e283f6cc55b87e2414599703459" medium="image"/>
 </item>
 <item>
 <title>AWS got hit by an outage too. Here's why you didn't hear about it</title>
@@ -1302,17 +1379,6 @@
 <media:content url="https://image.theregister.com/?imageId=5311087&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies</title>
-<link>https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200</link>
-<guid isPermaLink="false">73ffa327d75f179f208745480ef5318fb52cf1e7eb5facdcd53c03e8743b42b2</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 04:04:56 +0000</pubDate>
-<description>The US Commerce Department’s Bureau of Industry and Security (BIS) allowed Nvidia and AMD to sell hundreds of thousands of advanced GPUs to entities that the Department of War classifies as “Chinese military companies” that help Beijing to build its military. That news comes courtesy of Brian Mast (R-FL), chair of the House Foreign Affairs Committee, who asked BIS to provide information about NVIDIA’s and AMD’s applications for the export licenses required to sell advanced AI chips to China. The congressman on Thursday revealed requests to sell 3.4 million AI chips to China, and that BIS approved the sale of 879,000 items. BIS refused to authorize some giant deals for Nvidia, which applied to sell 610,000 chips to Alibaba and 508,000 to TikTok owner Bytedance. But the agency allowed many other sales, including to Alibaba and Tencent. Mast points out that both of those companies are on the Department of War’s List of Chinese Military Companies , the designation it uses for entities deemed to be a “military-civil fusion contributor to the Chinese defense industrial base.” That’s a polite way of saying that Washington thinks China relies on these companies to operate and improve its military, and therefore to challenge America’s national security. Advanced chips are essential when designing nuclear weapons, stealthy submarines, or advanced aircraft. Those applications are the core reason the US bans exports of advanced GPUs to China, so that the People’s Liberation Army can’t develop advanced weapons. A diverting drama The congressman also claims that some of Nvidia’s applications were attempts to sell its wares to “chip-smuggling fronts to facilitate their sales of advanced AI chips to Chinese companies.” The New York Times reports that some of those front entities are linked to Megaspeed, the outfit fronted by suspected Chinese intelligence asset Alice Huang, whose intimate relationship with former Nvidia CEO Jensen Huang was a key factor in his resignation. Megaspeed is accused of what the US calls “diversion” – claiming to buy chips for one reason while intending to either ship them to China or rent them exclusively to Chinese companies in ways that breach the spirit of export restrictions if not the letter of the law. One of the documents Mast shared says “Every Nvidia and AMD application stated that the proposed transfer posed a ‘low’ risk of diversion.” Mast’s point therefore appears to be that the BIS has authorized sales that go against the clear intent of established policy, and the national interest, and that Nvidia and AMD may have been a little too optimistic in their assessment of diversion risk. Earlier this week, Washington adopted a new policy that outlaws allowing remote access to advanced AI chips, in the hope it would stop diversion and dent China’s AI ambitions. Two Chinese tech giants, Tencent and Alibaba, have signaled the policy had immediate impact. Chinese web giant Tencent on Wednesday said that new ban will reduce the qua</description>
-<enclosure url="https://image.theregister.com/?imageId=236466&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=236466&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes? | Sarah Hanson-Young</title>
 <link>https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes</link>
 <guid isPermaLink="false">b2c8d06dad1e2250e1f9b1662438ab7c3c91fe6fea67210bd1f5764297f87343</guid>
@@ -1324,39 +1390,6 @@
 <media:content url="https://i.guim.co.uk/img/media/0cdbb6369ce14b701428a723ba8bb7a215b0e3bd/0_0_1828_1463/master/1828.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=228b6827e191a41fb6acb9489e299d69" medium="image"/>
 </item>
 <item>
-<title>Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else</title>
-<link>https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193</link>
-<guid isPermaLink="false">e78926fd133168f525d97635a7c42899b1ecd2c7cf4631bd8f3a4de3cb51c71b</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 00:57:45 +0000</pubDate>
-<description>If you’ve got a moment to spare in between sorting out emergency patches for PHP , Java , and PostgreSQL , VMware has just bid for any remaining space on your schedule by publishing two critical-rated security advisories. VMSA-2026-0009 addresses CVE-2026-123890 , a 9.8-rated flaw that VMware says means a malicious actor with network access to vCenter may exploit this issue to bypass authentication and gain unauthorized access to the system. vCenter is the tool admins use to manage fleets of virtual machines. The flaw is present in VMware’s flagship Cloud Foundation suite. VMware also wants its users to address CVE-2026-123891, which allows attackers to read and write the database used by SDDC Manager, the tool for managing entire software-defined datacenters. Attackers can execute arbitrary commands and elevate privileges to root. The prospect of an unknown party getting access to vCenter or SDDC manager is not pleasant. At least VMware has fixed its software. The virty giant hasn't done the same to address a second advisory, VMSA-2026-0010 , which warns that Cloud Foundation, Aria Operations, and VCF Operations HCX products all use Apache – which has a 9.8-rated remote code execution vulnerability (CVE-2026-119618). VMware plans to ship new versions of its products with a patched version of Apache, but for now only has workarounds that disable the http2 protocol. A KVM curiosity Admins who oversee virtual infrastructure also need to pay attention to Linux KVM, the subject of a curious incident over the last 24 hours. This mess started with the November 18 disclosure of CVE-2026-99312 , a bug which allows an attacker to use a guest virtual machine to inflict Denial of Service (DoS) or memory corruption attacks on the host. It’s bad news whenever someone with access to a guest VM can attack the host, because it means gaining access to a single tenant can potentially harm all the other guest VMs or peer into the memory a guest uses. This flaw, however, isn’t a worst-case scenario guest-host escape, because it only impacts users of AMD processors who employ nested virtualization – the practice of running a hypervisor inside a virtual machine. Nested virtualization isn’t commonly used in the enterprise, but clouds employ it to do things like powering OS emulators. The bug’s CVSSv3 score is therefore a modest 5.5. Security researcher Oren Tomtov of Terra Security says the flaw meant he could access 127 GB of host RAM on a Digital Ocean “Droplet” – the junior cloud’s name for its cloudy VMs. Yomtov says he told Digital Ocean and the Linux kernel security team about the flaw in October. Maintainers got busy and delivered a fix to the mainline kernel on November 2, full fixes landed on the 17 th . The CVE then appeared on November 18. Yomtov and Terra Security quickly posted their analysis of the flaw – but then took the posts down within hours. The Register understands that Digital Ocean asked for the posts to come down because it needed more time to u</description>
-<enclosure url="https://image.theregister.com/?imageId=262623&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=262623&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Germ Network infects Android, but in a good way</title>
-<link>https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186</link>
-<guid isPermaLink="false">73fbbacf2ed1d1885026ac7e3f1b4c6e2ac52924dca9c823ec6002e3345fb8a2</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 00:06:35 +0000</pubDate>
-<description>The Germ Network encrypted messaging client, known as Germ DM, became available for Android on Wednesday, and made a bigger splash than its iOS touchdown back in 2023. "Our usage took a 20x jump yesterday from our Android launch ," co-founder Tessa Brown, a communications scholar and former Stanford lecturer, told The Register in an interview. "Android has been really exciting for us because not only is it 70 percent of the global mobile market, but we rolled out on iOS first. People were so excited to use Germ for their end-to-end encrypted Bluesky DMs, but half of their friends couldn't talk to them." Building a new messaging platform isn't easy, much less one with credible end-to-end encryption. Co-founder Mark Xue hails from Apple, where he worked as a privacy engineer on systems like iMessage and FaceTime. "At the core level, the end-to-end encryption is built on a standardized encryption and Messaging Layer Security," Xue said. "The premise of Messaging Layer Security was to be as good as Signal and deployable by many, many different parties in different applications, which we're taking advantage of to extend the reach of that encryption." Xue said the app is built with its own transport protocol to minimize the amount of message metadata, adding that while the team hasn't gotten around to a formal security audit, it's a step they're considering. Germ Network's goal, said Brown, is to give people more confidence when they communicate. "We do that by giving you more tools to protect your identity, to control what you're sharing with whom," she explained. Instead of using a person's phone number as an identity key, Germ allows users to create cards which represent distinct identities on the network. "Instead of sharing your number, you share a card," Brown explained. "You can build multiple cards; they're not mutually discoverable. And our vision for the product that will continue shipping over the coming years is that these cards become a more intelligent way to manage your social life, even your work life." At some point, AI might play a role in that, but both Xue and Brown expressed reservations about the current state of play. Citing concerns Signal has raised about the integration of AI and messaging, Xue said, "The products today that I might characterize as technology demos, they're most powerful when they run on someone else's computer. So you end up with these systems where you upload all your messages or you give another entity the power to observe your computing, and that's extremely dangerous for what we protect as private content." Xue noted rapid progress toward addressing information exposure concerns and therefore plans to explore the kinds of smart tooling that users want while also meeting security and privacy requirements. "I think a lot of the AI conversation sometimes is a hammer in search of a nail," said Brown. "But people do want more tools to make sense of their busy lives and following our consumers, our users, and w</description>
-<enclosure url="https://image.theregister.com/?imageId=5311190&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311190&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info</title>
-<link>https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175</link>
-<guid isPermaLink="false">90d8f6bf8a6c2ec892b3f02939f0e1abdc1394922a6bfc655ddfadd995e20136</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 21:12:33 +0000</pubDate>
-<description>JPMorgan Chase, Visa, and Mastercard have all confirmed that they are investigating third-party breaches that may involve customer information after a data-theft-and-extortion gang claimed to have compromised the financial giants. “Visa is aware of these claims,” a spokesperson told The Register on Thursday . “They are associated with an incident involving a third-party service provider in Asia Pacific. Visa’s systems were not involved and were not impacted. No payments data such as card numbers were affected. This is unrelated to any of the system disruptions across different industries this past week.” Mastercard also cited a third-party provider in an email sent to The Register following our questions about the alleged breach. “We were recently informed of an incident at a third-party provider that resulted in the exposure of a limited amount of email addresses - non-payments information - from a small subset of cardholders enrolled in a specific benefit program,” Mastercard SVP Seth Eisen said. “There is no impact to the Mastercard payment network or the ability for people to use their cards. At this time, the exposure has been contained and our teams are working with the provider to support the impacted cardholders as needed.” JPMorgan Chase did not respond to The Register ’s request for comment, but confirmed it was investigating a cyberattack on social media. “We have learned that third parties who provide services to the firm were the target of a cyber attack,” America’s largest bank posted on X. “Based on our investigation so far, we believe the attackers accessed certain marketing data held by those vendors, which may include some customer names and email addresses.” According to Chase, the third-party breach didn’t disrupt any of its services, and it’s not connected to the outages earlier in the week attributed to a software bug in on-premise hardware systems. “There is no connection to service disruption some customers experienced earlier this week,” the bank said on Thursday. None of the three financial firms would comment on who the third-party providers are, when the breaches occurred, and what specific data was stolen. The Register will update this story as we learn more details about the intrusions. Extortion crew n0n claimed responsibility for all three alleged hacks, posting the financial giants to its data-leak site on Monday. The group, believed to be based in Russia, emerged in September and posted 108 victims over its first month in operations. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5311179&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311179&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Grand Theft Auto fans skip work and pull all-nighters to play new instalment</title>
 <link>https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters</link>
 <guid isPermaLink="false">fc139917d31c578e76c0d4f26112f5829b558c1873d260110a76b30186938318</guid>
@@ -1366,39 +1399,6 @@
 <description>Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world Grand Theft Auto fans around the world pulled all-nighters, skipped work and school, and attended overnight launch parties to vicariously embark on police chases and coordinate robberies as the latest instalment of the eagerly anticipated series arrived. GTA VI, a Bonnie and Clyde-inspired crime adventure game set in the fictional US state of Leonida, was launched at midnight on Wednesday after a 13-year wait. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/af1e31b49b5341ebce31c28c93c8ad558d8934b8/181_0_3988_3192/master/3988.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9438f7c969bc0b755221af67d2f4c5b" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/af1e31b49b5341ebce31c28c93c8ad558d8934b8/181_0_3988_3192/master/3988.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9438f7c969bc0b755221af67d2f4c5b" medium="image"/>
-</item>
-<item>
-<title>Palo Alto Networks opens wallet for open-weight training biz</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/19/palo-alto-networks-opens-wallet-for-open-weight-training-biz/5311168</link>
-<guid isPermaLink="false">e4627094b361c3599e8aa3e00fec4c83350ac8e67ae56726eea21b8ad7b4cdae</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 20:00:00 +0000</pubDate>
-<description>As AI has become a thorn in the side of the security industry, Palo Alto Networks (PAN) has reached an agreement to acquire Applied Compute, an AI model training platform. "We believe many of the major disruptions of the last few weeks, including outages across major enterprises and governments, were partially due to unintended consequences of patching and configuration changes, as IT teams simply cannot patch these vulnerabilities fast enough without compromising their production environments," said Nikesh Arora, chairman and CEO of PAN, during the company's fiscal Q1 2027 earnings call on Wednesday. "The second effect is the rise of AI-assisted cyberattacks." So in the spirit of "hair of the dog that bit me," PAN is ingesting Applied Compute to make open-weight AI more secure for corporate customers. The answer to insecurity brought on by AI is buying security with AI. In its announcement of the tie-up, PAN declares "the future of enterprise AI is hybrid, and that a large share of enterprises will run on open-source and open-weight models tuned to their own data, cost, and control needs." That view has been clouded a bit by Nvidia co-founder Jensen Huang's fall from grace: Back in July, he came to the defense of open-weight models as a defense against the hegemony of purveyors of closed-weight commercial models like Anthropic, Google, Microsoft, and OpenAI. His resignation as CEO of Nvidia has led to worries that the open-weight ecosystem has lost some lobbying power at a time when the US is wary about the uptake of models made in China. Nonetheless, PAN clearly sees a future for open-weight models. "Every enterprise is going to run a mix of open and closed models, and every one of those models needs to be secured," said Nikesh Arora, chairman and CEO of PAN, in a statement. "Applied Compute has built the best post-training and inference platform we've seen, and its research team is exceptional." The company expects the $4.5 billion all-stock transaction to add more than $1 billion to the company's Next Generation Security business by FY 2029. Arora, on the company's earnings call, explained the pricey bet as recognition of the corporate desire to avoid vendor lock-in and to retain control of data. "We're already seeing the desire for sovereignty and control compel enterprises to adopt open-weight and open-source models," he said. "Early signs of that shift are clear, with open-weight models growing from under 5 percent of token traffic to more than 60 percent over the past year." Beyond the sticker price, PAN is ready to up its infrastructure ante. Arora said the biz expects to build infrastructure supporting more than 100 megawatts of inference capacity, a project that will take "a modest CapEx commitment of less than $3 billion through fiscal 2030." ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5311172&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311172&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Nvidia adds possible hack to list of very bad things under investigation</title>
-<link>https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153</link>
-<guid isPermaLink="false">b1d23014709d9b5ce5a85f2ca8c0852e4ab42f60e0e8c52cb5c9bbcf015333d5</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 18:52:53 +0000</pubDate>
-<description>Finding a new CEO is just one of their problems. Nvidia is investigating an alleged breach following claims by ransomware group The Gentlemen's affiliates that they hacked the AI giant and stole sensitive information. The embattled chipmaker told The Register 's that it was investigating a possible third-party data breach. “We have found no indication that Nvidia systems or networks were affected,” a spokesperson said. “We continue to monitor the situation." The ransomware gang’s data-leak site, shared on social media and seen by The Register , doesn’t show any stolen files or indicate what information the group claims to have stolen. Nvidia first appeared on the criminals’ blog on Wednesday, with The Gentlemen promising “DATA INFO - SOON.” The post also included a countdown, ending November 28. While we can’t verify the criminals’ claims, the group, which emerged in mid-2025 , is one of the most prolific ransomware-as-a-service operations. Its affiliates claimed more than 320 victims as of April, with the majority of these alleged ransomware infections (240) occurring in the first half of 2026. The actual count, however, is likely much higher. Check Point researchers accessed an affiliate’s live command-and-control server during an incident response case earlier this year. The server contained victim telemetry that revealed more than 1,570 victims , mostly located in the US, and primarily corporate and organizational environments. According to an operational technology (OT) threat report from Trellix published on Wednesday, industrial ransomware claims jumped nearly 51 percent - to about 1,500 posts- compared to last quarter, and The Gentlemen’s affiliates were the most prolific claim posters during this time period. They accounted for about 16 percent of all posts. In February 2022, an Nvidia data breach exposed employees’ credentials and proprietary code. Extortion crew Lapsus$ claimed to be responsible for that intrusion and data theft.®</description>
-<enclosure url="https://image.theregister.com/?imageId=5311157&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311157&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley</title>
-<link>https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly</link>
-<guid isPermaLink="false">b5b4456068dd8b3b5f1d98c1701ec61c6d8790fbaa43cec62d0f187094a864e9</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 19 Nov 2026 18:15:48 +0000</pubDate>
-<description>Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on its first day as a listed company . From the point of view of the promoters, the result was as good as it gets. The final pricing for the shares at $83 apiece was meaningfully higher than the indicated range of $70 to $78, but still left room for a big initial “pop”. There were positive vibes all round – especially for the battalion of investment banks collecting $550m of underwriting fees . Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/ae7186e144b4b6232e5ff363f0e9905e52124718/716_0_5611_4488/master/5611.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f7de60b0116fdffd1ea5bc092f73bac" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/ae7186e144b4b6232e5ff363f0e9905e52124718/716_0_5611_4488/master/5611.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f7de60b0116fdffd1ea5bc092f73bac" medium="image"/>
 </item>
 <item>
 <title>Meta Muse booked an Airbnb without permission – and that’s not the worst of it</title>

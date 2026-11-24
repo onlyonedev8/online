@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s</title>
+<link>https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s</link>
+<guid isPermaLink="false">eb7b9632df401af8123a0293685d281e16eb09c9c38484535312f2a6d8561351</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 09:25:45 +0000</pubDate>
+<description>Bitcoin continued to threaten the loss of $60,000 support as gold attempted to bounce from a 60-day losing streak during which it fell nearly 25%.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86BHJKQHXMF4CD02MKJ6YRP/hi-what-is-the-stock-to-flow-ratio-of-bitcoin-960x640.webp" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86BHJKQHXMF4CD02MKJ6YRP/hi-what-is-the-stock-to-flow-ratio-of-bitcoin-960x640.webp" medium="image"/>
+</item>
+<item>
+<title>Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%</title>
+<link>https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain</link>
+<guid isPermaLink="false">29507f031a1db7a61c36d8ab78143282fc633b691d4c4383f0fe3b2d381272e0</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 07:41:50 +0000</pubDate>
+<description>BlackRock’s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November’s net outflows to $4.71 billion.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PB1SXVHKJ0HQNAKV23AYKN/hi-blackrocks-bitcoin-etf-how-it-works-benefits-and-opportunities-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s what happened in crypto today</title>
+<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
+<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
+</item>
+<item>
+<title>Why 42 Macro says it’s waiting to buy the Bitcoin dip</title>
+<link>https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip</link>
+<guid isPermaLink="false">bc3c355f11692782debcc9224b00e6969a4a5cc2c50a1d500a2aeac4c650ac3f</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 05:07:30 +0000</pubDate>
+<description>The independent macro research company warns the Bitcoin sell-off may not have yet run its course.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85YYTJRN4ETCCWEDBRCEMFH/hi-bitcoin-forecast-what-will-be-the-price-of-bitcoin-in-2020-according-to-experts.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85YYTJRN4ETCCWEDBRCEMFH/hi-bitcoin-forecast-what-will-be-the-price-of-bitcoin-in-2020-according-to-experts.jpg" medium="image"/>
+</item>
+<item>
+<title>Google wants to make you the star of your own AI slop movies</title>
+<link>https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies</link>
+<guid isPermaLink="false">a4901244e71a7fee0639abc5f88ed409efce696bc1d34677e1b40bee825b9737</guid>
+<source>Cointelegraph</source>
+<category>business</category>
+<pubDate>Tue, 24 Nov 2026 03:13:22 +0000</pubDate>
+<description>Viewers could find their AI-doppelgangers inserted into the crowd during the Cricket World Cup, or take a leading role in their very own romantic comedy.</description>
+<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85RH0KQ622Q81DNQTWRWR22/ai-google.jpg" type="image/jpeg"/>
+<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85RH0KQ622Q81DNQTWRWR22/ai-google.jpg" medium="image"/>
+</item>
+<item>
 <title>Ethereum Foundation doubles protocol security team ahead of overhaul</title>
 <link>https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul</link>
 <guid isPermaLink="false">add8044045735cdb6d366d1aa5defa456550d9343690a4364ca3b5caa554eb86</guid>
@@ -46,17 +101,6 @@
 <description>OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s what happened in crypto today</title>
-<link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-<guid isPermaLink="false">458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 21:40:44 +0000</pubDate>
-<description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg" medium="image"/>
 </item>
 <item>
 <title>“This Is An Excellent Entry Point” – UTXO’s Loren Asmus Gives Bitcoin Outlook</title>
@@ -103,6 +147,17 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M852ASST1D3G389ZE09VJZTA/hi-how-binance-plans-to-bring-tokenized-us-stocks-1.png" medium="image"/>
 </item>
 <item>
+<title>The 10 Best Gifts for Entrepreneurs to Buy During Black Friday Week</title>
+<link>https://www.entrepreneur.com/business-news/the-10-best-gifts-for-entrepreneurs-to-buy-during-black-friday-week</link>
+<guid isPermaLink="false">8d7acd075b7eee38976ce96c64e53f922c051e3809ead016705d1536132f8b1d</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 21:02:36 +0000</pubDate>
+<description>Struggling to know what to get for the entrepreneurs and small business owners in your life? Here's the answer.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/gift-GettyImages-2289425016.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/gift-GettyImages-2289425016.jpg" medium="image"/>
+</item>
+<item>
 <title>Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang’s Return</title>
 <link>https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang</link>
 <guid isPermaLink="false">675f95c7f3265d4a1e8da19346072e1386a3b1565869817bf3484e1f6b5fa530</guid>
@@ -145,6 +200,17 @@
 <description>▶ Bitcoin Magazine Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch Sean Hagan revisits the Bitcoin-in-gold chart BMTV first ran in late September, when one Bitcoin bought about 19.7 ounces. Back then, he said to watch whether Bitcoin turned green on the year against gold before it did against the dollar. It did that by October 3, peaking at 20.9 ounces the next day. That breakout didn’t hold, but the higher-low trend did, and it has continued up to today. Partnership Enquiries: Let’s find your fit! BMTV offers customized sponsorships tailored to your brand’s goals and target audience. Partner with us: https://bitcoinmagazine.com/bmtv Chapters: 00:00 Bitcoin’s Weekend Wick to $55K 01:12 Lower Low or Double Bottom in Dollars 01:43 Priced in Gold: Four Higher Lows This Year 02:33 Gold Down 18% as the Dollar and Fed Squeeze Hard Assets 03:13 Why Bitcoin Is Winning Against Gold DISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions. This post Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch first appeared on Bitcoin Magazine and is written by Patrick Green .</description>
 <enclosure url="https://img.youtube.com/vi/Qseds_vaT-I/hqdefault.jpg" type="image/jpeg"/>
 <media:content url="https://img.youtube.com/vi/Qseds_vaT-I/hqdefault.jpg" medium="image"/>
+</item>
+<item>
+<title>An SEO Expert’s 3 Tactics for Getting Your Business Found Beyond Google</title>
+<link>https://www.entrepreneur.com/building-a-business/an-seo-experts-3-tactics-for-getting-your-business-found-beyond-google</link>
+<guid isPermaLink="false">ab436fe77da1b682969eb70dc5c449925cfcb21339675aa3f0bf2c576762185d</guid>
+<source>Entrepreneur</source>
+<category>business</category>
+<pubDate>Mon, 23 Nov 2026 20:30:00 +0000</pubDate>
+<description>Discover three practical strategies to help your business get found beyond Google through AI search, LinkedIn and brand mentions.</description>
+<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/get-business-found-1126-g-1399731004.jpg" type="image/jpeg"/>
+<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/get-business-found-1126-g-1399731004.jpg" medium="image"/>
 </item>
 <item>
 <title>Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes</title>
@@ -466,17 +532,6 @@
 <media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84EH3YK0JXNPTCK9M1RS4SD/analys-analytics-bisiness-man-woman-down-city-crash-nvidia-2.png" medium="image"/>
 </item>
 <item>
-<title>Jensen Huang Is Back as Nvidia CEO Just 11 Days After Resigning. Here’s Why the Board Changed Its Mind.</title>
-<link>https://www.entrepreneur.com/business-news/jensen-huang-is-back-as-nvidia-ceo-11-days-after-resigning</link>
-<guid isPermaLink="false">7e0e43e18d10a24e3d0b9d74a55052fea066878c0cea6d6e00a8b6299e2f1a64</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 14:45:00 +0000</pubDate>
-<description>The board of directors returned him to the top job after hearing from senior U.S. officials that he posed no national security risk.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/jensen-huang-nvidia-1126-g-2278510107.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/jensen-huang-nvidia-1126-g-2278510107.jpg" medium="image"/>
-</item>
-<item>
 <title>AI-forward insurance startup Corgi applies for bank charter</title>
 <link>https://www.bankingdive.com/news/corgi-applies-occ-fdic-national-bank-charter-ai-insurance-fintech/875453</link>
 <guid isPermaLink="false">47f082d981a75029c1940ab657addf522a8657b3e8e054ac7f0da3a23bd9d63f</guid>
@@ -486,17 +541,6 @@
 <description>Corgi wants a national bank charter, which would put its holding company under the Federal Reserve’s purview – a rarity among insurance firms.</description>
 <enclosure url="https://imgproxy.divecdn.com/Ynio67rfYurR3M67S-xE1Tz5L6iqiEEwnnzmJ0vwdmA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzLmpwZw==.webp" type="image/jpeg"/>
 <media:content url="https://imgproxy.divecdn.com/Ynio67rfYurR3M67S-xE1Tz5L6iqiEEwnnzmJ0vwdmA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgzNTM4MzYzLmpwZw==.webp" medium="image"/>
-</item>
-<item>
-<title>Red Robin Is Selling 116 Restaurants to Franchisees — Here’s Why It’s Flying Against the Casual-Dining Flock</title>
-<link>https://www.entrepreneur.com/buying-a-franchise/red-robin-is-selling-116-restaurants-to-franchisees-heres-why-its-flying-against-the-casual-dining-flock</link>
-<guid isPermaLink="false">1d77d53fd5d36716e03f2c6e4048fc67a49a109029e762b3183dfd50720aa867</guid>
-<source>Entrepreneur</source>
-<category>business</category>
-<pubDate>Mon, 23 Nov 2026 14:25:00 +0000</pubDate>
-<description>Nearly half its locations will soon be franchisee-owned, a rare move for a sit-down restaurant these days.</description>
-<enclosure url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/red-robin-selling-to-franchisees-1126_g2190588870.jpg" type="image/jpeg"/>
-<media:content url="https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/11/red-robin-selling-to-franchisees-1126_g2190588870.jpg" medium="image"/>
 </item>
 <item>
 <title>Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return</title>
@@ -730,39 +774,6 @@
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg" medium="image"/>
 </item>
 <item>
-<title>Bitcoin briefly drops to $17K on Kraken, exchange upholds trades</title>
-<link>https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand</link>
-<guid isPermaLink="false">67d23e87402eb322969cfbbfa740fdec3c472b87e0e40e8e2adf78dd63f8b8ed</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 22 Nov 2026 09:33:06 +0000</pubDate>
-<description>Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M819JW0D1CC9W3NZY32KQ4A0/hi-kraken2-1.jpg" medium="image"/>
-</item>
-<item>
-<title>South Korean exchanges halt CYBER transfers amid suspected bridge exploit</title>
-<link>https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit</link>
-<guid isPermaLink="false">06d3b9f737f6a4954e4b39e47c04247f427c34343c8f3af470d071e8bff9ec03</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 22 Nov 2026 07:24:05 +0000</pubDate>
-<description>Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png" medium="image"/>
-</item>
-<item>
-<title>Chainflip confirms $12M hack, offers attacker 10% bounty</title>
-<link>https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty</link>
-<guid isPermaLink="false">6e8a50fda8fa19fb0dec6947388b36a73c04d20d8c5a4512a21f402feaf0d8b0</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sun, 22 Nov 2026 05:28:43 +0000</pubDate>
-<description>Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/11/01M80VMG116PQ22VH13YJ5ANN8/hacky-hack-2.png" medium="image"/>
-</item>
-<item>
 <title>GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump</title>
 <link>https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump</link>
 <guid isPermaLink="false">578566dbd5570b12990a862c01a032d7543b3e9f84486869c7b986d249649b51</guid>
@@ -805,17 +816,6 @@
 <description>Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.</description>
 <enclosure url="https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg" medium="image"/>
-</item>
-<item>
-<title>ECB seeks industry partners for tokenized deposits, securities experiments</title>
-<link>https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia</link>
-<guid isPermaLink="false">7798e2089958ac3006eaa0f3ed9200b40954436e874f76752d5b8792719f11ef</guid>
-<source>Cointelegraph</source>
-<category>business</category>
-<pubDate>Sat, 21 Nov 2026 09:48:56 +0000</pubDate>
-<description>Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.</description>
-<enclosure url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg" type="image/jpeg"/>
-<media:content url="https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg" medium="image"/>
 </item>
 <item>
 <title>Claude Claims Historic Math Breakthrough One Day After Anthropic IPO</title>
