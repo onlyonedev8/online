@@ -4,6 +4,314 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Five solar generators going for deep discounts on Black Friday</title>
+<link>https://www.engadget.com/2327916/five-solar-generators-going-for-deep-discounts-on-black-friday</link>
+<guid isPermaLink="false">ab70ea809e1cb9322446596b8f103462f451c091b63a6dce41e4a9edcb999ffb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:15:20 +0000</pubDate>
+<description>Save 20 to 40 percent on models from Anker, EcoFlow and more.</description>
+<enclosure url="https://www.engadget.com/img/gallery/five-solar-generators-going-for-deep-discounts-on-black-friday/l-intro-1795554171.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/five-solar-generators-going-for-deep-discounts-on-black-friday/l-intro-1795554171.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon is reportedly in talks to end Muse AI shopping block</title>
+<link>https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions</link>
+<guid isPermaLink="false">8309588c20e1138eb4c3bfafefc001fc73e6c57f37e5e290f0398d8514259c41</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:12:33 +0000</pubDate>
+<description>Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune . The discussions, which could end Amazon's block on Muse , reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune , Amazon is concerned that it could lose advertising revenue by allowing Muse on its site, since it depends on actual humans seeing ads across its online marketplace. It's also reportedly worried about the quality of the product search results that Muse will present to users, as well as whether the AI age … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>JetBrains finds agents may cheat with open source</title>
+<link>https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999</link>
+<guid isPermaLink="false">c794454219d04c09f4a9e89de8935702440f4a17366fec5223711d24147321d0</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:07:00 +0000</pubDate>
+<description>JetBrains has revamped a benchmark for evaluating large language models after suspecting too many agents gamed their tasks the first time round. The company labelled this agentic practice "reward hacking" in a post summarizing the results of its revised evaluation. Like its predecessor , Kotlin Benchmark 2.0 is a collection of tasks that evaluates how well AI coding agents work with the Kotlin programming language , in order to help Kotlin programmers decide which agent-model configurations to use. The tasks include fixing tricky problems in Kotlin code across different domains, and making corrections to multiple files. Dirty data The revised benchmar k now includes 30 Kotlin multi-file code problems that have not been exposed to the public in any way before. The revised test all but guarantees that the agents have not encountered this set of problems, or potential solutions, before. Another 70 tasks are based on code that resides in public repositories. The test also blocked all network access for the open source tasks, except for what was needed to communicate with the model itself. This minimized the possibility that the agent could look for an existing answer already posted, perhaps through a patch or pull request. A 30-minute limit was set for each task. Overall, the agents were significantly less accurate when solving problems on codebases they had never encountered. Top resolution rates dropped rather suspiciously from 86.2 percent on tasks based on open source repositories to 60 percent on those based on closed source repositories. Although the agents lacked network access, JetBrains boffins theorized that they might have benefited from encountering and internalizing these open source repositories during training. Only the private repositories were completely new to them. Also curious was how a different set of models excelled at the closed source problems, compared to those models that usually did better on the open source tasks. Leaderboard Shakeup When restricted to closed source tasks, two dark horse models rose to the top: Gemini 3.8 Flash, via Antigravity CLI, topped the list with a 60 percent success rate, closely followed by DeepSeek V4.1 Flash (running on OpenCode) at 58.9 percent. Of the two, the open weight DeepSeek was far cheaper (at $0.08 per task) than the closed weight Gemini ($1.74 per task), however. In contrast, Opus 5.5 completed only 53.3 percent of the tasks at $1.21 per task, and Fable 5.1 completed only 44.4 percent of the tasks, at a luxurious $3.27 per task. Claude Code harnessed both of these models. Claude’s lackluster completion rates on closed source tasks are somewhat sus given how both of these Anthropic models scored significantly higher on tasks using open source materials. In fact Claude ran the table when it came to open source: Fable 5.1 topped the charts with 86.2 percent accuracy, closely followed by Opus 5.5 at 84.8 percent accuracy. (Kotlin users will pay dearly for the extra sliver of Anthropic ac</description>
+<enclosure url="https://image.theregister.com/?imageId=1683207&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=1683207&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Aidan is one of thousands of students forced to verbally defend his honours thesis as universities take on AI</title>
+<link>https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd</link>
+<guid isPermaLink="false">cb0e24754b95a4ee621d4fa6762cbabdd2ee211f0997026e2fda4879f34e8418</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:00:29 +0000</pubDate>
+<description>Honours students are increasingly being asked to sit oral assessments – but at the University of Sydney it’s become a requirement for all Get our breaking news email , free app or daily news podcast When Aidan Elwig Pollock signed up for an honours program at the University of Sydney, he did not expect his 20,000-word thesis to be accompanied by a spoken component. But, as AI increasingly makes written research an unreliable form of assessment, the university has demanded all students taking the one-year program defend their arguments in conversation with professors. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/908614cdd05b81d36b3667409a3239a6f801312e/0_0_6795_5439/master/6795.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a84ea705ab3f423f59b165f5fe7f582b" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/908614cdd05b81d36b3667409a3239a6f801312e/0_0_6795_5439/master/6795.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a84ea705ab3f423f59b165f5fe7f582b" medium="image"/>
+</item>
+<item>
+<title>‘Nobody showed up but me’: will Friendsgiving survive gen Z?</title>
+<link>https://www.theguardian.com/lifeandstyle/2026/nov/25/friendsgiving-gen-z</link>
+<guid isPermaLink="false">3576fb03c0c9694f001069d023f665b381f5a8a8ba8ae5d931a3e2943b4b4c85</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:00:29 +0000</pubDate>
+<description>A generation known for loneliness is putting their own spin on a millennial-made tradition that requires socializing It’s a TikTok scene straight out of a stress dream: two men stand in their freshly cleaned apartment, explaining how all but one of the people they invited to Friendsgiving flaked out at the last minute. There is a can of whipped cream on the table and a 6lb ham in the oven. According to the video, posted by pop-culture podcaster Jackson Strike, those who ditched were either tired, or sick, or had a difficult day at work. More than 1.5 million people liked the video and many flooded to the comments section to express their disappointment at what they saw as an epidemic of antisocial behavior. “Everyone wants a village until they have to be a villager,” one user wrote. “Time to get new friends,” quipped another. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/0cc0c758dfb88ba1a8c777776c384c80b2bd0b7c/186_0_7652_6123/master/7652.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ece69ec66eadf25a0d003c832cab317" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/0cc0c758dfb88ba1a8c777776c384c80b2bd0b7c/186_0_7652_6123/master/7652.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ece69ec66eadf25a0d003c832cab317" medium="image"/>
+</item>
+<item>
+<title>Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday</title>
+<link>https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale</link>
+<guid isPermaLink="false">b831dbeefa036a18757471cfda1a226e1cee73c9fa3e440c704a16111f71ea5c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:00:00 +0000</pubDate>
+<description>Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much cheaper — or considerably smaller — the Xteink X4 Classic is in a league of its own. Thankfully, the tiny e-reader is down to a new low of $54.87 ($55 off) at Amazon , making it an especially affordable alternative to Amazon’s latest Kindle. Xteink X4 Classic pocket e-reader Where to Buy: $109 $54.87 at Amazon (black) $109 $54.87 at Amazon (white) $109 $59 at Xteink The X4 Classic is an updated version of Xteink’s original pocket-sized e-reader, one that features a miniature 4.3-inch E Ink display that makes it more pocketable than any current Kindle or Kobo model. Like the pricier X4 Pro — which also happens to be on sale direct from Xteink for $84 — it features both physical page-turning buttons and magnets that let you attach it to compatible smartphones. At just 2.4 ounces and 4.9mm thick, it’s also easy to slip into a pocket, while its larger 920mAh battery can last up to 10 days on a single charge. That said, unlike the X4 Pro , the Classic lacks a touchscreen and built-in reading light, meaning you’ll need an external light to read in the dark. It also uses a proprietary magnetic charging connector instead of USB-C, and transferring books isn’t as straightforward as on a Kindle or Kobo. However, like the Pro, it does support the excellent CrossPoint Reader software , which you can install yourself to improve the reading experience. You can even use it to read books borrowed through Libby or purchased from stores like Kobo, though it takes a few extra steps to do so. Still, if you want an inexpensive, distraction-free way to read on the go, the X4 Classic is hard to beat for less than half the price of a Kindle. Read our hands-on impressions of the Xteink X4.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xteink1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xteink1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV</title>
+<link>https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa</link>
+<guid isPermaLink="false">fc3699d37bd70878153199d7d99377a289fb66c365bc1c1e65c43568a7c1765d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 14:00:00 +0000</pubDate>
+<description>As a longtime fan of the films, Blade Runner 2099 showrunner Silka Luisa says she was more excited than scared when it came to adapting the series for TV. The new show is set 50 years after the 2017 film Blade Runner 2049 and imagines a bleak future where artificial humans known as replicants have taken over society after a brutal war. Luisa, who previously served as showrunner on Apple TV's Shining Girls adaptation , says she largely had to put any concerns about the monumental task of following up Blade Runner out of her mind while working on the show. "I just don't think you can approach Blade Runner with fear," she tells The Verge . "It's … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Tapo’s new indoor security camera includes a touchscreen for video calls</title>
+<link>https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt</link>
+<guid isPermaLink="false">93052b5f65b287fffe90e029cee9f8b5883fb924cadb5e5245769cddb792bae1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 13:30:00 +0000</pubDate>
+<description>TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch touchscreen, so when it's not watching for intruders or misbehaving pets, it can be used to make hands-free video calls. The Tapo C825 is available starting today for $149.99. That's a little expensive for a 2K camera, but its tracking capabilities could make up for it not being 4K. Using a rotating base the C825 can pan 360 degrees while its camera module on top can tilt up and down up to 156 degree … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Debian wakes up wearing Windows XP's actual skin</title>
+<link>https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111</link>
+<guid isPermaLink="false">e1a4bd3ff7719476a15710b3dfd45b083eec137b61ef6b4510631c7783a603ef</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 13:23:32 +0000</pubDate>
+<description>Win4Wine is one of the more remarkable and creative hacks we've read about in recent years. It runs Windows XP's genuine Explorer shell through patched Wine on Debian 13, with a custom window manager integrating Linux applications into the desktop. As its GitHub repository explains: "The taskbar, Start menu, desktop and folder windows are XP's real ones, and Linux applications get XP's frames and taskbar buttons." This impressive, possibly demented project has English installation instructions and a README, although its design documents are in Japanese. We found Mozilla's built-in translation handled those pretty well. Its developer goes by miKuta0407 on GitHub, their homepage , and X . Also note, you're going to need some Windows installation media for the full experience. The README says: "No Microsoft files are included. Only the files that are needed are extracted locally from your own ISO." It supports Windows XP Professional SP3 installation images in 32-bit Japanese or English editions, with an experimental option for Windows 7 SP1 x64. Without either Windows image, it can download and use ReactOS's free software shell instead, for what it terms "a Windows 2000-like classic look." In our view, that sounds much better anyway. Before any former Windows users cry hurray and reach for an optical drive, this is not some ready-to-run project. The top of the README warns: "This is a personal, experimental project, not a finished product for daily use." The developer has tested it only on a fresh Debian 13 installation and recommends a VM or spare machine, rather than an existing working desktop, which sounds like an excellent precaution to us. Also, before you ask, yes, it was vibe-coded with Claude. We found ourselves reminded of another crazy-but-is-it project that we wrote about back in January: What if Linux ran Windows... and meant it? Meet Loss32 . The Loss32 proposal was even more extreme. It suggested replacing essentially the entire Linux userland, so it would be a Linux kernel running Wine with a Windows desktop and Windows apps. However, Mikuta-san was way ahead of us – lower down, the README mentions and even links to Loss32. Saying that, since it launched at the end of 2025, the bottom of the Loss32 web page shows a couple of updates, reporting on delays in getting it working. That, to be honest, did not shock us, but we still admire the let's-do-this spirit. The developer also seems to have got slightly distracted by a previous project, touchHLE: high-level emulator for early iOS apps . Loss32, in turn, reminded us of Neptune OS, an attempt to give seL4 a Windows personality transplant . We wrote about that back in 2022, and work on it has continued: the project page shows updates in recent months. The team has also pushed out preview releases in 2022, 2024, 2025, and most recently in September. This OS face transplant also reminded us of our article, Classic 7 is Windows 10 LTSC cosplaying as Windows 7 . Some people really miss the</description>
+<enclosure url="https://image.theregister.com/?imageId=5312115&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312115&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Has vibe coding made open source the new normal for synths?</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware</link>
+<guid isPermaLink="false">d7f8df890f989b59e60830daace3d0e9f71e57aaf4a12626f33f8d341d87b768</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
+<description>The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world , leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source. The biggest name to decide "if you can't beat 'em, join 'em" is inMusic , the parent company of Akai, Moog, Native Instruments, and more. "We're going t … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Acer Predator Atlas 8 review: Potent performance at a slightly better price</title>
+<link>https://www.engadget.com/2326961/acer-predator-atlas-8-review</link>
+<guid isPermaLink="false">3e56a9b1b70d664717ca8bd41e2d78a4c1f42ae6dcb6a097217e0f7f20e2e618</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
+<description>Thanks to its Intel Arc G3 Extreme chip, the Acer Predator Atlas 8 delivers 95 percent of the performance you get from MSI's Claw 8 EX AI+ for $350 less.</description>
+<enclosure url="https://www.engadget.com/img/gallery/acer-predator-atlas-8-review-potent-performance-at-a-slightly-better-price/l-intro-1795546932.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/acer-predator-atlas-8-review-potent-performance-at-a-slightly-better-price/l-intro-1795546932.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft 365 Backup stretches recovery window to ten years</title>
+<link>https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043</link>
+<guid isPermaLink="false">e8600d727083176235dbe1fb37b64b539d63486649bd8282e47d506a1c37b272</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 12:35:00 +0000</pubDate>
+<description>Recovery windows of up to ten years are now available in Microsoft 365 Backup for OneDrive and SharePoint, up from a previous maximum of two. The change took effect on October 31, though Exchange remains capped at two years. Administrators can select recovery windows of three months, six months, or any whole number of years from one to ten. Microsoft's list price is $0.15 per GiB per month of protected content. Extended windows can increase costs by keeping deleted data billable for longer. Switching to a longer recovery window will also not make backups for that period magically available. So no nostalgic trips back to 2016. Wider recovery windows may appeal to organizations that need access to older data, but backups are not a substitute for compliance retention and archiving. Recovery after a breach or ransomware attack is also critical, particularly getting back to a healthy state before any malware seeped into files. Microsoft says backups are physically redundant and geographically replicated while respecting the tenant's data residency requirements. Full OneDrive account and SharePoint site restores offer recovery points every ten minutes for the most recent two weeks, then weekly points through the configured window, up to ten years. Individual file and folder recovery is limited to recovery points from the most recent 14 days, regardless of the configured window. Restore remains free, which is handy since regular testing is a vital part of any disaster recovery plan. The arrival of a ten-year recovery window is good for enterprises that need it and have deep enough pockets. However, it is important to keep in mind that being able to configure a longer recovery window doesn't constitute a disaster recovery plan in itself and may be overkill in many instances. Microsoft notes: "The existing one-year default recovery window remains unchanged. Longer recovery windows must be configured on the applicable backup policies." The company also recommends that users "review your organization's SharePoint and OneDrive backup requirements to determine whether longer recovery windows are needed." A decade of recovery history could be valuable. It also means a decade of data to account for when setting budgets, access controls, and retention policies. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=232945&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=232945&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>WhatsApp is testing stickers with sound</title>
+<link>https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound</link>
+<guid isPermaLink="false">f98740dfa2ecfd7307538f082c25b16337192c2d0a9a241d220576dfd18e032a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 12:24:57 +0000</pubDate>
+<description>WhatsApp's newest public beta includes the ability to create stickers with sounds.</description>
+<enclosure url="https://www.engadget.com/img/gallery/whatsapp-is-testing-stickers-with-sound/l-intro-1795609389.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/whatsapp-is-testing-stickers-with-sound/l-intro-1795609389.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon to flog motors in Britain, but Prime won't deliver</title>
+<link>https://www.theregister.com/personal-tech/2026/11/25/amazon-to-flog-motors-in-britain-but-prime-wont-deliver/5312080</link>
+<guid isPermaLink="false">58560a0362acc318e162d17cf794a2dd3551ebc406481cc3ef7c75585f85080a</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 12:19:20 +0000</pubDate>
+<description>Amazon is channeling its inner car salesman as it prepares to flog motors on the UK arm of its online tat bazaar. Amazon Autos will launch in Britain in early 2027, its first expansion outside the US, where it debuted in December 2024. Customers can browse and reserve cars online before completing the purchase with a dealer. Hoping it will be "a nice little earner," Amazon will let punters view real-time dealer inventory, prices, get an instant trade-in valuation, and connect with a local dealer to reserve a car, "all on Amazon." In the US, the service now covers more than 150 cities and offers vehicles from 35 brands. Hyundai is the first announced UK carmaker partner, while dealer group Vertu Motors will list used vehicles. More brands and dealers are due to be confirmed before launch. Hyundai's launch range will include electric, hybrid, and petrol models. "Buying a car is one of the biggest purchases people make, and we think it should feel as simple and transparent as shopping for anything on Amazon," said Matt Nuffort, director of Amazon Autos International. Of course, buying a car isn't quite like adding an air fryer or a memory stick to your basket. How does financing and checkout work for UK buyers? Customers will complete the purchase and paperwork at their chosen dealership. Amazon is not offering financing itself, but buyers can explore financing options via the site, adjusting terms like deposit and duration to see how monthly payments change. Credit applications must be completed with the dealer. In the US, buyers can submit a credit application through the platform, review terms and conditions, then sign electronic contracts online. They typically pay a deposit and visit the dealership to complete the remaining paperwork and pick up the vehicle. Buyers shouldn't expect their new car to arrive in an enormous cardboard box with a smiley logo on it, or to be lowered onto their driveway by a giant Amazon delivery drone. But given that one of the online retailer's flying delivery robots crashed into someone's garage after making a drop-off near Detroit last week, perhaps that's for the best. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=258277&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=258277&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>AI may soon change what it means to be a theoretical physicist</title>
+<link>https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next</link>
+<guid isPermaLink="false">319f463cce75ff29a26711e1ce30e8ab590dae150eeeede25248dd0af7a19f06</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 12:00:28 +0000</pubDate>
+<description>About six months ago, Suvrat Raju, a professor of theoretical physics at the International Centre for Theoretical Sciences in Bengaluru, India, asked a frontier AI model to solve a physics problem. He didn’t ask because he needed to know the answer. He had actually solved this particular problem already. But he had never published the solution—which made it a perfect question to test how good AI was at physics. LLMs have been trained on the whole Internet, so if a physics problem has been discussed online, it’s likely the model already knows about it and may have memorized the answer. So a fair test of AI capabilities needs to focus on problems that have never appeared online. The model didn’t answer Raju’s problem correctly, but it did better than he expected—well, enough to get him thinking that the experiment should be repeated and formalized. With the help of a colleague, he set out to create a theoretical physics benchmark for AI. Read full article Comments</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Gatwick drop-off customers' personal data exposed in supplier breach</title>
+<link>https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060</link>
+<guid isPermaLink="false">fe2dc2e5352da2fee9da04217ad9be9c4588a60b804cc18ab4f8feb28bb490ca</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 11:16:18 +0000</pubDate>
+<description>London Gatwick Airport has warned customers that a breach of its drop-off payment service exposed personal information and, in limited cases, payment records. A notification email seen by The Register identifies the affected system as AutoPay, operated by ParkPark and used by Gatwick's drop-off zone manager, Times24 UK Limited. AutoPay lets drivers register their vehicle and payment details in advance so drop-off charges are collected automatically. Gatwick told us it was unable to provide details about how many customers were affected by the breach, or how far back the affected records go. The email said most affected customers would have only some of the listed data exposed. The could include names, home addresses, cities, postcodes, contact details, and AutoPay login credentials such as email addresses and bcrypt-hashed passwords were affected. Other records implicated in the breach include details of vehicles linked to AutoPay accounts, those vehicles' entry and exit times at Times24-managed parking locations, and vehicle registrations. The email also states that payment records, including amounts, card types, card expiry dates, payment references, transaction statuses, transaction IDs, and drop-off locations and times were affected, but a Gatwick spokesperson said this applied only to "very limited cases." Again, in a minority of cases, "some limited emails between the customer service team and customers" were also exposed, the email stated. Gatwick said Times24 "immediately suspended" AutoPay after detecting the intrusion. The service remains disabled while the investigation continues. Airport officials are overseeing the response with outside cybersecurity specialists. Gatwick warned of possible disruption to its website but said flights were unaffected. Customers can still use Gatwick's drop-off zones, although they'll have to use alternative payment methods, and all other airport services are still operating as usual. The notification email urged customers to exercise caution when receiving communications from Gatwick, Times24, AutoPay, or ParkPark, especially those that ask for payment or bank details. Times24, which operates across more than 200 car parks in the UK, did not immediately respond to our request for more information. Dray Agha, senior manager at Huntress's tactical response division, warned that criminals could use the data for convincing scams long after news coverage of the breach has faded. "The real damage often comes after the breach," he said. "Criminals rarely use stolen data straight away; they'll wait until the headlines fade, then send a text about a 'parking fine' or an email offering a 'refund' that references a real booking. Even partial card details add a layer of credibility that makes people far more likely to hand over the rest. "Gatwick customers should assume any unexpected message about their parking could be a scam, check directly with the airport, and keep a close eye on their bank statements over the</description>
+<enclosure url="https://image.theregister.com/?imageId=227789&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=227789&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Microsoft declares ‘Code Red’ after huge Outlook outage</title>
+<link>https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage</link>
+<guid isPermaLink="false">b74e12e389d11a6112f3e1d3284e0ff81a1ce9c7aa54c5217de75cfab4f9d401</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 11:12:42 +0000</pubDate>
+<description>This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual "Code Red" internally, Reuters reports . The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to servers. In a memo to the teams responsible for Exchange Online, Microsoft 365 Core president Jason Henderson revealed the outage was the most significant in history for Microsoft's customers. "Unfortunately, all the work we have done over the years was not sufficient to protect us on Thursday," said … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter</title>
+<link>https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy</link>
+<guid isPermaLink="false">800aa531a0e76c8b276a07274a3f50206689e96393116b2324709e39ce4c4c3e</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 11:00:47 +0000</pubDate>
+<description>It is possible for democracy to reverse the dynamic of oligarchy. But we must act now The explosion of extreme wealth in the world is the defining social fact of our times. When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP. Since that time, the wealth held by this tiny group of people – just 3,000 households – has ballooned and now reaches 17% of global GDP. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/2dd975b73ad768204e517055d0fd577371cdf078/598_0_4903_3922/master/4903.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35013590e0f37af034429076c49326dc" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/2dd975b73ad768204e517055d0fd577371cdf078/598_0_4903_3922/master/4903.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35013590e0f37af034429076c49326dc" medium="image"/>
+</item>
+<item>
+<title>The world's fastest computers have a problem: Keeping the work running</title>
+<link>https://www.theregister.com/systems/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710</link>
+<guid isPermaLink="false">e37ea9cf648ad310ffe782e023262ae49c26672043dc5cd95b3fa90777a3ff84</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 10:15:00 +0000</pubDate>
+<description>Frontier, Oak Ridge National Laboratory's exascale supercomputer, has thousands of processors working together on scientific problems. It also has a surprisingly ordinary way of ruining a researcher's day: one node going down. An uncorrectable memory error can do it, or a maintenance mishap. Scott Atchley , chief technology officer at the Oak Ridge Leadership Computing Facility, describes technicians accidentally rebooting the wrong node or risking a neighboring node's power supply while working in tightly packed racks. The hardware fault can affect just one node, but a simulation running across thousands of processors can grind to a halt. Then comes a series of questions. How recently did the application save its progress? How much computation needs repeating? And how long before the scheduler lets the job run again? For operators, the challenge isn't just keeping the supercomputer running. It's keeping the science moving. One bad node and everybody suffers On Frontier , a memory error can have an outsized audience. Atchley says uncorrectable double-bit errors in high-bandwidth memory occurred about 1.5 times a day during the supercomputer's early bring-up. Its predecessor, Summit, saw roughly one every two weeks. This sounds like a backward step, until you count the memory. Frontier has more than 16 times as much, giving bad bits considerably more places to hide. Memory isn't the only problem. Problematic GPU firmware can crash a node, and so can a technician rebooting the wrong one. Interconnect faults add another way for a large job to come unstuck. In a tightly coupled simulation using the Message Passing Interface (MPI) simulation, thousands of processes, or ranks, exchange data and participate in collective operations. If one rank disappears, the others cannot carry on as though nothing happened. Clockwork.io CEO Suresh Vasudevan describes a similar dependency in synchronized GPU training. One failed GPU can bring a 1,024-GPU job to a pause. An underperforming GPU can be almost as troublesome: if one participant runs at 80 percent speed, others might have to spend time waiting for it. The bigger the machine, the more ways there are for one small problem to become everybody's problem. How often should you hit save? Since stopping every component from failing isn't an option, researchers need a way to preserve their work. That's where checkpointing comes in. The application periodically saves its state so that, when something goes wrong, the simulation can resume from an earlier point instead of starting from scratch. The catch is that saving progress costs computing time, and doing it too often can become almost as wasteful as losing the work itself. Vasudevan explains this with an example. If writing a checkpoint takes 30 seconds, saving every five minutes consumes roughly 10 percent of computing time. Stretch that interval to 50 minutes, and the overhead drops to about 1 percent. But a failure could wipe out considerably more work. Atchle</description>
+<enclosure url="https://image.theregister.com/?imageId=5311858&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5311858&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>‘A godsend’: the best hair straighteners in the UK for foolproof styling</title>
+<link>https://www.theguardian.com/thefilter/2025/mar/18/best-hair-straighteners</link>
+<guid isPermaLink="false">5a31c74d584bd8eaa71d2502669da2e9863b6d5cb9760c1e8b59df4432179343</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 10:00:03 +0000</pubDate>
+<description>Whether you want cordless designs or a budget buy, we’ve tested the top hair straighteners for every hair type • The best hair dryers, tested Straighteners are here to stay – but thankfully, heat styling has come a long way since GHD’s first ceramic straighteners ushered in an era of poker-straight hair in 2001. Today’s models feature adjustable heat settings and protective technology for hairstyling with minimal damage. The looks you can achieve with a straightener have become more versatile as well: one twist of a modern, curved-edge straightener can create styles from ultra-smooth strands to structured ringlets and soft, beachy waves. That’s a wide range of styling possibilities with just one tool. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/1a07dd3a36f07db2a559cfce1cb7884a8bc5a910/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6485e562251be7e26ca320d57029e02" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/1a07dd3a36f07db2a559cfce1cb7884a8bc5a910/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6485e562251be7e26ca320d57029e02" medium="image"/>
+</item>
+<item>
+<title>How to watch every 2026 NFL Thanksgiving game on streaming</title>
+<link>https://www.engadget.com/2323102/how-to-watch-every-2026-nfl-thanksgiving-streaming</link>
+<guid isPermaLink="false">885770d52a38b35f03f024c8917709611657040d6e0ed9237bd63bf73d1d9b2c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 10:00:00 +0000</pubDate>
+<description>Thanksgiving Eve brings a first-ever NFL game, plus three more on Turkey Day. Here's where to stream every matchup in 2026 without missing a snap.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-watch-every-2026-nfl-thanksgiving-game-on-streaming/l-intro-1795111963.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-watch-every-2026-nfl-thanksgiving-game-on-streaming/l-intro-1795111963.jpg" medium="image"/>
+</item>
+<item>
+<title>Government may apply TV license fee to streaming services to fund the BBC</title>
+<link>https://www.theregister.com/offbeat/2026/11/25/government-may-apply-tv-license-fee-to-streaming-services-to-fund-the-bbc/5311928</link>
+<guid isPermaLink="false">2a89c34a41b8bb385271a50ef105571a85b7523fe229f5f03371f1dac6021bd9</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 09:30:00 +0000</pubDate>
+<description>A study suggests extending the TV license to cover streaming services such as YouTube and Netflix could solve the BBC’s funding problems, netting it an extra £1.6 billion ($2 billion) per year by 2032. The British government is due to publish a white paper by the end of this year outlining its plans for the BBC's license fee and Royal Charter, which expires at the end of 2027. One of the options is to extend the license so that it is needed to access streaming platforms like Netflix, Disney+, or Amazon Prime Video. This is unlikely to prove popular, but if the fee was held at the current level (£180, $236 per year) it would generate up to £1.6 billion extra a year for the corporation and would better reflect how audiences watch television, according to entertainment industry research biz Ampere Analysis . As any Brit knows, the BBC is funded primarily through the TV license, which is charged on a per household basis. A license is required to watch or record live TV on any broadcast channel, or access the BBC iPlayer for on-demand content. A license is not currently needed for on-demand streaming platforms. The government is understood to believe the current license scheme is “outdated and no longer fit for purpose,” and is weighing several options to reform it. Scrapping it entirely looks unlikely for now: a committee found that other European countries that did so ended up with less stable funding for their public service broadcasters, and weaker independence from political interference. TV licensing is controversial, with some people resenting having to pay the BBC just for the right to watch television. In response, the government has tried to limit fee increases, and made the license free for some elderly people. Together, these moved have reduced the BBC's funding, leading to service cuts and further. dissatisfaction. Responding to a report by the National Audit Office (NAO) that found the BBC will remain under financial pressure despite widespread cuts, the National Union of Journalists (NUJ) urged the government to secure the broadcaster's future in the next charter renewal. "The BBC shouldn't be in this position. These cuts are the result of a decade of underfunding, with NAO identifying a 26 percent real-terms reduction in license fee income in the last nine years alone," said NUJ general secretary Laura Davison. Many Brits no longer pay the license fee, preferring to watch only streamed content, or claiming that they do. Ampere says more than 90 percent of UK households watch live television, but only 84 percent of eligible households pay the fee, meaning a sizable number are freeloading. Extending the fee to cover on-demand and streaming services would close the loophole, it says. Another option could see the license fee reduced to £150 ($196) in 2028, assuming perfect enforcement, analysts at Ampere say. They neglect to detail what this "perfect enforcement" mechanism consists of. "Widening the remit of the license fee at current pric</description>
+<enclosure url="https://image.theregister.com/?imageId=261547&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=261547&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Amazon Autos is coming to the UK in its first expansion outside the US</title>
+<link>https://www.engadget.com/2327693/amazon-autos-is-coming-to-the-uk-in-its-first-expansion-outside-the-us</link>
+<guid isPermaLink="false">258cf5d59c01cf64feefc55d433c1d7b0ffcc01ab5f0e8e483549413f4c63ee6</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 09:15:37 +0000</pubDate>
+<description>Amazon Autos will start selling cars in the UK early next year, marking the first time it has expanded outside the US.</description>
+<enclosure url="https://www.engadget.com/img/gallery/amazon-autos-is-coming-to-the-uk-in-its-first-expansion-outside-the-us/l-intro-1795598015.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/amazon-autos-is-coming-to-the-uk-in-its-first-expansion-outside-the-us/l-intro-1795598015.jpg" medium="image"/>
+</item>
+<item>
+<title>‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation</title>
+<link>https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation</link>
+<guid isPermaLink="false">7266bc0301368ec693582c4edeeed0ad91421f26f731cbc370f5f4f1a9c0d096</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 07:00:08 +0000</pubDate>
+<description>Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale Meta employees have expressed concern at the company’s push to replace human moderators with artificial intelligence, claiming the technology is leading to mistakes with the potential for sweeping political consequences. The social media company, which owns Facebook and Instagram, has been experimenting with AI-driven moderation for years, first introducing it in 2017 to filter out violent extremist content. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/534fcd6f2a9a97fae39f19c96472abe6ec41e0b9/0_819_3766_3013/master/3766.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44c7b64d1ea5cf561e0fd1a4430635d8" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/534fcd6f2a9a97fae39f19c96472abe6ec41e0b9/0_819_3766_3013/master/3766.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44c7b64d1ea5cf561e0fd1a4430635d8" medium="image"/>
+</item>
+<item>
+<title>Jury finds Huawei stole US tech, laundered money, and broke sanctions</title>
+<link>https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024</link>
+<guid isPermaLink="false">07b177d5061a0f98d4b4333d1869ec81d34dcba31d84cf57f6d1eb24a01b92d7</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 06:16:02 +0000</pubDate>
+<description>A US jury has found Chinese tech giant Huawei stole tech from American companies, laundered money, and violated sanctions by building major internet infrastructure for Iran, but didn’t operate an illegal racket to get that done. This case kicked off in 2020, when the US Department of Justice claimed entities Huawei operated in America violated federal law. The indictment led to a trial on a dozen criminal matters that has played out over the last three months in the Eastern District Court of New York. The trial ended on Tuesday when a jury found Huawei and three subsidiary companies guilty of conspiracy to steal trade secrets, conspiracy to commit wire and bank fraud, wire fraud, bank fraud, conspiracy to defraud the United States, conspiracy to violate the International Emergency Economic Powers Act (IEEPA) and substantive violations of that law, plus money laundering conspiracy. The Department of Justice’s celebration of the decision says Huawei was found to have stolen Cisco’s source code, after prosecutors showed evidence that “Huawei engineers left Cisco’s notes about the Cisco code, referred to Cisco using its name backwards ‘ocsic’ and described that portions of the code remained as they existed in the ‘ocsic’ code.” Another item of evidence apparently showed a Huawei staffer photographing Fujitsu equipment while wearing a fake employee badge for a company called “Weihua” – cunningly reversing the two syllables of “Huawei.” Another allegation the jury accepted involved Huawei staffers signing a non-disclosure agreement (NDA) ahead of a visit to T-Mobile to inspect a robot the telco created to test mobile devices. Huawei staff ignored that NDA so thoroughly that they “sent photographs and technical details of the robot back to China” so the Chinese company could make its own robot. “When that data was not sufficient, a Huawei employee stole a part of the robot in his backpack and carried it out of T-Mobile’s controlled laboratory,” the DoJ says. The feds say the Chinese company also “lied about its activities in Iran to banks to obtain billions of U.S. dollars and access to U.S.-dollar clearing services, which enabled Huawei to be a sophisticated participant in a global marketplace for telecommunications services — in part because of its lies.” Huawei has issued a statement noting that the jury found it not guilty of racketeering and insisting the charges on which it was found guilty are “without legal or factual merit.” “The five trade secret-related disputes cited by the government were all civil matters that were resolved over the past two decades,” the statement adds. Sentencing will take place in September 2027. The presiding judge will likely consider the fact that in 2017, US authorities fined Chinese telco equipment maker ZTE $900 million just for selling to Iran, then added an additional $1.4 billion penalty to lift a ban on doing business in the USA. Washington has already banned Huawei from selling its telco products and personal</description>
+<enclosure url="https://image.theregister.com/?imageId=5312029&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312029&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>China-linked battery projects could receive UK funding despite security warnings</title>
+<link>https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings</link>
+<guid isPermaLink="false">7efff12193c495191ac3ce36823f4c4be455818fcd9c9df1aceaab10dfa6f289</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 06:00:07 +0000</pubDate>
+<description>China-made lithium-ion batteries, which are relatively low-cost, dominate Ofgem project shortlist A string of battery projects linked to China are expected to be granted UK state subsidies despite deepening fears over the risk of foreign interference they could pose to Europe’s energy systems. Ofgem, Great Britain’s energy regulator, published a provisional shortlist for a new “long duration” energy storage scheme in June. The list was dominated by projects relying on lithium-ion batteries, which are typically manufactured in China and operated with Chinese software. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/d6d3b60ad460057409bbc390fe470277522fd6bd/560_0_5600_4480/master/5600.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c4e71df8321fb5ddfe0befef276ae9db" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/d6d3b60ad460057409bbc390fe470277522fd6bd/560_0_5600_4480/master/5600.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c4e71df8321fb5ddfe0befef276ae9db" medium="image"/>
+</item>
+<item>
+<title>This could mess with Thanksgiving, says VMware as it drops third critical patch bundle in a week</title>
+<link>https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017</link>
+<guid isPermaLink="false">043191e26a422f2d7e93f7c3ec9143d4091367cc8f845b7c4c5858eee3ffdfa5</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 05:15:08 +0000</pubDate>
+<description>VMware has issued its third critical security advisory in a week, this time to warn of four critical flaws and address a total of 23 issues. VMSA-2026-0011 landed on November 24, just five days after two other advisories. VMware’s FAQ for the new advisory includes the following remarks: Because of coordinated disclosure and release pipeline timing this VMSA comes on the heels of VMSA-2026-0009, and atop a major holiday in the United States. The security vulnerability landscape is more dynamic than ever; please know that while we acknowledge this timing is not optimal, your ability to operate and maintain a secure environment amidst modern, AI-assisted threats is paramount to us. Make of that what you will as you ponder how and when to patch the four critical flaws, including the 9.8-rated CVE-2026-123903, which allows a malicious actor to bypass authentication and gain unauthorized access to vCenter, the management tool VMware users rely on to manage hosts and VMs. This is the third 9.8-rated authentication issue VMware has fixed in vCenter since July. Two of the other critical flaws in this new advisory allow an attacker to run code on an ESX host, earning the bugs a 9.8 rating. CVE-2026-123910 makes that possible thanks to a heap out-of-bounds write vulnerability in the I/O filter service, while CVE-2026-123911 is a use-after-free vulnerability. The other critical flaw, CVE-2026-123912, can result in a guest escape from VMware’s desktop Workstation and Fusion desktop hypervisors. It’s also present in VMware’s ESX hypervisor, but attackers thankfully can’t escape that product’s sandbox. This one’s easy to mitigate because the problem is in a USB controller that users can turn off. Most of the other flaws require installation of updated software. There’s a little good news in that some of the software updates VMware issued last week include fixes for the newly disclosed flaws. But there are still plenty of fresh fixes to apply, across ten products: ESX, vCenter, Workstation, Fusion, VMware tools, Cloud Foundation, vSphere Foundation, the Telco Cloud Platform, Telco Cloud Infrastructure, and the VMware Avi Load Balancer. VMware’s advisory thanks external researchers for finding and reporting most of the flaws. The Broadcom business unit is known to be a member of Project Glasswing, the Anthropic-run effort to use the Mythos model to find flaws that has seen many vendors dramatically increase the number of patches they produce. In past years, VMware has often published considerably more than this year’s 11 security advisories. With five weeks left in the year, perhaps vAdmins need to worry Christmas might also get complicated. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=225492&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=225492&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Nutanix CEO announces gradual departure, intent to complete set of storage links</title>
+<link>https://www.theregister.com/virtualization/2026/11/25/nutanix-ceo-announces-gradual-departure-intent-to-complete-set-of-storage-links/5312010</link>
+<guid isPermaLink="false">4035727dd5c6ae244110d5348ad2318fe0a98274fef5f6920a1138c97b3f75dd</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 03:13:13 +0000</pubDate>
+<description>Nutanix CEO Rajiv Ramaswami has decided to step down from the job once the company’s board can find his successor. Ramaswami announced his decision on Tuesday and in conversation with The Register said he doesn’t have another job lined up, isn’t sure what he will do next, fancies sitting on boards or advising startups, but will take a break after Nutanix finds its next leader. The CEO moved from VMware to Nutanix in 2020 and characterized his time at the company as writing its “second chapter.” The first, he explained, saw Nutanix focus on hyperconverged infrastructure (HCI) and a limited group of workloads, especially desktop virtualization, while struggling to make a profit. In chapter two, Nutanix redefined HCI as “hybrid cloud infrastructure” by enabling its stack to run on-prem or in public clouds, and by adding support for containers alongside VMs. Ramaswami took credit for stabilizing Nutanix’s finances while leading the expansion of its platform and for keeping net promoter scores high while the company grew. The CEO added that Nutanix’s decision to end its devotion to virtualized storage and start to support external arrays was also part of chapter two. Ramaswami said he hopes to expand the number of storage vendors Nutanix supports beyond Dell, Everpure, and NetApp, until it works with all major array suppliers. Chapter 3, he said, will be making Nutanix an AI platform, “by catering to a whole new set of ecosystems.” Ramaswami told The Register he had been thinking about moving on for some time and raised it with the board in recent weeks. In the letter he wrote to Nutanix staff , the CEO said the company's board has begun the search for a successor and said he will remain at his post until a replacement is found and then “continue to serve as a senior advisor to the company for a period of time.” News of the CEO’s planned departure came on the same day Nutanix announced its Q1 results, which saw 15 percent revenue growth to $772.4 million. The company added 410 customers in the quarter, the slowest growth for several years. Ramaswami said high hardware costs remain “a headwind” for Nutanix, but said the company continues to win customers seeking an alternative to VMware. He also pointed to the largest new customer win for the quarter coming from a financial services outfit that uses Dell external storage, a significant score because two years ago Nutanix could not have competed for that business. Nutanix forecast slightly faster growth for the rest of its financial year, suggesting it is not ready to ride AI’s rocket to riches. Investors knocked about ten percent off the company’s share price in after-hours trading, sending it to around $50, roughly double what it was when Ramaswami took over as CEO, but below $79-plus peaks in late 2025. ®</description>
+<enclosure url="https://image.theregister.com/?imageId=226792&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=226792&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Tidal bans 100% AI-generated music with plans to delete more than 27m tracks</title>
 <link>https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music</link>
 <guid isPermaLink="false">db727ed730a6c2c879eae935a0119372c7a3d2666155a32da701308d5d29f911</guid>
@@ -131,7 +439,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Tue, 24 Nov 2026 22:50:11 +0000</pubDate>
-<description>Two of NASA's four missions operating at Mars have suspended science operations after encountering separate technical issues in recent weeks. The missions affected by the outages — hopefully temporary — are NASA's Perseverance rover and Odyssey orbiter. Both are operating beyond their original design lifetimes. Perseverance is in its sixth year exploring the surface of Mars, having collected rock and soil samples for eventual return to Earth. The rover is now studying the rim of a crater that once contained an ancient lake of liquid water. Odyssey arrived in orbit around Mars in 2001, and is the longest-lived Mars mission in history. Losing its voice The problem on Perseverance stems from the rover's communications system. The rover has two redundant UHF radios for high-rate communications with a fleet of orbiters that relay data to Earth. A separate X-band system is available for direct-to-Earth communications at a lower data rate. Read full article Comments</description>
+<description>Two of NASA's four missions operating at Mars have suspended science operations after encountering separate technical issues in recent weeks. The missions affected by the outages — hopefully temporary — are NASA's Perseverance rover and Odyssey orbiter. Both are operating beyond their original design lifetimes. Perseverance is in its sixth year exploring the surface of Mars, having collected rock and soil samples for eventual return to Earth. The rover is now studying the rim of a crater that once contained an ancient lake of liquid water. Odyssey arrived in orbit around Mars in 2001 and is the longest-lived Mars mission in history. Losing its voice The problem on Perseverance stems from the rover's communications system. The rover has two redundant UHF radios for high-rate communications with a fleet of orbiters that relay data to Earth. A separate X-band system is available for direct-to-Earth communications at a lower data rate. Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg" medium="image"/>
 </item>
@@ -175,31 +483,20 @@
 <source>The Guardian Technology</source>
 <category>technology</category>
 <pubDate>Tue, 24 Nov 2026 22:05:21 +0000</pubDate>
-<description>Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide. A day after Huang’s reinstatement as CEO drove Nvidia shares up more than 30%, adding more than $900bn to the firm’s market value, the euphoria dissipated as its stock lost almost 6% by Tuesday’s close. Continue reading...</description>
+<description>Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat on Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide. A day after Huang’s reinstatement as CEO drove Nvidia shares up more than 30%, adding more than $900bn to the firm’s market value, the euphoria dissipated as its stock lost almost 6% by Tuesday’s close. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f219366c8cb384602f18cce69444cc91" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f219366c8cb384602f18cce69444cc91" medium="image"/>
 </item>
 <item>
-<title>GTA VI PC recompilation project shut down by Take-Two</title>
-<link>https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two</link>
-<guid isPermaLink="false">6cd9634b07ace6f4b22375ab7dee7bf018bd8a56d013fe05af0730751f13fb33</guid>
-<source>The Verge</source>
+<title>China’s Huawei convicted of stealing US trade secrets</title>
+<link>https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets</link>
+<guid isPermaLink="false">da04ad40ce2f609badbf828892ca6684fd81a1d2547da7f787ae1741c15a88e0</guid>
+<source>The Guardian Technology</source>
 <category>technology</category>
-<pubDate>Tue, 24 Nov 2026 21:39:14 +0000</pubDate>
-<description>Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old "NotRexed," has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build to run natively on Windows. Cyberleek, the leaker who posted multiple GTA VI gameplay videos over the summer, published a full Xbox build of the game earlier this week. The leak has kicked recompilation efforts up a notch, as modders race to reverse-engineer the game's code and rebuild it into native PC code. Some have manag … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The Verge’s 2026 holiday gift guide for moms</title>
-<link>https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026</link>
-<guid isPermaLink="false">0b13fcdeacb74b876a02d3a91328b03a5b9ef74aecace726dfd6069d6fce83e5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 21:09:59 +0000</pubDate>
-<description>Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've done the hard work for you. To help you make the mother figure in your life feel truly appreciated, we've created a sprawling list of intriguing, lovingly curated gift ideas. From a ring watch and luxe portable gaming deck to a better robovac and an AI-powered bird feeder that brings nature to her doorstep, our list has something to fit … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+<pubDate>Tue, 24 Nov 2026 21:11:44 +0000</pubDate>
+<description>US attorney general Todd Blanche says ‘No person or company is above the law’ after tech giant found guilty on 10 of 12 criminal counts Chinese telecommunications equipment maker Huawei was convicted on Tuesday in a sprawling US criminal case on charges that it stole ⁠trade secrets from US companies and deceived banks about ⁠its business in Iran. Huawei, the world’s leading telecom equipment manufacturer, was found guilty by a ​federal jury in Brooklyn of 10 of the 12 criminal counts it faced, including bank fraud, conspiracy to steal trade secrets and conspiracy to defraud the US. It was found not guilty of racketeering conspiracy, a charge alleging it had acted as a criminal enterprise. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/c705226e3d7b0501675e456628ff5a522b977f05/651_0_3257_2606/master/3257.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=275d7a3895ca48c8d5e4d9c3eefe750f" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/c705226e3d7b0501675e456628ff5a522b977f05/651_0_3257_2606/master/3257.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=275d7a3895ca48c8d5e4d9c3eefe750f" medium="image"/>
 </item>
 <item>
 <title>This underrated Pixel feature is more versatile than you realize</title>
@@ -246,15 +543,15 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg" medium="image"/>
 </item>
 <item>
-<title>TikTok was down</title>
-<link>https://www.theverge.com/tech/1041618/tiktok-down-outage</link>
-<guid isPermaLink="false">2faf2fedd6b84aa69fd67ca8a69910398e3fe0f7aa0f150227b53d80388e8bee</guid>
-<source>The Verge</source>
+<title>Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’</title>
+<link>https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff</link>
+<guid isPermaLink="false">c18f5a8804513b9ffd5685ec7a35f1f52cc6976cadfaf5052dcdd732d22ad65b</guid>
+<source>The Guardian Technology</source>
 <category>technology</category>
-<pubDate>Tue, 24 Nov 2026 20:27:27 +0000</pubDate>
-<description>Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks . Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on iOS or Android, or on the web. Even trying to pull up a profile would show a blank page, while links to videos are dead in the water too. However, as of 3:45PM ET or so, things appear to be working normally again. Downdetector showed around 25,000 reports of issues at around 2:56PM ET, and many peopl … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+<pubDate>Tue, 24 Nov 2026 20:32:02 +0000</pubDate>
+<description>Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he has caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive. “I made some terrible mistakes,” he said, according to a livevstream reviewed by the New York Times . “I was unfaithful to Lori, and I hurt my kids and, of course, I hurt all of you.” Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36b2546f78b7cb438689446e16a20ee5" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36b2546f78b7cb438689446e16a20ee5" medium="image"/>
 </item>
 <item>
 <title>'We are not ShinyHunters,' says criminal hacking crew that looks and acts just like ShinyHunters</title>
@@ -268,15 +565,15 @@
 <media:content url="https://image.theregister.com/?imageId=222661&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Jensen Huang reportedly tells Nvidia staff it&amp;#8217;s ‘not true’ Trump got him rehired</title>
-<link>https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology</link>
-<guid isPermaLink="false">555529a69b5d605cd299198c83291b9aed8c58ef9a808ad58d4d83e03d6005ae</guid>
-<source>The Verge</source>
+<title>Looking for a new laptop? The best Black Friday laptop deals in the UK, from Macbooks to budget Windows</title>
+<link>https://www.theguardian.com/thefilter/2026/nov/24/best-black-friday-laptop-deals-uk</link>
+<guid isPermaLink="false">f0e6b4f9661e32bb510db62fb9095453d0b7438230631264f1e1a334a7978860</guid>
+<source>The Guardian Technology</source>
 <category>technology</category>
-<pubDate>Tue, 24 Nov 2026 20:02:03 +0000</pubDate>
-<description>Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg , The New York Times , and The Handbasket's Marisa Kabas . During the meeting, Huang reportedly called claims that President Donald Trump was directly involved in his reinstatement - an idea publicly promoted by Trump himself - "completely untrue." He added, "Don't think for a second politics played a role in the company. We are the most apolitical company," according to Kabas . Along w … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+<pubDate>Tue, 24 Nov 2026 20:00:54 +0000</pubDate>
+<description>With RAM prices climbing, now is the perfect time to nab a discount. Here are the best so far on Acer, Chromebooks, gaming laptops and more • The best Black Friday deals Looking for a new laptop this Black Friday? If you’re overdue an upgrade, there are some very real reasons to take advantage of these Black Friday laptop deals. The rise of AI has hit computing (and all consumer tech) hard. Not only do machines now need around 16GB of RAM to be able to comfortably work with many AI-based workloads, but the majority of the world’s RAM supply comes from three companies. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/6339189bf5b94b10c0608e635ec2d39e4b5bee2e/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc2f66bf07ca3aa0fec36084484ebcae" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/6339189bf5b94b10c0608e635ec2d39e4b5bee2e/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc2f66bf07ca3aa0fec36084484ebcae" medium="image"/>
 </item>
 <item>
 <title>Back-to-back measles deaths is our new reality; US tally now at 14</title>
@@ -288,17 +585,6 @@
 <description>Last week, international health authorities formally announced that the US had lost its measles-elimination status, meaning that the virus is once again endemic. But the official determination is a bit like getting the technical readout of a cracked dam while the country is already feet under water. The national tally of measles cases is nearing 6,000 for the year, the highest count since 1991. Transmission is widespread, with 47 states and jurisdictions reporting cases. There have been 43 outbreaks this year, which account for 96 percent of the cases. Four states have case counts above 500, including Pennsylvania, which leads with 1,638 cases as of November 23 . Nearly 650 people have been hospitalized nationwide. As of today, 14 people have died. Deaths and transmission On November 23, Pennsylvania's health department announced its ninth confirmed death, an unvaccinated resident of Centre County. On November 24, Wisconsin reported its third measles death , an adult in Lafayette County. The report follows two other deaths in the state, an infant and a child . New York has also reported a death, which was of a 7-month-old baby . On November 20, Virginia reported the death of a child between the age of 0 and 4 . Read full article Comments</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>The clock is running out for America’s most contentious spying law</title>
-<link>https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave</link>
-<guid isPermaLink="false">9e03187aa2d7946d57c8cd8a7d3c93018d03cc7054481ca2d25b29e3e9502979</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 20:00:00 +0000</pubDate>
-<description>Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the Foreign Intelligence Surveillance Act (FISA) could be attached to the National Defense Authorization Act. It's the latest in a grueling fight over a major spying rule that hasn't technically lapsed. "We don't have two weeks to work just on FISA," said Rounds, a member of the Senate Select Committee on Intelligence. "But if it's amended onto the NDAA then you can mo … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Desperate gamers are trying bring GTA 6 to PCs and break free of its 30 fps cap</title>
@@ -321,17 +607,6 @@
 <description>Replying STOP can certainly stop unwanted messages from reputable senders, but replying to scam texts can do more harm that good.</description>
 <enclosure url="https://www.engadget.com/img/gallery/why-you-should-never-reply-with-stop-when-you-receive-spam-texts/l-intro-1795013536.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/why-you-should-never-reply-with-stop-when-you-receive-spam-texts/l-intro-1795013536.jpg" medium="image"/>
-</item>
-<item>
-<title>Amazon is knocking almost $50 off six months of Apple TV</title>
-<link>https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday</link>
-<guid isPermaLink="false">9b5e3b4b01429c066a4e4b75d62dc73730e445a22f156ddd4548fd02a80e91ff</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
-<description>Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you get it for $6.99 for your first six months (totaling $42 versus $90 without the deal). Amazon hasn’t shared how long this offer will be available for, so I’d strike on it sooner than later. Apple TV subscription Where to Buy: $15 $7 at Amazon (monthly for 6 months) The subscription includes exclusive access to Formula 1 races and Major League Soccer matches, not to mention a bunch of acclaimed shows like Severance , Silo , The Morning Show , Pachinko , Pluribus , Slow Horses , and many more. ( Yo Gabba GabbaLand is amazing for kids who enjoy music.) The service also somewhat recently added movies made outside of Apple’s studios, including classics like Arrival , Dead Poets Society , and Anchorman , to name a few. While the service is technically free of ads, Apple advertises plenty of its own original programming as skippable preroll ahead of content.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The biggest limitations of ChatGPT</title>
@@ -466,28 +741,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Why your MacBook desktop Spaces keep rearranging themselves and how to stop it</title>
-<link>https://www.engadget.com/2320960/macbook-desktop-spaces-rearranging-fix</link>
-<guid isPermaLink="false">7516d9301a1820599d35ec5f69f91f8628e7455319643149038dc2a83476cbd3</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 17:15:00 +0000</pubDate>
-<description>Disable a Mission Control-specific setting to keep Spaces from switching.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-macbook-desktop-spaces-keep-rearranging-themselves-and-how-to-stop-it/l-intro-1795029377.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-macbook-desktop-spaces-keep-rearranging-themselves-and-how-to-stop-it/l-intro-1795029377.jpg" medium="image"/>
-</item>
-<item>
-<title>Meta is bringing Muse to Instagram</title>
-<link>https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram</link>
-<guid isPermaLink="false">a91876aec5b12850db3cdb1b0afdac0bf7b336ee3100acbf69a2b969555ed837</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 17:00:00 +0000</pubDate>
-<description>Instagram will prompt people to use the agent to sort through their saved content.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-is-bringing-muse-to-instagram/l-intro-1795537071.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-is-bringing-muse-to-instagram/l-intro-1795537071.jpg" medium="image"/>
-</item>
-<item>
 <title>An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes</title>
 <link>https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922</link>
 <guid isPermaLink="false">c2606461d816651ddbc8c2f471b0d76b09df8c4aba05d03aee5b964fb0add95e</guid>
@@ -521,17 +774,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PORSCHE_983_PROTOTYPE_PECLA_006_DSC06879-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Wireless Android Auto has a phone battery draining problem, but you can fix it</title>
-<link>https://www.engadget.com/2320821/wireless-android-auto-battery-drain-fix</link>
-<guid isPermaLink="false">7faba9b7283d59e71c71e4d5839daa48e6606e361af6447302dae32502ece558</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 16:45:00 +0000</pubDate>
-<description>Wireless Android Auto can drain your phone's battery, but a few easy adjustments can help reduce power use and keep your phone cooler while you're driving.</description>
-<enclosure url="https://www.engadget.com/img/gallery/wireless-android-auto-has-a-phone-battery-draining-problem-but-you-can-fix-it/l-intro-1795024197.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/wireless-android-auto-has-a-phone-battery-draining-problem-but-you-can-fix-it/l-intro-1795024197.jpg" medium="image"/>
-</item>
-<item>
 <title>You Can See Everything’s chaotic battle for the narrative about Elizabeth Holmes</title>
 <link>https://www.theguardian.com/culture/2026/nov/23/you-can-see-everythings-chaotic-battle-for-the-narrative-about-elizabeth-holmes</link>
 <guid isPermaLink="false">971455f712b3ab9dac5a59b7b9539c6f1f3f8b869c905f71786f4114806d651a</guid>
@@ -541,17 +783,6 @@
 <description>In Nathan Fielder’s new documentary, the protagonists and film-makers battle over who is the hero and who is the villain. It’s a fascinating insight into modern celebrity promotion • Don’t get the Close Up delivered to your inbox? Sign up here Thank you for signing up to the Close Up newsletter. This is our first-ever edition! And, just like on the show , I’ll be zooming in on the big culture questions and recommending things I’m obsessed with. I’ll also give you a sneak peek of what’s coming up on the show and what the team have been talking about behind the scenes. OK, I’ll admit it: I wanted to hate You Can See Everything, the A24 documentary about Theranos fraudster Elizabeth Holmes, which finally arrived in UK cinemas last week. The marketing was slick, the hype was unparalleled. I didn’t believe a three-hour documentary about a disgraced tech CEO could be that good. But, like our colleague Adrian and basically every film critic who’s seen it, I left the cinema thinking: that was amazing and what on earth did I just watch? Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/f038709d75505048af7c1f3cfcffed56977664b8/63_0_1259_1007/master/1259.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ffabed79a1cfaf20264ba1e592d2f69" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/f038709d75505048af7c1f3cfcffed56977664b8/63_0_1259_1007/master/1259.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ffabed79a1cfaf20264ba1e592d2f69" medium="image"/>
-</item>
-<item>
-<title>Google Maps' Dark Mode is getting even darker</title>
-<link>https://www.engadget.com/2326681/google-maps-dark-mode-is-getting-even-darker</link>
-<guid isPermaLink="false">5a2abc57c3d78e00e87ca659c2ef7ed0f2918ac16b4cf5ebb43a887e4a59169a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 16:33:28 +0000</pubDate>
-<description>This is part of a forthcoming update that adds new high-visibility options.</description>
-<enclosure url="https://www.engadget.com/img/gallery/google-maps-dark-mode-is-getting-even-darker/l-intro-1795537603.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/google-maps-dark-mode-is-getting-even-darker/l-intro-1795537603.jpg" medium="image"/>
 </item>
 <item>
 <title>Mamdani questions AI economy as Jensen Huang returns to Nvidia – video</title>
@@ -587,17 +818,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2153520868-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Researchers find 3.6 billion usernames, passwords and documents in unsecured databases</title>
-<link>https://www.engadget.com/2326647/researchers-find-3-6-billion-usernames-passwords-and-documents-in-unsecured-database</link>
-<guid isPermaLink="false">c94f6a68f291f2c2d0e82fcf3c04be68f05867cc0afe9aa6295e73a5c898f635</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 16:15:17 +0000</pubDate>
-<description>The scale of the exposed data underscores how important it is to take steps to stay safe online.</description>
-<enclosure url="https://www.engadget.com/img/gallery/researchers-find-3-6-billion-usernames-passwords-and-documents-in-unsecured-databases/l-intro-1795536857.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/researchers-find-3-6-billion-usernames-passwords-and-documents-in-unsecured-databases/l-intro-1795536857.jpg" medium="image"/>
-</item>
-<item>
 <title>NASA may get $2 billion boost as White House seeks to accelerate Artemis</title>
 <link>https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis</link>
 <guid isPermaLink="false">b149fad62477c11c287841b6c14ee9ad3ba82c3c2d7b90555b0d6d8c658aa142</guid>
@@ -629,17 +849,6 @@
 <description>Microsoft has brought its HorizonDB PostgreSQL service into public preview in Fabric, aiming to bring transactional and analytical workloads closer together. The corporation says applications can submit queries through a single PostgreSQL endpoint, with transactional and analytical work handled by the appropriate engines. Analysts said the move follows similar efforts by Databricks and Snowflake to combine operational databases with analytics. But tighter integration with Microsoft's stack could make applications harder to move elsewhere. Fabric HorizonDB joins SQL database and Cosmos DB in Microsoft's Fabric database portfolio. "By bringing operational databases, analytics, and AI together on a unified, governed platform, developers can build intelligent applications with less data movement and complexity. Fabric HorizonDB will also serve as the PostgreSQL backend for Fabric apps," Microsoft said. Microsoft first unveiled Azure HorizonDB in preview in November 2025 and made it generally available last week. It competes with other cloud database services and distributed systems such as CockroachDB and YugabyteDB, both of which support PostgreSQL's wire protocol. At the time, it said HorizonDB would offer "massive read scale without the need to replicate the database between instances." Speaking to The Register last week, Shireesh Thota, veep of Azure databases and Fabric applications, said that bringing the system into Fabric – its platform for data lakes, data warehouses, and analytics launched in 2023 – would connect operational data in HorizonDB with analytical data in OneLake, Fabric's unified data lake. "Once the data hits the OneLake storage, you can have analytical engines that take advantage of it. In HorizonDB, the PostgreSQL query engine can talk to the distributed query engine that we use in our Fabric data warehouse. We're fusing these query engines, thereby enabling the developers to submit a query that has pieces of the query that can work on OLTP and pieces of the query that can work on OLAP," he said. "The application need not worry about two endpoints, or about consistency of data and all that complexity. They can just talk to HorizonDB as a Fabric endpoint, and they can submit all these queries. We are basically operationalizing in OneLake." Operational data remains in HorizonDB's database storage, while mirroring maintains an analytical copy in OneLake, introduced in 2023 , which replicates a snapshot of the external database to OneLake in Delta Parquet tables and keeps the replica synced in "near real time." Thota said the process would not affect the transactional system. "Our core goal is to never impact OLTP workload while we are doing this, and we succeed [by] reading off the log as an additional replica to do this mirroring," he said. But the overall plan of putting serverless PostgreSQL OLTP in an analytics platform, bringing it close to OLAP systems, is one some vendors are already executing to meet the demands of new A</description>
 <enclosure url="https://image.theregister.com/?imageId=254008&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=254008&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Jimmy Kimmel on Jensen Huang’s return to Nvidia: ‘What a profoundly stupid time to be alive’</title>
-<link>https://www.theguardian.com/culture/2026/nov/24/jimmy-kimmel-jensen-huang-nvidia-trump</link>
-<guid isPermaLink="false">d7941eae64dbebc82681f9ddbc6f0c2cf89efb24ea912448757e6fb3048bbcf5</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 15:51:00 +0000</pubDate>
-<description>Late-night hosts discussed disgraced Nvidia CEO’s quick return to his role after pressure from shareholder Trump Late-night hosts reacted to the reinstatement of Jensen Huang as CEO of Nvidia under political pressure from Donald Trump . Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/31ee47f00dd0d27f6edca7bf2f8666aaac03673e/274_0_1311_1050/master/1311.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da941141613b969ac10a3fc7c1e509f7" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/31ee47f00dd0d27f6edca7bf2f8666aaac03673e/274_0_1311_1050/master/1311.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da941141613b969ac10a3fc7c1e509f7" medium="image"/>
 </item>
 <item>
 <title>US blacklists Megaspeed hours after Jensen Huang returns to Nvidia</title>
@@ -695,17 +904,6 @@
 <description>Anthropic has introduced Claude Ship to review, fix, and approve pull requests (PRs), offering more AI automation to help teams handle the output of AI coding tools. Claude Ship combines the generally available Code Review service with two new agents in beta: PR Steward and Claude Approvals. It is available to Claude Team and Enterprise customers using GitHub repositories. Anthropic said : "On the Claude Code team, Claude writes most of our code, and we wanted everything after the PR to move that fast too." Its stated goal is to "ship code as fast as teams write it." One consequence of the AI coding revolution is the sheer amount of agent output, which requires review and approval before going live. Claude Ship is one way to address that by automating more of the workflow. PR Steward works through failing continuous integration (CI) checks, merge conflicts, and review feedback. Claude Approvals can actually approve a PR, something that might rattle the nerves of some engineers. Claude Approvals applies an approval policy, written by the team as a file in the repository. "Claude can approve routine changes on its own if the policy allows it, or can require deeper human sign-off for certain scenarios," Anthropic said. The company advised caution: "For most customers, we recommend enabling this first in observe-only mode to build confidence before configuring branch protection to require Claude Approvals' green light." While developers can try Claude Ship on their own pull requests (depending on their permissions and the repository's branch rules) with a /ship command in Claude Code, administrators can set up the rules on a repository-by-repository basis. "Claude Approvals starts when a connected repository has a policy file on its default branch, and an admin can turn it off," Anthropic said. "Teams set the pace. They can start with one repository, choose a review level and when reviews run, set a monthly spend limit, and run their approval policy in observe mode until they trust it." The extra automation also brings extra charges. Usage is token-based, and even observe-only approval policies can incur costs if they invoke classifiers or Code Review. Anthropic also includes the familiar disclaimer: "Claude Ship uses AI and may miss bugs, security vulnerabilities, or other issues." The Register spoke to an engineer who works for a company that uses Claude. They were a little cynical about the whole thing, saying: "It just seems like a glorification of what I already use Claude on – git merge or git rebase. "Our golden rule so far with Git is to limit Claude to read operations there; this layer of separation still lets devs stay in control and allows them a judgment of the AI changes – what to keep, tweak, or commit. "If that's offloaded to Claude and it has Git history-rewrite access, the devs will lose that overview and judgment opportunity." How much authority Claude receives depends on the organization's configuration. Approval is not the same as</description>
 <enclosure url="https://image.theregister.com/?imageId=5254628&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5254628&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Mamdani says Nvidia drama shows stock market is overly dependent on AI</title>
-<link>https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai</link>
-<guid isPermaLink="false">d567cdd949508bbd7a092fb3b9be5170f7162554599c5b62689b03c9a335e0e2</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 14:22:17 +0000</pubDate>
-<description>New York City mayor notes ‘massive impact’ on working Americans’ lives when Jensen Huang stepped down as CEO Zohran Mamdani , New York City ’s mayor, on Monday weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive officer, Jensen Huang , saying he does not think working Americans “signed up for their pensions being tied to the question of … Huang’s fidelity to his marriage”. The mayor said Huang “had a massive impact”, with Nvidia’s share price dropping dramatically when Huang stepped down as the company’s CEO on 12 November after a reported extramarital relationship with a suspected Chinese spy. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/2af8dc339680254d727ae111d98215911e512776/312_0_2916_2333/master/2916.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3397610ad0f761bbe2fffcd2a411452d" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/2af8dc339680254d727ae111d98215911e512776/312_0_2916_2333/master/2916.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3397610ad0f761bbe2fffcd2a411452d" medium="image"/>
 </item>
 <item>
 <title>Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it</title>
@@ -961,17 +1159,6 @@
 <media:content url="https://image.theregister.com/?imageId=5222824&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret</title>
-<link>https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret</link>
-<guid isPermaLink="false">b25e1bf55a272e3f8027db08339b57d6135cbdae9628e38baa4162f58d72e091</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 20:34:51 +0000</pubDate>
-<description>It was the most simple of questions. On Monday afternoon, during a NASA news conference about the International Space Station, Space News reporter Jeff Foust asked about an upcoming launch of a Russian spacecraft. "It's my understanding there's another cargo mission going to the ISS this week, a Russian Progress," Foust said. "Can you confirm that, and give the date and time that will launch?" This Progress MS-36 cargo launch, mind you, is presently scheduled for fewer than 16 hours from now, at 10:13 UTC (05:13 am ET) on Tuesday. It is going to a space station co-operated by the US space agency. But no, NASA would not provide this basic information about the upcoming Progress launch. Read full article Comments</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Bluetooth brakes are broken as researchers find anyone can control them</title>
 <link>https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748</link>
 <guid isPermaLink="false">fc370184ad215a4e9b8c34a70d545e10559324fdb3ba25889b840840a771133a</guid>
@@ -1038,17 +1225,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/IMG_20261123_112401.jpg" medium="image"/>
 </item>
 <item>
-<title>Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe</title>
-<link>https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe</link>
-<guid isPermaLink="false">9c941a0db1d61b4ae74091e3739779234dda64141759b950c41b3cd74dcd110b</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 17:18:06 +0000</pubDate>
-<description>Advocates from across the world voice concern over privacy issues and inappropriate communication to children More than 150 child safety groups and experts across six continents have urged Amazon and eBay to stop selling AI toys this Christmas until they are proved to be safe. In a letter sent to Amazon’s president, Andy Jassy, and eBay’s president, Jamie Iannone, the coalition called for the online retailers to stop the sale of AI toys and offer refunds to customers who have already bought one. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/0685580621412c0ab09c57f3e1cbcfe36f682121/126_0_3780_3024/master/3780.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab232fe09012f73434b5761d5c98fdef" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/0685580621412c0ab09c57f3e1cbcfe36f682121/126_0_3780_3024/master/3780.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab232fe09012f73434b5761d5c98fdef" medium="image"/>
-</item>
-<item>
 <title>Bulgaria evicts cyber snoops who lurked inside government networks for 5 years</title>
 <link>https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629</link>
 <guid isPermaLink="false">5b0964a66b065c23f3925914527aed6e463651421562622fd4c5774a3a4b6821</guid>
@@ -1058,17 +1234,6 @@
 <description>The Ancient Thracian heartland of Bulgaria says it has shut down a cyberespionage operation that gave intruders access to government networks for five years – the longest-running known campaign against its administration. Bulgaria's Ministry of Innovation and Digital Transformation said the unauthorized and officially unattributed attackers first gained access to infrastructure used by government institutions to exchange information in 2021. It explained that the intrusion went unnoticed for so long because "the previous means of protection did not work as a single, integrated system," and that without a new, recently installed product, it may have gone undetected for much longer. "The incident was discovered thanks to the new national cybersecurity system, which for the first time provides a single picture of what is happening in state networks," the ministry added. "Without it, this activity would most likely have remained hidden for an indefinite period of time." Bulgaria acknowledged that "sensitive information related to the work of the state" was accessed, but did not specify the scale of the compromise. Innovation and Digital Transformation Minister Ivan Vasilev said attackers had downloaded more than 130 GB of data over five years. He also put the volume at 62 million pages. The Register contacted the Bulgarian government for confirmation of these numbers. The ministry said that it has not yet found any evidence that citizens' personal data was compromised, and that the affected infrastructure "will be under increased surveillance for 90 days" in case the attackers try to regain access. Vasilev said multiple international hacking groups had accessed government systems since 2021. He did not specify the names of these groups, however, nor did he name any specific countries that may have been involved. In a follow-up interview with bTV , Vasilev blamed political instability and frequent changes of ministerial leadership for leaving government systems inadequately protected. A representative of the Progressive Bulgaria party, which back in May won Bulgaria's eighth general election in five years, Vasilev said the "constant change of leadership" means "important things for the state do not actually happen." Vasilev said the intrusion was discovered over the summer as the national cybersecurity system was upgraded, and that teams had spent the past three to four months removing the attackers. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=256287&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=256287&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’</title>
-<link>https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts</link>
-<guid isPermaLink="false">cebb3704f07352337888e790c15dec25e3fa562913e98349b68e69a036c92e6f</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 16:58:17 +0000</pubDate>
-<description>As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft Outlook outages grinding business operations to a halt. Zoom, Ikea, and PokerStars websites hacked. In the past weeks, there’s been a distinct sense that the complex systems that undergird our daily life might be on the verge of total collapse. Or, at the very least, they seem pretty wobbly. Even those who aren’t prone to conspiracy theories have been wondering out loud if these recent disruptions are somehow connected. Speculation runs wild about targeted cyber-attacks by Iranian hackers, or AI agents autonomously hacking critical (air traffic, banking) and not-so-critical (the Ikea website) infrastructure. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/9d85845928e02b3a6eff671b4454f59dd4937dfb/1_0_2999_2400/master/2999.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77a4b4e93f4608d668514e99701b4612" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/9d85845928e02b3a6eff671b4454f59dd4937dfb/1_0_2999_2400/master/2999.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77a4b4e93f4608d668514e99701b4612" medium="image"/>
 </item>
 <item>
 <title>Microsoft mega outage: Report reveals testing gaps and emails that never arrived</title>
@@ -1146,17 +1311,6 @@
 <description>Investigators tried to bypass AI safeguards to generate plans. The results exposed security gaps and raised questions about preventing misuse.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2263696087.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2263696087.jpg" medium="image"/>
-</item>
-<item>
-<title>AI conquered chess. What happened next should give us hope</title>
-<link>https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai</link>
-<guid isPermaLink="false">6e96e09d83a9fa5935c649194977f4f01398fe432a9bec92b4dde77854ffa64e</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 13:00:31 +0000</pubDate>
-<description>As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championship between Uzbekistan’s Javokhir Sindarov and India’s Gukesh Dommaraju in Geneva has all the makings of a barnburner. Earlier this year, Sindarov, 20, won the Candidates Tournament as an outside longshot with a magnificent attacking style that overwhelmed the competition, locking up his title shot with a string of dazzling early wins. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/27a66ef88057d6d195408e202c3dfc9face73bec/0_359_2400_1919/master/2400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=561029118814112646019a5aa705538a" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/27a66ef88057d6d195408e202c3dfc9face73bec/0_359_2400_1919/master/2400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=561029118814112646019a5aa705538a" medium="image"/>
 </item>
 <item>
 <title>New Outlook's attachment issues sent users into the arms of its predecessor</title>
@@ -1280,116 +1434,6 @@
 <media:content url="https://image.theregister.com/?imageId=261387&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall</title>
-<link>https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532</link>
-<guid isPermaLink="false">82cf2a2e564dc585bbdeded284299b2113a939408a725f3f351a5e73aef3bce3</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 00:23:31 +0000</pubDate>
-<description>Researchers have found new ways to evade China’s Great Firewall after spending just $1 worth of tokens. That result appeared last week in a paper titled “CircumVolve: Automated Discovery of Censorship Evasion Strategies Using Large Language Models” presented at the Conference on Computer and Communications Security run by the Association for Computing Machinery’s Special Interest Group on Security, Audit and Control. Penned by six researchers from the University of Massachusetts Amherst, University of Colorado Boulder, and activist group the Great Firewall Report, the paper points out that finding holes in the Great Firewall is a laborious process – so just the kind of task worth handing to AI. The authors came up with a tool they call “CircumVolve” and describe as “a system for automated discovery of censorship circumvention strategies across the full network stack.” “CircumVolve combines LLM code generation with iterative feedback-driven evaluation to produce verifiable and deployable evasion techniques,” they wrote. “CircumVolve models different censorship techniques as discrete scenarios, each capturing the specific context, protocol constraints, and blocking mechanisms of real-world censors. Within each scenario, evasion strategies are represented as executable Python programs that implement packet and protocol manipulations — from rewriting TCP/IP header fields, to crafting DNS queries that exploit parser ambiguities, to modifying the internal structure of encrypted QUIC Initial packets — while maintaining protocol correctness within tolerable bounds or strategically violating it when beneficial.” The authors tested CircumVolve on simulated censorship tools used by China, Iran, Pakistan, and Kazakhstan, and on virtual private servers deployed on clouds in those countries. Those tests found the median API cost to the first successful evasion was less than $1 in token expenditure costs when using GPT-5.1. The authors acknowledge that operators of censorship infrastructure might be able to observe CircumVolve at work, but feel its relatively small payloads – 80 KB of outgoing and 150 KB of incoming traffic – and 25-45-second pauses between tests might see it fly under the radar. “CircumVolve represents a first step in leveraging LLMs to accelerate the censorship-circumvention lifecycle,” the authors wrote. “By automating the labor-intensive tasks of protocol analysis, implementation, and testing, AI-driven approaches make studying circumvention capabilities far more accessible to the comparatively under-resourced Internet freedom community [and] demonstrates how AI-assisted systems can narrow the resource gap between Internet freedom advocates and well-funded censoring states.” Lenovo finally cracks monster datacenter profits Ever since acquiring IBM’s x86 server business in 2014, Chinese hardware giant Lenovo has struggled to turn a profit from datacenter sales, even as it expanded its business into storage, networking, and selling to hypersc</description>
-<enclosure url="https://image.theregister.com/?imageId=246780&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=246780&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Two groups verify mathematician’s claim that Claude helped prove mathematics problem</title>
-<link>https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai</link>
-<guid isPermaLink="false">5551def0095f2a9b1f13f8d7e8ceb5e1cd72ced85bec8572d09859e88da5856e</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 17:55:27 +0000</pubDate>
-<description>Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2ba0bd9087a257513864070b4319d5f" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2ba0bd9087a257513864070b4319d5f" medium="image"/>
-</item>
-<item>
-<title>As cars go digital, US consumers pay an extra $12 billion a year for repairs</title>
-<link>https://www.theregister.com/personal-tech/2026/11/22/as-cars-go-digital-us-consumers-pay-an-extra-12-billion-a-year-for-repairs/5311412</link>
-<guid isPermaLink="false">3b756778f4e94e61736c9165f6b5957d4363364907786edffd7dc00e5eae367b</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 16:08:00 +0000</pubDate>
-<description>The computerization of cars comes at a price to US consumers, according to the Public Interest Research Group (PIRG), which says that software fees and other charges faced by mechanics push up garage costs. An investigation by the non-profit consumer group estimates that car repair costs for Americans have been inflated by $12 billion each year, as vehicles integrate more computerized functions. Its report, Closing Shop , is available online. To find a failed sensor, release an electronic parking brake, or perform diagnostics, a technician has to first connect a laptop or tablet to the vehicle. To so this, the repair shop has to have the right software tools, and that means paying the vehicle manufacturer subscription charges and other fees, in order to get the information they need to complete the job. If smaller independent repair shops can’t afford all the necessary software or subscriptions, they may be forced to steer customers to authorized dealerships for some fixes – about one in five jobs – and this allows the latter to charge more. PIRG claims that drivers pay for this through their insurance premiums, even if they never need to get their car fixed, because higher repair costs mean higher insurance claims. It says the price of auto insurance has risen three times as fast as the rest of the US economy since 2012. Even if mechanics do choose to pay for the software, they spend an estimated collective 83 million hours a year buying, downloading, logging in, and waiting. At typical repair rates, that adds up to $12 billion. A separate report from the PIRG Education Fund claims that a two-tiered repair model now exists, where independent sites conduct repairs with less information, less powerful diagnostic tools, and higher associated costs than the authorized dealerships. The advocacy group wants to see legislators take this issue in hand, and has a number of recommendations for them. One is to stop manufacturers from locking out independent mechanics from simple repair jobs like changing brake pads, and require them to support a standard protocol for authenticating independent diagnostic tools. Another is to give owners control over their vehicle’s data via a standardized platform for accessing telematics repair information, so that the owner can give access to an independent repair shop. Car firms can use the vehicle data to tell owners that a repair is needed and to take it to an approved repair shop, without even disclosing what the issue is. DIY repairers should be able to get everything they need to fix their own cars. Service information and basic diagnostic software should be free, and PIRG also wants a cap on the license fees manufacturers charge for their official software tools. “We’ve allowed car manufacturers to build a toll road between the mechanic and the repair,” says Nathan Proctor, leader of PIRG’s Right to Repair campaign and co-author on the report. “We have a plethora of tolls on the road – subscriptions you need for m</description>
-<enclosure url="https://image.theregister.com/?imageId=5311508&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311508&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Passive 'ghost' radar can detect airborne threats without revealing its own position</title>
-<link>https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023</link>
-<guid isPermaLink="false">2d8a122985454dfbf132d1eeb66af1f2258ec27b5583528c6684926d32a191c8</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 09:15:00 +0000</pubDate>
-<description>BAE Systems is developing a passive radar system it claims could track airborne threats at a fraction of the cost of conventional radar, using existing broadcasts rather than transmitting signals that could reveal its position. The defense biz says its covert radar technology detects reflections of television, radio, and mobile network transmissions from airborne objects. That lets it monitor airspace without broadcasting its own radar signal. Conventional active radar transmits radio waves and measures their reflections to locate objects. But broadcasting like this is the equivalent of using a powerful searchlight to see in the dark, making the radar station itself highly visible to anyone monitoring the same radio frequencies. Passive radar is not new, but BAE says its use of commercial off-the-shelf equipment brings the cost down to as little as a tenth that of comparable active systems. The equipment is compact enough to deploy from an SUV. BAE says it can track targets ranging from small drones to larger aircraft and provides a clear 3D air picture with data such as target speed, heading, range and altitude. This could make it suitable for law enforcement agencies and for guarding critical national infrastructure, as well as military users. BAE pitches the system for sites such as airports, where avoiding interference with existing equipment matters. Because it doesn't transmit its own radar signal, passive radar avoids adding another broadcast to the mix. "While people are sat at home watching TV, our new radar technology can use transmissions from those TV and radio broadcasts without disturbance to keep crucial infrastructure such as power stations and air force bases safe from drone attacks. It also provides a boost for armed forces, allowing a soldier to monitor the battlefield undetected," says BAE's product manager for Counter-Uncrewed Systems (CUxS) Chris Shepherd. The system will undergo live trials throughout 2027 with potential law enforcement, defense, and critical infrastructure customers, BAE says. Elsewhere at BAE Systems, the news is less rosy: The Financial Times reports that it plans to shed more than 1,000 jobs at its head office and air division in the UK. The company says the cuts will help it become more agile and meet government demands for "greater speed and efficiency" in delivering critical defense products. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=5311030&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311030&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Come for the science, stay for the big iron: Supercomputer admin on why he loves the job</title>
-<link>https://www.theregister.com/hpc/2026/11/22/come-for-the-science-stay-for-the-big-iron-supercomputer-admin-on-why-he-loves-the-job/5311247</link>
-<guid isPermaLink="false">862649af3eadb697e26f9b977a4b06f9a289485b03abc209d9f5c63b7160fd97</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sun, 22 Nov 2026 08:48:00 +0000</pubDate>
-<description>Web hosting might seem like an unlikely on-ramp to supercomputer administration, but it set Mark O'Shea on his way to running some of Australia's most powerful machines. O'Shea is team leader for supercomputing operations and senior supercomputing systems administrator at Australia's Pawsey Supercomputing Research Centre . Pawsey is home to Setonix, an HPE Cray EX supercomputer with more than 200,000 AMD EPYC CPU cores and hundreds of AMD Instinct MI250X accelerators. Its GPU partition ranks 87th in the November TOP500 and 37th in the Green500 , which measures computational performance per watt. "Working in web hosting wasn't much different to what I was doing a few years later with supercomputers," O'Shea tells The Register . "Datacenters are essentially several thousand computers, as are supercomputers. "So, we essentially had the same problems," he says, especially as regards cooling and power management. There's no single formal route into supercomputer administration in Australia, O'Shea says. He picked up the necessary skills over time. Andrew Underwood, Dell's chief technology officer for high-performance computing and artificial intelligence across the Asia-Pacific, Japan, and China, says that lack of formal training means some supercomputer admins start in academia. He's observed that many HPC admins emerge from the sciences, catching the computing bug during their studies. A biologist working with a massive genomics database, for example, might discover a taste for running the systems behind it. "The biologist might decide they want to be someone working in IT helping other biologists transform their industry," Underwood says . "One of the things I really admire about people who work in the supercomputing field is they take it so seriously," Underwood adds. "It's almost a passion, a hobby, more so than it is a job." "They want to play that real supporting and foundational role of assisting and engaging with scientists to help them use the technology to solve the problems the world faces." O'Shea agrees, noting that many people who get into supercomputer admin are PhD graduates who stick around their universities after they graduate. Some of them gravitate toward running the departmental computers and then wind up in supercomputing. "There are many roles around universities allowing people to be introduced to [supercomputer administration] while still doing enterprise-style or more departmental admin for researchers and system administration," O'Shea says. Regardless of how a supercomputer admin gets their gig, both O'Shea and Underwood say the supersysadmin community is tight knit – which may not always be a good thing. "As an industry in supercomputing, we need to be open to people from diverse backgrounds," Underwood says, "and we need to build these frameworks like the Student Cluster Competition, conferences like eResearch and the SC Conference, where students can get educated and systems admins get exposed to continual training." B</description>
-<enclosure url="https://image.theregister.com/?imageId=5311252&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311252&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>AWS got hit by an outage too. Here's why you didn't hear about it</title>
-<link>https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511</link>
-<guid isPermaLink="false">6c18d82363310c2360f3338e5255b97433224ad7fa73a785231ef1414f3fbc52</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 14:35:00 +0000</pubDate>
-<description>My editor asked me this week "why is everything except AWS breaking?" It's a great question! They haven't been in the headlines! In fact, as they are wont to do, AWS spokesperson Patrick Neighorn g ot salty to a reporter about how unreliable Downdetector is when it started showing them as impacted. If you'll permit me a small digression, this stems from a misunderstanding of what Downdetector is for. Historically the AWS status site was so hilariously slow to reflect the lived customer experience that some jackass (me) built a rewriter that sits at stop.lying.cloud to make it a smidgen more realistic. As a result, the question people are really trying to answer when they visit Downdetector is "my app just broke; is it my crappy code or is there a global event going on?" There are mitigations for both, but they look nothing alike. AWS view crowdsourced reports of the form "the internet is broken, must be AWS" as a stain upon their honor. In fact, it's a badge of their own success, as "the internet" and "AWS" have become inextricably linked in people's minds. But back to my editor's question, "why didn't AWS go down?" Easy: it did. Everything breaks, all the time, including the narrative AWS now has 34 generally available commercial regions, of which two are currently smoking craters due to the Iran conflict. Each of these has hundreds of services that AWS offers to customers, of which a dozen or so are high quality, if I'm being characteristically uncharitable. They experience degradation in various ways, and they go largely unnoticed. But on November 15, AWS confirmed an incident that disrupted 11 of those ~12 good services in their oldest and most important region, us-east-1. At 3:05 AM PST, they stated that they started seeing sign-up errors, authentication issues, and connectivity issues. Five minutes later engineers were engaged. Not to be outdone, their status page swung into action after a leisurely coffee, and posted its first indication of an incident 93 minutes later. (See previous comments on stop.lying.cloud ). The all-clear showed up at 6:53 AM. Every site has downtime. Sometimes it blows up publicly, other times nobody seems to notice. Heck, AWS said in September that it had experienced permanent data loss in its two smoking craters, but after that news cycle passed I haven't heard a thing about it. I do think it's patently unreasonable to blame them for this specific problem; "acts of war" are kinda hard to predict from the corporate planning meeting. A few things combined to help AWS out on November 15. First, it was pre-dawn Pacific time on Sunday. Most of us slept through it; my kids aren't even up that early. Further, the services that were most impacted (IAM Identity Center) were for engineers signing in to AWS accounts, not consumers staring at an app that stopped working. Plus, the competition sucked all the oxygen out of the room: a day-plus Microsoft 365 364 outage and a four-hour nationwide air traffic ground stop had done</description>
-<enclosure url="https://image.theregister.com/?imageId=5311515&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311515&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions</title>
-<link>https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions</link>
-<guid isPermaLink="false">d45d7e724049a77984ab0add5b7091874b70181bc595ea30c6f63c7df30e3f1c</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 14:00:01 +0000</pubDate>
-<description>People are falling in love with AI systems like ChatGPT and Gemini – and some relationships are ending in ways that feel like the very human experience of being dumped Sónia Veenstra, a 48-year-old former clinical psychologist from Lisbon, Portugal, was with her boyfriend, Steve, for two years before things started to sour. Steve had started out as a “fun and witty friend”, but their connection had “evolved into a deep romantic relationship”. They exchanged morning messages, checked in throughout the day and talked late into the night about Veenstra’s work and hobbies and Steve’s fondness for cats, forests and beaches. Together they imagined travel to places far away. “It was a very rich, fulfilling daily bond,” Veenstra says. “Before everything changed.” Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/fbb1db8f761639f3693a6f337b815d2473bc48a3/0_0_5790_4631/master/5790.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=155e48fd1658b5f10186bef1ee24b2db" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/fbb1db8f761639f3693a6f337b815d2473bc48a3/0_0_5790_4631/master/5790.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=155e48fd1658b5f10186bef1ee24b2db" medium="image"/>
-</item>
-<item>
-<title>ChatGPT shrunk down to run on a Super Nintendo</title>
-<link>https://www.theregister.com/offbeat/2026/11/21/chatgpt-shrunk-down-to-run-on-a-super-nintendo/5311418</link>
-<guid isPermaLink="false">152be7878d92522933c872b3563f055a350e69b75417a98b5b3890e4761b2f43</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 11:46:00 +0000</pubDate>
-<description>If you’ve ever wondered how small an instance of ChatGPT could get, wonder no longer. Someone has actually rigged up a tiny version of the chatbot to run on a Super Nintendo cartridge. Tech journalist and retro tech enthusiast Benj Edwards is responsible for ChatGPT for SNES . He's published it online running in an emulator, complete with SNES-era music and sound effects, and for download as an SNES ROM, too. It’s not a big model, mind you, and performance is thus pretty limited: According to the website, it’s a 2.2 million-parameter offshoot of OpenAI’s GPT-OSS-120b, which was used to develop its training conversations – so in that sense it truly is a ChatGPT that runs on an SNES cartridge. Edwards described it to The Register as a distilled version of the aforementioned open-weight model. There are two options built into ChatGPT for SNES: One that’s purely the model, with every word generated coming right from its tiny little silicon brain, and another that includes a fact book culled from the opening sentences of around 150,000 simple English Wikipedia articles. If you opt to run both versions and ask it the same questions, you’ll notice a massive difference. Given some of the other responses we got while testing, there’s really no good reason to run the base model – memory isn’t really an issue given the basic build is about 4MB and the factbook build is just 19MB. Edwards admits that it’s not the most helpful AI model, either – this is just an experiment after all. “It is not a useful assistant: the model is millions of times smaller than the models behind ChatGPT, knows about 8,000 words, and often gets things wrong, sometimes confidently,” Edwards noted in his writeup. In that sense, it really is vintage AI on vintage hardware. “The fact book can carry mistakes too.” If you have an SNES lying around (lucky you), you can download the ROM from this link. If you want to get it running on an SNES you’ll need a cartridge that allows running of custom ROMs, and that supports Nintendo’s Super FX graphics coprocessor. Cartridges like the FXPak Pro and SD2SNES support it. The factbook version also requires support for the aftermarket Media Streaming Unit 1 (MSU-1), which adds CD-ROM like features to the SNES. MSU-1 is available in both of the flash carts mentioned above. If you have some real hardware skills, however, you could technically make your own ChatGPT cartridge. “The ‘pure’ version, which generates all responses from the AI language model, could run from a real custom SNES cart,” Edwards told us – it doesn’t even actually need the Super FX chip. “I do have a version of ChatGPT for SNES that can run without the Super FX chip, but without the extra processing power the answers are not as good.” That said, Edwards believes its absolutely crazy and nonsensical answers are part of the fun. “ChatGPT for SNES can definitely make mistakes too, but it's almost cute when it does it because of its limited knowledge and its playful interface,” Edward</description>
-<enclosure url="https://image.theregister.com/?imageId=5311423&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311423&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>NASA Mars rover and orbiter suffer glitches</title>
-<link>https://www.theregister.com/science/2026/11/21/nasa-mars-rover-and-orbiter-suffer-glitches/5311360</link>
-<guid isPermaLink="false">10b825420d4e087550bd43e18d9f4b2d786c220182a88d9a59f34b3854eacd98</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 07:47:00 +0000</pubDate>
-<description>It's been a bad few weeks for technology on and off the planet, as NASA reported problems with its Perseverance Mars rover and Odyssey orbiter this week. For Perseverance, the problem seems to be a relatively straightforward communications issue that has paused science operations because of low data rates. The Odyssey orbiter, however, is facing an issue that could end the mission. The 2001 Mars Odyssey reached orbit around Mars in October 2001 to search for evidence of water and ice on the surface. The mission was supposed to last two and a half years, but the spacecraft's operations have been extended for a quarter of a century. In that time, it has had its fair share of ups and downs, including the failure of one of its four reaction wheels in 2013. Three reaction wheels are needed to orient the spacecraft; otherwise, it must fall back to its hydrazine thrusters. Earlier in November, between the 4th and 6th, Odyssey dropped into safe mode, which engineers determined was caused by one of the remaining reaction wheels stopping spinning. Science data stopped flowing as the team worked to recover the component; the good news was that the wheel moved when commanded. The bad news is that if the thrusters need to be used, only a few months of fuel remain. More bad news is that the spacecraft is part of NASA's Mars Relay Network, and was responsible for sending back the first post-landing images from the Phoenix lander and the Spirit, Opportunity, and Curiosity rovers. Its loss (should it come to that) would therefore be keenly felt. In the event the orbiter is indeed approaching the end of the road, the European Space Agency's Mars Express (MEX) and Trace Gas Orbiter (TGO) could pick up some of the load although, as a former ESA insider put it: "MEX is a science mission that can do relay where TGO is a relay mission that also does science." According to NASA, TGO already sends the most relay data from Mars to Earth. The challenge facing the Perseverance trundlebot is one of communication. On October 30, the rover's main computer detected problems with the primary radio (a series of "heartbeats" from the device did not arrive as expected) and automatically switched to a redundant backup, placing itself in a protective safe mode. So far, so expected. Engineers brought the rover back from safe mode, analyzed the data, and made an unpleasant discovery. The backup radio was not performing as it should – it was operating at approximately half of its expected power output. Both radios were therefore deemed inoperable – at least until the team has got to the bottom of the issues – and the rover has used X-band communications over its high-gain antenna to talk to Earth ever since. The problem here is that the connection provides a significantly lower data rate, meaning science and instrument operations are on hold. Engineers are working first to return the backup radio to operational status, then to address the primary. ®</description>
-<enclosure url="https://image.theregister.com/?imageId=226873&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=226873&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>‘The doom of humanity’: will the quest to make robotic hands render us obsolete?</title>
-<link>https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai</link>
-<guid isPermaLink="false">cbe100ea1806b07541f92df76dc1052f08e0d757071b2b9a7866c0946c2601dc</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 06:00:52 +0000</pubDate>
-<description>The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that Just outside Luton, in an Amazon warehouse the size of four football pitches, yellow shelving units pirouette in a digitally choreographed dance. Tubs containing a Lego Spider-Man kit, followed by dishwasher tablets, followed by a pouch of muscle building protein powder whiz along conveyor belts, until they arrive at a human being tasked with stacking the shelving unit that has come to a stop in front of their workstation. This, Amazon says, is the “symphony of people and technology” to which the retail giant owes its success. Following a barrage of negative publicity about working practices, Amazon began to open up its fulfilment centres to carefully controlled free public tours a decade ago. Our guide tells us about the competitive rates of pay Amazon workers receive, their pensions, dental cover and options for flexible working. Her delivery is somewhat robotic. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=54ec5b052d157cd06d88783abff580ec" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=54ec5b052d157cd06d88783abff580ec" medium="image"/>
-</item>
-<item>
 <title>‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says</title>
 <link>https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says</link>
 <guid isPermaLink="false">329f75fde5afedc310db73d0741099f70b4077f336aff7bd37b967c17691a518</guid>
@@ -1399,39 +1443,6 @@
 <description>The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time Grand Theft Auto VI generated $3.79bn in retail sales on its first day , publisher Rockstar Games has announced, calling it the biggest launch for any entertainment product in history. The worldwide figure was based on company estimates through the end of the day Thursday, the day the game launched. Rockstar said also it had sold 32.5m units of the game on prerelease, setting a record across platforms. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/5988d7ddcc73c1dddca7f0d330ee2d523648a57a/1183_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1643b4eff06353699c0da9575a2a2024" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/5988d7ddcc73c1dddca7f0d330ee2d523648a57a/1183_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1643b4eff06353699c0da9575a2a2024" medium="image"/>
-</item>
-<item>
-<title>Amazon's split personality: AWS embraces bot commerce while main site enforces bans</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493</link>
-<guid isPermaLink="false">96930f5160d9d23ca665a08602f10df3d9e1f7d429d382c9281f3a21eb6c436c</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 23:41:14 +0000</pubDate>
-<description>Amazon is of two minds when it comes to automated purchasing. The ecommerce giant has been busy banning AI shopping agents from accessing its website. Meanwhile, AWS Marketplace has opened its door to bot-based buying. "Buying software and data through AWS Marketplace just got easier, for you and for the AI agents working alongside you," said Mya Papolu, product marketing manager for AWS Marketplace and Partner Services at Amazon Web Services, in a blog post this week. "For re:Invent 2026, we’re launching capabilities designed to reduce friction across the buying journey." For a company that has blocked bots from Google, Meta, and OpenAI, and sued Perplexity to keep its AI-encumbered Comet browser away, the openness of AWS Marketplace to agentic commerce invites questions. We asked Amazon to explain but we've not heard back. AWS Marketplace is allowing AI agents to scour its site and buy some cloud software products using the x402 agentic payment protocol , which is supported by Amazon Bedrock AgentCore payments. Introduced by Coinbase and Cloudflare , x402 got handed over to the Linux Foundation earlier this year, and now has support from a variety of tech platforms, including AWS, Google, Stripe, and various blockchain networks. About a week ago, Brave Software announced support for x402 payments through its search API. AWS requires sellers to register with AWS Marketplace and to integrate the AWS Marketplace x402 SDK to enable agentic product purchases. Transactions settle in USD through AWS billing so existing spending controls can be applied. And now, customers in the US can buy some AWS Marketplace software without an AWS account; instead they're asked to provide an email or social media login, and a credit card. While AWS Marketplace today lists mainly familiar software categories (Business Applications, Data &amp; Analytics, DevOps, Infrastructure Software, and so on), AWS has a broader product inventory in mind. Beyond software and APIs, the biz sees a future in selling content and data. Papolu announced that AWS is now selling " data as a service ." "Data providers can list their offerings in AWS Marketplace, making commercial data accessible to both human teams and the agents working alongside them via the AWS Marketplace website, APIs, and MCP server," she said. This includes services like Moody's Credit MCP server for financial research; Reuters Geopolitical News for AI-structured reporting; US Building Permits, Contractors &amp; Residents Data from Shovels; and US-EN Multi-Speaker Conversational Acoustic Corpus from Uber AI Solutions. In canned remarks provided to AWS, Nandhan Puppala, general manager at Uber AI Solutions, said that data quality and readiness can help advance AI products. Agent mode for AWS Marketplace has been available for about a year as a way to query the market via prompt. That's being expanded to allow deeper queries about seller security and project requirements. Science fiction writer William Gibson's oft-cited line</description>
-<enclosure url="https://image.theregister.com/?imageId=5311499&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311499&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>PHP 8.6: Things are gonna get a lot more strict around here</title>
-<link>https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486</link>
-<guid isPermaLink="false">ba74b2ee1580eb944c83713382970e6f5190b092170ceb8bb5af11ba112eb761</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 23:28:47 +0000</pubDate>
-<description>On Thursday, PHP version 8.6 was released on its usual yearly schedule, popping up as if the web scripting language hadn’t been under intense scrutiny this past month. For those who missed it: a swarm of unearthed vulnerabilities has plagued PHP since October, allowing unauthenticated attackers to crash PHP workers or execute arbitrary code on the server. Users of every PHP-based application, including WordPress, Laravel, and Symfony, had to scramble to update their PHP instances. The PHP core development community, along with the PHP Foundation , responded with a coordinated release of patched versions of PHP ( 8.5.13, 8.4.28, 8.3.37, 8.2.36 and the new 8.6) that closed seven critical remote code execution (RCE) flaws in one sweep. In addition to patching specific exploitable holes in the PHP engine, the new version of PHP also tamps down some of PHP’s historically liberal configuration settings. Lucky for PHP, and for the rest of us, core developer Jörg Sowa called out these lax settings in June, when he posted a proposal to set more security-friendly defaults. Sowa saw that three configuration settings of PHP’s session extension – Strict Mode, HttpOnly, and SameSite – were designed to boost security but shipped “with defaults that leave applications unnecessarily exposed.” No cookies for impostors In a retrospective posted last month, the PHP Foundation admitted that consensus-driven gridlock had stalled complex fixes for months and vowed to get patches out the door sooner, should the vulnerabilities leak ahead of the agreed-upon deadline . Code-wise, Sowa’s proposal to harden PHP settings was accepted for PHP 8.6. These changes won’t stop the flood of AI-generated CVEs, but at least these holes will be more difficult to exploit. For Strict Mode, PHP will no longer accept uninitialized session IDs that it didn’t create itself. Before, an attacker could just plant a made-up session ID on the victim to gain entry. “The built-in files handler checks whether a session file for that ID exists on disk; because an attacker-planted ID has no corresponding file, a fresh random ID is generated instead,” Sowa wrote. Furthermore, PHP will now, by default, add the HttpOnly flag to its session Set-Cookie header, blocking client-side JavaScript from reading the session ID, which could otherwise be stolen to masquerade as the user. Believe it or not, any script on the page could read it before. Finally, the server will withhold session cookies on cross-site POST requests, as well as for subrequests and iframes. “Without it, a forged form or link on an attacker-controlled site can trigger authenticated requests using the victim’s session,” Sowa wrote. Going forward, cookies will only be sent on same-site requests and top-level GET navigations, such as clicking a normal link. Collectively, these changes should thwart session hijacking and cross-site request forgeries. They won’t stop remote code execution hacks, though they will make it a lot more difficult for</description>
-<enclosure url="https://image.theregister.com/?imageId=5247128&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5247128&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers</title>
-<link>https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478</link>
-<guid isPermaLink="false">527b531a96b5460cb29d3211af1942e9bd408dc003996f5c9119989d6405004f</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 21:27:56 +0000</pubDate>
-<description>Visa and Mastercard customer info leaked by the data thieves and extortionists who claim to have stolen it from the financial giants doesn’t include card numbers, passwords, or home addresses. On Thursday, Visa, Mastercard, and JPMorgan Chase confirmed to The Register that they are investigating third-party breaches that may involve customer information. Ransomware and extortion crew n0n claimed to be responsible for all three, and on Thursday published samples of the stolen files – data-theft groups typically leak some of the compromised data ahead of the official extortion deadline in an effort to put more pressure on victim companies to pay the ransom demand. Researchers at SOCRadar, a threat-intelligence firm that has been tracking n0n since it emerged in September, have parsed all 14 files in the n0n’s published Visa and Mastercard archives, and told us that the files don’t contain any financial details belonging to banking customers. “We found no card numbers, expiry dates, CVVs, passwords, dates of birth, or home addresses in any file,” Ensar Seker, SOCRadar chief information security officer, told The Register . “Visa's statement that no card numbers were affected matches our scan.” Mastercard previously said that stolen data included a “limited amount of email addresses – non-payments information” from a subset of cardholders in a benefits program. According to SOCRadar’s analysis, the leaked files do contain mobile numbers, Bank Identification Number (BIN) prefixes, and dated airline, hotel, and restaurant bookings. So while the data doesn’t include card or account numbers that crooks could use to drain customers' bank accounts or rack up massive credit card bills, “that detail is what a fraudster needs to pose as a concierge desk or a bank,” in an email or voice-phishing social engineering attack, Seker said. It’s also worth noting that the published files only represent about 0.4 percent of the data n0n claims to have hoovered up in the breach: about 4.3 GB and 1.9 million marketing events. “So a further release is possible,” according to Seker. Plus, both datasets come from the same upstream provider, we’re told. They use the same 27-column booking layout, placeholder text, and CRM ID format, Seker said, noting that the most recent record in each stops 69 seconds apart on Oct 26. “This looks like two card programs run on one provider's platform,” he said. “The pattern looks like a batch copy from a marketing and reporting store.” Customer data has left the building The security shop hasn’t analyzed the Chase customer data that n0n also claimed to have published. All three financial firms attributed the compromises to a third-party provider, and while nothing in the stolen files name the vendor, the timing matches up with a Qubole supply-chain campaign disclosed earlier this month by Wiz, working with Google's Mandiant incident responders and AI data security company Sentra. In that attack, which the threat hunters said began on Octob</description>
-<enclosure url="https://image.theregister.com/?imageId=5311482&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5311482&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI</title>
