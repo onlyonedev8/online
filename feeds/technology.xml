@@ -4,6 +4,72 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The token factory never sleeps</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/27/sponsored-the-token-factory-never-sleeps/5311612</link>
+<guid isPermaLink="false">b7b6751c3c5a711d0d1cc5939bc9010f32ade6a323d3aef70956557cb95d2cee</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 27 Nov 2026 01:00:00 +0000</pubDate>
+<description>Agentic AI has supercharged demand for inference infrastructure. According to Goldman Sachs, token consumption is set to jump 24-fold to 120 quadrillion tokens per month between this year and 2030. Enterprises, wary of frontier model sticker shock, are now building their own GPU estates to cope. Those enterprises shouldn't blindly follow hyperscalers' lead when taking AI inference kit into production. The indicators of success for such companies are different than those for a frontier model provider, and so are the constraints. DIY AI infrastructure at the enterprise level has to earn ROI quickly, meaning that enterprises must focus on sustained operation. That makes engineering criteria such as uptime, heat and power, service windows, and deployment times doubly important. The performance benchmarks that hyperscalers focus on won't matter nearly as much to the average bank or retailer. ASUS is presenting the ASUS NVIDIA HGX Rubin System , built on the NVIDIA HGX Rubin NVL8 platform, as a worked example of sustained AI inference infrastructure. It announced two models at NVIDIA GTC Berlin in October: the 3U hybrid-cooled XR R1I12B-M1BHFS and the 2U fully liquid-cooled XR R1I12B-M1BLFS . Agents change the compute bill Agents represent a hockey stick curve for token consumption because an agent isn't a single prompt. It loops until the job's done, often spawning other versions of itself in the process. This is how it breaks a goal into steps and works through them iteratively. While training is a batch workload, agent inference is a production service that runs around the clock and only gets bigger. NVIDIA is making each generation of systems more powerful than the last to keep up with the demands of both. Running at scale, day after day, is another matter. A useful way to think about the infrastructure that does it is as a token factory: it takes in power, data and GPU compute and turns out tokens. What counts is throughput, meaning how many tokens, and how many users, the same power and floor space can serve, hour after hour. Enterprises move from pilots to AI factories Enterprises are moving ahead quickly with their AI factory projects. According to Deloitte's AI infrastructure survey , published in March, 64 percent of respondents have started limited or at-scale AI factory deployments, while 88 percent expect to do so by 2028. They are spending more on AI infrastructure to do it: 86 percent expect their budgets to increase over the next three years. Enterprises have different problems from hyperscalers and frontier model companies, though. Model builders often get to design greenfield campuses around their GPUs. Conversely, enterprises are often working with small operations teams in existing datacenters that may not have been built with AI in mind. That means they need to think harder about maintenance windows, existing management tooling and predictable deployment. And they'll often be retrofitting halls whose racks rarely draw more than 30</description>
+<enclosure url="https://image.theregister.com/?imageId=5311615&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5311615&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Backloggd urges users to change their passwords after a breach</title>
+<link>https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset</link>
+<guid isPermaLink="false">6e319c9cb5558aab86db1d3c66fde38661ae70527d831c4eac5846a20f18e140</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 21:26:47 +0000</pubDate>
+<description>If you use Backloggd, you might need to log in again and reset your password.</description>
+<enclosure url="https://www.engadget.com/img/gallery/backloggd-urges-users-to-change-their-passwords-after-a-breach/l-intro-1795728014.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/backloggd-urges-users-to-change-their-passwords-after-a-breach/l-intro-1795728014.jpg" medium="image"/>
+</item>
+<item>
+<title>Netflix’s coziest show has made a very quiet return</title>
+<link>https://www.theverge.com/entertainment/1043489/midnight-diner-season3</link>
+<guid isPermaLink="false">db806ae0be60040dc8e26e95d639b46dce6da817069a69acf96d7817ad2137c9</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 21:00:00 +0000</pubDate>
+<description>The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming , and even games . It makes it easy for some of the best shows to zoom right past you, unnoticed - which almost happened to me with Midnight Diner . If you haven't seen it, Midnight Diner is probably the most comforting thing available on Netflix. The show follows the patrons of a cozy little restaurant tucked away in the backstreets of Shinjuku, which is only open during the unusual hours o … Read the full story at The Verge.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Slow internet? The best wifi extenders and mesh systems to boost your home network – tested</title>
+<link>https://www.theguardian.com/thefilter/2026/nov/26/best-wifi-extender-repeater-uk</link>
+<guid isPermaLink="false">d87934e16a60580396bbfada30ca05a30a7f1151c630d5b87e077e49cecb9d82</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 20:00:43 +0000</pubDate>
+<description>We put 11 range extenders and mesh systems to the test to find the fastest and most reliable for streaming, gaming and working from home • The best office chairs Fast fibre broadband is fantastic – if the wifi signal reaches the part of your home where you need it. Most of us use the router provided by our broadband provider, often tucked away in a hallway or corner of the lounge. Sadly, these often don’t have the range to cover every room in your home, leaving you high and dry when you’re trying to binge-watch TV or get work done in a distant home office. Wifi extenders and mesh systems can help. Extenders plug in to a mains socket between your location and the router, then pass data backwards and forwards to extend your router’s reach. Mesh systems are even smarter, pairing a secondary router with one or two satellite units, which work together to extend the wifi coverage throughout your home. The mesh system can pass your connection from unit to unit to make sure you’re always getting the best possible link from your device to the internet, wherever you are in your home. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/593be969b42029b62c32996c24e46a5d2eedb6df/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb8851a1653cef28af02e57c2cea79c6" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/593be969b42029b62c32996c24e46a5d2eedb6df/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb8851a1653cef28af02e57c2cea79c6" medium="image"/>
+</item>
+<item>
+<title>1Password says it was hacked but users' vaults are safe</title>
+<link>https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe</link>
+<guid isPermaLink="false">cde11f207edff7e8df49a3cef2fe9cf472026ba73dedca056d7dff077e103b5f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
+<description>1Password assures customers that their logins and other sensitive information were not compromised in a recent data breach.</description>
+<enclosure url="https://www.engadget.com/img/gallery/1password-says-it-was-hacked-but-users-vaults-are-safe/l-intro-1795678680.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/1password-says-it-was-hacked-but-users-vaults-are-safe/l-intro-1795678680.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday</title>
+<link>https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday</link>
+<guid isPermaLink="false">78a8a74658c3005f86d636cd1aa1590721a438e9ee5453feee89797ab9d34506</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 19:44:49 +0000</pubDate>
+<description>A campaign demanding that Amazon recognize and bargain with unions will see workers in more than 20 countries mobilize.</description>
+<enclosure url="https://www.engadget.com/img/gallery/amazon-workers-around-the-world-plan-strikes-and-protests-on-black-friday-and-cyber-monday/l-intro-1795728490.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/amazon-workers-around-the-world-plan-strikes-and-protests-on-black-friday-and-cyber-monday/l-intro-1795728490.jpg" medium="image"/>
+</item>
+<item>
 <title>Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems</title>
 <link>https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433</link>
 <guid isPermaLink="false">abacbee203a24ba31bbd0fc9b182d54f3fe2be45e4ac6e1b183c736be76a4875</guid>
@@ -222,17 +288,6 @@
 <description>The Nintendo Switch 2 remake delivers a complete graphical overhaul and numerous quality-of-life updates to the ‘98 classic. | Image: Nintendo A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the game. Costco members can currently grab the cartridge edition for $62.99, down from its regular price of $69.99 (it’s the only retailer currently discounting the physical version). Both Amazon and Costco are also selling the digital version for $54.99, a small $5 discount. The Legend of Zelda: Ocarina of Time Where to Buy: $59.99 $54.99 at Amazon (Digital) $69.99 $62.99 at Costco (Physical) Ocarina of Time is one of Nintendo’s most groundbreaking titles, having served as its first 3D Zelda game when it launched in 1998. Parts of the original game haven’t aged particularly well — namely some dungeon design and the game’s tricky 3D navigation, since there was only one analog stick at the time — which makes it tough for some to enjoy going back to play the N64 version. Thankfully, the Switch 2 remake introduces several fixes, a host of quality-of-life improvements, and, of course, some lovely visuals that make it a graphics powerhouse by today’s standards. If you go the digital route, a recent Switch 2 update lets you gift games to players in your family group. It doesn’t have to be your actual family, either, just up to eight people you designate as part of your group. The digital game will then appear gift-wrapped on their homescreen. Read our full Ocarina of Time review .</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Samsung’s R95H TV shows what RGB LED is capable of</title>
-<link>https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review</link>
-<guid isPermaLink="false">51041f1b6f9c6c40ada27b6453d1104a6cbfeb8123c288e6b68896ca4967742a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 26 Nov 2026 14:00:00 +0000</pubDate>
-<description>Samsung’s premium RGB LED TV has the widest color gamut I’ve measured this year. RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to prove. The Samsung R95H does a lot to deliver some of those promises. It can display more colors than other TVs I've seen so far this year, and the combination of light output and its matte screen makes it great for a bright room. RGB LED TVs might still be in their infancy, but the R95H is a solid TV that shows off the benefits of the new backlight tech. Because RGB LED TVs use individual red, green, and blue LEDs for their backlight (instead of … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268593_Samsung_R95H_RGB_LED_TV_JHiggins_0014.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268593_Samsung_R95H_RGB_LED_TV_JHiggins_0014.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The Screens app will let you turn your iPhone Duo into an itty bitty MacBook</title>
@@ -862,17 +917,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/freezer-cleanup-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Five solar generators going for deep discounts on Black Friday</title>
-<link>https://www.engadget.com/2327916/five-solar-generators-going-for-deep-discounts-on-black-friday</link>
-<guid isPermaLink="false">ab70ea809e1cb9322446596b8f103462f451c091b63a6dce41e4a9edcb999ffb</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 14:15:20 +0000</pubDate>
-<description>Save 20 to 40 percent on models from Anker, EcoFlow and more.</description>
-<enclosure url="https://www.engadget.com/img/gallery/five-solar-generators-going-for-deep-discounts-on-black-friday/l-intro-1795554171.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/five-solar-generators-going-for-deep-discounts-on-black-friday/l-intro-1795554171.jpg" medium="image"/>
-</item>
-<item>
 <title>JetBrains finds agents may cheat with open source</title>
 <link>https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999</link>
 <guid isPermaLink="false">c794454219d04c09f4a9e89de8935702440f4a17366fec5223711d24147321d0</guid>
@@ -917,17 +961,6 @@
 <media:content url="https://image.theregister.com/?imageId=5312115&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Acer Predator Atlas 8 review: Potent performance at a slightly better price</title>
-<link>https://www.engadget.com/2326961/acer-predator-atlas-8-review</link>
-<guid isPermaLink="false">3e56a9b1b70d664717ca8bd41e2d78a4c1f42ae6dcb6a097217e0f7f20e2e618</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
-<description>Thanks to its Intel Arc G3 Extreme chip, the Acer Predator Atlas 8 delivers 95 percent of the performance you get from MSI's Claw 8 EX AI+ for $350 less.</description>
-<enclosure url="https://www.engadget.com/img/gallery/acer-predator-atlas-8-review-potent-performance-at-a-slightly-better-price/l-intro-1795546932.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/acer-predator-atlas-8-review-potent-performance-at-a-slightly-better-price/l-intro-1795546932.jpg" medium="image"/>
-</item>
-<item>
 <title>Microsoft 365 Backup stretches recovery window to ten years</title>
 <link>https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043</link>
 <guid isPermaLink="false">e8600d727083176235dbe1fb37b64b539d63486649bd8282e47d506a1c37b272</guid>
@@ -937,17 +970,6 @@
 <description>Recovery windows of up to ten years are now available in Microsoft 365 Backup for OneDrive and SharePoint, up from a previous maximum of two. The change took effect on October 31, though Exchange remains capped at two years. Administrators can select recovery windows of three months, six months, or any whole number of years from one to ten. Microsoft's list price is $0.15 per GiB per month of protected content. Extended windows can increase costs by keeping deleted data billable for longer. Switching to a longer recovery window will also not make backups for that period magically available. So no nostalgic trips back to 2016. Wider recovery windows may appeal to organizations that need access to older data, but backups are not a substitute for compliance retention and archiving. Recovery after a breach or ransomware attack is also critical, particularly getting back to a healthy state before any malware seeped into files. Microsoft says backups are physically redundant and geographically replicated while respecting the tenant's data residency requirements. Full OneDrive account and SharePoint site restores offer recovery points every ten minutes for the most recent two weeks, then weekly points through the configured window, up to ten years. Individual file and folder recovery is limited to recovery points from the most recent 14 days, regardless of the configured window. Restore remains free, which is handy since regular testing is a vital part of any disaster recovery plan. The arrival of a ten-year recovery window is good for enterprises that need it and have deep enough pockets. However, it is important to keep in mind that being able to configure a longer recovery window doesn't constitute a disaster recovery plan in itself and may be overkill in many instances. Microsoft notes: "The existing one-year default recovery window remains unchanged. Longer recovery windows must be configured on the applicable backup policies." The company also recommends that users "review your organization's SharePoint and OneDrive backup requirements to determine whether longer recovery windows are needed." A decade of recovery history could be valuable. It also means a decade of data to account for when setting budgets, access controls, and retention policies. ®</description>
 <enclosure url="https://image.theregister.com/?imageId=232945&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=232945&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>WhatsApp is testing stickers with sound</title>
-<link>https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound</link>
-<guid isPermaLink="false">f98740dfa2ecfd7307538f082c25b16337192c2d0a9a241d220576dfd18e032a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 12:24:57 +0000</pubDate>
-<description>WhatsApp's newest public beta includes the ability to create stickers with sounds.</description>
-<enclosure url="https://www.engadget.com/img/gallery/whatsapp-is-testing-stickers-with-sound/l-intro-1795609389.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/whatsapp-is-testing-stickers-with-sound/l-intro-1795609389.jpg" medium="image"/>
 </item>
 <item>
 <title>Amazon to flog motors in Britain, but Prime won't deliver</title>
@@ -992,17 +1014,6 @@
 <description>Frontier, Oak Ridge National Laboratory's exascale supercomputer, has thousands of processors working together on scientific problems. It also has a surprisingly ordinary way of ruining a researcher's day: one node going down. An uncorrectable memory error can do it, or a maintenance mishap. Scott Atchley , chief technology officer at the Oak Ridge Leadership Computing Facility, describes technicians accidentally rebooting the wrong node or risking a neighboring node's power supply while working in tightly packed racks. The hardware fault can affect just one node, but a simulation running across thousands of processors can grind to a halt. Then comes a series of questions. How recently did the application save its progress? How much computation needs repeating? And how long before the scheduler lets the job run again? For operators, the challenge isn't just keeping the supercomputer running. It's keeping the science moving. One bad node and everybody suffers On Frontier , a memory error can have an outsized audience. Atchley says uncorrectable double-bit errors in high-bandwidth memory occurred about 1.5 times a day during the supercomputer's early bring-up. Its predecessor, Summit, saw roughly one every two weeks. This sounds like a backward step, until you count the memory. Frontier has more than 16 times as much, giving bad bits considerably more places to hide. Memory isn't the only problem. Problematic GPU firmware can crash a node, and so can a technician rebooting the wrong one. Interconnect faults add another way for a large job to come unstuck. In a tightly coupled simulation using the Message Passing Interface (MPI) simulation, thousands of processes, or ranks, exchange data and participate in collective operations. If one rank disappears, the others cannot carry on as though nothing happened. Clockwork.io CEO Suresh Vasudevan describes a similar dependency in synchronized GPU training. One failed GPU can bring a 1,024-GPU job to a pause. An underperforming GPU can be almost as troublesome: if one participant runs at 80 percent speed, others might have to spend time waiting for it. The bigger the machine, the more ways there are for one small problem to become everybody's problem. How often should you hit save? Since stopping every component from failing isn't an option, researchers need a way to preserve their work. That's where checkpointing comes in. The application periodically saves its state so that, when something goes wrong, the simulation can resume from an earlier point instead of starting from scratch. The catch is that saving progress costs computing time, and doing it too often can become almost as wasteful as losing the work itself. Vasudevan explains this with an example. If writing a checkpoint takes 30 seconds, saving every five minutes consumes roughly 10 percent of computing time. Stretch that interval to 50 minutes, and the overhead drops to about 1 percent. But a failure could wipe out considerably more work. Atchle</description>
 <enclosure url="https://image.theregister.com/?imageId=5311858&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311858&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>‘A godsend’: the best hair straighteners in the UK for foolproof styling</title>
-<link>https://www.theguardian.com/thefilter/2025/mar/18/best-hair-straighteners</link>
-<guid isPermaLink="false">5a31c74d584bd8eaa71d2502669da2e9863b6d5cb9760c1e8b59df4432179343</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 10:00:03 +0000</pubDate>
-<description>Whether you want cordless designs or a budget buy, we’ve tested the top hair straighteners for every hair type • The best hair dryers, tested Straighteners are here to stay – but thankfully, heat styling has come a long way since GHD’s first ceramic straighteners ushered in an era of poker-straight hair in 2001. Today’s models feature adjustable heat settings and protective technology for hairstyling with minimal damage. The looks you can achieve with a straightener have become more versatile as well: one twist of a modern, curved-edge straightener can create styles from ultra-smooth strands to structured ringlets and soft, beachy waves. That’s a wide range of styling possibilities with just one tool. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/1a07dd3a36f07db2a559cfce1cb7884a8bc5a910/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6485e562251be7e26ca320d57029e02" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/1a07dd3a36f07db2a559cfce1cb7884a8bc5a910/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6485e562251be7e26ca320d57029e02" medium="image"/>
 </item>
 <item>
 <title>Government may apply TV license fee to streaming services to fund the BBC</title>
@@ -1291,17 +1302,6 @@
 <media:content url="https://image.theregister.com/?imageId=5254628&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it</title>
-<link>https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026</link>
-<guid isPermaLink="false">11c3c43a5827227bfd79cf258f519ea593a63d01f9447cd4ae61c2877bd51c34</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 14:02:36 +0000</pubDate>
-<description>Disney and Hulu’s Black Friday deal just dropped, and you’ll only pay $4.99 a month for 12 months for both streaming services.</description>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/disney-plus-hulu.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/disney-plus-hulu.jpg" medium="image"/>
-</item>
-<item>
 <title>The Nvidia case is just the latest episode of Trump disregarding intelligence</title>
 <link>https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence</link>
 <guid isPermaLink="false">6943060eb2f601d4610a39cd2637923f1f20d442b85def976e992c294dbf13f1</guid>
@@ -1399,17 +1399,6 @@
 <description>InferNode brings a modernized, 64-bit edition of Inferno, the distributed operating system that followed Plan 9 from Bell Labs. For us, the strapline of the InferNode project distracts from the interesting part. It describes the project as a "Secure Runtime for AI Agents," but we think it's something far more interesting than another LLM tool. Fair warning: this vulture has no interest whatsoever in AI agents, and we are not even going to look at this planned use of InferNode. We're interested in the OS, and here, its GitHub repository spells out the part that caught our attention: "a 64-bit Inferno® OS." That grabbed us because Inferno is a very interesting OS, although it doesn't get much attention – for example, the official Inferno GitHub repository shows little activity in the last few years. Inferno is the successor to Plan 9, which we've written and talked about before , including recent releases of its community continuation, 9front . Plan 9 is what the team who invented Unix did next. Plan 9 is a very minimalist, natively clustered Unix: machines can freely mount one another's filesystems, display windows on one another, and start processes on one another. Plan 9 turns a network of machines running this Unix-like OS into a single machine. So, for instance, if you were working on a laptop with limited storage and compute power, you could compile a large complex project on a faster machine elsewhere on the network, using project files located on a third machine, while watching the process in your terminal on your screen, with no messing about with SSH sessions. Plan 9 and 9front programs are compiled into architecture-specific native binaries. Different processor families can still work together across the network, but the same executable won't run unchanged on both an x86-64 laptop and an Arm64 server. Inferno takes a different approach. It's contemporaneous with the far less ambitious Java. On Inferno, languages compile code for a VM called Dis, which is part of the kernel. This means that Inferno binaries execute directly on anything that the Inferno kernel runs on. The OS kernel is built to run bare-metal, or as a process on various other OSes, without needing a separate hardware virtual machine or hypervisor. A single binary can run on all supported CPU architectures. Inferno applications are normally written in the Limbo programming language , whose documentation was written by Unix co-creator Dennis Ritchie. Limbo is one of the languages that influenced Go, but Inferno lets compilers for other languages target Dis as well. The binaries run anywhere. Inferno on Arm, or x86, or RISC-V, or running in a Windows or Linux or macOS process, your program just runs. We've been trying to contact Vita Nuova , the company that maintains Inferno, for some years without success. Development appears to have slowed considerably. Moving the runtime to 64-bit also raises compatibility questions: some forks change Dis's word size and cannot run existi</description>
 <enclosure url="https://image.theregister.com/?imageId=5311734&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311734&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>UK gov invests in defense startup making virtual training ground for AI</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707</link>
-<guid isPermaLink="false">d9a2fb190d9ffe44305f6cff2113911083add8d79e400fa27072289872809ebc</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 09:16:00 +0000</pubDate>
-<description>The British government is investing in a UK-based AI defense startup that aims to train autonomous military systems in virtual environments, in a bid to reduce the country's reliance on overseas technology. Both the Sovereign AI Fund and the National Security Strategic Investment Fund (NSSIF) have contributed to a Series A funding round for Agon Dynamics, said to value the biz at $450 million. This $70 million round takes the total capital raised by the firm to $100 million, following its initial $30 million seed round earlier this year. The government claims this move will help strengthen the UK’s sovereign capabilities when it comes to the use of AI for defense, plus the hope that nurturing native technical know-how converts into industrial strength and greater resilience. But it is not revealing how much cash it has stumped up, claiming such investments are commercially sensitive, although it did say that typical equity amounts obtained from the the Sovereign AI Fund tend to be worth around £1 million to £10 million ($1.3 million to $13 million). Agon is understood to be developing facilities to train and test AI systems needed for defense. This covers systems to help defend against drone attacks, or ensuring that AI tools still continue to work as intended if communications with the command center are disrupted. Training like this currently needs to be carried out in the real world, which is time-consuming and expensive, according to the government. For this reason, Agon is building a "virtual battlefield" environment where AI models can be tested against realistic simulations of the situations they might encounter. The company says its synthetic battle arena provides a safe, repeatable environment for developers and defense contractors to try out autonomous systems against thousands of demanding scenarios before deployment. Systems can face adaptive virtual adversaries informed by live conflict intelligence, helping them to respond to evolving tactics, threats and operating conditions. This may include simulations of mass drone attacks that would overwhelm conventional air defense systems, or testing how autonomous systems operate when navigation is degraded or adversary tactics change. "Europe is in an AI arms race as we enter the era of agentic warfare: intelligent agents and machines that will need to understand their environment, make decisions and adapt at a speed and scale that humans alone cannot match," says co-founder and CEO Tristam Constant, a former British Army officer. "We exist to build the sovereign infrastructure and AI foundation models to allow us to train, test, and evolve autonomous defense systems, in Europe, for Europe - to outperform adversary capabilities." For the government, AI Minister Kanishka Narayan claimed that Britain is well-placed to lead efforts to ensure such technologies are reliable, trustworthy, and deployed responsibly. "AI is rapidly transforming how wars are fought, from the use of drones through to</description>
-<enclosure url="https://image.theregister.com/?imageId=260608&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=260608&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?</title>
@@ -1630,6 +1619,17 @@
 <description>Microsoft is bridging the gap between proprietary and open-weight AI while targeting data-conscious businesses.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-2.46.59-PM.png" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-2.46.59-PM.png" medium="image"/>
+</item>
+<item>
+<title>Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates</title>
+<link>https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026</link>
+<guid isPermaLink="false">42110b44df956c1efdabb6702cd87d46306da6338660e2e6b495eb87dc5dd532</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Tue, 17 Nov 2026 23:14:05 +0000</pubDate>
+<description>The company also released new ROI tracking tools for companies monitoring their AI spend.</description>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-1.21.10-PM.png" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-1.21.10-PM.png" medium="image"/>
 </item>
 <item>
 <title>Apple MacBook Pro M6 review: probably the last of its generation</title>
