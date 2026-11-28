@@ -4,13 +4,112 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>DWP cyber incident ‘probably an attack’, says former UK chief technology officer</title>
+<link>https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott</link>
+<guid isPermaLink="false">3b59e02d667b8dba07c6cbf594d717c1d6e31d23e74dec382b9b9a5876c85f3c</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sat, 28 Nov 2026 10:52:00 +0000</pubDate>
+<description>Government took down pensions and benefits portal on Thursday but said regular payments will not be affected A serious cyber incident that forced ministers to take down online benefits and pension services was “probably an attack”, the UK’s former chief technology officer has said. The Department for Work and Pensions took down several systems that appeared to still be offline on Saturday morning. David Knott, who led government technology until December 2025, said much infrastructure was outdated, and underinvestment in defence and increasing sophistication of attacks meant it was only getting more vulnerable. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/9c0f72972aa5ff583dcf1f4067cbe06973b8aefb/1099_136_2191_1753/master/2191.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae80639c42b3d09c10e59c8ffd4ac0cd" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/9c0f72972aa5ff583dcf1f4067cbe06973b8aefb/1099_136_2191_1753/master/2191.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae80639c42b3d09c10e59c8ffd4ac0cd" medium="image"/>
+</item>
+<item>
+<title>Woman ‘traumatised’ by Sainsbury’s shoplifting ban after staff facial recognition error</title>
+<link>https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error</link>
+<guid isPermaLink="false">0c1f8a31e59cc9f7f024500893d61695d9e8f9c85367e5e3fec54e5c8e90f1bf</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sat, 28 Nov 2026 10:00:36 +0000</pubDate>
+<description>Monia Indge, 58, who has terminal cancer, escorted from supermarket after staff using FaceWatch technology misidentified her A woman with terminal cancer has been left “traumatised and violated” after being falsely accused of shoplifting and banned from Sainsbury’s by staff using facial recognition technology. Monia Indge, 58, was shopping with her husband in the Walters Yard branch of Sainsbury’s in Bromley on 7 November when she was suddenly told to leave by a member of staff who told her she was “banned for life” from the store. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/e2362387eb25da96121d735bb135bbe8432ce713/366_0_5428_4343/master/5428.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90c416e18f6d443ee62da8da1702621c" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/e2362387eb25da96121d735bb135bbe8432ce713/366_0_5428_4343/master/5428.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90c416e18f6d443ee62da8da1702621c" medium="image"/>
+</item>
+<item>
+<title>Quantum: 'Five years, that's all we got…'</title>
+<link>https://www.theregister.com/hpc/2026/11/28/quantum-five-years-thats-all-we-got/5312034</link>
+<guid isPermaLink="false">764e7d5d7a7f3318d2a26f1c7365d9394aed20b18d7da9260adc1e1e219ca7c9</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Sat, 28 Nov 2026 09:24:00 +0000</pubDate>
+<description>SC26 in Chicago had the usual quantum booths, discussions, and hallway optimism. A lot of people were talking about integration with classical HPC and Slurm scheduling for quantum processors, co-design platforms, and GPU-accelerated error correction tools. That part is real and useful. What was harder to find was any result that changed the basic math on when quantum systems will actually do something a supercomputer can't already handle better. I had a long conversation in St. Louis (SC25) with a contact who works deep in quantum and has spent decades in HPC. He's not a skeptic for sport, although that can be fun, sure. Over a grifted free dinner in Chicago (the best kind), his take this year remains the same: the hype keeps outrunning the error rates. Quantum computers generate too many errors to give usable answers on anything interesting. Fixing that is the whole game. And that's a five-year game, minimum. Much like the Bowie anthem in the title. Qubits by the numbers There are two kinds of qubits. Physical qubits are the actual hardware: ions, superconducting circuits, and atoms in a trap. Logical qubits are the ones that do the computation. Each logical qubit is built out of many physical ones so the system can detect and correct errors while it runs. With the traditional surface-code approach, one logical qubit often needs somewhere between 500 and 2,000 physical qubits backing it up, depending on the hardware and the code. One logical qubit by itself is useless. Estimates for basic scientific modeling and small-scale simulation sit in the 100-to-500 logical-qubit range. Take the midpoint of 300. At the low end of the overhead that is 150,000 physical qubits. At the high end it is several million. That is only for early science. Commercial work like molecular mapping for pharma, large optimization problems, complex financial models, pushes into the thousands of logical qubits. National-security and encryption-related work sits even higher. Those numbers have not magically shrunk. A system that can map a modestly sized drug molecule, or run a materials simulation that is still too slow on classical machines, is the kind of workload people actually mean when they talk about useful quantum advantage. Until the logical-qubit counts get there with error rates low enough to finish the job, those problems stay on the machines we already know how to build. Ok, so let's just scale it up This is the world of HPC, we know how to scale stuff, right? Yes, but this isn't a matter of adding a few more racks. Scaling to an additional few hundred thousand physical qubits is not a rack or two or ten. It's probably a dedicated building with its own cryogenics, control electronics, and power draw that is still measured in megawatts even before you get useful logical capacity. This is why cutting the massive gap between logical and physical qubits is critical if quantum is going to become even narrowly useful. Signs of (incremental) improvement There is a newe</description>
+<enclosure url="https://image.theregister.com/?imageId=5312040&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312040&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>Unkernel and Trynix just transported computing to 2035</title>
+<link>https://www.theregister.com/software/2026/11/28/unkernel-and-trynix-just-transported-computing-to-2035/5313200</link>
+<guid isPermaLink="false">3d1afd9f3d732106d597c3414f19aa76f13ca1d91a19c98d591123c0e912b7dd</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Sat, 28 Nov 2026 08:34:00 +0000</pubDate>
+<description>What's the difference between just-for-fun demo hacks, and serious carefully designed large-scale software architecture? It's the quick-and-dirty jobs that end up transforming computing. A blog post earlier this week called 2035 came early led the Reg FOSS desk down what we thought was a fascinating, and possibly quite scary, rabbit-hole… but it turned out to be an entire warren. We thought we were still in 2026, but in turns out that in some ways, tech just leaped forward a decade. To try to convey the point of this blog post – why what had been just a fun clever little hack has the potential to take half a century of OS and hypervisor design and throw it out of the nearest window – will take quite a lot of unpacking. If you bear with us, we will try to walk you through it. To get started, we need to go back a decade or more. Stick with this: there are laughs, as well as hammers taken to beloved ideas. The year of 2035 and the ideas around that come from a remarkable talk by Gary Bernhardt of Destroy All Software, which is both funny and highly educational. It will really massively assist understanding what this article and the technology is all about if you have the time to watch the talks. The Reg FOSS desk is not at all fond of spoken-word video as a medium – we much prefer to read than listen – but the three talks we're going to mention are golden, among the very best presentations this century in all of computing and IT. Seriously, they are worth your time. As a preface, before we go into Bernhardt's half-hour information-dense talk, let's warm up with a four-minute funny one. But first, let's look at the context for that. Step 0: JavaScript is the language of web programming In 2009, Jeff Atwood laid this out in an article called All Programming is Web Programming . It's still coming true today. Software is getting very blurred around the edges. The entire SaaS industry means that massive organizations run on web apps. Tech like Electron embeds a web browser inside JavaScript apps built in Node.js, while Progressive Web Apps make websites look like local program windows. The most popular desktop Linux in the world is ChromeOS Flex, which doesn't support local native applications at all. Everything is browser windows, even the desktop. It's all built in JavaScript. And yet… Step 1: JavaScript is kind of weird and kind of bad. Bernhardt made this case in 2012, with a celebrated lightning talk called Wat , from the CodeMash conference in 2012. Wat walks through a whole list of examples of how JavaScript is a very strange programming language and does very strange things that are not at all what you might expect. Some of the jokes will make more sense to programmers, but we reckon anyone who has ever fought with a recalcitrant bit of software will get some laughs from it – and that probably applies to all readers of The Register. Step 2: JavaScript is in the process of conquering the world. Bernhardt moved on to much bigger ideas at PyCon 2014</description>
+<enclosure url="https://image.theregister.com/?imageId=5313212&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5313212&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>‘I told it to never call me again’: AI bots wreak havoc with UK restaurant bookings</title>
+<link>https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse</link>
+<guid isPermaLink="false">1238713f440f690e9acc85ff0a3acd98d0cc74c6cae587c227fbd65953516a7d</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sat, 28 Nov 2026 08:00:34 +0000</pubDate>
+<description>Meta claims its Muse assistant will make users’ lives easier, but business owners say AI is driving them to go analogue Restaurant owners are battling a horde of AI bots and returning to using the telephone instead of online booking as new virtual assistants launch in the UK – but sometimes even that isn’t enough to stop them. This week, Mark Zuckerberg’s Meta launched its Muse AI assistant in the UK and is encouraging users to let it shop and make restaurant reservations. The bot is given access to the user’s email if they give it permission, and it can make restaurant bookings and go shopping on the user’s behalf. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/8bc6323ce50cd4f0f889dd06738199072098a24d/530_0_5223_4180/master/5223.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67c4e817fa40ee5a8d9897457836fa05" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/8bc6323ce50cd4f0f889dd06738199072098a24d/530_0_5223_4180/master/5223.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67c4e817fa40ee5a8d9897457836fa05" medium="image"/>
+</item>
+<item>
+<title>AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn</title>
+<link>https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos</link>
+<guid isPermaLink="false">bd0ed2699aaa426921761d9493d213bd6e22ab76b1f43a4fab9941987e905f45</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sat, 28 Nov 2026 05:00:30 +0000</pubDate>
+<description>Exclusive: AI may have cracked decades-old maths problems that underpin encryption at banks and government agencies AI companies are sitting on “bombshell” revelations that could disrupt a cornerstone of security for banks and governments in as soon as a few months, leading experts believe. Scott Aaronson, a pre-eminent theoretical computer scientist, told the Guardian there were “well-attested rumours” that powerful artificial intelligence models had broken ground on decades-old maths problems related to how the world encodes secret information. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/f08944d0a359b09c93c14ea8aeeac1ec4a540ba1/1397_0_5399_4320/master/5399.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=518007cb11c90477961b16daa34df960" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/f08944d0a359b09c93c14ea8aeeac1ec4a540ba1/1397_0_5399_4320/master/5399.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=518007cb11c90477961b16daa34df960" medium="image"/>
+</item>
+<item>
+<title>Could AI break encryption? What mathematical breakthroughs mean for cybersecurity</title>
+<link>https://www.theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity</link>
+<guid isPermaLink="false">18efd8547a8dca89dee2def1717573a8193cecba220767c7d175ccd0679e4e23</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Sat, 28 Nov 2026 05:00:30 +0000</pubDate>
+<description>Experts suggest AI companies may be sitting on ‘bombshell’ that could have severe consequences for secret information Leading experts and the governor of the Bank of England have suggested that top AI companies might have something under their hat – a “bombshell” revelation about encryption. Depending on what it is, it could have major consequences for the world’s secret information, and the banks and governments that hold and transmit it. This is because of recent, startling mathematical advances made by AI models, which are still being understood. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/7b3c245cf23380f751f0177a251f8961f4cecd5a/0_0_2502_2003/master/2502.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c954133f671b682a369a86bb9a71b5f3" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/7b3c245cf23380f751f0177a251f8961f4cecd5a/0_0_2502_2003/master/2502.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c954133f671b682a369a86bb9a71b5f3" medium="image"/>
+</item>
+<item>
+<title>The M5 MacBook Air just got its biggest discount since Apple raised the price</title>
+<link>https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale</link>
+<guid isPermaLink="false">8ac90c21a0303d22ae0965dd254c71f27230769f3fd935ce9fa778c1d33e301c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 28 Nov 2026 03:30:00 +0000</pubDate>
+<description>The M5-powered MacBook Air is $300 off in both size configurations for Black Friday. | Photo: Antonio G. Di Benedetto / The Verge If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June , you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest price we’ve seen since the hike. If you want a larger display, Amazon and Best Buy are also taking $300 off the otherwise identical 15-inch model with 16GB of RAM and 512GB of storage, dropping it to $1,199. Apple MacBook Air 13 (M5) Where to Buy: $1299 $999 at Amazon (512GB) $1299 $999 at Best Buy (512GB) $1599 $1199 at Amazon (1TB) Apple MacBook Air 15 (M5) Where to Buy: $1299 $1199 at Amazon (512GB) $1299 $1199 at Best Buy (512GB) $1799 $1499 at Amazon (1TB) The M5-equipped MacBook Air is a good middle ground if you need more power than the MacBook Neo — which, thanks to a $100 discount , is $599 — but don’t want to splurge on a MacBook Pro. Its faster chip, 16GB of RAM, and 512GB of storage make it better suited for multitasking and creative work in apps like Photoshop and Premiere. You also get a higher-resolution display, better speakers, a backlit keyboard that makes typing in the dark easier, and faster ports. Plus, its sharper webcam supports Apple’s Center Stage feature, which automatically adjusts the framing to keep you in view during video calls. Of course, the Air can’t match the performance or higher-end displays you can get with a MacBook Pro, whether you opt for an M5 model , the newer M5 Pro model with a PROLED XDR Display , or one of the M6-powered machines . A Pro may be worth the extra money if you regularly edit video or work on more demanding creative projects. But if you mostly need a laptop for work, browsing, and occasional photo or video editing, the M5 Air is more than capable. Read our M5-powered MacBook Air review .</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The absolute best Black Friday deals you can still get</title>
+<link>https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas</link>
+<guid isPermaLink="false">328423d917a01424e6835aa2858655ed853f06e1df3cb83f239299deb362b5e4</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 28 Nov 2026 03:28:32 +0000</pubDate>
+<description>Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games , wireless earbuds , TVs , robot vacuums , and so much more. We can’t guarantee a deal you’ve had your eye on will last through Cyber Monday; however, if prior years are any indication, most will stick around through the long weekend. As usual, we sorted through thousands of deals to find the ones truly worth sharing, with an eye for the products and services we’ve tested here at The Verge . With prices up across multiple categories due to RAMageddon, some deals may not seem as big as in prior years. For example, Apple’s latest MacBook Air recently fell to its pre-price-hike level for the first time since July. That’s a deal to us, and several other discounts are still taking a similar shape, even as Black Friday draws to a close. AirPods Pro 3 Apple’s AirPods Pro 3 deliver the best noise cancellation and sound quality of any AirPods yet, along with a more comfortable, secure fit and improved water resistance. They also feature built-in heart rate tracking for workouts and support live translations for a handful of languages. Read our review . Where to Buy: $249 $149 at Amazon $249 $149 at Walmart $249 $149.99 at Best Buy Disney Plus, Hulu Bundle You can get an ad-supported Disney Plus and Hulu bundle for $4.99 a month ($8 off) for an entire year. Both streaming services feature a deep catalog of new and classic TV shows and movies, including The Simpsons , Andor , Toy Story 5 , and The Fantastic Four: First Steps . Where to Buy: $12.99 $4.99 at Hulu (ad-supported, monthly) $21.99 $14.99 at Hulu (ad-free, monthly) Anker Universal Charger (100W) Anker’s durable travel adapter delivers up to 100W of power and works in over 200 countries. It doesn’t support AC plugs, but it does offer a trio of USB-C ports and a nifty LCD display to keep tabs on the charge percentage. Where to Buy: $79.99 $59.99 at Amazon $79.99 $59.99 at Amazon (silver) $79.99 $59.99 at Anker Xteink X4 Classic pocket e-reader With a 4.3-inch E Ink screen, the Xteink X4 is smaller and more pocketable than any Kindle and Kobo model currently available. It has some drawbacks — it’s limited to TXT and EPUB files — but it’s great for tinkering; it also has a magnetic mount so you can stick it to the back of MagSafe-ready phones. Where to Buy: $109 $54.87 at Amazon (black) $109 $54.87 at Amazon (white) $109 $59 at Xteink Nintendo Switch 2 + Mario Kart World Bundle The Nintendo Switch 2 features a 7.9-inch LCD display, magnetically attached Joy-Con 2 controllers, backward compatibility with most original Switch games, and exclusive titles like Donkey Kong Bananza and The Legend of Zelda: Ocarina of Time. Read our review . Where to Buy: $549.99 $499 at Amazon $549.99 $499 at Walmart $549.99 $499.99 at Best Buy HBO Max An HBO Max Basic subscription provides access to shows like A Knight of the Seven Kingdoms , The La</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>We found 60-odd Black Friday deals we love for $100 or less</title>
 <link>https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026</link>
 <guid isPermaLink="false">117a0da82d3c22700b748a5b157b9532fb5edbfd07dbbc1a5df0ffec67b1272f</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Sat, 28 Nov 2026 01:30:00 +0000</pubDate>
-<description>The translucent Beats Studio Buds Plus are down to $89.95, matching their lowest price to date. | Photo: Chris Welch / The Verge Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff currently on sale for $100 or less, from noise-canceling earbuds and portable Bluetooth speakers to pocket-sized e-readers , photo printers , games , and more. You’ll also find deals on Ember’s temperature-controlled mug , Kodak’s tiny keychain camera , and a variety of Lego sets , all of which would make great holiday gifts or simply a nice treat for yourself. Disney Plus, Hulu Bundle You can get an ad-supported Disney Plus and Hulu bundle for $4.99 a month ($8 off) for an entire year. Both streaming services feature a deep catalog of new and classic TV shows and movies, including The Simpsons , Andor , Toy Story 5 , and The Fantastic Four: First Steps . Where to Buy: $12.99 $4.99 at Hulu (ad-supported, monthly) $21.99 $14.99 at Hulu (ad-free, monthly) Amazon Echo Time Although it’s not Amazon’s first bedside alarm clock, the Echo Time is focused on helping you sleep better. The camera-less Alexa speaker can detect your sleep stage via ultrasound and use smart alarms to ease you into the day, but only if you want it to. Where to Buy: $199.99 $99.99 at Amazon $199.99 $99.99 at Best Buy $199.99 $99.99 at Target Anker Universal Charger (100W) Anker’s durable travel adapter delivers up to 100W of power and works in over 200 countries. It doesn’t support AC plugs, but it does offer a trio of USB-C ports and a nifty LCD display to keep tabs on the charge percentage. Where to Buy: $79.99 $59.99 at Amazon $79.99 $63.99 at Anker HBO Max An HBO Max Basic subscription provides access to shows like A Knight of the Seven Kingdoms , The Last of Us , and The Pitt , as well as films like Superman and Weapons . You can get a year of the monthly ad-supported subscription for $5.49 a month (about $6 off) until December 1st. Where to Buy: $10.99 $5.49 at HBO Max (monthly, with ads) $109.99 $78.99 at HBO Max (annual, basic) $184.99 $132.99 at HBO Max (annual, standard) Noco GB40 UltraSafe Jumpstarter Noco’s Boost GB40 is a rechargeable battery with jumper cables to start six-liter gas or three-liter diesel engines. It also has USB ports so you can charge your phone, ensuring you always have a backup plan. Where to Buy: $99.99 at Amazon $99.99 at Home Depot $99.99 at AutoZone Apple AirTag (second-gen) Apple’s latest AirTags feature an upgraded ultra-wideband chip for more precise location tracking, a noticeably louder speaker, and an expanded Bluetooth range. Read our review. Where to Buy: $29 $18 at Amazon $29 $18 at Walmart $29 $18 at Best Buy Beats Studio Buds Plus The Beats Studio Buds Plus sport an eye-catching translucent option an</description>
+<description>The translucent Beats Studio Buds Plus are down to $89.95, matching their lowest price to date. | Photo: Chris Welch / The Verge Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff currently on sale for $100 or less, from noise-canceling earbuds and portable Bluetooth speakers to pocket-sized e-readers , photo printers , games , and more. You’ll also find deals on Ember’s temperature-controlled mug , Kodak’s tiny keychain camera , and a variety of Lego sets , all of which would make great holiday gifts or simply a nice treat for yourself. Disney Plus, Hulu Bundle You can get an ad-supported Disney Plus and Hulu bundle for $4.99 a month ($8 off) for an entire year. Both streaming services feature a deep catalog of new and classic TV shows and movies, including The Simpsons , Andor , Toy Story 5 , and The Fantastic Four: First Steps . Where to Buy: $12.99 $4.99 at Hulu (ad-supported, monthly) $21.99 $14.99 at Hulu (ad-free, monthly) Amazon Echo Time Although it’s not Amazon’s first bedside alarm clock, the Echo Time is focused on helping you sleep better. The camera-less Alexa speaker can detect your sleep stage via ultrasound and use smart alarms to ease you into the day, but only if you want it to. Where to Buy: $199.99 $99.99 at Amazon $199.99 $99.99 at Best Buy $199.99 $99.99 at Target Anker Universal Charger (100W) Anker’s durable travel adapter delivers up to 100W of power and works in over 200 countries. It doesn’t support AC plugs, but it does offer a trio of USB-C ports and a nifty LCD display to keep tabs on the charge percentage. Where to Buy: $79.99 $59.99 at Amazon $79.99 $59.99 at Anker HBO Max An HBO Max Basic subscription provides access to shows like A Knight of the Seven Kingdoms , The Last of Us , and The Pitt , as well as films like Superman and Weapons . You can get a year of the monthly ad-supported subscription for $5.49 a month (about $6 off) until December 1st. Where to Buy: $10.99 $5.49 at HBO Max (monthly, with ads) $109.99 $78.99 at HBO Max (annual, basic) $184.99 $132.99 at HBO Max (annual, standard) Noco GB40 UltraSafe Jumpstarter Noco’s Boost GB40 is a rechargeable battery with jumper cables to start six-liter gas or three-liter diesel engines. It also has USB ports so you can charge your phone, ensuring you always have a backup plan. Where to Buy: $99.99 $49.98 at Amazon $99.99 at Home Depot $99.99 at AutoZone Apple AirTag (second-gen) Apple’s latest AirTags feature an upgraded ultra-wideband chip for more precise location tracking, a noticeably louder speaker, and an expanded Bluetooth range. Read our review. Where to Buy: $29 $18 at Amazon $29 $18 at Walmart $29 $18 at Best Buy Beats Studio Buds Plus The Beats Studio Buds Plus sport an eye-catching translucent op</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -24,17 +123,6 @@
 <description>The basic white variant is down to a record-low $54 for Black Friday, with plenty of other colors also on sale.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/DualSense-Controller-1.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/DualSense-Controller-1.jpg" medium="image"/>
-</item>
-<item>
-<title>The absolute best Black Friday deals we’ve found (so far)</title>
-<link>https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas</link>
-<guid isPermaLink="false">328423d917a01424e6835aa2858655ed853f06e1df3cb83f239299deb362b5e4</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 28 Nov 2026 00:44:11 +0000</pubDate>
-<description>This year's Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we've seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can't guarantee a deal you've had your eye on will last through Cyber Monday; however, if prior years are any indication, most will stick around through the long holiday weekend. As usual, we sorted through thousands of deals to find the ones truly worth sharing, with an eye for the products and services we've tested here at The Verge . With pri … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>This purple electric Chinese minivan can go up to 559 miles on a charge</title>
@@ -103,6 +191,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9349173/BR-TRL-059_2040.0.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>OpenAI countersues Apple for allegedly stealing trade secrets</title>
+<link>https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets</link>
+<guid isPermaLink="false">2a895774aad5a36d0d6ba7cbca9a1c46767766b03bf33bfcb2a399de81fa8037</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 27 Nov 2026 23:28:50 +0000</pubDate>
+<description>Lawsuit also alleging pressure on hardware suppliers comes after Apple sued OpenAI for allegedly poaching employees OpenAI sued Apple on Friday, accusing the company of ⁠stealing its trade secrets ​and discouraging hardware suppliers from working on future OpenAI devices. The suit, filed in northern California federal court, comes after Apple sued OpenAI for allegedly poaching its employees to gain access to its technology. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/833_0_4167_3335/master/4167.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=71a34e5e1057dc80a5945f284bef55e3" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/548f2774750f067b58b8293df2904e3bc1888919/833_0_4167_3335/master/4167.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=71a34e5e1057dc80a5945f284bef55e3" medium="image"/>
+</item>
+<item>
 <title>5 ways to make sure your console isn't holding back your GTA 6 performance</title>
 <link>https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back</link>
 <guid isPermaLink="false">c12f09daaf1dfcde29ea6670937ed432e703dfe635ce6985fda83804bd807d6b</guid>
@@ -134,17 +233,6 @@
 <description>The company has insisted that AI overviews and search are a package deal.</description>
 <enclosure url="https://www.engadget.com/img/gallery/la-school-district-blocks-googles-ai-search-features/l-intro-1795816633.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/la-school-district-blocks-googles-ai-search-features/l-intro-1795816633.jpg" medium="image"/>
-</item>
-<item>
-<title>Allstate has been suffering an outage since Monday</title>
-<link>https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday</link>
-<guid isPermaLink="false">9b74f40cbfe827390dbb709f65a1b43b7647556ecb7825d283a3d43b52ea2564</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 27 Nov 2026 21:52:42 +0000</pubDate>
-<description>But are you in good hands? | Image: Allstate On Monday, November 23rd, Allstate began dealing with a n outage that has impacted its website, mobile apps, and roadside assistance service. It's just the latest company, including Microsoft and JPMorgan Chase, to suffer an outage in the last few weeks. As of Friday afternoon, access to accounts through the app and site appeared to still be down. When asked for comment, the company pointed us to a notice on its site reading: Allstate customers can reach us in many ways, including online, by phone and through local offices. Some access has been restricted over the last 48 hours, but we continue to be available for customers and respond to a … Read the full story at The Verge.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/https___www.allstatenewsroom.com_wp-content_uploads_2023_04_Allstate_LobbyAllstateSign_DARKBLUE_CROP.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/https___www.allstatenewsroom.com_wp-content_uploads_2023_04_Allstate_LobbyAllstateSign_DARKBLUE_CROP.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Samsung is reportedly giving its camera app an AI mode</title>
@@ -266,17 +354,6 @@
 <description>Global smartphone shipments are forecast to fall 14 percent this year and another 6 percent in 2027, with a recovery not expected until 2028. That's the outlook from Counterpoint Research's latest Smartphone Market Outlook Tracker , which points to rising memory costs and constrained supplies as continuing pressure on handset makers and buyers. The downturn was particularly sharp in the third quarter: IDC and Omdia estimated year-on-year shipment declines of 22 percent and 20 percent respectively, as rising prices and component shortages squeezed the market. Don't expect things to get better in the short term, as Counterpoint forecasts another 6 percent drop during 2027. But it believes that the market may see a 6 percent rebound in 2028, as memory supplies improve, pricing begins to stabilize, and pent-up demand for replacement phones returns. The 2026 outlook has been shaped by sharply rising component costs, particularly for DRAM and NAND flash. According to IDC , memory costs have risen approximately 350 percent since last year and are still climbing. As Reg readers will be well aware by now, this has been blamed on the memory manufacturers prioritizing output of high-margin chips to go into AI servers and GPU accelerators, creating a shortage of the mainstream components that are needed for devices like PCs and phones. Vendors have responded by raising prices, reducing memory configurations, and withdrawing lower-cost models. As The Register previously reported , memory costs accounted for almost 60 percent of the total bill of materials in sub-$400 smartphones during Q1 of 2026. For 2027, Counterpoint warns the outlook is for continued tight mobile DRAM supply, further price increases for low-power DDR (LPDDR) memory, and limited evidence to suggest short-term capacity increases. "The 2026 decline was initially expected to mark the low point of the cycle, but the memory situation has remained more restrictive than anticipated," said principal analyst Yang Wang. "Mobile memory allocation is still being displaced by AI and server demand, while higher costs are taking longer to move through handset portfolios and retail channels. The result is a much weaker 2027, particularly for lower priced devices and price sensitive markets." Global shipments are forecast to rebound by 6 percent in 2028, but that would bring shipments only roughly back to this year's already shrunken level, rather than hitting the peak of previous years. Counterpoint cautions that the scale of the rebound will depend on how quickly lower component costs translate into retail pricing. A speedy improvement in mobile memory allocation during the second half of 2027 could bring replacement demand forward and swell shipments, but continued competition from the AI market or another round of handset price increases would hinder recovery. "The unusually low 2027 base creates the potential for a robust rebound in 2028 once the memory bottleneck begins to ease. But this should not b</description>
 <enclosure url="https://image.theregister.com/?imageId=5228637&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5228637&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Hackers reportedly breach US air force’s flagship cloud computing platform</title>
-<link>https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing</link>
-<guid isPermaLink="false">a2aee26315fa8c166bb3a303d9aaef68aa90927f702cbd69ea13623ac00fcc5c</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 27 Nov 2026 14:50:15 +0000</pubDate>
-<description>Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data Hackers are reported to have breached the US air force’s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed. Reuters reported on Friday that the intrusion into the USAF’s Cloud One platform could jeopardize the security of sensitive tactical, personnel and logistics data. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/b78bd09c92d89960e79cab8a33338868663794eb/171_0_1706_1365/master/1706.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4a153578bffdb298bc1a795067a88c8" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/b78bd09c92d89960e79cab8a33338868663794eb/171_0_1706_1365/master/1706.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4a153578bffdb298bc1a795067a88c8" medium="image"/>
 </item>
 <item>
 <title>Bill for Birmingham's Oracle debacle reaches £128M</title>
@@ -752,17 +829,6 @@
 <media:content url="https://image.theregister.com/?imageId=4093838&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Dozens of court cases in England and Wales affected by undisclosed AI use in 2026</title>
-<link>https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026</link>
-<guid isPermaLink="false">0b032116e10466e07e3bd0c2cda9f4620bb9ae336fc7b43416c4e2890223334f</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 26 Nov 2026 12:19:37 +0000</pubDate>
-<description>Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes Undisclosed AI use has affected more than two dozen court cases this year, prompting judges to complain about AI-generated witness statements, fictitious case law and nonexistent statutes, an investigation has revealed. Proceedings where judges have been forced to deal with lawyers, police officers and claimants misusing the technology in 2026 include a high court dispute between tax lawyers marred by what the judge called “unacceptable” use of “generative AI hallucinations” and references to nonexistent cases. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/18a0e7b9f66bc93973a6114fb4fac2215545e754/415_0_4167_3335/master/4167.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6cd8e29e1161308cf356f0c82ecb13d5" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/18a0e7b9f66bc93973a6114fb4fac2215545e754/415_0_4167_3335/master/4167.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6cd8e29e1161308cf356f0c82ecb13d5" medium="image"/>
-</item>
-<item>
 <title>Draining peatlands is responsible for a few percent of our global warming</title>
 <link>https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming</link>
 <guid isPermaLink="false">fdb09ed1f29c79af4ed40636cc48f6dbf58ef17f1e98a35c0b63663bde59a117</guid>
@@ -851,17 +917,6 @@
 <media:content url="https://image.theregister.com/?imageId=5311848&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet</title>
-<link>https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech</link>
-<guid isPermaLink="false">c2cda04dc49edbd4d5b92e27127dab5dafcc87dbe4b046c23f97f18545c63d17</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 26 Nov 2026 10:00:52 +0000</pubDate>
-<description>Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in The phrase “return of the king” rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia’s CEO. Some called him the “imperial and royal majesty”, others anointed him as “our Jesus” and several simply posted a crown emoji. “The mistake has been corrected,” said Elon Musk. “Jensen!” exclaimed OpenAI’s Sam Altman. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/1c86eb468485514265ee27c663d10f3cb3fb8fb0/335_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0f508b5a2375313c40b4d23e1efb336" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/1c86eb468485514265ee27c663d10f3cb3fb8fb0/335_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0f508b5a2375313c40b4d23e1efb336" medium="image"/>
-</item>
-<item>
 <title>UK Home Office waved through border system without a working fix for bad data</title>
 <link>https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162</link>
 <guid isPermaLink="false">030db2775425c3b61359eedf9de93cc85efd4dafb273cde6947b38219aab4b2e</guid>
@@ -904,17 +959,6 @@
 <description>Elon Musk's Neuralink has received FDA permission to launch the first trial for its brain-computer interface.</description>
 <enclosure url="https://www.engadget.com/img/gallery/neuralink-receives-fda-approval-for-pivotal-brain-implant-trial-in-als-patients/l-intro-1795677911.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/neuralink-receives-fda-approval-for-pivotal-brain-implant-trial-in-als-patients/l-intro-1795677911.jpg" medium="image"/>
-</item>
-<item>
-<title>Elon Musk pledges to give two SpaceX shares to every child in the US</title>
-<link>https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us</link>
-<guid isPermaLink="false">8b6511b8a945cf9cfc3549e436c52968bdd2e50fe52ee993e19932973d363d51</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 26 Nov 2026 07:02:37 +0000</pubDate>
-<description>The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom Elon Musk, the world’s richest person, has pledged to give every child in the US two shares in SpaceX, the space ⁠and AI company he ​runs, worth a total of almost $18bn. In a brief post on X, the social media platform that he owns, Musk said children will receive one share from the company itself, and one from him personally. SpaceX announced earlier on Wednesday that it would ​contribute one newly issued share of its Class A common stock ‌to every currently active Trump Account, and that ‌Musk will match the number of shares it donates. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/6b1786336d92dd9924ed6029c54417bb3647a7e8/448_0_4604_3681/master/4604.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e98803cec6c8e89ad36ae43890501287" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/6b1786336d92dd9924ed6029c54417bb3647a7e8/448_0_4604_3681/master/4604.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e98803cec6c8e89ad36ae43890501287" medium="image"/>
 </item>
 <item>
 <title>India’s government ponders cradle to grave AI oversight</title>
@@ -1159,17 +1203,6 @@
 <media:content url="https://image.theregister.com/?imageId=5244266&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Amazon to start selling cars in the UK next year</title>
-<link>https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market</link>
-<guid isPermaLink="false">798ddef09ff4ec3d65bae1f88559c3d88686336222fcea99235154da13d75dd5</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 14:37:26 +0000</pubDate>
-<description>US retail giant links up with Hyundai in attempt to crack £200bn British market Amazon is planning to sell cars in the UK from early next year, in a move that threatens to disrupt the vehicle retail market. The Amazon Autos service will be launched in “early 2027”, starting with cars from the Korean manufacturer Hyundai. It will be the first time the US tech company has sold cars outside its home country. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/8d5d1a88c3c00b18cf7c9e43ce0e749b6e007d08/588_0_4375_3500/master/4375.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e5d64cae58b620bb4bcc2a199810dbc" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/8d5d1a88c3c00b18cf7c9e43ce0e749b6e007d08/588_0_4375_3500/master/4375.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e5d64cae58b620bb4bcc2a199810dbc" medium="image"/>
-</item>
-<item>
 <title>A familiar Iranian hacking group has found a new way to cause chaos</title>
 <link>https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos</link>
 <guid isPermaLink="false">0befef2fb9e7a8f26a3cb9b726d662893f831dfe39d592775524bdb3a7901495</guid>
@@ -1269,17 +1302,6 @@
 <media:content url="https://image.theregister.com/?imageId=261547&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation</title>
-<link>https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation</link>
-<guid isPermaLink="false">7266bc0301368ec693582c4edeeed0ad91421f26f731cbc370f5f4f1a9c0d096</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Wed, 25 Nov 2026 07:00:08 +0000</pubDate>
-<description>Several employees say rapid speed at which algorithms work means mistakes can happen at greater scale Meta employees have expressed concern at the company’s push to replace human moderators with artificial intelligence, claiming the technology is leading to mistakes with the potential for sweeping political consequences. The social media company, which owns Facebook and Instagram, has been experimenting with AI-driven moderation for years, first introducing it in 2017 to filter out violent extremist content. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/534fcd6f2a9a97fae39f19c96472abe6ec41e0b9/0_819_3766_3013/master/3766.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44c7b64d1ea5cf561e0fd1a4430635d8" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/534fcd6f2a9a97fae39f19c96472abe6ec41e0b9/0_819_3766_3013/master/3766.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44c7b64d1ea5cf561e0fd1a4430635d8" medium="image"/>
-</item>
-<item>
 <title>Jury finds Huawei stole US tech, laundered money, and broke sanctions</title>
 <link>https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024</link>
 <guid isPermaLink="false">07b177d5061a0f98d4b4333d1869ec81d34dcba31d84cf57f6d1eb24a01b92d7</guid>
@@ -1368,17 +1390,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GoogleWallet_72b775.jpg" medium="image"/>
 </item>
 <item>
-<title>'We are not ShinyHunters,' says criminal hacking crew that looks and acts just like ShinyHunters</title>
-<link>https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978</link>
-<guid isPermaLink="false">e89f9eccb35437b16b25e7f90911b20a49f21bd9f1e5d123eeb7f623dee05ea2</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 20:15:36 +0000</pubDate>
-<description>Inception, a new data theft and extortion gang that security researchers have theorized is a rebrand of the ShinyHunters group, “reject[s] this attribution” and claims it has no affiliation with any prior cybercrime enterprise. In a lengthy statement posted Tuesday and shared on X, the extortionists insist that they are a new group, with new operators, and that their alleged social engineering attacks aren’t copying anyone - but rather just abusing the weakest link in an organization’s security: “a human being holding a phone.” The rant follows a Monday report by Okta Threat Intelligence - along with social media speculation since Inception’s inception last week - that the newly emerged group is very likely ShinyHunters with a different name . Okta’s researchers based their analysis on the two groups’ shared infrastructure, plus Inception’s nearly identical tactics: voice phishing , during which the scammers trick targets into entering credentials into phishing pages and approving multi-factor authentication (MFA) requests. Inception apparently took offense to this. “We would like to address this once, clearly, and only once,” the crims' statement says. “We are not ShinyHunters. We were never ShinyHunters. We are Inception.” The gang argues that its overlapping domain registrars, hosting providers, and DNS services don’t prove anything. These are commodity services, “available to anyone who can pay for them,” Inception wrote. Plus, their similar methodologies don't necessarily make Inception a reboot. “That is not theft of tradecraft,” they wrote. “It is acknowledgment of a good idea – the same way every group after LockBit used a leak site, and nobody called them LockBit.” “Inception is a new group, with new operators, our own objectives, and our own name,” the statement continues. “What we share with the past is plumbing.” To be fair, the new crime crew has every reason to distance itself from ShinyHunters. That gang’s September FBI hack - plus several earlier digital heists during which the criminals stole information belonging to millions of people, including cancer patients , university and K-12 students - put a massive target on its collective backs. And while at least three ShinyHunters suspects were arrested in September and October, there's no confirmation that authorities have dismantled the entire operation. Plus, as a ShinyHunters spokesperson told The Register in an earlier interview, they and others in the crew started off as GnosticPlayers before rebranding as ShinyHunters in 2020 - so a reboot isn’t beyond the realm of possibility. Inception, for its part, says it “will not comment further on the ghost of ShinyHunters,” and it has its own work to do. And by work, it means copying ShinyHunters' playbook, stealing corporate data, and extorting victim companies for massive sums of money.®</description>
-<enclosure url="https://image.theregister.com/?imageId=222661&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=222661&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>This hidden iOS 27 feature ensures you’ll never sleep through an alarm again</title>
 <link>https://www.zdnet.com/tech/iphone-hidden-alarm-volume-ios-27</link>
 <guid isPermaLink="false">b2c223f056f3bad1197a741f30a629425a02173edd37959c612613f5e92b895b</guid>
@@ -1388,17 +1399,6 @@
 <description>Say goodbye to accidentally silencing your alarms.</description>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/4b53d313-b3d5-48a2-b812-ffe468e67652.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/4b53d313-b3d5-48a2-b812-ffe468e67652.jpg" medium="image"/>
-</item>
-<item>
-<title>Arm strongarms site that hosts ad-free documentation and it may disappear</title>
-<link>https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925</link>
-<guid isPermaLink="false">3d3f48ee8e6d9da9b4ad293a78b2e71dbc58e5affe28b9831d8de00cf27c8451</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 17:57:41 +0000</pubDate>
-<description>Arm is swinging the hammer at an enthusiast’s site hosting a bloat-free version of its instruction reference documentation, demanding it be taken offline after several years of availability. The demand from Arm lawyers to Jon Palmisciano concern Jon’s Arm Reference , a site that provides the same arm Instruction Set Architecture (ISA) info available on Arm’s site, but with what Palmisciano describes as “without a million popups and all of the bloat” that Arm provides on its own. According to Palmisciano, his copy of the Arm ISA was culled from machine-readable XML files and stripped of the bloat. He built his version in 2022 with new CSS on top of it, and the addition of a quick search feature that, according to his comments on Hacker News, isn’t available in the official version. “The aim has always been to make it the most comfortable and bullshit-free browsing experience for people who need these docs daily,” Palmisciano wrote in HN. Based on the responses the site seems to have plenty of fans. That doesn’t matter to Arm, though: As far as the lawyers are concerned, Palmisciano’s site is a copyright violation due to its use of Arm trademarks and inclusion of copyrighted reference material for the Armv9-A and Armv9-A architecture. Arm doesn’t care if Palmisciano’s project is well intentioned or for the benefit of the many software developers that write code for its chipsets, either: They want it offline by December 4 – 10 days from the publication of this story – or else. As for what is going to happen, it seems like Jon’s Arm Reference will likely cease to exist in a little over a week – at least in its current form. “Ideally I'd love to just get permission from Arm to keep the site up, but I'm pretty pessimistic about that,” Palmisciano told us. That said, Palmisciano has “already seen a few archives and mirrors already.” The HN thread discussing the takedown order includes links to several versions, and Palmisciano has another trick up his sleeve that he’s considering playing: Open-sourcing the software he used to build his ISA page. “I'd also consider open-sourcing my tooling so that people can (for their own private use) turn the original XML downloads from Arm into an identical site they can host locally,” Palmisciano told us. He said that he'll likely tweet about opening the tooling if he does do so. He's also considered directing the URL for Jon's Arm reference to point to the open-source tool, but Arm wants the subdomain it's hosted on removed from his site as well, so that may not happen. Arm has been in touch to defend itself as well, saying that Arm appreciates the efforts of people like Palmisciano, but that it still has to protect its brand, and documentation. "We have a responsibility to ensure Arm is the primary source of technical resources and information and to protect the Arm brand," an Arm spokesperson told us. "Striking the right balance between third parties sharing helpful peer-to-peer resources while ensuring copyrighte</description>
-<enclosure url="https://image.theregister.com/?imageId=5305665&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5305665&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness</title>
